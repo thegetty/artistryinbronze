@@ -1,6 +1,6 @@
 ---
 title: Italy
-weight: 3
+weight: 6
 ---
 The mosaics of Italy first appeared in the late second century BC under the
 influence of the Hellenistic Greek pictorial tradition, in which tiny pieces of

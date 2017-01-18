@@ -1,6 +1,6 @@
 ---
 title: Gaul
-weight: 10
+weight: 9
 ---
 The province of Gallia Narbonensis, in the southern part of Gaul (present-day
 France), was one of the earliest regions of the Roman Empire to be affected by
