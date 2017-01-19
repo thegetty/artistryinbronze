@@ -3744,7 +3744,7 @@ hr {
       visibility: visible; }
 
 .canto-cover {
-  background-image: url("/cover_bg.jpg");
+  background-image: url(/canto-catalogue/img/cover_bg.jpg);
   background-position: center center;
   background-size: cover;
   display: flex;
