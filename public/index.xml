@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cover on Canto Catalogue Demo</title>
-    <link>https://gettypubs.github.io/canto-catalogue/index.xml</link>
+    <link>/canto-catalogue/index.xml</link>
     <description>Recent content in Cover on Canto Catalogue Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://gettypubs.github.io/canto-catalogue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/canto-catalogue/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contents</title>
-      <link>https://gettypubs.github.io/canto-catalogue/contents/</link>
+      <link>/canto-catalogue/contents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/contents/</guid>
+      <guid>/canto-catalogue/contents/</guid>
       <description>&lt;ul class=&#34;canto-toc&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/catalogue/&#34;&gt;Catalogue&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/catalogue/&#34;&gt;Catalogue&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/catalogue/italy/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/catalogue/gaul/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/catalogue/italy/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/catalogue/gaul/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/canto-catalogue/about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;canto-catalogue/about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/ul&gt;
@@ -36,28 +36,28 @@
     
     <item>
       <title>Foreword</title>
-      <link>https://gettypubs.github.io/canto-catalogue/foreword/</link>
+      <link>/canto-catalogue/foreword/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/foreword/</guid>
+      <guid>/canto-catalogue/foreword/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://gettypubs.github.io/canto-catalogue/introduction/</link>
+      <link>/canto-catalogue/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/introduction/</guid>
+      <guid>/canto-catalogue/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italy</title>
-      <link>https://gettypubs.github.io/canto-catalogue/catalogue/italy/</link>
+      <link>/canto-catalogue/catalogue/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/catalogue/italy/</guid>
+      <guid>/canto-catalogue/catalogue/italy/</guid>
       <description>&lt;p&gt;The mosaics of Italy first appeared in the late second century BC under the
 influence of the Hellenistic Greek pictorial tradition, in which tiny pieces of
 irregular stone were used to create narrative themes in detailed, colorful
@@ -143,10 +143,10 @@ Laberii at Oudna.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&l
     
     <item>
       <title>Mosaic Floor with Head of Medusa</title>
-      <link>https://gettypubs.github.io/canto-catalogue/catalogue/1/</link>
+      <link>/canto-catalogue/catalogue/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/catalogue/1/</guid>
+      <guid>/canto-catalogue/catalogue/1/</guid>
       <description>
 
 &lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
@@ -192,7 +192,7 @@ Dionysos at the center of the same pattern found on the Getty mosaic and a
 
 &lt;figure class=&#34;canto-figure&#34;&gt;
   
-    &lt;img src=&#34;https://gettypubs.github.io/canto-catalogue/figures/fig01.jpg&#34; alt=&#34;Figure 1. Mosaic with Head of Medusa&#34; /&gt;
+    &lt;img src=&#34;canto-catalogue/figures/fig01.jpg&#34; alt=&#34;Figure 1. Mosaic with Head of Medusa&#34; /&gt;
   
   
   &lt;figcaption&gt;
@@ -307,10 +307,10 @@ Paul Getty Museum 2010, 220.&lt;/p&gt;
     
     <item>
       <title>Mosaic Floor with Bear Hunt</title>
-      <link>https://gettypubs.github.io/canto-catalogue/catalogue/2/</link>
+      <link>/canto-catalogue/catalogue/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/catalogue/2/</guid>
+      <guid>/canto-catalogue/catalogue/2/</guid>
       <description>
 
 &lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
@@ -528,10 +528,10 @@ D’Ambrosio 1979, 44, no. 12, fig. 33; Pagano 1983–84, 179–87, figs. 28–3
     
     <item>
       <title>Gaul</title>
-      <link>https://gettypubs.github.io/canto-catalogue/catalogue/gaul/</link>
+      <link>/canto-catalogue/catalogue/gaul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/catalogue/gaul/</guid>
+      <guid>/canto-catalogue/catalogue/gaul/</guid>
       <description>&lt;p&gt;The province of Gallia Narbonensis, in the southern part of Gaul (present-day
 France), was one of the earliest regions of the Roman Empire to be affected by
 Greek and Roman culture. Even before the Roman conquest of the late second
@@ -632,19 +632,19 @@ indicate local preferences associated with this particular area of Gaul.&lt;sup 
     
     <item>
       <title>Bibliography</title>
-      <link>https://gettypubs.github.io/canto-catalogue/bibliography/</link>
+      <link>/canto-catalogue/bibliography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/bibliography/</guid>
+      <guid>/canto-catalogue/bibliography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About this Book</title>
-      <link>https://gettypubs.github.io/canto-catalogue/about/</link>
+      <link>/canto-catalogue/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://gettypubs.github.io/canto-catalogue/about/</guid>
+      <guid>/canto-catalogue/about/</guid>
       <description></description>
     </item>
     

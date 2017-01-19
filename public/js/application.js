@@ -48,11 +48,13 @@
 
 	__webpack_require__(1);
 
-	var _jquery = __webpack_require__(2);
+	__webpack_require__(2);
+
+	var _jquery = __webpack_require__(3);
 
 	var _jquery2 = _interopRequireDefault(_jquery);
 
-	var _ui = __webpack_require__(3);
+	var _ui = __webpack_require__(4);
 
 	var _ui2 = _interopRequireDefault(_ui);
 
@@ -67,12 +69,6 @@
 
 
 	// JS Libraries (add them to package.json with `npm install [library]`)
-	//
-	(0, _jquery2.default)(document).ready(function () {
-	  var pageUI = new _ui2.default();
-	});
-
-	// JS Modules (create these in the /source/js/ folder of this theme)
 	//
 	// Application JS
 	//
@@ -89,6 +85,12 @@
 
 	// Stylesheets
 	//
+	(0, _jquery2.default)(document).ready(function () {
+	  var pageUI = new _ui2.default();
+	});
+
+	// JS Modules (create these in the /source/js/ folder of this theme)
+	//
 
 /***/ },
 /* 1 */
@@ -98,6 +100,12 @@
 
 /***/ },
 /* 2 */
+/***/ function(module, exports) {
+
+	// removed by extract-text-webpack-plugin
+
+/***/ },
+/* 3 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
@@ -10323,7 +10331,7 @@
 
 
 /***/ },
-/* 3 */
+/* 4 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function($) {'use strict';
@@ -10442,7 +10450,7 @@
 	}();
 
 	exports.default = CantoUI;
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)))
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(3)))
 
 /***/ }
 /******/ ]);
