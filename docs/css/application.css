@@ -362,79 +362,79 @@ html {
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-light.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-light.woff2) format("woff2"), url(/fonts/merriweather-light.woff) format("woff"), url(/fonts/merriweather-light.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-light.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-light.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-light.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-light.ttf) format("truetype");
   font-style: normal;
   font-weight: 300; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-lightitalic.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-lightitalic.woff2) format("woff2"), url(/fonts/merriweather-lightitalic.woff) format("woff"), url(/fonts/merriweather-lightitalic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-lightitalic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-lightitalic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-lightitalic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-lightitalic.ttf) format("truetype");
   font-style: italic;
   font-weight: 300; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-regular.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-regular.woff2) format("woff2"), url(/fonts/merriweather-regular.woff) format("woff"), url(/fonts/merriweather-regular.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-regular.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-regular.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-regular.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-regular.ttf) format("truetype");
   font-style: normal;
   font-weight: 400; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-italic.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-italic.woff2) format("woff2"), url(/fonts/merriweather-italic.woff) format("woff"), url(/fonts/merriweather-italic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-italic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-italic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-italic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-italic.ttf) format("truetype");
   font-style: italic;
   font-weight: 400; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-bold.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-bold.woff2) format("woff2"), url(/fonts/merriweather-bold.woff) format("woff"), url(/fonts/merriweather-bold.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bold.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bold.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bold.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bold.ttf) format("truetype");
   font-style: normal;
   font-weight: 700; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-bolditalic.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-bolditalic.woff2) format("woff2"), url(/fonts/merriweather-bolditalic.woff) format("woff"), url(/fonts/merriweather-bolditalic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.ttf) format("truetype");
   font-style: italic;
   font-weight: 700; }
 
 @font-face {
   font-family: "Merriweather";
-  src: url(/fonts/merriweather-bolditalic.eot?#iefix) format("embedded-opentype"), url(/fonts/merriweather-bolditalic.woff2) format("woff2"), url(/fonts/merriweather-bolditalic.woff) format("woff"), url(/fonts/merriweather-bolditalic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/merriweather-bolditalic.ttf) format("truetype");
   font-style: italic;
   font-weight: 700; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-Light.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-Light.woff2) format("woff2"), url(/fonts/Lato-Light.woff) format("woff"), url(/fonts/Lato-Light.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Light.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Light.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Light.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Light.ttf) format("truetype");
   font-style: normal;
   font-weight: 300; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-LightItalic.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-LightItalic.woff2) format("woff2"), url(/fonts/Lato-LightItalic.woff) format("woff"), url(/fonts/Lato-LightItalic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-LightItalic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-LightItalic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-LightItalic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-LightItalic.ttf) format("truetype");
   font-style: italic;
   font-weight: 300; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-Regular.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-Regular.woff2) format("woff2"), url(/fonts/Lato-Regular.woff) format("woff"), url(/fonts/Lato-Regular.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Regular.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Regular.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Regular.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Regular.ttf) format("truetype");
   font-style: normal;
   font-weight: 400; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-Italic.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-Italic.woff2) format("woff2"), url(/fonts/Lato-Italic.woff) format("woff"), url(/fonts/Lato-Italic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Italic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Italic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Italic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Italic.ttf) format("truetype");
   font-style: italic;
   font-weight: 400; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-Bold.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-Bold.woff2) format("woff2"), url(/fonts/Lato-Bold.woff) format("woff"), url(/fonts/Lato-Bold.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Bold.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Bold.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Bold.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-Bold.ttf) format("truetype");
   font-style: normal;
   font-weight: 700; }
 
 @font-face {
   font-family: "Lato";
-  src: url(/fonts/Lato-BoldItalic.eot?#iefix) format("embedded-opentype"), url(/fonts/Lato-BoldItalic.woff2) format("woff2"), url(/fonts/Lato-BoldItalic.woff) format("woff"), url(/fonts/Lato-BoldItalic.ttf) format("truetype");
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-BoldItalic.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-BoldItalic.woff2) format("woff2"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-BoldItalic.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/Lato-BoldItalic.ttf) format("truetype");
   font-style: italic;
   font-weight: 700; }
 
@@ -451,7 +451,7 @@ html {
 */
 @font-face {
   font-family: "Ionicons";
-  src: url(/fonts/ionicons.eot?#iefix) format("embedded-opentype"), url(/fonts/ionicons.woff) format("woff"), url(/fonts/ionicons.ttf) format("truetype"), url(/fonts/ionicons.svg#Ionicons) format("svg"); }
+  src: url(https://gettypubs.github.io/canto-catalogue/fonts/ionicons.eot?#iefix) format("embedded-opentype"), url(https://gettypubs.github.io/canto-catalogue/fonts/ionicons.woff) format("woff"), url(https://gettypubs.github.io/canto-catalogue/fonts/ionicons.ttf) format("truetype"), url(https://gettypubs.github.io/canto-catalogue/fonts/ionicons.svg#Ionicons) format("svg"); }
 
 .ion, .ionicons,
 .ion-alert:before,
@@ -3744,7 +3744,7 @@ hr {
       visibility: visible; }
 
 .canto-cover {
-  background-image: url("/cover_bg.jpg");
+  background-image: url("https://gettypubs.github.io/canto-catalogue/cover_bg.jpg");
   background-position: center center;
   background-size: cover;
   display: flex;
