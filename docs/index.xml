@@ -16,17 +16,17 @@
       <guid>/canto-catalogue/contents/</guid>
       <description>&lt;ul class=&#34;canto-toc&#34;&gt;
   &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/catalogue/&#34;&gt;Catalogue&lt;/a&gt;
+&lt;li&gt;&lt;a href=&#34;./&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./catalogue/&#34;&gt;Catalogue&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/catalogue/italy/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/catalogue/gaul/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./catalogue/italy/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./catalogue/gaul/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/canto-catalogue/about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/ul&gt;
@@ -192,7 +192,7 @@ Dionysos at the center of the same pattern found on the Getty mosaic and a
 
 &lt;figure class=&#34;canto-figure&#34;&gt;
   
-    &lt;img src=&#34;/canto-catalogue/figures/fig01.jpg&#34; alt=&#34;Figure 1. Mosaic with Head of Medusa&#34; /&gt;
+    &lt;img src=&#34;./figures/fig01.jpg&#34; alt=&#34;Figure 1. Mosaic with Head of Medusa&#34; /&gt;
   
   
   &lt;figcaption&gt;
