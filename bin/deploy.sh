@@ -1,29 +1,24 @@
-#!/bin/sh
+#!/bin/bash
+
+# Change this if you change the output folder in config.yml
+BUILD_DIR="public"
 
 DIR=$(dirname "$0")
-
 cd $DIR/..
 
-if [[ $(git status -s) ]]
-then
-    echo "The working directory is dirty. Please commit any pending changes."
-    exit 1;
-fi
+# if [[ $(git status -s) ]]
+# then
+#     echo "The working directory is dirty. Please commit any pending changes."
+#     exit 1;
+# fi
 
 echo "Deleting old publication"
-rm -rf public
-mkdir public
-git worktree prune
-rm -rf .git/worktrees/public/
-
-echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public origin/gh-pages
-
-echo "Removing existing files"
-rm -rf public/*
+rm -rf $BUILD_DIR
+mkdir $BUILD_DIR
 
 echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+git add $BUILD_DIR && git commit -m "Automated deploy at $(date)."
+git subtree push --prefix $BUILD_DIR origin gh-pages
