@@ -14,7 +14,7 @@ languageCode: "en-us"
 theme: "canto-catalogue-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
-publishDir: "docs"
+# publishDir: "docs"
 # canonifyURLs: true
 # relativeURLs: true
 
