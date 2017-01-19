@@ -8,12 +8,13 @@
 # copied the default theme and given it a different name make sure to update the
 # value here too.
 #
-baseurl: "http://replace-this-with-your-hugo-site.com/"
+baseurl: "https://gettypubs.github.io/canto-catalogue/"
 title: "Canto Example Site"
 languageCode: "en-us"
 theme: "canto-catalogue-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
+publishDir: "docs"
 
 # Menu: the 'main' menu will be picked up in the sidebar navigation menu in the
 # default theme. Other menus can be defined here as well for use with custom
