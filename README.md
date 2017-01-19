@@ -7,8 +7,8 @@ to kick off development of a digital art catalogue or similar publication.
 ## About Hugo
 
 Hugo is a static-site-generator written in Go. It's free and open-source. You'll
-need to install it before you can use this kit (`brew install hugo`) if you're
-on a Mac and using Homebrew. For more information about installing or using
+need to install it before you can use this kit (`brew install hugo` if you're
+on a Mac and using Homebrew). For more information about installing or using
 Hugo, visit [https://gohugo.io](https://gohugo.io/).
 
 ## Getting Started
