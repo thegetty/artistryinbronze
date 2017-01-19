@@ -1,6 +1,0 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
-title = "Canto Example Site"
-languageCode = "en-us"
-theme = "canto-catalogue-theme"
-footnoteReturnLinkContents = "↩"
-metaDataFormat = "yaml"
