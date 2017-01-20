@@ -15,7 +15,7 @@
 # If your baseURL only has a host-name ("http://my-awesome-site.com/") then
 # you'll preview it at localhost:1313.
 #
-baseurl: "https://gettypubs.github.io/canto-catalogue/"
+baseurl: "https://gettypubs.github.io/canto-catalogue"
 
 title: "Canto Catalogue Demo"
 languageCode: "en-us"
