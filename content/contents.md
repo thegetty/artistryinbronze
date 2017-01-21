@@ -3,7 +3,7 @@ title: Contents
 weight: 2
 type: contents
 ---
-{{% canto-toc %}}
+{{% quire-toc %}}
 - [Cover](/)
 - [Foreword](/foreword/)
 - [Introduction](/introduction/)
@@ -12,4 +12,4 @@ type: contents
   - [Gaul (3-4)](/catalogue/gaul/)
 - [Bibliography](/bibliography/)
 - [About](/about/)
-{{% /canto-toc %}}
+{{% /quire-toc %}}

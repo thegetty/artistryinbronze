@@ -34,7 +34,7 @@
 /******/ 	__webpack_require__.c = installedModules;
 
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/canto-catalogue/";
+/******/ 	__webpack_require__.p = "/quire-catalogue/";
 
 /******/ 	// Load entry module and return exports
 /******/ 	return __webpack_require__(0);
@@ -10336,21 +10336,21 @@
 
 	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
-	// CantoUI Class
+	// QuireUI Class
 	//
 	// Provides basic functionality for the interface on each HTML page. Custom
 	// functions should be defined as methods within this class. The setup()
 	// function which runs whenever a new UI instance is created can house event
 	// listeners, run one-time functions that modify page content, etc.
 	//
-	var CantoUI = function () {
-	  function CantoUI() {
-	    _classCallCheck(this, CantoUI);
+	var QuireUI = function () {
+	  function QuireUI() {
+	    _classCallCheck(this, QuireUI);
 
 	    this.setup();
 	  }
 
-	  _createClass(CantoUI, [{
+	  _createClass(QuireUI, [{
 	    key: 'setup',
 	    value: function setup() {
 	      var _this = this;
@@ -10438,10 +10438,10 @@
 	    }
 	  }]);
 
-	  return CantoUI;
+	  return QuireUI;
 	}();
 
-	exports.default = CantoUI;
+	exports.default = QuireUI;
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(2)))
 
 /***/ }

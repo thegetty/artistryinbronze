@@ -1,6 +1,6 @@
-# Canto Catalogue Starter Kit
+# Quire Catalogue Starter Kit
 
-This repository contains a starter Hugo site for use with the **Canto** project
+This repository contains a starter Hugo site for use with the **Quire** project
 (a suite of digital publishing tools from Getty Publications). Use this kit
 to kick off development of a digital art catalogue or similar publication.
 
@@ -15,7 +15,7 @@ Hugo, visit [https://gohugo.io](https://gohugo.io/).
 
 Clone this repository into your working directory:
 ```
-git clone https://github.com/gettypubs/canto-catalogue.git your-project-folder
+git clone https://github.com/gettypubs/quire-catalogue.git your-project-folder
 cd your-project-folder
 git remote rm origin
 git remote add origin your-git-url
@@ -39,7 +39,7 @@ hugo server
 (Optional) Run `webpack` in the theme subfolder if you want to customize
 CSS or Javascript:
 ```
-cd themes/canto-catalogue-theme
+cd themes/quire-catalogue-theme
 ./node_modules/.bin/webpack --output-public-path="path-from-your-baseurl-if-any" --watch
 ```
 

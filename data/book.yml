@@ -1,7 +1,7 @@
 # Book.yml Data File
 #
 # This file houses the bibliographic info and general metadata for the digital
-# publication. New fields can be added arbitrarily, but the Canto themes will
+# publication. New fields can be added arbitrarily, but the Quire themes will
 # expect this file to follow the general structure shown here. Templates can
 # access values stored in this file in the following way:
 #
@@ -11,13 +11,13 @@ title:
   # title.main and title.subtitle appear on the cover page.
   # title.short appears in the navbar on the top of each page.
   main: Catalogue Template
-  subtitle: A theme from the Canto project
+  subtitle: A theme from the Quire project
   edition: # First, revised, etc.
   short: Catalogue Template
 pub_date: 2017-01-01
 creators:
   # Add as many creators as desired here; each one should begin with a dash.
-  # The Canto themes will assume the first item in the creators array is the
+  # The Quire themes will assume the first item in the creators array is the
   # primary author.
   #
   # Multiple contributors can be added in the same fashion.

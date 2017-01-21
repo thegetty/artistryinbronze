@@ -9,17 +9,17 @@
 
 # BaseURL: this should include the Hostname and Path (if any) where the site
 # will live when it is built. If your baseurl includes a path component
-# (i.e. "/canto-catalogue/" in the example below) then you can preview the
-# site at localhost:1313/canto-catalogue/ when running the server.
+# (i.e. "/quire-catalogue/" in the example below) then you can preview the
+# site at localhost:1313/quire-catalogue/ when running the server.
 #
 # If your baseURL only has a host-name ("http://my-awesome-site.com/") then
 # you'll preview it at localhost:1313.
 #
-baseurl: "https://gettypubs.github.io/canto-catalogue"
+baseurl: "https://gettypubs.github.io/quire-catalogue"
 
-title: "Canto Catalogue Demo"
+title: "Quire Catalogue Demo"
 languageCode: "en-us"
-theme: "canto-catalogue-theme"
+theme: "quire-catalogue-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 canonifyURLs: true
