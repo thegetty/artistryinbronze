@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/</loc>
   </url>
   
   <url>
-    <loc>/contents/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/contents/</loc>
   </url>
   
   <url>
-    <loc>/foreword/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/foreword/</loc>
   </url>
   
   <url>
-    <loc>/introduction/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/introduction/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/catalogue/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/italy/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/catalogue/italy/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/1/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/catalogue/1/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/2/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/catalogue/2/</loc>
   </url>
   
   <url>
-    <loc>/catalogue/gaul/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/catalogue/gaul/</loc>
   </url>
   
   <url>
-    <loc>/bibliography/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/bibliography/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://gettypubs.github.io/quire-catalogue/about/</loc>
   </url>
   
 </urlset>

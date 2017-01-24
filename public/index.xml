@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cover on Quire Catalogue Demo</title>
-    <link>/index.xml</link>
+    <link>https://gettypubs.github.io/quire-catalogue/index.xml</link>
     <description>Recent content in Cover on Quire Catalogue Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gettypubs.github.io/quire-catalogue/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contents</title>
-      <link>/contents/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/contents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contents/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/contents/</guid>
       <description>&lt;ul class=&#34;quire-toc&#34;&gt;
   &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;./&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;./catalogue/&#34;&gt;Catalogue&lt;/a&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;./catalogue/gaul/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./catalogue/italy/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/catalogue/gaul/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/catalogue/italy/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gettypubs.github.io/quire-catalogue/about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;/ul&gt;
@@ -36,28 +36,28 @@
     
     <item>
       <title>Foreword</title>
-      <link>/foreword/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/foreword/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/foreword/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/foreword/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/introduction/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/introduction/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Italy</title>
-      <link>/catalogue/italy/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/catalogue/italy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/italy/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/catalogue/italy/</guid>
       <description>&lt;p&gt;The mosaics of Italy first appeared in the late second century BC under the
 influence of the Hellenistic Greek pictorial tradition, in which tiny pieces of
 irregular stone were used to create narrative themes in detailed, colorful
@@ -143,10 +143,10 @@ Laberii at Oudna.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&l
     
     <item>
       <title>Mosaic Floor with Head of Medusa</title>
-      <link>/catalogue/1/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/catalogue/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/1/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/catalogue/1/</guid>
       <description>
 
 &lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
@@ -307,10 +307,10 @@ Paul Getty Museum 2010, 220.&lt;/p&gt;
     
     <item>
       <title>Mosaic Floor with Bear Hunt</title>
-      <link>/catalogue/2/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/catalogue/2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/2/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/catalogue/2/</guid>
       <description>
 
 &lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
@@ -528,10 +528,10 @@ D’Ambrosio 1979, 44, no. 12, fig. 33; Pagano 1983–84, 179–87, figs. 28–3
     
     <item>
       <title>Gaul</title>
-      <link>/catalogue/gaul/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/catalogue/gaul/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/gaul/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/catalogue/gaul/</guid>
       <description>&lt;p&gt;The province of Gallia Narbonensis, in the southern part of Gaul (present-day
 France), was one of the earliest regions of the Roman Empire to be affected by
 Greek and Roman culture. Even before the Roman conquest of the late second
@@ -632,19 +632,19 @@ indicate local preferences associated with this particular area of Gaul.&lt;sup 
     
     <item>
       <title>Bibliography</title>
-      <link>/bibliography/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/bibliography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bibliography/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/bibliography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About this Book</title>
-      <link>/about/</link>
+      <link>https://gettypubs.github.io/quire-catalogue/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://gettypubs.github.io/quire-catalogue/about/</guid>
       <description></description>
     </item>
     
