@@ -5,11 +5,11 @@ type: contents
 ---
 {{% quire-toc %}}
 - [Cover](/)
-- [Foreword](/foreword/)
-- [Introduction](/introduction/)
+- [Foreword]({{< ref "foreword.md" >}})
+- [Introduction]({{< ref "introduction.md" >}})
 - [Catalogue](/catalogue/)
-  - [Italy (1-2)](/catalogue/italy/)
-  - [Gaul (3-4)](/catalogue/gaul/)
-- [Bibliography](/bibliography/)
-- [About](/about/)
+  - [Italy (1-2)]({{< ref "catalogue/gaul.md" >}})
+  - [Gaul (3-4)]({{< ref "catalogue/italy.md" >}})
+- [Bibliography]({{< ref "bibliography.md" >}})
+- [About]({{< ref "about.md" >}})
 {{% /quire-toc %}}

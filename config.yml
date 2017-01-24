@@ -7,22 +7,19 @@
 # you've copied the default theme and given it a different name make sure to
 # update the value here too.
 
-# BaseURL: this should include the Hostname and Path (if any) where the site
-# will live when it is built. If your baseurl includes a path component
-# (i.e. "/quire-catalogue/" in the example below) then you can preview the
-# site at localhost:1313/quire-catalogue/ when running the server.
-#
-# If your baseURL only has a host-name ("http://my-awesome-site.com/") then
-# you'll preview it at localhost:1313.
-#
-baseurl: "https://gettypubs.github.io/quire-catalogue"
+# Use these settings for serving/building to a path other than root
+# baseurl: "https://gettypubs.github.io/quire-catalogue"
+# canonifyURLs: true
+
+# Use these settings for serving/building to the root path
+baseurl: ""
+relativeURLs: true
 
 title: "Quire Catalogue Demo"
 languageCode: "en-us"
 theme: "quire-catalogue-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
-canonifyURLs: true
 
 # Menu: the 'main' menu will be picked up in the sidebar navigation menu in the
 # default theme. Other menus can be defined here as well for use with custom
