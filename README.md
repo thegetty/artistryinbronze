@@ -10,7 +10,7 @@ to kick off development of a digital art catalogue or similar publication.
 - **Git** (and optionally, a GitHub account)
 - A text editor ([Atom](https://atom.io/) is free and has many helpful features)
 
-If you're using a Mac, we recommend that you use [homebrew](brew.sh) to install
+If you're using a Mac, we recommend that you use [homebrew](http://brew.sh) to install
 Hugo and Node, and [GitHub Desktop](https://desktop.github.com/) if you are
 unfamiliar with the `git` command-line interface.
 
