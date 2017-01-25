@@ -1,6 +1,7 @@
 ---
 title: Catalogue
 weight: 5
+type: page
 ---
 {{% quire-toc %}}
 - [Italy](/catalogue/italy/)
