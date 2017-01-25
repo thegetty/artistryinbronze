@@ -24,4 +24,4 @@ fi
 cd "themes/$THEME" && npm install
 
 # Confirmation message
-echo "Theme successfully installed. Run bin/dev to view local changes."
+echo "Theme successfully installed. Type npm run preview to view local changes."

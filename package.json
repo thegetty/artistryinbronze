@@ -1,0 +1,27 @@
+{
+  "name": "quire-catalogue",
+  "version": "0.0.1",
+  "description": "This repository contains a starter Hugo site for use with the **Quire** project (a suite of digital publishing tools from Getty Publications). Use this kit to kick off development of a digital art catalogue or similar publication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules/.bin/gulp build",
+    "preview": "node_modules/.bin/gulp dev",
+    "deploy": "bin/deploy.sh",
+    "setup": "bin/setup.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gettypubs/quire-catalogue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gettypubs/quire-catalogue/issues"
+  },
+  "homepage": "https://github.com/gettypubs/quire-catalogue#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1"
+  }
+}
