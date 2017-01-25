@@ -4,6 +4,19 @@ This repository contains a starter Hugo site for use with the **Quire** project
 (a suite of digital publishing tools from Getty Publications). Use this kit
 to kick off development of a digital art catalogue or similar publication.
 
+## What you need to get started
+- **Hugo** static site generator
+- **Node.js** (latest LTS version or newer) & npm (comes with Node automatically)
+- **Git** (and optionally, a GitHub account)
+- A text editor ([Atom](https://atom.io/) is free and has many helpful features)
+
+If you're using a Mac, we recommend that you use [homebrew](brew.sh) to install
+Hugo and Node, and [GitHub Desktop](https://desktop.github.com/) if you are
+unfamiliar with the `git` command-line interface.
+
+In order to use this software, you'll also have to use a few simple commands in
+your computer's terminal.
+
 ## About Hugo
 
 Hugo is a static-site-generator written in Go. It's free and open-source. You'll
@@ -23,29 +36,20 @@ git remote add origin your-git-url
 
 Install dependencies:
 ```
-bin/setup.sh
+npm install
+npm run setup
 ```
-
-At this point you may want to change values in the `config.yml` file (for
-example, change the `baseurl` value to wherever you intend to publish the site).
 
 ## Usage
 
-Run the server to preview:
+Run the server to preview (view your files at `localhost:1313`)
 ```
-hugo server
-```
-
-(Optional) Run `webpack` in the theme subfolder if you want to customize
-CSS or Javascript:
-```
-cd themes/quire-catalogue-theme
-./node_modules/.bin/webpack --output-public-path="path-from-your-baseurl-if-any" --watch
+npm run preview
 ```
 
-Build the static site when ready:
+Build the static site when ready (builds to `public/`)
 ```
-hugo
+npm run build
 ```
 
 (Optional) Deploy to Github Pages:
