@@ -3,7 +3,7 @@ title: Italy
 weight: 6
 type: page
 ---
-{{< quire-map lat="40.51" long="17.19" geojson="sample">}}
+{{< quire-map lat="40.51" long="17.19" geojson="sample-geojson">}}
 
 The mosaics of Italy first appeared in the late second century BC under the
 influence of the Hellenistic Greek pictorial tradition, in which tiny pieces of

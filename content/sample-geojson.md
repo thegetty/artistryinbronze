@@ -1,6 +1,5 @@
 ---
-url: sample.json
+url: sample-geojson.json
 type: geojson
 source: sample
-weight: false
 ---

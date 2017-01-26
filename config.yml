@@ -21,6 +21,10 @@ theme: "quire-catalogue-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
+# These values can be accessed in templates via .Site.Params
+params:
+  searchEnabled: true
+
 # Menu: the 'main' menu will be picked up in the sidebar navigation menu in the
 # default theme. Other menus can be defined here as well for use with custom
 # theme files. To control order, give items a weight; lower numbers will appear

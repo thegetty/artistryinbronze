@@ -45,4 +45,12 @@
     <loc>/about/</loc>
   </url>
   
+  <url>
+    <loc>sample.json</loc>
+  </url>
+  
+  <url>
+    <loc>search.json</loc>
+  </url>
+  
 </urlset>
