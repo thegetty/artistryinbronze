@@ -19,7 +19,7 @@
     class=&#34;quire-map inset&#34;
     data-lat=&#34;40.51&#34;
     data-long=&#34;17.19&#34;
-    data-geojson=&#34;sample&#34; &gt;
+    data-geojson=&#34;sample-geojson&#34; &gt;
 &lt;/div&gt;
 
 

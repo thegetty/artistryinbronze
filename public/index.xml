@@ -63,7 +63,7 @@
     class=&#34;quire-map inset&#34;
     data-lat=&#34;40.51&#34;
     data-long=&#34;17.19&#34;
-    data-geojson=&#34;sample&#34; &gt;
+    data-geojson=&#34;sample-geojson&#34; &gt;
 &lt;/div&gt;
 
 
@@ -659,10 +659,10 @@ indicate local preferences associated with this particular area of Gaul.&lt;sup 
     
     <item>
       <title></title>
-      <link>sample.json</link>
+      <link>sample-geojson.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sample.json</guid>
+      <guid>sample-geojson.json</guid>
       <description></description>
     </item>
     

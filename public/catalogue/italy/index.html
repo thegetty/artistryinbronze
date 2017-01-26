@@ -15,8 +15,13 @@
   </head>
   <body>
 
-<nav class="quire-navbar">
+<nav id="js-navbar" class="quire-navbar">
   <div class="quire-navbar__left">
+    
+    
+    <a id="js-search" href="javascript:void(0);">
+      <i class="quire-navbar__search-icon"></i>
+    </a>
     
   </div>
 
@@ -57,7 +62,34 @@
       <i class="quire-navbar__menu-icon"></i>
     </a>
   </div>
+
+  <div class="quire-navbar__search-input">
+    <input id="js-search-input"
+           class="quire-navbar__search-input__search-field"
+           name="search"
+           type="text"
+           placeholder="search"
+           value=""/>
+  </div>
+
+  <div class="quire-navbar__search-close">
+    <a id="js-search-close" href="javascript:void(0);">
+      <i class="quire-navbar__search-close-icon"></i>
+    </a>
+  </div>
 </nav>
+
+<div id="js-search-results" class="quire-search-results">
+  <div class="quire-search-results__inner">
+    <ul id="js-search-results-list" class="quire-search-results__inner__list">
+    </ul>
+  </div>
+  <template id="js-search-results-template">
+    <li class="quire-search-results__inner__list__item">
+      <a class="quire-search-results__inner__list__item__link js-search-results-item-title" href=""></a>
+    </li>
+  </template>
+</div>
 
 <div id="js-menu" class="quire-menu">
   <div class="quire-menu__mobile-close">
@@ -114,7 +146,7 @@
     class="quire-map inset"
     data-lat="40.51"
     data-long="17.19"
-    data-geojson="sample" >
+    data-geojson="sample-geojson" >
 </div>
 
 
