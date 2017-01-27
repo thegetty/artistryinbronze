@@ -10348,6 +10348,7 @@
 	// listeners, run one-time functions that modify page content, etc.
 	//
 
+
 	var _leaflet = __webpack_require__(5);
 
 	var _leaflet2 = _interopRequireDefault(_leaflet);
@@ -10426,8 +10427,10 @@
 	      // Search-specific code
 	      var debouncedSearch = (0, _lodash2.default)(this.searchQuery, 50);
 	      var boundDebounce = debouncedSearch.bind(this);
-	      $searchInput.keydown(function () {
+	      $searchInput.keypress(function () {
 	        boundDebounce();
+	        // Force repaint for webkit
+	        $('<style></style>').appendTo($(document.body)).remove();
 	      });
 	    }
 	  }, {

@@ -4243,6 +4243,12 @@ hr {
 .no-scroll {
   overflow: hidden; }
 
+:target:before {
+  content: "";
+  display: inline-block;
+  height: 75px;
+  margin: -75px 0 0; }
+
 .quire-navbar {
   background-color: #fff;
   border-bottom: 1px solid #ddd;
