@@ -4339,7 +4339,7 @@ hr {
   transform: translateX(-100%);
   transition: all 0.1s ease-in-out;
   width: 100%;
-  z-index: 1300; }
+  z-index: 1400; }
   .quire-menu a {
     color: #f2f2f2; }
     .quire-menu a:active, .quire-menu a:focus, .quire-menu a:hover {
@@ -4404,7 +4404,7 @@ hr {
     transition: all 0.1s ease-in-out;
     visibility: hidden;
     width: 100vw;
-    z-index: 1100; }
+    z-index: 1300; }
     .quire-menu__curtain.is-visible {
       opacity: 0.5;
       visibility: visible; }
@@ -4455,6 +4455,8 @@ hr {
   @media screen and (min-width: 900px) {
     .quire-deepzoom {
       height: 800px; } }
+  .quire-deepzoom.inset {
+    height: 500px; }
 
 .quire-tombstone {
   font-size: 0.8em;
