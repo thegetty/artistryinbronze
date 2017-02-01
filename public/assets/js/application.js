@@ -30354,7 +30354,7 @@
 	    this.el = 'js-deepzoom';
 	    this.ctr = [0, 0];
 	    this.zoom = 0;
-	    this.manifest = 'https://atlas.getty.edu/api/iiif/6576/manifest.json';
+	    this.manifest = 'http://atlas.getty.edu/api/iiif/6576/manifest.json';
 
 	    this.setup();
 	    this.addTiles();
