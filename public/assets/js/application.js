@@ -30354,7 +30354,8 @@
 	    this.el = 'js-deepzoom';
 	    this.ctr = [0, 0];
 	    this.zoom = 0;
-	    this.manifest = 'http://atlas.getty.edu/api/iiif/6576/manifest.json';
+	    this.endpoint = 'http://atlas.getty.edu/api/iiif/';
+	    this.objectID = $('#' + this.el).data('object-id');
 
 	    this.setup();
 	    this.addTiles();
@@ -30374,18 +30375,27 @@
 	    value: function addTiles() {
 	      var _this = this;
 
-	      $.getJSON(this.manifest, function (data) {
-	        // For each image create a L.TileLayer.Iiif object and add that to an object literal for the layer control
+	      var url = '' + this.endpoint + this.objectID + '/manifest.json';
+	      $.getJSON(url, function (data) {
+
+	        // Add a description for accessibility
+	        _this.addAriaLabel(data.label);
+
+	        // Create a series of IIIF layers
 	        var iiifLayers = {};
 	        $.each(data.sequences[0].canvases, function (_, val) {
 	          iiifLayers[val.label] = _leaflet2.default.tileLayer.iiif(val.images[0].resource.service['@id'] + '/info.json');
 	        });
-	        // Add layers control to the map
+
 	        _leaflet2.default.control.layers(iiifLayers).addTo(_this.map);
 
-	        // Access the first Iiif object and add it to the map
 	        iiifLayers[Object.keys(iiifLayers)[0]].addTo(_this.map);
 	      });
+	    }
+	  }, {
+	    key: 'addAriaLabel',
+	    value: function addAriaLabel(labelText) {
+	      $('#' + this.el).attr('aria-describedby', labelText);
 	    }
 	  }]);
 

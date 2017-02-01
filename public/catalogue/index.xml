@@ -114,7 +114,13 @@ Laberii at Oudna.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&l
       <guid>/catalogue/1/</guid>
       <description>
 
-&lt;div class=&#34;quire-deepzoom inset&#34; id=&#34;js-deepzoom&#34;&gt;
+&lt;div id=&#34;js-deepzoom&#34;
+     class=&#34;quire-deepzoom inset&#34;
+     aria-live=&#34;polite&#34;
+     role=&#34;application&#34;
+     aria-label=&#34;Zoomable image&#34;
+     aria-describedby=&#34;&#34;
+     data-object-id=&#34;6576&#34; &gt;
 &lt;/div&gt;
 
 
@@ -281,6 +287,16 @@ Paul Getty Museum 2010, 220.&lt;/p&gt;
       
       <guid>/catalogue/2/</guid>
       <description>
+
+&lt;div id=&#34;js-deepzoom&#34;
+     class=&#34;quire-deepzoom inset&#34;
+     aria-live=&#34;polite&#34;
+     role=&#34;application&#34;
+     aria-label=&#34;Zoomable image&#34;
+     aria-describedby=&#34;&#34;
+     data-object-id=&#34;6916&#34; &gt;
+&lt;/div&gt;
+
 
 &lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
 
