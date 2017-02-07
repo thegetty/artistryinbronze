@@ -1,5 +1,74 @@
 ---
 title: Introduction
-weight: 4
-type: frontmatter
+layout: page
+author:
+ - first_name: Jens
+   last_name: Daehner
+   affiliation: J. Paul Getty Museum
+ - first_name: Kenneth
+   last_name: Lapatin
+   affiliation: J. Paul Getty Museum
+ - first_name: Ambra
+   last_name: Spinelli
+   affiliation: University of Southern California
+sort_order: 4
 ---
+
+Building on a distinguished tradition, the 19th International Congress on Ancient Bronzes convened in Los Angeles between October 13 and 17, 2015. Organized by the J. Paul Getty Museum in conjunction with the Getty Conservation Institute, this meeting of more than 150 attendees was held at the Getty Center in Brentwood and the Getty Villa in Malibu. Over 5 days, 116 presenters from 24 countries participated in 11 sessions, delivering 49 papers, 3 keynote addresses, and 1 public lecture, as well as 19 posters discussing diverse aspects of ancient bronze production and its modern reception. Contributors included archaeologists, art historians, historians, curators, conservators, scientists, philologists, and experts in cultural heritage.
+
+The Congress was timed to coincide with the Getty’s presentation of *Power and Pathos: Bronze Sculpture of the Hellenistic World*, an international loan exhibition that had previously opened at the Palazzo Strozzi in Florence in March 2015 and subsequently traveled to the National Gallery of Art in Washington, DC, closing in March 2016. The exhibition was unprecedented, bringing together rare ancient bronzes from 34 museums in 13 countries on 4 continents. Focusing on bronze as a medium of artistic innovation in the period between the death of Alexander the Great in 323 BC and the establishment of the Roman Empire in 31 BC, it explored how sculptors moved beyond Classical norms, supplementing traditional subjects and idealized forms with naturalistic renderings of physical and emotional states, dynamic compositions, dazzling displays of the nude body, and graphic expressions of age and character. Divided into six sections—images of rulers; images of gods; the representation of the human body; portraiture and expression; replication; and retrospective styles—the exhibition featured exciting new finds recovered from recent excavations on both land and sea alongside famous works known for centuries, allowing for the first time significant opportunities for comparative viewing of these extraordinary works.
+
+Many of the sculptures in the exhibition were the subject of papers presented at the Congress (and now published here), and Congress participants also took advantage of multiple visits, both formal and informal, to the Getty and other Southern California collections, as well as the exhibition itself. A special excursion was arranged to the Norton Simon Museum in Pasadena and the Huntington Library, Art Collections and Botanical Gardens in nearby San Marino.
+
+The Congress, of course, was in no way limited to the themes of the exhibition, with its emphasis on Hellenistic sculpture. As at previous meetings, aspects of technology and production, analytical work regarding casting cores, alloys, joins, and patinas—all of which have significantly advanced our understanding of materials, processes, and techniques involved in this medium—were addressed. Also treated were larger historiographical issues, such as how technical scholarship has impacted our understanding of bronzes within the wider history of ancient art. How do these technical data relate to our ideas of styles and development? How has bronze as a material affected ancient and modern perceptions of form, value, and the status of works of art?
+
+These proceedings are organized along the structure and themes of the Congress itself. For mostly pragmatic reasons and to fit the requirements of the publishing format, the sequence of sections and papers during the meeting has been somewhat modified.[^1] Where individual papers are referenced, they are identified by number.
+
+## Large-scale Bronzes
+
+With the exhibition on Hellenistic bronze sculpture installed nearby at the J. Paul Getty Museum, large-scale bronzes received particular emphasis among the papers delivered, perhaps more than in previous congresses. In this first section, several papers specifically addressed works present in the exhibition, such as the bronze athlete from Ephesos (1), the head of a man with *kausia* from Kalymnos (4), and the Apollo head from Salerno (6). Congress participants subsequently continued and deepened the discussions directly in front of the objects, often with great enthusiasm. This was particularly productive, as many of these conversations involved the very experts in whose care these works are entrusted, including archaeologists, curators, and conservators. (In fact, a significant factor for colleagues and their institutions in deciding to lend several of these extraordinary objects to the exhibition was the coincidence of the Congress with the exhibition, providing unique opportunities for an exchange of ideas among an international community of specialists.) The papers in this section ranged from the legendary Colossus of Rhodes (2), the largest of all large-scale bronzes but known only from ancient descriptions, to the latest underwater discoveries in the Aegean Sea (3)—many as yet unpublished—and the reception of Greek bronze sculpture in the twentieth century. Here, as in other sections, some papers were the results of close collaboration between art historians and conservators (1, 7), exemplifying a model of bronze scholarship pioneered in the 1990s by Carol Mattusch and Henry Lie.
+
+## The Artist
+
+Artistry being the theme of the Congress, several scholars devoted their papers to the question of artists and their workshops. A proverbial 99 per cent (if not more) of large bronzes made in antiquity are irrevocably lost, so attempts to reconstruct some of that vast majority from textual, epigraphical, or other indirect evidence are inevitable and crucial for our understanding of the genre and of ancient sculpture production as a whole. Novel approaches to this old problem include an investigation of dowel holes on statue bases as indicators of technical innovations by sculptors and craftsmen (9); a prosopographical study of statue base inscriptions aiming to trace the movement of artists and markets (12); and an analysis of how natural patinas and their color impacted ancient writers’ judgment of bronze sculptures (11). The most experimental proposal, perhaps, came from a team of researchers and engineers in Japan who used 3D-shape comparison software to examine sculpted faces and reassess attributions to one particular artist, the ever-present, ever-elusive Polykleitos (10).
+
+## Statuettes
+
+As in previous congresses, the sheer quantity and wide distribution of small-scale figures invited a large number of papers and in Los Angeles these were presented in two dedicated sessions. The inquiries, approaches, and methodologies were as wide-ranging as the material itself, including aesthetic, iconographic, contextual, and technological studies. Among them are a new interpretation of the identity of the so-called Artisan in the Metropolitan Museum, which was on view in *Power and Pathos* (15); a comparative investigation of enamel technology in Roman and Celtic miniature bronzes of enigmatic roosters (19); and a paper highlighting the phenomenon of medium-sized (i.e., large) statuettes (18), which may be a subset worthy of its own category.
+
+## The Hellenistic East
+
+As its subtitle announced, *Power and Pathos* presented bronzes from the “Hellenistic World,” which, in the wake of Alexander’s conquests, stretched far beyond the shores of the Mediterranean. Although modern geopolitical considerations precluded more than a glimpse of the large bronzes preserved from the expanded East, some of this rich material was duly covered in the exhibition catalogue. The number of Congress papers addressing bronzes in the Hellenistic East warranted a separate session. These explore bronze—and its influence on other media—from sites ranging from central Anatolia (21), Syria (23), and Iran (22) to Uzbekistan in Central Asia in the area of ancient Bactria. (An irony illustrating the truly global reach of the International Bronze Congress: of all venues in its history, Los Angeles has been the most western!)
+
+## Vessels
+
+Mid-Eastern perspectives were also present among the papers dealing with bronze vessels, be it an examination of figurative vases from Lebanon (28) or a historical study of the role Hellenistic vessels played in the origins and development of Islamic metalware (29). The Derveni Krater, the subject of a series of papers in previous congresses, has been reconfirmed as a touchstone and climax of bronze artistry of any period (26).
+
+## Artifacts
+
+Since its early days, the Bronze Congress has provided a forum not only for “major artworks” such as sculpture or elaborate vessels, but also for more mundane artifacts and implements, from armor and weaponry, lamps and mirrors, to medical instruments and even nails. One paper reminds us that as early as the Minoan period, the smallest of cosmetic devices, such as tweezers and scrapers, could in fact be status symbols (30). Similarly, bronze cases for writing and medical implements found in Hellenistic Macedonian tombs formed part of elite burials (32). Among the new material presented in this section—either unpublished or hitherto misinterpreted—were engraved bronze inlays, modest products by themselves but now understood as decorations for elaborate musical instruments (34).
+
+## Conservation and Analysis
+
+One of the defining roles of Bronze Congresses has been as a platform for direct exchange between art historians, archaeologists, conservators, and scientists from a wide range of disciplines and specialized fields. Research presented in almost every session included projects conducted collaboratively with metal conservators and/or materials scientists. Bundled here are the manifold contributions whose main focus is on the metallurgy, chemistry, technology, or conservation of ancient bronzes. Papers and posters in this section dovetailed closely with the *Power and Pathos* exhibition, discussing metal analytics and manufacturing processes of the Medici Riccardi Horse (39), Alexander on Horseback (44), the Getty Herm (41), and the Apoxyomenos statue from Croatia (43), all of which were on display in the exhibition. As critical awareness of the fallibilities in sampling and testing methods has grown over the past decades, a number of important bronzes have recently been reanalyzed, for instance the Piombino Apollo (42), whose alloy was first tested in 1967, and the Nelidow Alexander statuette (47), whose authenticity had for some time been questioned.  
+
+<hr />
+
+Among the newer developments in ancient bronze studies is a heightened awareness of the limitations of the investigative tools available to us, not only their promises and opportunities. With this comes the need to accept the inconvenience that older analytical results may not be as reliable as our desire to trust “hard science” would have us believe. Thus, we have the responsibility and burden of seeking the resources, institutional support, and professional alliances to conduct new series of analyses where such investigations are warranted. In this regard, the International Bronze Congresses—being more than just a forum for scholarly exchange—can be an effective catalyst for advanced research agendas.
+
+In the way it has evolved, the field of Ancient Bronze Studies as a whole may be recognized as a role model for other disciplines: it embraces the utmost diversity in perspectives and methodologies—practiced, shared, and adopted by experts at home in the humanities, metallurgy, and engineering as well as nuclear physics and even traditional crafts. This is in part a function of bronze being a man-made material, but it is mostly due to a culture of curiosity, openness, and innovation among bronze’s enthusiastic scholars and practitioners. Future congresses will celebrate and advance this legacy, beginning with the 20th International Congress on Ancient Bronzes planned for early 2018.  
+
+<hr />
+
+The Los Angeles Congress owed its success to the hard work and ingenuity of many colleagues and collaborators and the generosity of crucial supporters. Funding was provided by the Getty’s Villa Programming Committee, the Villa Council, and the Getty Conservation Institute. As organizers we are most indebted to Lisa Guzzetta, whose coordination skills and programming experience were indispensable in the preparation of the Congress and whose equanimity guaranteed that it ran smoothly. We also relied on the support of several colleagues, including James Cuno, Heather Leisy, Andrea Bestow, Lorin Green, and Danielle Espino at the Trust; Timothy Potts, Jerry Podany, Jeffrey Maish, Jeffrey Spier, Claire Lyons, Nicole Budrovich, Paige-Marie Ketner, and Emma Sachs at the Museum, and Tim Whalen, Jeanne Marie Teutonico, and Gary Mattison at the Conservation Institute. In the middle of the Congress, we imposed our large group on two neighboring institutions, namely the Norton Simon Museum of Art in Pasadena and the Huntington Library, Art Collections, and Botanical Gardens in San Marino. We are extremely grateful to Carol Togneri, Gloria Williams, Emily Beeny, Elizabeth Clingerman, Catherine Hess, and Melinda McCurdy for welcoming us.
+
+The life of a congress are its papers and the discussions and debates they inspire. It was an honor to host so many distinguished colleagues on this occasion, most of whom traveled far to come to Los Angeles. Their professional enthusiasm and thoughtful, lively presentations enriched this meeting for every participant. We express our thanks to all authors and presenters. In addition, we would like to acknowledge Beryl Barr-Sharrar, Carol Mattusch, and Salvatore Siano, who agreed to present keynote addresses, and to Giorgos Koutsouflakis, who delivered a sold-out public lecture on the latest underwater discoveries in the Aegean. Their contributions, too, are published in these proceedings.
+
+The production of this digital volume—the first in the history of the Bronze Congress!—was in the expert hands of the staff at Getty Publications, in particular Kara Kirk, Karen Levine, Greg Albers, Eric Gardner, Nick Geller, Elizabeth Kahn, Leslie Rollins, and Nina Damavandi. Project editor Ruth Evans Lane forcefully tackled the multiple challenges of this undertaking, a veritable beast with many tentacles, which were untangled and tamed by Robin Ray, our competent and sympathetic copy editor. Each of them deserves an honorific bronze statue!
+
+Los Angeles<br>
+January 2017
+
+[^1]: The original program can be found in the book of abstracts
+    distributed at the time of the meeting and remains available online:
+    [getty.edu/museum/symposia/pdfs_bronze/bronzecongress_getty_schedule.pdf](getty.edu/museum/symposia/pdfs_bronze/bronzecongress_getty_schedule.pdf).
