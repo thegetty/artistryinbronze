@@ -1,18 +1,14 @@
-\[title\]Assertions by the Portable:
-
-What Can Bronze Statuettes Tell Us about Major Classical Sculpture?
-
-\[author\]Beryl Barr-Sharrar
-
-\[affiliation\]Institute of Fine Arts, New York University
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-Many surviving Hellenistic and Roman bronze statuettes are variants of lost large-scale works, among them well-known Classical masterpieces. The degree of a statuette’s adherence to a statue type, however, is difficult to assess if not unknowable, even when full-size Roman marble copies exist. Thus it is fair to ask just how informative these portable bronzes are regarding the sources of their inspiration. Answering this requires analysis of individual examples and assessment of dates. A group of bronze Hermes statuettes can be seen to be dependent on male figure types generally accepted to have been created by Polykleitos, corresponding in stance and sometimes body structure, if not in gesture. There are several small bronze versions of Polykleitos’s Diadoumenos that deviate subtly from closely related marble copies of the original. A small bronze Diskobolos is one of two poised in the same complicated posture as the finest Roman marble copy of Myron’s fifth-century bronze original (their veracity is suggested by the description of the original by Lucian *Philopseudes* 18), but does not share its Classical style. Among other statuettes provoking problems of truth to prototype, date, and origin are bronze Aphrodites that reflect several distinctive models, not all of which survive in Roman copies.
-
-\[main text\]
+---
+title: Assertions by the Portable
+subtitle: What Can Bronze Statuettes Tell Us about Major Classical Sculpture?
+layout: page
+author:
+ - first_name: Beryl
+   last_name: Barr-Sharrar
+   affiliation: Institute of Fine Arts, New York University
+abstract: Many surviving Hellenistic and Roman bronze statuettes are variants of lost large-scale works, among them well-known Classical masterpieces. The degree of a statuette’s adherence to a statue type, however, is difficult to assess if not unknowable, even when full-size Roman marble copies exist. Thus it is fair to ask just how informative these portable bronzes are regarding the sources of their inspiration. Answering this requires analysis of individual examples and assessment of dates. A group of bronze Hermes statuettes can be seen to be dependent on male figure types generally accepted to have been created by Polykleitos, corresponding in stance and sometimes body structure, if not in gesture. There are several small bronze versions of Polykleitos’s Diadoumenos that deviate subtly from closely related marble copies of the original. A small bronze Diskobolos is one of two poised in the same complicated posture as the finest Roman marble copy of Myron’s fifth-century bronze original (their veracity is suggested by the description of the original by Lucian *Philopseudes* 18), but does not share its Classical style. Among other statuettes provoking problems of truth to prototype, date, and origin are bronze Aphrodites that reflect several distinctive models, not all of which survive in Roman copies.
+sort_order: 15
+---
 
 Discussing Polykleitos’s Doryphoros in his landmark *Masterpieces of Greek Sculpture* (1895), Adolf Furtwängler included a few bronze statuettes pertinent to his subject. The largest and most important known to him was a statuette from Fins d’Annecy now in the Musée du Petit Palais in Paris (**fig. 13.1**).[^1] Suggestive of Roman marble copies of the Doryphoros with the movement of the arms reversed, Furtwängler said it had previously been identified by Adolf Michaelis and other late nineteenth-century scholars as a copy of the Hermes by Polykleitos mentioned by Pliny as “once in Lysimachea” (*Naturalis historia* 34.55–56) that was contemporary to it and much reduced in scale. Furtwängler had seen the statuette in 1881 in Rouen in the collection of M. Dutuit, with whose name it is still associated, and he described it as showing traces of complete gilding. Similar to the Doryphoros is the stance, with one leg relaxed and placed somewhat back with a raised heel, the head turned toward the weight-bearing leg, and the characteristic equilibrium inexorably linked to Polykleitos and his school.
 
@@ -44,7 +40,7 @@ Two extant small Roman bronzes mimic the pose of Myron’s Diskobolos, which we 
 
 The second Roman bronze Diskobolos presenting this complex pose was found in 1964 in a cache of statuettes in the Athens suburb of Ambelokipi.[^21] At 25 centimeters (8 in.) high, it is somewhat smaller than the Munich Diskobolos (see **fig. 13.7**) and sadly too corroded to distinguish details. But we recognize its Classical prototype immediately and can see that it is less exaggerated in its torsion and more classicizing in its proportions than the bronze in Munich. Now in the National Museum in Athens, it has been dated to the first century AD.
 
-Determining whether a bronze statuette is of Hellenistic or Roman manufacture is a frequent problem, and often left unresolved. The origin and date of one of the most arresting extant bronze statuettes assumed to represent a major Classical Greek statue has remained controversial. An inlaid silver inscription on a base added to a bronze statuette of Herakles s(35.9 cm or 14 in. high) in Chieti identifies the figure as a votive dedication from M. Atticus Peticius Marsus, known from other sources to have lived in the first century AD, to the Sanctuary of Hercules Curinus in Sulmona, where it was found in 1959. The left foot is missing and lower leg is damaged, but the figure is well modeled with great attention paid to the details of the hero’s hair and the lion’s mane.[^22] Paolo Moreno has dated the statuette to the third century BC,[^23] not long after the production of the Lysippos original that he believes the statuette reiterates in much smaller scale. Those who promulgate this date suggest that the antiquity of the statuette added to its value as a dedication from a pious Roman citizen. Diethelm Krull, on the other hand, who catalogued 127 examples of the resting hero type, believes the statuette to be a Roman Imperial work, dating it to around 100 AD.[^24] Recent publications vary in their assessments.[^25]
+Determining whether a bronze statuette is of Hellenistic or Roman manufacture is a frequent problem, and often left unresolved. The origin and date of one of the most arresting extant bronze statuettes assumed to represent a major Classical Greek statue has remained controversial. An inlaid silver inscription on a base added to a bronze statuette of Herakles (35.9 cm or 14 in. high) in Chieti identifies the figure as a votive dedication from M. Atticus Peticius Marsus, known from other sources to have lived in the first century AD, to the Sanctuary of Hercules Curinus in Sulmona, where it was found in 1959. The left foot is missing and lower leg is damaged, but the figure is well modeled with great attention paid to the details of the hero’s hair and the lion’s mane.[^22] Paolo Moreno has dated the statuette to the third century BC,[^23] not long after the production of the Lysippos original that he believes the statuette reiterates in much smaller scale. Those who promulgate this date suggest that the antiquity of the statuette added to its value as a dedication from a pious Roman citizen. Diethelm Krull, on the other hand, who catalogued 127 examples of the resting hero type, believes the statuette to be a Roman Imperial work, dating it to around 100 AD.[^24] Recent publications vary in their assessments.[^25]
 
 In both cultures, the very nature of the artistic practice of those who produced bronze statuettes—modeling their casting models in clay or wax by hand—not only allowed the artists the freedom to embellish or deviate from a given prototype, it also made changes inevitable, even when the intention was an accurate miniature copy. The Chieti bronze Herakles is highly detailed, with several large areas full of surface activity and visual interest. While textured surfaces are not characteristics generally associated with the sculpture of Lysippos, it must be remembered that the original was cast in bronze, a medium which easily lends itself to surface variety.
 
@@ -54,93 +50,70 @@ Artists who built bronze casting models from pliable wax on what may well have b
 
 Note: Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.
 
-\[A-head\]Bibliography
-
-\[bibliography\]
+## Bibliography
 
 Beck, Bol, and Bückling 1990
-
-Beck, H., P. C. Bol, and M. Bückling, eds. 1990. *Polyklet: Der Bildhauer der griechischen Klassik.* Exh. cat. Frankfurt, Liebieghaus Museum alter Plastik. Mainz am Rhein: Zabern.
+: Beck, H., P. C. Bol, and M. Bückling, eds. 1990. *Polyklet: Der Bildhauer der griechischen Klassik*. Exh. cat. Frankfurt, Liebieghaus Museum alter Plastik. Mainz am Rhein: Zabern.
 
 Bol 1990
-
-Bol, P. C. 1990. “Hermes.” In Beck, Bol, and Bückling 1990, 118–20.
+: Bol, P. C. 1990. “Hermes.” In Beck, Bol, and Bückling 1990, 118–20.
 
 Daehner and Lapatin 2015
-
-Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
+: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
 Fuchs 1963
-
-Fuchs, W. 1963. *Der Schiffsfund von Mahdia.* Tübingen: W. Wasmuth.
+: Fuchs, W. 1963. *Der Schiffsfund von Mahdia*. Tübingen: W. Wasmuth.
 
 Furtwängler \[1895\] 1964
-
-Furtwängler, A. 1964. *Masterpieces of Greek Sculpture*. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895).
+: Furtwängler, A. 1964. *Masterpieces of Greek Sculpture*. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895).
 
 Höckmann 1994
-
-Höckmann, U. 1994. “Die Hermesstatuette.” In *Das Wrack: Der antike Schiffsfund von Mahdia,* ed. G. Hellenkemper Salies, 469–81. Cologne: Rheinland-Verlag.
+: Höckmann, U. 1994. “Die Hermesstatuette.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, 469–81. Cologne: Rheinland-Verlag.
 
 Hölscher 2004
-
-Hölscher, T. 2004. *The Language of Images in Roman Art*, trans. A. Snodgrass and A. Künzl-Snodgrass. Cambridge: Cambridge University Press.
+: Hölscher, T. 2004. *The Language of Images in Roman Art*, trans. A. Snodgrass and A. Künzl-Snodgrass. Cambridge: Cambridge University Press.
 
 Jenkins 2012
-
-Jenkins, I. 2012. *The Discobolus*. British Museum Objects in Focus. London: British Museum Press.
+: Jenkins, I. 2012. *The Discobolus*. British Museum Objects in Focus. London: British Museum Press.
 
 Kreeb 1988
-
-Kreeb, M. 1988. *Untersuchungen zur figürlichen Ausstattung delischer Privathauser*. Chicago: Ares.
+: Kreeb, M. 1988. *Untersuchungen zur figürlichen Ausstattung delischer Privathauser*. Chicago: Ares.
 
 Kreikenbom 1990
-
-Kreikenbom, D. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64.
+: Kreikenbom, D. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64.
 
 Krystalli-Votsi 2014
-
-Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων *(*The Ambelokipi Bronzes*)*.* Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn.
+: Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων (*The Ambelokipi Bronzes)*. Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn.
 
 Krull 1985
-
-Krull, D. 1985. *Der Herakles vom Typ Farnese*. Frankfurt am Main: P. Lang.
+: Krull, D. 1985. *Der Herakles vom Typ Farnese*. Frankfurt am Main: P. Lang.
 
 Leibundgut 1990
-
-Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427.
+: Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427.
 
 Maass 1979
-
-Maass, M. 1979. *Griechische und römische Bronzewerke der Antikensammlungen.* Munich: Beck.
+: Maass, M. 1979. *Griechische und römische Bronzewerke der Antikensammlungen*. Munich: Beck.
 
 Moreno 1995
-
-Moreno, P. 1995. *Lisippo: L’Arte e la fortuna*. Exh. cat. Rome, Palazzo delle Esposizioni. Milan: Fabbri.
+: Moreno, P. 1995. *Lisippo: L’Arte e la fortuna*. Exh. cat. Rome, Palazzo delle Esposizioni. Milan: Fabbri.
 
 Petit 1980
-
-Petit, J. 1980. *Bronzes antiques de la collection Dutuit: Grecs, hellénistiques, romains et de l’Antiquité tardive.* Musée du Petit Palais. Paris: Presses artistiques.
+: Petit, J. 1980. *Bronzes antiques de la collection Dutuit: Grecs, hellénistiques, romains et de l’Antiquité tardive*. Musée du Petit Palais. Paris: Presses artistiques.
 
 Petsas 1966
-
-Petsas, P. M. 1966. *O táphos ton Lefkadion*. Athens: TAP.
+: Petsas, P. M. 1966. *O táphos ton Lefkadion*. Athens: TAP.
 
 Picón and Hemingway 2016
-
-Picón, C., and S. Hemingway, eds. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. Exh. cat. New York: Metropolitan Museum of Art.
+: Picón, C., and S. Hemingway, eds. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. Exh. cat. New York: Metropolitan Museum of Art.
 
 Rolley 1983
-
-Rolley, C. 1983. *Les bronzes grecs*. Fribourg and Paris: Office du livres.
+: Rolley, C. 1983. *Les bronzes grecs*. Fribourg and Paris: Office du livres.
 
 Rotroff 1994
-
-Rotroff, S. I. 1994. “The Pottery.” In *Das Wrack: Der antike Schiffsfund von Mahdia,* ed. G. Hellenkemper Salies, 133–52. Cologne: Rheinland-Verlag.
+: Rotroff, S. I. 1994. “The Pottery.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, 133–52. Cologne: Rheinland-Verlag.
 
 Zanker 1974
-
-Zanker, P. 1974. *Klassizistische Statuen: Studien zur Veränderung des Kunstgeschmacks in der römischen Kaiserzeit*. Mainz am Rhein: Zabern.
+: Zanker, P. 1974. *Klassizistische Statuen: Studien zur Veränderung des Kunstgeschmacks in der römischen Kaiserzeit*. Mainz am Rhein: Zabern.
 
 [^1]: Furtwängler \[1895\] 1964, 231–32.
 

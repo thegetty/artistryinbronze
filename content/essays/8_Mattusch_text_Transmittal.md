@@ -5,9 +5,10 @@ author:
  - first_name: Carol C.
    last_name: Mattusch
    affiliation: George Mason University
-abstract: A number of large-scale bronzes that have been identified by scholars as being Archaic, Classical, or Hellenistic statues of kouroi, mellephebes, a very young Apollo, or Dionysos may need to be reclassified. Many of them are now assigned to the Hellenistic or Graeco-Roman period, the explanation being that wealthy Romans continued to enjoy earlier styles of statuary. Other evidence suggests a different interpretation. At least three of these figures originally recognized simply as statues were found together with fragments that were identified after reconstruction as elaborate supports for trays. At least one wall painting depicts such a tray-bearer on a base in a triclinium, and literary testimonia also refer to such figures. Two of the figures previously identified as statues were in fact discovered in triclinia. So in what sense are they statues? One by one, these bronzes are being added to an ever-expanding genre of what might better be described as luxury furniture—tray-bearers and lamp-holders. It appears to be a genre which was very popular in wealthy homes of the Greco-Roman world. Interestingly enough, no marble examples of this type have as yet been identified, and so far none of the bronzes can be securely dated before the Hellenistic period.
+abstract: >
+  A number of large-scale bronzes that have been identified by scholars as being Archaic, Classical, or Hellenistic statues of kouroi, mellephebes, a very young Apollo, or Dionysos may need to be reclassified. Many of them are now assigned to the Hellenistic or Graeco-Roman period, the explanation being that wealthy Romans continued to enjoy earlier styles of statuary. Other evidence suggests a different interpretation. At least three of these figures originally recognized simply as statues were found together with fragments that were identified after reconstruction as elaborate supports for trays. At least one wall painting depicts such a tray-bearer on a base in a triclinium, and literary testimonia also refer to such figures. Two of the figures previously identified as statues were in fact discovered in triclinia. So in what sense are they statues? One by one, these bronzes are being added to an ever-expanding genre of what might better be described as luxury furniture—tray-bearers and lamp-holders. It appears to be a genre which was very popular in wealthy homes of the Greco-Roman world. Interestingly enough, no marble examples of this type have as yet been identified, and so far none of the bronzes can be securely dated before the Hellenistic period.
 
-Why have we been so slow to recognize this class of ancient bronzes? Is it because we might have to describe them not as statuary bronzes belonging to the major arts, but rather as interior decor, a minor art, or—perhaps somewhat easier on our own aesthetic perceptions— as luxury art? Will familiar works like the Apollo from Piombino and Apollo the Citharist from Pompeii no longer shape our modern aesthetic? Is it possible that even such statues as the Marathon Boy will be moved from future discussions of Classical sculpture into the category of luxury arts? A new and expanded view of the luxury arts may well change our comprehension of ancient art.
+  Why have we been so slow to recognize this class of ancient bronzes? Is it because we might have to describe them not as statuary bronzes belonging to the major arts, but rather as interior decor, a minor art, or—perhaps somewhat easier on our own aesthetic perceptions—as luxury art? Will familiar works like the Apollo from Piombino and Apollo the Citharist from Pompeii no longer shape our modern aesthetic? Is it possible that even such statues as the Marathon Boy will be moved from future discussions of Classical sculpture into the category of luxury arts? A new and expanded view of the luxury arts may well change our comprehension of ancient art.
 sort_order: 12
 ---
 
@@ -75,83 +76,83 @@ We might ask ourselves what deserves consideration as a statue. If the Marathon 
 
 ## Bibliography
 
-Badoud 2015<br />
-Badoud, N. 2015. *Le temps de Rhodes: Une chronologie des inscriptions de la cité fondée sur l’étude de ses institutions*. Munich: Beck.
+Badoud 2015
+: Badoud, N. 2015. *Le temps de Rhodes: Une chronologie des inscriptions de la cité fondée sur l’étude de ses institutions*. Munich: Beck.
 
-Calligas 1989<br />
-Calligas, P. 1989. “Statue of a Young Athlete.” In *Mind and Body: Athletic Contests in Ancient Greece*, ed. O. Tzachou-Alexandri, trans. T. Cullen, 179–81. Athens: Ministry of Culture.
+Calligas 1989
+: Calligas, P. 1989. “Statue of a Young Athlete.” In *Mind and Body: Athletic Contests in Ancient Greece*, ed. O. Tzachou-Alexandri, trans. T. Cullen, 179–81. Athens: Ministry of Culture.
 
-Daehner and Lapatin 2015<br />
-Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum; Florence: Giunti.
+Daehner and Lapatin 2015
+: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum; Florence: Giunti.
 
-Descamps-Lequime 2015<br />
-Descamps-Lequime, S. 2015. “Statue of Apollo (Piombino Apollo).” In Daehner and Lapatin 2015, 288–91.
+Descamps-Lequime 2015
+: Descamps-Lequime, S. 2015. “Statue of Apollo (Piombino Apollo).” In Daehner and Lapatin 2015, 288–91.
 
-Dunbabin 2003<br />
-Dunbabin, K. M. D. 2003. *The Roman Banquet: Images of Conviviality*. Cambridge and New York: Cambridge University Press.
+Dunbabin 2003
+: Dunbabin, K. M. D. 2003. *The Roman Banquet: Images of Conviviality*. Cambridge and New York: Cambridge University Press.
 
-Dwyer 1982<br />
-Dwyer, E. J. 1982. *Pompeiian Domestic Sculpture*. Rome: L’Erma di Bretschneider.
+Dwyer 1982
+: Dwyer, E. J. 1982. *Pompeiian Domestic Sculpture*. Rome: L’Erma di Bretschneider.
 
-Goodlett 1991<br />
-Goodlett, V. C. 1991. “Rhodian Sculpture Workshops.” *AJA* 95: 669–81.
+Goodlett 1991
+: Goodlett, V. C. 1991. “Rhodian Sculpture Workshops.” *AJA* 95: 669–81.
 
-Hipkins, Hipkins, and Schlesinger 1911<br />
-Hipkins, K. S., A. J. Hipkins, and K. Schlesinger. 1911. s.v. “Lyre.” *Encyclopedia Britannica*. 11th ed., 17: 177–79. Cambridge and New York:
+Hipkins, Hipkins, and Schlesinger 1911
+: Hipkins, K. S., A. J. Hipkins, and K. Schlesinger. 1911. s.v. “Lyre.” *Encyclopedia Britannica*. 11th ed., 17: 177–79. Cambridge and New York:
 
-Iozzo 1998<br />
-Iozzo, M. 1998. *“. . . qual era tutto rotto”: L’enigma dell’Idolino di Pesaro: Indagini per un restauro*. Exh. cat. Florence: Museo Archeologico Nazionale.
+Iozzo 1998
+: Iozzo, M. 1998. *“. . . qual era tutto rotto”: L’enigma dell’Idolino di Pesaro: Indagini per un restauro*. Exh. cat. Florence: Museo Archeologico Nazionale.
 
-Iozzo 2015<br />
-Iozzo, M. 2015. “Ephebe (Idolino from Pesaro).” In Daehner and Lapatin 2015, 298–99, no. 51.
+Iozzo 2015
+: Iozzo, M. 2015. “Ephebe (Idolino from Pesaro).” In Daehner and Lapatin 2015, 298–99, no. 51.
 
-Lapatin 2015<br />
-Lapatin, K. 2015. “Statue of Apollo (Kouros).” In Daehner and Lapatin 2015, 292–93, no. 48.
+Lapatin 2015
+: Lapatin, K. 2015. “Statue of Apollo (Kouros).” In Daehner and Lapatin 2015, 292–93, no. 48.
 
-Leonard and Smith 1968<br />
-Leonard, W. E., and S. B. Smith, eds. 1968. *T. Lucreti Cari,* *De Rerum Natura*. Madison, Milwaukee, London: University of Wisconsin Press.
+Leonard and Smith 1968
+: Leonard, W. E., and S. B. Smith, eds. 1968. *T. Lucreti Cari,* *De Rerum Natura*. Madison, Milwaukee, London: University of Wisconsin Press.
 
-Lullies 1960<br />
-Lullies, R. 1960. *Greek Sculpture*. New York: Harry N. Abrams.
+Lullies 1960
+: Lullies, R. 1960. *Greek Sculpture*. New York: Harry N. Abrams.
 
-Mattusch 1996<br />
-Mattusch, C. 1996. *The Victorious Youth*. Los Angeles: J. Paul Getty Museum.
+Mattusch 1996
+: Mattusch, C. 1996. *The Victorious Youth*. Los Angeles: J. Paul Getty Museum.
 
-Mattusch 2005<br />
-Mattusch, C. 2005. *The Villa dei Papiri at Herculaneum: Life and Afterlife of a Sculpture Collection*. Los Angeles: J. Paul Getty Museum.
+Mattusch 2005
+: Mattusch, C. 2005. *The Villa dei Papiri at Herculaneum: Life and Afterlife of a Sculpture Collection*. Los Angeles: J. Paul Getty Museum.
 
-Mattusch 2008<br />
-Mattusch, C. 2008. *Pompeii and the Roman Villa: Art and Culture around the Bay of Naples*. Exh. cat. Washington, DC: National Gallery of Art.
+Mattusch 2008
+: Mattusch, C. 2008. *Pompeii and the Roman Villa: Art and Culture around the Bay of Naples*. Exh. cat. Washington, DC: National Gallery of Art.
 
-Mattusch 2014<br />
-Mattusch, C. 2014. “Portrait, Brunnenfigur, Götterbild. Skulpturen als Ausstattungselemente in der Casa del Citarista.” In *Pompeji: Götter, Mythen, Menschen*, ed. V. Sampaolo and A. Hoffmann, 86–93. Hamburg: Hirmer.
+Mattusch 2014
+: Mattusch, C. 2014. “Portrait, Brunnenfigur, Götterbild. Skulpturen als Ausstattungselemente in der Casa del Citarista.” In *Pompeji: Götter, Mythen, Menschen*, ed. V. Sampaolo and A. Hoffmann, 86–93. Hamburg: Hirmer.
 
-Melillo 2013<br />
-Melillo, L. 2013. “The Ephebe from the Via dell’Abbondanza: History of a Restoration.” In *The Restoration of Ancient Bronzes: Naples and Beyond*, ed. E. Risser and D. Saunders, 57–63. [www.getty.edu/museum/symposia/restoring\_bronzes/index.html](http://www.getty.edu/museum/symposia/restoring_bronzes/index.html).
+Melillo 2013
+: Melillo, L. 2013. “The Ephebe from the Via dell’Abbondanza: History of a Restoration.” In *The Restoration of Ancient Bronzes: Naples and Beyond*, ed. E. Risser and D. Saunders, 57–63. [www.getty.edu/museum/symposia/restoring\_bronzes/index.html](http://www.getty.edu/museum/symposia/restoring_bronzes/index.html).
 
-Pappalardo 2016<br />
-Pappalardo, U. 2016. “I bronzi.” In *Caio Giulio Polibio: Storie di un cittadino pompeiano*, ed. V. C. Morelli, E. De Carolis, and C. R. Salerno, 329–50. Naples: Assessorato Agricoltura and Istituto per la Diffusione delle Scienze Naturali.
+Pappalardo 2016
+: Pappalardo, U. 2016. “I bronzi.” In *Caio Giulio Polibio: Storie di un cittadino pompeiano*, ed. V. C. Morelli, E. De Carolis, and C. R. Salerno, 329–50. Naples: Assessorato Agricoltura and Istituto per la Diffusione delle Scienze Naturali.
 
-Pasquier 2007<br />
-Pasquier, A. 2007. “Statue d’un jeune athlète dit *Éphèbe de Marathon*.” In *Praxitèle*, 112–15, no. 17. Exh. cat. Paris: Musée du Louvre.
+Pasquier 2007
+: Pasquier, A. 2007. “Statue d’un jeune athlète dit *Éphèbe de Marathon*.” In *Praxitèle*, 112–15, no. 17. Exh. cat. Paris: Musée du Louvre.
 
-Ridgway 1967<br />
-Ridgway, B. S. 1967. “The Bronze Apollo from Piombino in the Louvre.” *Antike Plastik* 7: 43–75.
+Ridgway 1967
+: Ridgway, B. S. 1967. “The Bronze Apollo from Piombino in the Louvre.” *Antike Plastik* 7: 43–75.
 
-Ridgway 1970<br />
-Ridgway, B. S. 1970. *The Severe Style in Greek Sculpture*. Princeton: Princeton University Press.
+Ridgway 1970
+: Ridgway, B. S. 1970. *The Severe Style in Greek Sculpture*. Princeton: Princeton University Press.
 
-Ridgway 1997<br />
-Ridgway, B. S. 1997. *Fourth-Century Styles in Greek Sculpture*. Madison: University of Wisconsin Press.
+Ridgway 1997
+: Ridgway, B. S. 1997. *Fourth-Century Styles in Greek Sculpture*. Madison: University of Wisconsin Press.
 
-Sodo 2011<br />
-Sodo, A. M. 2011. “Éphèbe.” In *Pompéi: Un art de vivre*, ed. P. Nitti, S. De Caro, V. Sampaolo, V. Varone, and A. Varone, 154. Exh. cat. Paris, Musée Maillol.
+Sodo 2011
+: Sodo, A. M. 2011. “Éphèbe.” In *Pompéi: Un art de vivre*, ed. P. Nitti, S. De Caro, V. Sampaolo, V. Varone, and A. Varone, 154. Exh. cat. Paris, Musée Maillol.
 
-Varone 1993<br />
-Varone, A. 1993. “Statua di efebo.” In *Riscoprire Pompeii*, ed. B. Conticello, 336–39. Rome: L’Erma di Bretschneider.
+Varone 1993
+: Varone, A. 1993. “Statua di efebo.” In *Riscoprire Pompeii*, ed. B. Conticello, 336–39. Rome: L’Erma di Bretschneider.
 
-Vittozzi 1993<br />
-Vittozzi, S. E. 1993. “Apollo lampadoforo.” In *Riscoprire Pompeii*, ed. B. Conticello, 262–64, no. 193. Exh. cat. Rome: L’Erma di Bretschneider.
+Vittozzi 1993
+: Vittozzi, S. E. 1993. “Apollo lampadoforo.” In *Riscoprire Pompeii*, ed. B. Conticello, 262–64, no. 193. Exh. cat. Rome: L’Erma di Bretschneider.
 
 [^1]: Louvre inv. Br. 2. H. 115 cm (3 ft. 9 in.).
 

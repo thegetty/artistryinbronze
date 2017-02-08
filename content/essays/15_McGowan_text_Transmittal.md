@@ -1,16 +1,14 @@
-\[title\]The Poet as Artisan: A Hellenistic Bronze Statuette in the Metropolitan Museum of Art
-
-\[author\]Elizabeth McGowan
-
-\[affiliation\]Williams College
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-A Hellenistic bronze statuette of a bearded, balding man in the collection of the Metropolitan Museum of Art (1972.11.1) has attracted attention for its serious expression and startling silver eyes. The compact, muscular, balding figure wears an *exomis* and carries a wax tablet, attributes that have led to his identification as a master sculptor of myth or history, such as Daidalos or Pheidias. Craftsmen of words, such as Odysseus, might also wear the *exomis*. But what of other wordsmiths? I suggest that the figure represents the sixth-century-BC poet Hipponax, the contentious composer of iambic poetry and “limping” meters, who wrote acerbic attacks on the fictive sculptors Boupalos and Athenis and is credited with the invention of parody. Hipponax’s poems accuse Boupalos and Athenis of representing him in a laughable way, an open invitation to historical sculptors to characterize him likewise. Later authors describe him, presumably on the basis of his self-descriptions and outrageously negative poetry, as misshapen in ways compatible with this statue. Hipponax’s revival in Alexandria by Kallimachos in the third century BC may have inspired the imaginative portrait seen in the statuette: a figure that, though imperfect in form, is strong, with a thoughtful countenance; whose extraordinary intellectual and creative powers shine through silver eyes; and bearing a wax tablet to record those extraordinary thoughts. With an artisan’s body and a poet’s means of expression, the Hellenistic bronze statuette becomes a personification of the *paragone* between poetry and the visual arts at the heart of Hipponax’s poetry.
-
-\[main text\]
+---
+title: The Poet as Artisan
+subtitle: A Hellenistic Bronze Statuette in the Metropolitan Museum of Art
+layout: page
+author:
+ - first_name: Elizabeth
+   last_name: McGowan
+   affiliation: Williams College
+abstract: A Hellenistic bronze statuette of a bearded, balding man in the collection of the Metropolitan Museum of Art (1972.11.1) has attracted attention for its serious expression and startling silver eyes. The compact, muscular, balding figure wears an *exomis* and carries a wax tablet, attributes that have led to his identification as a master sculptor of myth or history, such as Daidalos or Pheidias. Craftsmen of words, such as Odysseus, might also wear the *exomis*. But what of other wordsmiths? I suggest that the figure represents the sixth-century-BC poet Hipponax, the contentious composer of iambic poetry and “limping” meters, who wrote acerbic attacks on the fictive sculptors Boupalos and Athenis and is credited with the invention of parody. Hipponax’s poems accuse Boupalos and Athenis of representing him in a laughable way, an open invitation to historical sculptors to characterize him likewise. Later authors describe him, presumably on the basis of his self-descriptions and outrageously negative poetry, as misshapen in ways compatible with this statue. Hipponax’s revival in Alexandria by Kallimachos in the third century BC may have inspired the imaginative portrait seen in the statuette: a figure that, though imperfect in form, is strong, with a thoughtful countenance; whose extraordinary intellectual and creative powers shine through silver eyes; and bearing a wax tablet to record those extraordinary thoughts. With an artisan’s body and a poet’s means of expression, the Hellenistic bronze statuette becomes a personification of the *paragone* between poetry and the visual arts at the heart of Hipponax’s poetry.
+sort_order: 17
+---
 
 Many of the papers in this volume deal with the technical aspects of bronze manufacture and analysis of fabric and technique. But what of the artisans themselves? A large, relatively well-preserved Hellenistic bronze statuette in the Metropolitan Museum of Art, said to have been found off the coast of North Africa, appears to be an image of an artisan (**fig. 15.1**).[^1] He has been identified as such by his dress, his stocky build, and his hunched posture.[^2] Although missing its right arm and leg, the figure is well preserved. He appears to be short in stature, compact, and muscular. The well-defined, gnarled muscles of his left arm and leg, down to his bare feet, imply the physique of someone used to physical labor. His neck is short and his posture somewhat stooped and uneven, with rounded upper spine and right shoulder raised, as if years of working at a bench has resulted in scoliosis (**fig. 15.2**).[^3] His egg-shaped head seems large for his body and perhaps appears further elongated by the fact that, although he has curly hair at the sides and back of his head, he is balding on top (**fig. 15.3**). The figure’s brow is furrowed and his mouth has full, downturned lips set in a scruffy beard. He is far from canonically beautiful, yet the artist gave him silver eyes. The bright silver adds intensity to his gaze and imbues him with inner life and a certain nobility. This nobility seems at odds with the social status implied by his physical aspect and clothing. He wears an *exomis*, a short, belted garment that fastened on one shoulder to allow the opposite arm maximum mobility, and in Greek art worn most often by artisans, laborers, slaves, and soldiers.[^4] Here the *exomis* is fastened on the right shoulder with a square knot, which would allow his left arm to move freely. At his full waistline, the *exomis* is secured with a belt with fringed ends, tied, again, in a square knot. Tucked behind the knot is a wax tablet, an attribute that sets this figure apart from the status of everyday workman. His left arm wraps across his body and might have supported the missing right arm, which has been imagined as bent at the elbow with its hand near the chin, a familiar gesture in antiquity of a figure deep in thought.[^5] Alternatively, his right hand might have held a staff or gripped a crutch tucked under his right arm.[^6]
 
@@ -18,13 +16,13 @@ The unusual detail of silver eyes and the wax tablet seem tantalizing clues to t
 
 We can narrow down his identity if we turn to the few attributes he possesses, starting with his clothing. He wears an *exomis* and is bare-headed as well as barefoot. Foremost among the mythological characters who wear the *exomis* is Hephaistos. As the Olympian god who is the patron of metalworkers, stonemasons, potters, and other craftsmen, he is often shown in either a short chiton or an *exomis*, and often with the tools of his trade: hammer, tongs, and torch for lighting the forge. In the tondo of the Foundry Painter’s name vase, Hephaistos wears a *chitoniskos*, with the sleeve unbuttoned to the top of his right shoulder to allow for freedom of movement (**fig. 15.4**). The fifth-century BC cult statue of Hephaistos in Athens, as reconstructed by Evelyn Harrison and others, is shown wearing an *exomis*.[^13] The image seems to be reflected on two terracotta Roman lamp discs, one in the Agora (**fig. 15.5**) and the other in the Athens National Museum (**fig. 15.6**).[^14] On both, Hephaistos wears an *exomis* and *pilos* (a workman’s felt hat), and holds a torch in his left hand. This type of image of the craftsman god appears on later Roman monuments, such as the figure of Vulcan carved in relief on a lower section of the Jupiter Column in Mainz (**fig. 15.7**).[^15] Here the god holds a hammer in his right hand, and a torch in his left. Relying on the numerous echoes of the fifth-century statue in later art, Harrison concludes that the cult image wore the *exomis* tied on his left shoulder, so that his right arm could move freely and that his weight was on his right leg with his head turned slightly in that direction. The Hellenistic bronze statuette is in a mirrored position: the weight leg, the exposed arm, and the turn of the head all favor the left. And the Hephaistion’s cult statue wore a workman’s hat, a felt *pilos*, while the bronze artisan is bareheaded.[^16] None of the preserved images of Hephaistos show him holding a wax tablet.
 
-Daidalos also wears a one-shouldered chiton or an *exomis* in art*.* The few examples preserved are Roman. In a first-century Pompeian wall-painting, the sculptor wears a *chitoniskos*, with a sleeve on the left but the right arm free, as he presents the mechanical cow costume to Pasiphaë.[^17] A mosaic from the third-century Roman villa at Zeugma in southeast Turkey shows Daidalos in an *exomis* fastened on his left shoulder.[^18] Both images of the sculptor seem to reflect earlier Athenian images of Hephaistos. Daidalos is hatless, however, and in the case of the mosaic, he carries a saw in his right hand and a length of wood in his left, as Ikaros also dressed in an *exomis,* works at a small table nearby. In two out of three scenes of the same story on a late Roman sarcophagus in the Louvre, Daidalos wears an *exomis* with the right arm free. In one scene, he wears the *exomis* as he stands in contrapposto as he presents the cow to Pasiphaë. His drapery’s folds closely resemble those of many Roman representations of Hephaistos/Vulcan, such as that on the Jupiter Column from Mainz, echoing the pose of the highly influential Athenian cult statue of Hephaistos.[^19] The image of Daidalos that seems closest to the bronze artisan in dress appears on a relief in the Villa Albani, where the sculptor, seated in right profile at a table and bent over his work, crafts wings for himself and Ikaros[^20] He wears an *exomis* that leaves his right shoulder and arm free. None of the examples show Daidalos with a tablet.
+Daidalos also wears a one-shouldered chiton or an *exomis* in art*.* The few examples preserved are Roman. In a first-century Pompeian wall-painting, the sculptor wears a *chitoniskos*, with a sleeve on the left but the right arm free, as he presents the mechanical cow costume to Pasiphaë.[^17] A mosaic from the third-century Roman villa at Zeugma in southeast Turkey shows Daidalos in an *exomis* fastened on his left shoulder.[^18] Both images of the sculptor seem to reflect earlier Athenian images of Hephaistos. Daidalos is hatless, however, and in the case of the mosaic, he carries a saw in his right hand and a length of wood in his left, as Ikaros also dressed in an *exomis*, works at a small table nearby. In two out of three scenes of the same story on a late Roman sarcophagus in the Louvre, Daidalos wears an *exomis* with the right arm free. In one scene, he wears the *exomis* as he stands in contrapposto as he presents the cow to Pasiphaë. His drapery’s folds closely resemble those of many Roman representations of Hephaistos/Vulcan, such as that on the Jupiter Column from Mainz, echoing the pose of the highly influential Athenian cult statue of Hephaistos.[^19] The image of Daidalos that seems closest to the bronze artisan in dress appears on a relief in the Villa Albani, where the sculptor, seated in right profile at a table and bent over his work, crafts wings for himself and Ikaros[^20] He wears an *exomis* that leaves his right shoulder and arm free. None of the examples show Daidalos with a tablet.
 
 Craftsmen of words might also wear the *exomis*. Odysseus, the great wordsmith of the Trojan epics, is shown in an *exomis* as early as the first quarter of the fifth century BC. On an Attic red-figured skyphos by the Penelope Painter, Odysseus, disguised as a beggar, takes aim with a bow and arrow at the suitors who have invaded his home (**fig. 15.8**). In Hellenistic and Roman art, Odysseus is often shown with the *exomis* and *pilos*.[^21] For example, a Roman statuette of Odysseus presenting a cup of wine (apparently to Polyphemos) also shows him wearing an *exomis* and *pilos*, as well as a short cloak (**fig. 15.9**).[^22]
 
 The Metropolitan’s bronze statuette has affinities to images of Odysseus, in his dress and also in his hairstyle, such as on the Penelope Painter’s cup. On the Lykaon Painter’s vase in Boston, Odysseus is shown in the gesture of contemplation, resting his head on his hand, as he converses with the shade of Elpinor in the underworld.[^23] But the writing tablet is out of place for Odysseus. We think of Odysseus as more of an *ex tempore* composer in Homer. Before the Phaiakians, Odysseus crafts his tales on a moment’s notice, without notes.[^24] Also, although Homer describes Odysseus as compact and strong, and shorter than, for example, Agamemnon, he is not necessarily bad-looking, most of the time.[^25] The Met statuette’s large head with scruffy beard and fraught expression, and the slightly misshapen body, do not suit the entirety of Odysseus’s established iconography.
 
-The statuette may represent another wordsmith, one who admired Odysseus and referred obliquely to him in his poetry: Hipponax, the sixth-century-BC poet of contentious iambic verse and choliambic (“limping”) meters.[^26] Hipponax reputedly wrote acerbic attacks on Boupalos and Athenis, sculptors identified by Pliny as sons of Archermos of Chios. In Book 36 of the *Natural History,* Pliny claims that Boupalos and Athenis were Hipponax’s contemporaries and goes on to explain a rivalry between the poet and the sculptors: “The face of Hipponax was notoriously ugly; on account of this they impudently exhibited a humorous likeness of him to a circle of laughing spectators. In anger at this Hipponax unsheathed such bitter verses that some believe he drove them to the noose. This is untrue, since later they made several statues in neighboring islands” (*Naturalis historia* 36.4.11).[^27]
+The statuette may represent another wordsmith, one who admired Odysseus and referred obliquely to him in his poetry: Hipponax, the sixth-century-BC poet of contentious iambic verse and choliambic (“limping”) meters.[^26] Hipponax reputedly wrote acerbic attacks on Boupalos and Athenis, sculptors identified by Pliny as sons of Archermos of Chios. In Book 36 of the *Natural History*, Pliny claims that Boupalos and Athenis were Hipponax’s contemporaries and goes on to explain a rivalry between the poet and the sculptors: “The face of Hipponax was notoriously ugly; on account of this they impudently exhibited a humorous likeness of him to a circle of laughing spectators. In anger at this Hipponax unsheathed such bitter verses that some believe he drove them to the noose. This is untrue, since later they made several statues in neighboring islands” (*Naturalis historia* 36.4.11).[^27]
 
 The few surviving fragments of Hipponax’s poetry do not mention this particular statue, but his iambics are full of vituperative remarks about and condemnations of Boupalos. For example, according to Hipponax Boupalos has “unnatural” relations with his mother.[^28] The sculptor is cast as well as the poet’s sexual rival.[^29] He is also his rival in art. In one fragment, Hipponax turns the tables and calls Boupalos a stone statue, a criticism that might suggest that Hipponax’s poetry is more powerful than Boupalos’s sculptural production.[^30]
 
@@ -54,213 +52,161 @@ Kallimachos’s ennobling of the poet does not come out of the blue, however. M.
 
 Hipponax’s revival in Alexandria by Kallimachos in the third century BC, and his appreciation by Hellenistic poets, scholars, and erudite patrons in the hothouse atmosphere provided by the Great Library itself, may have inspired the imaginative portrait seen in the statuette: a figure who, although imperfect in form, is strong, with a thoughtful countenance; whose extraordinary intellectual and creative powers shine through silver eyes, and with a wax tablet to record those extraordinary thoughts. In combining an artisan’s body with a poet’s means of expression, an actual Hellenistic sculptor refigured in the bronze statuette of Hipponax a personification of the struggle between the poet and his arch-nemesis, the sculptor Boupalos, revealing the *paragone* between poetry and the visual arts at the heart of Hipponax’s poetry. The statue is reputed to have come from the sea off North Africa, which might suggest Alexandria as its place of manufacture. Wherever this statuette stood originally, many must have sought inspiration from it, for the bald forehead has been worn and rubbed smooth by touch, no doubt by those who sought luck and inspiration, or even protection, from the poet’s aura.[^60]
 
-\[A-head\]Acknowledgments
+## Acknowledgments
 
 I am grateful to Kenneth Lapatin and Jens Daehner for the invitation to contribute a paper to the 19th International Congress on Ancient Bronzes. Thanks are due as well to Gianfranco Adornato, Ruth Bielfeldt, Kenneth Lapatin, and John Pollini for valuable questions and discussion of the paper. I am most indebted to Guy Hedreen, whose chapter on Hipponax in *The Image of the Artist in Archaic and Classical Greece: Art, Poetry, and Subjectivity* (Cambridge 2016) introduced me to the biographical tradition surrounding the poet, and for selflessly standing as sounding board for many of the ideas presented here. For photographs, thanks are due to Maria Chidiroglou at the National Archaeological Museum in Athens; Liz Kurtulik Mercuri at Art Resource; Craig Mauzy at the Athenian Agora; Dr. Ramona Messerig, Dr. Ellen Riemer, and Ursula Rudischer at the Landesmuseum Mainz; and Marie-Lan Nguyen of Wikimedia Commons. The photographs of the “Bronze Artisan” himself are from the Metropolitan Museum Collections website and are used here thanks to OASC at www.metmuseum.org.
 
-\[A-head\]Bibliography
-
-\[bibliography\]
+## Bibliography
 
 Abadie-Reynal 2002
-
-Abadie-Reynal, C. 2002. “Les maisons aux décors mosaïqués de Zeugma.” *CRAI* 146.2: 743–71.
+: Abadie-Reynal, C. 2002. “Les maisons aux décors mosaïqués de Zeugma.” *CRAI* 146.2: 743–71.
 
 Acosta-Hughes 2002
-
-Acosta-Hughes, B. 2002. *Polyeideia: The Iambi of Callimachus and the Archaic Iambic Tradition*. Berkeley: University of California Press.
+: Acosta-Hughes, B. 2002. *Polyeideia: The Iambi of Callimachus and the Archaic Iambic Tradition*. Berkeley: University of California Press.
 
 Bergmann 2007
-
-Bergmann, M. 2007. “The Philosophers and Poets in the Sarapieion at Memphis.” In *Early Hellenistic Portraiture: Image, Style, Context*, ed. P. Schulz and R. von den Hoff, 246–63. Cambridge and New York: Cambridge University Press.
+: Bergmann, M. 2007. “The Philosophers and Poets in the Sarapieion at Memphis.” In *Early Hellenistic Portraiture: Image, Style, Context*, ed. P. Schulz and R. von den Hoff, 246–63. Cambridge and New York: Cambridge University Press.
 
 Bing 1993
-
-Bing, P. 1993. “The *Bios*-Tradition and Poets’ Lives in Hellenistic Poetry.” *Nomodeiktes: Greek Studies in Honor of Martin Oswald*, ed. R. M. Rosen and J. Farrell, 619–31. Ann Arbor: University of Michigan Press.
+: Bing, P. 1993. “The *Bios*-Tradition and Poets’ Lives in Hellenistic Poetry.” *Nomodeiktes: Greek Studies in Honor of Martin Oswald*, ed. R. M. Rosen and J. Farrell, 619–31. Ann Arbor: University of Michigan Press.
 
 Boucher-Colozier 1965
-
-Boucher-Colozier, Stéphanie. 1965. “Un bronze d’époque Alexandrine: Réalisme et Caricature.” *Monuments et mémoires* (Fondation Eugène Piot) 54: 25–38.
+: Boucher-Colozier, Stéphanie. 1965. “Un bronze d’époque Alexandrine: Réalisme et Caricature.” *Monuments et mémoires* (Fondation Eugène Piot) 54: 25–38.
 
 Brommer 1973
-
-Brommer, F. 1973. *Der Gott Vulkan auf provinzialrömischen Reliefs*. Cologne and Vienna: Böhlau.
+: Brommer, F. 1973. *Der Gott Vulkan auf provinzialrömischen Reliefs*. Cologne and Vienna: Böhlau.
 
 Brown 1997
-
-Brown, C. G. 1997. s.v. “Iambos.” In *A Companion to the Greek Lyric Poets*, ed. D. E. Gerber. Leiden, New York, and Cologne: Brill.
+: Brown, C. G. 1997. s.v. “Iambos.” In *A Companion to the Greek Lyric Poets*, ed. D. E. Gerber. Leiden, New York, and Cologne: Brill.
 
 Clay 2004
+: Clay, D. 2004. *Archilochos Heros: The Cult of Poets in the Greek Polis*. Washington, DC: Center for Hellenic Studies.
 
-Clay, D. 2004. *Archilochos Heros: The Cult of Poets in the Greek Polis*. Washington, DC: Center for Hellenic Studies.
-
-Daehner, and Lapatin 2015
-
-Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
+Daehner and Lapatin 2015
+: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
 Dasen 1993
-
-Dasen, V. 1993. *Dwarfs in Ancient Egypt and Greece*. Oxford: Clarendon Press.
+: Dasen, V. 1993. *Dwarfs in Ancient Egypt and Greece*. Oxford: Clarendon Press.
 
 De Carolis 2001
-
-De Carolis, E. 2001. *Gods and Heroes in Pompeii*. Los Angeles: J. Paul Getty Museum.
+: De Carolis, E. 2001. *Gods and Heroes in Pompeii*. Los Angeles: J. Paul Getty Museum.
 
 Degani 1991
-
-Degani, E. 1991. *Hipponax: Testimonia et Fragmenta*. Stuttgart and Leipzig: B. G. Teubner.
+: Degani, E. 1991. *Hipponax: Testimonia et Fragmenta*. Stuttgart and Leipzig: B. G. Teubner.
 
 Degani 2002
-
-Degani, E. 2002. *Studi su Ipponatte: Nuova edizione anastaticamente riprodotta*. Hildesheim: Georg Oms.
+: Degani, E. 2002. *Studi su Ipponatte: Nuova edizione anastaticamente riprodotta*. Hildesheim: Georg Oms.
 
 Dillon, S. 2006
-
-Dillon, S. 2006. *Ancient Greek Portrait Sculpture: Contexts, Subjects, and Styles*. Cambridge and New York: Cambridge University Press.
+: Dillon, S. 2006. *Ancient Greek Portrait Sculpture: Contexts, Subjects, and Styles*. Cambridge and New York: Cambridge University Press.
 
 Frel 1981
-
-Frel, J. 1981. *Greek Portraits in the J. Paul Getty Museum*. Los Angeles: J. Paul Getty Museum.
+: Frel, J. 1981. *Greek Portraits in the J. Paul Getty Museum*. Los Angeles: J. Paul Getty Museum.
 
 Gaultier et al. 2013
-
-Gaultier, F., et al. 2013. *Les Etrusques et la Méditerranée: La cité de Cerveteri*. Paris: Louvre Museum.
+: Gaultier, F., et al. 2013. *Les Etrusques et la Méditerranée: La cité de Cerveteri*. Paris: Louvre Museum.
 
 Gerber 1999
-
-Gerber, D. E. 1999. *Greek Iambic Poetry.* Cambridge (MA).: Harvard University Press.
+: Gerber, D. E. 1999. *Greek Iambic Poetry*. Cambridge (MA).: Harvard University Press.
 
 Harrison 1977
-
-Harrison, E. B. 1977. “Alkamenes’ Sculptures for the Hephaisteion: Part 1, The Cult Statues.” *AJA* 81: 137–78.
+: Harrison, E. B. 1977. “Alkamenes’ Sculptures for the Hephaisteion: Part 1, The Cult Statues.” *AJA* 81: 137–78.
 
 Hedreen 2016
-
-Hedreen, G. M. 2016. *The Image of the Artist in Archaic and Classical Greece: Art, Poetry, and Subjectivity*. Cambridge and New York: Cambridge University Press.
+: Hedreen, G. M. 2016. *The Image of the Artist in Archaic and Classical Greece: Art, Poetry, and Subjectivity*. Cambridge and New York: Cambridge University Press.
 
 Hemingway 2004
-
-Hemingway, S. 2004. *The Horse and Jockey from Artemision: A Bronze Equestrian Monument of the Hellenistic Period.* Berkeley and Los Angeles: University of California Press.
+: Hemingway, S. 2004. *The Horse and Jockey from Artemision: A Bronze Equestrian Monument of the Hellenistic Period*. Berkeley and Los Angeles: University of California Press.
 
 Hemingway 2015
-
-Hemingway, S. 2015. “Statuette of an Artisan.” In Daehner and Lapatin 2015, 262­–63.
+: Hemingway, S. 2015. “Statuette of an Artisan.” In Daehner and Lapatin 2015, 262­–63.
 
 Hemingway 2016
-
-Hemingway, S. 2016. “Statuette of an Artisan.”In *Pergamon and the Hellenistic Kingdoms of the* *Ancient World*, ed. C. A. Picón and S. Hemingway, 161–62. New York: The Metropolitan Museum of Art.
+: Hemingway, S. 2016. “Statuette of an Artisan.”In *Pergamon and the Hellenistic Kingdoms of the* *Ancient World*, ed. C. A. Picón and S. Hemingway, 161–62. New York: The Metropolitan Museum of Art.
 
 Himmelmann 1981
-
-Himmelmann, N. 1981. “Realistic Art in Alexandria.” *Proceedings of the British Academy* 67: 194–207.
+: Himmelmann, N. 1981. “Realistic Art in Alexandria.” *Proceedings of the British Academy* 67: 194–207.
 
 Himmelmann 1983
-
-Himmelmann, N. 1983. *Alexandria und der Realismus in der griechischen Kunst*. Tübingen: E. Wasmuth.
+: Himmelmann, N. 1983. *Alexandria und der Realismus in der griechischen Kunst*. Tübingen: E. Wasmuth.
 
 Kerkhecker 1999
-
-Kerkhecker, A. 1999. *Callimachus’ Book of Iambi*. Oxford: Clarendon Press.
+: Kerkhecker, A. 1999. *Callimachus’ Book of Iambi*. Oxford: Clarendon Press.
 
 Kuttner 1995
-
-Kuttner, A. L. 1995. *Dynasty and Empire in the Age of Augustus: The Case of the Boscoreale Cups.* Berkeley: University of California Press.
+: Kuttner, A. L. 1995. *Dynasty and Empire in the Age of Augustus: The Case of the Boscoreale Cups*. Berkeley: University of California Press.
 
 Lee 2015
-
-Lee, M.M. 2015. *Body, Dress, and Identity in Ancient Greece*. Cambridge and New York: Cambridge University Press.
+: Lee, M.M. 2015. *Body, Dress, and Identity in Ancient Greece*. Cambridge and New York: Cambridge University Press.
 
 Lefkowitz 2012
-
-Lefkowitz, M. R. 2012. *The Lives of the Greek Poets*. 2nd ed. London: Bristol Classical Press.
+: Lefkowitz, M. R. 2012. *The Lives of the Greek Poets*. 2nd ed. London: Bristol Classical Press.
 
 Lissarrague 2000
-
-Lissarrague, F. 2000. “Aesop, Between Man and Beast: Ancient Portraits and Illustrations.” In *Not the Classical Ideal: Athens and the Construction of the Other in Greek Art*, ed. Beth Cohen, 132–49. Leiden and Boston, Cologne: Brill.
+: Lissarrague, F. 2000. “Aesop, Between Man and Beast: Ancient Portraits and Illustrations.” In *Not the Classical Ideal: Athens and the Construction of the Other in Greek Art*, ed. Beth Cohen, 132–49. Leiden and Boston, Cologne: Brill.
 
 Marchant and Todd
-
-Marchant, E. C., and O. J. Todd, trans. 1923. *Xenophon*. Vol. 4: *Memorabilia, Oeconomicus, Symposium, Apology*. Cambridge (MA): Harvard University Press.
+: Marchant, E. C., and O. J. Todd, trans. 1923. *Xenophon*. Vol. 4: *Memorabilia, Oeconomicus, Symposium, Apology*. Cambridge (MA): Harvard University Press.
 
 Masséglia 2015
-
-Masséglia, J. 2015. *Body Language in Hellenistic Art and Society*. Oxford and New York: Oxford University Press.
+: Masséglia, J. 2015. *Body Language in Hellenistic Art and Society*. Oxford and New York: Oxford University Press.
 
 Maurer 2015
-
-Maurer, M. F. 2015. “The Trouble with Pasiphaë: Engendering Myth in the Gonzaga Court.” In *Receptions of Antiquity, Constructions of Gender in European Art, 1300–1600*, ed. M. Rose, and A. C. Poe, 199–229. Leiden and Boston: Brill.
+: Maurer, M. F. 2015. “The Trouble with Pasiphaë: Engendering Myth in the Gonzaga Court.” In *Receptions of Antiquity, Constructions of Gender in European Art, 1300–1600*, ed. M. Rose, and A. C. Poe, 199–229. Leiden and Boston: Brill.
 
 Mattusch 1980
-
-Mattusch, C. C. 1980. “The Berlin Foundry Cup: The Casting of Greek Bronze Statuary in the Early Fifth Century B.C.” *AJA* 84: 435–44.
+: Mattusch, C. C. 1980. “The Berlin Foundry Cup: The Casting of Greek Bronze Statuary in the Early Fifth Century B.C.” *AJA* 84: 435–44.
 
 Meyer 2009
-
-Meyer, E. A. 2009. “Writing Paraphernalia, Tablets, and Muses in Campanian Wall Painting.” *AJA* 113: 569–97.
+: Meyer, E. A. 2009. “Writing Paraphernalia, Tablets, and Muses in Campanian Wall Painting.” *AJA* 113: 569–97.
 
 Mollard-Besques 1963
-
-Mollard-Besques, S. 1963. *Musée du Louvre: Département des antiquités grecques et romaines:* *Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans*. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux.
+: Mollard-Besques, S. 1963. *Musée du Louvre: Département des antiquités grecques et romaines:* *Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans*. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux.
 
 Morel-Deledalle 2014
-
-Morel-Deledalle, M., ed. 2014. *Splendeurs de Volubilis: Bronzes antiques du Maroc et de Méditerranée*. Exh. cat. Marseilles, Le musée des civilisations de l’Europe et de la Méditerranée (MuCEM). Arles: Actes Sud.
+: Morel-Deledalle, M., ed. 2014. *Splendeurs de Volubilis: Bronzes antiques du Maroc et de Méditerranée*. Exh. cat. Marseilles, Le musée des civilisations de l’Europe et de la Méditerranée (MuCEM). Arles: Actes Sud.
 
 Neudecker 1992
-
-Neudecker, R. 1992. “Relief mit Daidalos und Ikaros.” *Forschungen zur Villa Albani: Katalog der antiken Bildwerke*. vol. 3, 125–27, no. 296, plate 84. P. C. Bol, ed. Berlin: Gebr. Mann.
+: Neudecker, R. 1992. “Relief mit Daidalos und Ikaros.” *Forschungen zur Villa Albani: Katalog der antiken Bildwerke*. Vol. 3, 125–27, no. 296, plate 84. P. C. Bol, ed. Berlin: Gebr. Mann.
 
 Panetta 2004
-
-Panetta, M. R., ed. 2004. *Pompeii: The History, Life and Art of the Buried City*. Vercelli: White Star.
+: Panetta, M. R., ed. 2004. *Pompeii: The History, Life and Art of the Buried City*. Vercelli: White Star.
 
 Pfisterer-Haas 1994
-
-Pfisterer-Haas, S. 1994. “Die bronzenen Zwergentänzer.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, H-H. von Prittwitz und Gaffron, and G. Bauchhenß, vol. 1, 483–504. Cologne: Rheinland-Verlag GmbH.
+: Pfisterer-Haas, S. 1994. “Die bronzenen Zwergentänzer.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, H-H. von Prittwitz und Gaffron, and G. Bauchhenß, vol. 1, 483–504. Cologne: Rheinland-Verlag GmbH.
 
 Picón and Hemingway 2016
-
-Picón, C. A., and S. Hemingway. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. New York: Metropolitan Museum of Art.
+: Picón, C. A., and S. Hemingway. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. New York: Metropolitan Museum of Art.
 
 Pipili 2000
-
-Pipili, M. 2000. “Wearing the Other Hat: Workmen in Town and Country.” In *Not the Classical Ideal: Athens and the Construction of the Other in Greek Art*, ed. B. Cohen, 153–79. Leiden, Boston, and Cologne: Brill.
+: Pipili, M. 2000. “Wearing the Other Hat: Workmen in Town and Country.” In *Not the Classical Ideal: Athens and the Construction of the Other in Greek Art*, ed. B. Cohen, 153–79. Leiden, Boston, and Cologne: Brill.
 
 Pollitt 1986
-
-Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge and New York: Cambridge University Press.
+: Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge and New York: Cambridge University Press.
 
 Richter and Smith 1984
-
-Richter, G. M. A., and R. R. R. Smith. 1984. *The Portraits of the Greeks*, rev. ed. Oxford: Phaidon.
+: Richter, G. M. A., and R. R. R. Smith. 1984. *The Portraits of the Greeks*, rev. ed. Oxford: Phaidon.
 
 Rosen 1990
-
-Rosen, R. M. 1990. “Hipponax and the Homeric Odysseus.” *Eikasmos* 1: 11–25.
+: Rosen, R. M. 1990. “Hipponax and the Homeric Odysseus.” *Eikasmos* 1: 11–25.
 
 Smith 1991
-
-Smith, R. R. R. *Hellenistic Sculpture*. London: Thames & Hudson.
+: Smith, R. R. R. *Hellenistic Sculpture*. London: Thames & Hudson.
 
 Török 1995
-
-Török, L. 1995. *Hellenistic and Roman Terracottas from Egypt*. Rome: L’Erma di Bretschneider.
+: Török, L. 1995. *Hellenistic and Roman Terracottas from Egypt*. Rome: L’Erma di Bretschneider.
 
 Trypanis 1978
-
-Trypanis, C. A., ed. 1978. *Callimachus: Aetia, Iambi, Hecale and Other Fragments*. Cambridge (MA): Harvard University Press.
+: Trypanis, C. A., ed. 1978. *Callimachus: Aetia, Iambi, Hecale and Other Fragments*. Cambridge (MA): Harvard University Press.
 
 West 1974
-
-West, M. L. 1974. *Studies in Greek Elegy and Iambus*. Berlin and New York: Walter de Gruyter.
+: West, M. L. 1974. *Studies in Greek Elegy and Iambus*. Berlin and New York: Walter de Gruyter.
 
 Vidal-Naquet 1986
-
-Vidal-Naquet, P. 1986. *The Black Hunter: Forms of Thought and Forms of Society in the Greek World.* Trans. A. Szegedy-Maszak. Baltimore and London: John Hopkins University Press.
+: Vidal-Naquet, P. 1986. *The Black Hunter: Forms of Thought and Forms of Society in the Greek World.* Trans. A. Szegedy-Maszak. Baltimore and London: John Hopkins University Press.
 
 Zanker 1995
-
-Zanker, P. 1995. *The Mask of Socrates: The Image of the Intellectual in Antiquity*. Trans. Alan Shapiro. Berkeley, Los Angeles, and Oxford: University of California Press.
+: Zanker, P. 1995. *The Mask of Socrates: The Image of the Intellectual in Antiquity*. Trans. Alan Shapiro. Berkeley, Los Angeles, and Oxford: University of California Press.
 
 [^1]: New York, Metropolitan Museum of Art, Rogers Fund, inv. 1972.11.1. Hemingway 2015, 262–63, no. 36 with bibliography; and Hemingway 2016, cat. 71. On the findspot: Himmelmann 1981, 205.
 
@@ -368,7 +314,7 @@ Zanker, P. 1995. *The Mask of Socrates: The Image of the Intellectual in Antiqui
 
 [^53]: Kallimachos, *Iambi* 1, ll. 1–4, trans. Gerber 1999, 347, test. 6W.
 
-[^54]: Kallimachos, *Iambi* 1, ll. 29 and 30, respectively: Trypanis 1978, 106–107. Trypanis idem., n. *c*, notes that one scholiast *s*uggests that the temple site where Hipponax tells the literati to gather is the Sarapieion at Alexandria. The idea of gathering great thinkers and writers at a Sarapieion may have inspired, or been inspired by, the actual sculpture group of poets and philosophers at the Sarapieion at Memphis. For the sculpture group see Bergmann 2007.
+[^54]: Kallimachos, *Iambi* 1, ll. 29 and 30, respectively: Trypanis 1978, 106–107. Trypanis idem., n. *c*, notes that one scholiast suggests that the temple site where Hipponax tells the literati to gather is the Sarapieion at Alexandria. The idea of gathering great thinkers and writers at a Sarapieion may have inspired, or been inspired by, the actual sculpture group of poets and philosophers at the Sarapieion at Memphis. For the sculpture group see Bergmann 2007.
 
 [^55]: Strabo 14.1.2 = test. 123W, Gerber 1999, 454–55.
 

@@ -5,11 +5,12 @@ author:
  - first_name: Ursula
    last_name: Vedder
    affiliation: Deutschen Archäologischen Instituts, Munich
-abstract: The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast *in situ* in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
+abstract: >
+  The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast *in situ* in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
 
-How do we reconstruct the fabrication process of an exceptionally large and lost statue? First, the general parameters for the working steps must be known. Therefore, the indirect lost-wax process in antiquity is compared with better-known methods used to create two extant colossal statues, the Great Buddha in Nara (cast in courses) and the *Bavaria* in Munich (cast in large sections). Then the various steps of the working process attested in ancient times are examined. The analysis reveals basic differences between the three casting methods.
+  How do we reconstruct the fabrication process of an exceptionally large and lost statue? First, the general parameters for the working steps must be known. Therefore, the indirect lost-wax process in antiquity is compared with better-known methods used to create two extant colossal statues, the Great Buddha in Nara (cast in courses) and the *Bavaria* in Munich (cast in large sections). Then the various steps of the working process attested in ancient times are examined. The analysis reveals basic differences between the three casting methods.
 
-Philo’s text contains a certain level of technical knowledge but lacks important details and indeed states an important falsehood. A possible explanation for this discrepancy is that he used a written reconstruction of a working process. This means that we can give the archaeological evidence greater weight than this text.
+  Philo’s text contains a certain level of technical knowledge but lacks important details and indeed states an important falsehood. A possible explanation for this discrepancy is that he used a written reconstruction of a working process. This means that we can give the archaeological evidence greater weight than this text.
 sort_order: 6
 ---
 
@@ -71,44 +72,44 @@ In 2015 I published a proposal for the possible location of the Colossus’s bas
 
 ## Bibliography
 
-Giumlia-Mair 2012<br />
-Giumlia-Mair, A. 2012. “The Technology of Bronze Statuary.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari, 9–27. Rome: Aracne.
+Giumlia-Mair 2012
+: Giumlia-Mair, A. 2012. “The Technology of Bronze Statuary.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari, 9–27. Rome: Aracne.
 
-Haynes 1992<br />
-Haynes, D. 1992. *The Technique of Greek Bronze Statuary*. Mainz: Philipp von Zabern.
+Haynes 1992
+: Haynes, D. 1992. *The Technique of Greek Bronze Statuary*. Mainz: Philipp von Zabern.
 
-Lapatin 2001<br />
-Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press
+Lapatin 2001
+: Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press
 
-Maeda et al. 1997<br />
-Maeda, Y., T. Matsuyama, S. Hirakawa, D. Nishi, and K. Totsu. 1997. *Todaiji Daibutsu no kenkyu: Rekishi to chuzog ijutsu*. Tokyo: Iwanami Shoten.
+Maeda et al. 1997
+: Maeda, Y., T. Matsuyama, S. Hirakawa, D. Nishi, and K. Totsu. 1997. *Todaiji Daibutsu no kenkyu: Rekishi to chuzog ijutsu*. Tokyo: Iwanami Shoten.
 
-Maryon 1956<br />
-Maryon, H. 1956. “The Colossus of Rhodes.” *JHS* 76: 68–86.
+Maryon 1956
+: Maryon, H. 1956. “The Colossus of Rhodes.” *JHS* 76: 68–86.
 
-Mattusch 2014<br />
-Mattusch, C. C. 2014. *Enduring Bronze: Ancient Art, Modern Views*. Los Angeles: J. Paul Getty Museum.
+Mattusch 2014
+: Mattusch, C. C. 2014. *Enduring Bronze: Ancient Art, Modern Views*. Los Angeles: J. Paul Getty Museum.
 
-Pangkofer 1854<br />
-Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4
+Pangkofer 1854
+: Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. [http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4).
 
-Palagia 2013<br />
-Palagia, O. 2013. “Not from the Spoils of Marathon: Pheidias’ Bronze Athena on the Acropolis.” In *Marathon the Day After: Symposium Proceedings, Delphi, July 2–4, 2010*, ed. K. Buraselis and E. Koulakiotis, 117–37. Athens: European Cultural Center of Delphi.
+Palagia 2013
+: Palagia, O. 2013. “Not from the Spoils of Marathon: Pheidias’ Bronze Athena on the Acropolis.” In *Marathon the Day After: Symposium Proceedings, Delphi, July 2–4, 2010*, ed. K. Buraselis and E. Koulakiotis, 117–37. Athens: European Cultural Center of Delphi.
 
-Rosenfield 2011<br />
-Rosenfield, M. 2011. *Portraits of Chōgen: The Transformation of Buddhist Art in Early Medieval Japan*. Leiden and Boston: Brill.
+Rosenfield 2011
+: Rosenfield, M. 2011. *Portraits of Chōgen: The Transformation of Buddhist Art in Early Medieval Japan*. Leiden and Boston: Brill.
 
-Stevens 1955<br />
-Stevens, G. P. 1955. “Remarks upon the Chryselephantine Statue of Athena.” *Hesperia* 24: 240–76.
+Stevens 1955
+: Stevens, G. P. 1955. “Remarks upon the Chryselephantine Statue of Athena.” *Hesperia* 24: 240–76.
 
-Vedder 2015<br />
-Vedder, U. 2015. *Der Koloss von Rhodos: Archäologie, Herstellung und Rezeptionsgeschichte eines antiken Weltwunders*. Mainz: Nünnerich-Asmus.
+Vedder 2015
+: Vedder, U. 2015. *Der Koloss von Rhodos: Archäologie, Herstellung und Rezeptionsgeschichte eines antiken Weltwunders*. Mainz: Nünnerich-Asmus.
 
-Zimmer 1990<br />
-Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: Zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz: Philipp von Zabern.
+Zimmer 1990
+: Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: Zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz: Philipp von Zabern.
 
-Zimmer and Bairamē 2008<br />
-Zimmer, G., and Bairamē, K. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund.
+Zimmer and Bairamē 2008
+: Zimmer, G., and Bairamē, K. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund.
 
 [^1]: This paper summarizes Vedder 2015, 40–56, figs. 23–55, 60–65.
 

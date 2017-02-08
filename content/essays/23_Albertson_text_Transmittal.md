@@ -1,22 +1,19 @@
-\[title\]The Influence of Bronze Working on Roman Provincial Stone Sculpture: The Case of Palmyra
+---
+title: The Influence of Bronze Working on Roman Provincial Stone Sculpture
+subtitle: The Case of Palmyra
+layout: page
+author:
+ - first_name: Fred C.
+   last_name: Albertson
+   affiliation: University of Memphis, Tennessee
+abstract: >
+  The Roman-Syrian city of Palmyra is well-known for its extensive corpus of surviving sculpture carved in the locally quarried limestone, dating from the early first century to the middle of the third century AD. Although bronze statuary was subordinate to stone as the Palmyran sculptor’s medium of choice, surviving fragments and inscriptional evidence document its existence in the city. However, an examination of Palmyran sculpture reveals that local artists included in their repertoire of stone carving certain forms drawn from bronze prototypes and that these borrowings are more extensive than previously thought.
 
-\[author\] Fred C. Albertson
+  The more obvious features are incised grooves outlining the lips, deepened grooves beneath the corners of the mouth, and the sharply defined corkscrew curls with pointed tips found in male hairstyles. Additional features, previously attributed to Near Eastern traditions of stone carving, may also be included among the group originating in bronze working. One is the incision of the eyebrows as a herringbone pattern; another is the hollowing out of the iris as a circular cavity with a flat base, clearly intended for the insertion of a different material, which can now be identified as blue glass paste. All these features can be traced to the tradition of Graeco-Roman bronze statuary.
 
-\[affiliation\]University of Memphis, Tennessee
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-The Roman-Syrian city of Palmyra is well-known for its extensive corpus of surviving sculpture carved in the locally quarried limestone, dating from the early first century to the middle of the third century AD. Although bronze statuary was subordinate to stone as the Palmyran sculptor’s medium of choice, surviving fragments and inscriptional evidence document its existence in the city. However, an examination of Palmyran sculpture reveals that local artists included in their repertoire of stone carving certain forms drawn from bronze prototypes and that these borrowings are more extensive than previously thought.
-
-The more obvious features are incised grooves outlining the lips, deepened grooves beneath the corners of the mouth, and the sharply defined corkscrew curls with pointed tips found in male hairstyles. Additional features, previously attributed to Near Eastern traditions of stone carving, may also be included among the group originating in bronze working. One is the incision of the eyebrows as a herringbone pattern; another is the hollowing out of the iris as a circular cavity with a flat base, clearly intended for the insertion of a different material, which can now be identified as blue glass paste. All these features can be traced to the tradition of Graeco-Roman
-
-bronze statuary.
-
-The Palmyran distinction is that the number of examples depicting these features drawn from bronze working are relatively few and each adaption is chronologically short-lived and not necessarily contemporary, suggesting that their borrowing was not wholesale but selective, probably the result of decisions made by individual artisans or workshops.
-
-\[main text\]
+  The Palmyran distinction is that the number of examples depicting these features drawn from bronze working are relatively few and each adaption is chronologically short-lived and not necessarily contemporary, suggesting that their borrowing was not wholesale but selective, probably the result of decisions made by individual artisans or workshops.
+sort_order: 25
+---
 
 The prosperity experienced by the elite of the ancient Romano-Syrian city of Palmyra from the late first century BC through the middle of the third century AD is perhaps most visible in their monumental family tombs and the funerary sculpture associated within these tombs. Among the types included within the well-known repertoire of Palmyran funerary reliefs are the distinctive *loculus* plaques: rectangular limestone slabs covering the burial cavity, carved in high-relief with a bust depicting the individual interred and often accompanied by an Aramaic inscription denoting the occupant’s name, family lineage, and sometimes even the date of death. By about AD 200, the so-called “large banquet relief” and sarcophagi had also become mainstays within the Palmyran tomb.[^1]
 
@@ -46,217 +43,114 @@ Surviving examples thus suggest that the borrowing from bronze statuary was not 
 
 The study of Palmyran portraiture shows clearly that there was a continuous process of selection by the artist from a prescribed corpus of forms, perhaps due to the nature of the sculptural environment in which these reliefs were displayed and an emphasis on conveying the identity of the deceased, both as an individual and as a member of a larger community. What perhaps makes Palmyran portraiture so distinct is the fact that this repertoire of forms is constantly being augmented, with new forms drawn externally from Graeco-Roman art, including forms, as shown here, created in imitation of contemporary sculpture cast in bronze.
 
-**\[A-head\]Bibliography**
-
-\[bibliography\]
-
-Albertson 2016
-
-Albertson, F. 2016. “Typology, Attribution, and Identity in Palmyran Funerary Portraiture.” In *The World of Palmyra*, ed. Rubina Raja, 152–68. Scientia Danica, Serie H. Humanistica 4. Copenhagen: Royal Danish Academy of Sciences and Letters.
-
-Chabot 1897
-
-Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” *JA* 10: 308–55.
-
-Charles-Gaffiot et al. 2001
-
-Charles-Gaffiot, J., H. Lavagne, and J.-M. Hofman, eds. 2001. *Moi, Zénobie, reine de Palmyre*. Milan: Skira.
-
-Christie’s 2012
-
-Christie’s 2012. *Antiquities*. Auction catalogue 4925. April 26, 2012, London.
-
-*CIS*
-
-*Corpus Inscriptionum Semiticarum*. \[1926\] 1947. Part 2, vol. 3: *Inscriptiones Palmyrenae*, ed. J. B. Chabot. Paris: C. Klincksieck.
-
-Colledge 1976
-
-Colledge, M. A. R. 1976. *The Art of Palmyra*. Boulder (CO): Westview Press.
-
-Daehner and Lapatin 2015
-
-Daehner, J., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
-
-Dentzer-Feydy and Teixidor 1993
-
-Dentzer-Feydy, J., and J. Teixidor. 1993. *Les antiquités de Palmyre au Musée du Louvre*. Paris: Réunion des musées nationaux.
-
-Fortin 1999
-
-Fortin, M. 1999. *Syria: Land of Civilizations*. Trans. J. Macaulay. Montreal: Editions de l’Homme.
-
-Ingholt 1928
-
-Ingholt, H. 1928. *Studier over Palmyrensk Skulptur*. Copenhagen: C. A. Reitzels.
-
-Ingholt 1934
-
-Ingholt, H. 1934. “Palmyrene Sculptures in Beirut.” *Berytus* 1: 32–43.
-
-Johansen 1978
-
-Johansen, F. 1978. *Statues of Gudea: Ancient and Modern*. Mesopotamia 6. Copenhagen: Akademisk Forlag.
-
-Kropp and Raja 2014
-
-Kropp, A., and R. Raja. 2014. “The Palmyra Portrait Project.” *Syria* 91: 393–408.
-
-Lahusen and Formigli 2001
-
-Lahusen. F., and E. Formigli. 2001. *Römische Bildnisse aus Bronze: Kunst und Technik*. Munich: Hirmer.
-
-Matthews 1984
-
-Matthews, J. 1984. “The Tax Law of Palmyra: Evidence for Economic History in a City of the Roman East.” *JRS* 74: 157–80.
-
-Mattusch 1988
-
-Mattusch, C. 1988. *Greek Bronze Statuary: From the Beginnings through the Fifth Century B.C.* Ithaca: Cornell University Press.
-
-Mattusch 1996
-
-Mattusch, C. C. 1996. *Classical Bronzes: The Art and Craft of Greek and Roman Statuary*. Ithaca: Cornell University Press.
-
-Parlasca 1989
-
-Parlasca, K. 1989. “Palmyrenische Bildnisse aus dem Umkreis Zenobias.” In *Festschrift für Robert Werner zu seinem 65. Geburtstag*, ed. W. Dahlheim, W. Schuller, and J. von Ungern-Sternberg, 205–11. Xenia 22. Constance: Universitätsverlag.
-
-Parlasca 1990
-
-Parlasca, K. 1990. “Palmyrenische Skulpturen in Museen an der amerikanischen Westküste.” In *Roman Funerary Monuments in the J. Paul Getty Museum*, vol. 1, ed. M. True and G. Koch, 133–44. Occasional Papers on Antiquities 6. Malibu: J. Paul Getty Museum.
-
-Parlasca 2005
-
-Parlasca, K. 2005. “ Zu palmyrenischen Inschriften auf Reliefs.” In *A Journey to Palmyra: Collected Essays to Remember Delbert R. Hillers*, ed. D. Hillers and E. Cussini, 137–49. Leiden and Boston: Brill.
-
-Ploug 1995
-
-Ploug, G. 1995. *Catalogue of the Palmyrene Sculptures: Ny Carlsberg Glyptotek*. Copenhagen: Ny Carlsberg Glyptotek.
-
-Pollini 2001
-
-Pollini, J. 2001. “Two Bronze Portrait Busts of Slave-Boys from a Shrine of Cobannus in Roman Gaul.” In *Studia Varia from the J. Paul Getty Museum*, vol. 2, ed. M. True and M. Hart, 115–52. Occasional Papers on Antiquities of The J. Paul Getty Museum 10. Malibu: J. Paul Getty Museum.
-
-Romano 1979
-
-Romano, J. 1979. *The Luxor Museum of Ancient Egyptian Art: Catalogue.* Cairo: ASOR.
-
-Sadurska and Bounni 1994
-
-Sadurska, A., and A. Bounni. 1994*. Les sculptures funéraires de Palmyre*. RdA suppl. 13. Rome: G. Bretschneider.
-
-Sotheby’s 2002
-
-Sotheby’s. 2002. *Antiquities*. Auction catalogue 7858. December 11, 2002, New York.
-
-Sotheby’s 2007
-
-Sotheby’s. 2007. *Egyptian, Classical and Western Asiatic Antiquities*. Auction catalogue 8373. December 5, 2007, New York.
-
-Sotheby’s 2008
-
-Sotheby’s 2008. *Egyptian, Classical and Western Asiatic Antiquities*. Auction catalogue 8500. December 10, 2008, New York.
-
-Tanabe 1986
-
-Tanabe, K. 1986. *Sculptures of Palmyra*. Memoirs of the Ancient Orient Museum 1. Tokyo: Ancient Orient Museum.
-
-Walker 2014
-
-Walker, S. 2014. “Emperors and Deities in Rural Britain: A Copper-Alloy Head of Marcus Aurelius from Steane, near Brackley (Northants).” *Britannia* 45: 223–42.
-
-**\[A-head\]Appendix 1: Palmyran Reliefs with Incised Herringbone Eyebrows**
-
-\[main text\]
+## Appendix 1: Palmyran Reliefs with Incised Herringbone Eyebrows
 
 Items are in chronological order; all are *loculus* plaques depicting males unless otherwise noted.
 
-\[table - 2 columns\]
+| Date (AD) | Example |
+| ------------- |:-------------:|
+| 150 | |
+| 157 | Istanbul, Archaeological Museum inv. 3840T (Ingholt 1928, 34–35 PS 11, plate 4; *CIS*, 476 no. 4616, plate 47) |
+| 160 | Once Berlin, collection von Hahn 462–63 (Ingholt 1928, 119 PS 252; *CIS*, 462–63 no. 4573); Istanbul, Archaeological Museum inv. 3837T (Ingholt 1928, 117 PS 237; *CIS*, 363 no. 4299, plate 48) |
+| 170 | Paris Louvre inv. AO 28381 (Dentzer-Feydey and Teixidor 1993, 244 no. 237); Palmyra, Palmyra Museum inv. B2729/9166: statue (Charles-Gaffiot et al. 2001, 320 no. 26, fig. on 190); Palmyra, Palmyra Museum inv. 1951/7043 (Sadurska and Bounni 1994, 51–52 no. 59, fig. 114) |
+| 180 | Palmyra, Palmyra Museum inv. 1955/7047 (Sadurska and Bounni 1994, 53–54 no. 63, fig. 92); New York, Sotheby’s (Sotheby’s 2007, lot 31)|
+| 187 | New Haven, Yale University Art Gallery inv. 1954.30.3 (*CIS*, 454 no. 4549, plate 61) |
+| 189 | St. Petersburg, Hermitage inv. 8840 (*CIS*, 360 no. 4292, plate 52) |
+| 190 | London, British Museum 125032 (Ingholt 1928, 112 PS 201; *CIS*, 362–63 no. 4297, plate 52); Toronto, Royal Ontario Museum inv. 953x94.4 (Ingholt 1928, 113 n.1 PS 203); Gaziantep, Archaeological Museum inv. 211 (Parlasca 2005, 143, 148 fig. 4); Damascus, National Museum, from Hypogeum of Yarḥai (Tanabe 1986, plate 280, fig. 249); Jerusalem, Church of St. Anne, Museum inv. PB 2670: double bust (Ingholt 1928, 110 PS 183; *CIS*, 374–75 no. 4329, plate 54); Minneapolis, Minneapolis Institute of Art acc. 2008.28.2 (*CIS*, 393 no. 4379; Sotheby’s 2002, lot 119); Oslo, Museum of Cultural History inv. C42235 (Ingholt 1928, 114 PS 217; *CIS*, 369 no. 4314, plate 53) |
+| 200 | Copenhagen, Ny Carlsberg Glyptotek inv. 1043 (Ploug 1995, 174–76 no. 70); New York, Metropolitan Museum of Art acc. 02.29.2 (Ingholt 1928, 109 PS 171); London, British Museum 125020 (Ingholt 1928, 119 PS 246; *CIS*, 372 no. 4323, plate 38); Copenhagen, NCG inv. 1145: head (Ploug 1995, 222–23 no. 92); Palmyra, Palmyra Museum inv. 8522/2321 (Charles-Gaffiot et al. 2001, 347 no. 163, fig. on 271); Palmyra, Southeast Necropolis, Tomb H (Taibbôl), relief of Yarḥai; London, Christie’s (Christie’s 2012, lot 190) |
+| 210 | ew York, Metropolitan Museum of Art inv. 98.19.3 (Ingholt 1928, 122 PS 282; *CIS*, 374 no. 4327, plate 36); Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237); Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42) |
+| 230 | Palmyra, Palmyra Museum inv. 457/1660: head (Colledge 1976, fig. 142; Tanabe 1986, plate 486 fig. 460); Damascus, National Museum inv. C18: plaster head (Tanabe 1986, plate 484 fig. 458; Charles-Gaffiot et al. 2001, 336 no. 99, fig. on 236); Berlin, Staatliche Museen inv. VA 50 (Ingholt 1928, 122 PS 279; *CIS*, 395 no. 4385, plate 45) |
+| 236–37 | Beirut, American University Museum inv. 32.35 (Ingholt 1934, 36–38, plate 9.1); Middlebury (VT), Middlebury College Museum of Art inv. 2009.002 (Sotheby’s 2008, lot 68) |
+| 250 | |
 
-Date (AD) Example
+## Bibliography
 
-150
+Albertson 2016
+: Albertson, F. 2016. “Typology, Attribution, and Identity in Palmyran Funerary Portraiture.” In *The World of Palmyra*, ed. Rubina Raja, 152–68. Scientia Danica, Serie H. Humanistica 4. Copenhagen: Royal Danish Academy of Sciences and Letters.
 
-157 Istanbul, Archaeological Museum inv. 3840T (Ingholt 1928, 34–35 PS 11, plate 4; *CIS*, 476 no. 4616, plate 47)
+Chabot 1897
+: Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” *JA* 10: 308–55.
 
-160
+Charles-Gaffiot et al. 2001
+: Charles-Gaffiot, J., H. Lavagne, and J.-M. Hofman, eds. 2001. *Moi, Zénobie, reine de Palmyre*. Milan: Skira.
 
-> Once Berlin, collection von Hahn 462–63 (Ingholt 1928, 119 PS 252; *CIS*, 462–63 no. 4573)
->
-> Istanbul, Archaeological Museum inv. 3837T (Ingholt 1928, 117 PS 237; *CIS*, 363 no. 4299, plate 48)
+Christie’s 2012
+: Christie’s 2012. *Antiquities*. Auction catalogue 4925. April 26, 2012, London.
 
-170
+*CIS*
+: *Corpus Inscriptionum Semiticarum*. \[1926\] 1947. Part 2, vol. 3: *Inscriptiones Palmyrenae*, ed. J. B. Chabot. Paris: C. Klincksieck.
 
-Paris Louvre inv. AO 28381 (Dentzer-Feydey and Teixidor 1993, 244 no. 237)
+Colledge 1976
+: Colledge, M. A. R. 1976. *The Art of Palmyra*. Boulder (CO): Westview Press.
 
-> Palmyra, Palmyra Museum inv. B2729/9166: statue (Charles-Gaffiot et al. 2001, 320 no. 26, fig. on 190)
->
-> Palmyra, Palmyra Museum inv. 1951/7043 (Sadurska and Bounni 1994, 51–52 no. 59, fig. 114)
+Daehner and Lapatin 2015
+: Daehner, J., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
-180
+Dentzer-Feydy and Teixidor 1993
+: Dentzer-Feydy, J., and J. Teixidor. 1993. *Les antiquités de Palmyre au Musée du Louvre*. Paris: Réunion des musées nationaux.
 
-> Palmyra, Palmyra Museum inv. 1955/7047 (Sadurska and Bounni 1994, 53–54 no. 63, fig. 92)
+Fortin 1999
+: Fortin, M. 1999. *Syria: Land of Civilizations*. Trans. J. Macaulay. Montreal: Editions de l’Homme.
 
-New York, Sotheby’s (Sotheby’s 2007, lot 31)
+Ingholt 1928
+: Ingholt, H. 1928. *Studier over Palmyrensk Skulptur*. Copenhagen: C. A. Reitzels.
 
-187 New Haven, Yale University Art Gallery inv. 1954.30.3 (*CIS*, 454 no. 4549, plate 61)
+Ingholt 1934
+: Ingholt, H. 1934. “Palmyrene Sculptures in Beirut.” *Berytus* 1: 32–43.
 
-189 St. Petersburg, Hermitage inv. 8840 (*CIS*, 360 no. 4292, plate 52)
+Johansen 1978
+: Johansen, F. 1978. *Statues of Gudea: Ancient and Modern*. Mesopotamia 6. Copenhagen: Akademisk Forlag.
 
-190
+Kropp and Raja 2014
+: Kropp, A., and R. Raja. 2014. “The Palmyra Portrait Project.” *Syria* 91: 393–408.
 
-> London, British Museum 125032 (Ingholt 1928, 112 PS 201; *CIS*, 362–63 no. 4297, plate 52)
->
-> Toronto, Royal Ontario Museum inv. 953x94.4 (Ingholt 1928, 113 n.1 PS 203)
->
-> Gaziantep, Archaeological Museum inv. 211 (Parlasca 2005, 143, 148 fig. 4)
->
-> Damascus, National Museum, from Hypogeum of Yarḥai (Tanabe 1986, plate 280, fig. 249)
->
-> Jerusalem, Church of St. Anne, Museum inv. PB 2670: double bust (Ingholt 1928, 110 PS 183; *CIS*, 374–75 no. 4329, plate 54)
->
-> Minneapolis, Minneapolis Institute of Art acc. 2008.28.2 (*CIS*, 393 no. 4379; Sotheby’s 2002, lot 119)
->
-> Oslo, Museum of Cultural History inv. C42235 (Ingholt 1928, 114 PS 217; *CIS*, 369 no. 4314, plate 53)
+Lahusen and Formigli 2001
+: Lahusen. F., and E. Formigli. 2001. *Römische Bildnisse aus Bronze: Kunst und Technik*. Munich: Hirmer.
 
-200
+Matthews 1984
+: Matthews, J. 1984. “The Tax Law of Palmyra: Evidence for Economic History in a City of the Roman East.” *JRS* 74: 157–80.
 
-> Copenhagen, Ny Carlsberg Glyptotek inv. 1043 (Ploug 1995, 174–76 no. 70)
+Mattusch 1988
+: Mattusch, C. 1988. *Greek Bronze Statuary: From the Beginnings through the Fifth Century B.C.* Ithaca: Cornell University Press.
 
-New York, Metropolitan Museum of Art acc. 02.29.2 (Ingholt 1928, 109 PS 171)
+Mattusch 1996
+: Mattusch, C. C. 1996. *Classical Bronzes: The Art and Craft of Greek and Roman Statuary*. Ithaca: Cornell University Press.
 
-London, British Museum 125020 (Ingholt 1928, 119 PS 246; *CIS*, 372 no. 4323, plate 38)
+Parlasca 1989
+: Parlasca, K. 1989. “Palmyrenische Bildnisse aus dem Umkreis Zenobias.” In *Festschrift für Robert Werner zu seinem 65. Geburtstag*, ed. W. Dahlheim, W. Schuller, and J. von Ungern-Sternberg, 205–11. Xenia 22. Constance: Universitätsverlag.
 
-Copenhagen, NCG inv. 1145: head (Ploug 1995, 222–23 no. 92)
+Parlasca 1990
+: Parlasca, K. 1990. “Palmyrenische Skulpturen in Museen an der amerikanischen Westküste.” In *Roman Funerary Monuments in the J. Paul Getty Museum*, vol. 1, ed. M. True and G. Koch, 133–44. Occasional Papers on Antiquities 6. Malibu: J. Paul Getty Museum.
 
-> Palmyra, Palmyra Museum inv. 8522/2321 (Charles-Gaffiot et al. 2001, 347 no. 163, fig. on 271)
+Parlasca 2005
+: Parlasca, K. 2005. “ Zu palmyrenischen Inschriften auf Reliefs.” In *A Journey to Palmyra: Collected Essays to Remember Delbert R. Hillers*, ed. D. Hillers and E. Cussini, 137–49. Leiden and Boston: Brill.
 
-Palmyra, Southeast Necropolis, Tomb H (Taibbôl), relief of Yarḥai
+Ploug 1995
+: Ploug, G. 1995. *Catalogue of the Palmyrene Sculptures: Ny Carlsberg Glyptotek*. Copenhagen: Ny Carlsberg Glyptotek.
 
-London, Christie’s (Christie’s 2012, lot 190)
+Pollini 2001
+: Pollini, J. 2001. “Two Bronze Portrait Busts of Slave-Boys from a Shrine of Cobannus in Roman Gaul.” In *Studia Varia from the J. Paul Getty Museum*, vol. 2, ed. M. True and M. Hart, 115–52. Occasional Papers on Antiquities of The J. Paul Getty Museum 10. Malibu: J. Paul Getty Museum.
 
-210
+Romano 1979
+: Romano, J. 1979. *The Luxor Museum of Ancient Egyptian Art: Catalogue.* Cairo: ASOR.
 
-> New York, Metropolitan Museum of Art inv. 98.19.3 (Ingholt 1928, 122 PS 282; *CIS*, 374 no. 4327, plate 36)
->
-> Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237)
+Sadurska and Bounni 1994
+: Sadurska, A., and A. Bounni. 1994*. Les sculptures funéraires de Palmyre*. RdA suppl. 13. Rome: G. Bretschneider.
 
-Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42)
+Sotheby’s 2002
+: Sotheby’s. 2002. *Antiquities*. Auction catalogue 7858. December 11, 2002, New York.
 
-230
+Sotheby’s 2007
+: Sotheby’s. 2007. *Egyptian, Classical and Western Asiatic Antiquities*. Auction catalogue 8373. December 5, 2007, New York.
 
-> Palmyra, Palmyra Museum inv. 457/1660: head (Colledge 1976, fig. 142; Tanabe 1986, plate 486 fig. 460)
->
-> Damascus, National Museum inv. C18: plaster head (Tanabe 1986, plate 484 fig. 458; Charles-Gaffiot et al. 2001, 336 no. 99, fig. on 236)
->
-> Berlin, Staatliche Museen inv. VA 50 (Ingholt 1928, 122 PS 279; *CIS*, 395 no. 4385, plate 45)
+Sotheby’s 2008
+: Sotheby’s 2008. *Egyptian, Classical and Western Asiatic Antiquities*. Auction catalogue 8500. December 10, 2008, New York.
 
-236–37 Beirut, American University Museum inv. 32.35 (Ingholt 1934, 36–38, plate 9.1)
+Tanabe 1986
+: Tanabe, K. 1986. *Sculptures of Palmyra*. Memoirs of the Ancient Orient Museum 1. Tokyo: Ancient Orient Museum.
 
-> Middlebury (VT), Middlebury College Museum of Art inv. 2009.002 (Sotheby’s 2008, lot 68)
-
-250
+Walker 2014
+: Walker, S. 2014. “Emperors and Deities in Rural Britain: A Copper-Alloy Head of Marcus Aurelius from Steane, near Brackley (Northants).” *Britannia* 45: 223–42.
 
 [^1]: For a general discussion, see Colledge 1976, 63–82.
 

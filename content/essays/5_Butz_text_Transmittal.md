@@ -9,7 +9,9 @@ abstract: The paper proposes the bronze head of Queen Arsinoë III from the coll
 sort_order: 9
 ---
 
-\[epigraph\]Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
+{{% quire-epigraph %}}
+Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
+{{% /quire-epigraph %}}
 
 The bronze head of Arsinoë III is one of the most important pieces in the Giuseppe Acerbi Collection of the Museo Civico di Palazzo Te in Mantua, a collection assembled when Acerbi was the Austrian consul general in Alexandria between 1826 and 1834 and later given to his hometown of Mantua (**fig. 5.1**). Even compared with the exceptional quality of the overall collection, which is particularly strong in Late Period, Ptolemaic, and Roman material, this representation of Arsinoë III is singular. It is the only major bronze Acerbi acquired and it is a rare embodiment in that material of Hellenistic royal portraiture in the Greek tradition. The head (**fig. 5.2**) connects strongly with other significant portraits displayed in the same room at the Palazzo Te. One is possibly a portrait of Psammetichus I, who took the throne of Egypt in the seventh century BC with the help of Greek mercenaries and who, by formally authorizing the Greek settlement at Naukratis south of Alexandria, opened the intercultural contact that would culminate in the Ptolemaic period.[^1] Another portrait of a Ptolemaic king is also nearby, rendered in the Egyptian style and identified as perhaps Ptolemy II Philadelphus,[^2] who would have been the queen’s grandfather.
 
@@ -17,7 +19,7 @@ While the head of Arsinoë III was published in the catalogue for the 2015–16 
 
 What struck me initially upon seeing the bronze head, first from photographs and then in person, was the remarkably subtle combination of realism and idealism in the rendering of the features, an impression that is heightened when one compares the two profile views (**figs. 5.3a–b**). They are appreciably different, a point to which I will return. Many scholars have considered two marble heads of a Ptolemaic king and queen in Boston as standards for studying the portrait sculpture of the fourth Ptolemaic royal couple, Ptolemy IV and Arsinoë III.[^7] But the Boston case is not definitive, and neither is the numismatic evidence such as the series of gold octodrachms already cited. A unique realism has been noted in these coin portraits of Arsinoë III by R. R. R. Smith:
 
->The queen’s coin portrait is unusual. It is close to Arsinoe II and Berenike II in its crisply articulated court style and greatly enlarged eyes, but here the queen has a sharp mortal individuality. Her prominent nose breaks the classical profile and she looks a little older than the ideal of young womanhood; and the whole seems to be of a woman who could age. The queen has no divine, only royal attributes: stephane, diadem and sceptre; and an air of reality is given by the prominent earrings and necklace. Her predecessors created new female royal ideals; she uses the same formal means but introduces a strong portrait element to express her more stern, rather Victorian-looking, royal style.[^8]
+> The queen’s coin portrait is unusual. It is close to Arsinoe II and Berenike II in its crisply articulated court style and greatly enlarged eyes, but here the queen has a sharp mortal individuality. Her prominent nose breaks the classical profile and she looks a little older than the ideal of young womanhood; and the whole seems to be of a woman who could age. The queen has no divine, only royal attributes: stephane, diadem and sceptre; and an air of reality is given by the prominent earrings and necklace. Her predecessors created new female royal ideals; she uses the same formal means but introduces a strong portrait element to express her more stern, rather Victorian-looking, royal style.[^8]
 
 It was her son Ptolemy V Epiphanes, of course, who introduced the series, not the queen herself. In speaking about the Mantua head, which he identifies as “most likely” the queen, Smith surprisingly describes it as “stiff and lifeless and the hair merely engraved on top of the head rather than modeled” and “not the best Hellenistic bronze work.”[^9] A view of the top of the head shows the incised patterning to which he refers (**fig. 5.4**). Ghisellini, while recognizing the restrained realism, asserts that the whole adds up a little differently:
 
@@ -51,77 +53,77 @@ I foremost acknowledge Chiara Pisani, Conservator of the Museo Civico di Palazzo
 
 ## Bibliography
 
-Ashton 2001<br />
-Ashton, S.-A. 2001. *Ptolemaic Royal Sculpture from Egypt: The Interaction between Greek and Egyptian Traditions*. BAR–IS 923. Oxford: Archaeopress.
+Ashton 2001
+: Ashton, S.-A. 2001. *Ptolemaic Royal Sculpture from Egypt: The Interaction between Greek and Egyptian Traditions*. BAR–IS 923. Oxford: Archaeopress.
 
-Assmann 2003<br />
-Assmann, J. 2003. *The Mind of Egypt: History and Meaning in the Time of the Pharaohs*. Trans. Andrew Jenkins. Cambridge, MA, and London: Harvard University Press.
+Assmann 2003
+: Assmann, J. 2003. *The Mind of Egypt: History and Meaning in the Time of the Pharaohs*. Trans. Andrew Jenkins. Cambridge, MA, and London: Harvard University Press.
 
-Bagnall and Rathbone 2004<br />
-Bagnall, R. S., and D. W. Rathbone, eds. 2004. *Egypt from Alexander to the Early Christians*. Los Angeles: J. Paul Getty Museum.
+Bagnall and Rathbone 2004
+: Bagnall, R. S., and D. W. Rathbone, eds. 2004. *Egypt from Alexander to the Early Christians*. Los Angeles: J. Paul Getty Museum.
 
-Budge \[1929\] 1989<br />
-Budge, E. A. \[1929\] 1989. *The Rosetta Stone*. London: The Religious Tract Society; repr. ed., New York: Dover Publications.
+Budge \[1929\] 1989
+: Budge, E. A. \[1929\] 1989. *The Rosetta Stone*. London: The Religious Tract Society; repr. ed., New York: Dover Publications.
 
-Butz 2010<br />
-Butz, P. A. 2010. *The Art of the Hekatompedon Inscription and the Birth of the Stoikhedon Style*. Monumenta Greca et Latina 16. Leiden and Boston: E. J. Brill.
+Butz 2010
+: Butz, P. A. 2010. *The Art of the Hekatompedon Inscription and the Birth of the Stoikhedon Style*. Monumenta Greca et Latina 16. Leiden and Boston: E. J. Brill.
 
-Donatelli 1995<br />
-Donatelli, L. 1995. *La Raccolta Egizia di Guiseppe Acerbi*. 2nd ed. Mantova: Publi Paolini.
+Donatelli 1995
+: Donatelli, L. 1995. *La Raccolta Egizia di Guiseppe Acerbi*. 2nd ed. Mantova: Publi Paolini.
 
-Fraser \[1972\] 2001<br />
-Fraser, P. M. \[1972\] 2001. *Ptolemaic Alexandria.* 3 vols. Repr. ed. Oxford: Clarendon Press.
+Fraser \[1972\] 2001
+: Fraser, P. M. \[1972\] 2001. *Ptolemaic Alexandria.* 3 vols. Repr. ed. Oxford: Clarendon Press.
 
-Ghisellini 2015<br />
-Ghisellini, E. 2015. “Portrait of Arsinoë III.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 200–201. Los Angeles: J. Paul Getty Museum.
+Ghisellini 2015
+: Ghisellini, E. 2015. “Portrait of Arsinoë III.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 200–201. Los Angeles: J. Paul Getty Museum.
 
-Hölbl 2001<br />
-Hölbl, G. 2001. *A History of the Ptolemaic Empire* Trans. T. Saavedra. London and New York: Routledge.
+Hölbl 2001
+: Hölbl, G. 2001. *A History of the Ptolemaic Empire* Trans. T. Saavedra. London and New York: Routledge.
 
-Kyrieleis 1975<br />
-Kyrieleis, H. 1975. *Bildnisse der Ptolemäer*. Berlin: Mann.
+Kyrieleis 1975
+: Kyrieleis, H. 1975. *Bildnisse der Ptolemäer*. Berlin: Mann.
 
-McKenzie 2007<br />
-McKenzie, J. 2007. *The Architecture of Alexandria and Egypt: 300 BC–AD 700*. New Haven and London: Yale University Press.
+McKenzie 2007
+: McKenzie, J. 2007. *The Architecture of Alexandria and Egypt: 300 BC–AD 700*. New Haven and London: Yale University Press.
 
-Neer 2012<br />
-Neer, R. T. 2012. *Greek Art and Archaeology: A New History c. 2500–c. 150 BCE*. New York: Thames and Hudson.
+Neer 2012
+: Neer, R. T. 2012. *Greek Art and Archaeology: A New History c. 2500–c. 150 BCE*. New York: Thames and Hudson.
 
-Newby 2007<br />
-Newby, Z. 2007. “Reading the Allegory of the Archelaos Relief.” In *Art and Inscriptions in the Ancient World*, ed. Z. Newby and R. Leader-Newby, 156–78. Cambridge: Cambridge University Press.
+Newby 2007
+: Newby, Z. 2007. “Reading the Allegory of the Archelaos Relief.” In *Art and Inscriptions in the Ancient World*, ed. Z. Newby and R. Leader-Newby, 156–78. Cambridge: Cambridge University Press.
 
-Newton et al. 1874<br />
-Newton, C. T., E. L. Hicks, G. Hirschfeld, and F. H. Marshall. 1874. *The Collection of Ancient Greek Inscriptions in the British Museum*. 4 vols. London: British Museum.
+Newton et al. 1874
+: Newton, C. T., E. L. Hicks, G. Hirschfeld, and F. H. Marshall. 1874. *The Collection of Ancient Greek Inscriptions in the British Museum*. 4 vols. London: British Museum.
 
-Pinkwart 1965<br />
-Pinkwart, D. 1965. *Das Relief des Archelaos von Priene und die “Musen des Philiskos*.” Kallmütz: Lassleben.
+Pinkwart 1965
+: Pinkwart, D. 1965. *Das Relief des Archelaos von Priene und die “Musen des Philiskos*.” Kallmütz: Lassleben.
 
-Pollitt 1986<br />
-Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge: Cambridge University Press.
+Pollitt 1986
+: Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge: Cambridge University Press.
 
-Richter 1965<br />
-Richter, G. M. 1965. *Portraits of the Greeks*. 3 vols. London: Phaidon.
+Richter 1965
+: Richter, G. M. 1965. *Portraits of the Greeks*. 3 vols. London: Phaidon.
 
-Ridgway 2000<br />
-Ridgway, B. S. 2000. *Hellenistic Sculpture*. Vol. 2, *The Styles of ca. 200-100 B.C.* Madison: University of Wisconsin Press.
+Ridgway 2000
+: Ridgway, B. S. 2000. *Hellenistic Sculpture*. Vol. 2, *The Styles of ca. 200-100 B.C.* Madison: University of Wisconsin Press.
 
-Ridgway 2001<br />
-Ridgway, B. S. 2001. *Hellenistic Sculpture*. Vol. 1: *The Styles of ca. 331–200 B.C.* Madison: University of Wisconsin Press.
+Ridgway 2001
+: Ridgway, B. S. 2001. *Hellenistic Sculpture*. Vol. 1: *The Styles of ca. 331–200 B.C.* Madison: University of Wisconsin Press.
 
-Ridgway 2002<br />
-Ridgway, B. S. 2002. *Hellenistic Sculpture*. Vol. 3: *The Styles of ca. 100-31 B.C.* Madison: University of Wisconsin Press.
+Ridgway 2002
+: Ridgway, B. S. 2002. *Hellenistic Sculpture*. Vol. 3: *The Styles of ca. 100-31 B.C.* Madison: University of Wisconsin Press.
 
-Smith 1988<br />
-Smith, R. R. R. 1988. *Hellenistic Royal Portraits*. Oxford: Clarendon Press.
+Smith 1988
+: Smith, R. R. R. 1988. *Hellenistic Royal Portraits*. Oxford: Clarendon Press.
 
-Stanwick 2002<br />
-Stanwick, P. E. 2002. *Portraits of the Ptolemies: Greek Kings as Egyptian Pharaohs*. Austin: University of Texas Press.
+Stanwick 2002
+: Stanwick, P. E. 2002. *Portraits of the Ptolemies: Greek Kings as Egyptian Pharaohs*. Austin: University of Texas Press.
 
-Stewart 1990<br />
-Stewart, A. 1990. *Greek Sculpture: An Exploration*. 2 vols. New Haven and London: Yale University Press.
+Stewart 1990
+: Stewart, A. 1990. *Greek Sculpture: An Exploration*. 2 vols. New Haven and London: Yale University Press.
 
-Thompson 2012<br />
-Thompson, D. J. 2012. *Memphis under the Ptolemies*. 2nd ed. Princeton and Oxford: Princeton University Press.
+Thompson 2012
+: Thompson, D. J. 2012. *Memphis under the Ptolemies*. 2nd ed. Princeton and Oxford: Princeton University Press.
 
 [^1]: Donatelli 1995, 43, cat. no. 10. See also Butz 2010, 98–103, for the site of Naukratis as a place of important epigraphic exchange between the Egyptian and Greek traditions.
 
@@ -163,7 +165,7 @@ Thompson, D. J. 2012. *Memphis under the Ptolemies*. 2nd ed. Princeton and Oxfor
 
 [^20]: Fraser (\[1972\] 2001, 2: 862) gives the text for the epigram (P.Cair. 65445) including the vocative address, εὐαὶων Πτολεμαῖε. In a disappointing assessment, Fraser seemingly disassociates the Archelaos Relief not only with Ptolemy IV and Arsinoë, but with Alexandria itself. The reasons given are not clear. Mention is made of a “later date.”
 
-[^21]: <http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22>.
+[^21]:See [http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22](http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22).
 
 [^22]: Thompson 2012, 108–109; Bagnall and Rathbone 2004, 100–101, especially fig. 3.4.6.
 

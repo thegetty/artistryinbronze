@@ -1,17 +1,13 @@
-**\[title\]Function and Use of Roman Medium-Sized** **Statuettes** **\
-in the Northwestern Provinces**
-
-\[author\]Annemarie Kaufmann-Heinimann
-
-\[affiliation\]Universität Basel
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-In contrast to life-size statues and small bronzes, medium-sized statuettes have rarely been the focus of scholarly interest. As to their function, it is often assumed that there must have been a clear distinction between purely decorative pieces and statuettes that were used as votive objects. The epigraphical and literary sources, however, contradict such a distinction and rather draw attention to their multi-purpose usage. With this broader approach in mind, some medium-sized statuettes from both secular and religious contexts of Rome’s northwestern provinces are discussed.[^1]
-
-\[main text\]
+---
+title: Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces
+layout: page
+author:
+ - first_name: Annemarie
+   last_name: Kaufmann-Heinimann
+   affiliation: Universität Basel
+abstract: In contrast to life-size statues and small bronzes, medium-sized statuettes have rarely been the focus of scholarly interest. As to their function, it is often assumed that there must have been a clear distinction between purely decorative pieces and statuettes that were used as votive objects. The epigraphical and literary sources, however, contradict such a distinction and rather draw attention to their multi-purpose usage. With this broader approach in mind, some medium-sized statuettes from both secular and religious contexts of Rome’s northwestern provinces are discussed.[^1]
+sort_order: 20
+---
 
 When we think of figural bronzes from the northwestern provinces of the Roman world, a considerable number of small statuettes and some impressive fragments of life-size statues come to mind. Medium-sized statuettes, between approximately 40 and 100 cm (16 to 39 in.) high, however, are less well documented, as they seem to have had less chance of surviving either intact, as did small bronzes, or as fragments, as did large statues. It may be worthwhile, therefore, to examine some of these specimens more closely in order to see whether it is possible to gain more information about their use and function: Were they used as decorative elements in villa gardens, as votive objects, or even as the cult images of temples?[^2]
 
@@ -39,198 +35,148 @@ The last statuette in this series, too, served as a votive object. It belongs to
 
 This brief overview has shown that the group of medium-sized statuettes might greatly profit from more systematic research into their iconographic, technical, and functional aspects.
 
-\[A-head\]Bibliography
-
-\[bibliography\]
+## Bibliography
 
 Azéma et al. 2012
-
-Azéma, A., B. Mille, F. Pilon, J.-C. Birolleau, and L. Guyard. 2012. “Étude archéométallurgique du dépôt de grands bronzes du sanctuaire gallo-romain du Vieil-Evreux (Eure).” *ArchéoSciences* 36: 153–72.
+:   Azéma, A., B. Mille, F. Pilon, J.-C. Birolleau, and L. Guyard. 2012. “Étude archéométallurgique du dépôt de grands bronzes du sanctuaire gallo-romain du Vieil-Evreux (Eure).” *ArchéoSciences* 36: 153–72.
 
 Babelon 1916
-
-Babelon, E. 1916. *Le trésor d’argenterie de Berthouville, près Bernay (Eure), conservé au Département des médailles et antiques de la Bibliothèque nationale*. Paris: Librairie centrale des Beaux-Arts; Émile Lévy.
+: Babelon, E. 1916. *Le trésor d’argenterie de Berthouville, près Bernay (Eure), conservé au Département des médailles et antiques de la Bibliothèque nationale*. Paris: Librairie centrale des Beaux-Arts; Émile Lévy.
 
 Baratte and Painter 1989
-
-Baratte, F. and K. Painter, eds. 1989. *Trésors d’orfèvrerie gallo-romains*. Paris: Éditions de la Réunion des musées nationaux.
+: Baratte, F. and K. Painter, eds. 1989. *Trésors d’orfèvrerie gallo-romains*. Paris: Éditions de la Réunion des musées nationaux.
 
 Bauchhenss 1994
-
-Bauchhenss, G. 1994. “Rosmerta.” *LIMC* 7: 644–48.
+: Bauchhenss, G. 1994. “Rosmerta.” *LIMC* 7: 644–48.
 
 Bertrandy et al. 2005
-
-Bertrandy, F., F. Kayser, A. Pelletier, B. Rémy, and F. Wiblé. 2005. *Inscriptions latines de Narbonnaise (ILN)*. Vol. 5.3: *Vienne.* Gallia, Suppl. 44. Paris: CNRS.
+: Bertrandy, F., F. Kayser, A. Pelletier, B. Rémy, and F. Wiblé. 2005. *Inscriptions latines de Narbonnaise (ILN)*. Vol. 5.3: *Vienne.* Gallia, Suppl. 44. Paris: CNRS.
 
 Billoret 1970
-
-Billoret, R. 1970. “Circonscription de Lorraine.” *Gallia* 70: 281–315.
+:Billoret, R. 1970. “Circonscription de Lorraine.” *Gallia* 70: 281–315.
 
 Boucher 1972
-
-Boucher, S. 1972. “Trois bronzes divins de Thiennes (Nord).” *Gallia* 30: 127–48.
+: Boucher, S. 1972. “Trois bronzes divins de Thiennes (Nord).” *Gallia* 30: 127–48.
 
 Costantini 1997
-
-Costantini, A. 1997. “La Triade Capitolina.” In *LIMC* 8: 461–70.
+: Costantini, A. 1997. “La Triade Capitolina.” In *LIMC* 8: 461–70.
 
 Deniaux 2006
-
-Deniaux, E. 2006. “Les dédicants du trésor du sanctuaire de Berthouville (cité des *Lexonii*).” In *Sanctuaires, pratiques cultuelles et territoires civiques dans l'Occident romain*, ed. M. Dondin-Payre and M.-Th. Raepsaet-Charlier, 271–95. Brussels: Livre Timperman.
+: Deniaux, E. 2006. “Les dédicants du trésor du sanctuaire de Berthouville (cité des *Lexonii*).” In *Sanctuaires, pratiques cultuelles et territoires civiques dans l'Occident romain*, ed. M. Dondin-Payre and M.-Th. Raepsaet-Charlier, 271–95. Brussels: Livre Timperman.
 
 Deyts and Vernou 2008–2009
-
-Deyts, S., and C. Vernou. 2008–2009. “Mercure et Rosmerta, un nouveau couple de divinités gallo-romaines au Musée archéologique.” *Bulletin des Musées de Dijon* 11: 23–33.
+: Deyts, S., and C. Vernou. 2008–2009. “Mercure et Rosmerta, un nouveau couple de divinités gallo-romaines au Musée archéologique.” *Bulletin des Musées de Dijon* 11: 23–33.
 
 Dondin-Payre and Kaufmann-Heinimann 2009
-
-Dondin-Payre, M., and A. Kaufmann-Heinimann. 2009. “Trésors et biens des temples: Réflexions à partir de cas de Gaules: Neuvy: Champoulet, Cobannus (Éduens).” *Archiv für Religionsgeschichte* 11: 89–120.
+: Dondin-Payre, M., and A. Kaufmann-Heinimann. 2009. “Trésors et biens des temples: Réflexions à partir de cas de Gaules: Neuvy: Champoulet, Cobannus (Éduens).” *Archiv für Religionsgeschichte* 11: 89–120.
 
 Dövener 2010
-
-Dövener, F. 2010. “‘Auge um Auge’ . . . Ein seltenes Fundstück aus dem Tempelbezirk des römischen Vicus in Dalheim.” *Empreintes* 3: 48–53.
+: Dövener, F. 2010. “‘Auge um Auge’ . . . Ein seltenes Fundstück aus dem Tempelbezirk des römischen Vicus in Dalheim.” *Empreintes* 3: 48–53.
 
 Estienne 2010
-
-Estienne, S. 2010. “*Simulacra deorum* versus *ornamenta aedium*: The Status of Divine Images in the Temples of Rome.” In *Divine Images and Human Imaginations in Ancient Greece and Rome,* ed. J. Mylonopoulos, 259–71. Religions in the Graeco-Roman World 170. Leiden: Brill.
+: Estienne, S. 2010. “*Simulacra deorum* versus *ornamenta aedium*: The Status of Divine Images in the Temples of Rome.” In *Divine Images and Human Imaginations in Ancient Greece and Rome*, ed. J. Mylonopoulos, 259–71. Religions in the Graeco-Roman World 170. Leiden: Brill.
 
 Estienne 2013
-
-Estienne, S. 2013. “Penser le patrimoine des dieux, entre public et privé.” In *Dialogues entre sphère publique et sphère privée dans l’espace de la cité romaine: Vecteurs, acteurs, significations*, ed. A. Dardenay and E. Rosso, 55–66. Ausonius Éditions, Scripta Antiqua 56. Bordeaux: De Boccard.
+: Estienne, S. 2013. “Penser le patrimoine des dieux, entre public et privé.” In *Dialogues entre sphère publique et sphère privée dans l’espace de la cité romaine: Vecteurs, acteurs, significations*, ed. A. Dardenay and E. Rosso, 55–66. Ausonius Éditions, Scripta Antiqua 56. Bordeaux: De Boccard.
 
 Galliou 2010
-
-Galliou, P. 2010. *Carte archéologique de la Gaule*. 29: *Le Finistère.* Paris: Académie des Inscriptions et Belles-Lettres.
+: Galliou, P. 2010. *Carte archéologique de la Gaule*. 29: *Le Finistère*. Paris: Académie des Inscriptions et Belles-Lettres.
 
 Gury 2006
-
-Gury, F. 2006. “Mars en Gaule romaine: images d’un dieu investi par l'idéologie impériale.” In *Mars en Occident: Actes du colloque international “Autour d'Allones (Sarthe), les sanctuaires de Mars en Occident”, Le Mans, Université du Maine, 4–5–6 juin 2003*, ed. F. Brouquier-Reddé, E. Betrand, M.-B. Chardenoux, K. Gruel, and M.-C. L’Huillier, 105–19. Rennes: Presses Universitaires.
+: Gury, F. 2006. “Mars en Gaule romaine: images d’un dieu investi par l'idéologie impériale.” In *Mars en Occident: Actes du colloque international “Autour d'Allones (Sarthe), les sanctuaires de Mars en Occident”, Le Mans, Université du Maine, 4–5–6 juin 2003*, ed. F. Brouquier-Reddé, E. Betrand, M.-B. Chardenoux, K. Gruel, and M.-C. L’Huillier, 105–19. Rennes: Presses Universitaires.
 
 Guyard et al. 2012
-
-Guyard, L., C. Fontaine, and S. Bertaudière. 2012. “Relecture du dépôt de bronze de l'époque romaine du Vieil-Évreux (Eure).” *Gallia* 69.2: 151–94.
+: Guyard, L., C. Fontaine, and S. Bertaudière. 2012. “Relecture du dépôt de bronze de l'époque romaine du Vieil-Évreux (Eure).” *Gallia* 69.2: 151–94.
 
 Haynes 2013
-
-Haynes, I. 2013. “Advancing the Systematic Study of Ritual Deposition in the Greco-Roman World.” In Schäfer and Witteyer 2013, 7–19.
+: Haynes, I. 2013. “Advancing the Systematic Study of Ritual Deposition in the Greco-Roman World.” In Schäfer and Witteyer 2013, 7–19.
 
 Heilmeyer 1996
-
-Heilmeyer, W.-D. 1996. *Der Jüngling von Salamis: Technische Untersuchungen zu römischen Großbronzen.* Mainz: Philipp von Zabern.
+: Heilmeyer, W.-D. 1996. *Der Jüngling von Salamis: Technische Untersuchungen zu römischen Großbronzen*. Mainz: Philipp von Zabern.
 
 Hiller 1994
-
-Hiller, H. 1994. “Zum Xantener Bronzeknaben.” In *Akten der 10. Internationalen Tagung über antike Bronzen, Freiburg, 18.–22. Juli 1988*, 201–10. Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg 45.
+: Hiller, H. 1994. “Zum Xantener Bronzeknaben.” In *Akten der 10. Internationalen Tagung über antike Bronzen, Freiburg, 18.–22. Juli 1988*, 201–10. Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg 45.
 
 Kapossy 1969
-
-Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und römischen Zeit*. Zurich: Juris Druck & Verlag.
+: Kapossy, B. 1969. *Brunnenfiguren der hellenistischen und römischen Zeit*. Zurich: Juris Druck & Verlag.
 
 Kaufmann-Heinimann 1998
-
-Kaufmann-Heinimann, A. 1998. *Götter und Lararien aus Augusta Raurica: Herstellung, Fundzusammenhänge und sakrale Funktion figürlicher Bronzen in einer römischen Sta*dt. Forschungen in Augst 26. Augst: Römermuseum.
+: Kaufmann-Heinimann, A. 1998. *Götter und Lararien aus Augusta Raurica: Herstellung, Fundzusammenhänge und sakrale Funktion figürlicher Bronzen in einer römischen Stadt*. Forschungen in Augst 26. Augst: Römermuseum.
 
 Kaufmann-Heinimann 2012
-
-Kaufmann-Heinimann, A. 2012. “Ikonographie und Stil: Zu Tracht und Ausstattung einheimischer Gottheiten in den Nordwestprovinzen.” In *Bronzes grecs et romains: Hommage à Claude Rolley*, 2–28. Institut national d’historie de l’art (INHA), Actes de colloques & livres en ligne. &lt;http://inha.revues.org/3964&gt;.
+: Kaufmann-Heinimann, A. 2012. “Ikonographie und Stil: Zu Tracht und Ausstattung einheimischer Gottheiten in den Nordwestprovinzen.” In *Bronzes grecs et romains: Hommage à Claude Rolley*, 2–28. Institut national d’historie de l’art (INHA), Actes de colloques & livres en ligne. [http://inha.revues.org/3964&gt](http://inha.revues.org/3964&gt).
 
 Krier 2011
-
-Krier, J. 2011. “*Deae Fortunae ob salutem imperi*: Nouvelles inscriptions de Dalheim (Luxembourg) et la vie religieuse d’un *vicus* du nord-est de la Gaule à la veille de la tourmente du III^e^ siècle.” *Gallia* 68.2: 313–40.
+: Krier, J. 2011. “*Deae Fortunae ob salutem imperi*: Nouvelles inscriptions de Dalheim (Luxembourg) et la vie religieuse d’un *vicus* du nord-est de la Gaule à la veille de la tourmente du III^e^ siècle.” *Gallia* 68.2: 313–40.
 
 Kunze 2015
-
-Kunze, C. 2015. “Kontextwechsel: Zur Interpretation antiker Skulpturen in unterschiedlichen Aufstellungssituationen.” In *Leibhafte Kunst: Statuen und kulturelle Identität*, ed. D. Boschung and C. Vorster, 55–91. Morphomata 24. Paderborn: Wilhelm Fink.
+: Kunze, C. 2015. “Kontextwechsel: Zur Interpretation antiker Skulpturen in unterschiedlichen Aufstellungssituationen.” In *Leibhafte Kunst: Statuen und kulturelle Identität*, ed. D. Boschung and C. Vorster, 55–91. Morphomata 24. Paderborn: Wilhelm Fink.
 
 Lapatin 2014
-
-Lapatin K. ed. 2014. *The Berthouville Silver Treasure and Roman Luxury*. Los Angeles: J. Paul Getty Museum.
+: Lapatin K. ed. 2014. *The Berthouville Silver Treasure and Roman Luxury*. Los Angeles: J. Paul Getty Museum.
 
 Lavagne 1989
-
-Lavagne, H. ed. 1989. *Les dieux de la Gaule romaine*. Exh. cat. Luxembourg, Galerie d’Art Municipale Villa Vauban. Luxembourg: Ville de Luxembourg.
+: Lavagne, H. ed. 1989. *Les dieux de la Gaule romaine*. Exh. cat. Luxembourg, Galerie d’Art Municipale Villa Vauban. Luxembourg: Ville de Luxembourg.
 
 Leibundgut 1980
-
-Leibundgut, A. 1980. *Die römischen Bronzen der Schweiz*. Vol. 3: *Westschweiz, Bern und Wallis.* Mainz: Philipp von Zabern.
+: Leibundgut, A. 1980. *Die römischen Bronzen der Schweiz*. Vol. 3: *Westschweiz, Bern und Wallis*. Mainz: Philipp von Zabern.
 
 Manfrini-Aragno 1987
-
-Manfrini-Aragno, I. 1987. *Bacchus dans les bronzes hellénistiques et romains: Les artisans et leur répertoire.* Cahiers d’archéologie romande 34. Lausanne: Bibliothèque historique vaudoise.
+: Manfrini-Aragno, I. 1987. *Bacchus dans les bronzes hellénistiques et romains: Les artisans et leur répertoire*. Cahiers d’archéologie romande 34. Lausanne: Bibliothèque historique vaudoise.
 
 de Mély 1913
-
-de Mély, E. 1913. “Les trois statuettes de bronze de Merville.” *MonPiot* 20: 155–62.
+: de Mély, E. 1913. “Les trois statuettes de bronze de Merville.” *MonPiot* 20: 155–62.
 
 Menzel 1980
-
-Menzel, H. 1980. “Die Jupiterstatuetten von Bree, Evreux und Dalheim und verwandte Bronzen.” In *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen, 13.–17. Mai 1980 in Berlin*, ed. U. Gehrig, 186–96. Berlin: Staatliche Museen Preussischer Kulturbesitz.
+: Menzel, H. 1980. “Die Jupiterstatuetten von Bree, Evreux und Dalheim und verwandte Bronzen.” In *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen, 13.–17. Mai 1980 in Berlin*, ed. U. Gehrig, 186–96. Berlin: Staatliche Museen Preussischer Kulturbesitz.
 
 Metzler and Zimmer 1978
-
-Metzler, J., and J. Zimmer. 1978. “Beiträge zur Archäologie von Dalheim.” *Hémecht* 30: 351–82.
+: Metzler, J., and J. Zimmer. 1978. “Beiträge zur Archäologie von Dalheim.” *Hémecht* 30: 351–82.
 
 Nuber 1974
-
-Nuber, H. U. 1974. “Zum Vergrabungszeitpunkt der Silberfunde von Hildesheim und Berthouville.” *BMusBrux* 46: 23–30.
+: Nuber, H. U. 1974. “Zum Vergrabungszeitpunkt der Silberfunde von Hildesheim und Berthouville.” *BMusBrux* 46: 23–30.
 
 Oehmke 2004
-
-Oehmke, S. 2004. *Das Weib im Manne*: *Hermaphroditos in der griechisch-römischen Antike.* Winckelmann-Institut der Humboldt-Universität zu Berlin 4. Berlin: Willmuth Arenhövel.
+: Oehmke, S. 2004. *Das Weib im Manne*: *Hermaphroditos in der griechisch-römischen Antike.* Winckelmann-Institut der Humboldt-Universität zu Berlin 4. Berlin: Willmuth Arenhövel.
 
 Peltz and Schalles 2011
-
-Peltz, U., and H.-J. Schalles. 2011. *Der Xantener Knabe: Technologie, Ikonographie, Funktion und Datierung.* Xantener Berichte: Grabung – Forschung – Präsentation 22. Darmstadt and Mainz: Philipp von Zabern.
+: Peltz, U., and H.-J. Schalles. 2011. *Der Xantener Knabe: Technologie, Ikonographie, Funktion und Datierung*. Xantener Berichte: Grabung – Forschung – Präsentation 22. Darmstadt and Mainz: Philipp von Zabern.
 
 Pollini 2002
-
-Pollini, J. 2002. *Gallo-Roman Bronzes and the Process of Romanization: The Cobannus Hoard.* Monumenta Graeca et Romana 9. Leiden, Boston, and Cologne: Brill.
+: Pollini, J. 2002. *Gallo-Roman Bronzes and the Process of Romanization: The Cobannus Hoard*. Monumenta Graeca et Romana 9. Leiden, Boston, and Cologne: Brill.
 
 Reinach 1898
-
-Reinach, S. 1898. “Hermaphrodite: Statuette de bronze de la collection du M^is^ de Luppé.” *RA:* 321–36.
+: Reinach, S. 1898. “Hermaphrodite: Statuette de bronze de la collection du M^is^ de Luppé.” *RA:* 321–36.
 
 de Ridder 1913
-
-de Ridder, A. 1913. *Les bronzes antiques du Louvre*. Vol. 1: *Les figurines.* Paris: Ernest Leroux.
+: de Ridder, A. 1913. *Les bronzes antiques du Louvre*. Vol. 1: *Les figurines*. Paris: Ernest Leroux.
 
 Rolley 2002
-
-Rolley, C. 2002. “Les bronzes grecs et romains: recherches récentes.” *RA*: 269–89.
+: Rolley, C. 2002. “Les bronzes grecs et romains: recherches récentes.” *RA*: 269–89.
 
 Sanquer 1973
-
-Sanquer, R. 1973. “La grande statuette de bronze de Kerguilly en Dinéault (Finistère).” *Gallia* 31: 61–80.
+: Sanquer, R. 1973. “La grande statuette de bronze de Kerguilly en Dinéault (Finistère).” *Gallia* 31: 61–80.
 
 Schäfer and Witteyer 2013
-
-Schäfer, A., and M. Witteyer, eds. 2013. *Rituelle Deponierungen in Heiligtümern der hellenistisch-römischen Welt: Internationale Tagung Mainz 28.–30. April 2008*. Mainzer Archäologische Schriften 10. Mainz: Generaldirektion Kulturelles Erbe, Direktion Landesarchäologie.
+: Schäfer, A., and M. Witteyer, eds. 2013. *Rituelle Deponierungen in Heiligtümern der hellenistisch-römischen Welt: Internationale Tagung Mainz 28.–30. April 2008*. Mainzer Archäologische Schriften 10. Mainz: Generaldirektion Kulturelles Erbe, Direktion Landesarchäologie.
 
 Scheid 2007
-
-Scheid, J. 2007. “Comprendre les cultes et lieux de culte des cités des Gaules.” In *Les villes romaines du Nord de la Gaule: Vingt ans de recherches nouvelles: Actes du XXV^e^ colloque international de HALMA-IPEL UMR CNRS 8164*, ed. R. Hanoune, 477–83. Revue du Nord, hors série. Collection Art et Archéologie 10. Villeneuve-dAscq: Revue du Nord.
+: Scheid, J. 2007. “Comprendre les cultes et lieux de culte des cités des Gaules.” In *Les villes romaines du Nord de la Gaule: Vingt ans de recherches nouvelles: Actes du XXV<sup>e</sup> colloque international de HALMA-IPEL UMR CNRS 8164*, ed. R. Hanoune, 477–83. Revue du Nord, hors série. Collection Art et Archéologie 10. Villeneuve-dAscq: Revue du Nord.
 
 Scheid, J. 2009.
-
-Scheid, J. 2009. “Les biens des temples à Rome et dans le monde romain.” *Archiv für Religionsgeschichte* 11: 1–4.
+: Scheid, J. 2009. “Les biens des temples à Rome et dans le monde romain.” *Archiv für Religionsgeschichte* 11: 1–4.
 
 Scheid, J. 2013.
-
-Scheid, J. 2013. “Bemerkungen zu *bothros* und *fauis(s)a*.” In Schäfer and Witteyer 2013, 21–24.
+: Scheid, J. 2013. “Bemerkungen zu *bothros* und *fauis(s)a*.” In Schäfer and Witteyer 2013, 21–24.
 
 Stewart 2003
-
-Stewart, P. 2003. *Statues in Roman Society: Representation and Response.* Oxford: Oxford University Press.
+: Stewart, P. 2003. *Statues in Roman Society: Representation and Response*. Oxford: Oxford University Press.
 
 Van Andringa 2012
-
-Van Andringa, W. 2012. “Statues in the Temples of Pompeii: Combinations of Gods, Local Definitions of Cults, and the Memory of the City.” In *Historical and Religious Memory in the Ancient World,* ed. B. Dignas and R. R. R. Smith, 83–115. Oxford: Oxford University Press.*\
-*
+: Van Andringa, W. 2012. “Statues in the Temples of Pompeii: Combinations of Gods, Local Definitions of Cults, and the Memory of the City.” In *Historical and Religious Memory in the Ancient World*, ed. B. Dignas and R. R. R. Smith, 83–115. Oxford: Oxford University Press.
 
 Woimant 1995
-
-Woimant, G.-P. 1995. *Carte archéologique de la Gaule*. 60: *L‘Oise*. Paris: Académie des Inscriptions et Belles-Lettres.
+: Woimant, G.-P. 1995. *Carte archéologique de la Gaule*. 60: *L‘Oise*. Paris: Académie des Inscriptions et Belles-Lettres.
 
 [^1]: In memory of Kenneth Painter († 13th May 2016). For a number of years I have been able to rely on him as an extremely kind and knowledgeable colleague who was very generous with his time. His demise has left us all bereft.
 

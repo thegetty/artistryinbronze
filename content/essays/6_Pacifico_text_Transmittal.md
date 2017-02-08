@@ -1,15 +1,17 @@
 ---
-title: The Apollo from Salerno: Hellenistic Influence in Southern Italy
+title: The Apollo from Salerno
+subtitle: Hellenistic Influence in Southern Italy
 layout: page
 author:
  - first_name: Silvia
    last_name: Pacifico
    affiliation: Museo Archeologico Provinciale di Salerno
-abstract: The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting, and production, place of manufacture, and function of the work of art in antiquity.
+abstract: >
+  The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting, and production, place of manufacture, and function of the work of art in antiquity.
 
-Laboratory analyses show that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period. The presence of copper seems to have been more elevated in the oldest bronzes (84–92%). Further evidence confirms that during the Roman phase, for large-scale bronze statuary, the lead content reached 20% while the tin, 10%. In terms of manufacturing, the head was made with the indirect lost-wax technique: the top of the head was joined above the fillet, as were individual curls.
+  Laboratory analyses show that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period. The presence of copper seems to have been more elevated in the oldest bronzes (84–92%). Further evidence confirms that during the Roman phase, for large-scale bronze statuary, the lead content reached 20% while the tin, 10%. In terms of manufacturing, the head was made with the indirect lost-wax technique: the top of the head was joined above the fillet, as were individual curls.
 
-The head once belonged to an over-life-size sculpture, probably wearing a cloak and intended to be seen mainly from the front for a religious purpose or as a symbolic expression of elite power. The size and softness of forms define a composition of elements expertly aggregated as often in bronze and terracotta. The rhythmic complexity, resulting from the movement and inclination of the head, seems to be subjected to a single principle: a rendering style of curves and contours inherited from the Hellenistic Baroque. The features that might suggest Italian production (that was able to combine tradition and innovation) still have to be evaluated and analyzed more in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as, even more extensively, from Magna Graecia, may also be present.
+  The head once belonged to an over-life-size sculpture, probably wearing a cloak and intended to be seen mainly from the front for a religious purpose or as a symbolic expression of elite power. The size and softness of forms define a composition of elements expertly aggregated as often in bronze and terracotta. The rhythmic complexity, resulting from the movement and inclination of the head, seems to be subjected to a single principle: a rendering style of curves and contours inherited from the Hellenistic Baroque. The features that might suggest Italian production (that was able to combine tradition and innovation) still have to be evaluated and analyzed more in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as, even more extensively, from Magna Graecia, may also be present.
 sort_order: 10
 ---
 
@@ -45,38 +47,38 @@ We still have to evaluate and analyze the aspects of the head that indicate the 
 
 ## Bibliography
 
-Andreae 2001<br />
-Andreae, B. 2001. *Skulptur des Hellenismus*. Munich: Hirmer.
+Andreae 2001
+: Andreae, B. 2001. *Skulptur des Hellenismus*. Munich: Hirmer.
 
-L’Apollo 1961<br />
-“L’Apollo di Salerno.” 1961. In *Apollo: Bollettino dei Musei Provinciali del Salernitano* 1: 3–20.
+L’Apollo 1961
+: “L’Apollo di Salerno.” 1961. In *Apollo: Bollettino dei Musei Provinciali del Salernitano* 1: 3–20.
 
-Giorgetti et al. 1991<br />
-Giorgetti, F., M. Miccio, P. Pellecchi, and R. Pecchioli. 1991. “Indagini sulle caratteristiche tecnologiche e sullo stato di conservazione.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 15–18.
+Giorgetti et al. 1991
+: Giorgetti, F., M. Miccio, P. Pellecchi, and R. Pecchioli. 1991. “Indagini sulle caratteristiche tecnologiche e sullo stato di conservazione.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 15–18.
 
-Giumlia-Mair 2015<br />
-Giumlia-Mair, A. 2015. “Techno-Chronology? Alloy Composition and the Use of Technical Features for the Dating of Ancient Bronzes.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 167–81. Los Angeles: J. Paul Getty Museum.
+Giumlia-Mair 2015
+: Giumlia-Mair, A. 2015. “Techno-Chronology? Alloy Composition and the Use of Technical Features for the Dating of Ancient Bronzes.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 167–81. Los Angeles: J. Paul Getty Museum.
 
-Guarino 1991<br />
-Guarino, D. P. 1991. “L’Apollo di Salerno: Dalla conservazione alla lettura del reperto.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 4–22.
+Guarino 1991
+: Guarino, D. P. 1991. “L’Apollo di Salerno: Dalla conservazione alla lettura del reperto.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 4–22.
 
-Horn 1937<br />
-Horn, R. 1937. “Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien vom Oktober 1936 bis Oktober 1937.” *AA* 3/4: 348­–466.
+Horn 1937
+: Horn, R. 1937. “Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien vom Oktober 1936 bis Oktober 1937.” *AA* 3/4: 348­–466.
 
-Maiuri 1942<br />
-Maiuri, A. 1942. Untitled note. *RendAccIt* 3: 10–2.
+Maiuri 1942
+: Maiuri, A. 1942. Untitled note. *RendAccIt* 3: 10–2.
 
-Mustilli, D. 1937/38<br />
-Mustilli, D. 1937/38. “L’Apollo di Salerno.” *BdA*, ser. 3, 31: 136–46.
+Mustilli, D. 1937/38
+: Mustilli, D. 1937/38. “L’Apollo di Salerno.” *BdA*, ser. 3, 31: 136–46.
 
-Pacifico 2015<br />
-Pacifico, S. 2015. “Head of Apollo.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 236–37. Los Angeles: J. Paul Getty Museum.
+Pacifico 2015
+: Pacifico, S. 2015. “Head of Apollo.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 236–37. Los Angeles: J. Paul Getty Museum.
 
-Palmentieri 2011<br />
-Palmentieri, A. 2011. “Testa di Apollo citaredo.” In *Dopo lo Tsunami: Salerno Antica*, ed. A. Campanelli, 103–105. Exh. cat. Salerno, Complesso monumentale si Santa Lucia. Naples: Art’m.
+Palmentieri 2011
+: Palmentieri, A. 2011. “Testa di Apollo citaredo.” In *Dopo lo Tsunami: Salerno Antica*, ed. A. Campanelli, 103–105. Exh. cat. Salerno, Complesso monumentale si Santa Lucia. Naples: Art’m.
 
-Technau 1931<br />
-Technau, W. 1931. “Bericht über Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien von Oktober 1930 bis Oktober 1931.” *AA* 3/4: 620–710.
+Technau 1931
+: Technau, W. 1931. “Bericht über Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien von Oktober 1930 bis Oktober 1931.” *AA* 3/4: 620–710.
 
 [^1]: Giorgetti et al. 1971.
 

@@ -11,17 +11,18 @@ author:
  - first_name: Bettina
    last_name: Vak
    affiliation: Kunsthistorisches Museum, Vienna
-abstract: In the second year of Austrian excavation in Ephesos (1896), the fragments of the “Athlete of Ephesos” were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
+abstract: >
+  In the second year of Austrian excavation in Ephesos (1896), the fragments of the “Athlete of Ephesos” were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
 
-Due to an agreement between the Ottoman Sultan and the Austrian emperor, the statue and base was taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
+  Due to an agreement between the Ottoman Sultan and the Austrian emperor, the statue and base was taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
 
-Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from late Classical/early Hellenistic period, from the third and second century BC, while others argue for a Roman work of eclecticism.
+  Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from late Classical/early Hellenistic period, from the third and second century BC, while others argue for a Roman work of eclecticism.
 
-Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
+  Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
 
-In the ensuing eight decades, sculptors undertook two major interventions. In 1951, the position of the right arm was corrected; and in 1977 a synthetic resin was added as a new filling material.
+  In the ensuing eight decades, sculptors undertook two major interventions. In 1951, the position of the right arm was corrected; and in 1977 a synthetic resin was added as a new filling material.
 
-To dispel lingering doubts concerning the stability and strength of the interior scaffold or the possibility of active corrosion on the original bronze fragments, the Kunsthistorisches Museum together with the Getty Museum undertook scientific investigations to characterize and evaluate the mortar chemically and structurally. A solid construction of aluminum square tubes with custom-fit interior design was developed for transport.
+  To dispel lingering doubts concerning the stability and strength of the interior scaffold or the possibility of active corrosion on the original bronze fragments, the Kunsthistorisches Museum together with the Getty Museum undertook scientific investigations to characterize and evaluate the mortar chemically and structurally. A solid construction of aluminum square tubes with custom-fit interior design was developed for transport.
 sort_order: 5
 ---
 
@@ -56,8 +57,6 @@ In this case from Ephesos, we have the rare good fortune of having both the bron
 After first assuming or rather hoping they had unearthed a “Greek original,” archaeologists soon agreed that the Ephesian Athlete must be a Roman sculpture. But even today a vivid discussion continues as to whether the statue is a copy of a Greek original or a Roman creation. The statuary type of the Ephesian Athlete is preserved in several surviving statues/torsos[^29] and heads.[^30] Two small-scale bronze statuettes also follow this type[^31]: one from the Louvre differs in that the head is raised and the athlete does not look down to his hands. Depictions of the type are also preserved on Campana reliefs,[^32] as well as on gems,[^33] and even on a statuary base from the Acropolis of Athens.[^34]
 
 Despite early speculation that the Ephesian Athlete was one of the two original Greek scrapers by Daidalos from Sikyon mentioned by Pliny,[^35] it was soon clear that the statue had to be dated in the Roman era. Already by 1906, Benndorf had pronounced it an “excellent copy from early Roman times.”[^36] However, scholars differ widely in dating the original of the type, with estimates ranging from the fourth century BC to the end of the first century AD:
-
-\[table, 2 cols.\]
 
 | *Greek original* |
 | ------------- |:-------------:|
@@ -167,209 +166,209 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 ## Bibliography
 
-Amelung \[1903\] 1956<br />
-Amelung, W. \[1903\] 1956. *Die Sculpturen des vaticanischen Museums*, vol. 1. Berlin: Kommission bei Georg Reimer.
+Amelung \[1903\] 1956
+: Amelung, W. \[1903\] 1956. *Die Sculpturen des vaticanischen Museums*, vol. 1. Berlin: Kommission bei Georg Reimer.
 
-Anonymous 1895<br />
-Anonymous. 1895. “Patinierung der Wiener Bronzedenkmale.” *Monatsblatt des Altertumsvereins*, 172.
+Anonymous 1895
+: Anonymous. 1895. “Patinierung der Wiener Bronzedenkmale.” *Monatsblatt des Altertumsvereins*, 172.
 
-Arnold 1969<br />
-Arnold, D. 1969. *Die Polykletnachfolge: Untersuchungen zur Kunst von Argos und Sikyon zwischen Polyklet und Lysipp*. JdI Ergh. 25. Berlin: de Gruyter.
+Arnold 1969
+: Arnold, D. 1969. *Die Polykletnachfolge: Untersuchungen zur Kunst von Argos und Sikyon zwischen Polyklet und Lysipp*. JdI Ergh. 25. Berlin: de Gruyter.
 
-Bauer 1885<br />
-Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: Gedruckter Vortrag.
+Bauer 1885
+: Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: Gedruckter Vortrag.
 
-Benndorf 1898<br />
-Benndorf, O. 1898. “Vorläufiger Bericht über die Ausgrabung in Ephesus I.” *ÖJh* 1, Beibl. 53–72.
+Benndorf 1898
+: Benndorf, O. 1898. “Vorläufiger Bericht über die Ausgrabung in Ephesus I.” *ÖJh* 1, Beibl. 53–72.
 
-Benndorf 1906<br />
-Benndorf, O. 1906. “Erzstatue eines griechischen Athleten.” *Forschungen in Ephesos*, ed. O. Benndorf et al., 181–204. *FiE I.* Vienna: Hölder.
+Benndorf 1906
+: Benndorf, O. 1906. “Erzstatue eines griechischen Athleten.” *Forschungen in Ephesos*, ed. O. Benndorf et al., 181–204. *FiE I*. Vienna: Hölder.
 
-Breicha 1977<br />
-Breicha, O., ed. 1977. *Wotruba: Figur als Widerstand: Bilder und Schriften zu Leben und Werk*. Salzburg: Verlag Galerie Welz.
+Breicha 1977
+: Breicha, O., ed. 1977. *Wotruba: Figur als Widerstand: Bilder und Schriften zu Leben und Werk*. Salzburg: Verlag Galerie Welz.
 
-Charbonneaux 1941<br />
-Charbonneaux, J. 1941. “Statuette d’athlete au Musee du Louvre.” *MonPiot* 38: 40–54.
+Charbonneaux 1941
+: Charbonneaux, J. 1941. “Statuette d’athlete au Musee du Louvre.” *MonPiot* 38: 40–54.
 
-Comstock and Vermeule 1976<br />
-Comstock, M. B., and C. C. Vermeule. 1976. *Sculpture in Stone: The Greek, Roman, and Etruscan Collections of the Museum of Fine Arts, Boston*. Boston: Museum of Fine Arts.
+Comstock and Vermeule 1976
+: Comstock, M. B., and C. C. Vermeule. 1976. *Sculpture in Stone: The Greek, Roman, and Etruscan Collections of the Museum of Fine Arts, Boston*. Boston: Museum of Fine Arts.
 
-Cumont 1913<br />
-Cumont, F. 1913. *Musée royaux du cinquantenaire: Catalogue des sculptures & inscriptions antiques* *(monuments lapidaires) des Musées Royaux du Cinquantenaire*. Bruxelles: Vromant.
+Cumont 1913
+: Cumont, F. 1913. *Musée royaux du cinquantenaire: Catalogue des sculptures & inscriptions antiques (monuments lapidaires) des Musées Royaux du Cinquantenaire*. Bruxelles: Vromant.
 
-Daehner 2015<br />
-Daehner, J. 2015. “Statue of an Athlete.” In Daehner and Lapatin 2015, 271–81.
+Daehner 2015
+: Daehner, J. 2015. “Statue of an Athlete.” In Daehner and Lapatin 2015, 271–81.
 
-Daehner and Lapatin 2015<br />
-Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
+Daehner and Lapatin 2015
+: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
-Dörig 1965<br />
-Dörig, J. 1965. “Ein Jugendwerk Lysipps.“ *AntPl* 4: 37–42.
+Dörig 1965
+: Dörig, J. 1965. “Ein Jugendwerk Lysipps.“ *AntPl* 4: 37–42.
 
-Eichler 1953<br />
-Eichler, F. 1953. “Die Bronzestatue aus Ephesos in verbesserter Wiederherstellung.” *JbKuHistSamml* 50: 15–22.
+Eichler 1953
+: Eichler, F. 1953. “Die Bronzestatue aus Ephesos in verbesserter Wiederherstellung.” *JbKuHistSamml* 50: 15–22.
 
-Engelmann et al. 1980<br />
-Engelmann, H., D. Knibbe, and R. Merckelbach. 1980. *Inschriften von Ephesos IV*. Inschriften griechischer Städte aus Kleinasien 14. Bonn: Habelt.
+Engelmann et al. 1980
+: Engelmann, H., D. Knibbe, and R. Merckelbach. 1980. *Inschriften von Ephesos IV*. Inschriften griechischer Städte aus Kleinasien 14. Bonn: Habelt.
 
-Frank 2007<br />
-Frank, A., ed. 2007. *Karl Nieschlag: Ein Künstler aus Floridsdorf*. Straßhof: vier-viertel-verlag.
+Frank 2007
+: Frank, A., ed. 2007. *Karl Nieschlag: Ein Künstler aus Floridsdorf*. Straßhof: vier-viertel-verlag.
 
-Friesinger and Krinzinger 1999<br />
-Friesinger, H., and F. Krinzinger, eds. *100 Jahre Österreichische Forschungen in Ephesos*. Vienna: Verlag der ÖAW.
+Friesinger and Krinzinger 1999
+: Friesinger, H., and F. Krinzinger, eds. *100 Jahre Österreichische Forschungen in Ephesos*. Vienna: Verlag der ÖAW.
 
-Fuchs \[1969\] 1993<br />
-Fuchs, W. \[1969\] 1993. *Skulptur der Griechen.* 4th ed. Munich: Hirmer.
+Fuchs \[1969\] 1993
+: Fuchs, W. \[1969\] 1993. *Skulptur der Griechen.* 4th ed. Munich: Hirmer.
 
-Furtwängler 1893<br />
-Furtwängler, A. 1893. *Meisterwerke der griechischen Plastik*. Leipzig and Berlin: Giesecke & Devrient.
+Furtwängler 1893
+: Furtwängler, A. 1893. *Meisterwerke der griechischen Plastik*. Leipzig and Berlin: Giesecke & Devrient.
 
-Furtwängler 1898<br />
-Furtwängler, A. 1898. “Römische Bronzen aus Deutschland.” *BJb* 103: 1–11.
+Furtwängler 1898
+: Furtwängler, A. 1898. “Römische Bronzen aus Deutschland.” *BJb* 103: 1–11.
 
-Gasparri 1980<br />
-Gasparri, C. 1980. *Materiali per servire allo studio del Museo Torlonia di scultura antica*. Memoria Lincei, ser. 8, 24: 33–238.
+Gasparri 1980
+: Gasparri, C. 1980. *Materiali per servire allo studio del Museo Torlonia di scultura antica*. Memoria Lincei, ser. 8, 24: 33–238.
 
-Götze 1938<br />
-Götze, H. 1938. “Die attischen Dreifigurenreliefs.” *RM* 53: 189–280.
+Götze 1938
+: Götze, H. 1938. “Die attischen Dreifigurenreliefs.” *RM* 53: 189–280.
 
-Gschwantler 1995<br />
-Gschwantler, K. 1995. “Der Athlet von Ephesos: Ein Projekt zur Restaurierung und Konservierung der Bronzestatue.” *JbKHSWien* 91: 287–94.
+Gschwantler 1995
+: Gschwantler, K. 1995. “Der Athlet von Ephesos: Ein Projekt zur Restaurierung und Konservierung der Bronzestatue.” *JbKHSWien* 91: 287–94.
 
-Gschwantler 2002<br />
-Gschwantler, K. 2002. “Der Schaber von Ephesos: Bronzeguss: Zerstörung und Rekonstruktion,” 506–508. In *Die griechische Klassik: Idee oder Wirklichkeit*. Exh cat. Berlin, Martin-Gropius-Bau; Bonn Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: von Zabern.
+Gschwantler 2002
+: Gschwantler, K. 2002. “Der Schaber von Ephesos: Bronzeguss: Zerstörung und Rekonstruktion,” 506–508. In *Die griechische Klassik: Idee oder Wirklichkeit*. Exh cat. Berlin, Martin-Gropius-Bau; Bonn Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: von Zabern.
 
-Hartwig 1901<br />
-Hartwig, P. 1901. “Statuette eines Athleten im Museum in Boston.” *ÖJh* 4: 151–59.
+Hartwig 1901
+: Hartwig, P. 1901. “Statuette eines Athleten im Museum in Boston.” *ÖJh* 4: 151–59.
 
-Hartwig 1903<br />
-Hartwig, P. “Ein Terracottafries des Octavius mit Athletenstatuen.” *ÖJh* 6: 16–31.
+Hartwig 1903
+: Hartwig, P. “Ein Terracottafries des Octavius mit Athletenstatuen.” *ÖJh* 6: 16–31.
 
-Hauser 1902<br />
-Hauser, F. 1902. “Eine Vermutung über die Bronzestatue aus Ephesos.” *ÖJh* 5: 214–16.
+Hauser 1902
+: Hauser, F. 1902. “Eine Vermutung über die Bronzestatue aus Ephesos.” *ÖJh* 5: 214–16.
 
-Heberdey 1919<br />
-Heberdey, R. 1919. “Zur ephesischen Athletenbronze.” *ÖJh* 19/20: 247–52.
+Heberdey 1919
+: Heberdey, R. 1919. “Zur ephesischen Athletenbronze.” *ÖJh* 19/20: 247–52.
 
-Johnson 1927<br />
-Johnson, F. P. 1927. *Lysippos*. Durham: Duke University Press.
+Johnson 1927
+: Johnson, F. P. 1927. *Lysippos*. Durham: Duke University Press.
 
-Koller 2009<br />
-Koller, M. 2009. “Zur Geschichte und Gegenwart der Metallrestaurierung in Österreich.” In *Metallkonservierung, Metallrestaurierung: Geschichte, Methode, Praxis: Sammelband anlässlich der Fachtagung "Metallrestaurierung-Metallkonservierung" der Universität für Angewandte Kunst Wien, 2007*, ed. M. Griesser-Stermscheg and G. Krist, 25–56. Vienna: Böhlau.
+Koller 2009
+: Koller, M. 2009. “Zur Geschichte und Gegenwart der Metallrestaurierung in Österreich.” In *Metallkonservierung, Metallrestaurierung: Geschichte, Methode, Praxis: Sammelband anlässlich der Fachtagung "Metallrestaurierung-Metallkonservierung" der Universität für Angewandte Kunst Wien, 2007*, ed. M. Griesser-Stermscheg and G. Krist, 25–56. Vienna: Böhlau.
 
-Ladstätter 2002<br />
-Ladstätter, S. 2002. “Die Chronologie des Hanghauses 2.” In *Das Hanghaus 2 von Ephesos: Studien zu Baugeschichte und Chronologie*, ed. F. Krinzinger, 9–40. Vienna: Verlag der ÖAW.
+Ladstätter 2002
+: Ladstätter, S. 2002. “Die Chronologie des Hanghauses 2.” In *Das Hanghaus 2 von Ephesos: Studien zu Baugeschichte und Chronologie*, ed. F. Krinzinger, 9–40. Vienna: Verlag der ÖAW.
 
-Lattimore 1972<br />
-Lattimore, S. 1972. “The Bronze Apoxyomenos from Ephesos.“ *AJA* 76: 13–16.
+Lattimore 1972
+: Lattimore, S. 1972. “The Bronze Apoxyomenos from Ephesos.“ *AJA* 76: 13–16.
 
-Linfert 1966<br />
-Linfert, A. 1966. *Von Polyklet zu Lysipp: Polyklets Schule und ihr Verhältnis zu Skopas von Paros*. Giessen: Chemaoprint.
+Linfert 1966
+: Linfert, A. 1966. *Von Polyklet zu Lysipp: Polyklets Schule und ihr Verhältnis zu Skopas von Paros*. Giessen: Chemaoprint.
 
-Linfert 1990<br />
-Linfert, A. 1990. “Die Schule des Polyklet.” In *Polyklet: Der Bildhauer der griechischen Klassi, Frankfurt am Main 17.10.1990–20.1.1991*, ed. H. Beck, P. C. Bol, and M. Bückling, 278–81. Mainz am Rhein: von Zabern.
+Linfert 1990
+: Linfert, A. 1990. “Die Schule des Polyklet.” In *Polyklet: Der Bildhauer der griechischen Klassi, Frankfurt am Main 17.10.1990–20.1.1991*, ed. H. Beck, P. C. Bol, and M. Bückling, 278–81. Mainz am Rhein: von Zabern.
 
-Lippold 1950<br />
-Lippold, G. 1950. *Die griechische Plastik*. Handbuch der Archäologie 5. Munich: Beck.
+Lippold 1950
+: Lippold, G. 1950. *Die griechische Plastik*. Handbuch der Archäologie 5. Munich: Beck.
 
-Liverani 1989<br />
-Liverani, P. 1989. *L'Antiquarium di Villa Barberini a Castel Gandolfo*. Città del Vaticano: Libreria archeologico.
+Liverani 1989
+: Liverani, P. 1989. *L'Antiquarium di Villa Barberini a Castel Gandolfo*. Città del Vaticano: Libreria archeologico.
 
-Mansuelli 1958<br />
-Mansuelli, G. A. 1958. *Galleria degli Uffizi: Le sculture*, vol. 1. Rome: Ist. Poligrafico dello Stato, Libr. dello Stato.
+Mansuelli 1958
+: Mansuelli, G. A. 1958. *Galleria degli Uffizi: Le sculture*, vol. 1. Rome: Ist. Poligrafico dello Stato, Libr. dello Stato.
 
-Mattusch 2015<br />
-Mattusch, C. C. 2015. “Repeated Images: Beauty with Economy.” In Daehner and Lapatin 2015, 123–24.
+Mattusch 2015
+: Mattusch, C. C. 2015. “Repeated Images: Beauty with Economy.” In Daehner and Lapatin 2015, 123–24.
 
-Michelucci 2006<br />
-Michelucci, M. 2006. *Apoxyomenos: The Athlete of Croatia*. Florence and Milan: Giunti.
+Michelucci 2006
+: Michelucci, M. 2006. *Apoxyomenos: The Athlete of Croatia*. Florence and Milan: Giunti.
 
-Moser von Filseck 1988<br />
-Moser von Filseck, K. 1988. *Der Apoxyomenos des Lysipp* *und das Phänomen von Zeit und Raum in der Plastik des 5. und 4. Jhs. v. Chr.* Bonn: Habelt.
+Moser von Filseck 1988
+: Moser von Filseck, K. 1988. *Der Apoxyomenos des Lysipp* *und das Phänomen von Zeit und Raum in der Plastik des 5. und 4. Jhs. v. Chr.* Bonn: Habelt.
 
-Moser von Filseck 1990<br />
-Moser von Filseck, K. 1990. “Noch einmal zum Strigilisreiniger Ephesos – Wien. Klassik oder Klasszisimus?” *ÖJh* 60: 1–5.
+Moser von Filseck 1990
+: Moser von Filseck, K. 1990. “Noch einmal zum Strigilisreiniger Ephesos – Wien. Klassik oder Klasszisimus?” *ÖJh* 60: 1–5.
 
-Natterer 1900<br />
-Natterer, K. 1900. “Über Bronzen aus Ephesus.” *Sitzungsberichte der kaiserlichen Akademie der Wissenschaften*, 256–62.
+Natterer 1900
+: Natterer, K. 1900. “Über Bronzen aus Ephesus.” *Sitzungsberichte der kaiserlichen Akademie der Wissenschaften*, 256–62.
 
-Neudecker 1988<br />
-Neudecker, R. 1988. *Die Skulpturen-Ausstattung römischer Villen in Italien*. Mainz am Rhein: von Zabern.
+Neudecker 1988
+: Neudecker, R. 1988. *Die Skulpturen-Ausstattung römischer Villen in Italien*. Mainz am Rhein: von Zabern.
 
-Nierhaus 1993<br />
-Nierhaus, I. 1993. *Kunst-am-Bau im Wiener kommunalen Wohnbau der fünfziger Jahre*. Vienna: Böhlau.
+Nierhaus 1993
+: Nierhaus, I. 1993. *Kunst-am-Bau im Wiener kommunalen Wohnbau der fünfziger Jahre*. Vienna: Böhlau.
 
-Oberleitner et al. 1978<br />
-Oberleitner, W., K. Gschwantler, A. Bernhard-Walcher, and A. Bammer. 1978. *Funde aus Ephesos und Samothrake. Kunsthistorisches Museum, Katalog der Antikensammlung*, vol. 2. Vienna: Kunsthistorisches Museum.
+Oberleitner et al. 1978
+: Oberleitner, W., K. Gschwantler, A. Bernhard-Walcher, and A. Bammer. 1978. *Funde aus Ephesos und Samothrake. Kunsthistorisches Museum, Katalog der Antikensammlung*, vol. 2. Vienna: Kunsthistorisches Museum.
 
-Pavese 1999<br />
-Pavese, C. O. “L’Atleta di Ephesos.” In Friesinger and Krinzinger 1999, 579–84.
+Pavese 1999
+: Pavese, C. O. “L’Atleta di Ephesos.” In Friesinger and Krinzinger 1999, 579–84.
 
-Perry 1997<br />
-Perry, R. 1997. *Die Campanareliefs: Katalog der Sammlung Antiker Kleinkunst des Archäologischen Instituts der Universität Heidelberg*, vol. 4. Mainz am Rhein: von Zabern.
+Perry 1997
+: Perry, R. 1997. *Die Campanareliefs: Katalog der Sammlung Antiker Kleinkunst des Archäologischen Instituts der Universität Heidelberg*, vol. 4. Mainz am Rhein: von Zabern.
 
-Pochmarski 1988<br />
-Pochmarski, E. 1988. “Zur kunstgeschichtlichen Stellung des Schabers von Ephesos.” In *Griechische und römische Statuetten und Grossbronzen: Akten der 9. Internationalen Tagung über Antike Bronzen, Wien 21.–25. April 1986*, 74–81. Vienna: Kunsthistorisches Museum.
+Pochmarski 1988
+: Pochmarski, E. 1988. “Zur kunstgeschichtlichen Stellung des Schabers von Ephesos.” In *Griechische und römische Statuetten und Grossbronzen: Akten der 9. Internationalen Tagung über Antike Bronzen, Wien 21.–25. April 1986*, 74–81. Vienna: Kunsthistorisches Museum.
 
-Pochmarski 1999<br />
-Pochmarski, E. 1999. “Neues zum Schaber von Ephesos.” In Friesinger and Krinzinger 1999, 585–92.
+Pochmarski 1999
+: Pochmarski, E. 1999. “Neues zum Schaber von Ephesos.” In Friesinger and Krinzinger 1999, 585–92.
 
-Potts 2015<br />
-Potts, T. 2015. “Head of an Athlete.” In Daehner and Lapatin 2015, 276–77, cat. 42.
+Potts 2015
+: Potts, T. 2015. “Head of an Athlete.” In Daehner and Lapatin 2015, 276–77, cat. 42.
 
-Pülz 2010<br />
-Pülz, A. 2010. “Zum Stadtbild von Ephesos in byzantinischer Zeit.” In *Byzanz, das Römerreich im Mittelalter: Pracht und Alltag eines Weltreiches*, ed. F. Daim and J. Drauschke, 541–71. Monographien des RGZM 84/2/2. Mainz am Rhein: RGZM.
+Pülz 2010
+: Pülz, A. 2010. “Zum Stadtbild von Ephesos in byzantinischer Zeit.” In *Byzanz, das Römerreich im Mittelalter: Pracht und Alltag eines Weltreiches*, ed. F. Daim and J. Drauschke, 541–71. Monographien des RGZM 84/2/2. Mainz am Rhein: RGZM.
 
-Richter 1954<br />
-Richter, G. M. A. 1954. *Catalogue of Greek Sculptures in the Metropolitan Museum of Art, New York*. Cambridge, MA: Harvard University Press.
+Richter 1954
+: Richter, G. M. A. 1954. *Catalogue of Greek Sculptures in the Metropolitan Museum of Art, New York*. Cambridge, MA: Harvard University Press.
 
-Saladino 2006<br />
-Saladino, V. 2006. “The Athlete with a Strigil.” In *Apoxyomenos: The Athlete of Croatia*, ed. M. Michelucci, 35–51. Florence and Milan: Giunti.
+Saladino 2006
+: Saladino, V. 2006. “The Athlete with a Strigil.” In *Apoxyomenos: The Athlete of Croatia*, ed. M. Michelucci, 35–51. Florence and Milan: Giunti.
 
-Sanader 1999<br />
-Sanader, M. 1999. “Der Meergeborene: Die Entdeckung einer Bronzestatue in Kroatien.” *AW* 30/4: 357–59.
+Sanader 1999
+: Sanader, M. 1999. “Der Meergeborene: Die Entdeckung einer Bronzestatue in Kroatien.” *AW* 30/4: 357–59.
 
-Schneider 1901<br />
-Schneider, R. v. 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen.
+Schneider 1901
+: Schneider, R. v. 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen.
 
-Sieveking 1926<br />
-Sieveking, J. 1926. “Athlet mit Schabeisen,” in Denkmäler griechischer und römischer Sculptur, ed. H. Brunn and F. Bruckmann, nos. 682–85 (right). Munich: Buckmann.
+Sieveking 1926
+: Sieveking, J. 1926. “Athlet mit Schabeisen,” in Denkmäler griechischer und römischer Sculptur, ed. H. Brunn and F. Bruckmann, nos. 682–85 (right). Munich: Buckmann.
 
-Stewart 1978<br />
-Stewart, A. F. 1978. “Lysippan Studies 3. Not by Daidalos?” *AJA* 82: 473–82.
+Stewart 1978
+: Stewart, A. F. 1978. “Lysippan Studies 3. Not by Daidalos?” *AJA* 82: 473–82.
 
-Svoronos and Barth 1908<br />
-Svoronos, J. N., and W. Barth. 1908. *Das Athener Nationalmuseum*. Athens: Beck & Barth.
+Svoronos and Barth 1908
+: Svoronos, J. N., and W. Barth. 1908. *Das Athener Nationalmuseum*. Athens: Beck & Barth.
 
-Twilley 2013<br />
-Twilley, J. 2013. *Analyses of Surface Samples and Fill Materials from the Bronze Apoxomenos, Kunsthistorisches Museum, Wien*. Unpublished research report.
+Twilley 2013
+: Twilley, J. 2013. *Analyses of Surface Samples and Fill Materials from the Bronze Apoxomenos, Kunsthistorisches Museum, Wien*. Unpublished research report.
 
-Vorster 2011<br />
-Vorster, C. 2011. “Kopf des Herakles, Typus Landsdowne-Genzano.” In *Skulpturensammlung Staatliche Kunstsammlungen Dresden: Katalog der antiken Bildwerke II. Idealskulptur der römischen Kaiserzeit*, vol. 2, ed. K. Knoll, C. Vorster, and M. Woelk, 652–55. Munich: Hirmer.
+Vorster 2011
+: Vorster, C. 2011. “Kopf des Herakles, Typus Landsdowne-Genzano.” In *Skulpturensammlung Staatliche Kunstsammlungen Dresden: Katalog der antiken Bildwerke II. Idealskulptur der römischen Kaiserzeit*, vol. 2, ed. K. Knoll, C. Vorster, and M. Woelk, 652–55. Munich: Hirmer.
 
-Walter 1923<br />
-Walter, O. 1923. *Beschreibung der Reliefs im Kleinen Akropolismuseum in Athen*. Vienna: Hölzel.
+Walter 1923
+: Walter, O. 1923. *Beschreibung der Reliefs im Kleinen Akropolismuseum in Athen*. Vienna: Hölzel.
 
-Weber et al. 2012<br />
-Weber, J., K. Bayer, and F. Pintér. 2012. “Nineteenth Century ‘Novel’ Building Materials: Examples of Various Historic Mortars under the Microscope.” In *Historic Mortars: Characterization, Assessment and Repair*, ed. J. Válek, J. J. Hughes, and C. J. W. P. Groot, 89–103. RILEM Bookseries 7. Dordrecht: Springer.
+Weber et al. 2012
+: Weber, J., K. Bayer, and F. Pintér. 2012. “Nineteenth Century ‘Novel’ Building Materials: Examples of Various Historic Mortars under the Microscope.” In *Historic Mortars: Characterization, Assessment and Repair*, ed. J. Válek, J. J. Hughes, and C. J. W. P. Groot, 89–103. RILEM Bookseries 7. Dordrecht: Springer.
 
-Weber 1996<br />
-Weber, M. 1996. “Zum griechischen Athletenbild: Zum Typus und zur Gattung des Originals der Apoxyomenosstatue im Vatikan.” *RM* 103: 31–49.
+Weber 1996
+: Weber, M. 1996. “Zum griechischen Athletenbild: Zum Typus und zur Gattung des Originals der Apoxyomenosstatue im Vatikan.” *RM* 103: 31–49.
 
-Weber 1999<br />
-Weber, M. 1999. “Zur Gattung des Strigilisreinigers.” In Friesinger and Krinzinger 1999, 593–96.
+Weber 1999
+: Weber, M. 1999. “Zur Gattung des Strigilisreinigers.” In Friesinger and Krinzinger 1999, 593–96.
 
-Willer 1996<br />
-Willer, F. 1996. “Beobachtungen zur Sockelung von bronzenen Statuen und Statuetten.” *BJb* 196: 337–70.
+Willer 1996
+: Willer, F. 1996. “Beobachtungen zur Sockelung von bronzenen Statuen und Statuetten.” *BJb* 196: 337–70.
 
-Willer 2000<br />
-Willer, F. 2000. “Neue Beobachtungen zur Herstellung und Versockelungstechnik von Bronzestatuen.” *JbKöln* 33: 565–73.
+Willer 2000
+: Willer, F. 2000. “Neue Beobachtungen zur Herstellung und Versockelungstechnik von Bronzestatuen.” *JbKöln* 33: 565–73.
 
-Wohlers-Scharf 1995<br />
-Wohlers-Scharf, T. 1995. *Die Forschungsgeschichte von Ephesos*: *Entdeckungen, Grabungen und Persönlichkeiten*. Frankfurt am Main and Vienna: Lang.
+Wohlers-Scharf 1995
+: Wohlers-Scharf, T. 1995. *Die Forschungsgeschichte von Ephesos*: *Entdeckungen, Grabungen und Persönlichkeiten*. Frankfurt am Main and Vienna: Lang.
 
-Wood 1877<br />
-Wood, J. T. 1877. *Discoveries at Ephesus*. London: Longmans, Green.
+Wood 1877
+: Wood, J. T. 1877. *Discoveries at Ephesus*. London: Longmans, Green.
 
 [^1]: Benndorf 1906, 181–84; Wohlers-Scharf 1995, 79–83.
 
@@ -443,7 +442,7 @@ Wood, J. T. 1877. *Discoveries at Ephesus*. London: Longmans, Green.
 3. Rome, Museo Torlonia, inv. 86, marble (Götze 1938, 226; Arnold 1969, 270, no. K4; Gasparri 1980, 166, no. 86)
 4. Rome, Musei Vaticani, marble (Amelung \[1903\] 1956, 114, no. 99)
 5. New York, Metropolitan Museum of Art, marble (head of statue; Richter 1954, 110)
-6. Bruxelles, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185)<br />
+6. Bruxelles, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185)
 The head in Dresden, no. Hm 132, is no longer thought to follow the same type as Dörig 1965, 40, proposed; see now Vorster 2011.
 
 [^31]: Small-scale bronze statuettes:
@@ -536,4 +535,4 @@ The head in Dresden, no. Hm 132, is no longer thought to follow the same type as
 
 [^74]: The scan was provided by Christian Kurtze, Austrian Archeological Institute.
 
-[^75]: A video clip of staff assembling the cage around the statue is available at: <http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/?back=%2Ferfahren%2Fforschung%2Fforschungsprojekte%2F&open=2157&cHash=b3133a4fdf0462f6e4c50ec678406735>.
+[^75]: A video clip of staff assembling the cage around the statue is available at: [http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/?back=%2Ferfahren%2Fforschung%2Fforschungsprojekte%2F&open=2157&cHash=b3133a4fdf0462f6e4c50ec678406735](http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/?back=%2Ferfahren%2Fforschung%2Fforschungsprojekte%2F&open=2157&cHash=b3133a4fdf0462f6e4c50ec678406735).

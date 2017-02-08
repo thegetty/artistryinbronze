@@ -1,5 +1,6 @@
 ---
-title: Tiberius from Herculaneum: Methods of Assembling a Monumental Bronze Portrait
+title: Tiberius from Herculaneum
+subtitle: Methods of Assembling a Monumental Bronze Portrait
 layout: page
 author:
  - first_name: Erik
@@ -8,9 +9,10 @@ author:
  - first_name: David
    last_name: Saunders
    affiliation: The J. Paul Getty Museum
-abstract: Between 2012 and 2013, the J. Paul Getty Museum collaborated with the Museo Archeologico Nazionale di Napoli to return the bronze portrait of Tiberius from Herculaneum for display. The project provided an opportunity for a full investigation into the statue’s eighteenth-century restorations and its ancient manufacture.
+abstract: >
+  Between 2012 and 2013, the J. Paul Getty Museum collaborated with the Museo Archeologico Nazionale di Napoli to return the bronze portrait of Tiberius from Herculaneum for display. The project provided an opportunity for a full investigation into the statue’s eighteenth-century restorations and its ancient manufacture.
 
-The restoration techniques proved typical of the Royal Foundry at Portici, as documented for other Herculaneum bronzes by Edilberto Formigli and Götz Lahusen. Rather less expected was the discovery that the monumental statue—erected in AD 37—had been assembled from a large number of individually cast pieces. This has valuable implications for our knowledge of Roman bronze-working, and in particular the techniques that were employed to simplify the production of a large, complex statue. The many drapery folds of the toga offered a way of subdividing the larger-than-life-size portrait into numerous smaller parts that could each be cast separately. The multiplicity of cast pieces not only made their molding easier but also allowed for smaller, safer pours of molten bronze, required less lead in the alloy, and demanded fewer chaplets. Once cast, the individual pieces were then joined with simple and economical tack welds, which were able to sustain the great weight of the statue.
+  The restoration techniques proved typical of the Royal Foundry at Portici, as documented for other Herculaneum bronzes by Edilberto Formigli and Götz Lahusen. Rather less expected was the discovery that the monumental statue—erected in AD 37—had been assembled from a large number of individually cast pieces. This has valuable implications for our knowledge of Roman bronze-working, and in particular the techniques that were employed to simplify the production of a large, complex statue. The many drapery folds of the toga offered a way of subdividing the larger-than-life-size portrait into numerous smaller parts that could each be cast separately. The multiplicity of cast pieces not only made their molding easier but also allowed for smaller, safer pours of molten bronze, required less lead in the alloy, and demanded fewer chaplets. Once cast, the individual pieces were then joined with simple and economical tack welds, which were able to sustain the great weight of the statue.
 sort_order: 11
 ---
 
@@ -72,81 +74,81 @@ For the opportunity to study the portrait of Tiberius, we are indebted to Luigia
 
 ## Bibliography
 
-Allroggen-Bedel 1974<br />
-Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109.
+Allroggen-Bedel 1974
+: Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109.
 
 *Antichità* 1771
-Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia.
+: Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia.
 
-Boschung 2002<br />
-Boschung, D. 2002. *Gens Augusta: Untersuchungen zu Aufstellung, Wirkung und Bedeutung der Statuengruppen des julisch-claudischen Kaiserhauses*. Mainz am Rhein: Phillip von Zabern.
+Boschung 2002
+: Boschung, D. 2002. *Gens Augusta: Untersuchungen zu Aufstellung, Wirkung und Bedeutung der Statuengruppen des julisch-claudischen Kaiserhauses*. Mainz am Rhein: Phillip von Zabern.
 
-Caianiello 1998<br />
-Caianiello, T. 1998. “Restauratori di sculture antiche a Portici: dai ‘primi errori sì decantati da più gente’ all’acquisizione di un metodo di intervento (1739–1781).” *Dialoghi di storia dell’arte* (June): 54–69.
+Caianiello 1998
+: Caianiello, T. 1998. “Restauratori di sculture antiche a Portici: dai ‘primi errori sì decantati da più gente’ all’acquisizione di un metodo di intervento (1739–1781).” *Dialoghi di storia dell’arte* (June): 54–69.
 
-Christman 1987<br />
-Christman, B. 1987. “Technical Study: The Emperor as Philosopher.” *BClevMus* 74: 100–113.
+Christman 1987
+: Christman, B. 1987. “Technical Study: The Emperor as Philosopher.” *BClevMus* 74: 100–113.
 
-Fuchs 1987<br />
-Fuchs, M. 1987. *Untersuchungen zur Ausstattung römischer Theater in Italien und den Westprovinzen des Imperium Romanum*. Mainz am Rhein: Philipp von Zabern.
+Fuchs 1987
+: Fuchs, M. 1987. *Untersuchungen zur Ausstattung römischer Theater in Italien und den Westprovinzen des Imperium Romanum*. Mainz am Rhein: Philipp von Zabern.
 
-Guadagno 1978<br />
-Guadagno, G. 1978. “Supplemento epigrafico Ercolanese.” *CronErcol* 8: 132–55.
+Guadagno 1978
+: Guadagno, G. 1978. “Supplemento epigrafico Ercolanese.” *CronErcol* 8: 132–55.
 
-Guadagno 1981<br />
-Guadagno, G. 1981. “Supplemento epicrafico Ercolanese II.” *CronErcol* 11: 129–64.
+Guadagno 1981
+: Guadagno, G. 1981. “Supplemento epicrafico Ercolanese II.” *CronErcol* 11: 129–64.
 
-Lahusen and Formigli 2001<br />
-Lahusen, G., and E. Formigli. 2001. *Römische Bildnisse aus Bronze*. Munich: Hirmer.
+Lahusen and Formigli 2001
+: Lahusen, G., and E. Formigli. 2001. *Römische Bildnisse aus Bronze*. Munich: Hirmer.
 
-Lahusen and Formigli 2007<br />
-Lahusen, G., and E. Formigli. 2007. *Grossbronzen aus Herculaneum und Pompeji: Statuen und Büsten von Herrschern und Bürgern*. Worms: Wernersche Verlagsgesellschaft.
+Lahusen and Formigli 2007
+: Lahusen, G., and E. Formigli. 2007. *Grossbronzen aus Herculaneum und Pompeji: Statuen und Büsten von Herrschern und Bürgern*. Worms: Wernersche Verlagsgesellschaft.
 
-Mattusch and Lie 2005<br />
-Mattusch, C. C., with Lie, H. 2005. *The Villa dei Papiri at Herculaneum: Life and Afterlife of a Sculpture Collection*. Los Angeles: J. Paul Getty Museum.
+Mattusch and Lie 2005
+: Mattusch, C. C., with Lie, H. 2005. *The Villa dei Papiri at Herculaneum: Life and Afterlife of a Sculpture Collection*. Los Angeles: J. Paul Getty Museum.
 
-Najbjerg 1997<br />
-Najbjerg, T. 1997. “Public Painted and Sculptural Programs of the Early Roman Empire: A Case-Study of the So-Called Basilica in Herculaneum.” Ph.D. diss. University of Michigan, Ann Arbor.
+Najbjerg 1997
+: Najbjerg, T. 1997. “Public Painted and Sculptural Programs of the Early Roman Empire: A Case-Study of the So-Called Basilica in Herculaneum.” Ph.D. diss. University of Michigan, Ann Arbor.
 
-Najbjerg 2002<br />
-Najbjerg, T. 2002. “A Reconstruction and Reconsideration of the So-Called Basilica in Herculaneum.” *JRS Supplementary Series* 47: 122–65.
+Najbjerg 2002
+: Najbjerg, T. 2002. “A Reconstruction and Reconsideration of the So-Called Basilica in Herculaneum.” *JRS Supplementary Series* 47: 122–65.
 
-Pagano 1996<br />
-Pagano, M. 1996. “La nuova pianta della cittá e di alcuni edifici pubblici di Ercolano.” *CronErcol* 26: 229–62.
+Pagano 1996
+: Pagano, M. 1996. “La nuova pianta della cittá e di alcuni edifici pubblici di Ercolano.” *CronErcol* 26: 229–62.
 
-Pagano and Balasco 2000<br />
-Pagano, M., and A. Balasco. 2000. *The Ancient Theatre of Herculaneum.* Naples: Electa.
+Pagano and Balasco 2000
+: Pagano, M., and A. Balasco. 2000. *The Ancient Theatre of Herculaneum.* Naples: Electa.
 
-Panutti 1983<br />
-Panutti, U. 1983. “Il giornale degli Scavi di Ercolano (1738–1756).” *MemLinc* Ser. 8, 26.3: 163–410.
+Panutti 1983
+: Panutti, U. 1983. “Il giornale degli Scavi di Ercolano (1738–1756).” *MemLinc* Ser. 8, 26.3: 163–410.
 
-Parslow 1995<br />
-Parslow, C. 1995. *Rediscovering Antiquity: Karl Weber and the Excavation of Herculaneum, Pompeii, and Stabiae*. Cambridge: Cambridge University Press.
+Parslow 1995
+: Parslow, C. 1995. *Rediscovering Antiquity: Karl Weber and the Excavation of Herculaneum, Pompeii, and Stabiae*. Cambridge: Cambridge University Press.
 
-Prisco 2008<br />
-Prisco, G. 2008. “Restauri per via di mettere, restauri per via di togliere: Alla ricerca di un metodo nelle officine di Portici.” In *Herculanense Museum–Laboratorio sull’antico nella Reggia di Portici*, ed. R. Cantilena and A. Porzio, 189–207. Naples: Electa.
+Prisco 2008
+: Prisco, G. 2008. “Restauri per via di mettere, restauri per via di togliere: Alla ricerca di un metodo nelle officine di Portici.” In *Herculanense Museum–Laboratorio sull’antico nella Reggia di Portici*, ed. R. Cantilena and A. Porzio, 189–207. Naples: Electa.
 
-Represa Fernandez 1988<br />
-Represa Fernandez, F. 1988. *El Real Museo de Portici (Napoles): 1750–1825*. Valladolid: Universidad de Valladolid.
+Represa Fernandez 1988
+: Represa Fernandez, F. 1988. *El Real Museo de Portici (Napoles): 1750–1825*. Valladolid: Universidad de Valladolid.
 
-Risser and Saunders 2015<br />
-Risser, E., and D. A. Saunders. 2015. “The Bronze Apollo and Diana from Pompeii: An Example of Serial Production.” *AntK* 58: 78–95.
+Risser and Saunders 2015
+: Risser, E., and D. A. Saunders. 2015. “The Bronze Apollo and Diana from Pompeii: An Example of Serial Production.” *AntK* 58: 78–95.
 
-Ruesch 1911<br />
-Ruesch, A. 1911. *Guida illustrata del Museo Nazionale di Napoli.* Naples: Richter & Co.
+Ruesch 1911
+: Ruesch, A. 1911. *Guida illustrata del Museo Nazionale di Napoli.* Naples: Richter & Co.
 
-Ruggiero 1885<br />
-Ruggiero, M. 1885. *Storia degli scavi di Ercolano ricomposta du’ documenti superstiti da Michele Ruggiero*. Naples: Tipografia dell’Accademia reale delle scienze.
+Ruggiero 1885
+: Ruggiero, M. 1885. *Storia degli scavi di Ercolano ricomposta du’ documenti superstiti da Michele Ruggiero*. Naples: Tipografia dell’Accademia reale delle scienze.
 
-Salcuni and Formigli 2011<br />
-Salcuni, A., and E. Formigli. 2011. *Grandi bronzi romani dall’Italia settentrionale: Brescia, Cividate Camuno e Verona*. Bonn: Habelt.
+Salcuni and Formigli 2011
+: Salcuni, A., and E. Formigli. 2011. *Grandi bronzi romani dall’Italia settentrionale: Brescia, Cividate Camuno e Verona*. Bonn: Habelt.
 
-Scatozza Höricht 1982<br />
-Scatozza Höricht, L. A. 1982. “Restauri alle collezioni del Museo Ercolanese di Portici alla luce di documenti inediti.” *Atti dell’Accademia Pontaniana*, n.s. 31: 495–540.
+Scatozza Höricht 1982
+: Scatozza Höricht, L. A. 1982. “Restauri alle collezioni del Museo Ercolanese di Portici alla luce di documenti inediti.” *Atti dell’Accademia Pontaniana*, n.s. 31: 495–540.
 
 [^1]: See most recently Risser and Saunders 2015.
 
-[^2]: Museo Archeologico Nazionale di Napoli, inv. 5615; Lahusen and Formigli 2007, 40–42 with bibliography, to which add Boschung 2002, 120, no. 42.8 and Najbjerg 1997, 235–36 (S13). For more on the project, see the blog posts: <http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/> ;<http://blogs.getty.edu/iris/rediscovering-tiberius/>; <http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/>.
+[^2]: Museo Archeologico Nazionale di Napoli, inv. 5615; Lahusen and Formigli 2007, 40–42 with bibliography, to which add Boschung 2002, 120, no. 42.8 and Najbjerg 1997, 235–36 (S13). For more on the project, see the blog posts: [http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/](http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/); [http://blogs.getty.edu/iris/rediscovering-tiberius/](http://blogs.getty.edu/iris/rediscovering-tiberius/); [http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/](http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/).
 
 [^3]: *CIL* X 1414. Bardet’s excavation report (quoted in Panutti 1983, 210) testifies to the association, but the authors of *Antichità* 1771 rejected any connection between the portrait and the inscription (312, n. 6). Given the inscription’s substantial width, Boschung 2002, 123, n. 691, has also sought to disassociate the two.
 

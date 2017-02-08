@@ -5,11 +5,12 @@ author:
  - first_name: Olga
    last_name: Palagia
    affiliation: University of Athens
-abstract: The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband, was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together though further study is needed before any conclusion can be reached.
+abstract: >
+  The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband, was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together though further study is needed before any conclusion can be reached.
 
-Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, e.g. the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
+  Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, e.g. the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
 
-The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
+  The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
 sort_order: 8
 ---
 
@@ -43,107 +44,107 @@ I would like to thank Hans Goette for the photo in fig. 4.4; Andrew Meadows for 
 
 ## Bibliography
 
-Bohn 1885<br />
-Bohn, R. 1885. *Das Heiligtum der Athena Polias Nikephoros*. Altertümer von Pergamon 2. Berlin: Spemann.
+Bohn 1885
+: Bohn, R. 1885. *Das Heiligtum der Athena Polias Nikephoros*. Altertümer von Pergamon 2. Berlin: Spemann.
 
-Cribb 2007<br />
-Cribb, J. 2007. “Money as a Maker of Cultural Continuity and Change in Central Asia.” In *After Alexander: Central Asia Before Islam*, ed. J. Cribb and G. Herrmann, 333–75. Oxford: Oxford University Press.
+Cribb 2007
+: Cribb, J. 2007. “Money as a Maker of Cultural Continuity and Change in Central Asia.” In *After Alexander: Central Asia Before Islam*, ed. J. Cribb and G. Herrmann, 333–75. Oxford: Oxford University Press.
 
-Daehner and Lapatin 2015<br />
-Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
+Daehner and Lapatin 2015
+: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
-Dahmen 2012<br />
-Dahmen, K. 2012. “Alexander und das Diadem: Die archäologische und numismatische Perspektive.” In Lichtenberger et al*.* 2012, 281–92.
+Dahmen 2012
+: Dahmen, K. 2012. “Alexander und das Diadem: Die archäologische und numismatische Perspektive.” In Lichtenberger et al*.* 2012, 281–92.
 
-Dintsis 1986<br />
-Dintsis, P. 1986. *Hellenistische Helme*. Rome: Bretschneider.
+Dintsis 1986
+: Dintsis, P. 1986. *Hellenistische Helme*. Rome: Bretschneider.
 
-Green 1990<br />
-Green, P. 1990. *Alexander to Actium*. Berkeley and Los Angeles: University of California Press.
+Green 1990
+: Green, P. 1990. *Alexander to Actium*. Berkeley and Los Angeles: University of California Press.
 
-Haake 2012<br />
-Haake, M. 2012. “Diadem und basileus: Überlegungen zu einer Insignie und einem Titel in hellenistischer Zeit.” In Lichtenberger et al. 2012, 293–313.
+Haake 2012
+: Haake, M. 2012. “Diadem und basileus: Überlegungen zu einer Insignie und einem Titel in hellenistischer Zeit.” In Lichtenberger et al. 2012, 293–313.
 
-Houghton and Lorber 2002<br />
-Houghton, A., and C. Lorber. 2002. *Seleucid Coins*. New York: American Numismatic Society; Lancaster, PA, and London: Classical Numismatic Group.
+Houghton and Lorber 2002
+: Houghton, A., and C. Lorber. 2002. *Seleucid Coins*. New York: American Numismatic Society; Lancaster, PA, and London: Classical Numismatic Group.
 
-Kabus-Preisshofen 1989<br />
-Kabus-Preisshofen, R. 1989. *Die hellenistische Plastik der Insel Kos*, AM Beih. 14. Berlin: Mann.
+Kabus-Preisshofen 1989
+: Kabus-Preisshofen, R. 1989. *Die hellenistische Plastik der Insel Kos*, AM Beih. 14. Berlin: Mann.
 
-Katsikoudis 2005<br />
-Katsikoudis, N. T. 2005. *Δωδώνη: Οι τιμητικοί ανδριάντες*. Ioannina: Hetaireia Epeirotikon Meleton.
+Katsikoudis 2005
+: Katsikoudis, N. T. 2005. *Δωδώνη: Οι τιμητικοί ανδριάντες*. Ioannina: Hetaireia Epeirotikon Meleton.
 
-Kotsidu 2000<br />
-Kotsidu, H. 2000. *ΤΙΜΗ ΚΑΙ ΔΟΞΑ: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie.
+Kotsidu 2000
+: Kotsidu, H. 2000. *ΤΙΜΗ ΚΑΙ ΔΟΞΑ: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie.
 
-Koutsouflakis 2007<br />
-Koutsouflakis, G. 2007. “Χάλκινος κορμός ιππέα από τη θαλάσσια περιοχή της Καλύμνου.” *Enalia* 10: 42–56.
+Koutsouflakis 2007
+: Koutsouflakis, G. 2007. “Χάλκινος κορμός ιππέα από τη θαλάσσια περιοχή της Καλύμνου.” *Enalia* 10: 42–56.
 
-Koutsouflakis and Simosi 2015<br />
-Koutsouflakis, G., and A. Simosi 2015. “Hellenistic Bronze Sculptures from the Aegean Sea. Recent Discoveries (1994–2009).” In Daehner and Lapatin 2015, 72–81.
+Koutsouflakis and Simosi 2015
+: Koutsouflakis, G., and A. Simosi 2015. “Hellenistic Bronze Sculptures from the Aegean Sea. Recent Discoveries (1994–2009).” In Daehner and Lapatin 2015, 72–81.
 
-Lane Fox 2007<br />
-Lane Fox, R. 2007. “Alexander the Great: ‘Last of the Achaemenids?’” In *Persian Responses: Political and Cultural Interaction With(in) the Achaemenid Empire*, ed. C. Tuplin, 267–311. Swansea: Classical Press of Wales.
+Lane Fox 2007
+: Lane Fox, R. 2007. “Alexander the Great: ‘Last of the Achaemenids?’” In *Persian Responses: Political and Cultural Interaction With(in) the Achaemenid Empire*, ed. C. Tuplin, 267–311. Swansea: Classical Press of Wales.
 
-Lichtenberger et al. 2012<br />
-Lichtenberger, A., K. Martin, H.-Helge Nieswandt, and D. Salzmann, eds. 2012. *Das Diadem der hellenistischen Herrscher.* Bonn: Habelt.
+Lichtenberger et al. 2012
+: Lichtenberger, A., K. Martin, H.-Helge Nieswandt, and D. Salzmann, eds. 2012. *Das Diadem der hellenistischen Herrscher.* Bonn: Habelt.
 
-Lorber, C. C. 2012<br />
-Lorber 2012. “The Coinage of the Ptolemies.” In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. E. Metcalf, 211–34. Oxford: Oxford University Press.
+Lorber, C. C. 2012
+: Lorber 2012. “The Coinage of the Ptolemies.” In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. E. Metcalf, 211–34. Oxford: Oxford University Press.
 
-Ma 2013<br />
-Ma, J. 2013. *Statues and Cities: Honorific Portraits and Civic Identity in the Hellenistic World*. Oxford: Oxford University Press.
+Ma 2013
+: Ma, J. 2013. *Statues and Cities: Honorific Portraits and Civic Identity in the Hellenistic World*. Oxford: Oxford University Press.
 
-Messina 2007<br />
-Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama Museu civico d’arte antica. Silvana: Cinisello Balsamo.
+Messina 2007
+: Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama Museu civico d’arte antica. Silvana: Cinisello Balsamo.
 
-Mørkholm 1991<br />
-Mørkholm, O. 1991. *Early Hellenistic Coinage*. Cambridge: Cambridge University Press.
+Mørkholm 1991
+: Mørkholm, O. 1991. *Early Hellenistic Coinage*. Cambridge: Cambridge University Press.
 
-Neumann 1967<br />
-Neumann, G. 1967. “Ein Bildnis des Königs Perseus.” *JdI* 82: 157–66.
+Neumann 1967
+: Neumann, G. 1967. “Ein Bildnis des Königs Perseus.” *JdI* 82: 157–66.
 
-Palagia 2012<br />
-Palagia, O. 2012. “The Impact of Alexander the Great in the Art of Central Asia.” In *The Alexander Romance in Persia and the East*, ed. R. Stoneman, K. Erickson, and I. Netton, 369–82. Groningen: Groningen University Press.
+Palagia 2012
+: Palagia, O. 2012. “The Impact of Alexander the Great in the Art of Central Asia.” In *The Alexander Romance in Persia and the East*, ed. R. Stoneman, K. Erickson, and I. Netton, 369–82. Groningen: Groningen University Press.
 
-Palagia 2013<br />
-Palagia, O. 2013. “Aspects of the Diffusion of Ptolemaic Portraiture Overseas.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Trade*, ed. K. Buraselis, M. Stefanou, and D. J. Thompson, 143–59. Cambridge: Cambridge University Press.
+Palagia 2013
+: Palagia, O. 2013. “Aspects of the Diffusion of Ptolemaic Portraiture Overseas.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Trade*, ed. K. Buraselis, M. Stefanou, and D. J. Thompson, 143–59. Cambridge: Cambridge University Press.
 
-Palagia 2014<br />
-Palagia, O. 2014. “The Frescoes from the Villa of P. Fannius Synistor in Boscoreale as Reflections of Macedonian Funerary Paintings of the Early Hellenistic Period.” In *The Age of the Successors and the Creation of the Hellenistic Kingdoms (323–276 B.C.)*, ed. H. Hauben and A. Meeus, 209–31. Leuven: Peeters.
+Palagia 2014
+: Palagia, O. 2014. “The Frescoes from the Villa of P. Fannius Synistor in Boscoreale as Reflections of Macedonian Funerary Paintings of the Early Hellenistic Period.” In *The Age of the Successors and the Creation of the Hellenistic Kingdoms (323–276 B.C.)*, ed. H. Hauben and A. Meeus, 209–31. Leuven: Peeters.
 
-Picón and Hemingway 2016<br />
-Picón, C. A., and S. Hemingway, eds. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. Exh. cat. New York, Metropolitan Museum of Art. New Haven and London: Yale University Press.
+Picón and Hemingway 2016
+: Picón, C. A., and S. Hemingway, eds. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. Exh. cat. New York, Metropolitan Museum of Art. New Haven and London: Yale University Press.
 
-Saatsoglou-Paliadeli 1993<br />
-Saatsoglou-Paliadeli, C. 1993. “Aspects of Ancient Macedonian Costume.” *JHS* 113: 122–47.
+Saatsoglou-Paliadeli 1993
+: Saatsoglou-Paliadeli, C. 1993. “Aspects of Ancient Macedonian Costume.” *JHS* 113: 122–47.
 
-Saatsoglou-Paliadeli 2004<br />
-Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens.
+Saatsoglou-Paliadeli 2004
+: Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens.
 
-Schwarzmaier et al. 2012<br />
-Schwarzmaier, A., A. Scholl, and M. Maischberger, eds. 2012. *Die Antikensammlung: Altes Museum, Neues Museum, Pergamonmuseum / Staatliche Museen zu Berlin*. Darmstadt: Philipp von Zabern.
+Schwarzmaier et al. 2012
+: Schwarzmaier, A., A. Scholl, and M. Maischberger, eds. 2012. *Die Antikensammlung: Altes Museum, Neues Museum, Pergamonmuseum / Staatliche Museen zu Berlin*. Darmstadt: Philipp von Zabern.
 
-Sherwin-White 1978<br />
-Sherwin-White, S. M. 1978. *Ancient Cos: An Historical Study from the Dorian Settlement to the Imperial Period*. Göttingen: Vandenhoeck and Ruprecht.
+Sherwin-White 1978
+: Sherwin-White, S. M. 1978. *Ancient Cos: An Historical Study from the Dorian Settlement to the Imperial Period*. Göttingen: Vandenhoeck and Ruprecht.
 
-Siedentopf 1968<br />
-Siedentopf, H. B. 1968. *Das hellenistische Reiterdenkmal*. Wiesbaden: Stiftland.
+Siedentopf 1968
+: Siedentopf, H. B. 1968. *Das hellenistische Reiterdenkmal*. Wiesbaden: Stiftland.
 
-Torelli 2003<br />
-Torelli, M. 2003. “The Frescoes of the Great Hall of the Villa at Boscoreale: Iconography and Politics.” In *Myth, History and Culture in Republican Rome: Studies in Honour of T. P. Wiseman*, ed. D. Braund and C. Gill, 217–56. Exeter: University of Exeter Press.
+Torelli 2003
+: Torelli, M. 2003. “The Frescoes of the Great Hall of the Villa at Boscoreale: Iconography and Politics.” In *Myth, History and Culture in Republican Rome: Studies in Honour of T. P. Wiseman*, ed. D. Braund and C. Gill, 217–56. Exeter: University of Exeter Press.
 
-Tsimbidou-Avloniti 2005<br />
-Tsimbidou-Avloniti, M. 2005. *Μακεδονικοί τάφοι στον Φοίνικα και στον Άγιο Αθανάσιο Θεσσαλονίκης*. Athens.
+Tsimbidou-Avloniti 2005
+: Tsimbidou-Avloniti, M. 2005. *Μακεδονικοί τάφοι στον Φοίνικα και στον Άγιο Αθανάσιο Θεσσαλονίκης*. Athens.
 
-Tzalas 2007<br />
-Tzalas, H. E. 2007. “Bronze Statues from the Depths of the Sea.” In *Great Moments in Greek Archaeology*, ed. P. Valavanis, 342–63. Los Angeles: J. Paul Getty Museum.
+Tzalas 2007
+: Tzalas, H. E. 2007. “Bronze Statues from the Depths of the Sea.” In *Great Moments in Greek Archaeology*, ed. P. Valavanis, 342–63. Los Angeles: J. Paul Getty Museum.
 
-Wiesehöfer 2012<br />
-Wiesehöfer, J. 2012. “Das Diadem bei den Achaimeniden: Die schriftliche Überlieferung.” In Lichtenberger et al. 2012, 55–62.
+Wiesehöfer 2012
+: Wiesehöfer, J. 2012. “Das Diadem bei den Achaimeniden: Die schriftliche Überlieferung.” In Lichtenberger et al. 2012, 55–62.
 
-Wycherley 1957<br />
-Wycherley, R. E. 1957. *Literary and Epigraphical Testimonia*. Athenian Agora 3. Princeton: American School of Classical Studies at Athens.
+Wycherley 1957
+: Wycherley, R. E. 1957. *Literary and Epigraphical Testimonia*. Athenian Agora 3. Princeton: American School of Classical Studies at Athens.
 
 [^1]: Kalymnos Museum, inv. 3901. Tzalas 2007, 362, fig. 37; Koutsouflakis 2007, 46–47, fig. 6a–b; Koutsouflakis and Simosi 2015, 78; Daehner and Lapatin 2015, 194–95, no. 5 (Bairami); Picón and Hemingway 2016, 212–13, no. 138.
 
