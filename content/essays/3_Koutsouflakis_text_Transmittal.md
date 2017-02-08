@@ -1,16 +1,15 @@
-**\[title\]Bronzes from the Aegean Sea:** **A Reassessment of Old and New Finds**
-
-**\[author\]George Koutsouflakis**
-
-**\[affiliation\]Hellenic Ephorate of Underwater Antiquities**
-
-**\[A-head\]Abstract**
-
-**\[abstract\]**Bronze artworks have seldom survived the whims of fortune on land. The Mediterranean Sea remains the richest reservoir of ancient bronzes lost in transit, and over the last 130 years the Aegean Sea has yielded some of the most spectacular and well-known masterpieces. The bronze pieces retrieved by salvage operations sponsored by the Greek state at Antikythera (1901) and Cape Artemision (1928) inaugurated a discussion about the exact nature of such cargos that continues well into the twenty-first century. Yet bronzes from known underwater contexts are far outnumbered by isolated finds unexpectedly brought to light by fishing activities. Extracted violently from their post-depositional environment, they offer little information about the circumstances of their transit, while the wreck sites from which they originate continue to resist discovery.
+---
+title: Bronzes from the Aegean Sea:** **A Reassessment of Old and New Finds
+layout: page
+author:
+ - first_name: George
+   last_name: Koutsouflakis
+   affiliation: Hellenic Ephorate of Underwater Antiquities
+abstract: Bronze artworks have seldom survived the whims of fortune on land. The Mediterranean Sea remains the richest reservoir of ancient bronzes lost in transit, and over the last 130 years the Aegean Sea has yielded some of the most spectacular and well-known masterpieces. The bronze pieces retrieved by salvage operations sponsored by the Greek state at Antikythera (1901) and Cape Artemision (1928) inaugurated a discussion about the exact nature of such cargos that continues well into the twenty-first century. Yet bronzes from known underwater contexts are far outnumbered by isolated finds unexpectedly brought to light by fishing activities. Extracted violently from their post-depositional environment, they offer little information about the circumstances of their transit, while the wreck sites from which they originate continue to resist discovery.
 
 The aim of this paper is to examine the existing evidence of bronzes found in the Aegean Sea, highlighting less known material retrieved from the sea over the last twenty years or long forgotten in museum storerooms.
-
-\[main text\]
+sort_order: 7
+---
 
 “Thank God for Vesuvius; thank God for shipwrecks.” Bondo Wyszpolski’s comment[^1] on the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World* at the Getty Museum accurately sums up an art-historical reality: bronze artwork of antiquity rarely survived the vicissitudes of history, except by mere chance. The contribution of Pompeii together with a handful of other sites is well known and recognized; the Villa dei Papiri at Herculaneum, for example, with its exquisite bronze portraiture “catapulted the study of bronzes from antiquarian pastime to art-historical discipline,”[^2] presenting an excellent archaeological context in which the Hellenistic art of portraiture could be well appreciated and understood. By contrast, the yield from the depths of the sea covers a considerably longer time span and is mostly the result of unintentional acts, resulting in a testimony that is far more ambiguous. The pursuit of context remains a major issue for most bronzes recovered underwater.[^3]
 
@@ -46,7 +45,7 @@ Several bronzes have however been reported found off the coast of Asia Minor, mo
 
 Ten years later, in 1963, the half-broken bronze statue of a young African was pulled from the sea by sponge-draggers at a depth of 100 meters (330 feet), not far from the modern city of Bodrum.[^21] Preserved from the hips up and retaining both arms, it might represent a groom and might have been part of a Hellenistic honorary monument. A bronze figurine of Isis-Fortuna was netted in the same area that same year, leaving open a hypothesis that both works may have originated from the same wreck.
 
-The latest reported statue from the coast of Turkey is the life-size bronze of a runner discovered at the Bay of Nemrut, near the ancient city of Cyme (Kyme).[^22] The work represents an athlete, []{#yui_3_16_0_1_1444485150788_1836 .anchor}probably the victor of a footrace. Somewhat awkwardly composed and schematically muscled, he is remarkable for the individual features of the face. It is evidently a portrait, but it might also echo a famous high Classical statue, Myron’s *Ladas*, which inspired numerous epigrams praising its sense of swiftness; this work has unfortunately not survived, even in replica. The face’s individuality and hairstyle suggest a late Hellenistic or even an early imperial Roman date.
+The latest reported statue from the coast of Turkey is the life-size bronze of a runner discovered at the Bay of Nemrut, near the ancient city of Cyme (Kyme).[^22] The work represents an athlete, probably the victor of a footrace. Somewhat awkwardly composed and schematically muscled, he is remarkable for the individual features of the face. It is evidently a portrait, but it might also echo a famous high Classical statue, Myron’s *Ladas*, which inspired numerous epigrams praising its sense of swiftness; this work has unfortunately not survived, even in replica. The face’s individuality and hairstyle suggest a late Hellenistic or even an early imperial Roman date.
 
 The next find was again in Greek territorial waters, in Spring 1979: the bronze equestrian statue of a male was delivered by fishermen to the authorities, from the sea near the island of Ai Stratis (Agios Efstratios), in the northern Aegean.[^23] It was immediately identified as Augustus on the basis of the emperor’s portraits on coins. Statues like this were probably promoted by Roman state policy and distributed to the provinces to serve the aims of imperial propaganda. There is evidence of another bronze cuirassed equestrian statue from the same area, suggesting that the presumptive wreck may have carried a number of such sculptures. A small part of a bronze statue was delivered to the Ephorate of Underwater Antiquities in 1981; it was never published and has lain forgotten ever since in the storerooms (**fig. 3.3**).[^24] It exhibits the right thigh and the *pteryges* (“feathers”) of the lower part of a cuirass of another life-size equestrian statue, possibly a companion or general of Augustus, although there is no clear evidence that the two bronzes originate from the same site.
 
@@ -88,231 +87,174 @@ Shipwrecks transporting bronzes remain elusive no matter the time, means, and fu
 
 Defining an archaeological context remains today the most crucial issue for the majority of bronzes retrieved underwater. Bronzes without context can still serve the history of art, but our understanding of the conditions of transit are relegated to the sphere of assumption. A subsequent need to relocate and investigate anew historic wrecks of the past is slowly being fulfilled. The painstaking documentation of the remains of the Antikythera shipwreck, now under excavation, will partly address that. The relocation of the remnants of the Artemision wreck is evoking a reconsideration of the date and circumstances of the ship’s transit. Experience has shown that only fully excavated shipwrecks and detailed study of all of the material on board can provide the kind of information that will allow scholars to link those wrecks to specific historical episodes.
 
-\[A-head\]Bibliography
+## Bibliography
 
-\[bibliography\]
+Azoulay 2009<br />
+Azoulay, V. 2009. “La gloire et l'outrage: Heurs et malheurs des statues honorifiques de Démétrios de Phalère.” *Annales. Histoire, Sciences Sociales* 64.2: 303–40; online: <http://www.cairn.info/revue-annales-2009-2-page-303.htm>.
 
-Azoulay 2009
-
-Azoulay, V. 2009. “La gloire et l'outrage: Heurs et malheurs des statues honorifiques de Démétrios de Phalère.” *Annales. Histoire, Sciences Sociales* 64.2: 303–40; online: <http://www.cairn.info/revue-annales-2009-2-page-303.htm>
-
-Bairamē 2014
-
+Bairamē 2014<br />
 Bairamē, Κ. 2014. “Male Head with Hat” and “Fragment of a Dolphin Sculpture.” In *Nautilus: Navigating Greece*, 238–39. Exh. cat. Athens, Centre for Fine Arts (Bozar). Athens: Hypourgeio Polismou kai Athletismou.
 
-Bass 2011
-
+Bass 2011<br />
 Bass, G. F. 2011. “The Development of Maritime Archaeology.” In *The Oxford Handbook of Maritime Archaeology*, eds. A. Catsabis, B. Ford, and D. I. Hamilton, 3–22. Oxford: Oxford University Press.
 
-Bass and Joliene 1968
-
+Bass and Joliene 1968<br />
 Bass, G. F., and L.T. Joliene 1968. “Problems in Deep Wreck Identification.” *Expedition* 11.1: 9–12.
 
-Becatti 1939
-
+Becatti 1939<br />
 Becatti, G. 1939. “Il culto di Ercole ad Ostia ed un nuovo rilievo votive.” *Bull.Com.Arch.* 67: 37–60.
 
-Bouyia 2011
-
+Bouyia 2011<br />
 Bouyia, P. 2011. “Σπένδουσα Άρτεμις.” In *Μύθος και Νόμισμα, Παραστάσεις, Συμβολισμός και Ερμηνείες από την Ελληνική Μυθολογία*, exh. cat., 76, n. 153. Athens: National Archaeological Museum.
 
-Daehner 2007
-
+Daehner 2007<br />
 Daehner, J., ed. 2007. *The Herculaneum Women: History, Context, Identities*. Los Angeles: J. Paul Getty Museum.
 
-Daehner and Lapatin 2015
-
+Daehner and Lapatin 2015<br />
 Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
 
-Dellaporta and Dimitriadou 1999
-
+Dellaporta and Dimitriadou 1999<br />
 Dellaporta, K., and T. Dimitriadou, 1999. “Παραδόσεις.” *AΔ* 54, Χρονικά B΄2: 1030–32.
 
-Dellaporta 2001–2004
-
+Dellaporta 2001–2004<br />
 Dellaporta, K. P. 2001–2004. *ΑΔ* 56–59, Χρονικά Β΄ 6: 591–92.
 
-Dellaporta 2006
-
+Dellaporta 2006<br />
 Dellaporta, K. P. 2006. *ΑΔ* 61, Χρονικά Β΄ 2: 1409.
 
-Dellaporta 2014
-
+Dellaporta 2014<br />
 Dellaporta, A. P. 2014. “Statue of an Adolescent.” *Nautilus: Navigating Greece*, 237. Exh. cat. Athens, Centre for Fine Arts (Bozar). Athens: Hypourgeio Polismou kai Athletismou.
 
-Dellaporta, Kourkoumelis, and Micha 2005
-
+Dellaporta, Kourkoumelis, and Micha 2005<br />
 Dellaporta, A., D. Kourkoumelis, and P. Micha. 2005. *ΑΔ* 60, Χρονικά Β΄2: 1246–48.
 
-Eiseman and Ridgway 1987
-
+Eiseman and Ridgway 1987<br />
 Eiseman, C. J., and B. S. Ridgway, eds. 1987. *The Porticello Shipwreck*. College Station: Texas A&M University Press.
 
-Faust 1994
-
+Faust 1994<br />
 Faust, S. 1994. “Die Klinen.” In Hellenkemper Salies et al. 1994, 573–606**. **
 
-Filios 1899
+Filios 1899<br />
+Filios, D. 1899. “Χάλκινον ἄγαλμα Ποσειδῶνος ἐκ Βοιωτίας.” *Ἀρχ. Ἐφ.*, 58–74.
 
-Filios, D. 1899. “Χάλκινον ἄγαλμα Ποσειδῶνος ἐκ Βοιωτίας.” *Ἀρχ. Ἐφ*., 58–74.
-
-Frost 1963
-
+Frost 1963<br />
 Frost, H. 1963. *Under the Mediterranean: Marine Antiquities*. London: Routledge and Kegan Paul.
 
-Green 2004
-
+Green 2004<br />
 Green, J. 2004. “Report on the Demeter Side Scan Sonar Search and the Aslan Burnu Site Survey, Turkey, 2004.” *Report*: *Department of Maritime Archaeology, Western Australian Maritime Museum* 188: 1–12.
 
-Heilmeyer 1996
-
+Heilmeyer 1996<br />
 Heilmeyer, W.-D. 1996. *Der Jüngling von Salamis*. Mainz: Philipp von Zabern.
 
-Hellenkemper Salies et al. 1994
-
+Hellenkemper Salies et al. 1994<br />
 Hellenkemper Salies, G., H.-H. von Prittwitz und Gaffron, and G. Bauchhenss, eds. *Das Wrack: Der antike Schiffsfund von Mahdia*. Cologne: Rheinland Verlag.
 
-Hemingway 2004
-
+Hemingway 2004<br />
 Hemingway, S. 2004. *The Horse and Jockey from Artemision: A Bronze Equestrian Monument of the Hellenistic Period*. Berkeley: University of California Press.
 
-Hemingway 2015
-
+Hemingway 2015<br />
 Hemingway, S. 2015. “Contexts of Discovery.” In Daehner and Lapatin 2015, 66–67.
 
-Hemingway, Abramitis, and Stamm, forthcoming
-
+Hemingway, Abramitis, and Stamm, forthcoming<br />
 Hemingway, S., D. H. Abramitis, and K. Stamm. Forthcoming. “Hellenistic and Roman Commemorative Military Sculpture: A Bronze Torso in the MET.” In *Art of the Hellenistic Kingdoms: From Pergamon to Rome*, Symposium held in New York, 2016.
 
-Höckmann 1994
-
+Höckmann 1994<br />
 Höckmann O. 1994. “Das Schiff.” In Hellenkemper Salies et al. 1994, 53–81.
 
-Immerwahr 1969
-
+Immerwahr 1969<br />
 Immerwahr, S. A. 1969. “A New Greek Bronze Head in the Ackland Museum.” *Hesperia* 38: 150–6.
 
-Kaltsas 2002
-
+Kaltsas 2002<br />
 Kaltsas, N. 2002. *Sculpture in the National Archaeological Museum, Athens*. Los Angeles: J. Paul Getty Museum.
 
-Kaltsas, Vlachogianni, and Bouyia 2012
-
+Kaltsas, Vlachogianni, and Bouyia 2012<br />
 Kaltsas, N., E. Vlachogianni and P. Bouyia, eds. 2012. *The Antikythera Shipwreck. The Ship, the Treasures, the Mechanism*. Athens: National Archaeological Museum.
 
-Karouzos 1930–31
-
+Karouzos 1930–31<br />
 Karouzos, C. 1930–31. “Ὁ Ποσειδῶν τοῦ Ἀρτεμησίου.” *ΑΔ* 13: 41–104.
 
-Kazianis 1994
-
+Kazianis 1994<br />
 Kazianis, D. 1994. *ΑΔ* 49, Χρονικά Β΄2: 856, pl. 265.
 
-Kazianis 1997
-
+Kazianis 1997<br />
 Kazianis, D. 1997. *ΑΔ* 52, Χρονικά Β΄3: 1201.
 
-Koutsouflakis 2007
-
+Koutsouflakis 2007<br />
 Koutsouflakis, G. 2007. “Χάλκινος κορμός ιππέα από την θαλάσσια περιοχή της Καλύμνου.” *Ενάλια* 10: 42–57.
 
-Koutsouflakis forthcoming
-
+Koutsouflakis, forthcoming<br />
 Koutsouflakis, G. Forthcoming. “Ναυάγιο Ύστερης Ελληνιστικής Περιόδου στο Ακρωτήριο Ρέθι της Nήσου Στύρα.” *ΑΔ* 2010.
 
-Koutsouflakis et al. 2012
-
+Koutsouflakis et al. 2012<br />
 Koutsouflakis, G., X. Argyri, Chr. Papadopoulou, and J. Sapountzis. 2012. “Υποβρύχια Αναγνωριστική Έρευνα στο Νότιο Ευβοϊκό (2006–2008).” *Enalia* 11: 40–69.
 
-Koutsouflakis and Simosi 2015
-
+Koutsouflakis and Simosi 2015<br />
 Koutsouflakis, G., and A. Simosi. 2015. “Hellenistic Bronze Sculptures from the Aegean Sea: Recent Discoveries (1994–2009).” In Daehner and Lapatin 2015, 72–81.
 
-Lichtenberger 2012
-
+Lichtenberger 2012<br />
 Lichtenberger, A. 2012. “Gibt es seine vorhellenistische Tradition für das Diadem?” In *Das Diadem der hellenistischen Herrscher: Übernahme, Transformation oder Neuschöpfung eines Herrschaftszeichens?*, ed. A. Lichtenberger et al., 163–79. Bonn: Habelt.
 
-Lindenlauf 2003
-
+Lindenlauf 2003<br />
 Lindenlauf, A. 2003. “The Sea as a Place of No Return in Ancient Greece.” *World Archaeology* 35: 416–33.
 
-Mattusch 1997
+Mattusch 1997<br />
+Mattusch, C. C. 1997. *The Victorious Youth*. Los Angeles: J. Paul Getty Museum.
 
-Mattusch, C. C. 1997. *The Victorious Youth.* Los Angeles: J. Paul Getty Museum.
+Palagia 2013<br />
+Palagia, O. 2013. “Aspects of the Diffusion of Ptolemaic Portraiture Overseas.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Trade*, ed. K. Buraselis, N. Stefanou, and D. J. Thompson, 143–59. Cambridge: Cambridge University Press.
 
-Palagia 2013
-
-Palagia, O. 2013. “Aspects of the Diffusion of Ptolemaic Portraiture Overseas.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Trade,* ed. K. Buraselis, N. Stefanou, and D. J. Thompson, 143–59. Cambridge: Cambridge University Press.
-
-Palagia, O. 2017
-
+Palagia, O. 2017<br />
 Palagia, O. 2017. “A Royal Macedonian Portrait Head from the Sea off Kalymnos.” Chapter 4 of the present volume.
 
-Palaiokrassa 2012
-
+Palaiokrassa 2012<br />
 Palaiokrassa, N. 2012. “Small Metal Objects and Utensils.” In *The Antikythera Shipwreck: The Ship, the Treasures, the Mechanism*, ed. N. Kaltsas, E. Vlachogianni, and P. Bouyia, 116–21. Athens: National Archaeological Museum.
 
-Pekridou 1986
+Pekridou 1986<br />
+Pekridou, A. 1986. “Das Alketas-Grab in Termessos,” *Ist Mitt.*, Beiheft 32.
 
-Pekridou, A. 1986. “Das Alketas-Grab in Termessos,” *Ist Mitt*., Beiheft 32.
-
-Piteros 2001
-
+Piteros 2001<br />
 Piteros, C. 2001. “Ο Δίας του Αρτεμισίου και ο Ποσειδώνας του Ισθμού της Κορίνθου. ” In *Άγαλμα. Μελέτες για την αρχαία πλαστική προς τιμήν του Γιώργου Δεσπίνη*, 99–121. Thessaloniki.
 
-Proskynitopoulou 2004
+Proskynitopoulou 2004<br />
+Proskynitopoulou, R. 2004. “Άγαλμα νεαρής ανδρικής μορφής.” In *Αγών*, ed. N. Kaltsas, 101–103. Exh. cat. Athens, National Archaeological Museum.
 
-Proskynitopoulou, R. 2004. “Άγαλμα νεαρής ανδρικής μορφής.” In *Αγών,* ed. N. Kaltsas, 101–103. Exh. cat. Athens, National Archaeological Museum.
-
-Rhomaios, K. 1924–25
-
+Rhomaios, K. 1924–25<br />
 Rhomaios, K. 1924–25. “Ὁ ἔφηβος τοῦ Μαραθῶνος.” *ΑΔ* 9: 145–87.
 
-Ridgway 1967
-
+Ridgway 1967<br />
 Ridgway, B. S. 1967. “The Lady from the Sea: A Greek Bronze in Turkey.” *AJA* 71: 329–34.
 
-Ridgway 1990
-
+Ridgway 1990<br />
 Ridgway, B. S. 1990. *Hellenistic Sculpture*. Vol. 1: *The Styles of ca. 331–200 B.C.* Madison: University of Wisconsin Press.
 
-Ridgway 2000
-
+Ridgway 2000<br />
 Ridgway, B. S. 2000. *The Hellenistic Sculpture*. Vol. 2: *The Styles of ca. 200–100 B.C.* Madison: University of Wisconsin Press.
 
-Sakellariou et al. 2007
-
+Sakellariou et al. 2007<br />
 Sakellariou, D., P. Georgiou, A. Mallios, V. Kapsimalis, D. Kourkoumelis, P. Micha, T. Theodoulou, and K. Dellaporta 2007. “Searching for Ancient Shipwrecks in the Aegean Sea: The Discovery of Chios and Kythnos Hellenistic Wrecks by Marine Geological-Geophysical Methods.” *IJNA* 36.2: 365–81.
 
-Shear 1973
-
+Shear 1973<br />
 Shear, T. L., Jr. 1973. “The Athenian Agora: Excavations of 1971.” *Hesperia* 42: 121–79.
 
-Steffy 1994
-
+Steffy 1994<br />
 Steffy, J. R. 1994. *Wooden Ship Building and the Interpretation of Shipwrecks*. College Station: Texas A&M University.
 
-Throckmorton 1965a
-
+Throckmorton 1965a<br />
 Throckmorton, P. 1965a. “The Antikythera Ship.” In *The Antikythera Shipwreck Reconsidered*, ed. G. D. Weinberg, V. R. Grace, G. R. Edwards, H. S. Robinson, P. Throckmorton, and E. K. Ralph, *TAPS* 55.3, 40–46.
 
-Throckmorton 1965b
-
+Throckmorton 1965b<br />
 Throckmorton, P. 1965b, *The Lost Ships: An Adventure in Undersea Archaeology*. London: Jonathon Cape.
 
-Touloupa 1986
-
+Touloupa 1986<br />
 Touloupa, E. 1986. “Das Bronze Reiters Tandbild des Augustus aus dem nordägäischen Meer.” *AM* 101: 185–205.
 
-Tzalas 2007
-
+Tzalas 2007<br />
 Tzalas, C. Ε. 2007. “Χάλκινα αγάλματα από τα βάθη της θάλασσας.” In *Μεγάλες Στιγμές της Eλληνικής Aρχαιολογίας*, ed. P. Valavanis, 342–63. Athens: Kapon.
 
-Vertos 1929
-
+Vertos 1929<br />
 Vertos, N. 1929. “Περί τῆς ἐξερευνήσεως τοῦ βυθοῦ τῆς θαλάσσης Ἀρτεμισίου.” *ΑΔ* 10: 87–95.
 
-[^1]: www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world
+[^1]: <www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world>.
 
 [^2]: Daehner and Lapatin 2015, 26.
 

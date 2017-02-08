@@ -1,20 +1,17 @@
-\[title\]Was the Colossus of Rhodes Cast in Courses or in Large Sections?
-
-\[author\]Ursula Vedder
-
-\[affiliation\] Deutschen Archäologischen Instituts, Munich
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast *in situ* in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
+---
+title: Was the Colossus of Rhodes Cast in Courses or in Large Sections?
+layout: page
+author:
+ - first_name: Ursula
+   last_name: Vedder
+   affiliation: Deutschen Archäologischen Instituts, Munich
+abstract: The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast *in situ* in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
 
 How do we reconstruct the fabrication process of an exceptionally large and lost statue? First, the general parameters for the working steps must be known. Therefore, the indirect lost-wax process in antiquity is compared with better-known methods used to create two extant colossal statues, the Great Buddha in Nara (cast in courses) and the *Bavaria* in Munich (cast in large sections). Then the various steps of the working process attested in ancient times are examined. The analysis reveals basic differences between the three casting methods.
 
 Philo’s text contains a certain level of technical knowledge but lacks important details and indeed states an important falsehood. A possible explanation for this discrepancy is that he used a written reconstruction of a working process. This means that we can give the archaeological evidence greater weight than this text.
-
-\[main text\]
+sort_order: 6
+---
 
 In the argument over where the monumental statue known as the Colossus of Rhodes was located, its casting has hitherto seldom been considered. The statue—made of cast bronze with a height of 70 cubits (30–35 meters, or 98–114 feet)—must have left at least some remnants of its production. Furthermore, these remnants must be discoverable in the city of Rhodes. However, a requirement for recognizing these remnants is knowledge of the casting technique that was used. For this reason, it is worth undertaking a reconstruction of the manufacturing process of this lost statue.[^1]
 
@@ -64,7 +61,7 @@ The Japanese workers, by contrast, had to wait until the casting of the head was
 
 And another detail is not comparable: in Nara, surviving documents indicate that 8,000 workers and 200 overseers worked on the Buddha project. It is unlikely that there were that many workers in the Greek context at the beginning of the third century BC.
 
-\[A-head\]Conclusion
+## Conclusion
 
 Summing up, the technique described by Philo is not compatible with the situation proved by archaeology in ancient Greece. An explanation for this discrepancy might be that his text is not a factual account but rather a reconstruction of the casting of the Colossus. The text, or an earlier source from which it was compiled, was written because the original information from the third century BC—the time of Chares of Lindos, the sculptor of the Colossus—was lost. Thus we need no longer credit the idea that the Colossus of Rhodes was cast using a different technique from that attested on Rhodes. The statue must have been cast in large sections.
 
@@ -72,60 +69,45 @@ This understanding leads to the following points useful in the search for the lo
 
 In 2015 I published a proposal for the possible location of the Colossus’s base and workshop in the sanctuary of Helios above the stadium and the odeion on the acropolis of Rhodes (**fig. 2.8)**.[^20] The ruin northeast of the temple may be the remains of the base and the workshop. In the discussion of this interpretation of the ruin, the casting technique of the Colossus plays an important role.
 
-\[A-head\]Bibliography
+## Bibliography
 
-\[bibliography\]
-
-Giumlia-Mair 2012
-
+Giumlia-Mair 2012<br />
 Giumlia-Mair, A. 2012. “The Technology of Bronze Statuary.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari, 9–27. Rome: Aracne.
 
-Haynes 1992
-
+Haynes 1992<br />
 Haynes, D. 1992. *The Technique of Greek Bronze Statuary*. Mainz: Philipp von Zabern.
 
-Lapatin 2001
-
+Lapatin 2001<br />
 Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press
 
-Maeda et al. 1997
-
+Maeda et al. 1997<br />
 Maeda, Y., T. Matsuyama, S. Hirakawa, D. Nishi, and K. Totsu. 1997. *Todaiji Daibutsu no kenkyu: Rekishi to chuzog ijutsu*. Tokyo: Iwanami Shoten.
 
-Maryon 1956
-
+Maryon 1956<br />
 Maryon, H. 1956. “The Colossus of Rhodes.” *JHS* 76: 68–86.
 
-Mattusch 2014
-
+Mattusch 2014<br />
 Mattusch, C. C. 2014. *Enduring Bronze: Ancient Art, Modern Views*. Los Angeles: J. Paul Getty Museum.
 
-Pangkofer 1854
-
+Pangkofer 1854<br />
 Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4
 
-Palagia 2013
-
+Palagia 2013<br />
 Palagia, O. 2013. “Not from the Spoils of Marathon: Pheidias’ Bronze Athena on the Acropolis.” In *Marathon the Day After: Symposium Proceedings, Delphi, July 2–4, 2010*, ed. K. Buraselis and E. Koulakiotis, 117–37. Athens: European Cultural Center of Delphi.
 
-Rosenfield 2011
-
+Rosenfield 2011<br />
 Rosenfield, M. 2011. *Portraits of Chōgen: The Transformation of Buddhist Art in Early Medieval Japan*. Leiden and Boston: Brill.
 
-Stevens 1955
-
+Stevens 1955<br />
 Stevens, G. P. 1955. “Remarks upon the Chryselephantine Statue of Athena.” *Hesperia* 24: 240–76.
 
-Vedder 2015
-
+Vedder 2015<br />
 Vedder, U. 2015. *Der Koloss von Rhodos: Archäologie, Herstellung und Rezeptionsgeschichte eines antiken Weltwunders*. Mainz: Nünnerich-Asmus.
 
-Zimmer 1990
-
+Zimmer 1990<br />
 Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: Zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz: Philipp von Zabern.
 
-Zimmer and Bairamē 2008
-
+Zimmer and Bairamē 2008<br />
 Zimmer, G., and Bairamē, K. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund.
 
 [^1]: This paper summarizes Vedder 2015, 40–56, figs. 23–55, 60–65.

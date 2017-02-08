@@ -1,18 +1,15 @@
-\[title\]The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief
-
-\[author\]Patricia A. Butz
-
-\[affiliation\]Savannah College of Art and Design
-
-\[A-head\]Abstract
-
-\[abstract\]
-
-The paper proposes the bronze head of Queen Arsinoë III from the collection of the Museo Civico di Palazzo Te in Mantua, Italy, as a portrait type relating directly to the representation of the queen on the bottom register of the British Museum’s Archelaos Relief. There, the figure is identified by inscription as Oikoumene. The structural elements that so distinguish the bronze head in its profile views are very similar to this marble relief, in which the queen, together with Ptolemy IV, are presented as deified and deifying forces in the act of crowning Homer. Arsinoë’s label “Oikoumene” helps define the meaning common to the relief and the head and suggests a new dimension of immortality, including the choice of bronze. In contrast is Arsinoë’s representation on the contemporary trilingual Raphia Stele, where she is divinized in the Egyptian manner. The role of Hellenistic Alexandria, arguably the place of origin for both the bronze head and the marble relief, is seen as essential for the gestation and diffusion of such a sophisticated typology.
+---
+title: The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief
+layout: page
+author:
+ - first_name: Patricia A.
+   last_name: Butz
+   affiliation: Savannah College of Art and Design
+abstract: The paper proposes the bronze head of Queen Arsinoë III from the collection of the Museo Civico di Palazzo Te in Mantua, Italy, as a portrait type relating directly to the representation of the queen on the bottom register of the British Museum’s Archelaos Relief. There, the figure is identified by inscription as Oikoumene. The structural elements that so distinguish the bronze head in its profile views are very similar to this marble relief, in which the queen, together with Ptolemy IV, are presented as deified and deifying forces in the act of crowning Homer. Arsinoë’s label “Oikoumene” helps define the meaning common to the relief and the head and suggests a new dimension of immortality, including the choice of bronze. In contrast is Arsinoë’s representation on the contemporary trilingual Raphia Stele, where she is divinized in the Egyptian manner. The role of Hellenistic Alexandria, arguably the place of origin for both the bronze head and the marble relief, is seen as essential for the gestation and diffusion of such a sophisticated typology.
+sort_order: 9
+---
 
 \[epigraph\]Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
-
-\[main text\]
 
 The bronze head of Arsinoë III is one of the most important pieces in the Giuseppe Acerbi Collection of the Museo Civico di Palazzo Te in Mantua, a collection assembled when Acerbi was the Austrian consul general in Alexandria between 1826 and 1834 and later given to his hometown of Mantua (**fig. 5.1**). Even compared with the exceptional quality of the overall collection, which is particularly strong in Late Period, Ptolemaic, and Roman material, this representation of Arsinoë III is singular. It is the only major bronze Acerbi acquired and it is a rare embodiment in that material of Hellenistic royal portraiture in the Greek tradition. The head (**fig. 5.2**) connects strongly with other significant portraits displayed in the same room at the Palazzo Te. One is possibly a portrait of Psammetichus I, who took the throne of Egypt in the seventh century BC with the help of Greek mercenaries and who, by formally authorizing the Greek settlement at Naukratis south of Alexandria, opened the intercultural contact that would culminate in the Ptolemaic period.[^1] Another portrait of a Ptolemaic king is also nearby, rendered in the Egyptian style and identified as perhaps Ptolemy II Philadelphus,[^2] who would have been the queen’s grandfather.
 
@@ -20,49 +17,11 @@ While the head of Arsinoë III was published in the catalogue for the 2015–16 
 
 What struck me initially upon seeing the bronze head, first from photographs and then in person, was the remarkably subtle combination of realism and idealism in the rendering of the features, an impression that is heightened when one compares the two profile views (**figs. 5.3a–b**). They are appreciably different, a point to which I will return. Many scholars have considered two marble heads of a Ptolemaic king and queen in Boston as standards for studying the portrait sculpture of the fourth Ptolemaic royal couple, Ptolemy IV and Arsinoë III.[^7] But the Boston case is not definitive, and neither is the numismatic evidence such as the series of gold octodrachms already cited. A unique realism has been noted in these coin portraits of Arsinoë III by R. R. R. Smith:
 
-\[extract\]
-
-The queen’s coin portrait is unusual. It is close to Arsinoe II and Berenike II
-
-in its crisply articulated court style and greatly enlarged eyes, but here
-
-the queen has a sharp mortal individuality. Her prominent nose breaks
-
-the classical profile and she looks a little older than the ideal of young
-
-womanhood; and the whole seems to be of a woman who could age.
-
-> The queen has no divine, only royal attributes: stephane, diadem and
->
-> sceptre; and an air of reality is given by the prominent earrings and
->
-> necklace. Her predecessors created new female royal ideals; she uses
->
-> the same formal means but introduces a strong portrait element to express
->
-> her more stern, rather Victorian-looking, royal style.[^8]
-
-\[end extract\]
+>The queen’s coin portrait is unusual. It is close to Arsinoe II and Berenike II in its crisply articulated court style and greatly enlarged eyes, but here the queen has a sharp mortal individuality. Her prominent nose breaks the classical profile and she looks a little older than the ideal of young womanhood; and the whole seems to be of a woman who could age. The queen has no divine, only royal attributes: stephane, diadem and sceptre; and an air of reality is given by the prominent earrings and necklace. Her predecessors created new female royal ideals; she uses the same formal means but introduces a strong portrait element to express her more stern, rather Victorian-looking, royal style.[^8]
 
 It was her son Ptolemy V Epiphanes, of course, who introduced the series, not the queen herself. In speaking about the Mantua head, which he identifies as “most likely” the queen, Smith surprisingly describes it as “stiff and lifeless and the hair merely engraved on top of the head rather than modeled” and “not the best Hellenistic bronze work.”[^9] A view of the top of the head shows the incised patterning to which he refers (**fig. 5.4**). Ghisellini, while recognizing the restrained realism, asserts that the whole adds up a little differently:
 
-\[extract\]
-
-Classical principles dominate the structure of the head. The almost
-
-> frontal view, the even contours, the harmonious proportions and the
->
-> essentially symmetrical rendering of the features, and the simple elegant
->
-> hairstyle are all classically inspired. However, this legacy does not diminish
-
-the portrait’s realism, but rather enhances it with a stately note. Indeed we
-
-can immediately perceive the divine nature of the queen who enjoyed
-
-immense popularity among all her subjects . . . .[^10]
-
-\[end extract\]
+> Classical principles dominate the structure of the head. The almost frontal view, the even contours, the harmonious proportions and the essentially symmetrical rendering of the features, and the simple elegant hairstyle are all classically inspired. However, this legacy does not diminish the portrait’s realism, but rather enhances it with a stately note. Indeed we can immediately perceive the divine nature of the queen who enjoyed immense popularity among all her subjects . . . .[^10]
 
 Ghisellini, as already noted, utilized the frontal view for her principle assessment in this entry, but in the above quotation refers to it as the “almost frontal view.” By that she surely means the fine difference between the left and right sides of the face if divided on axis. As can be seen by close examination of figure 5.2, the head is shifted very slightly to its left. There is the slightest uplift visible in this left side of the face, from the mouth to the nose, the eye and eyebrow, through to the hairline. This matches the infinitesimal turn of the head also to the left. It must be remembered that if the statue had survived intact, parallax would have made this analysis impossible from the ground. It is a great luxury indeed to understand the finesse with which the axis is handled, which exact measurement would corroborate.[^11] Comparing the profiles, however, is even more revealing of the dichotomy. The right profile (**fig. 3a**) embodies the realistic characteristics noted by both scholars: a certain heaviness in the treatment of the features and the ability to age, as Smith puts it very well. The rounded face gains little definition from the underlying bone structure, especially in the transition to the neck. The nose, a key element to Arsinoë’s portraiture recognized by both Smith and Ghisellini, maintains the slightly convex swelling along the bridge seen on the coins, as well as the sharp angularity at the tip. The line of the mouth is downward, but not in the extreme.
 
@@ -70,17 +29,7 @@ The left profile (**fig. 3b**), on the other hand, has a different vitality. The
 
 There is one Hellenistic relief that I claim relates directly to the Mantua head because it sheds further light on these mixed elements of realism and divinity in Arsinoë’s portraiture: the Archelaos Relief, signed by Archelaos of Priene (**fig. 5.5**). Found at Bovillae, some 19 kilometers (12 miles) outside of Rome, and now in the British Museum, the relief presents the immortalization of Homer in a series of four registers.[^12] The event itself is depicted on the bottom register; then it is celebrated by Apollo and a number of the Muses on the second register, by Mnemosyne and other figures on the third register, and finally by Zeus at the apex. These deities indicate the divine inspiration enjoyed by Homer from the inception of his works and facilitate his triumphant “homecoming.” J. J. Pollitt states that the facial similarity between Homer and Zeus not only brings the two together but is responsible for the modern title “Apotheosis of Homer” sometimes given to the relief.[^13] There is in addition a standing figure on the far right of the second register, positioned in contrapposto upon a statue base and holding a scroll with a lightly incised tripod behind him. While this could very likely be a victorious poet honored by the stele or the dedicant proper,[^14] it could conceivably be Homer himself as a younger genius, especially if the relief were implying an actual apotheosis, i.e. the raising of the individual to the higher status.[^15] But of greatest interest to us here is the pair of figures farthest to the left on the bottom register, stepping toward the seated Homer, framing the scene on that side, and acting as sole agents in his crowning (**fig. 5.6a**). Recognizable from coin portraits, the couple is unquestionably Ptolemy IV and Arsinoë III—Richard Neer calls the portraits “thinly disguised”[^16]—although other rulers have been proposed in the past.[^17] No matter what date is given to the relief or its actual place of manufacture,[^18] in the end it comes back to this couple and hence the traditions of the Alexandrine literati. Ptolemy IV, known throughout his reign for his religious piety, erected a Homereion as part of his temple-building campaign in Alexandria honoring many of the Egyptian gods.[^19] An important anonymous papyrus preserves an epigram in which Ptolemy IV is called “blessed” for this act.[^20] Aelian (*Varia historia* 13.22) also attests to the foundation of the Homereion. While the location of the shrine is not known, it is worth citing the passage:
 
-\[extract\]
-
-Πτολεμαῖος ὁ Φιλοπάτωρ κατασκευάσας Ὁμήρῳ νέων, αὑτὸν μὲν καλὸν καλῶς
-
-ἐκάθισε, κύκλῳ δὲ τὰς πόλεις περιέστησε τοῦ ἀγάλματος, ὅσαι ἀντιποιοῦνται
-
-τοῦ Ὁμήρου. Γαλάτων δέ ὁ ζωγράφος ἔγαψε τὸν μὲν Ὅμηρον ἀυτὸν ἐμοῦντα,
-
-τοὺς δὲ ἄλλους ποιητὰς τὰ ἑμημεσμένα ἀρυτομένους.[^21]
-
-\[end extract\]
+>Πτολεμαῖος ὁ Φιλοπάτωρ κατασκευάσας Ὁμήρῳ νέων, αὑτὸν μὲν καλὸν καλῶς ἐκάθισε, κύκλῳ δὲ τὰς πόλεις περιέστησε τοῦ ἀγάλματος, ὅσαι ἀντιποιοῦνται τοῦ Ὁμήρου. Γαλάτων δέ ὁ ζωγράφος ἔγαψε τὸν μὲν Ὅμηρον ἀυτὸν ἐμοῦντα, τοὺς δὲ ἄλλους ποιητὰς τὰ ἑμημεσμένα ἀρυτομένους.[^21]
 
 This description brings to mind the circle of poets, part of the dromos installation at the Sarapieion of Saqqara, the statuary of which may well be dated to the reign of Ptolemy IV.[^22] Homer was among the subjects of that elite circle of statues, if not the focal point. This has led me to a tentative theory that what is depicted on the Archelaos Relief may also be related to the larger installation, firmly connecting Alexandria to Memphis.[^23] The Archelaos Relief depicts at least two distinct environments. The first is the theatrical ambience on the bottom register with its backdrop of columns joined by a draped curtain attached just below the abacus of each column. The result is a shallow, contained space dominated by Homer and the royal couple to the left. In front of Homer, just off-center, is a circular altar, with a magnificent, Apis-like horned bull looming over it. Two small figures, kneeling and flanking Homer’s throne, are personifications of the bard’s epic creations, as the inscriptions below tell the viewer. Facing Homer on the other side of the altar are the genres of literature and intellect that acknowledge his inspiration and will ultimately carry it forward. The *rhythmos* of the scene is interesting. There is a processional quality to the repetitious, fixed contrapposto position of many of the figures on the right, with everyone gesturing toward Homer. The votive effect has been noted by several scholars.[^24] The second environment of the relief is the mountain-like ascent of the upper registers combining some architectonic elements, such as the cavelike archway or grotto sheltering Apollo and the curving, graded stairway connecting the third register to the top. Neer has associated these details with a shrine to the Muses overlooking the Great Library at Alexandria,[^25] but it is very possible that we could be looking at some part or parts of the Homereion itself. The figure on the statue base is positioned directly below the staircase between the third and fourth registers. Mnemosyne, the mother of the Muses, stands in contrapposto on an outcropping of rock to the left of the stairway, looking upward toward a reclining Zeus. Her imposing figure breaks down the division between the third and fourth registers. Their offspring, the Muses, are the major occupants of the registers below. Zahra Newby traces what would have been the orchestration of the eye contact between these figures, many now missing their actual heads.[^26] Space and the transmission of knowledge are definitely handled differently in the upper three registers.
 
@@ -96,109 +45,83 @@ In contrast to the Archelaos Relief, but also prompting analysis of the real and
 
 The head of Arsinoë III in Mantua, however, is the key to understanding her subtle, two-sided portraiture and exploring the phenomenon of the Greek interaction with Egypt under the Ptolemies. The specific dynamic between this representation and that of the queen on the Archelaos Relief calls for a reinterpretation of her portrait type. The survival of these works is fortuitous: the bronze for its material in the heroic sense and the marble relief for the divine personification of the queen as Oikoumene. Both masterfully mix realism and divinity. The head in Mantua may be argued to show the queen at her most beautiful: the perfect balance between realistic and idealized parts, whether analyzed from the front, sides, or any other viewpoint. The relief, on the other hand, shows her leading the action not only on the bottom register but in the narrative as a whole: the overwhelming feminine presence, the sheer number of Muses and female personifications needs to be taken into account. It is she who bestows the crown and hence births the deification of the epic embodiment of Greek cultural memory. The role of Hellenistic Alexandria, her home base, is acknowledged very soundly as the place of genesis, if not origin, for the ideology embodied in both the bronze head and the marble relief. It is the necessary catalyst for motivating two such sophisticated responses within the type.
 
-\[A-head\]Acknowledgments
+## Acknowledgments
 
 I foremost acknowledge Chiara Pisani, Conservator of the Museo Civico di Palazzo Te in Mantua, for her generous permission to study the head of Arsinoë III in September 2015 and for our ensuing dialogue. My sincere appreciation also goes to Daniela Saccenti, Librarian at the Palazzo Te, for discussing the Acerbi Collection in detail and inspiring me to come back and work more on this material. Special thanks is owed to the organizers of the XIX International Congress on Ancient Bronzes at the J. Paul Getty Museum, who coordinated the rich program and schedule of events with the *Power and Pathos* exhibition; and especially Jens Daehner, Kenneth Lapatin, and Ambra Spinelli for their work in ensuring the excellence of the proceedings.
 
-\[A-head\]Bibliography
+## Bibliography
 
-\[bibliography\]
-
-Ashton 2001
-
+Ashton 2001<br />
 Ashton, S.-A. 2001. *Ptolemaic Royal Sculpture from Egypt: The Interaction between Greek and Egyptian Traditions*. BAR–IS 923. Oxford: Archaeopress.
 
-Assmann 2003
+Assmann 2003<br />
+Assmann, J. 2003. *The Mind of Egypt: History and Meaning in the Time of the Pharaohs*. Trans. Andrew Jenkins. Cambridge, MA, and London: Harvard University Press.
 
-Assmann, J. 2003. *The Mind of Egypt: History and Meaning in the Time of the Pharaohs.* Trans. Andrew Jenkins. Cambridge, MA, and London: Harvard University Press.
+Bagnall and Rathbone 2004<br />
+Bagnall, R. S., and D. W. Rathbone, eds. 2004. *Egypt from Alexander to the Early Christians*. Los Angeles: J. Paul Getty Museum.
 
-Bagnall and Rathbone 2004
+Budge \[1929\] 1989<br />
+Budge, E. A. \[1929\] 1989. *The Rosetta Stone*. London: The Religious Tract Society; repr. ed., New York: Dover Publications.
 
-Bagnall, R. S., and D. W. Rathbone, eds. 2004. *Egypt from Alexander to the Early Christians.* Los Angeles: J. Paul Getty Museum.
+Butz 2010<br />
+Butz, P. A. 2010. *The Art of the Hekatompedon Inscription and the Birth of the Stoikhedon Style*. Monumenta Greca et Latina 16. Leiden and Boston: E. J. Brill.
 
-Budge 1929 (1989)
+Donatelli 1995<br />
+Donatelli, L. 1995. *La Raccolta Egizia di Guiseppe Acerbi*. 2nd ed. Mantova: Publi Paolini.
 
-Budge, E. A. 1929 (1989). *The Rosetta Stone.* London: The Religious Tract Society; repr. ed., New York: Dover Publications.
-
-Butz 2010
-
-Butz, P. A. 2010. *The Art of the Hekatompedon Inscription and the Birth of the Stoikhedon Style.* Monumenta Greca et Latina 16. Leiden and Boston: E. J. Brill.
-
-Donatelli 1995
-
-Donatelli, L. 1995. *La Raccolta Egizia di Guiseppe Acerbi.* 2nd ed. Mantova: Publi Paolini.
-
-Fraser \[1972\] 2001
-
+Fraser \[1972\] 2001<br />
 Fraser, P. M. \[1972\] 2001. *Ptolemaic Alexandria.* 3 vols. Repr. ed. Oxford: Clarendon Press.
 
-Ghisellini 2015
-
+Ghisellini 2015<br />
 Ghisellini, E. 2015. “Portrait of Arsinoë III.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 200–201. Los Angeles: J. Paul Getty Museum.
 
-Hölbl 2001
+Hölbl 2001<br />
+Hölbl, G. 2001. *A History of the Ptolemaic Empire* Trans. T. Saavedra. London and New York: Routledge.
 
-Hölbl, G. 2001. *A History of the Ptolemaic Empire.* Trans. T. Saavedra. London and New York: Routledge.
-
-Kyrieleis 1975
-
+Kyrieleis 1975<br />
 Kyrieleis, H. 1975. *Bildnisse der Ptolemäer*. Berlin: Mann.
 
-McKenzie 2007
+McKenzie 2007<br />
+McKenzie, J. 2007. *The Architecture of Alexandria and Egypt: 300 BC–AD 700*. New Haven and London: Yale University Press.
 
-McKenzie, J. 2007. *The Architecture of Alexandria and Egypt: 300 BC–AD 700.* New Haven and London: Yale University Press.
+Neer 2012<br />
+Neer, R. T. 2012. *Greek Art and Archaeology: A New History c. 2500–c. 150 BCE*. New York: Thames and Hudson.
 
-Neer 2012
+Newby 2007<br />
+Newby, Z. 2007. “Reading the Allegory of the Archelaos Relief.” In *Art and Inscriptions in the Ancient World*, ed. Z. Newby and R. Leader-Newby, 156–78. Cambridge: Cambridge University Press.
 
-Neer, R. T. 2012. *Greek Art and Archaeology: A New History c. 2500–c. 150 BCE.* New York: Thames and Hudson.
+Newton et al. 1874<br />
+Newton, C. T., E. L. Hicks, G. Hirschfeld, and F. H. Marshall. 1874. *The Collection of Ancient Greek Inscriptions in the British Museum*. 4 vols. London: British Museum.
 
-Newby 2007
-
-Newby, Z. 2007. “Reading the Allegory of the Archelaos Relief.” In *Art and Inscriptions in the Ancient World,* ed. Z. Newby and R. Leader-Newby, 156–78. Cambridge: Cambridge University Press.
-
-Newton et al. 1874
-
-Newton, C. T., E. L. Hicks, G. Hirschfeld, and F. H. Marshall. 1874. *The Collection of Ancient Greek Inscriptions in the British Museum.* 4 vols. London: British Museum.
-
-Pinkwart 1965
-
+Pinkwart 1965<br />
 Pinkwart, D. 1965. *Das Relief des Archelaos von Priene und die “Musen des Philiskos*.” Kallmütz: Lassleben.
 
-Pollitt 1986
+Pollitt 1986<br />
+Pollitt, J. J. 1986. *Art in the Hellenistic Age*. Cambridge: Cambridge University Press.
 
-Pollitt, J. J. 1986. *Art in the Hellenistic Age.* Cambridge: Cambridge University Press.
-
-Richter 1965
-
+Richter 1965<br />
 Richter, G. M. 1965. *Portraits of the Greeks*. 3 vols. London: Phaidon.
 
-Ridgway 2000
-
+Ridgway 2000<br />
 Ridgway, B. S. 2000. *Hellenistic Sculpture*. Vol. 2, *The Styles of ca. 200-100 B.C.* Madison: University of Wisconsin Press.
 
-Ridgway 2001
-
+Ridgway 2001<br />
 Ridgway, B. S. 2001. *Hellenistic Sculpture*. Vol. 1: *The Styles of ca. 331–200 B.C.* Madison: University of Wisconsin Press.
 
-Ridgway 2002
-
+Ridgway 2002<br />
 Ridgway, B. S. 2002. *Hellenistic Sculpture*. Vol. 3: *The Styles of ca. 100-31 B.C.* Madison: University of Wisconsin Press.
 
-Smith 1988
+Smith 1988<br />
+Smith, R. R. R. 1988. *Hellenistic Royal Portraits*. Oxford: Clarendon Press.
 
-Smith, R. R. R. 1988. *Hellenistic Royal Portraits.* Oxford: Clarendon Press.
+Stanwick 2002<br />
+Stanwick, P. E. 2002. *Portraits of the Ptolemies: Greek Kings as Egyptian Pharaohs*. Austin: University of Texas Press.
 
-Stanwick 2002
+Stewart 1990<br />
+Stewart, A. 1990. *Greek Sculpture: An Exploration*. 2 vols. New Haven and London: Yale University Press.
 
-Stanwick, P. E. 2002. *Portraits of the Ptolemies: Greek Kings as Egyptian Pharaohs.* Austin: University of Texas Press.
-
-Stewart 1990
-
-Stewart, A. 1990. *Greek Sculpture: An Exploration.* 2 vols. New Haven and London: Yale University Press.
-
-Thompson 2012
-
-Thompson, D. J. 2012. *Memphis under the Ptolemies.* 2nd ed. Princeton and Oxford: Princeton University Press.
+Thompson 2012<br />
+Thompson, D. J. 2012. *Memphis under the Ptolemies*. 2nd ed. Princeton and Oxford: Princeton University Press.
 
 [^1]: Donatelli 1995, 43, cat. no. 10. See also Butz 2010, 98–103, for the site of Naukratis as a place of important epigraphic exchange between the Egyptian and Greek traditions.
 
@@ -254,9 +177,9 @@ Thompson, D. J. 2012. *Memphis under the Ptolemies.* 2nd ed. Princeton and Oxfor
 
 [^27]: Stewart 1990, 1: 217. Newby (2007, 158, 165) takes exception with the word “didactic” and to some degree with the allegorical identification, arguing that allegory lies not in the personifications of Homer’s worshippers per se but in the literal differentiation between the bottom section of the object (where the inscriptions are) and the votive relief above. Ridgway (2000, 207) considers the didactic nature of the relief its raison d’être, as opposed to connections with a votive offering, arguing for its pragmatic, educational use in Italy. My response is that the bona fide allegory begins with Oikoumene and Khronos on the far left because they really are Arsinoë and Ptolemy. Homer is ultimately going to be dwelling in more than one “inhabited world” and “time zone,” and that is worth teaching.
 
-[^28]: *LSJ*^9^, s.v. “οἱκουμένη, ἡ.”
+[^28]: *LSJ*<sup>9</sup>, s.v. “οἱκουμένη, ἡ.”
 
-[^29]: *LSJ*^9^, s.v. “πόλος, ὁ.”
+[^29]: *LSJ*<sup>9</sup>, s.v. “πόλος, ὁ.”
 
 [^30]: See the detail of the relief already cited in Richter (see n. 17 above), which matches Ptolemy IV’s profile.
 
