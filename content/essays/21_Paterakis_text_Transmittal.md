@@ -3,14 +3,14 @@ title: The Influence of East and West on Bronze Objects Found in Central Anatoli
 subtitle: Small Bronze Finds from Kaman-Kalehöyük
 layout: page
 author:
- - first_name: SAlice Boccia
+ - first_name: Salice Boccia
    last_name: Paterakis
    affiliation: Japanese Institute of Anatolian Archaeology, Kaman
  - first_name: Sachihiro
    last_name: Omura
    affiliation: Japanese Institute of Anatolian Archaeology, Kaman
 abstract: The influences from the East and West manifested in ancient bronze (copper-tin alloy) technology in Central Anatolia are examined, specifically at the site of Kaman-Kalehöyük, which has been excavated by the Japanese Institute of Anatolian Archaeology (JIAA) since 1986. Evidence of copper and bronze refining and manufacture has been found from the Middle Bronze Age (MBA, ca. 1950 BC) through the Middle Iron Age (ca. 600 BC) at Kaman-Kalehöyük. Crucibles, fibula molds, an unfinished fibula, stone molds for casting small bronze objects, and copper slag are considered material evidence of bronze working and manufacture at the site. The results of analytical studies on bronze objects and slag composition indicate the importation of materials and the selective use of copper ores. Given its location along ancient trade routes, Kaman-Kalehöyük may have served as a conduit for the intraregional exchange of materials and manufacturing technologies. Several fibulae are presented to illustrate these exchanges and the multiethnic influences at Kaman-Kalehöyük. The authors examine some of these influences and movements as they relate to ancient bronze technology in Anatolia.
-sort_order: 23
+sort_order: 25
 ---
 
 ## Introduction

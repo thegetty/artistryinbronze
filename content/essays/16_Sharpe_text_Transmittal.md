@@ -7,7 +7,7 @@ author:
    last_name: Sharpe
    affiliation: West Chester University
 abstract: In the British Museum is a collection of statuettes known as the Paramythia bronzes, named after the place of their discovery near Paramythia, Epirus, Greece, ca. 1792. The statuettes depict various deities including a Roman *lar* figure, and therefore they presumably once belonged to a *lararium* (a Roman household shrine). It is likely that the bronze statuettes originated in a Roman villa situated in or near the ancient Roman colony of Photike, which is located a short distance from Paramythia. The bronze hoard provides valuable evidence for the presence of Roman settlers in Epirus, and more importantly informs us about Roman domestic cult activities in the Roman province of Achaea. Additionally, the bronzes may be interpreted as symbols, which served to project and reinforce the cultural and ethnic identity of the Roman householder.
-sort_order: 18
+sort_order: 20
 ---
 
 ## Introduction

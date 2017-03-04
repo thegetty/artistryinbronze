@@ -6,7 +6,7 @@ author:
    last_name: Kaufmann-Heinimann
    affiliation: Universität Basel
 abstract: In contrast to life-size statues and small bronzes, medium-sized statuettes have rarely been the focus of scholarly interest. As to their function, it is often assumed that there must have been a clear distinction between purely decorative pieces and statuettes that were used as votive objects. The epigraphical and literary sources, however, contradict such a distinction and rather draw attention to their multi-purpose usage. With this broader approach in mind, some medium-sized statuettes from both secular and religious contexts of Rome’s northwestern provinces are discussed.[^1]
-sort_order: 20
+sort_order: 22
 ---
 
 When we think of figural bronzes from the northwestern provinces of the Roman world, a considerable number of small statuettes and some impressive fragments of life-size statues come to mind. Medium-sized statuettes, between approximately 40 and 100 cm (16 to 39 in.) high, however, are less well documented, as they seem to have had less chance of surviving either intact, as did small bronzes, or as fragments, as did large statues. It may be worthwhile, therefore, to examine some of these specimens more closely in order to see whether it is possible to gain more information about their use and function: Were they used as decorative elements in villa gardens, as votive objects, or even as the cult images of temples?[^2]
