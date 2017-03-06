@@ -118,6 +118,31 @@
   caption: >
     Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (Google, Basarsoft, drawing added)
 
+- figure_number: 3.2
+  file_name: fig_3.02_Koutsouflakis.JPG
+  caption: >
+    Artemis statuette from the sea off Mykonos. Athens NAM, inv. X16790
+
+- figure_number: 3.4
+  file_name: fig_3.04_Koutsouflakis.JPG
+  caption: >
+    Bronze rider from the sea off Kalymnos (Athens, EUA, inv. BE 2006/1)
+
+- figure_number: 3.7
+  file_name: fig_3.07_Koutsouflakis.jpg
+  caption: >
+    Fragment of folded drapery from the Styra shipwreck (Athens, EUA, inv. BE 2010/4-50)
+
+- figure_number: 3.8
+  file_name: fig_3.08_Koutsouflakis.JPG
+  caption: >
+    Wooden core and bronze fittings of furniture legs from the Styra shipwreck (Athens, EUA, inv. BE 2010/4-6, 4-7)
+
+- figure_number: 3.9
+  file_name: fig_3.09_Koutsouflakis.jpg
+  caption: >
+    Site view of the Styra wreck
+
 - figure_number: 3.10
   file_name: fig_3.10_Koutsouflakis.pdf
   caption: >
@@ -157,6 +182,11 @@
   file_name: fig_4.07_Palagia.jpg
   caption: >
     Marble portrait head of Philip V (?) from Kos. Kos Museum, inv. 82. Photo: Olga Palagia
+
+- figure_number: 4.8
+  file_name: fig_4.08_Palagia.jpg
+  caption: >
+    Silver tetradrachm of Philip V of Macedon. New York, American Numismatic Society 1967.152.211
 
 - figure_number: 5.1
   file_name: fig_5.01_Butz.jpg
@@ -380,10 +410,40 @@
   caption: >
     Sculpture production in Hellenistic Rhodes (350 BC–AD 50). After Goodlett 1991
 
+- figure_number: 13.1
+  file_name: fig_13.01_Barr-Sharrar.TIF
+  caption: >
+    Ephebe from Fins d’Annecy (Hte. Savoir), early Augustan. H: 63 cm (25 in.). Paris, Musée du Petit Palais, inv. DUT. 1. Photo: © Patrick Pierrain / Petit Palais / Roger-Viollet
+
+- figure_number: 13.2
+  file_name: fig_13.02_Barr-Sharrar.TIF
+  caption: >
+    Hermes (?), first half of the first century AD. H: 21 cm ( 1/4 in.). Paris, Musée du Louvre, inv. B 183. Photo: Courtesy of the Musée du Louvre, Paris
+
 - figure_number: 13.3
   file_name: fig_13.03_Barr-Sharrar.jpg
   caption: >
     Bronze Hermes statuettes influenced by Polykleitan types. From Beck et al. 1990, 398, fig. 238
+
+- figure_number: 13.4
+  file_name: fig_13.04_Barr-Sharrar.tif
+  caption: >
+    Hermes, ca. 100 BC. H: 32 cm (12 1/2 in.). Tunis, Bardo Museum, inv. 208. Photo: public domain
+
+- figure_number: 13.5
+  file_name: fig_13.05_Barr-Sharrar.jpg
+  caption: >
+    Mercury, found near Lyon (France) in 1792, late first or early second century AD. H without base: 15.3 cm (6 in.). London, British Museum inv. Br 825. IMAGE source/copyrights
+
+- figure_number: 13.6
+  file_name: fig_13.06_Barr-Sharrar.jpg
+  caption: >
+    Diadoumenos, mid-first century AD. H: 14.3 cm (5 5/8 in.). Paris, Bibliotèque Nationale, Cabinet des Médailles, inv. 927. IMAGE source/copyrights
+
+- figure_number: 13.7
+  file_name: fig_13.07_Barr-Sharrar.jpg
+  caption: >
+    Fig. 13.7. Diskobolos, third century AD. H: 31 cm (12 1/4 in.). Munich, Glyptothek, inv. 3012. Photo: Courtesy of the Glyptothek, Munich
 
 - figure_number: 13.8
   file_name: fig_13.08_Barr-Sharrar.jpg
@@ -453,7 +513,7 @@
 - figure_number: 15.4
   file_name: fig_15.04_McGowan.jpg
   caption: >
-    Foundry Painter, red-figured cup, tondo with Hephaistos and Thetis. Berlin, Antikensammlung F2294, *ARV*<sup>2</sup> 400,1, BAPD 204340. Photo: Johannes Laurentius. Courtesy bpk, Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
+    Foundry Painter, red-figured cup, tondo with Hephaistos and Thetis. Berlin, Antikensammlung F2294, *ARV*^2^ 400,1, BAPD 204340. Photo: Johannes Laurentius. Courtesy bpk, Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
 
 - figure_number: 15.5
   file_name: fig_15.05_McGowan.tif
@@ -463,12 +523,12 @@
 - figure_number: 15.8
   file_name: fig_15.08_McGowan.jpg
   caption: >
-    Penelope Painter, red-figured skyphos, obverse. Berlin, Antikensammlung F2588, *ARV*<sup>2</sup> 1300.1, BAPD 216788. Photo: Johannes Laurentius. Courtesy bpk Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
+    Penelope Painter, red-figured skyphos, obverse. Berlin, Antikensammlung F2588, *ARV*^2^ 1300.1, BAPD 216788. Photo: Johannes Laurentius. Courtesy bpk Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
 
 - figure_number: 15.9
   file_name: fig_15.09_McGowan.jpg
   caption: >
-    Odysseus with wine cup, Roman copy of Hellenistic original. Vatican Museums, Museo Chiaramonti inv. 1901. Photo: Marie-Lan Nguyen © Marie-Lan Nguyen / Wikimedia Commons [https://commons.wikimedia.org/wiki/File:Odysseus_Chiaramonti_Inv1901.jpg](https://commons.wikimedia.org/wiki/File:Odysseus_Chiaramonti_Inv1901.jpg)
+    Odysseus with wine cup, Roman copy of Hellenistic original. Vatican Museums, Museo Chiaramonti inv. 1901. Photo: Marie-Lan Nguyen © Marie-Lan Nguyen / Wikimedia Commons <https://commons.wikimedia.org/wiki/File:Odysseus_Chiaramonti_Inv1901.jpg>
 
 - figure_number: 15.10
   file_name: fig_15.10_McGowan.jpg
@@ -622,7 +682,7 @@
     Mercury and Rosmerta (?) from Turny. Height 40–50 cm (15 3/4–19 3/4 in.). Musée archéologique de Dijon, inv. 2008.1.1 and 2008.1.2. Photo: © Musée archéologique de Dijon, cl. F. Perrodin
 
 - figure_number: 18.8
-  file_name: fig_17.08_Kaufmann.jpeg
+  file_name: fig_18.08_Kaufmann.jpeg
   caption: >
     Minerva from Dinéault. Original height approx. 70 cm (27 1/2 in.). Rennes, Musée de Bretagne, inv. 972.0059.1. © Collection Musée de Bretagne, Rennes – reproduction interdite. Photo: A. Amet
 
