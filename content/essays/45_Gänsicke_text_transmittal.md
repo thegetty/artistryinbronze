@@ -18,7 +18,7 @@ abstract: >
 sort_order: 49
 ---
 
-## Discovery and Introduction**
+## Discovery and Introduction
 
 In 1921, Harvard Egyptologist George A. Reisner excavated Pyramid N 6 (also called Beg. N. 6), the burial of Queen Amanishakheto, in Meroë, Sudan.[^1] This pyramid had been discovered in the early nineteenth century by the Italian physician and explorer Giuseppe Ferlini. While investigating the pyramid, much of which was destroyed during the process, Ferlini came upon a rich trove of gold jewelry.[^2]
 
