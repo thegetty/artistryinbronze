@@ -89,44 +89,54 @@
     Ground plan of the platform for the pedestal of the Athena Promachos in Athens (drawing by T. Tanoulas, Palagia 2013, fig. 11)
 
 - figure_number: 2.3
-  file_name: fig_2.03_Vedder.tif
+  file_name: fig_2.03_Vedder.jpg
   caption: >
     Statue of Buddha Vairocana in the Todaiji Temple, Nara, Japan
 
 - figure_number: 2.4
-  file_name: fig_2.04_Vedder.tif
+  file_name: fig_2.04_Vedder.jpg
   caption: >
     Buddha of Nara, reconstruction of the casting mold. (The drawing is a copy of Maeda et al. 1997, fig. 55, omitting Japanese characters and adding numbers and English text)
 
 - figure_number: 2.5
-  file_name: fig_2.05_Vedder.tif
+  file_name: fig_2.05_Vedder.jpg
   caption: >
     Statue of Bavaria, part of the Hall of Fame, Munich, Germany
 
 - figure_number: 2.6
-  file_name: fig_2.06_Vedder.tif
+  file_name: fig_2.06_Vedder.jpg
   caption: >
     Statue of Bavaria. The edges of the large cast pieces are marked
 
 - figure_number: 2.7
-  file_name: fig_2.07_Vedder.tif
+  file_name: fig_2.07_Vedder.jpg
   caption: >
     Statue of Bavaria. Detail of the interior: edges of the core’s sections visible in the area under the armpit of the left arm
 
 - figure_number: 2.8
-  file_name: fig_2.08_Vedder.tif
+  file_name: fig_2.08_Vedder.jpg
   caption: >
     Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (Google, Basarsoft, drawing added)
 
 - figure_number: 3.2
-  file_name: fig_3.02_Koutsouflakis.JPG
+  file_name: fig_3.03_Koutsouflakis.jpg
   caption: >
-    Artemis statuette from the sea off Mykonos. Athens NAM, inv. X16790
+    Fragment of an equestrian torso from the sea off Ai Stratis (Athens, EUA, inv. BE 1981/43)
 
 - figure_number: 3.4
   file_name: fig_3.04_Koutsouflakis.JPG
   caption: >
     Bronze rider from the sea off Kalymnos (Athens, EUA, inv. BE 2006/1)
+
+- figure_number: 3.5
+  file_name: fig_3.05_Koutsouflakis.jpg
+  caption: >
+    Bronze rider from the sea off Kalymnos (Athens, EUA, inv. BE 2009/28)
+
+- figure_number: 3.6
+  file_name: fig_3.06_Koutsouflakis.jpg
+  caption: >
+    Bronze head from Kythera (Athens, EUA, inv. BE 2015/14)
 
 - figure_number: 3.7
   file_name: fig_3.07_Koutsouflakis.jpg
@@ -144,17 +154,17 @@
     Site view of the Styra wreck
 
 - figure_number: 3.10
-  file_name: fig_3.10_Koutsouflakis.pdf
+  file_name: fig_3.10_Koutsouflakis.jpg
   caption: >
     Distribution of bronze finds in the Aegean: (1) Salamis Youth; (2) Poseidon of Kreusis; (3) Antikythera wreck; (4) “Marathon Boy”; (5) Artemision wreck; (6) Artemis of Mykonos; (7) “Lady from the Sea”; (8) “Bodrum Boy”; (9) “Cyme Runner”; (10) Augustus from Ai Stratis; (11) Rider fragment from Ai Stratis; (12) Dolphin from Leipsoi; (13) “Lady from Kalymnos”; (14) Hellenistic head of a ruler and fragment of foot; (15) Left and right foot of a rider; (16) Kalymnos rider (inv. BE 2006/1); (17) Kalymnos rider (inv. BE 2009/28); (18) Kythnos athlete; (19) Kythera head; (21) Nude male from Ionian Sea
 
 - figure_number: 4.1
   file_name: fig_4.01_Palagia.jpg
   caption: >
-    Bronze head of a man wearing a *kausia*, here identified with Philip V of Macedon. Kalymnos Museum, inv. 3901. Photo: Olga Palagia
+    Bronze head of a man wearing a *kausia*, here idenjpgied with Philip V of Macedon. Kalymnos Museum, inv. 3901. Photo: Olga Palagia
 
 - figure_number: 4.2
-  file_name: fig_4.02_Palagia.png
+  file_name: fig_4.02_Palagia.jpg
   caption: >
     Bronze head of a man wearing a *kausia*. Right profile. Kalymnos Museum, inv. 3901. Photo from Daehner and Lapatin 2015, 195
 
@@ -324,7 +334,7 @@
     Statue of an ephebe from the Bay of Marathon, detail of left hand. Athens, National Archaeological Museum, inv. 15.118. Photo: author
 
 - figure_number: 9.1
-  file_name: fig_9.01_Adornato.tif
+  file_name: fig_9.01_Adornato.jpg
   caption: >
     Base of Epicharinos. Athens, Acropolis Museum, inv. 13248. Photo: E. Feiler, © D-DAI-ATH-1976/1623)
 
@@ -411,12 +421,12 @@
     Sculpture production in Hellenistic Rhodes (350 BC–AD 50). After Goodlett 1991
 
 - figure_number: 13.1
-  file_name: fig_13.01_Barr-Sharrar.TIF
+  file_name: fig_13.01_Barr-Sharrar.jpg
   caption: >
     Ephebe from Fins d’Annecy (Hte. Savoir), early Augustan. H: 63 cm (25 in.). Paris, Musée du Petit Palais, inv. DUT. 1. Photo: © Patrick Pierrain / Petit Palais / Roger-Viollet
 
 - figure_number: 13.2
-  file_name: fig_13.02_Barr-Sharrar.TIF
+  file_name: fig_13.02_Barr-Sharrar.jpg
   caption: >
     Hermes (?), first half of the first century AD. H: 21 cm ( 1/4 in.). Paris, Musée du Louvre, inv. B 183. Photo: Courtesy of the Musée du Louvre, Paris
 
@@ -426,7 +436,7 @@
     Bronze Hermes statuettes influenced by Polykleitan types. From Beck et al. 1990, 398, fig. 238
 
 - figure_number: 13.4
-  file_name: fig_13.04_Barr-Sharrar.tif
+  file_name: fig_13.04_Barr-Sharrar.jpg
   caption: >
     Hermes, ca. 100 BC. H: 32 cm (12 1/2 in.). Tunis, Bardo Museum, inv. 208. Photo: public domain
 
@@ -451,7 +461,7 @@
     Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173. Photo: Courtesy of the Metropolitan Museum of Art, New York
 
 - figure_number: 14.1
-  file_name: fig_14.01_Hemingway_Abramitis.tif
+  file_name: fig_14.01_Hemingway_Abramitis.jpg
   caption: >
     Bronze statuette of man and centaur. Greek, mid-eighth century BC. X-radiograph illustrates hollows for inlays of centaur’s eyes. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Pierpont Morgan, 1917. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: © The Metropolitan Museum of Art, New York
 
@@ -466,12 +476,12 @@
     Bronze statuette of a horse. Greek, seventh century BC. X-radiograph illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo:© The Metropolitan Museum of Art, New York
 
 - figure_number: 14.4
-  file_name: fig_14.04_Hemingway_Abramitis.tif
+  file_name: fig_14.04_Hemingway_Abramitis.jpg
   caption: >
     Bronze head of a griffin. Greek, third quarter of seventh century BC. Metropolitan Museum of Art, New York, inv. 1972.118.54. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: De Abramitis, © The Metropolitan Museum of Art, New York
 
 - figure_number: 14.5
-  file_name: fig_14.05_Hemingway_Abramitis.tif
+  file_name: fig_14.05_Hemingway_Abramitis.jpg
   caption: >
     Bronze support in the form of a sphinx. Greek, ca. 600 BC. Metropolitan Museum of Art, New York, inv. 2000.660. Gift from the family of Howard J. Barnet, in his memory, 2000. Photo: © The Metropolitan Museum of Art, New York
 
@@ -491,7 +501,7 @@
     Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: De Abramitis © The Metropolitan Museum of Art, New York
 
 - figure_number: 14.1
-  file_name: fig_14.01_Hemingway_Abramitis.tif
+  file_name: fig_14.01_Hemingway_Abramitis.jpg
   caption: >
     Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173. Photo: Courtesy of the Metropolitan Museum of Art, New York
 
@@ -516,7 +526,7 @@
     Foundry Painter, red-figured cup, tondo with Hephaistos and Thetis. Berlin, Antikensammlung F2294, *ARV*^2^ 400,1, BAPD 204340. Photo: Johannes Laurentius. Courtesy bpk, Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
 
 - figure_number: 15.5
-  file_name: fig_15.05_McGowan.tif
+  file_name: fig_15.05_McGowan.jpg
   caption: >
     Roman lamp disc with bust of Hephaistos. Athens, Agora L 5413. Photo: American School of Classical Studies at Athens: Agora Excavations
 
@@ -697,12 +707,12 @@
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.1
-  file_name: fig_23.01_Albertson.tif
+  file_name: fig_23.01_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.2
-  file_name: fig_23.02_Albertson.tif
+  file_name: fig_23.02_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
@@ -722,7 +732,7 @@
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.6
-  file_name: fig_23.06_Albertson.tif
+  file_name: fig_23.06_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
