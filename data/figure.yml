@@ -89,44 +89,54 @@
     Ground plan of the platform for the pedestal of the Athena Promachos in Athens (drawing by T. Tanoulas, Palagia 2013, fig. 11)
 
 - figure_number: 2.3
-  file_name: fig_2.03_Vedder.tif
+  file_name: fig_2.03_Vedder.jpg
   caption: >
     Statue of Buddha Vairocana in the Todaiji Temple, Nara, Japan
 
 - figure_number: 2.4
-  file_name: fig_2.04_Vedder.tif
+  file_name: fig_2.04_Vedder.jpg
   caption: >
     Buddha of Nara, reconstruction of the casting mold. (The drawing is a copy of Maeda et al. 1997, fig. 55, omitting Japanese characters and adding numbers and English text)
 
 - figure_number: 2.5
-  file_name: fig_2.05_Vedder.tif
+  file_name: fig_2.05_Vedder.jpg
   caption: >
     Statue of Bavaria, part of the Hall of Fame, Munich, Germany
 
 - figure_number: 2.6
-  file_name: fig_2.06_Vedder.tif
+  file_name: fig_2.06_Vedder.jpg
   caption: >
     Statue of Bavaria. The edges of the large cast pieces are marked
 
 - figure_number: 2.7
-  file_name: fig_2.07_Vedder.tif
+  file_name: fig_2.07_Vedder.jpg
   caption: >
     Statue of Bavaria. Detail of the interior: edges of the core’s sections visible in the area under the armpit of the left arm
 
 - figure_number: 2.8
-  file_name: fig_2.08_Vedder.tif
+  file_name: fig_2.08_Vedder.jpg
   caption: >
     Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (Google, Basarsoft, drawing added)
 
 - figure_number: 3.2
-  file_name: fig_3.02_Koutsouflakis.JPG
+  file_name: fig_3.03_Koutsouflakis.jpg
   caption: >
-    Artemis statuette from the sea off Mykonos. Athens NAM, inv. X16790
+    Fragment of an equestrian torso from the sea off Ai Stratis (Athens, EUA, inv. BE 1981/43)
 
 - figure_number: 3.4
   file_name: fig_3.04_Koutsouflakis.JPG
   caption: >
     Bronze rider from the sea off Kalymnos (Athens, EUA, inv. BE 2006/1)
+
+- figure_number: 3.5
+  file_name: fig_3.05_Koutsouflakis.jpg
+  caption: >
+    Bronze rider from the sea off Kalymnos (Athens, EUA, inv. BE 2009/28)
+
+- figure_number: 3.6
+  file_name: fig_3.06_Koutsouflakis.jpg
+  caption: >
+    Bronze head from Kythera (Athens, EUA, inv. BE 2015/14)
 
 - figure_number: 3.7
   file_name: fig_3.07_Koutsouflakis.jpg
@@ -144,17 +154,17 @@
     Site view of the Styra wreck
 
 - figure_number: 3.10
-  file_name: fig_3.10_Koutsouflakis.pdf
+  file_name: fig_3.10_Koutsouflakis.jpg
   caption: >
     Distribution of bronze finds in the Aegean: (1) Salamis Youth; (2) Poseidon of Kreusis; (3) Antikythera wreck; (4) “Marathon Boy”; (5) Artemision wreck; (6) Artemis of Mykonos; (7) “Lady from the Sea”; (8) “Bodrum Boy”; (9) “Cyme Runner”; (10) Augustus from Ai Stratis; (11) Rider fragment from Ai Stratis; (12) Dolphin from Leipsoi; (13) “Lady from Kalymnos”; (14) Hellenistic head of a ruler and fragment of foot; (15) Left and right foot of a rider; (16) Kalymnos rider (inv. BE 2006/1); (17) Kalymnos rider (inv. BE 2009/28); (18) Kythnos athlete; (19) Kythera head; (21) Nude male from Ionian Sea
 
 - figure_number: 4.1
   file_name: fig_4.01_Palagia.jpg
   caption: >
-    Bronze head of a man wearing a *kausia*, here identified with Philip V of Macedon. Kalymnos Museum, inv. 3901. Photo: Olga Palagia
+    Bronze head of a man wearing a *kausia*, here idenjpgied with Philip V of Macedon. Kalymnos Museum, inv. 3901. Photo: Olga Palagia
 
 - figure_number: 4.2
-  file_name: fig_4.02_Palagia.png
+  file_name: fig_4.02_Palagia.jpg
   caption: >
     Bronze head of a man wearing a *kausia*. Right profile. Kalymnos Museum, inv. 3901. Photo from Daehner and Lapatin 2015, 195
 
@@ -324,7 +334,7 @@
     Statue of an ephebe from the Bay of Marathon, detail of left hand. Athens, National Archaeological Museum, inv. 15.118. Photo: author
 
 - figure_number: 9.1
-  file_name: fig_9.01_Adornato.tif
+  file_name: fig_9.01_Adornato.jpg
   caption: >
     Base of Epicharinos. Athens, Acropolis Museum, inv. 13248. Photo: E. Feiler, © D-DAI-ATH-1976/1623)
 
@@ -411,12 +421,12 @@
     Sculpture production in Hellenistic Rhodes (350 BC–AD 50). After Goodlett 1991
 
 - figure_number: 13.1
-  file_name: fig_13.01_Barr-Sharrar.TIF
+  file_name: fig_13.01_Barr-Sharrar.jpg
   caption: >
     Ephebe from Fins d’Annecy (Hte. Savoir), early Augustan. H: 63 cm (25 in.). Paris, Musée du Petit Palais, inv. DUT. 1. Photo: © Patrick Pierrain / Petit Palais / Roger-Viollet
 
 - figure_number: 13.2
-  file_name: fig_13.02_Barr-Sharrar.TIF
+  file_name: fig_13.02_Barr-Sharrar.jpg
   caption: >
     Hermes (?), first half of the first century AD. H: 21 cm ( 1/4 in.). Paris, Musée du Louvre, inv. B 183. Photo: Courtesy of the Musée du Louvre, Paris
 
@@ -426,7 +436,7 @@
     Bronze Hermes statuettes influenced by Polykleitan types. From Beck et al. 1990, 398, fig. 238
 
 - figure_number: 13.4
-  file_name: fig_13.04_Barr-Sharrar.tif
+  file_name: fig_13.04_Barr-Sharrar.jpg
   caption: >
     Hermes, ca. 100 BC. H: 32 cm (12 1/2 in.). Tunis, Bardo Museum, inv. 208. Photo: public domain
 
@@ -451,7 +461,7 @@
     Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173. Photo: Courtesy of the Metropolitan Museum of Art, New York
 
 - figure_number: 14.1
-  file_name: fig_14.01_Hemingway_Abramitis.tif
+  file_name: fig_14.01_Hemingway_Abramitis.jpg
   caption: >
     Bronze statuette of man and centaur. Greek, mid-eighth century BC. X-radiograph illustrates hollows for inlays of centaur’s eyes. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Pierpont Morgan, 1917. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: © The Metropolitan Museum of Art, New York
 
@@ -466,12 +476,12 @@
     Bronze statuette of a horse. Greek, seventh century BC. X-radiograph illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo:© The Metropolitan Museum of Art, New York
 
 - figure_number: 14.4
-  file_name: fig_14.04_Hemingway_Abramitis.tif
+  file_name: fig_14.04_Hemingway_Abramitis.jpg
   caption: >
     Bronze head of a griffin. Greek, third quarter of seventh century BC. Metropolitan Museum of Art, New York, inv. 1972.118.54. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: De Abramitis, © The Metropolitan Museum of Art, New York
 
 - figure_number: 14.5
-  file_name: fig_14.05_Hemingway_Abramitis.tif
+  file_name: fig_14.05_Hemingway_Abramitis.jpg
   caption: >
     Bronze support in the form of a sphinx. Greek, ca. 600 BC. Metropolitan Museum of Art, New York, inv. 2000.660. Gift from the family of Howard J. Barnet, in his memory, 2000. Photo: © The Metropolitan Museum of Art, New York
 
@@ -491,7 +501,7 @@
     Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: De Abramitis © The Metropolitan Museum of Art, New York
 
 - figure_number: 14.1
-  file_name: fig_14.01_Hemingway_Abramitis.tif
+  file_name: fig_14.01_Hemingway_Abramitis.jpg
   caption: >
     Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173. Photo: Courtesy of the Metropolitan Museum of Art, New York
 
@@ -516,7 +526,7 @@
     Foundry Painter, red-figured cup, tondo with Hephaistos and Thetis. Berlin, Antikensammlung F2294, *ARV*^2^ 400,1, BAPD 204340. Photo: Johannes Laurentius. Courtesy bpk, Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
 
 - figure_number: 15.5
-  file_name: fig_15.05_McGowan.tif
+  file_name: fig_15.05_McGowan.jpg
   caption: >
     Roman lamp disc with bust of Hephaistos. Athens, Agora L 5413. Photo: American School of Classical Studies at Athens: Agora Excavations
 
@@ -686,6 +696,47 @@
   caption: >
     Minerva from Dinéault. Original height approx. 70 cm (27 1/2 in.). Rennes, Musée de Bretagne, inv. 972.0059.1. © Collection Musée de Bretagne, Rennes – reproduction interdite. Photo: A. Amet
 
+- figure_number: 20.1a
+  file_name: fig_20.01a_Veseli.jpg
+  caption: >
+    Zeus, Apollonia: (a) front. Photo: TK
+
+- figure_number: 20.1b
+  file_name: fig_20.01b_Veseli.jpg
+  caption: >
+    Zeus, Apollonia: (b) detail of face. Photo: TK
+
+- figure_number: 20.1c
+  file_name: fig_20.01c_Veseli.jpg
+  caption: >
+    Zeus, Apollonia: (c) rear. Photo: TK
+
+- figure_number: 20.2
+  file_name: fig_20.02_Veseli.jpg
+  caption: >
+    Zeus, Salaria. Photo: TK
+
+- figure_number: 20.3a
+  file_name: fig_20.03a_Veseli.jpg
+  caption: >
+    Jupiter, Korça: (a) front. Photo: TK
+
+
+- figure_number: 20.3b
+  file_name: fig_20.03b_Veseli.jpg
+  caption: >
+    Jupiter, Korça: (a) front. Photo: TK
+
+- figure_number: 20.4a
+  file_name: fig_20.04a_Veseli.jpg
+  caption: >
+    Jupiter with *chlamys*, Korça: (a) front. Photo: TK
+
+- figure_number: 20.4b
+  file_name: fig_20.04b_Veseli.jpg
+  caption: >
+    Jupiter with *chlamys*, Korça:(b) rear. Photo: TK
+
 - figure_number: 21.7
   file_name: fig_21.07_Paterakis.jpg
   caption: >
@@ -697,12 +748,12 @@
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.1
-  file_name: fig_23.01_Albertson.tif
+  file_name: fig_23.01_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.2
-  file_name: fig_23.02_Albertson.tif
+  file_name: fig_23.02_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
@@ -722,7 +773,7 @@
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
 - figure_number: 23.6
-  file_name: fig_23.06_Albertson.tif
+  file_name: fig_23.06_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
 
@@ -730,3 +781,484 @@
   file_name: fig_23.07_Albertson.jpg
   caption: >
     Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+
+- figure_number: 24.1
+  file_name: fig_24.01_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 21225. Photo: author
+
+- figure_number: 24.2
+  file_name: fig_24.02_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 19820. Photo: author
+
+- figure_number: 24.3
+  file_name: fig_24.03_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 21330 β. Photo: author
+
+- figure_number: 24.4
+  file_name: fig_24.04_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 19775. Photo: author
+
+- figure_number: 24.5
+  file_name: fig_24.05_Tarditi.jpg
+  caption: >
+    Basin feet. National Archaeological Museum of Athens, inv. 23937. Photo: author
+
+- figure_number: 24.6
+  file_name: fig_24.06_Tarditi.jpg
+  caption: >
+    *Patera* handle. National Archaeological Museum of Athens, inv. 6651. Photo: author
+
+- figure_number: 24.7a
+  file_name: fig_24.07a_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author
+
+- figure_number: 24.7b
+  file_name: fig_24.07b_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author
+
+- figure_number: 24.7c
+  file_name: fig_24.07c_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author
+
+- figure_number: 24.7d
+  file_name: fig_24.07d_Tarditi.jpg
+  caption: >
+    Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author
+
+- figure_number: 24.8
+  file_name: fig_24.08_Tarditi.jpg
+  caption: >
+    Distribution map. Drawing: author
+
+- figure_number: 25.2
+  file_name: fig_25.02_Meirano.jpg
+  caption: >
+    *Journal de la Grande Fouille*, by P. Perdrizet, p. 277. Photo : Jacquemin 1992, fig. 64
+
+- figure_number: 25.3
+  file_name: fig_25.03_Meirano.jpg
+  caption: >
+    Bronze phiale. Archaeological Museum of Delphi, inv. 27138. Photo: author
+
+- figure_number: 25.4
+  file_name: fig_25.04_Meirano.jpg
+  caption: >
+    Handle of a Roman bronze amphora. Archaeological Museum of Delphi, inv. 1159. Photo: author
+
+- figure_number: 25.5
+  file_name: fig_25.05_Meirano.jpg
+  caption: >
+    Small tripod stand. Archaeological Museum of Delphi, inv. 8404. Photo: author
+
+- figure_number: 25.6
+  file_name: fig_25.06_Meirano.jpg
+  caption: >
+    Small tripod stand. Archaeological Museum of Delphi, inv. 8404. Photo: author
+
+- figure_number: 25.7
+  file_name: fig_25.07_Meirano.jpg
+  caption: >
+    Figured bronze lamp. Archaeological Museum of Delphi, inv. 1160. Photo: author
+
+- figure_number: 26.2
+  file_name: fig_26.02_Gaunt.jpg
+  caption: >
+    Volute-krater from Derveni. Bronze with silver and copper. Greek, early fourth century BC. Thessaloniki, Archaeological Museum, inv. B1. Photo: TK
+
+- figure_number: 26.3
+  file_name: fig_25.03_Gaunt.jpg
+  caption: >
+    Pointed neck-amphora with stand. Bronze. Greek, ca. 500–450 BC. New York, Metropolitan Museum of Art, inv. 2004.171a–b. Photo: TK
+
+- figure_number: 26.4
+  file_name: fig_26.04_Gaunt.jpg
+  caption: >
+    Shield device in the form of a rampant lion. Bronze with (missing) inlays. Macedonian, fourth century BC. Mougins, Museum of Classical Art, inv. 648. Photo: TK
+
+- figure_number: 26.5
+  file_name: fig_26.05_Gaunt.jpg
+  caption: >
+    Helmet from Metaponto. Bronze with inlays. Western (?) Greek, late sixth century BC. St. Louis Art Museum, inv. 282.1949. Photo: TK
+
+- figure_number: 26.6
+  file_name: fig_26.06_Gaunt.jpg
+  caption: >
+    Red-figure dinoid volute-krater with stand, attributed to the Meleager Painter. Greek, Attic ca. 380 BC.  J. Paul Getty Museum, inv. 87.AE.93. Photo: TK
+
+- figure_number: 26.7
+  file_name: fig_26.07_Gaunt.jpg
+  caption: >
+    Marble dinoid volute-krater. Greek, neo-attic, first century BC–first century AD. Private collection. Photo: TK
+
+- figure_number: 26.8
+  file_name: fig_26.08_Gaunt.jpg
+  caption: >
+    Attic red-figured cup with a woman carrying a bail-handled amphora, attributed to Douris, ca. 480 BC. New York, Metropolitan Museum of Art, inv. 1986.322.1. Photo: TK
+
+- figure_number: 28.5
+  file_name: fig_28.05_Fani.jpg
+  caption: >
+
+- figure_number: 29.2a
+  file_name: fig_29.02a_Lester.jpg
+  caption: >
+
+- figure_number: 29.2b
+  file_name: fig_29.02b_Lester.jpg
+  caption: >
+
+- figure_number: 29.4
+  file_name: fig_29.04_Lester.jpg
+  caption: >
+
+- figure_number: 29.5a
+  file_name: fig_29.05a_Lester.jpg
+  caption: >
+
+- figure_number: 29.7b
+  file_name: fig_29.07b_Lester.jpg
+  caption: >
+
+- figure_number: 30.2
+  file_name: fig_30.02_Ferrence_Giumlia-Mair.jpg
+  caption: >
+    Detail of the Miniature Grandstand Fresco from Knossos in the Archaeological Museum of Herakleion, Crete, Greece. Photo: S. C. Ferrence
+
+- figure_number: 31.1
+  file_name: fig_31.01_Castoldi.jpg
+  caption: >
+    Bronze laurel leaves from the temenos of Apollo and Aristeas on the agora of Metaponto, Italy. Photo: Courtesy of Soprintendenza Archeologia della Basilicata
+
+- figure_number: 31.3
+  file_name: fig_31.03_Castoldi.jpg
+  caption: >
+    Trunk-shaped bronze lampstand from Meloria, Livorno, Italy. Photo: Courtesy of Soprintendenza Archeologia della Toscana
+
+- figure_number: 32.1b
+  file_name: fig_32.01b_Ignatiadou.jpg
+  caption: >
+    Stavroupolis in Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. MTH 7437. Drawing: after Romiopoulou 1973‒74
+
+- figure_number: 32.2a
+  file_name: fig_32.02a_Ignatiadou.jpg
+  caption: >
+    Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90. restored case B 35. Photo: D. Ignatiadou
+
+- figure_number: 32.2c
+  file_name: fig_32.02c_Ignatiadou.jpg
+  caption: >
+    Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90. original case B 35 + B 90. Photo: D. Ignatiadou
+
+- figure_number: 32.3
+  file_name: fig_32.03_Ignatiadou.jpg
+  caption: >
+    Pydna (Kitros, Alykes). Bronze semi-cylindrical Case A with hinged lid. Late fourth‒early third century BC. Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki, inv. Py 683, Py 684, Py 686, Py 688. Photo: D. Ignatiadou
+
+- figure_number: 32.4
+  file_name: fig_32.04_Ignatiadou.jpg
+  caption: >
+    Pydna (Kitros, Alykes). Bronze semi-cylindrical Case B. Late fourth‒early third century BC. Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki, inv. Py 692. Photo: D. Ignatiadou
+
+- figure_number: 32.5
+  file_name: fig_32.05_Ignatiadou.jpg
+  caption: >
+    Pydna (Kitros, Alykes). Bronze semi-cylindrical Case C with perforated top. Late fourth‒early third century BC. Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki, inv. Py 644, Py 645, Py 687, Py 689, Py 690. Photo: D. Ignatiadou
+
+- figure_number: 32.6
+  file_name: fig_32.06_Ignatiadou.jpg
+  caption: >
+    Archontiko, near Pella. Two bronze semi-cylindrical cases with hinged lids. Fourth century BC. Archaeological Museum of Pella. Photo: D. Ignatiadou
+
+- figure_number: 34.1
+  file_name: fig_34.01_Franken.jpg
+  caption: >
+    Armed dancer. H 10.5 cm. Berlin, Antikensammlung-SMB, inv. 31631. Photo: Norbert Franken, Antikensammlung – SMB
+
+- figure_number: 34.2
+  file_name: fig_34.02_Franken.jpg
+  caption: >
+    Mercury. H 6.5 cm. Chur, Rätisches Museum, inv. 67/112. Photo: Archäologischer Dienst Graubünden, Neg. no. 1375-7A
+
+
+- figure_number: 34.3
+  file_name: fig_34.03_Franken.jpg
+  caption: >
+    Female dancer. H 8.2 cm. Dor, The Tel Dor Archaeological Expedition. Photo: Tel Dor Archaeological Expedition
+
+- figure_number: 34.4
+  file_name: fig_34.04_Franken.jpg
+  caption: >
+    Apollo. H 8 cm. Lyon, Musée gallo-romaine, inv. Br 26. Photo: J.-M. Degueule, Musée gallo-romain de Lyon
+
+- figure_number: 34.5
+  file_name: fig_34.05_Franken.jpg
+  caption: >
+    Goddess. Munich, Staatliche Antikensammlungen und Glyptothek, inv. NI 4536. Photo: Staatliche Antikensammlungen und Glyptothek München
+
+- figure_number: 34.6
+  file_name: fig_34.06_Franken.jpg
+  caption: >
+    Dwarf. H 8.3 cm. Parma, Museo d’Antichità, inv. B 416. Photo: Parma, Museo Nazionale di Antichità
+
+- figure_number: 34.7
+  file_name: fig_34.07_Franken.jpg
+  caption: >
+    Victoria. H 12.9 cm. Reggio Emilia, Museo “Gaetano Chierici,” inv. 15242. Photo: Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, Archivio Fotografico
+
+- figure_number: 34.8
+  file_name: fig_34.08_Franken.jpg
+  caption: >
+    Satyr. H 5.8 cm. Rome, Musei Vaticani, Museo Gregoriano Etrusco, inv. 11510. Photo: Musei Vaticani, Archivio Fotografico neg. no. XXVII.15.146
+
+- figure_number: 37.1
+  file_name: fig_37.01_Boyatzis.jpg
+  caption: >
+    Chemical structures of materials studied, used and/or mentioned in this work. (a) Paraloid® B44; (b) benzotriazole; (c) epoxidized soybean oil (ESO) basic functional structure; (d) Tinuvin® 600 (aryl-substituted benzotriazole)
+
+- figure_number: 37.2
+  file_name: fig_37.02_Boyatzis.jpg
+  caption: >
+    FTIR spectra of Incralac® (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm–1). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c) after Cycle 2. For ageing conditions, see Experimental Section
+
+- figure_number: 37.3
+  file_name: fig_37.03_Boyatzis.jpg
+  caption: >
+    Objects from the National Archaeological Museum of Athens. Conservation Report: (a) jug, inv. Χ 7934; (b) statuette with goddess Isis, Χ 1974; (c) mirror, Χ 21039; (d) kyanthos, Χ 26175; (e) ring, Χ 25604; (f) spiral bracelet, Χ 17166; (g) strigil, Χ 8297; (h) sword, Π 7317
+
+- figure_number: 37.4
+  file_name: fig_37.04_Boyatzis.jpg
+  caption: >
+    FTIR spectra of coatings, for objects from the National Archaeological Museum of Athens. Inventory numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) X 7934 (1979; 28 years), (b) X 1974 (1985; 22 years), (c) X 21039 (1991; 16 years), (d) X 8297 (1997; 10 years), (e) X 26175 (1998–99; 8–9 years), (f) Π 7317 (2003; 4 years), (g) X 25604 (2000; 7 years), (h) X 17166 (1999; 8 years)
+
+- figure_number: 37.5
+  file_name: fig_37.05_Boyatzis.jpg
+  caption: >
+    Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2”, respectively. Scales are shown in cm
+
+- figure_number: 37.6
+  file_name: fig_37.06_Boyatzis.jpg
+  caption: >
+    FTIR spectra of coatings, from the Epigraphic and Numismatic Museum. Group numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) group A (2002; 5 years); (b) group B (1997; 10 years); (c) group C (1992; 15 years); (d) group D (1987; 20 years) and (e) group E (1982; 25 years)
+
+- figure_number: 38.1
+  file_name: fig_38.01_Argyropoulos.jpg
+  caption: >
+    Tinned copper-alloy frying pan from a Byzantine shipwreck in Rhodes, Greece, manufactured by hammering technique. Athens, Ephorate of Underwater Antiquities, object ID 651/10.11.2013. Photo: Susana Mavroforaki; courtesy G. Koutsouflakis, Ephorate of Underwater Antiquities
+
+- figure_number: 38.2
+  file_name: fig_38.02_Argyropoulos.jpg
+  caption: >
+    A cross-section of the frying pan in fig. 38.1 viewed under a stereomicroscope at x10 magnification. Photo: Susana Mavroforaki, Dept. of Conservation of Antiquities and Works of Art, TEI Athens
+
+- figure_number: 38.3
+  file_name: fig_38.03_Argyropoulos.jpg
+  caption: >
+    Microscopic image of the cross-section of frying pan in fig. 38.1 at x20 magnification. Photo: Susana Mavroforaki, Dept. of Conservation of Antiquities and Works of Art, TEI Athens
+
+- figure_number: 38.4
+  file_name: fig_38.04_Argyropoulos.jpg
+  caption: >
+    SEM image of black surface of the frying pan where small round globules indicate the possibility of intermetallic compound η-Cu6Sn5 with around 57 wt.% Sn concentration analyzed by SEM-EDAX. Image: Susana Mavroforaki, Dept. of Conservation of Antiquities and Works of Art, TEI Athens
+
+- figure_number: 38.5
+  file_name: fig_38.05_Argyropoulos.jpg
+  caption: >
+    Local electrolysis of the frying pan. Image: © TEI Athens
+
+
+- figure_number: 38.6
+  file_name: fig_38.06_Argyropoulos.jpg
+  caption: >
+    Plot of the total amount of chlorides versus duration of treatment for the handle of the frying pan undergoing local electrolysis. Image: © TEI Athens
+
+- figure_number: 38.7
+  file_name: fig_38.07_Argyropoulos.jpg
+  caption: >
+    Plot of the total amount of chlorides versus duration of treatment for the base of the frying pan undergoing local electrolysis. Image: © TEI Athens
+
+- figure_number: 38.8a
+  file_name: fig_38.08a_Argyropoulos.jpg
+  caption: >
+    The frying pan before treatment with local electrolysis and the corrosion inhibitor L-cysteine. Photo: Susana Mavroforaki; courtesy G. Koutsouflakis, Ephorate of Underwater Antiquities
+
+- figure_number: 38.8b
+  file_name: fig_38.08b_Argyropoulos.jpg
+  caption: >
+    The frying pan after treatment with local electrolysis and the corrosion inhibitor L-cysteine. Photo: Susana Mavroforaki; courtesy G. Koutsouflakis, Ephorate of Underwater Antiquities
+
+- figure_number: 42.2
+  file_name: fig_42.02_Mille-Descamps.jpg
+  caption: >
+    Marble Head, Rhodes. Archaeological Museum of Rhodes, inv. E. 127. Photo: © S. Descamps
+
+- figure_number: 42.4a
+  file_name: fig_42.04a_Mille-Descamps.jpg
+  caption: >
+    Metal composition of the Piombino Apollo, alloy and impurities pattern. Tin and lead contents of the different parts of the statue.
+
+- figure_number: 42.4b
+  file_name: fig_42.04b_Mille-Descamps.jpg
+  caption: >
+    Metal composition of the Piombino Apollo, alloy and impurities pattern. Cumulated content of main impurities for each analysis. Images: © C2RMF, B. Mille
+
+- figure_number: 42.5
+  file_name: fig_42.05_Mille-Descamps.jpg
+  caption: >
+    Piombino Apollo, drawing of the technological features, showing the hair details done in the positive of the wax (black lines), the primary castings (white), the flow fusion welds (red), the core flashing lines (purple), the core pins (light blue), the repairs (rectangular patches or casting on, green), the copper inlays (orange) the silver inlays (blue). Image: © C2RMF, B. Mille
+
+- figure_number: 42.7
+  file_name: fig_42.07_Mille-Descamps.jpg
+  caption: >
+    Casting map of the Piombino Apollo, three options are possible depending the way legs were joined. Image: © C2RMF, B. Mille
+
+- figure_number: 43.2
+  file_name: fig_43.02_Karnis.jpg
+  caption: >
+    Location of the samples taken during the sampling sessions between 1999 and 2002 (Lalli et al. 2006, 115)
+
+- figure_number: 43.3
+  file_name: fig_43.03_Karnis.jpg
+  caption: >
+    Separately cast sections of the statue. Drawing: I. Karniš Vidovič and K. Certić, 2015 (HRZ)
+
+- figure_number: 43.4
+  file_name: fig_43.04_Karnis.jpg
+  caption: >
+    Joining areas: (a) head, (b) right arm-torso, (c) pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
+
+- figure_number: 43.5a
+  file_name: fig_43.05a_Karnis.jpg
+  caption: >
+    New sampling for ICP/AES at C2RMF: head. Photos: I. Karniš Vidovič, 2013 (Croatian Conservation Institute)
+
+- figure_number: 43.5b
+  file_name: fig_43.05b_Karnis.jpg
+  caption: >
+    New sampling for ICP/AES at C2RMF: neck. Photos: I. Karniš Vidovič, 2013 (Croatian Conservation Institute)
+
+- figure_number: 43.5c
+  file_name: fig_43.05c_Karnis.jpg
+  caption: >
+    New sampling for ICP/AES at C2RMF: pubic area. Photos: I. Karniš Vidovič, 2013 (Croatian Conservation Institute)
+
+- figure_number: 43.5d
+  file_name: fig_43.05d_Karnis.jpg
+  caption: >
+    New sampling for ICP/AES at C2RMF: left foot. Photos: I. Karniš Vidovič, 2013 (Croatian Conservation Institute)
+
+- figure_number: 43.6
+  file_name: fig_43.06_Karnis.jpg
+  caption: >
+    Alloy composition of the Croatian Apoxyomenos: tin and lead contents of the different parts of the statue. Graph: B. Mille, 2015 (C2RMF)
+
+- figure_number: 43.7
+  file_name: fig_43.07_Karnis.jpg
+  caption: >
+    Trace element composition of the Croatian Apoxyomenos: cumulated content of main impurities for each analysis. Graph: B. Mille, 2015 (C2RMF)
+
+- figure_number: 45.1
+  file_name: fig_45.01_Gansicke.jpg
+  caption: >
+    The cluster of pipes (MFA, inv. 24.1821) as found in original stairway filling, Pyramid N 6, the burial of Queen Amanishakheto, Meroë, Sudan, facing west. Photo taken at Begrawiya, March 1921 Harvard University–Boston Museum of Fine Arts Expedition. Photographer: Mohammedani Ibrahim, A3050_NS. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.2
+  file_name: fig_45.02_Gansicke.jpg
+  caption: >
+    The fragmentary auloi in their wooden shipping and storage trays, nos. 6, 8, 10, and 11, prior to treatment and rehousing. Bronze, bone, wood. 10–1 BC. SC 285264, SC 285267, SC 285268, SC 285269. Harvard University–Boston Museum of Fine Arts Expedition. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.3
+  file_name: fig_45.03_Gansicke.jpg
+  caption: >
+    A selection of the better preserved auloi segments, including long bronzes tubes with attached sliders, short tube sections that were connected by internal sockets and tenons, detached bronze knobs from rotary metal sleeves, bone bulbs, and bone reed holders, which are incorrectly placed at the bottom end of the pipes. 10–1 BC. Bronze, bone, wood. SC65062. Harvard University–Boston Museum of Fine Arts Expedition. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.4
+  file_name: fig_45.04_Gansicke.jpg
+  caption: >
+    The end of a pipe’s slider mechanism carries a small three-dimensional sculpture of a dolphin holding a seashell in its snout. There are four such slider terminals in the collection. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.5
+  file_name: fig_45.05_Gansicke.jpg
+  caption: >
+    (above) Photo of Box 11 containing auloi fragments; (below) X-radiography of Box 11 in an (almost) identical arrangement. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.6
+  file_name: fig_45.06_Gansicke.jpg
+  caption: >
+    Photomicrograph taken in a scanning electron microscope showing a small section of an almost metallic, uncorroded surface of a bronze tube, which retains parallel lines caused by lathe turning. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.7
+  file_name: fig_45.07_Gansicke.jpg
+  caption: >
+    Rotating bronze sleeve with soldered-on bronze knob. The hole in the knob contains ancient flax twine. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 45.8
+  file_name: fig_45.08_Gansicke.jpg
+  caption: >
+    Three boxes containing two pairs of pipes each, as assembled in early November 2015. Photo: © Museum of Fine Arts, Boston
+
+- figure_number: 46.3b
+  file_name: fig_46.03b_Kantarelou.jpg
+  caption: >
+    The area on the Baal god figurine was analyzed with (thin line) and without (thick line) the use of a filter in the excitation path. When using filtered excitation, the pile-ups were eliminated, the background noise was reduced, and the presence of traces of selenium and lead was revealed. Photo:
+
+- figure_number: 46.4b
+  file_name: fig_46.04b_Kantarelou.jpg
+  caption: >
+    Elemental intensity of Cu-Kα line
+
+- figure_number: 46.4c
+  file_name: fig_46.04c_Kantarelou.jpg
+  caption: >
+    Ratio of the elemental intensities of Sn-Lα to Sn-Kα lines. In the graphs, the warm colors correspond to higher values
+
+- figure_number: 47.1
+  file_name: fig_47.01_Anderson.jpg
+  caption: >
+    Alexander the Great statuette. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. C. Ruxton Love, Jr., inv. 1956.20. (a) Front and (b) back views. Photos: Imaging Department © President and Fellows of Harvard College
+
+- figure_number: 47.2
+  file_name: fig_47.02_Anderson.jpg
+  caption: >
+    (a) Demosthenes. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of John W. Straus in honor of David Mitten, inv. 2007.221. Photo: Imaging Department © President and Fellows of Harvard College. (b) X-radiograph of Demosthenes statuette. Photo: Straus Center for Conservation © President and Fellows of Harvard College
+
+- figure_number: 47.3
+  file_name: fig_47.03_Anderson.jpg
+  caption: >
+    (a) Aftercast of Demosthenes statuette, private collection. Photo: © President and Fellows of Harvard College. (b) X-radiograph of the aftercast. Photo: Straus Center for Conservation © President and Fellows of Harvard College
+
+- figure_number: 47.4
+  file_name: fig_47.04_Anderson.jpg
+  caption: >
+    (a–b) Details of head of the Alexander the Great statuette (see fig. 47.1) showing cuprites. Photos: Straus Center for Conservation © President and Fellows of Harvard College
+
+- figure_number: 47.5
+  file_name: fig_47.05_Anderson.jpg
+  caption: >
+    (a) Standing Warrior, Harvard Art Museums/Arthur M. Sackler Museum, Gift of Frederick M. Watkins, inv. 1961.143. Photo: Tony Filipe © President and Fellows of Harvard College. (b) Detail of Standing Warrior head, showing cuprite. Photo: Straus Center for Conservation © President and Fellows of Harvard College
+
+- figure_number: 47.6
+  file_name: fig_47.06_Anderson.jpg
+  caption: >
+    Lead isotopes of statuettes of Alexander the Great (inv. 1956.20, and Demosthenes (inv. 2007.221), compared to lead ore sources used in antiquity. Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
+
+- figure_number: 47.7
+  file_name: fig_47.07_Anderson.jpg
+  caption: >
+    Lead isotopes of objects at the Harvard Art Museums. Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
+
+- figure_number: 47.8
+  file_name: fig_47.08_Anderson.jpg
+  caption: >
+    Lead isotopes of the objects in fig. 47.7 compared to lead ore sources used in antiquity, exotic/modern sources, and averaged modern lead (gasoline lead). Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
+
+- figure_number: 47.9
+  file_name: fig_47.09_Anderson.jpg
+  caption: >
+    Detail of fig. 47.8 showing the area in which the Alexander value plots. Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
