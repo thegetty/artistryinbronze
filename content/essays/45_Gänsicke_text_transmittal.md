@@ -5,7 +5,7 @@ layout: page
 author:
  - first_name: Susanne
    last_name: Gänsicke
-   affiliation: 1J. Paul Getty Museum
+   affiliation: J. Paul Getty Museum
  - first_name: Stefan
    last_name: Hagel
    affiliation: Austrian Academy of Sciences, Vienna
