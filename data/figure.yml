@@ -6,7 +6,7 @@
 - figure_number: 1.2
   file_name: fig_1.02_Plattner_Gschwantler_Vak.jpg
   caption: >
-    Ephesos, Harbor Baths: excavations 1896–97 in the southwest corner of the palaestra, marked the base of the athlete *in situ*. Photo: Ephesos Excavation, Austrian Archaeological Institute
+    Ephesos, Harbor Baths: excavations 1896–97 in the southwest corner of the *palaestra*, marked the base of the athlete *in situ*. Photo: Ephesos Excavation, Austrian Archaeological Institute
 
 - figure_number: 1.3
   file_name: fig_1.03_Plattner_Gschwantler_Vak.jpg
@@ -271,12 +271,12 @@
 - figure_number: 7.4a
   file_name: fig_7.04a_Risser_Saunders.jpg
   caption: >
-    Portrait of Tiberius, (a) front and (b) rear, with ancient parts indicated. Photo: courtesy of Ministero dei Beni e delle Attività Culturali e del Turismo – Museo Archeologico Nazionale di Napoli
+    Portrait of Tiberius, front, with ancient parts indicated. Photo: courtesy of Ministero dei Beni e delle Attività Culturali e del Turismo – Museo Archeologico Nazionale di Napoli
 
 - figure_number: 7.4b
   file_name: fig_7.04b_Risser_Saunders.jpg
   caption: >
-    Portrait of Tiberius, (a) front and (b) rear, with ancient parts indicated. Photo: courtesy of Ministero dei Beni e delle Attività Culturali e del Turismo – Museo Archeologico Nazionale di Napoli
+    Portrait of Tiberius, rear, with ancient parts indicated. Photo: courtesy of Ministero dei Beni e delle Attività Culturali e del Turismo – Museo Archeologico Nazionale di Napoli
 
 - figure_number: 7.5
   file_name: fig_7.05_Risser_Saunders.jpg
@@ -301,7 +301,7 @@
 - figure_number: 8.1
   file_name: fig_8.01_Mattusch.JPG
   caption: >
-    *Left.* Piombino Apollo. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br. 2. *Right.* Statue of Apollo/kouros, from the triclinium of the House of Gaius Julius Polybius in Pompeii (IX 13.1–13). Pompeii, Soprintendenza Speciale per i Beni archeologici di Pompei, Ercolano e Stabia, inv. 22924. Photo: K. Lapatin
+    *Left*. Piombino Apollo. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br. 2. *Right*. Statue of Apollo/kouros, from the triclinium of the House of Gaius Julius Polybius in Pompeii (IX 13.1–13). Pompeii, Soprintendenza Speciale per i Beni archeologici di Pompei, Ercolano e Stabia, inv. 22924. Photo: K. Lapatin
 
  - figure_number: 8.2
    file_name: fig_8.02_Mattusch.jpg
@@ -339,7 +339,7 @@
     Base of Epicharinos. Athens, Acropolis Museum, inv. 13248. Photo: E. Feiler, © D-DAI-ATH-1976/1623)
 
 - figure_number: 9.2
-  file_name: fig_9.02_Adornato.jpeg
+  file_name: fig_9.02_Adornato.jpg
   caption: >
     Base of Hegelochos. Athens, Acropolis Museum, inv. 13206 (after Keesling 2003)
 
@@ -367,7 +367,6 @@
   file_name: fig_10.03_Sengoku_Haga.jpg
   caption: >
     3D shape comparison between the Doryphoros and the Diadoumenos and with the three Amazon types (the threshold is 4mm)
-
 
 - figure_number: 10.4
   file_name: fig_10.04_Sengoku_Haga.jpg
@@ -473,7 +472,7 @@
 - figure_number: 14.3
   file_name: fig_14.03_Hemingway_Abramitis.jpg
   caption: >
-    Bronze statuette of a horse. Greek, seventh century BC. X-radiograph illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo:© The Metropolitan Museum of Art, New York
+    Bronze statuette of a horse. Greek, seventh century BC. X-radiograph illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: © The Metropolitan Museum of Art, New York
 
 - figure_number: 14.4
   file_name: fig_14.04_Hemingway_Abramitis.jpg
@@ -499,11 +498,6 @@
   file_name: fig_14.08_Hemingway_Abramitis.jpg
   caption: >
     Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7. Image courtesy The Metropolitan Museum of Art, The Sherman Fairchild Center for Objects Conservation. Photo: De Abramitis © The Metropolitan Museum of Art, New York
-
-- figure_number: 14.1
-  file_name: fig_14.01_Hemingway_Abramitis.jpg
-  caption: >
-    Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173. Photo: Courtesy of the Metropolitan Museum of Art, New York
 
 - figure_number: 15.1
   file_name: fig_15.01_McGowan.jpg
@@ -544,11 +538,6 @@
   file_name: fig_15.10_McGowan.jpg
   caption: >
     Homer, marble bust, Roman copy after Hellenistic original. Naples, Museo Archaeologico Nazionale inv. 6023. Photo: Scala/Ministero per i Beni e le Attività culturali / Art Resource, NY
-
-- figure_number: 15.11
-  file_name: fig_15.11_McGowan.jpg
-  caption: >
-    Bronze bust of Hesiod (“Pseudo-Seneca”), Roman copy after Hellenistic original. From Herculaneum, Villa dei Papiri. Naples, Museo Archaeologico Nazionale inv. 5616. Photo: Erich Lessing / Art Resource, NY
 
 - figure_number: 15.11
   file_name: fig_15.11_McGowan.jpg
@@ -687,29 +676,29 @@
     Tools from the foundry of Sentinum. Sassoferrato, Museo Civico Archeologico
 
 - figure_number: 18.4
-  file_name: fig_18.04_Kaufmann.jpeg
+  file_name: fig_18.04_Kaufmann.jpg
   caption: >
     Mercury and Rosmerta (?) from Turny. Height 40–50 cm (15 3/4–19 3/4 in.). Musée archéologique de Dijon, inv. 2008.1.1 and 2008.1.2. Photo: © Musée archéologique de Dijon, cl. F. Perrodin
 
 - figure_number: 18.8
-  file_name: fig_18.08_Kaufmann.jpeg
+  file_name: fig_18.08_Kaufmann.jpg
   caption: >
     Minerva from Dinéault. Original height approx. 70 cm (27 1/2 in.). Rennes, Musée de Bretagne, inv. 972.0059.1. © Collection Musée de Bretagne, Rennes – reproduction interdite. Photo: A. Amet
 
 - figure_number: 20.1a
   file_name: fig_20.01a_Veseli.jpg
   caption: >
-    Zeus, Apollonia: (a) front. Photo: TK
+    Zeus, Apollonia: front. Photo: TK
 
 - figure_number: 20.1b
   file_name: fig_20.01b_Veseli.jpg
   caption: >
-    Zeus, Apollonia: (b) detail of face. Photo: TK
+    Zeus, Apollonia: detail of face. Photo: TK
 
 - figure_number: 20.1c
   file_name: fig_20.01c_Veseli.jpg
   caption: >
-    Zeus, Apollonia: (c) rear. Photo: TK
+    Zeus, Apollonia: rear. Photo: TK
 
 - figure_number: 20.2
   file_name: fig_20.02_Veseli.jpg
@@ -725,17 +714,17 @@
 - figure_number: 20.3b
   file_name: fig_20.03b_Veseli.jpg
   caption: >
-    Jupiter, Korça: (a) front. Photo: TK
+    Jupiter, Korça: front. Photo: TK
 
 - figure_number: 20.4a
   file_name: fig_20.04a_Veseli.jpg
   caption: >
-    Jupiter with *chlamys*, Korça: (a) front. Photo: TK
+    Jupiter with *chlamys*, Korça: front. Photo: TK
 
 - figure_number: 20.4b
   file_name: fig_20.04b_Veseli.jpg
   caption: >
-    Jupiter with *chlamys*, Korça:(b) rear. Photo: TK
+    Jupiter with *chlamys*, Korça: rear. Photo: TK
 
 - figure_number: 21.7
   file_name: fig_21.07_Paterakis.jpg
@@ -750,37 +739,37 @@
 - figure_number: 23.1
   file_name: fig_23.01_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Limestone *loculus* plaque of Repabôl, son of Rustic’â, (son of) Šaddai, from Palmyra. ca. AD 180–200. Minneapolis, Minneapolis Institute of Arts inv. 2008.28.2. Photo: Minneapolis Institute of Arts, MN, USA / Gift of the Miller Family in memory of Dulcy B. Miller / Bridgeman Images)
 
 - figure_number: 23.2
   file_name: fig_23.02_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Detail of fig. 23.1
 
 - figure_number: 23.3
   file_name: fig_23.03_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Bronze bust of a young male, from Roman Gaul. ca. AD 50–80. Malibu, J. Paul Getty Museum, Villa Collection inv. 89.AB.67.2. Photo: Courtesy of the J. Paul Getty Museum
 
 - figure_number: 23.4
   file_name: fig_23.04_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Detail of fig. 23.3
 
 - figure_number: 23.5
   file_name: fig_23.05_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Limestone *loculus* plaque, “The Beauty of Palmyra,” from Palmyra. ca. AD 200–210. Copenhagen, Ny Carlsberg Glyptotek inv. 2795. Photo: Courtesy of the Ny Carlsberg Glyptotek, Copenhagen / Bridgeman Images
 
 - figure_number: 23.6
   file_name: fig_23.06_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Limestone head of a woman, probably from a banquet relief, from Palmyra. ca. AD 200–220. Los Angeles, Los Angeles County Museum of Art inv. M.82.77.2, Gift of Robert Blaugrund. Photo: <http://collections.lacma.org/node/243803>
 
 - figure_number: 23.7
   file_name: fig_23.07_Albertson.jpg
   caption: >
-    Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+    Bronze head of Marcus Aurelius, found near Brackley, Northamptonshire (England). ca. AD 170. Oxford, Ashmolean Museum inv. AN 2011.46. Photo: © Ashmolean Museum, University of Oxford / Bridgeman Images
 
 - figure_number: 24.1
   file_name: fig_24.01_Tarditi.jpg
@@ -1025,7 +1014,7 @@
 - figure_number: 37.2
   file_name: fig_37.02_Boyatzis.jpg
   caption: >
-    FTIR spectra of Incralac® (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm–1). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c) after Cycle 2. For ageing conditions, see Experimental Section
+    FTIR spectra of Incralac® (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c) after Cycle 2. For ageing conditions, see Experimental Section
 
 - figure_number: 37.3
   file_name: fig_37.03_Boyatzis.jpg
