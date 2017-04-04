@@ -84,7 +84,7 @@
     Colossus of Rhodes, master model. Drawing based on picture by L. von Schwanthaler (base and workers), statue of Aias (body) and Rhodian coin (head)
 
 - figure_number: 2.2
-  file_name: fig_2.02_Vedder.pdf
+  file_name: fig_2.02_Vedder.jpg
   caption: >
     Ground plan of the platform for the pedestal of the Athena Promachos in Athens (drawing by T. Tanoulas, Palagia 2013, fig. 11)
 
@@ -559,7 +559,6 @@
   caption: >
     Bronze statuette of Serapis. London, British Museum inv. 1824,0478.1. Photo: © The Trustees of The British Museum
 
-
 - figure_number: 16.4
   file_name: fig_16.04_Sharpe.jpg
   caption: >
@@ -950,7 +949,6 @@
   caption: >
     Mercury. H 6.5 cm. Chur, Rätisches Museum, inv. 67/112. Photo: Archäologischer Dienst Graubünden, Neg. no. 1375-7A
 
-
 - figure_number: 34.3
   file_name: fig_34.03_Franken.jpg
   caption: >
@@ -1035,7 +1033,6 @@
   file_name: fig_38.05_Argyropoulos.jpg
   caption: >
     Local electrolysis of the frying pan. Image: © TEI Athens
-
 
 - figure_number: 38.6
   file_name: fig_38.06_Argyropoulos.jpg
@@ -1182,27 +1179,27 @@
   caption: >
     Ratio of the elemental intensities of Sn-Lα to Sn-Kα lines. In the graphs, the warm colors correspond to higher values
 
-- figure_number: 47.1
+- figure_number: 47.1a-b
   file_name: fig_47.01_Anderson.jpg
   caption: >
     Alexander the Great statuette. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. C. Ruxton Love, Jr., inv. 1956.20. (a) Front and (b) back views. Photos: Imaging Department © President and Fellows of Harvard College
 
-- figure_number: 47.2
+- figure_number: 47.2a-b
   file_name: fig_47.02_Anderson.jpg
   caption: >
     (a) Demosthenes. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of John W. Straus in honor of David Mitten, inv. 2007.221. Photo: Imaging Department © President and Fellows of Harvard College. (b) X-radiograph of Demosthenes statuette. Photo: Straus Center for Conservation © President and Fellows of Harvard College
 
-- figure_number: 47.3
+- figure_number: 47.3a-b
   file_name: fig_47.03_Anderson.jpg
   caption: >
     (a) Aftercast of Demosthenes statuette, private collection. Photo: © President and Fellows of Harvard College. (b) X-radiograph of the aftercast. Photo: Straus Center for Conservation © President and Fellows of Harvard College
 
-- figure_number: 47.4
+- figure_number: 47.4a-b
   file_name: fig_47.04_Anderson.jpg
   caption: >
     (a–b) Details of head of the Alexander the Great statuette (see fig. 47.1) showing cuprites. Photos: Straus Center for Conservation © President and Fellows of Harvard College
 
-- figure_number: 47.5
+- figure_number: 47.5a-b
   file_name: fig_47.05_Anderson.jpg
   caption: >
     (a) Standing Warrior, Harvard Art Museums/Arthur M. Sackler Museum, Gift of Frederick M. Watkins, inv. 1961.143. Photo: Tony Filipe © President and Fellows of Harvard College. (b) Detail of Standing Warrior head, showing cuprite. Photo: Straus Center for Conservation © President and Fellows of Harvard College
