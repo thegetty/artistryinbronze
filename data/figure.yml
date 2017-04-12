@@ -892,7 +892,32 @@
 - figure_number: 28.5
   file_name: fig_28.05_Fani.jpg
   caption: >
-    Fig. 28.5. The anthropomorphic vessel as shown in 1953 (reproduced in Jones 1987, 18). Photo: TK
+    The anthropomorphic vessel as shown in 1953 (reproduced in Jones 1987, 18). Photo: TK
+
+- figure_number: 29.2a
+  file_name: fig_29.02a_Lester.jpg
+  caption: >
+    Base of a lampstand from Pompeii. Photo: after Ainé 1870, plate 23
+
+- figure_number: 29.2b
+  file_name: fig_29.02b_Lester.jpg
+  caption: >
+    Base of a lampstand with a plate over the feet. Before AD 79. Photo: after Ainé 1870, plate 23
+
+- figure_number: 29.4
+  file_name: fig_29.04_Lester.jpg
+  caption: >
+    A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
+
+- figure_number: 29.5a
+  file_name: fig_29.05a_Lester.jpg
+  caption: >
+    A brazier from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 67.
+
+- figure_number: 29.7
+  file_name: fig_29.07b_Lester.jpg
+  caption: >
+    A handle from Pompeii, before AD 79. Photo: after Ainé 1870, plate 72
 
 - figure_number: 30.2
   file_name: fig_30.02_Ferrence_Giumlia-Mair.jpg
