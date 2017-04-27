@@ -1,7 +1,7 @@
 ---
 title: Bronze Warfare from the Hellenistic Period
 subtitle: A Study of the Acqualadroni Naval Ram
-layout: page
+type: page
 author:
  - first_name: Tisseyre
    last_name: Tisseyre

@@ -1,6 +1,6 @@
 ---
 title: Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Period
-layout: page
+type: page
 author:
  - first_name: Chiara
    last_name: Tarditi

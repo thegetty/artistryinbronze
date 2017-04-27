@@ -1,6 +1,6 @@
 ---
 title: A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration
-layout: page
+type: page
 author:
  - first_name: Nadežda P.
    last_name: Gulyaeva

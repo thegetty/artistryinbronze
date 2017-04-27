@@ -1,6 +1,6 @@
 ---
 title: Bronze Trees from the Greek to the Roman World
-layout: page
+type: page
 author:
  - first_name: Marina
    last_name: Castoldi

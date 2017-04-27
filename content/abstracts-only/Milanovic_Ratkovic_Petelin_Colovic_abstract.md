@@ -1,6 +1,6 @@
 ---
 title: The Ancient Chariot from Serbia
-layout: page
+type: page
 author:
  - first_name: Dragan
    last_name: Milanović

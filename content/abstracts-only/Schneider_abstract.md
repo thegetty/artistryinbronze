@@ -1,7 +1,7 @@
 ---
 title: The Doryphoros in Bronze
 subtitle: Venerated–Suppressed–Forgotten
-layout: page
+type: page
 author:
  - first_name: Rolf
    last_name: Schneider

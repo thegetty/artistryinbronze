@@ -1,7 +1,7 @@
 ---
 title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
-layout: page
+type: page
 author:
  - first_name: Lisa Anderson
    last_name: Anderson

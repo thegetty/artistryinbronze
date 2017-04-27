@@ -1,7 +1,7 @@
 ---
 title: Bronzes from the Aegean Sea 
 subtitle: A Reassessment of Old and New Finds
-layout: page
+type: page
 author:
  - first_name: George
    last_name: Koutsouflakis

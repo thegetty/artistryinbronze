@@ -1,6 +1,6 @@
 ---
 title: A Technological Re-Examination of the Piombino Apollo
-layout: page
+type: page
 author:
  - first_name: Benoît
    last_name: Mille

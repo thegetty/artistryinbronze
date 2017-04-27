@@ -1,6 +1,6 @@
 ---
 title: When a Statue is Not a Statue
-layout: page
+type: page
 author:
  - first_name: Carol C.
    last_name: Mattusch

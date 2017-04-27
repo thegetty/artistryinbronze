@@ -1,7 +1,7 @@
 ---
 title: Tiberius from Herculaneum
 subtitle: Methods of Assembling a Monumental Bronze Portrait
-layout: page
+type: page
 author:
  - first_name: Erik
    last_name: Risser

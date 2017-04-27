@@ -1,7 +1,7 @@
 ---
 title: The Riace Bronze Statues
 subtitle: Chemical, Textural, and Isotopic Investigation of the Metals
-layout: page
+type: page
 author:
  - first_name: Ivana
    last_name: Angelini

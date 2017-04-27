@@ -1,7 +1,7 @@
 ---
 title: The Getty Herm of Dionysos
 subtitle: Technical Observations, Review, and Interpretation
-layout: page
+type: page
 author:
  - first_name: Jeffrey
    last_name: Maish

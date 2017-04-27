@@ -1,7 +1,7 @@
 ---
 title: The Bronze Sculpture of Alexander the Great on Horseback
 subtitle: An Archaeometallurgical Study
-layout: page
+type: page
 author:
  - first_name: Salvatore
    last_name: Siano

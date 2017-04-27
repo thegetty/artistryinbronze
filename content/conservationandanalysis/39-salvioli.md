@@ -1,6 +1,6 @@
 ---
 title: Conservation Treatments and Archaeometallurgical Insights on the Medici Riccardi Horse Head
-layout: page
+type: page
 author:
  - first_name: Nicola
    last_name: Salvioli

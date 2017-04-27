@@ -1,6 +1,6 @@
 ---
 title: A Royal Macedonian Portrait Head from the Sea off Kalymnos
-layout: page
+type: page
 author:
  - first_name: Olga
    last_name: Palagia

@@ -1,7 +1,7 @@
 ---
 title: Balancing Artifacts
 subtitle: Incense-Burners and Ponderation in Etruria
-layout: page
+type: page
 author:
  - first_name: Francesco
    last_name: De Angelis

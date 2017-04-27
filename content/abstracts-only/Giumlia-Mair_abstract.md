@@ -1,7 +1,7 @@
 ---
 title: Modern and Ancient Metal Fakes
 subtitle: Composition, Patina, Production Technology, Technical Details
-layout: page
+type: page
 author:
  - first_name: Alessandra
    last_name: Giumlia-Mair

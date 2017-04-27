@@ -1,6 +1,6 @@
 ---
 title: New Results on the Alloys of the Croatian Apoxyomenos
-layout: page
+type: page
 author:
  - first_name: Iskra
    last_name: "Karniš Vidovič"

@@ -1,7 +1,7 @@
 ---
 title: The Paramythia Bronzes
 subtitle: Expressions of Cultural Identity in Roman Epirus
-layout: page
+type: page
 author:
  - first_name: Heather
    last_name: Sharpe

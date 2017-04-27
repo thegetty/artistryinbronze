@@ -1,7 +1,7 @@
 ---
 title: Assertions by the Portable
 subtitle: What Can Bronze Statuettes Tell Us about Major Classical Sculpture?
-layout: page
+type: page
 author:
  - first_name: Beryl
    last_name: Barr-Sharrar

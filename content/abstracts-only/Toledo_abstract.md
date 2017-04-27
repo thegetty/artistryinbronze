@@ -1,6 +1,6 @@
 ---
 title: The Influence of Ancient Bronzes in Cuban Large-Scale Sculptures
-layout: page
+type: page
 author:
  - first_name: Jorge Rolando
    last_name: Toledo

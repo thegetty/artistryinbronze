@@ -1,7 +1,7 @@
 ---
 title: The Apollo from Salerno
 subtitle: Hellenistic Influence in Southern Italy
-layout: page
+type: page
 author:
  - first_name: Silvia
    last_name: Pacifico

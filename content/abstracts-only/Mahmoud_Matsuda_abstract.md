@@ -1,6 +1,6 @@
 ---
 title: Examination, Conservation, and Analysis of a Composed Egyptian Ibis Statue
-layout: page
+type: page
 author:
  - first_name: Shimaa
    last_name: Mahmoud

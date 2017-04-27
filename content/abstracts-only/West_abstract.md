@@ -1,6 +1,6 @@
 ---
 title: Figural Bronze Statuettes in the Ashmolean Collection and the Aesthetics of Replication
-layout: page
+type: page
 author:
  - first_name: Nicholas
    last_name: West

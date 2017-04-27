@@ -1,6 +1,6 @@
 ---
 title: Iconography of the Sea World on Late Hellenistic Bronze Vessels
-layout: page
+type: page
 author:
  - first_name: Klara
    last_name: De Decker

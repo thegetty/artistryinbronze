@@ -1,7 +1,7 @@
 ---
 title: The Influence of East and West on Bronze Objects Found in Central Anatolia
 subtitle: Small Bronze Finds from Kaman-Kalehöyük
-layout: page
+type: page
 author:
  - first_name: Salice Boccia
    last_name: Paterakis

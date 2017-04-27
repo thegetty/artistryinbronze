@@ -1,6 +1,6 @@
 ---
 title: Copper, War, and Art in Ancient Greece
-layout: page
+type: page
 author:
  - first_name: Soledad
    last_name: Díaz

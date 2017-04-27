@@ -1,6 +1,6 @@
 ---
 title: Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia
-layout: page
+type: page
 author:
  - first_name: Despina
    last_name: Ignatiadou

@@ -1,6 +1,6 @@
 ---
 title: Hellenistic, Roman and Byzantine Influence in the Consolidation of Fatimid Metalware
-layout: page
+type: page
 author:
  - first_name: Ayala
    last_name: Lester

@@ -1,7 +1,7 @@
 ---
 title: More Than Holes!
 subtitle: An Unconventional Perspective of the “Greek Revolution” in Bronze Statuary
-layout: page
+type: page
 author:
  - first_name: Gianfranco
    last_name: Adornato

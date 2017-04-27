@@ -1,6 +1,6 @@
 ---
 title: The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief
-layout: page
+type: page
 author:
  - first_name: Patricia A.
    last_name: Butz

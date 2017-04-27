@@ -1,7 +1,7 @@
 ---
 title: Toward the Derveni Krater
 subtitle: On the Rarity of Large Bronze Vessels of the Archaic and Classical Periods Bearing Large Figural Registers
-layout: page
+type: page
 author:
  - first_name: Jasper
    last_name: Gaunt

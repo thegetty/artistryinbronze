@@ -1,6 +1,6 @@
 ---
 title: The Hellenistic Heritage of Termez
-layout: page
+type: page
 author:
  - first_name: Djalalitdin
    last_name: Mirzaev

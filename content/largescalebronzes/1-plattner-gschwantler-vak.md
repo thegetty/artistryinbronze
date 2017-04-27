@@ -1,6 +1,6 @@
 ---
 title: The Bronze Athlete from Ephesos
-layout: page
+type: page
 author:
  - first_name: George A.
    last_name: Plattner

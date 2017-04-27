@@ -1,6 +1,6 @@
 ---
 title: The Bronze Statue of Germanicus from Ameria (Amelia)
-layout: page
+type: page
 author:
  - first_name: John
    last_name: Pollini

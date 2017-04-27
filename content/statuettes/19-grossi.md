@@ -1,7 +1,7 @@
 ---
 title: Through Celts and Romans
 subtitle: Technology and Symbolism of Bronze Enameled Roosters
-layout: page
+type: page
 author:
  - first_name: Federica
    last_name: Grossi

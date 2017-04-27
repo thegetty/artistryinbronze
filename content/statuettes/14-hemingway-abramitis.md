@@ -1,6 +1,6 @@
 ---
 title: The Use of Inlays in Early Greek Bronzes
-layout: page
+type: page
 author:
  - first_name: Séan
    last_name: Hemingway

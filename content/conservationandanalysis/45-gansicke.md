@@ -1,7 +1,7 @@
 ---
 title: The Auloi from Meroë
 subtitle: Preliminary Notes on the Conservation, Technical Examination, and Interpretation of a Cache of Ancient Musical Instruments
-layout: page
+type: page
 author:
  - first_name: Susanne
    last_name: Gänsicke

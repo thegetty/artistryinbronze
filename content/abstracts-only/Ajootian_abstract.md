@@ -1,6 +1,6 @@
 ---
 title: Praxiteles’ Bronze Sculpture at Delphi
-layout: page
+type: page
 author:
  - first_name: Aileen
    last_name: Ajootian

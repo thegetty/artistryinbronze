@@ -1,6 +1,6 @@
 ---
 title: Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces
-layout: page
+type: page
 author:
  - first_name: Annemarie
    last_name: Kaufmann-Heinimann

@@ -1,7 +1,7 @@
 ---
 title: Figures on Fire
 subtitle: New Approaches to the Understanding of Roman Lighting Devices in Bronze
-layout: page
+type: page
 author:
  - first_name: Ruth
    last_name: Bielfeldt

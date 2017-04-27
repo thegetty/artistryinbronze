@@ -1,6 +1,6 @@
 ---
 title: The Gréau Mirror and the Phenomenon of Fakes in Nineteenth-Century Paris
-layout: page
+type: page
 author:
  - first_name: Mireille M.
    last_name: Lee

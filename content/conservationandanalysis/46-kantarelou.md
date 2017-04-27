@@ -1,6 +1,6 @@
 ---
 title: A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria
-layout: page
+type: page
 author:
  - first_name: V.
    last_name: Kantarelou

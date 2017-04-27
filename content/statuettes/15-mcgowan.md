@@ -1,7 +1,7 @@
 ---
 title: The Poet as Artisan
 subtitle: A Hellenistic Bronze Statuette in the Metropolitan Museum of Art
-layout: page
+type: page
 author:
  - first_name: Elizabeth
    last_name: McGowan

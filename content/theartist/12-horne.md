@@ -1,7 +1,7 @@
 ---
 title: Mobility and Migration
 subtitle: Issues Concerning Itinerant Sculptors
-layout: page
+type: page
 author:
  - first_name: Martin
    last_name: Horne

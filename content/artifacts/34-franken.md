@@ -1,7 +1,7 @@
 ---
 title: Roman Silhouette Figures
 subtitle: A Contribution to Music Archaeology?
-layout: page
+type: page
 author:
  - first_name: Norbert
    last_name: Franken

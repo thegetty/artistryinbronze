@@ -1,7 +1,7 @@
 ---
 title: The Cleveland *Apollo*
 subtitle: Recent Research and Revelations
-layout: page
+type: page
 author:
  - first_name: Colleen
    last_name: Snyder

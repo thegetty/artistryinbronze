@@ -1,6 +1,6 @@
 ---
 title: Was the Colossus of Rhodes Cast in Courses or in Large Sections?
-layout: page
+type: page
 author:
  - first_name: Ursula
    last_name: Vedder

@@ -1,7 +1,7 @@
 ---
 title: Investigating Ancient “Bronzes”
 subtitle: Non-Destructive Analysis of Copper-Based Alloys
-layout: page
+type: page
 author:
  - first_name: Robert H.
    last_name: Tykot

@@ -1,6 +1,6 @@
 ---
 title: An Anthropomorphic Vessel in the National Museum of Beirut
-layout: page
+type: page
 author:
  - first_name: Zeina
    last_name: Fani

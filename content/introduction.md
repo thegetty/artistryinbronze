@@ -1,6 +1,6 @@
 ---
 title: Introduction
-layout: page
+type: page
 author:
  - first_name: Jens
    last_name: Daehner

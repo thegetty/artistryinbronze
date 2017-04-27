@@ -1,7 +1,7 @@
 ---
 title: Apoxyomenos
 subtitle: Discovery, Underwater Excavation, and Survey
-layout: page
+type: page
 author:
  - first_name: Jasen
    last_name: Mesić

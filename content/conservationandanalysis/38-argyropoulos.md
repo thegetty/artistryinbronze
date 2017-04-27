@@ -1,6 +1,6 @@
 ---
 title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas
-layout: page
+type: page
 author:
  - first_name: Vasilike
    last_name: Argyropoulos

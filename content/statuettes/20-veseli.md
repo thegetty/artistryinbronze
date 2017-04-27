@@ -1,7 +1,7 @@
 ---
 title: Representations of Zeus/Jupiter in the Small-Scale Bronze
 subtitle: Sculptures of Albania
-layout: page
+type: page
 author:
  - first_name: Sabina
    last_name: Veseli

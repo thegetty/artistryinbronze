@@ -1,7 +1,7 @@
 ---
 title: Bronze Vessels and Related *Instrumenta* at Delphi
 subtitle: Remarks on Morphology, Provenance, and Chronology
-layout: page
+type: page
 author:
  - first_name: Valeria
    last_name: Meirano

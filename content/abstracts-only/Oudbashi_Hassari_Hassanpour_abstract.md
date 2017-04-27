@@ -1,6 +1,6 @@
 ---
 title: Technical Examinations on the Parthian Bronze Coffin from Chubtarash Archaeological Site, Khorramabad, Western Iran
-layout: page
+type: page
 author:
  - first_name: Omid
    last_name: Oudbashi

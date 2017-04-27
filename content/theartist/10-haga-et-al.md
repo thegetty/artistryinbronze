@@ -1,7 +1,7 @@
 ---
 title: Polykleitos at Work
 subtitle: How the Doryphoros Was Used
-layout: page
+type: page
 author:
  - first_name: Kyoko
    last_name: Sengoku-Haga

@@ -1,7 +1,7 @@
 ---
 title: Sustainable Conservation of Bronze Artworks
 subtitle: Advanced Research in Materials Science
-layout: page
+type: page
 author:
  - first_name: Maria Pia
    last_name: Casaletto

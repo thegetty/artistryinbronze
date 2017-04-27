@@ -1,7 +1,7 @@
 ---
 title: The Material Interpretation of Ancient Large Bronzes
 subtitle: The Case of the Florentine Masterpieces
-layout: page
+type: page
 author:
  - first_name: Salvatore
    last_name: Siano

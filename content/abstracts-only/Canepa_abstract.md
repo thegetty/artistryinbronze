@@ -1,6 +1,6 @@
 ---
 title: The Transformation of Bronze Sculpture in the Hellenistic East and the Iranian World
-layout: page
+type: page
 author:
  - first_name: Matthew P.
    last_name: Canepa

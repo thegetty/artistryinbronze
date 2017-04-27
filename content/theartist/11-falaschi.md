@@ -1,7 +1,7 @@
 ---
 title: Looking at the Bronze of Lost Sculptures
 subtitle: The Reception of the Delphic Monument of the Admirals in the Imperial Age
-layout: page
+type: page
 author:
  - first_name: Eva
    last_name: Falaschi
