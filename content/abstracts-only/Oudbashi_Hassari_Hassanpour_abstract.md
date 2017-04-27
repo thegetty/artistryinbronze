@@ -17,5 +17,5 @@ abstract: >
   To identify the manufacturing process of the coffin, a technical examination was performed by visual examination, SEM-EDS analysis, and optical microscopy (metallography).
 
   The results showed that the coffin’s body is made of binary copper-tin (bronze) alloy. Other elements such as arsenic, lead, zinc, and nickel are detected as minor/trace elements. The handles also are made of tin bronze alloy, but with a different amount of tin. The observations and microstructural examination of samples revealed that the tub-like body of the coffin was manufactured in one piece, and a cycle of mechanical working and heat treatment was applied in order to shape the coffin. The bronze handles were made by casting, and some work was done on them to finish the final shape. The technical examinations on this individual bronze coffin from Iran illuminated some aspects of archaeometallurgical activities in the Parthian period of Iran.
-sort_order:
+weight:
 ---

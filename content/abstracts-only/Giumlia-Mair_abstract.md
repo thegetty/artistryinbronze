@@ -12,5 +12,5 @@ abstract: >
   The discovery of modern fakes or forgeries (i.e., fraudulently altered ancient pieces) is a very different matter. Unrecognized fakes mar our perception of antiquity and must be identified and removed from the cases of our museums.
 
   Identification studies of fakes are just as different and variable as the multitude of objects that come under our eyes while studying museum collections. In this paper, some of the most skillful ways of ageing freshly made objects, for example by applying some kind of a fake patina, are presented; “wrong” technical details are described; and several examples of ancient and modern fakes are discussed by highlighting their peculiarities.
-sort_order:
+weight:
 ---

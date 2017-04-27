@@ -20,5 +20,5 @@ abstract: >
   The chariot has the Roman suspension system. It is lavishly engraved with floral decoration made of inlaid brass and presents a work of art with high artistic value. The finds are dated to the first century AD (by radiocarbon method) and may be associated with the burial of a person of high social status.
 
   The remains of the chariot were restored in the Conservation Department of the National Museum in Belgrade, and a reconstruction model of this unique ancient chariot was simultaneously built.
-sort_order:
+weight:
 ---

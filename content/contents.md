@@ -10,13 +10,13 @@ type: frontmatter
 - [Foreword]({{< ref "foreword.md" >}})
 - [Introduction]({{< ref "introduction.md" >}})
 
-1. [Large-Scale Bronzes]({{< ref "/largescalebronzes/" >}})
-2. [The Artist]({{< ref "/theartist/" >}})
-3. [Statuettes]({{< ref "/statuettes/" >}})
-4. [The Hellenistic East]({{< ref "/helenisticeast/" >}})
-5. [Vessels]({{< ref "/vessels/" >}})
-6. [Artifacts]({{< ref "/artifacts/" >}})
-7. [Conservation and Analysis]({{< ref "/conservationandanalysis/" >}})
+1. [Large-Scale Bronzes](/largescalebronzes/)
+2. [The Artist](/theartist/)
+3. [Statuettes](/statuettes/)
+4. [The Hellenistic East](/helenisticeast/)
+5. [Vessels](/vessels/)
+6. [Artifacts](/artifacts/)
+7. [Conservation and Analysis](/conservationandanalysis/)
 
 - [About]({{< ref "about.md" >}})
 

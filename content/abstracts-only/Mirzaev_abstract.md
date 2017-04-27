@@ -11,5 +11,5 @@ abstract: >
   Analysis of materials from monuments in the region allows us to associate them directly with events that followed the campaign of Alexander the Great and colonization activities of the Greek settlers, who brought to the territory of Central Asia completely new elements of Greek culture. However, the Greeks borrowed a lot of local technologies and practices to adapt to the particularities of nature, climate, and population, which resulted in a transformation. For example in sculpture, technological development was associated with a limited number of materials using local stone types, although preference was given to clay.
 
   The development of technology for clay sculptures on the basis of ancient, preexisting traditions received a powerful boost from the emergence of a new genre of art—painted clay sculptures—the style and iconography of which remained Greek. Thus, the composition of the products of Bactria in the third to first centuries BC in general corresponds to that in the Greek cities; the emergence of a variety of styles testifies to the intense processing of the imported traditions.
-sort_order:
+weight:
 ---

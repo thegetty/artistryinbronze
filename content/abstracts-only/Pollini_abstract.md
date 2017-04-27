@@ -11,7 +11,7 @@ abstract: >
   Because of its seemingly odd subject matter for a Roman sculpture, the principal interpretation of this statue, in a 2008 monograph by G. Rocco, is that it originally represented King Mithridates VI, who saw himself as a new Achilles in his war against Rome. The depiction of the defeat of Troilos would have served as a reference to Mithridates’ victory over Rome, which traced its origins back to Troy. In the end, Mithridates was himself defeated by Sulla, who, according to Rocco, then brought the statue back to Rome, where its head was first replaced with a portrait of Sulla and eventually with one of Germanicus.
 
   I argue, however, that the portrait of Germanicus was either integral to the original composition or was substituted for the head of his son Caligula after Caligula’s assassination and damnation. My interpretation is based on the decorative motifs of the armor, which go back to Hellenistic models but are also found in Roman art, as well as technical considerations and a very different interpretation of the meaning of the defeat of Troilos.[^1]
-sort_order:
+weight:
 ---
 
 [^1]: The full article based on this abstract will appear in *AJA* 121.3
