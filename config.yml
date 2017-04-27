@@ -35,12 +35,6 @@ menu:
     - Name: "Contents"
       URL: "/contents/"
       weight: 1
-    - Name: "Catalogue"
-      URL: "/catalogue/"
-      weight: 2
-    - Name: "Bibliography"
-      URL: "/bibliography/"
-      weight: 3
     - Name: "About"
       URL: "/about/"
-      weight: 4
+      weight: 2
