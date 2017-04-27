@@ -6,17 +6,8 @@ author:
  - first_name: Norbert
    last_name: Franken
    affiliation: Corpus Vasorum, Bayerische Akademie der Wissenschaften, Berlin
-abstract: This paper is the first overall study of Roman silhouette figures cut
-out of bronze sheets. The silhouette-shaped figures are mostly reduced
-to their outlines and show chiseled or engraved detail drawings. Though
-the figures have a wide distribution throughout the ancient world, they
-remain extraordinarily rare. The silhouettes tend to represent deities,
-particularly figures from the Apollonian entourage. Although most of
-these figures are now deprived of their contexts, a distinct emphasis on
-music and dance scenes can clearly be observed. Taking technical
-characteristics as well as information on find contexts into
-consideration, the author proposes that the silhouette figures were
-originally used as inlays for wooden musical instruments and furniture.
+abstract: >
+  This paper is the first overall study of Roman silhouette figures cut out of bronze sheets. The silhouette-shaped figures are mostly reduced to their outlines and show chiseled or engraved detail drawings. Though the figures have a wide distribution throughout the ancient world, they remain extraordinarily rare. The silhouettes tend to represent deities, particularly figures from the Apollonian entourage. Although most of these figures are now deprived of their contexts, a distinct emphasis on music and dance scenes can clearly be observed. Taking technical characteristics as well as information on find contexts into consideration, the author proposes that the silhouette figures were originally used as inlays for wooden musical instruments and furniture.
 sort_order: 38
 ---
 

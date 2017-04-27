@@ -5,7 +5,8 @@ author:
  - first_name: Despina
    last_name: Ignatiadou
    affiliation: National Archaeological Museum, Athens
-abstract: *Parexodos* is the name ascribed in the Hippocratic Corpus to the portable medical case that every doctor should own to facilitate work outside his premises. In Macedonia, older and recent finds illuminate an important production of medical and writing cases of the Classical and Hellenistic periods. The cases are either single- or multi-compartment constructions, made of bronze sheet. Type A cases are Late Classical and they consist of two lidded semi-cylindrical parts, hinged lengthwise to form a cylinder. Type B cases are Late Classical or Early Hellenistic semi-cylindrical cases with a lid and/or a flat top sheet, perforated to give inside access. The cases have been unearthed in elite male burials, most of them of warriors with cultic and healing duties.
+abstract: >
+  *Parexodos* is the name ascribed in the Hippocratic Corpus to the portable medical case that every doctor should own to facilitate work outside his premises. In Macedonia, older and recent finds illuminate an important production of medical and writing cases of the Classical and Hellenistic periods. The cases are either single- or multi-compartment constructions, made of bronze sheet. Type A cases are Late Classical and they consist of two lidded semi-cylindrical parts, hinged lengthwise to form a cylinder. Type B cases are Late Classical or Early Hellenistic semi-cylindrical cases with a lid and/or a flat top sheet, perforated to give inside access. The cases have been unearthed in elite male burials, most of them of warriors with cultic and healing duties.
 sort_order: 31
 ---
 
