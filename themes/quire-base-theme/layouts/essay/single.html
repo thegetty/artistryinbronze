@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="quire-page">
-  <h1 class="quire-page__title"><span class="quire-page__number">{{ with .Params.number }}{{ . }}. {{ end }}</span> {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</h1>
+  <h1 class="quire-page__title"><span class="quire-page__number">{{ with .Params.id }}{{ . }}. {{ end }}</span> {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</h1>
   <ul class="quire-page__author">
   {{ range .Params.author }}
   <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
