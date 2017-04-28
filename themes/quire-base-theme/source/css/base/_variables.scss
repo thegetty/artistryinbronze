@@ -1,0 +1,83 @@
+// Breakpoints
+$medium-screen: 600px !default;
+$large-screen: 900px !default;
+$small-screen: new-breakpoint(max-width $medium-screen 12) !default;
+$medium-screen-up: new-breakpoint(min-width $medium-screen 12) !default;
+$large-screen-up: new-breakpoint(min-width $large-screen 12) !default;
+
+// Typography
+$base-font-family: 'Merriweather', serif !default;
+$heading-font-family: 'Lato', sans-serif !default;
+$modular-scale-ratio: $major-third !default;
+
+$bourbon:("modular-scale-ratio": $modular-scale-ratio);
+
+// Font Sizes
+$base-font-size: 1em !default;
+
+// Line height
+$base-line-height: 1.6 !default;
+$heading-line-height: 1.2 !default;
+
+// Other Sizes
+$base-border-radius: 3px !default;
+$base-spacing: $base-line-height * 1em !default;
+$small-spacing: $base-spacing / 2 !default;
+$base-z-index: 0 !default;
+
+// Colors
+$blue: #1565c0 !default;
+$dark-gray: #333 !default;
+$medium-gray: #999 !default;
+$light-gray: #ddd !default;
+
+// Font Colors
+$base-font-color: $dark-gray !default;
+$action-color: $blue !default;
+
+// Border
+$base-border-color: $light-gray !default;
+$base-border: 1px solid $base-border-color !default;
+
+// Background Colors
+$base-background-color: #fff !default;
+$secondary-background-color: tint($base-border-color, 75%) !default;
+
+// Forms
+$form-box-shadow: inset 0 1px 3px rgba(#000, 0.06) !default;
+$form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3) !default;
+
+// Animations
+$base-duration: 150ms !default;
+$base-timing: ease !default;
+
+// z-index
+$z-index-1: 100;
+$z-index-2: 200;
+$z-index-3: 300;
+$z-index-4: 400;
+$z-index-5: 500;
+$z-index-6: 600;
+$z-index-7: 700;
+$z-index-8: 800;
+$z-index-9: 900;
+$z-index-10: 1000;
+
+// Leaflet UI elements have a z-index of 1000; use this for things that need
+// to appear above them (sidebar menu, search results, etc)
+$z-index-11: 1100;
+$z-index-12: 1200;
+$z-index-13: 1300;
+$z-index-14: 1400;
+
+// Components
+$navbar-bg-color: #fff !default;
+$navbar-border: $base-border !default;
+$navbar-height: 60px !default;
+$navbar-icon-size: 24px !default;
+$navbar-z-index: $z-index-13 !default;
+
+$curtain-bg-color: rgba(0, 0, 0, 1) !default;
+$nav-menu-width: 20rem !default;
+$nav-menu-bg-color: $dark-gray !default;
+

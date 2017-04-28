@@ -1,0 +1,12 @@
+<div class="quire-cover">
+  <div class="quire-cover__inner">
+    {{ if .Site.Data.book }}
+      <h1 class="quire-cover__title">{{ .Site.Data.book.title.short }}</h1>
+      {{ with .Site.Data.book.title.subtitle }}
+      <h2 class="quire-cover__subtitle">{{ . }}</h2>
+      {{ end }}
+    {{ else }}
+      <h1 class="quire-cover__title">{{ .Site.Title }}</h1>
+    {{ end }}
+  </div>
+</div>

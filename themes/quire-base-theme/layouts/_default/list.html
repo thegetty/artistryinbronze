@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="quire-page">
+  <h1 class="quire-page__title">{{ .Title }}</h1>
+  <div class="quire-page__content">
+    <!-- {{ .Content }} -->
+    <ul id="list">
+        {{ range .Pages }}
+            {{ .Render "li"}}
+        {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}

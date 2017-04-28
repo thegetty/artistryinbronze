@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+{{ partial "search-results.html" . }}
+{{ partial "menu.html" . }}
+<main id="main-content">
+{{ block "main" . }}
+{{ end }}
+</main>
+{{ partial "footer.html" . }}

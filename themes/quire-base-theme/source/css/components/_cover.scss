@@ -1,0 +1,73 @@
+$gr-start: hsla(0, 0%, 0%, 0);
+$gr-stop: hsla(0, 0%, 0%, 0.9);
+
+$cover-title-base-scale: 3 !default;
+$cover-subtitle-base-scale: 0 !default;
+
+.quire-cover {
+  background-image: url("../img/cover_bg.jpg");
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  height: 100vh;
+  justify-content: flex-end;
+
+  @media print {
+    height: ($print-height + ($print-bleed * 2));
+    left: -($print-bleed);
+    page: bleed;
+    position: absolute;
+    top: -($print-bleed);
+    width: ($print-width + ($print-bleed * 2));
+  }
+
+  &__inner {
+    background-image: linear-gradient($gr-start 0%, $gr-stop 100%);
+    display: flex;
+    flex-direction: column;
+    height: 30vh;
+    justify-content: center;
+
+    @media print {
+      background: none;
+      margin-top: 7in;
+    }
+  }
+
+  &__title {
+    @extend %cover-text-style;
+    font-size: modular-scale($cover-title-base-scale);
+    margin-bottom: 0;
+    text-align: center;
+
+    @include media($medium-screen-up) {
+      font-size: modular-scale($cover-title-base-scale + 2);
+    }
+
+    @include media($large-screen-up) {
+      font-size: modular-scale($cover-title-base-scale + 4);
+    }
+
+    @media print {
+      font-size: 36pt;
+      filter: drop-shadow(5px 5px 8px rgba(0, 0, 0, 0.5))
+    }
+  }
+
+  &__subtitle {
+    @extend %cover-text-style;
+    font-size: modular-scale($cover-subtitle-base-scale);
+    margin-top: 0.25rem;
+    text-align: center;
+
+    @include media($medium-screen-up) {
+      font-size: modular-scale($cover-subtitle-base-scale + 1);
+    }
+
+    @include media($large-screen-up) {
+      font-size: modular-scale($cover-subtitle-base-scale + 2);
+    }
+  }
+}

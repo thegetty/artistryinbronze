@@ -1,0 +1,39 @@
+<div id="js-menu" class="quire-menu">
+  <div class="quire-menu__mobile-close">
+    <a id="js-menu-close" href="javascript:void(0);">
+      <i class="quire-menu__mobile-close__button"></i>
+    </a>
+  </div>
+  <div class="quire-menu__header">
+    <h2 class="quire-menu__header__title">{{ .Site.Data.book.title.main }}</h2>
+    <h3 class="quire-menu__header__subtitle">{{ .Site.Data.book.title.subtitle }}</h3>
+  </div>
+
+  <ul class="quire-menu__contents">
+    {{ range .Site.Menus.main }}
+    <li class="quire-menu__contents__item"><a href="{{ .URL }}">{{ .Name }}</a></li>
+    {{ end }}
+  </ul>
+
+  <div class="quire-menu__downloads js-menu-section">
+    <h4 class="quire-menu__section-heading">
+      <a class="js-section-trigger" href="javascript:void(0);">Downloads</a>
+    </h4>
+    <div class="quire-menu__downloads__inner js-menu-section-inner">
+      Downloads info goes here.
+    </div>
+  </div>
+
+  <div class="quire-menu__cite js-menu-section">
+    <h4 class="quire-menu__section-heading">
+      <a class="js-section-trigger" href="javascript:void(0);">Cite this Page</a>
+    </h4>
+    <div class="quire-menu__cite__inner js-menu-section-inner">
+      Cite info goes here.
+    </div>
+  </div>
+
+  <div class="quire-menu__footer">
+    <p>{{ .Site.Data.book.rights }}</p>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+// The variables in this file are provided to allow for easy customization
+// of the site styles. Values provided here will override the defaults that
+// are specified in other places (like base/_variables.scss).
+
+// Typography //////////////////////////////////////////////////////////////////
+
+// Fonts -----------------------------------------------------------------------
+// Use these variables to control the basic typographic settings for the site.
+// $base-font-family controls body text; $heading-font-family controls headings
+// as well as some interface elements (the navbar text, for example).
+//
+$base-font-family: 'Merriweather', serif;
+$heading-font-family: 'Lato', sans-serif;
+
+// Line height -----------------------------------------------------------------
+$base-line-height: 1.6;
+$heading-line-height: 1.2;
+
+// Modular Scale ---------------------------------------------------------------
+// If type sizes seem strange after changing fonts above, try using a different
+// value for this variable. There are several predefined variables available
+// which represent commonly-used scales; any number works as well.
+// https://github.com/thoughtbot/bourbon/blob/master/core/bourbon/helpers/_scales.scss
+//
+$modular-scale-ratio: $major-third;
+
+// Component Font Sizes --------------------------------------------------------
+// Use these variables to control the relative font size for specific components.
+// Values must be integers.
+//
+$cover-title-base-scale:    3;
+$cover-subtitle-base-scale: 1;
+$page-title-base-scale:     3;
+$page-body-text-base-scale: 0;
+
+// Colors /////////////////////////////////////////////////////////////////////
+
+$blue: #1565c0;
+$dark-gray: #333;
+$medium-gray: #999;
+$light-gray: #ddd;
+
+
+// Navigation /////////////////////////////////////////////////////////////////
+
+$nav-menu-bg-color: $dark-gray;
+$nav-menu-text-color: shade(#fff, 5%);
+$nav-menu-width: 20rem;
+$curtain-bg-color: rgba(0, 0, 0, 1);

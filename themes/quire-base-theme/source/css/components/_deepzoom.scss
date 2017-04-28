@@ -1,0 +1,16 @@
+.quire-deepzoom {
+  background-color: $dark-gray;
+  height: 400px;
+  width: 100%;
+
+  @include media($medium-screen-up) { height: 600px; }
+  @include media($large-screen-up) { height: 800px; }
+
+  &.inset {
+    height: 500px;
+  }
+
+  @media print {
+    column-span: all;
+  }
+}

@@ -1,0 +1,6 @@
+{{ $cat := .Params.cat }}
+  {{ range .Site.Data.catalogue }}
+  {{ if eq .cat $cat }}
+    <div class="quire-deepzoom" data-cat={{$cat}}></div>
+  {{ end }}
+{{ end }}

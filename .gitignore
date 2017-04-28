@@ -1,5 +1,6 @@
-/themes
 /node_modules
 .DS_Store
+/themes/quire-base-theme/static
+/themes/quire-base-theme/node_modules
 
 README.md

@@ -1,0 +1,15 @@
+.quire-figure {
+  font-size: modular-scale(-2);
+  margin-bottom: $base-spacing;
+  margin-top: $base-spacing;
+
+  figcaption {
+    margin-top: $small-spacing;
+    padding: 0 $base-spacing;
+  }
+
+  @media print {
+    column-span: all;
+    page-break-inside: avoid;
+  }
+}

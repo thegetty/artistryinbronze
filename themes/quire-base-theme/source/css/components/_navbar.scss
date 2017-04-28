@@ -1,0 +1,159 @@
+.quire-navbar {
+  background-color: $navbar-bg-color;
+  border-bottom: $navbar-border;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  font-family: $heading-font-family;
+  font-weight: normal;
+  height: $navbar-height;
+  justify-content: space-between;
+  line-height: $navbar-height;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: $navbar-z-index;
+
+  @media print { display: none; }
+
+  // Left nav section
+  //------------------------------
+  &__left {
+    flex: 1;
+    padding-left: $base-spacing;
+
+    &__skip-link {
+      background-color: $base-background-color;
+      border-bottom: $base-border;
+      border-right: $base-border;
+      left: 0;
+      opacity: 0;
+      padding: 0 $small-spacing;
+      position: absolute;
+      z-index: -9999;
+
+      &:focus {
+        opacity: 1;
+        z-index: $navbar-z-index;
+      }
+    }
+  }
+
+  // Center nav section (main area)
+  //------------------------------
+  &__center {
+    display: flex;
+    flex: 3 0 auto;
+    justify-content: center;
+    text-align: center;
+
+    &__info {
+      margin: 0 $base-spacing;
+      text-align: center;
+    }
+  }
+
+  // Right nav section
+  //------------------------------
+  &__right {
+    flex: 1;
+    padding-right: $base-spacing;
+    text-align: right;
+  }
+
+  // Links to next/prev chapters
+  //------------------------------
+  &__prev-link,
+  &__next-link {
+    @extend .mobile-hide;
+    font-size: $navbar-icon-size * 0.75;
+  }
+
+  &__prev-link {
+    @extend .ion-chevron-left;
+  }
+
+  &__next-link {
+    @extend .ion-chevron-right;
+  }
+
+  // Navigational elements
+  //------------------------------
+  &__breadcrumb {
+    @extend .ion-android-arrow-dropright;
+    @extend .mobile-hide;
+    margin: 0 $small-spacing;
+  }
+
+  &__page-title {
+    @extend .mobile-hide;
+  }
+
+  &__search-icon {
+    @extend .ion-search;
+    font-size: $navbar-icon-size;
+  }
+
+  &__search-close-icon {
+    @extend .ion-android-close;
+    font-size: $navbar-icon-size;
+  }
+
+  &__menu-icon {
+    @extend .ion-navicon;
+    font-size: $navbar-icon-size * 1.5;
+  }
+
+  // Base search styles (not counting show/hide rules)
+  // These default to invisible and appear when the js-search-active class is
+  // applied to their parent
+  &__search-input {
+    display: none;
+    flex: 24;
+    padding-top: 10px;
+
+    input {
+      appearance: none;
+      background-color: $light-gray;
+      border: 0;
+      box-shadow: none;
+      color: $dark-gray;
+      font-family: $heading-font-family;
+      outline: none;
+      width: 100%;
+
+      &:focus {
+        border: 0;
+        box-shadow: none;
+      }
+    }
+  }
+
+  &__search-close {
+    display: none;
+    flex: 1;
+    padding-right: $base-spacing;
+    text-align: right;
+  }
+}
+
+// Changes when the navbar gets the js-search-active class applied
+.js-search-active {
+  align-items: flex-start;
+  background-color: $light-gray;
+  border-bottom: solid 1px darken($light-gray, 10%);
+  color: $dark-gray;
+
+  .quire-navbar {
+    &__center,
+    &__right {
+      display: none;
+    }
+
+    &__search-input,
+    &__search-close {
+      display: block;
+    }
+  }
+}
+

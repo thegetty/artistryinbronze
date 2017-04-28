@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+<main id="main-content">
+{{- $pages := where .Site.Pages "Type" "eq" "page" -}}
+{{ range where $pages "Params.pdf" "!=" "false"  }}
+  <div class="quire-page">
+    <h1 class="quire-page__title">{{ .Title }}</h1>
+    <div class="quire-page__content">
+      {{ .Content }}
+    </div>
+  </div>
+{{ end }}
+</main>
+{{ partial "footer.html" . }}
