@@ -31,9 +31,15 @@
         {{ end }}
       </a>
     </li>
-    <li>
+    <li class="quire-nav__section-link">
+      <a href="/{{ .Section }}/">
+        <span class="visually-hidden">Section: </span>
+        {{ .Section | humanize | title }}
+      </a>
+    </li>
+    <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
-      {{ .Title }}
+      <em>{{ .Title }}</em>
     </li>
     {{ end }}
 

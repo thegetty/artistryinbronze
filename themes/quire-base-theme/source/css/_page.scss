@@ -1,108 +1,84 @@
-$page-body-text-base-scale: 0 !default;
-$page-title-base-scale: 3 !default;
-
 .quire-page {
-  @include outer-container;
-
-  @media print {
-    page: footer;
-    page-break-before: always;
-  }
-
-  @include media($small-screen) {
-    padding-left: $small-spacing;
-    padding-right: $small-spacing;
-  }
-
-  &__title {
-    @extend %heading-text-style;
-    font-size: modular-scale($page-title-base-scale);
-    margin: 0 auto;
-    margin-top: $navbar-height;
-    padding-bottom: $small-spacing;
-    padding-top: $small-spacing;
-    text-align: center;
-
-    @include media($medium-screen-up) {
-      font-size: modular-scale($page-title-base-scale + 1);
-      max-width: 70%;
-    }
-
-    @include media($large-screen-up) {
-      font-size: modular-scale($page-title-base-scale + 2);
-      max-width: 60%;
-    }
-  }
+  margin-bottom: $base-spacing * 10;
 
   &__content {
-    // @extend %indented-paragraph-text;
-    font-size: modular-scale($page-body-text-base-scale);
-    margin-bottom: $base-spacing;
-    position: relative;
 
-    p {
-      text-indent: $base-spacing;
-      margin-bottom: 0;
-    }
-
-    h2 + p {
-      text-indent: 0;
-    }
-
-    .footnotes {
-      font-size: modular-scale(-2);
-      @media print { padding-top: 0.125in; }
-      ol {
-        padding-left: 0;
-      }
-      li > ol {
-        padding-left: 1em;
-      }
-      hr {
-        display: none;
-      }
-    }
-
-    table {
-      font-size: modular-scale(-1);
+    &__main {
       margin-bottom: $base-spacing;
+      p {
+        text-indent: $base-spacing;
+        margin-bottom: 0;
+      }
+      h2 + p,
+      h3 + p,
+      h4 + p,
+      h5 + p,
+      h6 + p, {
+        text-indent: 0;
+      }
+      .attribution {
+        font-style: italic;
+        margin-top: $base-spacing;
+        text-align: right;
+        margin-right: $base-spacing;
+      }
+      .footnotes {
+        font-size: $small-font-scale;
+        line-height: $small-font-line-height;
+        p {
+          text-indent: 0;
+          margin-bottom: $base-spacing * .25;
+        }
+        ol {
+          padding-left: 0;
+        }
+        li > ol {
+          padding-left: 1em;
+          li {
+            margin-bottom: 0;
+          }
+        }
+        li {
+          margin-bottom: $base-spacing * .5;
+        }
+        hr {
+          display: none;
+        }
+      }
+      table {
+        font-size: $small-font-scale;
+        line-height: $small-font-line-height;
+        width: calc(100% - (1rem * 2));
+        margin-left: 1rem;
+        margin-right: 1rem;
+        margin-bottom: $base-spacing * 2;
+      }
     }
 
-    &__references dt,
-    &__references dd {
-      font-size: modular-scale(-2);
+    &__references dt {
+      font-size: $small-font-scale;
+      line-height: $small-font-line-height;
+      font-weight: bold;
     }
 
     &__references dd {
-      margin-bottom: $small-spacing;
+      font-size: $small-font-scale;
+      line-height: $small-font-line-height;
+      margin-bottom: $base-spacing * .5;
+      margin-left: 0;
     }
 
     &__abstract {
-      font-size: 70%;
+      font-size: $small-font-scale;
+      line-height: $small-font-line-height;
     }
 
     &__abstract h2 {
-      font-size: 100%;
+      // font-size: 100%;
     }
 
-    // ol { @extend %default-ol; }
-    // ul { @extend %default-ul; }
 
-    @include media($medium-screen-up) {
-      @include span-columns(10 of 12);
-      @include shift(1);
-    }
 
-    @include media($large-screen-up) {
-      @include span-columns(8 of 12);
-      @include shift(2);
-      font-size: modular-scale($page-body-text-base-scale + 1);
-    }
-
-    @media print {
-      column-count: 2;
-      column-gap: 0.25in;
-      font-size: 10pt;
-    }
   }
+
 }

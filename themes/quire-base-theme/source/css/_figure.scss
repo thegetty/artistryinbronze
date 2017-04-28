@@ -1,5 +1,3 @@
-$base-spacing: 1rem;
-
 .q-figure {
   width: calc(100% - ($base-spacing * 6));
   margin-bottom: $base-spacing;
@@ -39,6 +37,9 @@ $base-spacing: 1rem;
     width: 100%;
   }
   figcaption {
+    font-size: $small-font-scale;
+    line-height: 1.3rem;
+    font-weight: 300;
     margin-top: $base-spacing * .5;
   }
 
