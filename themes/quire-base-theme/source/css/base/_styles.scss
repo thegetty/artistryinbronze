@@ -24,8 +24,15 @@
 }
 
 %indented-paragraph-text {
-  p + p {
+  p {
     text-indent: $base-spacing;
+  }
+
+  h1 + p,
+  h2 + p,
+  h3 + p,
+  h4 + p {
+    text-indent: 0;
   }
 
   p {

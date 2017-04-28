@@ -35,15 +35,54 @@ $page-title-base-scale: 3 !default;
   }
 
   &__content {
-    @extend %indented-paragraph-text;
+    // @extend %indented-paragraph-text;
     font-size: modular-scale($page-body-text-base-scale);
     margin-bottom: $base-spacing;
     position: relative;
 
+    p {
+      text-indent: $base-spacing;
+      margin-bottom: 0;
+    }
+
+    h2 + p {
+      text-indent: 0;
+    }
+
     .footnotes {
       font-size: modular-scale(-2);
       @media print { padding-top: 0.125in; }
-      ol { @extend %default-ol; }
+      ol {
+        padding-left: 0;
+      }
+      li > ol {
+        padding-left: 1em;
+      }
+      hr {
+        display: none;
+      }
+    }
+
+    table {
+      font-size: modular-scale(-1);
+      margin-bottom: $base-spacing;
+    }
+
+    &__references dt,
+    &__references dd {
+      font-size: modular-scale(-2);
+    }
+
+    &__references dd {
+      margin-bottom: $small-spacing;
+    }
+
+    &__abstract {
+      font-size: 70%;
+    }
+
+    &__abstract h2 {
+      font-size: 100%;
     }
 
     // ol { @extend %default-ol; }

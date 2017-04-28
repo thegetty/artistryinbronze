@@ -12,18 +12,20 @@ author:
  - first_name: Bettina
    last_name: Vak
    affiliation: Kunsthistorisches Museum, Vienna
-abstract: >
-  In the second year of Austrian excavation in Ephesos (1896), the fragments of the “Athlete of Ephesos” were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
+abstract: |
 
-  Due to an agreement between the Ottoman Sultan and the Austrian emperor, the statue and base was taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
+    In the second year of Austrian excavation in Ephesos (1896), the fragments of the “Athlete of Ephesos” were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
 
-  Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from late Classical/early Hellenistic period, from the third and second century BC, while others argue for a Roman work of eclecticism.
+    Due to an agreement between the Ottoman Sultan and the Austrian emperor, the statue and base was taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
 
-  Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
+    Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from late Classical/early Hellenistic period, from the third and second century BC, while others argue for a Roman work of eclecticism.
 
-  In the ensuing eight decades, sculptors undertook two major interventions. In 1951, the position of the right arm was corrected; and in 1977 a synthetic resin was added as a new filling material.
+    Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
 
-  To dispel lingering doubts concerning the stability and strength of the interior scaffold or the possibility of active corrosion on the original bronze fragments, the Kunsthistorisches Museum together with the Getty Museum undertook scientific investigations to characterize and evaluate the mortar chemically and structurally. A solid construction of aluminum square tubes with custom-fit interior design was developed for transport.
+    In the ensuing eight decades, sculptors undertook two major interventions. In 1951, the position of the right arm was corrected; and in 1977 a synthetic resin was added as a new filling material.
+
+    To dispel lingering doubts concerning the stability and strength of the interior scaffold or the possibility of active corrosion on the original bronze fragments, the Kunsthistorisches Museum together with the Getty Museum undertook scientific investigations to characterize and evaluate the mortar chemically and structurally. A solid construction of aluminum square tubes with custom-fit interior design was developed for transport.
+
 weight: 5
 ---
 

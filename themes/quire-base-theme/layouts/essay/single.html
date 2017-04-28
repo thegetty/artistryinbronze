@@ -6,20 +6,24 @@
   <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
   {{ end }}
   <div class="quire-page__content">
-    <section class="quire-page__abstract">
+    <section>
       <h2>Abstract</h2>
+      <div class="quire-page__content__abstract">
       {{ .Params.abstract | markdownify }}
+      </div>
     </section>
     {{ .Content }}
-    <section class="quire-page__references">
+    <section class="quire-page__content__references">
       <h2>Bibliography</h2>
-      {{- range .Site.Data.references.reference_list -}}
-      {{- $x := $.Params.id -}}
-      {{- if in .reference_for $x -}}
-      <dt>{{ .short }}</dt>
-      <dd>{{ .full | markdownify }}</dd>
-      {{- end -}}
-      {{- end -}}
+      <dl>
+        {{- range .Site.Data.references.reference_list -}}
+        {{- $x := $.Params.id -}}
+        {{- if in .reference_for $x -}}
+        <dt>{{ .short }}</dt>
+        <dd>{{ .full | markdownify }}</dd>
+        {{- end -}}
+        {{- end -}}
+      </dl>
     </section>
 </div>
 {{ end }}
