@@ -1,6 +1,7 @@
 ---
+id: "1"
 title: The Bronze Athlete from Ephesos
-type: page
+type: essay
 author:
  - first_name: George A.
    last_name: Plattner
@@ -196,211 +197,7 @@ In 2015, a three-dimensional model of the Athlete was generated to build the cus
 
 Bettina Vak wishes to give special thanks to Erik Risser for assistance and support in all respects as well as helping to install and de-install the fragile Athlete six times; and for designing and assembling the transport cage together with B J Farrar; to Rita Gomez for the control of vibration in the crate; to John Twilley for the extensive mortar analysis; to my colleagues Angelika Kathrein, Michael Loacker, Martina Griesser, and Václav Pitthard from the Kunsthistorisches Museum Vienna; and to the TÜV Austria for performing the X-radiography.
 
-## Bibliography
-
-Amelung \[1903\] 1956
-: Amelung, W. \[1903\] 1956. *Die Sculpturen des vaticanischen Museums*, vol. 1. Berlin: Kommission bei Georg Reimer.
-
-Anonymous 1895
-: Anonymous. 1895. “Patinierung der Wiener Bronzedenkmale.” *Monatsblatt des Altertumsvereins*, 172.
-
-Arnold 1969
-: Arnold, D. 1969. *Die Polykletnachfolge: Untersuchungen zur Kunst von Argos und Sikyon zwischen Polyklet und Lysipp*. JdI Ergh. 25. Berlin: de Gruyter.
-
-Bauer 1885
-: Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: Gedruckter Vortrag.
-
-Benndorf 1898
-: Benndorf, O. 1898. “Vorläufiger Bericht über die Ausgrabung in Ephesus I.” *ÖJh* 1, Beibl. 53–72.
-
-Benndorf 1906
-: Benndorf, O. 1906. “Erzstatue eines griechischen Athleten.” *Forschungen in Ephesos*, ed. O. Benndorf et al., 181–204. *FiE I*. Vienna: Hölder.
-
-Breicha 1977
-: Breicha, O., ed. 1977. *Wotruba: Figur als Widerstand: Bilder und Schriften zu Leben und Werk*. Salzburg: Verlag Galerie Welz.
-
-Charbonneaux 1941
-: Charbonneaux, J. 1941. “Statuette d’athlete au Musee du Louvre.” *MonPiot* 38: 40–54.
-
-Comstock and Vermeule 1976
-: Comstock, M. B., and C. C. Vermeule. 1976. *Sculpture in Stone: The Greek, Roman, and Etruscan Collections of the Museum of Fine Arts, Boston*. Boston: Museum of Fine Arts.
-
-Cumont 1913
-: Cumont, F. 1913. *Musée royaux du cinquantenaire: Catalogue des sculptures & inscriptions antiques (monuments lapidaires) des Musées Royaux du Cinquantenaire*. Bruxelles: Vromant.
-
-Daehner 2015
-: Daehner, J. 2015. “Statue of an Athlete.” In Daehner and Lapatin 2015, 271–81.
-
-Daehner and Lapatin 2015
-: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
-
-Dörig 1965
-: Dörig, J. 1965. “Ein Jugendwerk Lysipps.“ *AntPl* 4: 37–42.
-
-Eichler 1953
-: Eichler, F. 1953. “Die Bronzestatue aus Ephesos in verbesserter Wiederherstellung.” *JbKuHistSamml* 50: 15–22.
-
-Engelmann et al. 1980
-: Engelmann, H., D. Knibbe, and R. Merckelbach. 1980. *Inschriften von Ephesos IV*. Inschriften griechischer Städte aus Kleinasien 14. Bonn: Habelt.
-
-Frank 2007
-: Frank, A., ed. 2007. *Karl Nieschlag: Ein Künstler aus Floridsdorf*. Straßhof: vier-viertel-verlag.
-
-Friesinger and Krinzinger 1999
-: Friesinger, H., and F. Krinzinger, eds. *100 Jahre Österreichische Forschungen in Ephesos*. Vienna: Verlag der ÖAW.
-
-Fuchs \[1969\] 1993
-: Fuchs, W. \[1969\] 1993. *Skulptur der Griechen.* 4th ed. Munich: Hirmer.
-
-Furtwängler 1893
-: Furtwängler, A. 1893. *Meisterwerke der griechischen Plastik*. Leipzig and Berlin: Giesecke & Devrient.
-
-Furtwängler 1898
-: Furtwängler, A. 1898. “Römische Bronzen aus Deutschland.” *BJb* 103: 1–11.
-
-Gasparri 1980
-: Gasparri, C. 1980. *Materiali per servire allo studio del Museo Torlonia di scultura antica*. Memoria Lincei, ser. 8, 24: 33–238.
-
-Götze 1938
-: Götze, H. 1938. “Die attischen Dreifigurenreliefs.” *RM* 53: 189–280.
-
-Gschwantler 1995
-: Gschwantler, K. 1995. “Der Athlet von Ephesos: Ein Projekt zur Restaurierung und Konservierung der Bronzestatue.” *JbKHSWien* 91: 287–94.
-
-Gschwantler 2002
-: Gschwantler, K. 2002. “Der Schaber von Ephesos: Bronzeguss: Zerstörung und Rekonstruktion,” 506–508. In *Die griechische Klassik: Idee oder Wirklichkeit*. Exh cat. Berlin, Martin-Gropius-Bau; Bonn Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: von Zabern.
-
-Hartwig 1901
-: Hartwig, P. 1901. “Statuette eines Athleten im Museum in Boston.” *ÖJh* 4: 151–59.
-
-Hartwig 1903
-: Hartwig, P. “Ein Terracottafries des Octavius mit Athletenstatuen.” *ÖJh* 6: 16–31.
-
-Hauser 1902
-: Hauser, F. 1902. “Eine Vermutung über die Bronzestatue aus Ephesos.” *ÖJh* 5: 214–16.
-
-Heberdey 1919
-: Heberdey, R. 1919. “Zur ephesischen Athletenbronze.” *ÖJh* 19/20: 247–52.
-
-Johnson 1927
-: Johnson, F. P. 1927. *Lysippos*. Durham: Duke University Press.
-
-Koller 2009
-: Koller, M. 2009. “Zur Geschichte und Gegenwart der Metallrestaurierung in Österreich.” In *Metallkonservierung, Metallrestaurierung: Geschichte, Methode, Praxis: Sammelband anlässlich der Fachtagung "Metallrestaurierung-Metallkonservierung" der Universität für Angewandte Kunst Wien, 2007*, ed. M. Griesser-Stermscheg and G. Krist, 25–56. Vienna: Böhlau.
-
-Ladstätter 2002
-: Ladstätter, S. 2002. “Die Chronologie des Hanghauses 2.” In *Das Hanghaus 2 von Ephesos: Studien zu Baugeschichte und Chronologie*, ed. F. Krinzinger, 9–40. Vienna: Verlag der ÖAW.
-
-Lattimore 1972
-: Lattimore, S. 1972. “The Bronze Apoxyomenos from Ephesos.“ *AJA* 76: 13–16.
-
-Linfert 1966
-: Linfert, A. 1966. *Von Polyklet zu Lysipp: Polyklets Schule und ihr Verhältnis zu Skopas von Paros*. Giessen: Chemaoprint.
-
-Linfert 1990
-: Linfert, A. 1990. “Die Schule des Polyklet.” In *Polyklet: Der Bildhauer der griechischen Klassi, Frankfurt am Main 17.10.1990–20.1.1991*, ed. H. Beck, P. C. Bol, and M. Bückling, 278–81. Mainz am Rhein: von Zabern.
-
-Lippold 1950
-: Lippold, G. 1950. *Die griechische Plastik*. Handbuch der Archäologie 5. Munich: Beck.
-
-Liverani 1989
-: Liverani, P. 1989. *L'Antiquarium di Villa Barberini a Castel Gandolfo*. Città del Vaticano: Libreria archeologico.
-
-Mansuelli 1958
-: Mansuelli, G. A. 1958. *Galleria degli Uffizi: Le sculture*, vol. 1. Rome: Ist. Poligrafico dello Stato, Libr. dello Stato.
-
-Mattusch 2015
-: Mattusch, C. C. 2015. “Repeated Images: Beauty with Economy.” In Daehner and Lapatin 2015, 123–24.
-
-Michelucci 2006
-: Michelucci, M. 2006. *Apoxyomenos: The Athlete of Croatia*. Florence and Milan: Giunti.
-
-Moser von Filseck 1988
-: Moser von Filseck, K. 1988. *Der Apoxyomenos des Lysipp* *und das Phänomen von Zeit und Raum in der Plastik des 5. und 4. Jhs. v. Chr.* Bonn: Habelt.
-
-Moser von Filseck 1990
-: Moser von Filseck, K. 1990. “Noch einmal zum Strigilisreiniger Ephesos – Wien. Klassik oder Klasszisimus?” *ÖJh* 60: 1–5.
-
-Natterer 1900
-: Natterer, K. 1900. “Über Bronzen aus Ephesus.” *Sitzungsberichte der kaiserlichen Akademie der Wissenschaften*, 256–62.
-
-Neudecker 1988
-: Neudecker, R. 1988. *Die Skulpturen-Ausstattung römischer Villen in Italien*. Mainz am Rhein: von Zabern.
-
-Nierhaus 1993
-: Nierhaus, I. 1993. *Kunst-am-Bau im Wiener kommunalen Wohnbau der fünfziger Jahre*. Vienna: Böhlau.
-
-Oberleitner et al. 1978
-: Oberleitner, W., K. Gschwantler, A. Bernhard-Walcher, and A. Bammer. 1978. *Funde aus Ephesos und Samothrake. Kunsthistorisches Museum, Katalog der Antikensammlung*, vol. 2. Vienna: Kunsthistorisches Museum.
-
-Pavese 1999
-: Pavese, C. O. “L’Atleta di Ephesos.” In Friesinger and Krinzinger 1999, 579–84.
-
-Perry 1997
-: Perry, R. 1997. *Die Campanareliefs: Katalog der Sammlung Antiker Kleinkunst des Archäologischen Instituts der Universität Heidelberg*, vol. 4. Mainz am Rhein: von Zabern.
-
-Pochmarski 1988
-: Pochmarski, E. 1988. “Zur kunstgeschichtlichen Stellung des Schabers von Ephesos.” In *Griechische und römische Statuetten und Grossbronzen: Akten der 9. Internationalen Tagung über Antike Bronzen, Wien 21.–25. April 1986*, 74–81. Vienna: Kunsthistorisches Museum.
-
-Pochmarski 1999
-: Pochmarski, E. 1999. “Neues zum Schaber von Ephesos.” In Friesinger and Krinzinger 1999, 585–92.
-
-Potts 2015
-: Potts, T. 2015. “Head of an Athlete.” In Daehner and Lapatin 2015, 276–77, cat. 42.
-
-Pülz 2010
-: Pülz, A. 2010. “Zum Stadtbild von Ephesos in byzantinischer Zeit.” In *Byzanz, das Römerreich im Mittelalter: Pracht und Alltag eines Weltreiches*, ed. F. Daim and J. Drauschke, 541–71. Monographien des RGZM 84/2/2. Mainz am Rhein: RGZM.
-
-Richter 1954
-: Richter, G. M. A. 1954. *Catalogue of Greek Sculptures in the Metropolitan Museum of Art, New York*. Cambridge, MA: Harvard University Press.
-
-Saladino 2006
-: Saladino, V. 2006. “The Athlete with a Strigil.” In *Apoxyomenos: The Athlete of Croatia*, ed. M. Michelucci, 35–51. Florence and Milan: Giunti.
-
-Sanader 1999
-: Sanader, M. 1999. “Der Meergeborene: Die Entdeckung einer Bronzestatue in Kroatien.” *AW* 30/4: 357–59.
-
-Schneider 1901
-: Schneider, R. v. 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen.
-
-Sieveking 1926
-: Sieveking, J. 1926. “Athlet mit Schabeisen,” in Denkmäler griechischer und römischer Sculptur, ed. H. Brunn and F. Bruckmann, nos. 682–85 (right). Munich: Buckmann.
-
-Stewart 1978
-: Stewart, A. F. 1978. “Lysippan Studies 3. Not by Daidalos?” *AJA* 82: 473–82.
-
-Svoronos and Barth 1908
-: Svoronos, J. N., and W. Barth. 1908. *Das Athener Nationalmuseum*. Athens: Beck & Barth.
-
-Twilley 2013
-: Twilley, J. 2013. *Analyses of Surface Samples and Fill Materials from the Bronze Apoxomenos, Kunsthistorisches Museum, Wien*. Unpublished research report.
-
-Vorster 2011
-: Vorster, C. 2011. “Kopf des Herakles, Typus Landsdowne-Genzano.” In *Skulpturensammlung Staatliche Kunstsammlungen Dresden: Katalog der antiken Bildwerke II. Idealskulptur der römischen Kaiserzeit*, vol. 2, ed. K. Knoll, C. Vorster, and M. Woelk, 652–55. Munich: Hirmer.
-
-Walter 1923
-: Walter, O. 1923. *Beschreibung der Reliefs im Kleinen Akropolismuseum in Athen*. Vienna: Hölzel.
-
-Weber et al. 2012
-: Weber, J., K. Bayer, and F. Pintér. 2012. “Nineteenth Century ‘Novel’ Building Materials: Examples of Various Historic Mortars under the Microscope.” In *Historic Mortars: Characterization, Assessment and Repair*, ed. J. Válek, J. J. Hughes, and C. J. W. P. Groot, 89–103. RILEM Bookseries 7. Dordrecht: Springer.
-
-Weber 1996
-: Weber, M. 1996. “Zum griechischen Athletenbild: Zum Typus und zur Gattung des Originals der Apoxyomenosstatue im Vatikan.” *RM* 103: 31–49.
-
-Weber 1999
-: Weber, M. 1999. “Zur Gattung des Strigilisreinigers.” In Friesinger and Krinzinger 1999, 593–96.
-
-Willer 1996
-: Willer, F. 1996. “Beobachtungen zur Sockelung von bronzenen Statuen und Statuetten.” *BJb* 196: 337–70.
-
-Willer 2000
-: Willer, F. 2000. “Neue Beobachtungen zur Herstellung und Versockelungstechnik von Bronzestatuen.” *JbKöln* 33: 565–73.
-
-Wohlers-Scharf 1995
-: Wohlers-Scharf, T. 1995. *Die Forschungsgeschichte von Ephesos*: *Entdeckungen, Grabungen und Persönlichkeiten*. Frankfurt am Main and Vienna: Lang.
-
-Wood 1877
-: Wood, J. T. 1877. *Discoveries at Ephesus*. London: Longmans, Green.
+## Notes
 
 [^1]: Benndorf 1906, 181–84; Wohlers-Scharf 1995, 79–83.
 
@@ -458,28 +255,34 @@ Wood 1877
 
 [^28]: George Niemann, architect and draftsman of the Austrian mission, reconstructed the *aedicula* from the few remaining parts.
 
-[^29]: Statues of the type Florence/Ephesos/Mali Lošinj (see also Daehner 2015, esp. 281):
-1. Ephesos (Vienna, Kunsthistorisches Museum/Ephesos Museum, inv. VI 3168, bronze)
-2. Florence (Florence, Galleria degli Uffizi, inv. 1914/100, marble; existing already under Cosimo I, in the Gallery since 1740; Mansuelli 1958, 59–60, cat. 36)
-3. Lošinj (Museum of Apoxyomenos, Mali Lošinj, marble; Michelucci 2006)
-4. Frascati (Boston, Museum of Fine Arts, inv. 00.304, marble; small scale; Comstock and Vermeule 1976, 100–101, no. 155)
-5. Rome, from Tivoli (Musei Vaticani, no.. 105, Braccio Nuovo, marble torso; Neudecker 1988, 236, no. 68.3 pl. 15.3)
-6. Rome (Musei Vaticani, Mus. Chiaramonti Braccio Nuovo 99, marble torso with head type Torino/Braccio Nuovo; Arnold 1969, 270, no. K7; Neudecker 1988, 236, no. 68.4, pl. 15.2)
-7. Castel Gandolfo (Villa Barberini/Castel Gandolfo, no. 36405, basanite; Liverani 1989, 59, no. 22)
-8. Louvre (Musee du Louvre, statue Borghese, marble; Benndorf 1906, 200–201, fig. 153; Arnold 1969, 270, no. K8)
+[^29]:
+    Statues of the type Florence/Ephesos/Mali Lošinj (see also Daehner 2015, esp. 281):
 
-[^30]: Heads of the type Florence/Ephesos/Mali Lošinj:
-1. Fort Worth, Kimbell Art Museum, AP 2000.03, bronze (since 2000, before Senator Bernardo Nani \[1712–1761\], Venice. Lucien Guiraud \[Hotel Drouot, Paris\] sale June 14–15, 1956, no. 106 (as 16th century); Hans Calmann \[1899–1982\], London and Somerset; auction, Sotheby’s, New York, June 14, 2000, no. 60; Gschwantler 1995, 293)
-2. St. Petersburg, State Hermitage Museum, from Rome, marble (Benndorf 1906, 199, fig. 150-151; Arnold 1969, 269–207, no. K2)
-3. Rome, Museo Torlonia, inv. 86, marble (Götze 1938, 226; Arnold 1969, 270, no. K4; Gasparri 1980, 166, no. 86)
-4. Rome, Musei Vaticani, marble (Amelung \[1903\] 1956, 114, no. 99)
-5. New York, Metropolitan Museum of Art, marble (head of statue; Richter 1954, 110)
-6. Bruxelles, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185)
-The head in Dresden, no. Hm 132, is no longer thought to follow the same type as Dörig 1965, 40, proposed; see now Vorster 2011.
+    1. Ephesos (Vienna, Kunsthistorisches Museum/Ephesos Museum, inv. VI 3168, bronze)
+    2. Florence (Florence, Galleria degli Uffizi, inv. 1914/100, marble; existing already under Cosimo I, in the Gallery since 1740; Mansuelli 1958, 59–60, cat. 36)
+    3. Lošinj (Museum of Apoxyomenos, Mali Lošinj, marble; Michelucci 2006)
+    4. Frascati (Boston, Museum of Fine Arts, inv. 00.304, marble; small scale; Comstock and Vermeule 1976, 100–101, no. 155)
+    5. Rome, from Tivoli (Musei Vaticani, no.. 105, Braccio Nuovo, marble torso; Neudecker 1988, 236, no. 68.3 pl. 15.3)
+    6. Rome (Musei Vaticani, Mus. Chiaramonti Braccio Nuovo 99, marble torso with head type Torino/Braccio Nuovo; Arnold 1969, 270, no. K7; Neudecker 1988, 236, no. 68.4, pl. 15.2)
+    7. Castel Gandolfo (Villa Barberini/Castel Gandolfo, no. 36405, basanite; Liverani 1989, 59, no. 22)
+    8. Louvre (Musee du Louvre, statue Borghese, marble; Benndorf 1906, 200–201, fig. 153; Arnold 1969, 270, no. K8)
 
-[^31]: Small-scale bronze statuettes:
-1. Trier (Furtwängler 1898, 9–11, fig. 5; Benndorf 1906, 201, fig. 154)
-2. Louvre (MND 1895, Charbonneaux 1941, 42, fig. 1; Arnold 1969, 166–67, plate 21b)
+[^30]:
+    Heads of the type Florence/Ephesos/Mali Lošinj:
+
+    1. Fort Worth, Kimbell Art Museum, AP 2000.03, bronze (since 2000, before Senator Bernardo Nani \[1712–1761\], Venice. Lucien Guiraud \[Hotel Drouot, Paris\] sale June 14–15, 1956, no. 106 (as 16th century); Hans Calmann \[1899–1982\], London and Somerset; auction, Sotheby’s, New York, June 14, 2000, no. 60; Gschwantler 1995, 293)
+    2. St. Petersburg, State Hermitage Museum, from Rome, marble (Benndorf 1906, 199, fig. 150-151; Arnold 1969, 269–207, no. K2)
+    3. Rome, Museo Torlonia, inv. 86, marble (Götze 1938, 226; Arnold 1969, 270, no. K4; Gasparri 1980, 166, no. 86)
+    4. Rome, Musei Vaticani, marble (Amelung \[1903\] 1956, 114, no. 99)
+    5. New York, Metropolitan Museum of Art, marble (head of statue; Richter 1954, 110)
+    6. Bruxelles, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185)
+    The head in Dresden, no. Hm 132, is no longer thought to follow the same type as Dörig 1965, 40, proposed; see now Vorster 2011.
+
+[^31]:
+    Small-scale bronze statuettes:
+
+    1. Trier (Furtwängler 1898, 9–11, fig. 5; Benndorf 1906, 201, fig. 154)
+    2. Louvre (MND 1895, Charbonneaux 1941, 42, fig. 1; Arnold 1969, 166–67, plate 21b)
 
 [^32]: Hartwig 1903; Perry 1997, 42–45.
 
