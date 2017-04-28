@@ -1,0 +1,12 @@
+{{- if .Get "id" -}}
+{{- range .Site.Data.figures.figure_list -}}
+{{- $x := $.Get "id" -}}
+{{- $y := .id | string -}}
+{{- if eq $y $x -}}
+<figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }}">
+  <img  src="/figures/{{ .src }}" alt="{{ .alt }}" id="{{ .id }}" />
+  <figcaption><span class="q-figure-label">Figure {{ .id }}.</span> {{ .caption | markdownify }}</figcaption>
+</figure>
+{{- end -}}
+{{- end -}}
+{{- end -}}
