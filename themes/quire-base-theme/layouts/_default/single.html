@@ -1,8 +1,6 @@
 {{ define "main" }}
-<div class="quire-page">
-  <h1 class="quire-page__title">{{ .Title }}</h1>
-  <div class="quire-page__content">
-    {{ .Content }}
-  </div>
-</div>
+<header>
+  <h1>{{ .Title }}</h1>
+</header>
+{{ .Content }}
 {{ end }}

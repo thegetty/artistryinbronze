@@ -1,0 +1,65 @@
+# Book.yml Data File
+#
+# This file houses the bibliographic info and general metadata for the digital
+# publication. New fields can be added arbitrarily, but the Quire themes will
+# expect this file to follow the general structure shown here. Templates can
+# access values stored in this file in the following way:
+#
+# {{ .Site.Data.publication.title.main }} => "Catalogue Template"
+#
+title: Artistry in Bronze
+subtitle: The Greeks and Their Legacy
+short_title: Artistry in Bronze
+
+pub_date: 2017-11-01
+creators:
+  # Add as many creators as desired here; each one should begin with a dash.
+  # The Quire themes will assume the first item in the creators array is the
+  # primary author.
+  #
+  # Multiple contributors can be added in the same fashion.
+  - first_name: Jens M.
+    last_name: Daehner
+    role: edc
+    bio:
+  - first_name: Kenneth
+    last_name: Lapatin
+    role: edc
+    bio:
+  - first_name: Ambra
+    last_name: Spinelli
+    role: edc
+    bio:
+contributors:
+
+author_as_it_appears:
+  # This field is totally custom in case a particular phrasing is desired.
+  - Edited by Jens M. Daehner, Kenneth Lapatin, and Ambra Spinelli
+project_team:
+  - name: Jane Editor
+    role: Project Editor
+  # Additional members can be added like this:
+  # - name: Joe Editor
+  #   role: Project Editor 2
+editions:
+  # You can define bibliographic information for each edition of the publication
+  # in the array below. Templates that include citation tools will pull data
+  # from this section.
+  - name: Online
+    type: InteractiveResource
+    format: text/html
+    isbn: 978-1-60606-499-3
+    link: http://www.getty.edu/publications/artistryinbronze
+    additional_description:
+publisher: Getty Publications
+imprint: J. Paul Getty Museum
+publisher_short: Getty P
+publisher_location: Los Angeles
+rights: © 2017 J. Paul Getty Trust
+license:
+  type: Creative Commons Attribution 4.0 International License
+  link: http://creativecommons.org/licenses/by/4.0/
+  logo: cc-by.png
+# The "jacket copy" goes here:
+description_main: >
+  Lorem ipsum dolor sic amet. This is where the description text goes.

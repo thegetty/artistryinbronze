@@ -1,0 +1,9 @@
+<div class="quire-title"><span class="visually-hidden">Title: </span>{{ .Site.Data.publication.title }}{{ if .Site.Data.publication.subtitle }}: {{ .Site.Data.publication.subtitle }}{{ end }}</div>
+<div class="quire-contributors"><span class="visually-hidden">Contributors: </span>
+{{- if .Site.Data.publication.author_as_it_appears -}}
+  {{ .Site.Data.publication.author_as_it_appears }}
+{{ else }}
+  {{ range .Site.Data.publication.primary_contributors }}
+    {{ .first_name }} {{ .last_name }},
+  {{ end }}
+{{- end -}}</div>

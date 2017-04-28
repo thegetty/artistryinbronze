@@ -1,4 +1,12 @@
-<div id="js-curtain" class="quire-menu__curtain"></div>
-<script src="{{ .Site.BaseURL }}/assets/js/application.js"></script>
-</body>
-</html>
+
+{{ if .Site.Data.publication.copyright }}
+  <p>{{ .Site.Data.publication.copyright }}.</p>
+{{ end }}
+
+<p>Published {{ if .Site.Data.publication.publisher }}by {{ .Site.Data.publication.publisher }}, {{ end }}{{- if .Site.Data.publication.pub_date -}}{{ .Site.Data.publication.pub_date | dateFormat "January 2006" }}{{- end -}}
+{{- if .Site.Data.publication.license -}}
+  , and licensed under a <a rel="license" href="{{ .Site.Data.publication.license.url }}">{{ .Site.Data.publication.license.name }}</a>
+{{- end -}}
+.</p>
+
+{{ partial "link-list.html" .Site.Data.publication.footer_links }}

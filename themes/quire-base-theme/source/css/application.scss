@@ -1,29 +1,35 @@
-// Vendor
-@import "vendor/normalize";
-@import "vendor/bourbon/bourbon";
-@import "vendor/neat/neat";
-@import "util/fonts";
-@import "vendor/ionicons/ionicons";
-
-// Base styles and utilities
-@import "theme";
-@import "base/base";
-@import "util/util";
-
+// // Vendor
+// @import 'vendor/normalize';
+// @import 'vendor/bourbon/bourbon';
+// @import 'vendor/neat/neat';
+// @import 'util/fonts';
+// @import 'vendor/ionicons/ionicons';
+//
+// // Base styles and utilities
+// @import 'theme';
+// @import 'base/base';
+// @import 'util/util';
+//
 // Global styles
-@import "global";
-@import "print";
+// @import 'base';
+//
+// // Components
+// @import 'components/navbar';
+// @import 'components/menu';
+// @import 'components/cover';
+// @import 'components/deepzoom';
+// @import 'components/tombstone';
+// @import 'components/figure';
+// @import 'components/toc';
+// @import 'components/map';
+// @import 'components/search-results';
+//
+// // Layouts
+// @import 'layouts/page';
 
-// Components
-@import "components/navbar";
-@import "components/menu";
-@import "components/cover";
-@import "components/deepzoom";
-@import "components/tombstone";
-@import "components/figure";
-@import "components/toc";
-@import "components/map";
-@import "components/search-results";
 
-// Layouts
-@import "layouts/page";
+@import 'baseof';
+@import 'nav';
+@import 'menu';
+@import 'search';
+@import 'figure';

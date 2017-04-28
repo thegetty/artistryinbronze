@@ -1,9 +1,53 @@
-{{ partial "header.html" . }}
-{{ partial "navbar.html" . }}
-{{ partial "search-results.html" . }}
-{{ partial "menu.html" . }}
-<main id="main-content">
-{{ block "main" . }}
-{{ end }}
-</main>
-{{ partial "footer.html" . }}
+<!DOCTYPE html>
+<html lang="{{ .Site.Data.publication.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ .Title }} &middot; {{ .Site.Data.publication.title }}</title>
+    <!-- {{ partial "metadata.html" . }} -->
+    <!-- {{ partial "seo.html" . }} -->
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
+  </head>
+  <body class="quire-baseof">
+    {{ partial "icons.html" . }}
+    <a href="#main-content" class="skip-link">Skip to Main Content</a>
+    {{ partial "nav.html" . }}
+    {{ partial "menu.html" . }}
+    {{ if .Site.Params.searchEnabled }}
+      {{ partial "search.html" . }}
+    {{ end }}
+    <main role="main" id="main-content">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+    <script src="{{ .Site.BaseURL }}/assets/js/application.js"></script>
+    <script>
+      (function() {
+        var button = document.querySelectorAll("button.expander");
+        for (var i = 0; i < button.length; i++) {
+          button[i].setAttribute("aria-expanded","false");
+          button[i].nextElementSibling.hidden = true;
+          button[i].addEventListener("click", function() {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", String(!expanded));
+            this.nextElementSibling.hidden = expanded;
+          });
+        }
+      })();
+      (function() {
+      var button = document.querySelectorAll("button.heading-expander");
+      for (var i = 0; i < button.length; i++) {
+        button[i].setAttribute("aria-expanded","false");
+        button[i].parentElement.nextElementSibling.hidden = true;
+        button[i].addEventListener("click", function() {
+          var expanded = this.getAttribute("aria-expanded") === "true";
+          this.setAttribute("aria-expanded", String(!expanded));
+          this.parentElement.nextElementSibling.hidden = expanded;
+        });
+      }
+    })();
+    </script>
+    <!-- {{ partial "analytics.html" . }} -->
+  </body>
+</html>

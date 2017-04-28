@@ -1,0 +1,22 @@
+<div class="quire-search" role="directory">
+  <button class="expander">
+    <svg><switch><use xlink:href="#search-icon"></use><foreignObject><img src="path/to/search-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Search</span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    {{ partial "search-results.html" . }}
+  </div>
+</div>

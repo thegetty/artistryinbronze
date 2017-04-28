@@ -1,0 +1,19 @@
+.quire-nav {
+
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+
+    border: 1px solid #000;
+    li {
+      margin: 1em;
+      border: 1px solid #fff000;
+    }
+  }
+  svg {
+    height: 1em;
+    width: 1em;
+  }
+}

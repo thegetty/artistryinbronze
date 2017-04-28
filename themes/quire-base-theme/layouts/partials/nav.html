@@ -1,0 +1,49 @@
+<nav class="quire-nav" role="navigation" aria-label="quick">
+  <ul>
+    {{ with .Prev }}
+    <li>
+      <a href="{{ .Permalink }}" rel="previous">
+        <svg><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    {{ end }}
+
+    {{ if .IsHome }}
+    <li>
+      <a href="{{ .Site.BaseURL }}" rel="start">
+        <span class="visually-hidden">Home Page: </span>
+        {{ if .Site.Data.publication.short_title }}
+          {{ .Site.Data.publication.short_title }}
+        {{ else }}
+          {{ .Site.Data.publication.title }}
+        {{ end }}
+      </a>
+    </li>
+    {{ else }}
+    <li>
+      <a href="{{ .Site.BaseURL }}">
+        <span class="visually-hidden">Home Page: </span>
+        {{ if .Site.Data.publication.short_title }}
+          {{ .Site.Data.publication.short_title }}
+        {{ else }}
+          {{ .Site.Data.publication.title }}
+        {{ end }}
+      </a>
+    </li>
+    <li>
+      <span class="visually-hidden">Current Page: </span>
+      {{ .Title }}
+    </li>
+    {{ end }}
+
+    {{ with .Next }}
+    <li>
+      <a href="{{ .Permalink }}" rel="next">
+        <svg><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+</nav>

@@ -1,0 +1,49 @@
+$base-spacing: 1rem;
+
+.q-figure {
+  width: calc(100% - ($base-spacing * 6));
+  margin-bottom: $base-spacing;
+  margin-top: $base-spacing;
+  margin-right: $base-spacing * 3;
+  margin-left: $base-spacing * 3;
+
+  &.q-float-left {
+    float: left;
+    clear: both;
+    width: 45%;
+    margin-right: $base-spacing;
+    margin-left: 0;
+  }
+
+  &.q-float-right {
+    float: right;
+    clear: both;
+    width: 45%;
+    margin-left: $base-spacing;
+    margin-right: 0;
+  }
+
+  &.q-plate {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  &.q-small-center {
+    width: 14%;
+    margin-left: 43%;
+    margin-right: 43%;
+  }
+
+  img {
+    width: 100%;
+  }
+  figcaption {
+    margin-top: $base-spacing * .5;
+  }
+
+  .q-figure-label {
+    font-weight: bold;
+  }
+
+}
