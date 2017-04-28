@@ -43,7 +43,7 @@ In front of this aedicula, 234 fragments of a life-size bronze sculpture were br
 
 {{< q-figure id="1.3" >}}
 
-Due to an *irade* (edict) of Sultan Abdul Hamid II, the Austrian ambassador, Freiherr von Calice, was allowed to choose some of the excavated finds, which were sent to Vienna as a gift from the Sultan to Emperor Franz Joseph.[^8] The Austrian Lloyd shipping company transported the sculptures, architectural elements, and small finds to Vienna in seven transports between 1896 and 1906; the fragments of the bronze athlete came to Vienna in the 1897 transport.[^9] (From 1907 onward, a new law concerning the legal framework of preservation of antiquities promoted by Osman Hamdi Bey, founder of the Istanbul Archaeological Museum, halted the export of archaeological heritage.) Today, most of the finds from Ephesos brought to Vienna are on display in the Ephesos Museum, which was opened 1978 in the former Habsburg imperial palace in Vienna.[^10] We will discuss the reconstruction of the heavily damaged statue is greater detail below.
+Due to an *irade* (edict) of Sultan Abdul Hamid II, the Austrian ambassador, Freiherr von Calice, was allowed to choose some of the excavated finds, which were sent to Vienna as a gift from the Sultan to Emperor Franz Joseph.[^8] The Austrian Lloyd shipping company transported the sculptures, architectural elements, and small finds to Vienna in seven transports between 1896 and 1906; the fragments of the bronze athlete came to Vienna in the 1897 transport.[^9] \(From 1907 onward, a new law concerning the legal framework of preservation of antiquities promoted by Osman Hamdi Bey, founder of the Istanbul Archaeological Museum, halted the export of archaeological heritage.) Today, most of the finds from Ephesos brought to Vienna are on display in the Ephesos Museum, which was opened 1978 in the former Habsburg imperial palace in Vienna.[^10] We will discuss the reconstruction of the heavily damaged statue is greater detail below.
 
 After its restoration, the statue was immediately put on display, in the first exhibition of finds from Ephesos in the “Theseus Temple” in Vienna (**fig. 1.4**).[^11] This “temple,” a reduced copy of the “Theseion” (Hephaistieion) in Athens, was built by Pietro di Nobile in Vienna in 1819–23 to house the famous sculpture *Theseus Fighting the Minotaur* by Antonio Canova. After this sculpture was moved to the main staircase of the Kunsthistorisches Museum in the 1880s, the Theseus Temple was ready to house the Ephesos exhibition, which was enthusiastically received.
 
@@ -73,15 +73,15 @@ After first assuming or rather hoping they had unearthed a “Greek original,”
 
 Despite early speculation that the Ephesian Athlete was one of the two original Greek scrapers by Daidalos from Sikyon mentioned by Pliny,[^35] it was soon clear that the statue had to be dated in the Roman era. Already by 1906, Benndorf had pronounced it an “excellent copy from early Roman times.”[^36] However, scholars differ widely in dating the original of the type, with estimates ranging from the fourth century BC to the end of the first century AD:
 
-| *Greek original* |
-| ------------- |:-------------:|
+| *Greek original* |   |
+| ------------- |-------------|
 | Schneider 1901 Greek (Attic) | mid fourth century BC |
 | Hauser 1902 | Daidalos of Sikyon |
 | Sieveking 1926 | mid-fourth century BC |
 | Stewart 1978 | around 300 BC |
 
-| *Roman copy* |
-| ------------- |:-------------:|
+| *Roman copy* |   |
+| ------------- | ------------- |
 | Benndorf 1906  | early Roman copy |
 | Johnson 1927 | Hellenistic (Daippos?) |
 | Lippold 1950 | 350 BC |
@@ -107,9 +107,7 @@ The opportunity of seeing the two statues next to each other in the exhibition *
 
 Tracing a possible Greek original must be reconsidered in light of the different proportions and details of the two statues. Is it by chance that so many bronze specimens of this very type are preserved? In addition to the statues from Ephesos and Lošinj, the head now in the Kimbell Art Museum[^45] and even the basanite torso from Castel Gandolfo might be taken into consideration, as the material probably is meant to resemble bronze. The issue of the main view axis—determining the “front side” of the statue—can also be revisited with new evidence. The Campana reliefs show the athlete from the side, making his movement clearly understandable. In contrast, the preserved rectangular base plate from the Croatian athlete suggests a frontal view of the statue.
 
-Authors
-
-G. A. Plattner, K. Gschwantler
+— *G. A. Plattner, K. Gschwantler*
 
 ## 2. Restoration History and Stability Evaluation
 
@@ -146,33 +144,25 @@ Since 1900 several investigations have been executed:
 Bronze:
 
 -   1900[^68]: Fusing analysis: 89% Cu, 6% Sn, 4.8% Pb
-
 -   2002[^69]: µ-RFA: polished surface: 84–88% Cu, 7–9% Sn, 4.5–7.7% Pb; corroded surface: 45–60% Cu, 7–14% Sn, 25–39% Pb
 
 Mortar:
 
 -   2001[^70]: Cement Testing Laboratory
-
 -   2002, 2012, 2014: SEM
-
 -   2012: X-ray spectrometry
-
 -   2012: FTIR spectrometry
-
 -   2012: Polarized light microscopy
-
 -   2013: Raman spectroscopy
 
 Structure:
 
 -   2001, 2012, 2013: Endoscopy
-
 -   2002, 2013: Radiography
 
 Surface:
 
 -   2013: IR spectroscopy
-
 -   2013[^71]: Gas chromatography for organic coatings
 
 To complement the X-radiography studies of the BAM[^72] performed in Berlin 2001 (**fig. 1.12**), the Austrian Technical Inspection Authority (TÜV) provided their portable X-ray apparatus. Radiography images, produced by selenium-isotope continuous radiation, yielded additional information about the porosity and the structural distribution of the Sorel cement. For this investigation, the radiation had to reach as far as 40 meters (44 yards), a difficult task to organize in the Neue Burg, the spacious building where the Athlete is on display in the Ephesos Museum.
