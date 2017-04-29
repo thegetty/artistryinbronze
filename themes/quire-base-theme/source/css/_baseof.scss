@@ -133,11 +133,15 @@ sup {
   .skip-link {
     position: absolute;
     right: 100%;
+    font-size: $small-font-scale;
+    font-weight: 400;
   }
 
   .skip-link:focus {
-    position: relative;
-    right: auto;
+    position: fixed;
+    left: $base-spacing * 4;
+    top: $base-spacing * .8;
+    width: 10em;
   }
 
 }

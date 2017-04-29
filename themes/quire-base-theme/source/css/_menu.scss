@@ -1,7 +1,16 @@
 .quire-menu {
+  position: absolute;
+  top: $base-spacing;
+  left: $base-spacing;
+  button {
+    border: none;
+    background-color: inherit;
+    padding: 0;
+  }
   svg {
-    height: 1em;
-    width: 1em;
+    height: 1.75em;
+    width: 1.75em;
+    fill: $primary-color;
   }
   .quire-title,
   .quire-contributors {

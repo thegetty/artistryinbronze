@@ -1,8 +1,15 @@
 .quire-search {
-
-  svg {
-    height: 1em;
-    width: 1em;
+  position: absolute;
+  top: $base-spacing;
+  right: $base-spacing;
+  button {
+    border: none;
+    background-color: inherit;
+    padding: 0;
   }
-
+  svg {
+    height: 1.75em;
+    width: 1.75em;
+    fill: $primary-color;
+  }
 }

@@ -13,8 +13,8 @@
   <body class="quire-baseof">
     {{ partial "icons.html" . }}
     <a href="#main-content" class="skip-link">Skip to Main Content</a>
-    {{ partial "nav.html" . }}
     {{ partial "menu.html" . }}
+    {{ partial "nav.html" . }}
     {{ if .Site.Params.searchEnabled }}
       {{ partial "search.html" . }}
     {{ end }}
