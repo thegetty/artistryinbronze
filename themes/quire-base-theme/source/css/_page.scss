@@ -55,7 +55,7 @@
         margin-right: $base-spacing;
       }
       .footnotes {
-        font-size: $small-font-scale;
+        font-size: 1rem * $small-font-scale;
         line-height: $small-font-line-height;
         p {
           text-indent: 0;
@@ -78,7 +78,7 @@
         }
       }
       table {
-        font-size: $small-font-scale;
+        font-size: 1rem * $small-font-scale;
         line-height: $small-font-line-height;
         width: calc(100% - (1rem * 2));
         margin-left: 1rem;
@@ -88,20 +88,20 @@
     }
 
     &__references dt {
-      font-size: $small-font-scale;
+      font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
       font-weight: bold;
     }
 
     &__references dd {
-      font-size: $small-font-scale;
+      font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
       margin-bottom: $base-spacing * .5;
       margin-left: 0;
     }
 
     &__abstract {
-      font-size: $small-font-scale;
+      font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
     }
 
@@ -112,6 +112,37 @@
     &__abstract h2 {
       // font-size: 100%;
     }
+
+    &__section-list__item {
+      margin-bottom: $base-spacing * 2;
+      list-style-type: none;
+    }
+
+    &__read {
+      display: inline-block;
+
+      &__link {
+        font-size: 1rem * $small-font-scale;
+        display: inline-block;
+        background-color: $pale-background;
+        // color: #fff;
+        border-radius: .25em;
+        padding: ($base-spacing * .1) ($base-spacing * .5);
+        margin: $base-spacing * .25;
+        // a {
+        //   color: #fff;
+        // }
+        button {
+          background-color: inherit;
+          border: none;
+          // color: #fff;
+          color: $primary-color;
+          font-size: 1rem * $small-font-scale;
+        }
+      }
+
+    }
+
 
 
 

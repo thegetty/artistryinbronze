@@ -1,7 +1,6 @@
 ---
+id: "I"
 title: Large Scale Bronzes
-type: page
+type: section-break
 weight: 5
 ---
-
-Test
