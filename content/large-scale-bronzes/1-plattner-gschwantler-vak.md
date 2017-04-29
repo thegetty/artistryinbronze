@@ -69,7 +69,7 @@ Surprising —and initially misleading—is the surface of the base. There are n
 
 In this case from Ephesos, we have the rare good fortune of having both the bronze sculpture and its corresponding base. The date of the base might even hint at the age of the statue itself, taking into consideration the relatively short lifetime of this particular corner of the Harbor Baths. Some time in the fourth century AD, the southern rooms adjacent to the *palaestra* were modified and reused in the new *atrium thermarum Constantiniarum.* It seems that by that time, the southwest corner of the *palaestra* was abandoned. Hence, the earthquakes that destroyed this part of the building might have been those of the later third century AD, recorded strikingly by the destruction of the famous Slope Houses of Ephesos.[^27] Considering this, we see a timespan of less than two hundred years for the “lifetime” of the base. Taking into consideration that the technique used to make the Athlete points to the first/second century AD, it is most likely that statue and base were purposely made for display in the *palaestra* of the Harbor Baths (**fig. 1.7**)—until they were both buried by debris and thus no longer available for reuse or reworking.[^28]
 
-{{< q-figure id="1.7" >}}
+{{< q-figure id="1.7" class="float-left">}}
 
 After first assuming or rather hoping they had unearthed a “Greek original,” archaeologists soon agreed that the Ephesian Athlete must be a Roman sculpture. But even today a vivid discussion continues as to whether the statue is a copy of a Greek original or a Roman creation. The statuary type of the Ephesian Athlete is preserved in several surviving statues/torsos[^29] and heads.[^30] Two small-scale bronze statuettes also follow this type[^31]: one from the Louvre differs in that the head is raised and the athlete does not look down to his hands. Depictions of the type are also preserved on Campana reliefs,[^32] as well as on gems,[^33] and even on a statuary base from the Acropolis of Athens.[^34]
 
@@ -167,9 +167,9 @@ Since 1900 several investigations have been executed:
 > - 2013: IR spectroscopy
 > - 2013[^71]: Gas chromatography for organic coatings
 
-To complement the X-radiography studies of the BAM[^72] performed in Berlin 2001 (**fig. 1.12**), the Austrian Technical Inspection Authority (TÜV) provided their portable X-ray apparatus. Radiography images, produced by selenium-isotope continuous radiation, yielded additional information about the porosity and the structural distribution of the Sorel cement. For this investigation, the radiation had to reach as far as 40 meters (44 yards), a difficult task to organize in the Neue Burg, the spacious building where the Athlete is on display in the Ephesos Museum.
+{{< q-figure id="1.12" class="float-right">}}
 
-{{< q-figure id="1.12" >}}
+To complement the X-radiography studies of the BAM[^72] performed in Berlin 2001 (**fig. 1.12**), the Austrian Technical Inspection Authority (TÜV) provided their portable X-ray apparatus. Radiography images, produced by selenium-isotope continuous radiation, yielded additional information about the porosity and the structural distribution of the Sorel cement. For this investigation, the radiation had to reach as far as 40 meters (44 yards), a difficult task to organize in the Neue Burg, the spacious building where the Athlete is on display in the Ephesos Museum.
 
 Under X-radiation, the chest of the Athlete showed very high density with almost no detectable penetration, even after doubling the radiation’s intensity and prolonging the exposure time fourfold. A possible reason could be the high concentration of barite[^73] in the fill, but a conclusive explanation is still lacking.
 
@@ -181,9 +181,11 @@ New information enabled us to detect the traces of interventions (**fig. 1.13**)
 
 {{< q-figure id="1.15" >}}
 
+{{< q-figure id="1.16" class="float-right" >}}
+
 In 2015, a three-dimensional model of the Athlete was generated to build the custom cage for transport.[^74] Our colleagues at the Getty Museum developed the aluminum structure (**fig. 1.16**), which allowed the entire weight of the cage and the statue to be supported by the fillet of the base. An accurately fitting, two-piece counterpart made of epoxy resin was mechanically connected with the aluminum construction and the pallet. To keep the statue stable inside the cage, aluminum crossbeams were screwed onto the scaffolding. Customized designs were cut out of an inert foam and applied to the beams in order to supply soft but rigid and sufficient support to the Athlete.[^75] For vibration control, a pre-calculated amount of special shock-absorbing material was placed between the inner and the outer crate, absorbing fully 93% of shock, as confirmed by vibration measurements.
 
-{{< q-figure id="1.16" >}}
+
 
 ## Acknowledgments
 
