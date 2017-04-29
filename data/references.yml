@@ -271,3 +271,55 @@ reference_list:
   - short: Wood 1877
     full: "Wood, J. T. 1877. *Discoveries at Ephesus*. London: Longmans, Green."
     reference_for: "1"
+
+  - short: Giumlia-Mair 2012
+    full: "Giumlia-Mair, A. 2012. “The Technology of Bronze Statuary.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari, 9–27. Rome: Aracne."
+    reference_for: "2"
+
+  - short: Haynes 1992
+    full: "Haynes, D. 1992. *The Technique of Greek Bronze Statuary*. Mainz: Philipp von Zabern."
+    reference_for: "2"
+
+  - short: Lapatin 2001
+    full: "Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press"
+    reference_for: "2"
+
+  - short: Maeda et al. 1997
+    full: "Maeda, Y., T. Matsuyama, S. Hirakawa, D. Nishi, and K. Totsu. 1997. *Todaiji Daibutsu no kenkyu: Rekishi to chuzog ijutsu*. Tokyo: Iwanami Shoten."
+    reference_for: "2"
+
+  - short: Maryon 1956
+    full: "Maryon, H. 1956. “The Colossus of Rhodes.” *JHS* 76: 68–86."
+    reference_for: "2"
+
+  - short: Mattusch 2014
+    full: "Mattusch, C. C. 2014. *Enduring Bronze: Ancient Art, Modern Views*. Los Angeles: J. Paul Getty Museum."
+    reference_for: "2"
+
+  - short: Pangkofer 1854
+    full: "Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. [http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4)."
+    reference_for: "2"
+
+  - short: Palagia 2013
+    full: "Palagia, O. 2013. “Not from the Spoils of Marathon: Pheidias’ Bronze Athena on the Acropolis.” In *Marathon the Day After: Symposium Proceedings, Delphi, July 2–4, 2010*, ed. K. Buraselis and E. Koulakiotis, 117–37. Athens: European Cultural Center of Delphi."
+    reference_for: "2"
+
+  - short: Rosenfield 2011
+    full: "Rosenfield, M. 2011. *Portraits of Chōgen: The Transformation of Buddhist Art in Early Medieval Japan*. Leiden and Boston: Brill."
+    reference_for: "2"
+
+  - short: Stevens 1955
+    full: "Stevens, G. P. 1955. “Remarks upon the Chryselephantine Statue of Athena.” *Hesperia* 24: 240–76."
+    reference_for: "2"
+
+  - short: Vedder 2015
+    full: "Vedder, U. 2015. *Der Koloss von Rhodos: Archäologie, Herstellung und Rezeptionsgeschichte eines antiken Weltwunders*. Mainz: Nünnerich-Asmus."
+    reference_for: "2"
+
+  - short: Zimmer 1990
+    full: "Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: Zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz: Philipp von Zabern."
+    reference_for: "2"
+
+  - short: Zimmer and Bairamē 2008
+    full: "Zimmer, G., and Bairamē, K. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund."
+    reference_for: "2"
