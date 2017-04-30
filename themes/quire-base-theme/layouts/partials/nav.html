@@ -31,23 +31,20 @@
         {{ end }}
       </a>
     </li>
-    {{ if eq .Type "section-break"}}
-    <li class="quire-nav__section-link">
-      <span class="visually-hidden">Section: </span>
-      {{ .Section | humanize | title }}
-    </li>
-    {{ else }}
+    {{ if .Section }}
+    {{ if ne .Type "section-break"}}
     <li class="quire-nav__section-link">
       <a href="/{{ .Section }}/">
         <span class="visually-hidden">Section: </span>
         {{ .Section | humanize | title }}
       </a>
     </li>
+    {{ end }}
+    {{ end }}
     <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
       <em>{{ .Title }}</em>
     </li>
-    {{ end }}
     {{ end }}
 
     {{ with .Next }}
