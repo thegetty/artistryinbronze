@@ -1,9 +1,14 @@
-{{ partial "header.html" . }}
-{{ partial "navbar.html" . }}
-{{ partial "search-results.html" . }}
-{{ partial "menu.html" . }}
-<main id="main-content">
-{{ partial "cover.html" . }}
-</main>
-{{ partial "footer.html" . }}
-
+{{ define "main" }}
+<div class="quire-cover">
+  <div class="quire-cover__inner">
+    {{ if .Site.Data.publication }}
+      <h1 class="quire-cover__title">{{ .Site.Data.publication.title }}</h1>
+      {{ with .Site.Data.publication.subtitle }}
+      <h2 class="quire-cover__subtitle">{{ . }}</h2>
+      {{ end }}
+    {{ else }}
+      <h1 class="quire-cover__title">{{ .Site.Title }}</h1>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
