@@ -12,9 +12,33 @@
     {{ .Content }}
     <div class="quire-page__content__section-list">
       <ul>
-        {{ range .Data.Pages }}
+        {{ range where .Data.Pages "Type" "essay" }}
         <li class="quire-page__content__section-list__item">
-          <a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span> {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a>
+          <a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a>
+          <ul class="quire-page__header__author">
+          {{ range .Params.author }}
+          <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+          {{ end }}
+          </ul>
+          {{ with .Params.abstract }}
+          <div class="quire-page__content__read">
+            <span class="quire-page__content__read__link"><button class="heading-expander">Abstract</button></span>
+            <div class="quire-page__content__abstract">
+            {{ . | markdownify }}
+            </div>
+          </div>
+          {{ end }}
+          <div class="quire-page__content__read">
+            <a class="quire-page__content__read__link" href="{{ .Permalink }}"><span>Paper</a>
+          </div>
+        </li>
+        {{ end }}
+      </ul>
+      <hr />
+      <ul>
+        {{ range where .Data.Pages "Type" "abstract" }}
+        <li class="quire-page__content__section-list__item">
+          {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}
           <ul class="quire-page__header__author">
           {{ range .Params.author }}
           <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
@@ -25,9 +49,6 @@
             <div class="quire-page__content__abstract">
             {{ .Params.abstract | markdownify }}
             </div>
-          </div>
-          <div class="quire-page__content__read">
-            <a class="quire-page__content__read__link" href="{{ .Permalink }}"><span>Paper</a>
           </div>
         </li>
         {{ end }}

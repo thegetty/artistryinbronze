@@ -1,6 +1,7 @@
 ---
+id: "5"
 title: The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief
-type: page
+type: essay
 author:
  - first_name: Patricia A.
    last_name: Butz
@@ -9,9 +10,7 @@ abstract: The paper proposes the bronze head of Queen Arsinoë III from the coll
 weight: 9
 ---
 
-{{% quire-epigraph %}}
-Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
-{{% /quire-epigraph %}}
+> Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
 
 The bronze head of Arsinoë III is one of the most important pieces in the Giuseppe Acerbi Collection of the Museo Civico di Palazzo Te in Mantua, a collection assembled when Acerbi was the Austrian consul general in Alexandria between 1826 and 1834 and later given to his hometown of Mantua (**fig. 5.1**). Even compared with the exceptional quality of the overall collection, which is particularly strong in Late Period, Ptolemaic, and Roman material, this representation of Arsinoë III is singular. It is the only major bronze Acerbi acquired and it is a rare embodiment in that material of Hellenistic royal portraiture in the Greek tradition. The head (**fig. 5.2**) connects strongly with other significant portraits displayed in the same room at the Palazzo Te. One is possibly a portrait of Psammetichus I, who took the throne of Egypt in the seventh century BC with the help of Greek mercenaries and who, by formally authorizing the Greek settlement at Naukratis south of Alexandria, opened the intercultural contact that would culminate in the Ptolemaic period.[^1] Another portrait of a Ptolemaic king is also nearby, rendered in the Egyptian style and identified as perhaps Ptolemy II Philadelphus,[^2] who would have been the queen’s grandfather.
 

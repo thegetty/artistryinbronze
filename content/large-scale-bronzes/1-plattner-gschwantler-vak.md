@@ -13,7 +13,6 @@ author:
    last_name: Vak
    affiliation: Kunsthistorisches Museum, Vienna
 abstract: |
-
     In the second year of Austrian excavation in Ephesos (1896), the fragments of the “Athlete of Ephesos” were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
 
     Due to an agreement between the Ottoman Sultan and the Austrian emperor, the statue and base was taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.

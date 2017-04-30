@@ -1,17 +1,18 @@
 ---
+id: "6"
 title: The Apollo from Salerno
 subtitle: Hellenistic Influence in Southern Italy
-type: page
+type: essay
 author:
  - first_name: Silvia
    last_name: Pacifico
    affiliation: Museo Archeologico Provinciale di Salerno
-abstract: >
-  The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting, and production, place of manufacture, and function of the work of art in antiquity.
+abstract: |
+    The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting, and production, place of manufacture, and function of the work of art in antiquity.
 
-  Laboratory analyses show that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period. The presence of copper seems to have been more elevated in the oldest bronzes (84–92%). Further evidence confirms that during the Roman phase, for large-scale bronze statuary, the lead content reached 20% while the tin, 10%. In terms of manufacturing, the head was made with the indirect lost-wax technique: the top of the head was joined above the fillet, as were individual curls.
+    Laboratory analyses show that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period. The presence of copper seems to have been more elevated in the oldest bronzes (84–92%). Further evidence confirms that during the Roman phase, for large-scale bronze statuary, the lead content reached 20% while the tin, 10%. In terms of manufacturing, the head was made with the indirect lost-wax technique: the top of the head was joined above the fillet, as were individual curls.
 
-  The head once belonged to an over-life-size sculpture, probably wearing a cloak and intended to be seen mainly from the front for a religious purpose or as a symbolic expression of elite power. The size and softness of forms define a composition of elements expertly aggregated as often in bronze and terracotta. The rhythmic complexity, resulting from the movement and inclination of the head, seems to be subjected to a single principle: a rendering style of curves and contours inherited from the Hellenistic Baroque. The features that might suggest Italian production (that was able to combine tradition and innovation) still have to be evaluated and analyzed more in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as, even more extensively, from Magna Graecia, may also be present.
+    The head once belonged to an over-life-size sculpture, probably wearing a cloak and intended to be seen mainly from the front for a religious purpose or as a symbolic expression of elite power. The size and softness of forms define a composition of elements expertly aggregated as often in bronze and terracotta. The rhythmic complexity, resulting from the movement and inclination of the head, seems to be subjected to a single principle: a rendering style of curves and contours inherited from the Hellenistic Baroque. The features that might suggest Italian production (that was able to combine tradition and innovation) still have to be evaluated and analyzed more in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as, even more extensively, from Magna Graecia, may also be present.
 weight: 10
 ---
 

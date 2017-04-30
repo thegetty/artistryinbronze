@@ -7,7 +7,6 @@ author:
    last_name: Vedder
    affiliation: Deutschen Archäologischen Instituts, Munich
 abstract: |
-
     The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast *in situ* in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
 
     How do we reconstruct the fabrication process of an exceptionally large and lost statue? First, the general parameters for the working steps must be known. Therefore, the indirect lost-wax process in antiquity is compared with better-known methods used to create two extant colossal statues, the Great Buddha in Nara (cast in courses) and the *Bavaria* in Munich (cast in large sections). Then the various steps of the working process attested in ancient times are examined. The analysis reveals basic differences between the three casting methods.

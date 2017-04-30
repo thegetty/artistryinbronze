@@ -1,16 +1,18 @@
 ---
+id: "4"
 title: A Royal Macedonian Portrait Head from the Sea off Kalymnos
-type: page
+type: essay
 author:
  - first_name: Olga
    last_name: Palagia
    affiliation: University of Athens
-abstract: >
-  The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband, was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together though further study is needed before any conclusion can be reached.
+abstract: |
+    The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband, was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together though further study is needed before any conclusion can be reached.
 
-  Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, e.g. the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
+    Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, e.g. the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
 
-  The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
+    The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
+
 weight: 8
 ---
 
