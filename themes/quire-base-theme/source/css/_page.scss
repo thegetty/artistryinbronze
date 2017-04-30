@@ -120,31 +120,30 @@
 
     &__read {
       display: inline-block;
+      cursor: pointer;
 
       &__link {
         font-size: 1rem * $small-font-scale;
         display: inline-block;
         background-color: $pale-background;
-        // color: #fff;
         border-radius: .25em;
         padding: ($base-spacing * .1) ($base-spacing * .5);
         margin: $base-spacing * .25;
-        // a {
-        //   color: #fff;
-        // }
+        svg {
+          height: 1em;
+          width: 1em;
+          fill: $primary-color;
+        }
         button {
+          cursor: pointer;
           background-color: inherit;
           border: none;
-          // color: #fff;
           color: $primary-color;
           font-size: 1rem * $small-font-scale;
         }
       }
 
     }
-
-
-
 
   }
 
