@@ -117,4 +117,12 @@ sup {
     width: 10em;
   }
 
+  .quire-nav-group {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    font-family: $heading-font-family;
+  }
+
 }

@@ -1,14 +1,25 @@
 {{ define "main" }}
-<div class="quire-cover">
+<div class="quire-cover__background">
   <div class="quire-cover__inner">
     {{ if .Site.Data.publication }}
-      <h1 class="quire-cover__title">{{ .Site.Data.publication.title }}</h1>
+      <h1 class="quire-cover__inner__title">{{ .Site.Data.publication.title }}
       {{ with .Site.Data.publication.subtitle }}
-      <h2 class="quire-cover__subtitle">{{ . }}</h2>
+      <span class="quire-cover__inner__subtitle">{{ . }}</span>
+      {{ end }}
+      {{ with .Site.Data.publication.reading_line }}
+      <span class="quire-cover__inner__reading-line">{{ . }}</span></h1>
       {{ end }}
     {{ else }}
-      <h1 class="quire-cover__title">{{ .Site.Title }}</h1>
+      <h1 class="quire-cover__inner__title">{{ .Site.Title }}</h1>
     {{ end }}
+    <div class="quire-cover__inner__authors">
+      <p>Edited by</p>
+      <ul>
+        {{ range .Site.Data.publication.creators }}
+        <li>{{ .first_name }} {{ .last_name }}</li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 </div>
 {{ end }}
