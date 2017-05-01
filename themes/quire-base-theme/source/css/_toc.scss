@@ -1,0 +1,30 @@
+.quire-toc {
+  font-weight: 400;
+  color: $light-text-color;
+
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    li {
+      padding-bottom: $base-spacing;
+      padding-top: $base-spacing;
+    }
+  }
+
+  ol {
+    list-style-type: upper-roman;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding-left: $base-spacing * 3;
+    font-weight: 700;
+    a {
+      font-weight: 700;
+    }
+    li {
+      padding-bottom: $base-spacing;
+      padding-top: $base-spacing;
+    }
+
+  }
+
+}
