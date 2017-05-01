@@ -52,13 +52,13 @@ Since its early days, the Bronze Congress has provided a forum not only for “m
 
 One of the defining roles of Bronze Congresses has been as a platform for direct exchange between art historians, archaeologists, conservators, and scientists from a wide range of disciplines and specialized fields. Research presented in almost every session included projects conducted collaboratively with metal conservators and/or materials scientists. Bundled here are the manifold contributions whose main focus is on the metallurgy, chemistry, technology, or conservation of ancient bronzes. Papers and posters in this section dovetailed closely with the *Power and Pathos* exhibition, discussing metal analytics and manufacturing processes of the Medici Riccardi Horse (39), Alexander on Horseback (44), the Getty Herm (41), and the Apoxyomenos statue from Croatia (43), all of which were on display in the exhibition. As critical awareness of the fallibilities in sampling and testing methods has grown over the past decades, a number of important bronzes have recently been reanalyzed, for instance the Piombino Apollo (42), whose alloy was first tested in 1967, and the Nelidow Alexander statuette (47), whose authenticity had for some time been questioned.  
 
-<hr />
+---
 
 Among the newer developments in ancient bronze studies is a heightened awareness of the limitations of the investigative tools available to us, not only their promises and opportunities. With this comes the need to accept the inconvenience that older analytical results may not be as reliable as our desire to trust “hard science” would have us believe. Thus, we have the responsibility and burden of seeking the resources, institutional support, and professional alliances to conduct new series of analyses where such investigations are warranted. In this regard, the International Bronze Congresses—being more than just a forum for scholarly exchange—can be an effective catalyst for advanced research agendas.
 
 In the way it has evolved, the field of Ancient Bronze Studies as a whole may be recognized as a role model for other disciplines: it embraces the utmost diversity in perspectives and methodologies—practiced, shared, and adopted by experts at home in the humanities, metallurgy, and engineering as well as nuclear physics and even traditional crafts. This is in part a function of bronze being a man-made material, but it is mostly due to a culture of curiosity, openness, and innovation among bronze’s enthusiastic scholars and practitioners. Future congresses will celebrate and advance this legacy, beginning with the 20th International Congress on Ancient Bronzes planned for early 2018.  
 
-<hr />
+---
 
 The Los Angeles Congress owed its success to the hard work and ingenuity of many colleagues and collaborators and the generosity of crucial supporters. Funding was provided by the Getty’s Villa Programming Committee, the Villa Council, and the Getty Conservation Institute. As organizers we are most indebted to Lisa Guzzetta, whose coordination skills and programming experience were indispensable in the preparation of the Congress and whose equanimity guaranteed that it ran smoothly. We also relied on the support of several colleagues, including James Cuno, Heather Leisy, Andrea Bestow, Lorin Green, and Danielle Espino at the Trust; Timothy Potts, Jerry Podany, Jeffrey Maish, Jeffrey Spier, Claire Lyons, Nicole Budrovich, Paige-Marie Ketner, and Emma Sachs at the Museum, and Tim Whalen, Jeanne Marie Teutonico, and Gary Mattison at the Conservation Institute. In the middle of the Congress, we imposed our large group on two neighboring institutions, namely the Norton Simon Museum of Art in Pasadena and the Huntington Library, Art Collections, and Botanical Gardens in San Marino. We are extremely grateful to Carol Togneri, Gloria Williams, Emily Beeny, Elizabeth Clingerman, Catherine Hess, and Melinda McCurdy for welcoming us.
 
@@ -66,8 +66,8 @@ The life of a congress are its papers and the discussions and debates they inspi
 
 The production of this digital volume—the first in the history of the Bronze Congress!—was in the expert hands of the staff at Getty Publications, in particular Kara Kirk, Karen Levine, Greg Albers, Eric Gardner, Nick Geller, Elizabeth Kahn, Leslie Rollins, and Nina Damavandi. Project editor Ruth Evans Lane forcefully tackled the multiple challenges of this undertaking, a veritable beast with many tentacles, which were untangled and tamed by Robin Ray, our competent and sympathetic copy editor. Each of them deserves an honorific bronze statue!
 
-Los Angeles<br>
-January 2017
+<p class="attribution">Los Angeles<br />
+January 2017</p>
 
 [^1]: The original program can be found in the book of abstracts
     distributed at the time of the meeting and remains available online:

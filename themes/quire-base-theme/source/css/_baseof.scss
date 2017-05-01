@@ -81,6 +81,16 @@ th {
   vertical-align: middle;
 }
 
+hr {
+  border: 0;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+hr:after {
+  content: '◆ ◆ ◆';
+  letter-spacing: $base-spacing * .8;
+}
 
 .quire-page__content {
   max-width: 40rem;
