@@ -1,5 +1,5 @@
 ---
-title: About this Book
+title: About
 weight: 101
 type: page
 ---

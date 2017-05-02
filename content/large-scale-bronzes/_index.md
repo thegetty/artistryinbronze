@@ -1,6 +1,6 @@
 ---
 id: "I"
 title: Large-Scale Bronzes
-type: section-break
+type: section-head
 weight: 5
 ---
