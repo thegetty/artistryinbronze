@@ -114,6 +114,11 @@
       // font-size: 100%;
     }
 
+    &__section-list__abstracts {
+      font-weight: 400;
+      color: $dark-neutral;
+    }
+
     &__section-list__item {
       margin-bottom: $base-spacing * 2;
       list-style-type: none;

@@ -50,7 +50,7 @@
         margin-top: $base-spacing;
         font-size: 1rem;
         line-height: 1.6em;
-        color: $mid-neutral;
+        color: $dark-neutral;
         &__contributors-as-they-appear:after {
           content: ",";
         }
@@ -110,6 +110,7 @@
       margin-bottom: $base-spacing * 5;
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
+      color: $dark-neutral;
       p {
         text-indent: 0;
         margin-bottom: $base-spacing * .5;

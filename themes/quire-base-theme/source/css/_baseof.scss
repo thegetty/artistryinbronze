@@ -89,7 +89,8 @@ hr {
 }
 
 hr:after {
-  content: '◆ ◆ ◆';
+  content: '✦ ✦ ✦';
+  color: $dark-neutral;
   letter-spacing: $base-spacing * .8;
 }
 

@@ -11,7 +11,7 @@
   <div class="quire-page__content">
     {{ .Content }}
     <div class="quire-page__content__section-list">
-      <ul>
+      <ul class="quire-page__content__section-list__essays">
         {{ range where .Data.Pages "Type" "essay" }}
         <li class="quire-page__content__section-list__item">
           <a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a>
@@ -38,7 +38,7 @@
         {{ end }}
       </ul>
       <hr />
-      <ul>
+      <ul class="quire-page__content__section-list__abstracts">
         {{ range where .Data.Pages "Type" "abstract" }}
         <li class="quire-page__content__section-list__item">
           {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}
