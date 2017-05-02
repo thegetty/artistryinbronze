@@ -8,6 +8,7 @@ html {
   font-family: $text-font-family;
   font-weight: 300;
   line-height: 1.6em;
+  color: $black;
 }
 
 body {
@@ -64,14 +65,14 @@ table {
 }
 
 th {
-  border-bottom: 1px solid $base-text-color;
+  border-bottom: 1px solid $black;
   font-weight: bold;
   padding: ($base-spacing * .5) 0;
   text-align: left;
 }
 
 td {
-  border-bottom: 1px solid $light-text-color;
+  border-bottom: 1px solid $mid-neutral;
   padding: ($base-spacing * .5) 0;
 }
 

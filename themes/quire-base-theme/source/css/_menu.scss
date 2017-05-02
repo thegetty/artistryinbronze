@@ -22,7 +22,7 @@
     left: 0;
     width: 22em;
     height: 100vh;
-    background-color: $pale-background;
+    background-color: $light-neutral;
     padding: $base-spacing;
   }
 
@@ -44,13 +44,13 @@
         font-weight: 400;
       }
       .quire-reading-line {
-        color: $light-text-color;
+        color: $mid-neutral;
       }
       .quire-contributors {
         margin-top: $base-spacing;
         font-size: 1rem;
         line-height: 1.6em;
-        color: $light-text-color;
+        color: $mid-neutral;
         &__contributors-as-they-appear:after {
           content: ",";
         }
@@ -87,8 +87,8 @@
     }
 
     &__links {
-      border-top: 1px solid $light-text-color;
-      border-bottom: 1px solid $light-text-color;
+      border-top: 1px solid $mid-neutral;
+      border-bottom: 1px solid $mid-neutral;
       margin:($base-spacing * 2) 0;
 
       button {

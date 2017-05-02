@@ -10,7 +10,7 @@
     &__number {
       display: block;
       font-size: 1.5rem;
-      color: $light-text-color;
+      color: $mid-neutral;
       font-family: $heading-font-family;
     }
 
@@ -28,7 +28,7 @@
       margin-top: 0;
       font-family: $heading-font-family;
       font-style: italic;
-      color: $light-text-color;
+      color: $mid-neutral;
     }
 
   }
@@ -126,7 +126,7 @@
       &__link {
         font-size: 1rem * $small-font-scale;
         display: inline-block;
-        background-color: $pale-background;
+        background-color: $light-neutral;
         border-radius: .25em;
         padding: ($base-spacing * .1) ($base-spacing * .5);
         margin: $base-spacing * .25;

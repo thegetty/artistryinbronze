@@ -29,7 +29,7 @@
     margin-top: 1.5vh;
   }
   &__reading-line {
-    color: $pale-background;
+    color: $light-neutral;
     display: block;
     font-size: 8vh * ($small-font-scale * .7);
     line-height: 9vh * ($small-font-scale * .7);
@@ -39,7 +39,7 @@
   }
   &__authors {
     font-family: $heading-font-family;
-    color: $base-text-color;
+    color: $black;
     font-size: 2.8vh;
     line-height: 5vh;
     margin-top: 8vh;
