@@ -729,10 +729,6 @@ hr:after {
   color: #727272;
   letter-spacing: 0.8rem; }
 
-.quire-page__content {
-  max-width: 40rem;
-  margin: 0 auto; }
-
 .quire-publisher:after {
   content: ', '; }
 
@@ -923,7 +919,7 @@ sup {
       padding-top: 1rem; }
 
 .quire-cover__background {
-  background-image: url("/artistryinbronze/figures/cover_bg.jpg");
+  background-image: url("/figures/cover_bg.jpg");
   background-position: right center;
   background-size: cover;
   display: flex;
@@ -996,6 +992,9 @@ sup {
       font-family: "Lato", sans-serif;
       font-style: italic;
       color: #b2b2b2; }
+  .quire-page__content, .quire-page__section-list {
+    max-width: 40rem;
+    margin: 0 auto; }
   .quire-page__content__main {
     margin-bottom: 1rem; }
     .quire-page__content__main p {
@@ -1050,32 +1049,47 @@ sup {
     line-height: 1.6em; }
   .quire-page__content__abstract + hr {
     margin: 2rem 0; }
-  .quire-page__content__section-list__abstracts {
-    font-weight: 400;
-    color: #727272; }
-  .quire-page__content__section-list__item {
+  .quire-page__section-list__item {
     margin-bottom: 2rem;
     list-style-type: none; }
-  .quire-page__content__read {
+    .quire-page__section-list__item__title {
+      font-family: "Lato", sans-serif; }
+      .quire-page__section-list__item__title a {
+        font-weight: 700; }
+    .quire-page__section-list__item__abstract-only-title {
+      font-family: "Lato", sans-serif;
+      color: #727272;
+      font-weight: 400; }
+    .quire-page__section-list__item__contributor {
+      list-style-type: none;
+      padding-left: 0;
+      font-family: "Lato", sans-serif;
+      font-style: italic;
+      font-weight: 400;
+      color: #b2b2b2; }
+  .quire-page__section-list__read {
     display: inline-block;
     cursor: pointer; }
-    .quire-page__content__read__link {
+    .quire-page__section-list__read__link {
       font-size: 0.85rem;
       display: inline-block;
       background-color: #eaeaea;
       border-radius: .25em;
       padding: 0.1rem 0.5rem;
       margin: 0.25rem; }
-      .quire-page__content__read__link svg {
+      .quire-page__section-list__read__link svg {
         height: 1em;
         width: 1em;
         fill: #995326; }
-      .quire-page__content__read__link button {
+      .quire-page__section-list__read__link button {
         cursor: pointer;
         background-color: inherit;
         border: none;
         color: #995326;
         font-size: 0.85rem; }
+  .quire-page__section-list__abstract {
+    font-size: 0.85rem;
+    line-height: 1.6em; }
 
 .q-figure {
   width: calc(100% - ($base-spacing * 6));
