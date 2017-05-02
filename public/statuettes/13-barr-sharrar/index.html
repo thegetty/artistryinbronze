@@ -1,0 +1,890 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Assertions by the Portable &middot; Artistry in Bronze</title>
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dcterms.date" content="2017-11-01">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:300,300i,400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/css/application.css">
+  </head>
+  <body class="quire-baseof quire-essay">
+    <svg style="display:none">
+  <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+    <path d="M6,16l11.7,12.4c0.4,0.4,0.4,0.8,0,1.1l-2.1,2.1c-0.4,0.4-0.8,0.4-1.1,0.1L0.2,16.6C0.1,16.5,0,16.3,0,16c0-0.2,0.1-0.4,0.2-0.6L14.5,0.3c0.4-0.4,0.7-0.4,1.1,0l2.1,2.2c0.4,0.4,0.4,0.8,0,1.1L6,16z"/>
+  </symbol>
+  <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+    <path d="M12,16L0.3,3.6c-0.4-0.4-0.4-0.8,0-1.1l2.1-2.1c0.4-0.4,0.8-0.4,1.1-0.1l14.3,15.2c0.1,0.1,0.2,0.3,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6L3.5,31.7c-0.4,0.4-0.7,0.4-1.1,0l-2.1-2.2c-0.4-0.4-0.4-0.8,0-1.1L12,16z"/>
+  </symbol>
+  <symbol id="search-icon" viewBox="0 0 32 32">
+    <path d="M31.7,26.9c0.4,0.4,0.4,0.8,0,1.2l-3.6,3.7C28,31.9,27.7,32,27.5,32c-0.2,0-0.4-0.1-0.6-0.2l-7-7.2c-2.1,1.3-4.3,1.9-6.7,1.9c-3.6,0-6.7-1.3-9.3-3.9C1.3,20,0,16.9,0,13.2s1.3-6.8,3.9-9.4C6.5,1.3,9.6,0,13.2,0c3.6,0,6.7,1.3,9.3,3.9s3.9,5.7,3.9,9.4c0,2.3-0.6,4.5-1.7,6.5L31.7,26.9z M18.9,7.5c-1.6-1.6-3.4-2.4-5.7-2.4C11,5.2,9.1,6,7.5,7.5S5.2,11,5.2,13.2c0,2.2,0.8,4.1,2.4,5.7c1.6,1.6,3.5,2.4,5.7,2.4c2.2,0,4.1-0.8,5.7-2.4c1.6-1.6,2.3-3.5,2.3-5.7C21.2,11,20.4,9.1,18.9,7.5z"/>
+  </symbol>
+  <symbol id="nav-icon" viewBox="0 0 32 32">
+    <path d="M29.4,2.5c0.7,0,1.3,0.3,1.8,0.8C31.8,3.8,32,4.5,32,5.2c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,6.6,0,5.9,0,5.2c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,13.3c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,17.4,0,16.7,0,16c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,24.1c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,28.2,0,27.5,0,26.8c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z"/>
+  </symbol>
+  <symbol id="location-icon" viewBox="0 0 20 32">
+    <path d="M2.9,2.9C4.9,1,7.2,0,10,0C12.7,0,15,1,17,2.9c2,1.9,3,4.3,3,7.1c0,2.8-0.8,6.1-2.5,9.8s-3.3,6.6-5,8.9L10,32c-0.3-0.3-0.6-0.8-1.1-1.4C8.4,30,7.6,28.8,6.5,27c-1.1-1.8-2.1-3.5-3-5.2c-0.9-1.7-1.7-3.7-2.4-5.9C0.4,13.8,0,11.8,0,10C0,7.2,1,4.9,2.9,2.9z M6.7,13.5c0.9,0.9,2,1.4,3.3,1.4c1.3,0,2.4-0.5,3.3-1.4c0.9-0.9,1.4-2,1.4-3.3c0-1.3-0.5-2.4-1.4-3.3c-0.9-0.9-2.1-1.4-3.3-1.4c-1.3,0-2.4,0.5-3.3,1.4c-0.9,0.9-1.4,2.1-1.4,3.3C5.3,11.4,5.7,12.5,6.7,13.5z"/>
+  </symbol>
+  <symbol id="link-icon" viewBox="0 0 32 16">
+    <path d="M22.2,4c0.3,0.8,0.5,1.7,0.5,2.7v2.7h-4V6.7c0-0.8-0.2-1.4-0.8-1.9S16.8,4,16,4H6.7C5.9,4,5.2,4.2,4.8,4.8S4,5.9,4,6.7v2.7c0,0.8,0.2,1.4,0.8,1.9S5.9,12,6.7,12H8c0.2,0.8,0.5,1.5,0.9,2.2c0.4,0.7,0.9,1.1,1.2,1.4l0.5,0.4h-4c-1.8,0-3.4-0.7-4.7-2c-1.3-1.3-2-2.9-2-4.7V6.7C0,4.8,0.7,3.3,2,2c1.3-1.3,2.9-2,4.7-2H16c1.3,0,2.6,0.4,3.7,1.1C20.8,1.9,21.7,2.8,22.2,4z M25.3,0c1.8,0,3.4,0.7,4.7,2c1.3,1.3,2,2.9,2,4.7v2.7c0,1.8-0.7,3.4-2,4.7c-1.3,1.3-2.9,2-4.7,2H16c-2.8,0-4.9-1.3-6.1-4c-0.4-0.9-0.6-1.8-0.6-2.7V6.7h4v2.7c0,0.8,0.2,1.4,0.8,1.9S15.2,12,16,12h9.3c0.8,0,1.4-0.2,1.9-0.8S28,10.1,28,9.3V6.7c0-0.8-0.2-1.4-0.8-1.9S26.1,4,25.3,4H24c-0.2-0.8-0.5-1.5-0.9-2.2c-0.4-0.7-0.9-1.1-1.2-1.4L21.3,0H25.3z"/>
+  </symbol>
+</svg>
+
+    <div class="quire-nav-group">
+      <a href="#main-content" class="skip-link">Skip to Main Content</a>
+      <div class="quire-menu" role="directory">
+  <button class="expander quire-menu__button">
+    <svg><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          <div class="quire-title"><span class="visually-hidden">Title: </span>Artistry in Bronze<span class="quire-subtitle">The Greeks and Their Legacy</span><span class="quire-reading-line">XIXth International Congress on Ancient Bronzes</span></div>
+<div class="quire-contributors">
+   <span class="quire-contributors__contributors-as-they-appear">Edited by</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Jens M. Daehner</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Kenneth Lapatin</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Ambra Spinelli</span>
+  
+</div>
+
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Publication Contents</h3>
+        <ul class="quire-contents">
+          
+            
+            <li><a href="../../">Cover</a></li>
+            
+          
+            
+            <li><a href="../../contents/">Contents</a></li>
+            
+          
+            
+            <li><a href="../../congresses/">List of Previous Bronze Congresses, Proceedings, and Related Exhibitions</a></li>
+            
+          
+            
+            <li><a href="../../foreword/">Directors’ Foreword</a></li>
+            
+          
+            
+            <li><a href="../../introduction/">Introduction</a></li>
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../large-scale-bronzes/">I. Large-Scale Bronzes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../the-artist/">II. The Artist</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../statuettes/">III. Statuettes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../the-helenistic-east/">IV. The Helenistic East</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../vessels/">V. Vessels</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../artifacts/">VI. Artifacts</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../conservation-and-analysis/">VII. Conservation and Analysis</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            <li><a href="../../about/">About</a></li>
+            
+          
+            
+            <li><a href="search.json"></a></li>
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            <li><a href="../../tables/">Tables</a></li>
+            
+          
+        </ul>
+      </nav>
+      
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        <ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze" target="_blank" rel="canonical" type="text/html">Online</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi" target="_blank" rel="alternate" type="application/mobi">MOBI/KINDLE</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a></li>
+  <li><a href="http://shop.getty.edu/products/atistry-in-bronze-978-1606065419" target="_blank" rel="alternate" type="print">Paperback</a></li>
+</ul>
+
+      </section>
+      
+      
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        
+
+  <p>© 2017 J. Paul Getty Trust.</p>
+
+
+<p>Published by <span><span class="quire-publisher">J. Paul Getty Museum</span><span class="quire-publisher">Getty Conservation Institute</span></span><time datetime="2017-11-01">November 2017</time>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/about/" target="_blank" rel="about" type="">About</a></li>
+  <li><a href="http://www.getty.edu/legal/privacy.html" target="_blank" rel="privacy-policy" type="">Privacy Policy</a></li>
+  <li><a href="http://www.getty.edu/legal/copyright.html" target="_blank" rel="terms-of-service" type="">Terms of Use</a></li>
+</ul>
+
+
+      </footer>
+    </div>
+  </div>
+</div>
+
+      <nav class="quire-nav" role="navigation" aria-label="quick">
+  <ul>
+    
+    <li>
+      <a href="../../statuettes/" rel="previous">
+        <svg><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+
+    
+    <li>
+      <a href="">
+        <span class="visually-hidden">Home Page: </span>
+        
+          Artistry in Bronze
+        
+      </a>
+    </li>
+    
+    
+    <li class="quire-nav__section-link">
+      <a href="../../statuettes/">
+        <span class="visually-hidden">Section: </span>
+        Statuettes
+      </a>
+    </li>
+    
+    
+    <li class="quire-nav__current-page-link">
+      <span class="visually-hidden">Current Page: </span>
+      <em>Assertions by the Portable</em>
+    </li>
+    
+
+    
+    <li>
+      <a href="../../statuettes/14-hemingway-abramitis/" rel="next">
+        <svg><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+      
+        <div class="quire-search" role="directory">
+  <button class="expander">
+    <svg><switch><use xlink:href="#search-icon"></use><foreignObject><img src="path/to/search-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Search</span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    <div id="js-search-results" class="quire-search-results">
+  <div class="quire-search-results__inner">
+    <ul id="js-search-results-list" class="quire-search-results__inner__list">
+    </ul>
+  </div>
+  <template id="js-search-results-template">
+    <li class="quire-search-results__inner__list__item">
+      <a class="quire-search-results__inner__list__item__link js-search-results-item-title" href=""></a>
+    </li>
+  </template>
+</div>
+
+  </div>
+</div>
+
+      
+    </div>
+    <main role="main" id="main-content">
+      
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title"><span class="quire-page__header__number">13. </span>Assertions by the Portable: What Can Bronze Statuettes Tell Us about Major Classical Sculpture?</h1>
+    <ul class="quire-page__header__author">
+    
+    <li>Beryl Barr-Sharrar, Institute of Fine Arts, New York University</li>
+    
+    </ul>
+  </header>
+  <div class="quire-page__content">
+    <section>
+      <h2>Abstract</h2>
+      <div class="quire-page__content__abstract">
+      Many surviving Hellenistic and Roman bronze statuettes are variants of lost large-scale works, among them well-known Classical masterpieces. The degree of a statuette’s adherence to a statue type, however, is difficult to assess if not unknowable, even when full-size Roman marble copies exist. Thus it is fair to ask just how informative these portable bronzes are regarding the sources of their inspiration. Answering this requires analysis of individual examples and assessment of dates. A group of bronze Hermes statuettes can be seen to be dependent on male figure types generally accepted to have been created by Polykleitos, corresponding in stance and sometimes body structure, if not in gesture. There are several small bronze versions of Polykleitos’s Diadoumenos that deviate subtly from closely related marble copies of the original. A small bronze Diskobolos is one of two poised in the same complicated posture as the finest Roman marble copy of Myron’s fifth-century bronze original (their veracity is suggested by the description of the original by Lucian <em>Philopseudes</em> 18), but does not share its Classical style. Among other statuettes provoking problems of truth to prototype, date, and origin are bronze Aphrodites that reflect several distinctive models, not all of which survive in Roman copies.
+      </div>
+      <hr />
+    </section>
+    <section class="quire-page__content__main">
+      
+
+<p>Discussing Polykleitos’s Doryphoros in his landmark <em>Masterpieces of Greek Sculpture</em> (1895), Adolf Furtwängler included a few bronze statuettes pertinent to his subject. The largest and most important known to him was a statuette from Fins d’Annecy now in the Musée du Petit Palais in Paris (<strong>fig. 13.1</strong>).<sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup> Suggestive of Roman marble copies of the Doryphoros with the movement of the arms reversed, Furtwängler said it had previously been identified by Adolf Michaelis and other late nineteenth-century scholars as a copy of the Hermes by Polykleitos mentioned by Pliny as “once in Lysimachea” (<em>Naturalis historia</em> 34.55–56) that was contemporary to it and much reduced in scale. Furtwängler had seen the statuette in 1881 in Rouen in the collection of M. Dutuit, with whose name it is still associated, and he described it as showing traces of complete gilding. Similar to the Doryphoros is the stance, with one leg relaxed and placed somewhat back with a raised heel, the head turned toward the weight-bearing leg, and the characteristic equilibrium inexorably linked to Polykleitos and his school.</p>
+
+<p>Furtwängler studied the statuette’s proportions and details carefully and, while appreciating the high quality of the modeling, found variations, including shorter arms, as well as anomalies in the modeling of the hair, that betrayed a later style. He rejected the assertions of his contemporaries as absolutely untenable, re-dating the bronze statuette to the Roman period, specifically to the time of Augustus, and emphatically removed it as a connecting link to a Hermes by Polykleitos. Even the figure’s identification as a Hermes was uncertain, Furtwängler said, as the remains of the attribute the figure held in his left hand were indeterminate. Modern technical examination indicates an ancient repair.<sup class="footnote-ref" id="fnref:2"><a rel="footnote" href="#fn:2">2</a></sup></p>
+
+<p>Despite Furtwängler’s forceful rejection of the notion, there were periodic suggestions throughout the first three-quarters of the twentieth century that the Annecy bronze substantiated a claim for a Polykleitan bronze Hermes. But by 1984, the statuette was labeled simply “Athlete (?)” by Judith Petit, conservator of the Dutuit Collection at the Musée du Petit Palais, who dated it between the end of the first century BC and the first century AD.<sup class="footnote-ref" id="fnref:3"><a rel="footnote" href="#fn:3">3</a></sup> In the catalogue of the Polykleitos exhibition at Liebieghaus in Frankfurt in 1990, Detlev Kreikenbom maintains Furtwängler’s early Imperial date, calls the bronze a <em>Polykletisierende</em> statuette of Hermes, and suggests its left hand held a caduceus or cornucopia.<sup class="footnote-ref" id="fnref:4"><a rel="footnote" href="#fn:4">4</a></sup></p>
+
+<p>Meanwhile, recognition of a Polykleitan Hermes has been, and remains, elusive. While agreeing with the <em>communis opinio</em> about the ephebe from Fins d’Annecy, in 1990 Bol identified a frequently reproduced Polykleitan marble head type that he believed copies the Hermes, and suggested leaving open the possibility that Polykleitos produced a Hermes following the structural pattern of the Doryphoros. To bolster his suggestion, he pointed to a Roman marble Hermes in the Boboli Gardens in Florence—from which he subtracted the mantle and the baby Dionysos that are not part of the Polykleitan Hermes type.<sup class="footnote-ref" id="fnref:5"><a rel="footnote" href="#fn:5">5</a></sup> There are, in fact, a few late Hellenistic and Roman bronze statuettes with attributes of Hermes that mimic the posture of the Doryphoros, as we will see, but all are modifications of the type. Most bronze statuettes reiterating the Polykleitan “Canon” that represent the god Hermes follow a different Polykleitan type, the type considered to be Polykleitos’s Diskophoros.</p>
+
+<p>Roman marble copies of the Diskophoros, the original of which is presumed to have held a discus, have the Polykleitan shift in the figure’s weight, but the proportions are more slender and both feet are flat on the ground in a stance associated with earlier Classical figures. The head is turned to the figure’s right, like the Doryphoros’s, but lowered, gazing down. While no ancient source specifically attributes a Diskophoros to Polykleitos, it is the first one discussed in Paul Zanker’s catalogue of Polykleitan types used for Roman classicistic statues.<sup class="footnote-ref" id="fnref:6"><a rel="footnote" href="#fn:6">6</a></sup></p>
+
+<p>A Roman bronze statuette in the Louvre copies the pattern of what is considered Polykleitos’s Diskophoros, without the more slender proportions of that type and, of course, much reduced in scale (<strong>fig. 13.2</strong>). It was first identified by Rolley as a Hermes because of traces on the head that Rolley believed to have been for the insertion of two small wings.<sup class="footnote-ref" id="fnref:7"><a rel="footnote" href="#fn:7">7</a></sup> No other identifying features survive. In the figure’s clenched left hand is an opening for an attachment, perhaps a caduceus, and he appears to have held something in his right hand as well, possibly a money sack, another common attribute of this god. His eyes are inlaid with silver, and his lips as well as his nipples are overlaid with copper. Calling it either a copy of a work by Polykleitos or a faithful imitation of his style, Rolley dated the statuette to the first half of the first century AD.<sup class="footnote-ref" id="fnref:8"><a rel="footnote" href="#fn:8">8</a></sup> It appears prominently in a chart of bronze statuettes revealing the influence of Polykleitan types published by the Roman bronze expert Annalis Leibundgut in 1990 (<strong>fig. 13.3</strong>).<sup class="footnote-ref" id="fnref:9"><a rel="footnote" href="#fn:9">9</a></sup> Located on the upper left of her fig. 238 (as no. 2), it is described together with a statuette in Basel (no. 1) as a remodeling (<em>Umbildung</em>) of the Diskophoros type in small scale.<sup class="footnote-ref" id="fnref:10"><a rel="footnote" href="#fn:10">10</a></sup> The dates of all these statuettes encompass several centuries.</p>
+
+<p>The Hermes—no. 12, on the upper right of this chart in a position of prominence as a reiteration of the Doryphoros stance—is the Hermes statuette from the Mahdia shipwreck (<strong>fig. 13.4</strong>). The muscles of its trunk follow Polykleitan models, but the outstretched right arm of the statuette upsets the equilibrium—the *symmetria*—in the same way that the <em>ad locutio</em> gesture of the Augustus of Prima Porta does in that larger Roman appropriation of the Doryphoros motif. The attribute in his left hand, probably a caduceus, was separately cast and soldered on.</p>
+
+<p>In his publication of the Mahdia finds, Werner Fuchs interpreted the statuette’s outstretched right arm with open hand as a speaking motif, but Ursula Höckmann has more plausibly suggested it represents the god’s invitation to follow him.<sup class="footnote-ref" id="fnref:11"><a rel="footnote" href="#fn:11">11</a></sup> The gesture can be seen in the Hermes on the facade of a Macedonian tomb at Lefkadia dating to the late fourth century BC<sup class="footnote-ref" id="fnref:12"><a rel="footnote" href="#fn:12">12</a></sup> and identifies the bronze Hermes as a statuette intended for either a sanctuary or, more likely, a Roman villa. There it may have been placed alone in a niche for domestic veneration, for which there is evidence from Delos,<sup class="footnote-ref" id="fnref:13"><a rel="footnote" href="#fn:13">13</a></sup> or, as in later Roman households, in a <em>lararium</em>.</p>
+
+<p>Found on its original base in the Mahdia shipwreck, which is dated by its ceramic finds to 90–60 BC,<sup class="footnote-ref" id="fnref:14"><a rel="footnote" href="#fn:14">14</a></sup> the Hermes is a Late Hellenistic bronze product of an artist familiar with both Polykleitan and fourth-century sculptural concepts of the standing figure that must have been traditional by that time and part of the artist’s vocabulary. Disseminated through images on coins, probably drawings on papyri, and possibly hardened wax or plaster models, these formal concepts could be adapted according to the intended use of the statuette, the sophistication of the sculptor, and, importantly, the knowledge and taste of the client.</p>
+
+<p>It seems apparent that Hermes was the most popular deity for household use in the Late Hellenistic and early Roman world, the god’s popularity increasing substantially in the Roman Imperial period, judging from the number of extant bronze statuettes of Hermes/Mercury dated to that time. There is great variety among those statuettes that have survived, the identification of the deity being made clear through the addition of his attributes. Truth to a prototypical origin, even had one been accessible to the artist, may in this case at least, have been far less important to the buyer than the god’s identity.</p>
+
+<p>The same repertory was available to artists throughout the Roman Empire. Tonio Hölscher has written about the usefulness of certain Greek styles and figure types for specific subjects in Roman sculptural practice.<sup class="footnote-ref" id="fnref:15"><a rel="footnote" href="#fn:15">15</a></sup> He was referring to large-scale statues, but one of the many late first- or early second-century bronze statuettes of the god Mercury found in Roman Gaul can serve to demonstrate the Roman use of modified Polykleitan schemes for a male deity (see <strong>fig. 13.3</strong>, no. 7; <strong>fig. 13.5</strong>). It is a free adaptation, suggesting the broad eclecticism of artists of bronze statuettes in the Imperial period. Leibundgut’s chart (see <strong>fig. 13.3</strong>) makes clear that variations in the statuette of a god such as Hermes/Mercury were the norm even among those whose ultimate reference for stance and general pose is the same Polykleitan type. None of these can be said to assure us of the appearance of an original Polykleitos Hermes.</p>
+
+<p>It was not the manufacture of bronze statuettes but the production of full-size marble copies that was the principal means of satisfying the interest of Roman clients in famous Classical prototypes, and there is evidence of some remarkable consistency among those copies.<sup class="footnote-ref" id="fnref:16"><a rel="footnote" href="#fn:16">16</a></sup> There were clearly some attempts, however, to recall well-known large-scale statues in miniature versions. A few small Roman bronzes of the Polykleitan Diadoumenos have survived (for example, <strong>fig. 13.6</strong>), and there is a well-known Late Hellenistic terracotta rendition.<sup class="footnote-ref" id="fnref:17"><a rel="footnote" href="#fn:17">17</a></sup> But while these small-scale figures are faithful iterations of the Diadoumenos pose, with the turning of the head and its inclination, and sometimes accurately repeat the proportions of the Polykleitan body, the intimacy of their scale allows an element of the artist’s personality to be introduced. Seeing the effects of the hands of the modeling artists may add to our appreciation of the relaxed and youthful forms of these small sculptures. There can be little question, however, that in various ways, and to varying degrees, seeing the statuettes in isolation would inevitably modify an understanding of the original statue.</p>
+
+<p>While the forms and proportions of the body of the very small bronze Diadoumenos in the Cabinet des Médailles in Paris (<strong>fig. 13.6</strong>) appear close to the marble copies, the figure’s left leg is noticeably pushed further back and his upper left arm is more sharply raised. The added touch of luxury represented by the silver inlay in the ribbon the young man is tying around his head suggests that, however imperfect as a true copy, the bronze was intended to be valued by a knowledgeable Roman collector of the mid-first century AD as a recognizable reference to the well-known masterpiece.</p>
+
+<p>Two extant small Roman bronzes mimic the pose of Myron’s Diskobolos, which we know from the Lancelotti marble copy,<sup class="footnote-ref" id="fnref:18"><a rel="footnote" href="#fn:18">18</a></sup> discovered with its original head in 1781 on the Esquiline Hill; it is considered the copy closest to Myron’s original bronze statue.<sup class="footnote-ref" id="fnref:19"><a rel="footnote" href="#fn:19">19</a></sup> The body of the well-known bronze Diskobolos statuette in Munich is poised in the same complicated and momentary position (<strong>fig. 13.7</strong>). Though the artist of the statuette may have had access to the bronze original or, perhaps more likely, a marble copy faithful to it, the statuette’s truth to its prototype is clearly limited. The limbs of the bronze are elongated, the torsion is exaggerated by the more frontal position of the upper torso, and the individualized head and face of the statuette bear no resemblance at all to the Classical style of the marble copies. With its silver eyes and overlaid copper nipples, the statuette was produced, like the small bronze version of the Diadoumenos in Paris (see <strong>fig. 13.6</strong>), as a collector’s item for the Roman market. Michael Maass dated the Munich statuette to the third century AD as a free, small-scale adaptation of the concept behind Myron’s Diskobolos.<sup class="footnote-ref" id="fnref:20"><a rel="footnote" href="#fn:20">20</a></sup> The concept was a brilliant fifth-century Greek <em>tour-de-force</em>, and of considerable interest for that reason.</p>
+
+<p>The second Roman bronze Diskobolos presenting this complex pose was found in 1964 in a cache of statuettes in the Athens suburb of Ambelokipi.<sup class="footnote-ref" id="fnref:21"><a rel="footnote" href="#fn:21">21</a></sup> At 25 centimeters (8 in.) high, it is somewhat smaller than the Munich Diskobolos (see <strong>fig. 13.7</strong>) and sadly too corroded to distinguish details. But we recognize its Classical prototype immediately and can see that it is less exaggerated in its torsion and more classicizing in its proportions than the bronze in Munich. Now in the National Museum in Athens, it has been dated to the first century AD.</p>
+
+<p>Determining whether a bronze statuette is of Hellenistic or Roman manufacture is a frequent problem, and often left unresolved. The origin and date of one of the most arresting extant bronze statuettes assumed to represent a major Classical Greek statue has remained controversial. An inlaid silver inscription on a base added to a bronze statuette of Herakles (35.9 cm or 14 in. high) in Chieti identifies the figure as a votive dedication from M. Atticus Peticius Marsus, known from other sources to have lived in the first century AD, to the Sanctuary of Hercules Curinus in Sulmona, where it was found in 1959. The left foot is missing and lower leg is damaged, but the figure is well modeled with great attention paid to the details of the hero’s hair and the lion’s mane.<sup class="footnote-ref" id="fnref:22"><a rel="footnote" href="#fn:22">22</a></sup> Paolo Moreno has dated the statuette to the third century BC,<sup class="footnote-ref" id="fnref:23"><a rel="footnote" href="#fn:23">23</a></sup> not long after the production of the Lysippos original that he believes the statuette reiterates in much smaller scale. Those who promulgate this date suggest that the antiquity of the statuette added to its value as a dedication from a pious Roman citizen. Diethelm Krull, on the other hand, who catalogued 127 examples of the resting hero type, believes the statuette to be a Roman Imperial work, dating it to around 100 AD.<sup class="footnote-ref" id="fnref:24"><a rel="footnote" href="#fn:24">24</a></sup> Recent publications vary in their assessments.<sup class="footnote-ref" id="fnref:25"><a rel="footnote" href="#fn:25">25</a></sup></p>
+
+<p>In both cultures, the very nature of the artistic practice of those who produced bronze statuettes—modeling their casting models in clay or wax by hand—not only allowed the artists the freedom to embellish or deviate from a given prototype, it also made changes inevitable, even when the intention was an accurate miniature copy. The Chieti bronze Herakles is highly detailed, with several large areas full of surface activity and visual interest. While textured surfaces are not characteristics generally associated with the sculpture of Lysippos, it must be remembered that the original was cast in bronze, a medium which easily lends itself to surface variety.</p>
+
+<p>When a small-scale bronze version reiterates a marble prototype, the potential for deviation from the original expands considerably. A single, rather obvious example, a large statuette of Aphrodite in New York, explicates very clearly the relationship of a bronze statuette to a reputed prototypical Classical masterpiece carved in marble (<strong>fig. 13.8</strong>). Usually dated 150–100 BC, it is one of the most interesting of the many extant bronze versions of the famous over-life-size fourth-century Aphrodite in Knidos by Praxiteles. Praxiteles’ resolution of his brilliant and innovative concept of a naked Aphrodite was in marble, and full-size Roman versions are likewise in marble. The statuette, perhaps from Asia Minor, has its share of restorations: the right arm has been reattached, the join hidden by restoration. The left arm was probably also reattached, and part of the upper arm has been restored. There are minor restorations on the upper back, as well, and a depression on the bottom of the figure’s right foot was probably made to attach it to a base; the heel is pierced for the insertion of a modern wooden dowel. Originally there may have been drapery in the statuette’s left hand, a feature making it closer to Praxiteles’ original conception as we understand it. The slight bending of the bronze figure is exaggerated in comparison to most of the marble copies, considerably heightening the animation of the pose.</p>
+
+<p>Artists who built bronze casting models from pliable wax on what may well have been flexible armatures could design freer and more open gestures of the arms and hands, which were not so easily achieved in marble without struts or supports. A bronze statuette like the Aphrodite follows the general <em>schema</em> of its prototype and is unquestionably indicative of the original statue’s great fame and a moving testament to Praxiteles’ genius. But whatever its artist’s intention might have been, we must consider the statuette an inventive response by an artist who was inspired and motivated by some familiarity with the original marble type, not a copy.</p>
+
+<p>Note: Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.</p>
+
+<h2 id="bibliography">Bibliography</h2>
+
+<dl>
+<dt>Beck, Bol, and Bückling 1990</dt>
+<dd>Beck, H., P. C. Bol, and M. Bückling, eds. 1990. <em>Polyklet: Der Bildhauer der griechischen Klassik</em>. Exh. cat. Frankfurt, Liebieghaus Museum alter Plastik. Mainz am Rhein: Zabern.</dd>
+<dt>Bol 1990</dt>
+<dd>Bol, P. C. 1990. “Hermes.” In Beck, Bol, and Bückling 1990, 118–20.</dd>
+<dt>Daehner and Lapatin 2015</dt>
+<dd>Daehner, J. M., and K. Lapatin, eds. 2015. <em>Power and Pathos: Bronze Sculpture of the Hellenistic World</em>. Los Angeles: J. Paul Getty Museum.</dd>
+<dt>Fuchs 1963</dt>
+<dd>Fuchs, W. 1963. <em>Der Schiffsfund von Mahdia</em>. Tübingen: W. Wasmuth.</dd>
+<dt>Furtwängler [1895] 1964</dt>
+<dd>Furtwängler, A. 1964. <em>Masterpieces of Greek Sculpture</em>. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895).</dd>
+<dt>Höckmann 1994</dt>
+<dd>Höckmann, U. 1994. “Die Hermesstatuette.” In <em>Das Wrack: Der antike Schiffsfund von Mahdia</em>, ed. G. Hellenkemper Salies, 469–81. Cologne: Rheinland-Verlag.</dd>
+<dt>Hölscher 2004</dt>
+<dd>Hölscher, T. 2004. <em>The Language of Images in Roman Art</em>, trans. A. Snodgrass and A. Künzl-Snodgrass. Cambridge: Cambridge University Press.</dd>
+<dt>Jenkins 2012</dt>
+<dd>Jenkins, I. 2012. <em>The Discobolus</em>. British Museum Objects in Focus. London: British Museum Press.</dd>
+<dt>Kreeb 1988</dt>
+<dd>Kreeb, M. 1988. <em>Untersuchungen zur figürlichen Ausstattung delischer Privathauser</em>. Chicago: Ares.</dd>
+<dt>Kreikenbom 1990</dt>
+<dd>Kreikenbom, D. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64.</dd>
+<dt>Krystalli-Votsi 2014</dt>
+<dd>Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων (<em>The Ambelokipi Bronzes)</em>. Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn.</dd>
+<dt>Krull 1985</dt>
+<dd>Krull, D. 1985. <em>Der Herakles vom Typ Farnese</em>. Frankfurt am Main: P. Lang.</dd>
+<dt>Leibundgut 1990</dt>
+<dd>Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427.</dd>
+<dt>Maass 1979</dt>
+<dd>Maass, M. 1979. <em>Griechische und römische Bronzewerke der Antikensammlungen</em>. Munich: Beck.</dd>
+<dt>Moreno 1995</dt>
+<dd>Moreno, P. 1995. <em>Lisippo: L’Arte e la fortuna</em>. Exh. cat. Rome, Palazzo delle Esposizioni. Milan: Fabbri.</dd>
+<dt>Petit 1980</dt>
+<dd>Petit, J. 1980. <em>Bronzes antiques de la collection Dutuit: Grecs, hellénistiques, romains et de l’Antiquité tardive</em>. Musée du Petit Palais. Paris: Presses artistiques.</dd>
+<dt>Petsas 1966</dt>
+<dd>Petsas, P. M. 1966. <em>O táphos ton Lefkadion</em>. Athens: TAP.</dd>
+<dt>Picón and Hemingway 2016</dt>
+<dd>Picón, C., and S. Hemingway, eds. 2016. <em>Pergamon and the Hellenistic Kingdoms of the Ancient World</em>. Exh. cat. New York: Metropolitan Museum of Art.</dd>
+<dt>Rolley 1983</dt>
+<dd>Rolley, C. 1983. <em>Les bronzes grecs</em>. Fribourg and Paris: Office du livres.</dd>
+<dt>Rotroff 1994</dt>
+<dd>Rotroff, S. I. 1994. “The Pottery.” In <em>Das Wrack: Der antike Schiffsfund von Mahdia</em>, ed. G. Hellenkemper Salies, 133–52. Cologne: Rheinland-Verlag.</dd>
+<dt>Zanker 1974</dt>
+<dd>Zanker, P. 1974. <em>Klassizistische Statuen: Studien zur Veränderung des Kunstgeschmacks in der römischen Kaiserzeit</em>. Mainz am Rhein: Zabern.</dd>
+</dl>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Furtwängler [1895] 1964, 231–32.
+ <a class="footnote-return" href="#fnref:1">↥</a></li>
+<li id="fn:2">Petit 1980, 23.
+ <a class="footnote-return" href="#fnref:2">↥</a></li>
+<li id="fn:3">Petit 1980, 18–23, 88–93, with earlier bibliography.
+ <a class="footnote-return" href="#fnref:3">↥</a></li>
+<li id="fn:4">Kreikenbom 1990, 535–36, cat. 39.
+ <a class="footnote-return" href="#fnref:4">↥</a></li>
+<li id="fn:5">Bol 1990; Kreikenbom 1990, 531–35, cat. 34–38.
+ <a class="footnote-return" href="#fnref:5">↥</a></li>
+<li id="fn:6">Zanker 1974, 4–7, nos. 1–5.
+ <a class="footnote-return" href="#fnref:6">↥</a></li>
+<li id="fn:7">Rolley 1983, 153, no. 143.
+ <a class="footnote-return" href="#fnref:7">↥</a></li>
+<li id="fn:8">Rolley 1983, 153, no. 143.
+ <a class="footnote-return" href="#fnref:8">↥</a></li>
+<li id="fn:9">Leibundgut 1990, 398–89, fig. 238.
+ <a class="footnote-return" href="#fnref:9">↥</a></li>
+<li id="fn:10">Beck et al. 1990, 654, no. 186 (A. Leibundgut). Attributed to a workshop in southern Gaul and dated early Claudian.
+ <a class="footnote-return" href="#fnref:10">↥</a></li>
+<li id="fn:11">Fuchs 1963, 20, no. 11, fig. 20; Höckmann 1994. Dated to about 100 BC.
+ <a class="footnote-return" href="#fnref:11">↥</a></li>
+<li id="fn:12">Petsas 1966, plate Z’ and 6.
+ <a class="footnote-return" href="#fnref:12">↥</a></li>
+<li id="fn:13">Kreeb 1988.
+ <a class="footnote-return" href="#fnref:13">↥</a></li>
+<li id="fn:14">The most recent transport amphora (fitting the category Dressel 1B/Will 4 b) could be dated to no later than the second or third decade of the first century BC. Rotroff 1994, 139–42.
+ <a class="footnote-return" href="#fnref:14">↥</a></li>
+<li id="fn:15">Hölscher 2004, 98–100.
+ <a class="footnote-return" href="#fnref:15">↥</a></li>
+<li id="fn:16">A marble Polykleitan Diadoumenos, considered Flavian (69–96 AD), was purchased in 1925 by the Metropolitan Museum in New York. The head, arms, and both legs below the knee were restored to form a complete statue on the basis of plaster casts taken from the torso and upper legs of an originally gilded copy of the Diadoumenos from the island of Delos dated by external evidence to the early first century BC. Their perfect integration suggests a remarkable uniformity in truth to the original bronze model in scale and disposition of forms over a period of almost two centuries. The carving of the marble musculature, facial features, and hair among copies of the same prototype, however, can reveal as much creative latitude as the rendering of the small bronze versions.
+ <a class="footnote-return" href="#fnref:16">↥</a></li>
+<li id="fn:17">Zanker 1974, plate 11, 1–6. The terracotta (1, 4), from Smyrna, dated to the first half of the first century BC, must be considered a creation of the coroplast based on Polykleitos’s Diadoumenos, or on an adaptation of it. For another bronze variant, see Beck, Bol, and Bückling 1990, 272, fig. 145.
+ <a class="footnote-return" href="#fnref:17">↥</a></li>
+<li id="fn:18">In the Museo Nazionale, Rome. See Jenkins 2012, 16, fig. 7.
+ <a class="footnote-return" href="#fnref:18">↥</a></li>
+<li id="fn:19">Its restoration confirmed the ancient report by Lucian (AD 120–200), who saw the original in a house in Athens and described the head facing back toward the hand with the discus (<em>Philopseudes</em> 18).
+ <a class="footnote-return" href="#fnref:19">↥</a></li>
+<li id="fn:20">Maass 1979, 36.
+ <a class="footnote-return" href="#fnref:20">↥</a></li>
+<li id="fn:21">Krystalli-Votsi 2014, 64–67, plate 14.
+ <a class="footnote-return" href="#fnref:21">↥</a></li>
+<li id="fn:22">Museo Archeologico Nazionale d’Abruzzo, Chieti, inv. 4340. H with base: 39 cm (15 &frac12; in.). Recent publications of the statuette, with bibliographies, are Daehner and Lapatin 2015, 218–19, no. 16 (K. Lapatin), and Picón and Hemingway 2016, 112–13, no. 14 (R. Tuteri).
+ <a class="footnote-return" href="#fnref:22">↥</a></li>
+<li id="fn:23">Moreno 1995, no. 4.14.1, 104–106.
+ <a class="footnote-return" href="#fnref:23">↥</a></li>
+<li id="fn:24">Krull 1985, 158, no. 63.
+ <a class="footnote-return" href="#fnref:24">↥</a></li>
+<li id="fn:25">Lapatin in Daehner and Lapatin 2015 (see n. 22 above), leaves open the possibility of either date; R. Tuteri in Picón and Hemingway 2016 (see n. 22 above) dates the statuette to the third century BC, the base to the early first century AD.
+ <a class="footnote-return" href="#fnref:25">↥</a></li>
+</ol>
+</div>
+
+    </section>
+    <section class="quire-page__content__references">
+      <h2>Bibliography</h2>
+      <dl></dl>
+    </section>
+</div>
+
+    </main>
+    <script src="../../assets/js/application.js"></script>
+    <script>
+      (function() {
+        var button = document.querySelectorAll("button.expander");
+        for (var i = 0; i < button.length; i++) {
+          button[i].setAttribute("aria-expanded","false");
+          button[i].nextElementSibling.hidden = true;
+          button[i].addEventListener("click", function() {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", String(!expanded));
+            this.nextElementSibling.hidden = expanded;
+          });
+        }
+      })();
+      (function() {
+      var button = document.querySelectorAll("button.heading-expander");
+      for (var i = 0; i < button.length; i++) {
+        button[i].setAttribute("aria-expanded","false");
+        button[i].parentElement.nextElementSibling.hidden = true;
+        button[i].addEventListener("click", function() {
+          var expanded = this.getAttribute("aria-expanded") === "true";
+          this.setAttribute("aria-expanded", String(!expanded));
+          this.parentElement.nextElementSibling.hidden = expanded;
+        });
+      }
+    })();
+    </script>
+    
+<script></script>
+
+  </body>
+</html>

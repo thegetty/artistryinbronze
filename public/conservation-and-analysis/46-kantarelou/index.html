@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria &middot; Artistry in Bronze</title>
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dcterms.date" content="2017-11-01">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:300,300i,400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="../../assets/css/application.css">
+  </head>
+  <body class="quire-baseof quire-essay">
+    <svg style="display:none">
+  <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+    <path d="M6,16l11.7,12.4c0.4,0.4,0.4,0.8,0,1.1l-2.1,2.1c-0.4,0.4-0.8,0.4-1.1,0.1L0.2,16.6C0.1,16.5,0,16.3,0,16c0-0.2,0.1-0.4,0.2-0.6L14.5,0.3c0.4-0.4,0.7-0.4,1.1,0l2.1,2.2c0.4,0.4,0.4,0.8,0,1.1L6,16z"/>
+  </symbol>
+  <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+    <path d="M12,16L0.3,3.6c-0.4-0.4-0.4-0.8,0-1.1l2.1-2.1c0.4-0.4,0.8-0.4,1.1-0.1l14.3,15.2c0.1,0.1,0.2,0.3,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6L3.5,31.7c-0.4,0.4-0.7,0.4-1.1,0l-2.1-2.2c-0.4-0.4-0.4-0.8,0-1.1L12,16z"/>
+  </symbol>
+  <symbol id="search-icon" viewBox="0 0 32 32">
+    <path d="M31.7,26.9c0.4,0.4,0.4,0.8,0,1.2l-3.6,3.7C28,31.9,27.7,32,27.5,32c-0.2,0-0.4-0.1-0.6-0.2l-7-7.2c-2.1,1.3-4.3,1.9-6.7,1.9c-3.6,0-6.7-1.3-9.3-3.9C1.3,20,0,16.9,0,13.2s1.3-6.8,3.9-9.4C6.5,1.3,9.6,0,13.2,0c3.6,0,6.7,1.3,9.3,3.9s3.9,5.7,3.9,9.4c0,2.3-0.6,4.5-1.7,6.5L31.7,26.9z M18.9,7.5c-1.6-1.6-3.4-2.4-5.7-2.4C11,5.2,9.1,6,7.5,7.5S5.2,11,5.2,13.2c0,2.2,0.8,4.1,2.4,5.7c1.6,1.6,3.5,2.4,5.7,2.4c2.2,0,4.1-0.8,5.7-2.4c1.6-1.6,2.3-3.5,2.3-5.7C21.2,11,20.4,9.1,18.9,7.5z"/>
+  </symbol>
+  <symbol id="nav-icon" viewBox="0 0 32 32">
+    <path d="M29.4,2.5c0.7,0,1.3,0.3,1.8,0.8C31.8,3.8,32,4.5,32,5.2c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,6.6,0,5.9,0,5.2c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,13.3c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,17.4,0,16.7,0,16c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,24.1c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,28.2,0,27.5,0,26.8c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z"/>
+  </symbol>
+  <symbol id="location-icon" viewBox="0 0 20 32">
+    <path d="M2.9,2.9C4.9,1,7.2,0,10,0C12.7,0,15,1,17,2.9c2,1.9,3,4.3,3,7.1c0,2.8-0.8,6.1-2.5,9.8s-3.3,6.6-5,8.9L10,32c-0.3-0.3-0.6-0.8-1.1-1.4C8.4,30,7.6,28.8,6.5,27c-1.1-1.8-2.1-3.5-3-5.2c-0.9-1.7-1.7-3.7-2.4-5.9C0.4,13.8,0,11.8,0,10C0,7.2,1,4.9,2.9,2.9z M6.7,13.5c0.9,0.9,2,1.4,3.3,1.4c1.3,0,2.4-0.5,3.3-1.4c0.9-0.9,1.4-2,1.4-3.3c0-1.3-0.5-2.4-1.4-3.3c-0.9-0.9-2.1-1.4-3.3-1.4c-1.3,0-2.4,0.5-3.3,1.4c-0.9,0.9-1.4,2.1-1.4,3.3C5.3,11.4,5.7,12.5,6.7,13.5z"/>
+  </symbol>
+  <symbol id="link-icon" viewBox="0 0 32 16">
+    <path d="M22.2,4c0.3,0.8,0.5,1.7,0.5,2.7v2.7h-4V6.7c0-0.8-0.2-1.4-0.8-1.9S16.8,4,16,4H6.7C5.9,4,5.2,4.2,4.8,4.8S4,5.9,4,6.7v2.7c0,0.8,0.2,1.4,0.8,1.9S5.9,12,6.7,12H8c0.2,0.8,0.5,1.5,0.9,2.2c0.4,0.7,0.9,1.1,1.2,1.4l0.5,0.4h-4c-1.8,0-3.4-0.7-4.7-2c-1.3-1.3-2-2.9-2-4.7V6.7C0,4.8,0.7,3.3,2,2c1.3-1.3,2.9-2,4.7-2H16c1.3,0,2.6,0.4,3.7,1.1C20.8,1.9,21.7,2.8,22.2,4z M25.3,0c1.8,0,3.4,0.7,4.7,2c1.3,1.3,2,2.9,2,4.7v2.7c0,1.8-0.7,3.4-2,4.7c-1.3,1.3-2.9,2-4.7,2H16c-2.8,0-4.9-1.3-6.1-4c-0.4-0.9-0.6-1.8-0.6-2.7V6.7h4v2.7c0,0.8,0.2,1.4,0.8,1.9S15.2,12,16,12h9.3c0.8,0,1.4-0.2,1.9-0.8S28,10.1,28,9.3V6.7c0-0.8-0.2-1.4-0.8-1.9S26.1,4,25.3,4H24c-0.2-0.8-0.5-1.5-0.9-2.2c-0.4-0.7-0.9-1.1-1.2-1.4L21.3,0H25.3z"/>
+  </symbol>
+</svg>
+
+    <div class="quire-nav-group">
+      <a href="#main-content" class="skip-link">Skip to Main Content</a>
+      <div class="quire-menu" role="directory">
+  <button class="expander quire-menu__button">
+    <svg><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          <div class="quire-title"><span class="visually-hidden">Title: </span>Artistry in Bronze<span class="quire-subtitle">The Greeks and Their Legacy</span><span class="quire-reading-line">XIXth International Congress on Ancient Bronzes</span></div>
+<div class="quire-contributors">
+   <span class="quire-contributors__contributors-as-they-appear">Edited by</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Jens M. Daehner</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Kenneth Lapatin</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Ambra Spinelli</span>
+  
+</div>
+
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Publication Contents</h3>
+        <ul class="quire-contents">
+          
+            
+            <li><a href="../../">Cover</a></li>
+            
+          
+            
+            <li><a href="../../contents/">Contents</a></li>
+            
+          
+            
+            <li><a href="../../congresses/">List of Previous Bronze Congresses, Proceedings, and Related Exhibitions</a></li>
+            
+          
+            
+            <li><a href="../../foreword/">Directors’ Foreword</a></li>
+            
+          
+            
+            <li><a href="../../introduction/">Introduction</a></li>
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../large-scale-bronzes/">I. Large-Scale Bronzes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../the-artist/">II. The Artist</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../statuettes/">III. Statuettes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../the-helenistic-east/">IV. The Helenistic East</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../vessels/">V. Vessels</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../artifacts/">VI. Artifacts</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="../../conservation-and-analysis/">VII. Conservation and Analysis</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            <li><a href="../../about/">About</a></li>
+            
+          
+            
+            <li><a href="search.json"></a></li>
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            <li><a href="../../tables/">Tables</a></li>
+            
+          
+        </ul>
+      </nav>
+      
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        <ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze" target="_blank" rel="canonical" type="text/html">Online</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi" target="_blank" rel="alternate" type="application/mobi">MOBI/KINDLE</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a></li>
+  <li><a href="http://shop.getty.edu/products/atistry-in-bronze-978-1606065419" target="_blank" rel="alternate" type="print">Paperback</a></li>
+</ul>
+
+      </section>
+      
+      
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        
+
+  <p>© 2017 J. Paul Getty Trust.</p>
+
+
+<p>Published by <span><span class="quire-publisher">J. Paul Getty Museum</span><span class="quire-publisher">Getty Conservation Institute</span></span><time datetime="2017-11-01">November 2017</time>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/about/" target="_blank" rel="about" type="">About</a></li>
+  <li><a href="http://www.getty.edu/legal/privacy.html" target="_blank" rel="privacy-policy" type="">Privacy Policy</a></li>
+  <li><a href="http://www.getty.edu/legal/copyright.html" target="_blank" rel="terms-of-service" type="">Terms of Use</a></li>
+</ul>
+
+
+      </footer>
+    </div>
+  </div>
+</div>
+
+      <nav class="quire-nav" role="navigation" aria-label="quick">
+  <ul>
+    
+    <li>
+      <a href="../../conservation-and-analysis/45-gansicke/" rel="previous">
+        <svg><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+
+    
+    <li>
+      <a href="">
+        <span class="visually-hidden">Home Page: </span>
+        
+          Artistry in Bronze
+        
+      </a>
+    </li>
+    
+    
+    <li class="quire-nav__section-link">
+      <a href="../../conservation-and-analysis/">
+        <span class="visually-hidden">Section: </span>
+        Conservation And Analysis
+      </a>
+    </li>
+    
+    
+    <li class="quire-nav__current-page-link">
+      <span class="visually-hidden">Current Page: </span>
+      <em>A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria</em>
+    </li>
+    
+
+    
+    <li>
+      <a href="../../conservation-and-analysis/47-anderson-eremin-lie-bewer/" rel="next">
+        <svg><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+      
+        <div class="quire-search" role="directory">
+  <button class="expander">
+    <svg><switch><use xlink:href="#search-icon"></use><foreignObject><img src="path/to/search-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Search</span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    <div id="js-search-results" class="quire-search-results">
+  <div class="quire-search-results__inner">
+    <ul id="js-search-results-list" class="quire-search-results__inner__list">
+    </ul>
+  </div>
+  <template id="js-search-results-template">
+    <li class="quire-search-results__inner__list__item">
+      <a class="quire-search-results__inner__list__item__link js-search-results-item-title" href=""></a>
+    </li>
+  </template>
+</div>
+
+  </div>
+</div>
+
+      
+    </div>
+    <main role="main" id="main-content">
+      
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title"><span class="quire-page__header__number">46. </span>A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria</h1>
+    <ul class="quire-page__header__author">
+    
+    <li>V. Kantarelou, Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece</li>
+    
+    <li>A. G. Karydas Karydas, Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece</li>
+    
+    <li>L. Mahfoud, Ministry of Culture, Directorate General of Antiquities &amp; Museums, Syria</li>
+    
+    <li>A. Qurdab Qurdab, Ministry of Culture, Directorate General of Antiquities &amp; Museums, Syria</li>
+    
+    <li>M. Al-Saadi, Ministry of Culture, Directorate General of Antiquities &amp; Museums, Syria</li>
+    
+    <li>V. Argyropoulos, Technological Educational Institute of Athens (TEI), Department of Conservation of Antiquities &amp; Works of Art, Athens, Greece</li>
+    
+    </ul>
+  </header>
+  <div class="quire-page__content">
+    <section>
+      <h2>Abstract</h2>
+      <div class="quire-page__content__abstract">
+      The use of portable and handheld XRF analyzers has been widely adopted in metal compositional studies by cultural heritage professionals. However, studies have shown that the lack of certified reference materials and standardized quantification approaches has contributed to rather poor reproducibility of quantitative results among end-users in the analysis of historic and ancient copper alloys. The limited depth resolution of XRF analysis can impose additional difficulties for proper interpretation of analytical data obtained for ancient metal alloys, due to stratified corrosion layers at the metal-corrosion interface.</p>
+
+<p>During the PROMET European FP6 project, a customized micro-XRF spectrometer was transported to the National Museum of Damascus, Syria, to study its unique bronze collection. Analyses were carried out on many important artifacts, such as Late Bronze Age gilded-bronze figurines from the site of Ugarit. The paper focuses on the micro-XRF analyses of two of these bronze figurines and highlights the methodological issues regarding the optimization and validation of the micro-XRF analytical approach for ancient copper alloys. The XRF analyses of these unique Mesopotamian figurines are presented with an emphasis on best practices for micro-XRF measurement protocols, data analysis, and interpretation.
+      </div>
+      <hr />
+    </section>
+    <section class="quire-page__content__main">
+      
+
+<h2 id="introduction">Introduction</h2>
+
+<p>During the PROMET European FP6 project, a micro-XRF mobile spectrometer was transported to the National Museum of Damascus, Syria, where it was applied to and validated for the quantitative noninvasive analysis of unique museum metal collections across the Mediterranean region, successfully addressing archaeological and conservation questions. Given the value of these collections, transport of objects or sampling for analysis is generally not permitted. Thus, the development and validation of a reliable portable technology is critical for comparisons of analytical compositional results, especially for similar museum collections or objects housed around the world.</p>
+
+<p>The mobile micro-XRF spectrometer of NCSR “Demokritos” was utilized in campaigns at the Archaeological Museum of Ancient Messene (Peloponnese), the Palace Armoury Museum in Malta, the Umm Qais and Numismatic Museums in Jordan, and the National Museum of Damascus, Syria. These studies revealed important information about their metals collections concerning the manufacturing techniques and the condition of objects from various periods, but more importantly developed a standard approach for validating the precision and accuracy of compositional data for ancient and historic copper and iron alloys, as well as gilding techniques from various periods. At the Archaeological Museum of Ancient Messene, high-tin bronze mirrors dating from the second century BC were analyzed to identify the composition of the alloy and corrosion products, as well as to characterize the reflecting gray-silverish and black-colored surface finishes of the mirrors.<sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup> The Palace Armoury campaign included the XRF analysis of steel armor elements with emphasis on manufacturing techniques such as surface gilding.<sup class="footnote-ref" id="fnref:2"><a rel="footnote" href="#fn:2">2</a></sup> At Yarmouk University in Jordan, Roman copper-alloy artifacts from the Umm Qais Museum were analyzed to characterize the metal composition and corrosion products,<sup class="footnote-ref" id="fnref:3"><a rel="footnote" href="#fn:3">3</a></sup> while gold coins from the collection of the Numismatic Museum were also analyzed in order to identify compositional differences and elucidate the use of raw materials and processing practices through different historical periods. At the National Museum of Damascus, gilded copper and gold artifacts of the third millennium BC and from about 1500 BC were studied. The micro-XRF analysis was used for the first time to investigate the composition of copper and gold alloys and their corrosion products, the thickness of the gold foil used for the gilding, and finally to assess their state of preservation.<sup class="footnote-ref" id="fnref:4"><a rel="footnote" href="#fn:4">4</a></sup></p>
+
+<p>The results of these studies introduced and validated universal semi-quantitative criteria for the analysis of bronze artifacts using a certifiable quantification model, which was also tested during a comparison exercise organized by the Getty Museum.<sup class="footnote-ref" id="fnref:5"><a rel="footnote" href="#fn:5">5</a></sup> This approach is discussed here, based on the scientific examination of two unique Bronze Age figurines from the National Museum of Damascus. These gilded copper-alloy figurines represent the El god (the principal god of Ugarit) and the god Baal, both dated to the Late Bronze Age (fourteenth century BC) (<strong>fig. 46.1</strong>). Compositional results of the copper alloys are presented to highlight the main problems in micro-XRF analysis of ancient bronzes, such as the heterogeneity of the alloys; the importance of using filters in the excitation path; and the production of reliable quantitative results. The scientific examination of the figurines allowed us to develop practical guidelines for micro-XRF users on how to generate good quality XRF analytical data that are representative of the bulk composition of the metal alloy.</p>
+
+<h2 id="background">Background</h2>
+
+<p>XRF spectrometry is the most popular technique for the elemental analysis of culture heritage (CH) objects,<sup class="footnote-ref" id="fnref:6"><a rel="footnote" href="#fn:6">6</a></sup> since it is noninvasive and can detect a wide range of elements, providing fast qualitative and in some cases validated quantitative results.
+Despite the obvious advantages, the technique does have limitations, in particular when it is used for the analysis of CH metal objects utilizing an exciting X-ray beam with a size at the order of 0.1mm or below. The high spatial resolution of the exciting X-ray may produce misleading results for specific metal alloys. This is due to their micro-scale heterogeneity, which originates from the degree of solubility of the individual constituent elements and/or from the formation of corrosion products on the surface.<sup class="footnote-ref" id="fnref:7"><a rel="footnote" href="#fn:7">7</a></sup></p>
+
+<p>In the case of quaternary copper (Cu) alloys with significant lead (Pb) concentration, segregation effects appear due to the immiscibility of the Cu and Pb phases, resulting in the concentration of Pb globules at the Cu grain boundaries.<sup class="footnote-ref" id="fnref:8"><a rel="footnote" href="#fn:8">8</a></sup> Also, surface finishing techniques may result in partial removal of Pb from the inter-granular regions or to cause Pb smearing across the surface.<sup class="footnote-ref" id="fnref:9"><a rel="footnote" href="#fn:9">9</a></sup> In the case of bronzes, the corrosion process may alter the surface in particular due to the phenomenon of decuprification. For binary bronze alloys, the alteration of the surface is very well described by Luc Robbiola and colleagues, who proposed a factor to transform the analytical results obtained from the surface (corrosion layer) to those that represent the bulk of the metal alloy.<sup class="footnote-ref" id="fnref:10"><a rel="footnote" href="#fn:10">10</a></sup> Another way to achieve reliable quantitative results is to distinguish corroded from “corrosion-free” surfaces, if such exist. In the case of binary (Cu-Sn) bronzes, the ratio of Sn Kα to Lα lines of the examined alloy was suggested<sup class="footnote-ref" id="fnref:11"><a rel="footnote" href="#fn:11">11</a></sup> in order to access a finishing technique or/and the alteration of the original alloy. Later on, this ratio was further developed as a robust semi-quantitative criterion to assess the presence or absence of surface alteration, which can be used for different XRF spectrometers and operational conditions.<sup class="footnote-ref" id="fnref:12"><a rel="footnote" href="#fn:12">12</a></sup> Another way to approach the original composition of the alloy is by using energy dispersive x-ray fluorescence (EDXRF) measurements combined with Monte Carlo methods.<sup class="footnote-ref" id="fnref:13"><a rel="footnote" href="#fn:13">13</a></sup></p>
+
+<p>Another problem with the micro-XRF analysis of metals is the presence in the spectrum of peaks that energetically coincide with constituent elements’ characteristic X-rays. The surface of a “corrosion-free” metal alloy exhibits a rather polycrystalline structure. Therefore, when the X-ray tube continuum-Bremsstrahlung radiation is utilized as an excitation source, it is probable that the Bragg equation will be fulfilled at certain energies under a particular geometrical set-up configuration. More specifically, according to Bragg’s law:</p>
+
+<ul>
+<li><p>2<em>d</em> sin <em>θ</em> = *n*λ, where</p></li>
+
+<li><p><em>d</em> = sample crystal lattice spacing;</p></li>
+
+<li><p>2<em>θ</em> = angle between the incident and the reflected beam from the
+sample;</p></li>
+
+<li><p>λ = wavelength of the incident radiation.</p></li>
+</ul>
+
+<p>Thus, it might be possible that, for certain values of <em>d</em> and <em>θ</em>, the aforementioned equation may be fulfilled by an incident wavelength λ contained within the polychromatic tube spectrum. As a consequence, various undesirable peaks that correspond to different orders of diffraction will appear in the spectrum and possibly interfere with characteristic X-rays of interest. The phenomenon is significantly enhanced with the highly focused exciting beam produced by X-ray lenses in micro-XRF spectrometers. In this case, due to the well-defined excitation geometry, the Bragg condition will be fulfilled by the majority of the incident flux at a particular energy, whereas with broader beams the diffraction peaks are less pronounced. The appearance of the diffraction peaks can be identified in the XRF spectra based on the following criteria:</p>
+
+<ol>
+<li><p>Usually a Bragg peak does not coincide with the tabulated energy of any characteristic X-ray, or if it does, it is not accompanied by the rest of the transition lines following the decay of an inner shell (K-, L-) hole. For example, if the energy of the diffraction peak coincides with the Κα line of one element, then depending on the presence of this particular element within the analyzed sample, the respective Κβ line either has an abnormal relative intensity with respect to the Κα line intensity or it would be completely absent.</p></li>
+
+<li><p>Typically the diffraction peaks exhibit a broader shape than the typical characteristic X-ray peaks, which are modulated by the detector energy resolution and natural linewidth and not by the sample irradiation geometry.</p></li>
+
+<li><p>If the sample orientation is changed slightly with respect to the exciting beam, a respective shift in their energy is observed.</p></li>
+</ol>
+
+<p>A standard methodology to minimize or even eliminate the presence of Bragg peaks in the spectrum is to introduce a strong absorber between the source and the sample/spot to filter the interfering part of the exciting radiation. Usually the low energy continuum (10 k eV) has a more pronounced probability of undertaking Bragg diffraction.</p>
+
+<p>In micro-XRF analysis, a polycapillary X-ray lens is usually utilized in the excitation channel to collect efficiently, propagate, and focus to a few tens of micrometers the exciting X-ray beam radiation. Nevertheless, the X-ray lens introduces major difficulties in quantification, since its transmission efficiency—being highly dependent on the transmitted X-ray energy—results in significant and not easily predicted modifications of the energy distribution of the primary tube spectrum. Although quantitative analysis by direct comparison with a certified reference material (CRM) is a rather simple and straightforward approach, it assumes the availability of CRMs with a compositional profile (matrix) similar to the unknown one. This necessity can be avoided, however, by applying for the micro-XRF quantification analysis a fundamental parameters approach that utilizes an analytical description of the lens transmission efficiency.<sup class="footnote-ref" id="fnref:14"><a rel="footnote" href="#fn:14">14</a></sup> This methodology is applied below for the compositional analysis of two gilded-bronze figurines from the National Museum of Damascus in Syria.</p>
+
+<h2 id="the-gilded-bronze-figurines-from-the-late-bronze-age">The Gilded Bronze Figurines from the Late Bronze Age</h2>
+
+<p>This paper focuses on the analysis of two gilded-bronze figurines using micro-XRF during the <em>in situ</em> campaign. The figurines belong to the Late Bronze Age (1400–1300 BC) and were discovered at the southern area of Ugarit, which was first excavated in 1929 by French archaeologists. Site research suggests that the city acted as a link between the Near East and the ancient Mediterranean world.<sup class="footnote-ref" id="fnref:15"><a rel="footnote" href="#fn:15">15</a></sup> Ugarit became the center of interaction between Egypt, Crete, Cyprus, and Anatolia, promoting an exchange of the earliest artistic styles within the ancient world. These statues represent ancient gods: the first one represents the El god (inv. RS23) and the other, the Baal god (inv. 3572) (see fig. 46.1). The El god figurine is in a seated position with its right hand raised, apparently in blessing, and its crown resembles the crown of Osiris. The stance of the Baal god is borrowed from Egyptian images of triumphant kings striding over their fallen enemies.<sup class="footnote-ref" id="fnref:16"><a rel="footnote" href="#fn:16">16</a></sup> At that time, Ugarit art was highly influenced by Egyptian art, as can be observed in the examined artifacts. In another paper,<sup class="footnote-ref" id="fnref:17"><a rel="footnote" href="#fn:17">17</a></sup> we discussed the methodology for the micro-XRF analysis of the gilded parts of the objects. The examination of gilded areas showed the use of the foil gilding technique, determined the composition of the gilded areas, and revealed the use of different gold sheets on these objects.</p>
+
+<h2 id="measurement-set-up">Measurement Set-up</h2>
+
+<p>The scientific examination of the bronze figurines was carried out by a portable micro-XRF spectrometer (<strong>fig. 46.2</strong>). This instrument was developed based on a commercial spectrometer (Bruker-Nano ARTAX) with optimized features regarding the design of the spectrometry head and the lens transmission efficiency at high energies (20 k eV). The spectrometer probe consists of an X-ray micro-focus Rh-anode tube (spot size 50 μm x 50 μm, max 50 kV, max 1 mA, 30W maximum power consumption, Be window 0.2 mm thickness); and a polycapillary X-ray lens as a focusing optical element (IFG), with focal distance equal to 21.2 mm and with spatial resolution of ~40–100 μm. The X-ray detection chain consists of an electro-thermally cooled 10 mm^2^ silicon drift detector (X-Flash, 1000B) with FWHM equal to 146 eV at 10 kcps coupled with a digital signal processor. A color CCD camera (ca. 13x magnification) is used for sample illumination and a dimmable white LED to produce a laser spot. Three different stepping motors, coupled with the spectrometer head, allow its movement in three-dimensions, to facilitate 2D scanning measurements. Finally, a portable supporting stand for the micro-XRF spectrometer (developed in-house) allows its vertical movement in a range of about 50 cm. The portable stand can be easily disassembled, packed, and transported to a museum or a site.</p>
+
+<h2 id="results-discussion">Results/Discussion**</h2>
+
+<p><em>The Problem of Heterogeneity:</em> The micro-scale heterogeneity of CH metals was validated during the PROMET campaign and was reported in the book <em>The Preservation of Metal Museum Collections from the Mediterranean Region: The PROMET Approach</em>.<sup class="footnote-ref" id="fnref:18"><a rel="footnote" href="#fn:18">18</a></sup> In this study, the examination of ancient copper alloys highlights the necessity of area mapping to deduce mean values of elemental intensities compared to single spot micro-XRF analysis. It is very characteristic that the homogeneity of the SRM BCR-691 copper alloys is ensured only for a beam spot size at the order of 5 mm due to their micro-scale heterogeneity. Typical copper alloys were analyzed by performing micro-XRF mapping in small (~0.5 x 0.5 mm^2^) and large (~5 x 5 mm^2^) areas. <strong>Table 46.1</strong> reports the systematic area scans performed for the copper BCR-691Α alloy. The elemental intensities deduced from each area scan were averaged and the respective standard deviations (STDMV %) are presented. In addition, the table gives the standard deviation (%) of the mean value determined by averaging the individual mean values of all the area scans for a specific elemental intensity.</p>
+
+<p>Given these results, what would be an appropriate measurement methodology that would generate representative results of the metal alloy bulk composition? The following practical guidelines should be taken into account:</p>
+
+<ol>
+<li><p>The scanning micro-XRF analysis should be conducted in at least three different areas ~1 mm x 1mm or larger, containing an adequate number of spot measurements (30) with step size equal to or slightly larger than the spatial resolution of the exciting beam (~0.1 mm in our case), and the respective mean average elemental intensities should be averaged.</p></li>
+
+<li><p>If a scanning mode of analysis cannot be applied, as many single spot measurements as possible should be taken at different areas of the analyzed surface to deduce mean elemental intensities that represent more accurately the bulk composition of the alloy.</p></li>
+</ol>
+
+<p><em>The Need for Filtered Excitation:</em> As discussed above, the surface of a bronze object exhibits a polycrystalline structure that may produce parasitic XRD peaks on the XRF spectrum that sometimes coincide with the energy region in which characteristic X-ray lines appear. The use of a filter in the excitation path can eliminate the influence of this phenomenon. Another advantage to using a filter is the improvement of peak-to-background at the energy region where minor or even trace elements (such as zinc, arsenic, or selenium) may be expected, and also the reduction of pile-up peaks.</p>
+
+<p>As an example, a single spot measurement was taken on the surface of the El-god figurine using unfiltered versus filtered excitation. In the case of bronze alloy analysis, the selected filter consisted of a sandwich of the following materials: cobalt (Co) (17.7 ± 1.3) μm, titanium (Ti) (23.64 ± 0.18) μm, and palladium (Pd) (11.3 ± 0.3) μm.</p>
+
+<p>Both spectra (<strong>fig. 46.3</strong>) showed that the statue is made of a binary copper-tin alloy with some traces of iron, zinc, and arsenic. In the case of the filtered excitation, the background was reduced, and the presence of selenium and lead traces in the alloy was revealed. The detection of trace elements is extremely important in archaeometric studies, because it can give clues about the provenance of raw materials and the manufacturing process.</p>
+
+<p><em>Surface Corrosion Products:</em> The identification of a patina layer or surface corrosion products in XRF analysis relies on the detection of particular elements, mostly of elements with low atomic number like sulfur (S) or chlorine (Cl), which are signs/fingerprints of certain types of copper- or tin-related corrosion products. Another criterion is applicable when medium atomic number elements like tin are included in the bulk composition of the metal alloy. For example, in bronze alloys the variation of the (L/K) intensity ratio for the Sn-characteristic X-rays among different corroded and corrosion-free areas can indicate the presence of an alteration of the original alloy surface. The intensity of L X-ray lines, due to their significantly lower energy relative to the K-lines, is mostly affected by the at-depth distribution of the element, that is, whether it is on the surface layer or below; thus, a higher value probes a surface location of tin, whereas a lower- or negligible-value L-intensity gives direct evidence that a surface layer without tin acts as an absorbing layer. Moreover, in order to probe efficiently the elements S, Cl, and Sn L-X-rays, an unfiltered tube radiation is suitable as an exciting X-ray source. It should be stressed that the XRF analysis cannot identify the mineralogical type of a corrosion product, as the XRD or FTIR analysis can. However, through the elemental analysis, XRF can reveal elemental associations compatible with particular types of corrosion products.</p>
+
+<p>An area map was performed at the back of the El god figurine (see fig. 46.1a). The black quadrangle in <strong>figure 46.4a</strong> defines the area of analysis, which shows both black and green coloration. The measurement conditions were set at 50 kV, 600μA, 30s/step, 0.1mm/step, total area of analysis 0.5 × 0.8 mm^2^ (42 measurements). In <strong>figures 46.4b and c</strong>, the Cu Kα and the ratio of Sn Lα/Kα elemental intensities in each analyzed area are presented. The warm colors correspond to higher intensity values: therefore in the green region (on the right side of the scan) the increment of Cu Kα line points to the formation of a green copper-corrosion product (possibly malachite due to absence of S and Cl from the recorded spectra); whereas in the black area (down and left) the increment of Sn characteristic lines reveals the formation of a black tin corrosion products (possibly tin oxides).</p>
+
+<p><em>Certifiable Quantitative Results:</em> The XRF screening of reddish-brown areas on the surface of the Baal god figurine (see for example photos of three selected areas, <strong>fig. 46.5a–c</strong>) could indicate (in principle) corrosion-free areas as opposed to those with the presence of reddish corrosion products (most likely cuprite). It is not possible to discriminate such areas by visual examination alone. This new methodology for screening was previously proposed,<sup class="footnote-ref" id="fnref:19"><a rel="footnote" href="#fn:19">19</a></sup> wherein the relative ratio of Sn Kα/Lα to the respective value obtained by a reference binary Cu-Sn alloy was used as a criterion for identifying an area altered by corrosion. This ratio was theoretically calculated and experimentally found to be rather constant, being independent of the tin content, the measurement/excitation conditions (filtered/unfiltered excitation, operational voltage, irradiation geometry, micro- or milli-beam), and the type of the XRF spectrometer (anode material, detection system, etc.). Since the established criterion was fulfilled for only one spot (fig. 46.5b), quantitative results obtained for other analyzed spots were abandoned. In order to have an idea of the errors that could be introduced in the quantitative results for the bronze alloy, figure 46.5 reports also the elemental concentrations as deduced from the analytical micro-XRF data obtained for spots (a) and &copy;. It is clear that without incorporating the universal screening criterion developed for the bronze alloys, the compositional results could indicate much higher Sn concentration (260% and 156%, respectively) than the actual value, suggesting a different manufacturing technology.</p>
+
+<h2 id="conclusions">Conclusions</h2>
+
+<p>Within the PROMET project, a portable micro-XRF spectrometer, based on an industrial prototype but with custom-selected hardware components and measurement head, was utilized on two bronze figurines housed at the National Museum of Damascus. Optimized analysis protocols were developed with the aim of achieving an accurate and precise compositional analysis of the Cu alloys, overcoming spectral interferences that arise due to the polycrystalline nature of the alloy’s surface. Filters for the detection of bronze alloys should first be tested and the minimum representative area of analysis should be examined and specified on reference bronze alloys. Finally, the quantification procedure should only be used on corrosion-free areas in order to produce reliable analytical results. This paper outlined this methodological approach to carry out verifiable and reproducible compositional analysis.</p>
+
+<h2 id="acknowledgments">Acknowledgments</h2>
+
+<p>We would like to thank Mr. Eythimios Bistekos for his technical assistance during the <em>in-situ</em> campaign in Damascus, Syria, and Dr. Demetrios Anglos for providing us with the reference bronze standards. We are also grateful to Dr. Maamoun Abdulkarim, Mr. Maher Azar, the staff of the Ministry of Culture of Syria, and the curators of the National Museum of Damascus for granting us the permission to study the unique gilded bronze figurines, for their hospitality, and for overall assistance during our campaign.</p>
+
+<h2 id="bibliography">Bibliography</h2>
+
+<dl>
+<dt>Al Moadin and Díez-Fuentes 2006</dt>
+<dd>Al Moadin, M., and H. Díez-Fuentes. 2006. <em>Highlights of the National Museum of Damascus</em>. 2006. Lebanon:
+Media Minds LLC.</dd>
+<dt>Arafat et al. 2013</dt>
+<dd>Arafat, A., M. Naes, V. Kantarelou, N. Haddad, A. Giakoumaki, V. Argyropoulos, D. Anglos, and A. G. Karydas. 2013.“Combined <em>in situ</em> Micro-XRF, LIBS and SEM-EDS Analysis of Base Metal and Corrosion Products for Islamic Copper Alloyed Artefacts from Umm Qais Museum.” <em>Journal of Cultural Heritage</em> 14: 261–69.</dd>
+<dt>Aruz, Benzel, and Evans 2008</dt>
+<dd>Aruz, J., K. Benzel, and J. M. Evans, eds. 2008. <em>Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C.</em> New York: Metropolitan Museum of Art.</dd>
+<dt>Degrigny et al. 2007</dt>
+<dd>Degrigny, C., A. G. Karydas, S. Golfomitsou, V. Kantarelou, Ch. Zarkadas, and D. Vella. 2007. “Methodology for the <em>in-situ</em> Analyses of Historic Steel Armours with Portable Milli- and Micro-XRF Spectrometers.” In <em>METAL-07</em>, vol. 2: <em>Innovative Investigation of Metal Artifacts</em>, 26–34. Amsterdam: Rijksmuseum.</dd>
+<dt>Ebel 1999</dt>
+<dd>Ebel, H. 1999. “X-ray Tube Spectra.” <em>X-Ray Spectrometry</em> 27: 255–66.</dd>
+<dt>Ferretti 2014</dt>
+<dd>Ferretti, M. 2014. “The Investigation of Ancient Metal Artefacts by Portable X-ray Fluorescence Devices.” <em>Journal of Analytical Atomic Spectrometry</em> 29: 1753–66.</dd>
+<dt>Figueiredo et al. 2013</dt>
+<dd>Figueiredo, E., M. Fatima Araujo, J. C. Silva, and R. Raquel Vilaca. 2013. “Characterisation of a Proto-historic Bronze Collection by Micro-EDXRF.” <em>Nuclear Instruments and Methods in Physics Research B</em> 296: 26–31.</dd>
+<dt>Giannoulaki et al. 2007.</dt>
+<dd>Giannoulaki, M., V. Argyropoulos, G. P. Michalakakos, Th. Panou, V. Kantarelou, C.. Zarkadas, A. G.. Karydas, V. Perdikatsis, and Ch. Apostolaki. 2007.“A Conservation Survey of Museum Metals Collections: A Case Study of Ancient Messene Museum, Greece.” In <em>METAL-07</em>, vol. 1: <em>When Archaeometry and Conservation Meet</em>, 67–72. Amsterdam: Rijksmuseum.</dd>
+<dt>Gianoncelli and Kourousias 2007</dt>
+<dd>Gianoncelli, A. and Kourousias, G. 2007. “Limitations of Portable XRF Implementations in Evaluating Depth Information: An Archaeometric Perspective.” <em>Applied Physics A</em> 89: 857–63.</dd>
+<dt>Heginbotham et al. 2010</dt>
+<dd>Heginbotham, A., A. Bezur, M. Bouchard, J. M. Davis, K. Eremin, J. H. Frantz, L. Glinsman, L. A. Hayek, D. Hook, V. Kantarelou, A. G.. Karydas, L. Lee, J. Mass, C. Matsen, B. McCarthy, M. McGath, A. Shugar, J. Sirois, D. Smith, and R. J. Speakman. 2010. “An Evaluation of Inter-laboratory Reproducibility for Quantitative XRF of Historic Copper Alloys.” In <em>Proceedings of the International Conference on Metal Conservation, METAL 2010</em>, ed. P. Mardikian, C. Chemello, C. Watters, and P. Hull, 178–88. Charleston (SC): Clemson University.</dd>
+<dt>Ingelbrecht et al. 2001</dt>
+<dd>Ingelbrecht, C., A. Andriaens, and E. A. Maler. 2001. “The Certification of Arsenic, Lead, Tin and Zinc (Mass Fractions) in Five Copper Alloys, BCR-691.” <em>EUR 19778/1EN</em>.</dd>
+<dt>Ingo et al. 2004</dt>
+<dd>Ingo, G. M., E. Angelini, T. de Caro, G. Bultrini, and I. Calliari. 2004. “Combined Use of GDOES, SEM + EDS, XRD and OM for the Microchemical Study of the Corrosion Products on Archaeological Bronzes.” <em>Applied Physics A</em> 79: 199–203.</dd>
+<dt>Kantarelou et al. 2007a</dt>
+<dd>Kantarelou, V., Ch. Zarkadas, A. Giakoumaki, M. Giannoulaki, A. G.. Karydas, D. Anglos, and V. Argyropoulos. 2007. “A Novel Approach on the Combined in-situ Application of LIBS and μ-XRF Spectrometers for the Characterization of Copper Alloy Corrosion Products.” In <em>METAL-07</em>, vol. 2: <em>Innovative Investigation of Metal Artifacts</em>, 35–41.</dd>
+<dt>Kantarelou et al. 2007b</dt>
+<dd>Kantarelou, V., A. G. Karydas, Ch. Zarkadas, M. Giannoulaki, and V. Argyropoulos. 2007. “Micro-XRF Analysis of High Tin Bronze Mirrors at the Museum of Ancient Messene in Greece.” In <em>Proceedings of the International Conference on Conservation Strategies for Saving Indoor Metallic Collections (CSSIM)</em>, ed. V. Argyropoulos, A. Hein, and M. A. Harith, 93–99. Athens: Dept. of Conservation of Antiquities and Works of Art.</dd>
+<dt>Kantarelou et al. 2015</dt>
+<dd>Kantarelou, V., A. G. Karydas, D. Sokaras, L. Mahfouz, A. Qurdab, M. Al-Saadi, M. Giannoulaki, and V. Argyropoulos. 2015. “In situ Scanning Micro-XRF Analyses of Gilded Bronze Figurines at the National Museum of Damascus.” <em>Journal of Analytical Atomic Spectroscopy</em> 30: 1787–98.</dd>
+<dt>Kantarelou and Karydas 2016</dt>
+<dd>Kantarelou V., and A. G. Karydas. 2016. “A Simple Calibration Procedure of Polycapillary Based Portable Micro-XRF Spectrometers for Reliable Quantitative Analysis of Cultural Heritage Materials.” X <em>Ray Spectrometry</em> 45: 85–94.</dd>
+<dt>Karydas 2007</dt>
+<dd>Karydas, A. G. 2007. “Application of a Portable XRF Spectrometer for the Non-Invasive Analysis of Museum Metal Artefacts.” <em>Annali di Chimica</em> 97: 419–32.</dd>
+<dt>Karydas, Anglos, and Harith 2008</dt>
+<dd>Karydas, A. G., D. Anglos, and M. A. Harith. 2008. “Mobile Micro-XRF and LIBS Spectrometers for Diagnostic Micro-Analysis of Ancient Metal Objects.” In <em>Metals and Museums in the Mediterranean: Protecting, Preserving and Interpreting</em>, ed. V. Argyropoulos, 141–77. Athens: Department of Conservation of Antiquities and Works of Art.</dd>
+<dt>Manso et al. 2015</dt>
+<dd>Manso, M., N. Schiavon, I. Queralt, A. M. Arruda, J. M. Sampaio, and A. Brunetti. 2015. “Alloy Characterization of a 7th Century BC Archeological Bronze Vase Overcoming Patina Constraints Using Monte Carlo Simulations.” <em>Spectrochimica Acta B</em> 107: 93–96.</dd>
+<dt>Nicholas and Manti 2014</dt>
+<dd>Nicholas, M., and P. Manti. 2014. “Testing the Applicability of Handheld Portable XRF to the Characterisation of Archaeological Copper Alloys.” In <em>Proceedings of ICOM-CC 17th Triennial Conference, Melbourne</em>, ed. J. Bridgeland. International Council of Museums.</dd>
+<dt>Potts and West 2008</dt>
+<dd>Potts, P. J., and M. West, eds. 2008. <em>Portable X-ray Fluorescence Spectrometry: Capabilities for In Situ Analysis</em>. Cambridge: RSC Publishing.</dd>
+<dt>Robbiola et al. 1998</dt>
+<dd>Robbiola, L., J. M. Blengino, and C. Fiaud. 1998. “Morphology and Mechanisms Formation of Natural Patinas on Archaeological Cu-Sn Alloys.” <em>Corrosion Science</em> 40: 2083–111.</dd>
+<dt>Trentelman et al. 2010</dt>
+<dd>Trentelman, K., M. Bouchard, M. Ganio, C. Namowicz, C. Schmidt Patterson, and M. Walton. 2010. “The Examination of Works of Art Using <em>in situ</em> XRF Line and Area Scans.” <em>X-Ray Spectrometry</em> 39: 159–66.</dd>
+</dl>
+<div class="footnotes">
+
+<hr />
+
+<ol>
+<li id="fn:1">Giannoulaki et al. 2007, Kantarelou et al. 2007a, Kantarelou et al. 2007b.
+ <a class="footnote-return" href="#fnref:1">↥</a></li>
+<li id="fn:2">Degrigny et al. 2007.
+ <a class="footnote-return" href="#fnref:2">↥</a></li>
+<li id="fn:3">Arafat et al. 2013.
+ <a class="footnote-return" href="#fnref:3">↥</a></li>
+<li id="fn:4">Kantarelou et al. 2015.
+ <a class="footnote-return" href="#fnref:4">↥</a></li>
+<li id="fn:5">Heginbotham et al. 2010.
+ <a class="footnote-return" href="#fnref:5">↥</a></li>
+<li id="fn:6">Karydas et al. 2007, Potts and West 2008, Trentelman et al. 2010.
+ <a class="footnote-return" href="#fnref:6">↥</a></li>
+<li id="fn:7">Figueiredo et al. 2013, Ferretti 2014, Nicholas and Manti 2014.
+ <a class="footnote-return" href="#fnref:7">↥</a></li>
+<li id="fn:8">Ingo et al. 2004.
+ <a class="footnote-return" href="#fnref:8">↥</a></li>
+<li id="fn:9">Ingelbrecht et al. 2001.
+ <a class="footnote-return" href="#fnref:9">↥</a></li>
+<li id="fn:10">Robbiola et al. 1998.
+ <a class="footnote-return" href="#fnref:10">↥</a></li>
+<li id="fn:11">Kantarelou et al.2007a, Gianoncelli and Kourousias 2007.
+ <a class="footnote-return" href="#fnref:11">↥</a></li>
+<li id="fn:12">Kantarelou et al. 2015.
+ <a class="footnote-return" href="#fnref:12">↥</a></li>
+<li id="fn:13">Manso et al. 2015.
+ <a class="footnote-return" href="#fnref:13">↥</a></li>
+<li id="fn:14">Kantarelou and Karydas 2016.
+ <a class="footnote-return" href="#fnref:14">↥</a></li>
+<li id="fn:15">Aruz, Benzel, and Evans 2008.
+ <a class="footnote-return" href="#fnref:15">↥</a></li>
+<li id="fn:16">Al Moadin and Diez-Fuentes 2006.
+ <a class="footnote-return" href="#fnref:16">↥</a></li>
+<li id="fn:17">Kantarelou et al. 2015.
+ <a class="footnote-return" href="#fnref:17">↥</a></li>
+<li id="fn:18">Karydas, Anglos, and Harith 2008.
+ <a class="footnote-return" href="#fnref:18">↥</a></li>
+<li id="fn:19">Kantarelou et al. 2015.
+ <a class="footnote-return" href="#fnref:19">↥</a></li>
+</ol>
+</div>
+
+    </section>
+    <section class="quire-page__content__references">
+      <h2>Bibliography</h2>
+      <dl></dl>
+    </section>
+</div>
+
+    </main>
+    <script src="../../assets/js/application.js"></script>
+    <script>
+      (function() {
+        var button = document.querySelectorAll("button.expander");
+        for (var i = 0; i < button.length; i++) {
+          button[i].setAttribute("aria-expanded","false");
+          button[i].nextElementSibling.hidden = true;
+          button[i].addEventListener("click", function() {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", String(!expanded));
+            this.nextElementSibling.hidden = expanded;
+          });
+        }
+      })();
+      (function() {
+      var button = document.querySelectorAll("button.heading-expander");
+      for (var i = 0; i < button.length; i++) {
+        button[i].setAttribute("aria-expanded","false");
+        button[i].parentElement.nextElementSibling.hidden = true;
+        button[i].addEventListener("click", function() {
+          var expanded = this.getAttribute("aria-expanded") === "true";
+          this.setAttribute("aria-expanded", String(!expanded));
+          this.parentElement.nextElementSibling.hidden = expanded;
+        });
+      }
+    })();
+    </script>
+    
+<script></script>
+
+  </body>
+</html>
