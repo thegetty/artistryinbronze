@@ -8,15 +8,13 @@
 # update the value here too.
 
 # Use these settings for serving/building to a path other than root
-# baseurl: "https://gettypubs.github.io/quire-catalogue"
+# baseURL: "https://gettypubs.github.io/artistryinbronze"
 # canonifyURLs: true
 
 # Use these settings for serving/building to the root path
-baseurl: ""
+baseURL: ""
 relativeURLs: true
 
-title: "Quire Starter Kit"
-languageCode: "en-us"
 theme: "quire-base-theme"
 footnoteReturnLinkContents: "↥"
 # footnoteReturnLinkContents: "↩↥"
@@ -28,17 +26,3 @@ blackfriday:
 # These values can be accessed in templates via .Site.Params
 params:
   searchEnabled: true
-
-# Menu: the 'main' menu will be picked up in the sidebar navigation menu in the
-# default theme. Other menus can be defined here as well for use with custom
-# theme files. To control order, give items a weight; lower numbers will appear
-# first. Negative values are allowed.
-#
-menu:
-  main:
-    - Name: "Contents"
-      URL: "/contents/"
-      weight: 1
-    - Name: "About"
-      URL: "/about/"
-      weight: 2
