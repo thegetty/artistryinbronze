@@ -1,6 +1,7 @@
 ---
+id: "43"
 title: New Results on the Alloys of the Croatian Apoxyomenos
-type: page
+type: essay
 author:
  - first_name: Iskra
    last_name: "Karniš Vidovič"
@@ -8,9 +9,9 @@ author:
  - first_name: Benoît
    last_name: Mille
    affiliation: "Centre de Recherche et de Restauration des Musées de France (C2RMF) & UMR7055 Préhistoire et Technologie, France"
-abstract: >
-  Following the cooperation initiated in 2012 between the Croatian Conservation Institute (HRZ) and the Centre de Recherche et de Restauration des Musées de France (C2RMF), the two institutions furthered their common investigation of the Croatian Apoxyomenos, a bronze male statue of the second or first century BC found in the sea in 1999. A new set of metal analyses was performed in order to clarify the alloy composition of the statue. In previous analytical campaigns, problems were encountered due to the heterogeneity of the metal and the heavy corrosion of the statue. We concluded that for a correct determination of the metal composition, a larger sample size was required. In addition, great care had to be taken to avoid inclusion of corrosion products in the samples, and that sample locations had to be chosen according to the results of a detailed investigation into the manufacturing technique of the statue.
-weight: 47
+abstract: |
+    Following the cooperation initiated in 2012 between the Croatian Conservation Institute (HRZ) and the Centre de Recherche et de Restauration des Musées de France (C2RMF), the two institutions furthered their common investigation of the Croatian Apoxyomenos, a bronze male statue of the second or first century BC found in the sea in 1999. A new set of metal analyses was performed in order to clarify the alloy composition of the statue. In previous analytical campaigns, problems were encountered due to the heterogeneity of the metal and the heavy corrosion of the statue. We concluded that for a correct determination of the metal composition, a larger sample size was required. In addition, great care had to be taken to avoid inclusion of corrosion products in the samples, and that sample locations had to be chosen according to the results of a detailed investigation into the manufacturing technique of the statue.
+weight: 709
 ---
 
 ## Introduction

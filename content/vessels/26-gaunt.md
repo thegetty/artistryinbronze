@@ -1,13 +1,15 @@
 ---
+id: "26"
 title: Toward the Derveni Krater
 subtitle: On the Rarity of Large Bronze Vessels of the Archaic and Classical Periods Bearing Large Figural Registers
-type: page
+type: essay
 author:
  - first_name: Jasper
    last_name: Gaunt
    affiliation: Michael C. Carlos Museum, Emory University
-abstract: Evidence is presented suggesting that large bronze vessels with figural registers in relief, such as the Derveni krater, were extremely rare in Classical times. The most significant reason for this may not have been technical, since large pieces of armor were decorated using precisely the same techniques at the same time. Rather, this rarity may reflect the high cost of labor-intensive work.
-weight: 30
+abstract: |
+    Evidence is presented suggesting that large bronze vessels with figural registers in relief, such as the Derveni krater, were extremely rare in Classical times. The most significant reason for this may not have been technical, since large pieces of armor were decorated using precisely the same techniques at the same time. Rather, this rarity may reflect the high cost of labor-intensive work.
+weight: 503
 ---
 
 A simple observation provides the point of departure for this paper. The decorative schemes of two Greek bronze volute kraters—the Archaic one found at Vix in Burgundy (**fig. 26.1**) and the Late Classical one from Derveni near Thessaloniki (**fig. 26.2**)—differ radically.[^1] The critical distinction lies in the prominent Dionysian frieze in high relief on the body of the latter. It is most unusual to find figural decoration at a large scale on the bodies of substantial Greek bronze vessels of the Archaic and Classical periods. The figural decoration on the body of the Derveni krater, too, was well outside the usual canon even at the time of manufacture, far removed from the generally austere appearance of Archaic and Classical bronze vessels—acknowledging, however, some important fifth-century developments in surface treatments, notably reeding. The restrained decoration of most Greek bronze vessels was a deliberate aesthetic choice, as suggested by comparison with contemporary pieces of armor: these are often much more elaborately embellished. Contemporary representations of these objects show that this difference is not simply a function of chance survival. This comparison inspires a generalizing rule: plain vessels, but elaborate armor. The contrast, I propose, goes back to the Homeric poems, which clearly articulate such a distinction. The underlying reasons for these profound differences, I will argue, may well have been economic.

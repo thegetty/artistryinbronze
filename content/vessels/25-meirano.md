@@ -1,13 +1,15 @@
 ---
+id: "25"
 title: Bronze Vessels and Related *Instrumenta* at Delphi
 subtitle: Remarks on Morphology, Provenance, and Chronology
-type: page
+type: essay
 author:
  - first_name: Valeria
    last_name: Meirano
    affiliation: Università degli Studi di Torino, Italy
-abstract: The recent systematic study of the bronze vessels and the related *instrumenta* retrieved from the sanctuary of Delphi dating from the sixth century BC to Roman times, which is still in progress, offers a fresh look at this extraordinary evidence. Mostly unpublished and never considered in a wide perspective, this corpus of material provides a picture of the presence and circulation of bronze objects in the panhellenic sanctuary, which now can be compared with evidence from other sacred contexts. A general picture of the items attested has now been formed, and aspects related to morphology, style, production, and chronology of bronze vessels and *instrumenta* can be taken into account. The occurrence and reiteration of specific objects allows us to understand offering choices and the ritual practices performed in the sacred area. Remarks about the provenance of some bronzes contribute to our knowledge of who attended the sanctuary and how objects circulated.
-weight: 29
+abstract: |
+    The recent systematic study of the bronze vessels and the related *instrumenta* retrieved from the sanctuary of Delphi dating from the sixth century BC to Roman times, which is still in progress, offers a fresh look at this extraordinary evidence. Mostly unpublished and never considered in a wide perspective, this corpus of material provides a picture of the presence and circulation of bronze objects in the panhellenic sanctuary, which now can be compared with evidence from other sacred contexts. A general picture of the items attested has now been formed, and aspects related to morphology, style, production, and chronology of bronze vessels and *instrumenta* can be taken into account. The occurrence and reiteration of specific objects allows us to understand offering choices and the ritual practices performed in the sacred area. Remarks about the provenance of some bronzes contribute to our knowledge of who attended the sanctuary and how objects circulated.
+weight: 502
 ---
 
 The circumstances under which the École Française d’Athènes conducted the chief excavation of the sanctuary of Delphi are well known: the so-called Grande Fouille (Great Excavation) represents a foundational page in the history of archaeological excavations in Greece during the nineteenth century. Between 1892 and 1903, French archaeologists brought to light the major part of the site (**fig. 25.1**), unveiling the ruins of the celebrated monuments described in the literary texts and contributing to the understanding of one of the most famous sanctuaries of the ancient world.[^1]

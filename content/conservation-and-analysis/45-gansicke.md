@@ -1,7 +1,8 @@
 ---
+id: "45"
 title: The Auloi from Meroë
 subtitle: Preliminary Notes on the Conservation, Technical Examination, and Interpretation of a Cache of Ancient Musical Instruments
-type: page
+type: essay
 author:
  - first_name: Susanne
    last_name: Gänsicke
@@ -9,13 +10,13 @@ author:
  - first_name: Stefan
    last_name: Hagel
    affiliation: Austrian Academy of Sciences, Vienna
-abstract: >
-  This paper summarizes preliminary results of an extensive, multidisciplinary conservation project at the Museum of Fine Arts, Boston (MFA) of a large cache of ancient musical instruments also known as “the auloi from Meroë.” The objects were discovered in 1921 during excavations by the Harvard University–Museum of Fine Arts Expedition of the burial site of Queen Amanishakheto (10 BC) in Meroë, Sudan. Multiple layers of tubing were recovered, consisting of exterior bronze sleeves encasing resonators of wood and bone. Due to the thin-walled structure of the objects, their exposure to long-term burial, and subsequent transport and handling, the pipes were fragmented virtually beyond recognition.
+abstract: |
+    This paper summarizes preliminary results of an extensive, multidisciplinary conservation project at the Museum of Fine Arts, Boston (MFA) of a large cache of ancient musical instruments also known as “the auloi from Meroë.” The objects were discovered in 1921 during excavations by the Harvard University–Museum of Fine Arts Expedition of the burial site of Queen Amanishakheto (10 BC) in Meroë, Sudan. Multiple layers of tubing were recovered, consisting of exterior bronze sleeves encasing resonators of wood and bone. Due to the thin-walled structure of the objects, their exposure to long-term burial, and subsequent transport and handling, the pipes were fragmented virtually beyond recognition.
 
-  To date, the fragments have been documented and sorted, and many broken sections are now reconnected. Scientific examination of the materials included radio-carbon dating, identified textile fibers and wood types, and allowed insights into the complex nature of the metalwork.
+    To date, the fragments have been documented and sorted, and many broken sections are now reconnected. Scientific examination of the materials included radio-carbon dating, identified textile fibers and wood types, and allowed insights into the complex nature of the metalwork.
 
-  Music-archaeological methods, combining the material evidence with the physics of ancient musical scales, have identified twelve individual pipes forming six pairs representing three different types of pipes, of varying length and with diverse mechanisms. The project’s long-term goal, in addition to physical reconstruction and stabilization of the ancient materials, is the fabrication of modern, functional replicas to discover the musical potential of these instruments.
-weight: 49
+    Music-archaeological methods, combining the material evidence with the physics of ancient musical scales, have identified twelve individual pipes forming six pairs representing three different types of pipes, of varying length and with diverse mechanisms. The project’s long-term goal, in addition to physical reconstruction and stabilization of the ancient materials, is the fabrication of modern, functional replicas to discover the musical potential of these instruments.
+weight: 711
 ---
 
 ## Discovery and Introduction

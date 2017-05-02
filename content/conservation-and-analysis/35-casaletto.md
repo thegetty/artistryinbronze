@@ -1,7 +1,8 @@
 ---
+id: "35"
 title: Sustainable Conservation of Bronze Artworks
 subtitle: Advanced Research in Materials Science
-type: page
+type: essay
 author:
  - first_name: Maria Pia
    last_name: Casaletto
@@ -9,11 +10,11 @@ author:
  - first_name: Wilma
    last_name: Basilissi
    affiliation: Istituto Superiore per la Conservazione ed il Restauro, Rome
-abstract: >
-  The development of nontoxic, reliable, and long-lasting materials and the design of tailored methods for the conservation of bronze artworks are now professional mandates. The presently used hazardous materials and processes need to be replaced by environmentally friendly approaches, due to the increasing importance of environmental protection and for the safety of professionals working in the conservation of cultural heritage.
+abstract: |
+    The development of nontoxic, reliable, and long-lasting materials and the design of tailored methods for the conservation of bronze artworks are now professional mandates. The presently used hazardous materials and processes need to be replaced by environmentally friendly approaches, due to the increasing importance of environmental protection and for the safety of professionals working in the conservation of cultural heritage.
 
-  Long-term stability of copper-based archaeological artworks is deeply affected by the nearly constant presence of chlorine in the corrosion layers that can induce the active cyclic copper corrosion known as “bronze disease.” The conventional conservation method applied to ancient bronzes uses a benzotriazole (BTA) alcoholic solution, which unfortunately is toxic and a suspected carcinogen. In order to reduce or overcome the toxicity of BTA, we adopted various tailored strategies of chemical research. Novel chemically synthesized and naturally derived products and suitable nanocarriers of corrosion inhibitors were purposely designed and tested by X-ray photoemission spectroscopy (XPS), scanning electron microscopy coupled with chemical analysis (SEM-EDS), optical microscopy, DC polarization, and electrochemical impedance spectroscopy (EIS).
-weight: 39
+    Long-term stability of copper-based archaeological artworks is deeply affected by the nearly constant presence of chlorine in the corrosion layers that can induce the active cyclic copper corrosion known as “bronze disease.” The conventional conservation method applied to ancient bronzes uses a benzotriazole (BTA) alcoholic solution, which unfortunately is toxic and a suspected carcinogen. In order to reduce or overcome the toxicity of BTA, we adopted various tailored strategies of chemical research. Novel chemically synthesized and naturally derived products and suitable nanocarriers of corrosion inhibitors were purposely designed and tested by X-ray photoemission spectroscopy (XPS), scanning electron microscopy coupled with chemical analysis (SEM-EDS), optical microscopy, DC polarization, and electrochemical impedance spectroscopy (EIS).
+weight: 701
 ---
 
 ##Introduction

@@ -1,6 +1,7 @@
 ---
+id: "38"
 title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas
-type: page
+type: essay
 author:
  - first_name: Vasilike
    last_name: Argyropoulos
@@ -20,8 +21,9 @@ author:
  - first_name: Elodie
    last_name: Guilminot
    affiliation: EPCC Arc’Antique, Nantes
-abstract: The goal of the research is to find an alternative approach to stabilize chloride-contaminated copper-alloy artifacts, while retaining information preserved in the patina layers. Local electrolysis and the use of an alternative corrosion inhibitor, L-cysteine, were applied to treat bronze disease at specific locations on marine copper-alloy artifacts, while trying to preserve evidence of tinning on their surfaces. Cysteine as a nontoxic corrosion inhibitor has recently been tested and was found to be effective, but like all corrosion inhibitors, color changes to the patina can occur. Its application to intentionally tinned bronze surfaces was further investigated and combined with the application of local electrolysis using sodium sesquicarbonate to stabilize the areas where the surfaces are not covered with tin. The new approach was tested on a marine thirteenth-century copper-alloy cooking vessel excavated from a shipwreck found in the sea off the port of Rhodes in Greece. The approach was successful at stabilizing the object and no signs of active corrosion were visible one year after treatment.
-weight: 42
+abstract: |
+    The goal of the research is to find an alternative approach to stabilize chloride-contaminated copper-alloy artifacts, while retaining information preserved in the patina layers. Local electrolysis and the use of an alternative corrosion inhibitor, L-cysteine, were applied to treat bronze disease at specific locations on marine copper-alloy artifacts, while trying to preserve evidence of tinning on their surfaces. Cysteine as a nontoxic corrosion inhibitor has recently been tested and was found to be effective, but like all corrosion inhibitors, color changes to the patina can occur. Its application to intentionally tinned bronze surfaces was further investigated and combined with the application of local electrolysis using sodium sesquicarbonate to stabilize the areas where the surfaces are not covered with tin. The new approach was tested on a marine thirteenth-century copper-alloy cooking vessel excavated from a shipwreck found in the sea off the port of Rhodes in Greece. The approach was successful at stabilizing the object and no signs of active corrosion were visible one year after treatment.
+weight: 704
 ---
 
 ## Introduction

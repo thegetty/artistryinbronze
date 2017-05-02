@@ -1,13 +1,15 @@
 ---
+id: "41"
 title: The Getty Herm of Dionysos
 subtitle: Technical Observations, Review, and Interpretation
-type: page
+type: essay
 author:
  - first_name: Jeffrey
    last_name: Maish
    affiliation: J. Paul Getty Museum
-abstract: Technical studies of the bronze Herm of Dionysos (J. Paul Getty Museum inv. 79.AB.138) using microscopy, endoscopy, radiography, and tomography are summarized in the context of previous studies beginning in 1989. Internal rod remains may represent remnants of a casting sprue system and several areas of miscasting and larger repairs appear to be associated with the rods. Visible bronze spillage may be associated with reworking in the head drapery and suggests repair to the back of the head. Added materials include lead at the base, presumably from the original installation, as well as remains of a composite copper-and-marble eye assembly. Tomographic images taken at one height show some internal correspondences with the Mahdia herm (Bardo Museum, inv. F 107) although there are many dimensional discrepancies. This suggests the two herms may be associated generationally, but indirectly. The object’s surface alteration (from burial?), bronze-alloy composition (previously reported), and lead-isotope data are consistent with ancient production.
-weight: 45
+abstract: |
+    Technical studies of the bronze Herm of Dionysos (J. Paul Getty Museum inv. 79.AB.138) using microscopy, endoscopy, radiography, and tomography are summarized in the context of previous studies beginning in 1989. Internal rod remains may represent remnants of a casting sprue system and several areas of miscasting and larger repairs appear to be associated with the rods. Visible bronze spillage may be associated with reworking in the head drapery and suggests repair to the back of the head. Added materials include lead at the base, presumably from the original installation, as well as remains of a composite copper-and-marble eye assembly. Tomographic images taken at one height show some internal correspondences with the Mahdia herm (Bardo Museum, inv. F 107) although there are many dimensional discrepancies. This suggests the two herms may be associated generationally, but indirectly. The object’s surface alteration (from burial?), bronze-alloy composition (previously reported), and lead-isotope data are consistent with ancient production.
+weight: 707
 ---
 
 ## Introduction

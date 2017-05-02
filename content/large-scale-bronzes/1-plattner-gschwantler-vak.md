@@ -25,7 +25,7 @@ abstract: |
 
     To dispel lingering doubts concerning the stability and strength of the interior scaffold or the possibility of active corrosion on the original bronze fragments, the Kunsthistorisches Museum together with the Getty Museum undertook scientific investigations to characterize and evaluate the mortar chemically and structurally. A solid construction of aluminum square tubes with custom-fit interior design was developed for transport.
 
-weight: 5
+weight: 101
 ---
 
 ## 1. Archaeological Background and History of the Bronze’s Classification

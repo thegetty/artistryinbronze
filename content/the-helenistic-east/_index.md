@@ -2,5 +2,5 @@
 id: "IV"
 title: The Helenistic East
 type: section-head
-weight: 25
+weight: 400
 ---

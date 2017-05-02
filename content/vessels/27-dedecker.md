@@ -1,12 +1,14 @@
 ---
+id: "27"
 title: Iconography of the Sea World on Late Hellenistic Bronze Vessels
-type: page
+type: essay
 author:
  - first_name: Klara
    last_name: De Decker
    affiliation: Westfälische-Wilhelms-Universität, Münster
-abstract: Our research focuses on the evolution of marine iconography in the Late Hellenistic period, as seen on bronze and silver vessels found along the Gulf of Naples. Representations of Triton, Scylla, and Medusa appear at times next to hippocampi, dogs, snakes, dolphins, and octopuses in high or low relief on the handles of various tableware. Compared to their canonical depictions, the deities here have lost their conventional attributes, which have become interchangeable. As part of early Imperial propaganda, they acquire a new symbolic function, which differs from their original mythological meanings. The deities become ambiguous, more like generalized people with standardized marine features plus mixed or borrowed attributes. Good examples of this type of amalgamation are the Medusa with mussel and shell ears or the Scylla with seaweed on her face, both of which are attributes borrowed from Triton. Another important aspect is the quality of workmanship, which declined due to mass production and competition from cheaper imported vessels.
-weight: 31
+abstract: |
+    Our research focuses on the evolution of marine iconography in the Late Hellenistic period, as seen on bronze and silver vessels found along the Gulf of Naples. Representations of Triton, Scylla, and Medusa appear at times next to hippocampi, dogs, snakes, dolphins, and octopuses in high or low relief on the handles of various tableware. Compared to their canonical depictions, the deities here have lost their conventional attributes, which have become interchangeable. As part of early Imperial propaganda, they acquire a new symbolic function, which differs from their original mythological meanings. The deities become ambiguous, more like generalized people with standardized marine features plus mixed or borrowed attributes. Good examples of this type of amalgamation are the Medusa with mussel and shell ears or the Scylla with seaweed on her face, both of which are attributes borrowed from Triton. Another important aspect is the quality of workmanship, which declined due to mass production and competition from cheaper imported vessels.
+weight: 504
 ---
 
 The Mediterranean Sea has always captured the imagination of the Greeks, but at the end of the Hellenistic era, their artistic vision and technical knowledge were transferred to the Italian peninsula, where Roman craftsmen created artifacts that surpassed everything before. These craftsmen portrayed deities such as Poseidon, Amphitrite, Triton, Scylla, and Medusa, who lived in the sea, riding creatures like sea horses (hippocampi), sea wolves (*ketos*), dolphins, and other real and imaginary marine animals.[^1] Wealthy Romans ate exotic meals off expensive tableware, in solemn settings;[^2] some of their dishes were metal vessels decorated with reliefs (**fig. 27.1**).[^3] The excavations at Pompeii and Herculaneum have lead to the discovery of close to seventeen hundred bronze vessels, which can be categorized in any number of ways. Our interest here is in the iconography on the vertical part of the vessels’ handles. The subjects can be divided into three main groups:

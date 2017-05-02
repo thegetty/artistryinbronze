@@ -1,18 +1,19 @@
 ---
+id: "22"
 title: The Influence of Bronze Working on Roman Provincial Stone Sculpture
 subtitle: The Case of Palmyra
-type: page
+type: essay
 author:
  - first_name: Fred C.
    last_name: Albertson
    affiliation: University of Memphis, Tennessee
-abstract: >
-  The Roman-Syrian city of Palmyra is well-known for its extensive corpus of surviving sculpture carved in the locally quarried limestone, dating from the early first century to the middle of the third century AD. Although bronze statuary was subordinate to stone as the Palmyran sculptor’s medium of choice, surviving fragments and inscriptional evidence document its existence in the city. However, an examination of Palmyran sculpture reveals that local artists included in their repertoire of stone carving certain forms drawn from bronze prototypes and that these borrowings are more extensive than previously thought.
+abstract: |
+    The Roman-Syrian city of Palmyra is well-known for its extensive corpus of surviving sculpture carved in the locally quarried limestone, dating from the early first century to the middle of the third century AD. Although bronze statuary was subordinate to stone as the Palmyran sculptor’s medium of choice, surviving fragments and inscriptional evidence document its existence in the city. However, an examination of Palmyran sculpture reveals that local artists included in their repertoire of stone carving certain forms drawn from bronze prototypes and that these borrowings are more extensive than previously thought.
 
-  The more obvious features are incised grooves outlining the lips, deepened grooves beneath the corners of the mouth, and the sharply defined corkscrew curls with pointed tips found in male hairstyles. Additional features, previously attributed to Near Eastern traditions of stone carving, may also be included among the group originating in bronze working. One is the incision of the eyebrows as a herringbone pattern; another is the hollowing out of the iris as a circular cavity with a flat base, clearly intended for the insertion of a different material, which can now be identified as blue glass paste. All these features can be traced to the tradition of Graeco-Roman bronze statuary.
+    The more obvious features are incised grooves outlining the lips, deepened grooves beneath the corners of the mouth, and the sharply defined corkscrew curls with pointed tips found in male hairstyles. Additional features, previously attributed to Near Eastern traditions of stone carving, may also be included among the group originating in bronze working. One is the incision of the eyebrows as a herringbone pattern; another is the hollowing out of the iris as a circular cavity with a flat base, clearly intended for the insertion of a different material, which can now be identified as blue glass paste. All these features can be traced to the tradition of Graeco-Roman bronze statuary.
 
-  The Palmyran distinction is that the number of examples depicting these features drawn from bronze working are relatively few and each adaption is chronologically short-lived and not necessarily contemporary, suggesting that their borrowing was not wholesale but selective, probably the result of decisions made by individual artisans or workshops.
-weight: 27
+    The Palmyran distinction is that the number of examples depicting these features drawn from bronze working are relatively few and each adaption is chronologically short-lived and not necessarily contemporary, suggesting that their borrowing was not wholesale but selective, probably the result of decisions made by individual artisans or workshops.
+weight: 402
 ---
 
 The prosperity experienced by the elite of the ancient Romano-Syrian city of Palmyra from the late first century BC through the middle of the third century AD is perhaps most visible in their monumental family tombs and the funerary sculpture associated within these tombs. Among the types included within the well-known repertoire of Palmyran funerary reliefs are the distinctive *loculus* plaques: rectangular limestone slabs covering the burial cavity, carved in high-relief with a bust depicting the individual interred and often accompanied by an Aramaic inscription denoting the occupant’s name, family lineage, and sometimes even the date of death. By about AD 200, the so-called “large banquet relief” and sarcophagi had also become mainstays within the Palmyran tomb.[^1]

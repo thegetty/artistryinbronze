@@ -1,17 +1,18 @@
 ---
+id: "31"
 title: Bronze Trees from the Greek to the Roman World
-type: page
+type: essay
 author:
  - first_name: Marina
    last_name: Castoldi
    affiliation: Università degli Studi di Milano
-abstract: >
-  Among the various anathemata that were offered in major Greek sanctuaries are fruits, vegetables, and trees in bronze and precious metals. These objects are well-known from literary sources, which mention the bronze palm dedicated to the sanctuary of Delphi by Kypselos, and the one offered by the Athenians after the battle of the Eurymedon. Moreover, various metal trees are known to have functioned as interior decorations for sacred temples, such as the ingenious bronze palm tree in the Erechtheion crafted by Kallimachos. Others were decorative objects displayed in secular settings.
+abstract: |
+    Among the various anathemata that were offered in major Greek sanctuaries are fruits, vegetables, and trees in bronze and precious metals. These objects are well-known from literary sources, which mention the bronze palm dedicated to the sanctuary of Delphi by Kypselos, and the one offered by the Athenians after the battle of the Eurymedon. Moreover, various metal trees are known to have functioned as interior decorations for sacred temples, such as the ingenious bronze palm tree in the Erechtheion crafted by Kallimachos. Others were decorative objects displayed in secular settings.
 
-  After an earlier study on Greek bronze trees,[^1] this new contribution focuses on bronze trees in the Roman world and no longer on anathemata, with the exception of some small trees in *lararia* or domestic shrines, as well as a number of lamp-holders shaped like tree trunks.
+    After an earlier study on Greek bronze trees,[^1] this new contribution focuses on bronze trees in the Roman world and no longer on anathemata, with the exception of some small trees in *lararia* or domestic shrines, as well as a number of lamp-holders shaped like tree trunks.
 
-  It is possible that the secular artworks drew their inspiration from the great Greek plant-shaped anathemata—for example, the golden grapevine and the golden plane tree, which both decorated the palace of the king of Persia until the time of Alexander the Great. Such objects could have been a source of inspiration for many toreutics in the Hellenistic and Roman period, such as the grapevine offered by Aristobulos II to Pompey the Great, as well as the trunk-shaped lamp-holders found in many wealthy *domus*.
-weight: 35
+    It is possible that the secular artworks drew their inspiration from the great Greek plant-shaped anathemata—for example, the golden grapevine and the golden plane tree, which both decorated the palace of the king of Persia until the time of Alexander the Great. Such objects could have been a source of inspiration for many toreutics in the Hellenistic and Roman period, such as the grapevine offered by Aristobulos II to Pompey the Great, as well as the trunk-shaped lamp-holders found in many wealthy *domus*.
+weight: 602
 ---
 
 It is well known that trees, gardens, and landscapes are not commonly represented in Greek art until the Hellenistic period. In vase painting, the focus is on men, gods, and heroes; war, hunting, labor, rituals, weddings, death, and festivals offer the opportunity to represent humans, who are at the center of philosophy and art in ancient Greece. Nature and landscapes, by contrast, rarely appear in vase painting; floral patterns, tendrils, and leaves only appear as subsidiary decoration. In a few cases, flowers and trees acquire life on their own as gods’ attributes or to give emphasis to a sacred setting, as for example the palm tree linked to the birth of Apollo and the sanctuary of Delos.

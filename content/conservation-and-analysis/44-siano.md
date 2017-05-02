@@ -1,7 +1,8 @@
 ---
+id: "44"
 title: The Bronze Sculpture of Alexander the Great on Horseback
 subtitle: An Archaeometallurgical Study
-type: page
+type: essay
 author:
  - first_name: Salvatore
    last_name: Siano
@@ -15,8 +16,9 @@ author:
  - first_name: J.
    last_name: Agresti
    affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
-abstract: We report here the results of the archaeometallurgical study of the bronze equestrian statuette of Alexander the Great, which was found broken in many pieces during various phases of excavation carried out in Herculaneum around the end of 1761; it was subsequently reassembled in the Royal Foundry of Naples. This famous masterpiece, now in the National Archaeological Museum of Naples, recently underwent a thorough material characterization, which was carried out during a static consolidation treatment at the Restoration Laboratory of Tuscany’s Archaeological Superintendency. This investigation was aimed mainly at interpreting the original execution processes and modern restorations. Although the authenticity of the artifact is supported by its formal coherence and archival information referring to the two figures (Alexander and his horse Bucephalus) and the base, analytical insights were considered of interest in order to assess the material coherence of the many fragments (about fifteen) composing the statuette. The results provide objective material evidence of the antiquity of most of the fragments and shed light on its ancient execution and modern restoration processes.
-weight: 48
+abstract: |
+    We report here the results of the archaeometallurgical study of the bronze equestrian statuette of Alexander the Great, which was found broken in many pieces during various phases of excavation carried out in Herculaneum around the end of 1761; it was subsequently reassembled in the Royal Foundry of Naples. This famous masterpiece, now in the National Archaeological Museum of Naples, recently underwent a thorough material characterization, which was carried out during a static consolidation treatment at the Restoration Laboratory of Tuscany’s Archaeological Superintendency. This investigation was aimed mainly at interpreting the original execution processes and modern restorations. Although the authenticity of the artifact is supported by its formal coherence and archival information referring to the two figures (Alexander and his horse Bucephalus) and the base, analytical insights were considered of interest in order to assess the material coherence of the many fragments (about fifteen) composing the statuette. The results provide objective material evidence of the antiquity of most of the fragments and shed light on its ancient execution and modern restoration processes.
+weight: 710
 ---
 
 The equestrian bronze group of Alexander on horseback in the National Archaeological Museum of Naples (inv. 4996), which is dated around the first century BC, was found in Herculaneum during the Bourbon excavation campaigns of the second half of the eighteenth century (**fig. 44.1**). According to the sources, the statuette, whose restored height is 49 centimeters, was mostly excavated on October 22, 1761, within a tunnel at the Theater under the Casa dei Colli Mozzi. Upon discovery, the legs and tail of the horse, as well as the legs and right arm of the rider, were missing. Subsequently, between October 24 and November 21, 1761, these were brought to light.[^1]

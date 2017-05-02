@@ -1,6 +1,7 @@
 ---
+id: "42"
 title: A Technological Re-Examination of the Piombino Apollo
-type: page
+type: essay
 author:
  - first_name: Benoît
    last_name: Mille
@@ -8,11 +9,11 @@ author:
  - first_name: Sophie
    last_name: Descamps-Lequime
    affiliation: Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, Paris, France
-abstract: >
-  Important advances have recently been made in the study of the Piombino Apollo, thanks to the rediscovery in 2010 of a fragmentary inscribed lead tablet with the partial names of two sculptors, initially found in the statue during the 1842 restoration ordered by the Louvre museum. The new results fully support the assumption of an Archaizing creation, and moreover confirm the Rhodian origin of the statue. They allow us to propose a very narrow dating for its manufacture (120–100 BC) and to suggest that the statue was erected in the Rhodian sanctuary of Athena Lindia.
+abstract: |
+    Important advances have recently been made in the study of the Piombino Apollo, thanks to the rediscovery in 2010 of a fragmentary inscribed lead tablet with the partial names of two sculptors, initially found in the statue during the 1842 restoration ordered by the Louvre museum. The new results fully support the assumption of an Archaizing creation, and moreover confirm the Rhodian origin of the statue. They allow us to propose a very narrow dating for its manufacture (120–100 BC) and to suggest that the statue was erected in the Rhodian sanctuary of Athena Lindia.
 
-  Such an accurate context is rarely achieved for an ancient large bronze statue. Henceforward, the Piombino Apollo may be regarded as an essential milestone for the knowledge of bronze manufacturing techniques in the Late Hellenistic period. Because technological data on the Piombino Apollo were lacking, a complete re-examination was undertaken. X-radiography, bulk-metal analyses by ICP-AES, and nondestructive analysis of the copper and silver inlays—by particle-induced X-ray emission (PIXE) with the AGLAE particle accelerator—were conducted in 2014, seeking specific technological markers of a Rhodian workshop at the end of the second century BC.
-weight: 46
+    Such an accurate context is rarely achieved for an ancient large bronze statue. Henceforward, the Piombino Apollo may be regarded as an essential milestone for the knowledge of bronze manufacturing techniques in the Late Hellenistic period. Because technological data on the Piombino Apollo were lacking, a complete re-examination was undertaken. X-radiography, bulk-metal analyses by ICP-AES, and nondestructive analysis of the copper and silver inlays—by particle-induced X-ray emission (PIXE) with the AGLAE particle accelerator—were conducted in 2014, seeking specific technological markers of a Rhodian workshop at the end of the second century BC.
+weight: 708
 ---
 
 ## Epigraphic and Stylistic Re-evaluation of the Piombino Apollo

@@ -1,7 +1,8 @@
 ---
+id: "30"
 title: Minoan Status Symbols
 subtitle: Tweezers, “Weaving Hooks,” and Cosmetic Scrapers
-type: page
+type: essay
 author:
  - first_name: Susan C.
    last_name: Ferrence
@@ -9,15 +10,15 @@ author:
  - first_name: Alessandra
    last_name: Giumlia-Mair
    affiliation: AGM Archeoanalisi, Merano (BZ), Italy
-abstract: >
-  For this project a large number of Minoan metallurgical objects of various sizes, belonging to different classes and made of different metals, were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan (EM) I to Middle Minoan (MM) IIA periods with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
+abstract: |
+    For this project a large number of Minoan metallurgical objects of various sizes, belonging to different classes and made of different metals, were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan (EM) I to Middle Minoan (MM) IIA periods with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
 
-  The equipment employed for the analyses consists of a transportable XRF-source on a support with devices to control its position and stability, a transformer, a stabilizer, and a computer with dedicated software. The characteristics of the equipment and its various devices, the dedicated software, and a suitable number of standards (produced *ad hoc* by AGM Archeoanalisi), greatly enhance the precision of the system.
+    The equipment employed for the analyses consists of a transportable XRF-source on a support with devices to control its position and stability, a transformer, a stabilizer, and a computer with dedicated software. The characteristics of the equipment and its various devices, the dedicated software, and a suitable number of standards (produced *ad hoc* by AGM Archeoanalisi), greatly enhance the precision of the system.
 
-  The composition, production techniques, and finishing processes of the artifacts have been investigated and allow for the reconstruction of the fabrication procedures and the various stages of production. Among the metal finds were some objects that are commonly interpreted as small tools, such as tweezers, the so-called weaving hooks, and cosmetic scrapers.
+    The composition, production techniques, and finishing processes of the artifacts have been investigated and allow for the reconstruction of the fabrication procedures and the various stages of production. Among the metal finds were some objects that are commonly interpreted as small tools, such as tweezers, the so-called weaving hooks, and cosmetic scrapers.
 
-  The analyses have shown that the copper-based alloys employed for personal ornaments and jewelry are much better refined and contain more alloying elements such as tin and arsenic than the copper-based alloys used for simple tools. Further, the tweezers, so-called weaving hooks, and cosmetic scrapers were made of the same good-quality alloys as jewelry. This fact clearly indicates that such small personal items were not simple tools, but they had high value and a special significance in Minoan society. They were apparently worn by their owners as decorative accessories, and indicated their social status. In the special case of the items heretofore known as weaving hooks, their identification as hair pins is confirmed by the existence of gold examples and painted representations in the Grandstand Fresco at Knossos.
-weight: 34
+    The analyses have shown that the copper-based alloys employed for personal ornaments and jewelry are much better refined and contain more alloying elements such as tin and arsenic than the copper-based alloys used for simple tools. Further, the tweezers, so-called weaving hooks, and cosmetic scrapers were made of the same good-quality alloys as jewelry. This fact clearly indicates that such small personal items were not simple tools, but they had high value and a special significance in Minoan society. They were apparently worn by their owners as decorative accessories, and indicated their social status. In the special case of the items heretofore known as weaving hooks, their identification as hair pins is confirmed by the existence of gold examples and painted representations in the Grandstand Fresco at Knossos.
+weight: 601
 ---
 
 ## Introduction

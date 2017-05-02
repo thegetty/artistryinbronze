@@ -12,7 +12,7 @@ abstract: |
     How do we reconstruct the fabrication process of an exceptionally large and lost statue? First, the general parameters for the working steps must be known. Therefore, the indirect lost-wax process in antiquity is compared with better-known methods used to create two extant colossal statues, the Great Buddha in Nara (cast in courses) and the *Bavaria* in Munich (cast in large sections). Then the various steps of the working process attested in ancient times are examined. The analysis reveals basic differences between the three casting methods.
 
     Philo’s text contains a certain level of technical knowledge but lacks important details and indeed states an important falsehood. A possible explanation for this discrepancy is that he used a written reconstruction of a working process. This means that we can give the archaeological evidence greater weight than this text.
-weight: 6
+weight: 102
 ---
 
 In the argument over where the monumental statue known as the Colossus of Rhodes was located, its casting has hitherto seldom been considered. The statue—made of cast bronze with a height of 70 cubits (30–35 meters, or 98–114 feet)—must have left at least some remnants of its production. Furthermore, these remnants must be discoverable in the city of Rhodes. However, a requirement for recognizing these remnants is knowledge of the casting technique that was used. For this reason, it is worth undertaking a reconstruction of the manufacturing process of this lost statue.[^1]

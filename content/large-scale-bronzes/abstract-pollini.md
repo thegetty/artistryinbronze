@@ -13,5 +13,5 @@ abstract: |
     I argue, however, that the portrait of Germanicus was either integral to the original composition or was substituted for the head of his son Caligula after Caligula’s assassination and damnation. My interpretation is based on the decorative motifs of the armor, which go back to Hellenistic models but are also found in Roman art, as well as technical considerations and a very different interpretation of the meaning of the defeat of Troilos.
 
     (The full article based on this abstract will appear in *AJA* 121.3 (2017).)
-weight: 15
+weight: 111
 ---

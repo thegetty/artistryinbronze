@@ -1,13 +1,15 @@
 ---
+id: "11"
 title: Looking at the Bronze of Lost Sculptures
 subtitle: The Reception of the Delphic Monument of the Admirals in the Imperial Age
-type: page
+type: essay
 author:
  - first_name: Eva
    last_name: Falaschi
    affiliation: Scuola Normale Superiore, Pisa
-abstract: The paper focuses on Plutarch’s interpretation of the Monument of the Admirals in Delphi and attempts to explain if and how the material (in particular the blue patina of bronze), the state of preservation of the statues, and their style influenced Plutarch’s perception and led him to attribute peculiar meanings and values to the group. It investigates also how these issues intertwined with the philosophical, religious, and historical reflections that are part of his discussion of the monument.
-weight: 15
+abstract: |
+    The paper focuses on Plutarch’s interpretation of the Monument of the Admirals in Delphi and attempts to explain if and how the material (in particular the blue patina of bronze), the state of preservation of the statues, and their style influenced Plutarch’s perception and led him to attribute peculiar meanings and values to the group. It investigates also how these issues intertwined with the philosophical, religious, and historical reflections that are part of his discussion of the monument.
+weight: 203
 ---
 
 At the beginning of his writing *On the Pythian Responses* (*De Pythiae oraculis*), Plutarch dedicates several chapters (395b–396c) to the blue patina that characterized bronze Delphian votive offerings. Several studies have tried to give a scientific explanation for this patina and to identify it in artworks brought to light during excavations.[^1] This contribution focuses on a different aspect, strictly linked to the reception and perception of art in the Imperial age. Its aim is not to explain what the blue patina is but rather the values and meanings that Plutarch attributed to it, and also how it influenced his interpretation of the Monument of the Admirals.

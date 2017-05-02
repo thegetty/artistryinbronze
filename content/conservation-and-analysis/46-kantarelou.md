@@ -1,6 +1,7 @@
 ---
+id: "46"
 title: A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria
-type: page
+type: essay
 author:
  - first_name: V.
    last_name: Kantarelou
@@ -20,11 +21,11 @@ author:
  - first_name: V.
    last_name: Argyropoulos
    affiliation: Technological Educational Institute of Athens (TEI), Department of Conservation of Antiquities & Works of Art, Athens, Greece
-abstract: >
-  The use of portable and handheld XRF analyzers has been widely adopted in metal compositional studies by cultural heritage professionals. However, studies have shown that the lack of certified reference materials and standardized quantification approaches has contributed to rather poor reproducibility of quantitative results among end-users in the analysis of historic and ancient copper alloys. The limited depth resolution of XRF analysis can impose additional difficulties for proper interpretation of analytical data obtained for ancient metal alloys, due to stratified corrosion layers at the metal-corrosion interface.
+abstract: |
+    The use of portable and handheld XRF analyzers has been widely adopted in metal compositional studies by cultural heritage professionals. However, studies have shown that the lack of certified reference materials and standardized quantification approaches has contributed to rather poor reproducibility of quantitative results among end-users in the analysis of historic and ancient copper alloys. The limited depth resolution of XRF analysis can impose additional difficulties for proper interpretation of analytical data obtained for ancient metal alloys, due to stratified corrosion layers at the metal-corrosion interface.
 
-  During the PROMET European FP6 project, a customized micro-XRF spectrometer was transported to the National Museum of Damascus, Syria, to study its unique bronze collection. Analyses were carried out on many important artifacts, such as Late Bronze Age gilded-bronze figurines from the site of Ugarit. The paper focuses on the micro-XRF analyses of two of these bronze figurines and highlights the methodological issues regarding the optimization and validation of the micro-XRF analytical approach for ancient copper alloys. The XRF analyses of these unique Mesopotamian figurines are presented with an emphasis on best practices for micro-XRF measurement protocols, data analysis, and interpretation.
-weight: 50
+    During the PROMET European FP6 project, a customized micro-XRF spectrometer was transported to the National Museum of Damascus, Syria, to study its unique bronze collection. Analyses were carried out on many important artifacts, such as Late Bronze Age gilded-bronze figurines from the site of Ugarit. The paper focuses on the micro-XRF analyses of two of these bronze figurines and highlights the methodological issues regarding the optimization and validation of the micro-XRF analytical approach for ancient copper alloys. The XRF analyses of these unique Mesopotamian figurines are presented with an emphasis on best practices for micro-XRF measurement protocols, data analysis, and interpretation.
+weight: 712
 ---
 
 ## Introduction

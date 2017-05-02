@@ -1,33 +1,34 @@
 ---
+id: "36"
 title: Investigating Ancient “Bronzes”
 subtitle: Non-Destructive Analysis of Copper-Based Alloys
-type: page
+type: essay
 author:
  - first_name: Robert H.
    last_name: Tykot
    affiliation: University of South Florida
-abstract: >
-  Identification of the composition of “bronze” objects—many of which are
-  not in fact bronze—is fundamental for studying the technology and
-  intentions of the maker and the availability of tin and other alloys,
-  and for providing accurate descriptive information for museum displays.
-  There are many methods of elemental analysis, but most require the
-  removal of a sample, which increasingly is not allowed for
-  museum-quality objects. The use of a portable X-ray fluorescence
-  spectrometer (pXRF) avoids this, but unfortunately provides results only
-  on the near-surface. Readings may be inaccurate due to heterogeneity
-  caused by the cooling process, degradation/weathering, and cleaning or
-  other preservation treatment.
+abstract: |
+    Identification of the composition of “bronze” objects—many of which are
+    not in fact bronze—is fundamental for studying the technology and
+    intentions of the maker and the availability of tin and other alloys,
+    and for providing accurate descriptive information for museum displays.
+    There are many methods of elemental analysis, but most require the
+    removal of a sample, which increasingly is not allowed for
+    museum-quality objects. The use of a portable X-ray fluorescence
+    spectrometer (pXRF) avoids this, but unfortunately provides results only
+    on the near-surface. Readings may be inaccurate due to heterogeneity
+    caused by the cooling process, degradation/weathering, and cleaning or
+    other preservation treatment.
 
-  In this study, a Bruker pXRF has been used to analyze hundreds of
-  copper-based objects from different countries and many museums, and the
-  advantages and limitations of this method are discussed in accordance
-  with the research questions being addressed. These include (1) the
-  initial technological transition from copper to arsenical copper and tin
-  bronze alloys, and later to brass; (2) the availability of the secondary
-  metals; and (3) analyses in American museums to assess authenticity and
-  provide accurate descriptive information for display cases.
-weight: 40
+    In this study, a Bruker pXRF has been used to analyze hundreds of
+    copper-based objects from different countries and many museums, and the
+    advantages and limitations of this method are discussed in accordance
+    with the research questions being addressed. These include (1) the
+    initial technological transition from copper to arsenical copper and tin
+    bronze alloys, and later to brass; (2) the availability of the secondary
+    metals; and (3) analyses in American museums to assess authenticity and
+    provide accurate descriptive information for display cases.
+weight: 702
 ---
 
 ## X-Ray Fluorescence

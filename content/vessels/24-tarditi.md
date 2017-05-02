@@ -1,12 +1,14 @@
 ---
+id: "24"
 title: Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Period
-type: page
+type: essay
 author:
  - first_name: Chiara
    last_name: Tarditi
    affiliation: Università Cattolica, Brescia (Italy)
-abstract: The study of a substantial quantity of bronze vessels fragments from the Athenian Acropolis provides an opportunity to define better the characteristics, the chronology, and the diffusion of the Athenian bronze vessel production from the late sixth to the mid-fifth century BC.
-weight: 28
+abstract: |
+    The study of a substantial quantity of bronze vessels fragments from the Athenian Acropolis provides an opportunity to define better the characteristics, the chronology, and the diffusion of the Athenian bronze vessel production from the late sixth to the mid-fifth century BC.
+weight: 501
 ---
 
 In the study of Greek bronze vessels of the Archaic period, important comparisons are always offered by the fragments found during the excavations carried out on the Athenian Acropolis. Until now, these fragments were known mainly from some incomplete publications of the late nineteenth or early twentieth century.[^1] To fill this gap, we studied the bronze vessel fragments found on the Acropolis more systematically and completely. The results of this research[^2] make it possible to draw some conclusions about the extent and features of the Athenian bronze vessel production during the Archaic and Classical periods.

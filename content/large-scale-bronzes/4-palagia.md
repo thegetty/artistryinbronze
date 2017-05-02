@@ -13,7 +13,7 @@ abstract: |
 
     The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
 
-weight: 8
+weight: 104
 ---
 
 The fine bronze portrait head of a man wearing a *kausia* (**figs. 4.1–3**) which was on display in the exhibitions *Power and Pathos* in Florence, Los Angeles, and Washington, D.C., and *Pergamon and the Hellenistic Kingdoms of the Ancient World* at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.[^1] Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.[^2] A third monumental bronze from the same area is the cuirassed torso of a horseman,[^3] while a fourth is an even larger headless horseman,[^4] which may or may not belong together with the *kausia* head. It is sometimes assumed that this bronze head belonged to an equestrian statue, but this is by no means established.

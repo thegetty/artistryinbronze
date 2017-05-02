@@ -1,13 +1,15 @@
 ---
+id: "19"
 title: Through Celts and Romans
 subtitle: Technology and Symbolism of Bronze Enameled Roosters
-type: page
+type: essay
 author:
  - first_name: Federica
    last_name: Grossi
    affiliation: Università degli Studi di Milano
-abstract: One of the most interesting groups of Roman bronze metalwork spans the second and third centuries AD. It comprises about ten enameled statuettes portraying roosters, possibly standing on bases. Their provenance is attested at sites of the Western Empire, possibly connected with Celtic art. The roosters are portrayed in attack position, with the beak open and the crest up. Their chests are decorated with triangles or lozenges of multicolored champlevé enamels and they have detachable backs. The recent find of a similar item, complete with its tail, has brought renewed attention to these objects, but they are still rarely published or are mentioned only in old scholarship. There are still open questions about them, such as how were they made and why, with such an elegant and precious technique. Furthermore, there are debatable aspects of both the metalworking and the shapes of these objects, which are probably connected with the Celts, as well as problems related to ateliers and workshops. Finally, it would be interesting to know more about their function, whether as lamps, containers, or simple decorative statuettes.
-weight: 23
+abstract: |
+    One of the most interesting groups of Roman bronze metalwork spans the second and third centuries AD. It comprises about ten enameled statuettes portraying roosters, possibly standing on bases. Their provenance is attested at sites of the Western Empire, possibly connected with Celtic art. The roosters are portrayed in attack position, with the beak open and the crest up. Their chests are decorated with triangles or lozenges of multicolored champlevé enamels and they have detachable backs. The recent find of a similar item, complete with its tail, has brought renewed attention to these objects, but they are still rarely published or are mentioned only in old scholarship. There are still open questions about them, such as how were they made and why, with such an elegant and precious technique. Furthermore, there are debatable aspects of both the metalworking and the shapes of these objects, which are probably connected with the Celts, as well as problems related to ateliers and workshops. Finally, it would be interesting to know more about their function, whether as lamps, containers, or simple decorative statuettes.
+weight: 307
 ---
 
 ## Introduction

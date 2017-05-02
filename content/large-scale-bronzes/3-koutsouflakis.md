@@ -13,7 +13,7 @@ abstract: |
 
     The aim of this paper is to examine the existing evidence of bronzes found in the Aegean Sea, highlighting less known material retrieved from the sea over the last twenty years or long forgotten in museum storerooms.
 
-weight: 7
+weight: 103
 ---
 
 “Thank God for Vesuvius; thank God for shipwrecks.” Bondo Wyszpolski’s comment[^1] on the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World* at the Getty Museum accurately sums up an art-historical reality: bronze artwork of antiquity rarely survived the vicissitudes of history, except by mere chance. The contribution of Pompeii together with a handful of other sites is well known and recognized; the Villa dei Papiri at Herculaneum, for example, with its exquisite bronze portraiture “catapulted the study of bronzes from antiquarian pastime to art-historical discipline,”[^2] presenting an excellent archaeological context in which the Hellenistic art of portraiture could be well appreciated and understood. By contrast, the yield from the depths of the sea covers a considerably longer time span and is mostly the result of unintentional acts, resulting in a testimony that is far more ambiguous. The pursuit of context remains a major issue for most bronzes recovered underwater.[^3]

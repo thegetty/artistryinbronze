@@ -2,5 +2,5 @@
 id: "VI"
 title: Artifacts
 type: section-head
-weight: 34
+weight: 600
 ---

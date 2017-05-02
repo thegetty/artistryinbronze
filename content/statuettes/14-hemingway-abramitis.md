@@ -1,6 +1,7 @@
 ---
+id: "14"
 title: The Use of Inlays in Early Greek Bronzes
-type: page
+type: essay
 author:
  - first_name: Séan
    last_name: Hemingway
@@ -8,15 +9,15 @@ author:
  - first_name: Dorothy H.
    last_name: Abramitis
    affiliation: Metropolitan Museum of Art, New York
-abstract: >
-  Ancient Greek bronze-smiths had a variety of techniques at their disposal to enhance the appearance of their creations. Due to their often fragmentary state of preservation, the modern observer tends to think of early Greek bronzes as monochromatic, but it is clear that the practice of inlaying other materials into bronze started early in ancient Greece.
+abstract: |
+    Ancient Greek bronze-smiths had a variety of techniques at their disposal to enhance the appearance of their creations. Due to their often fragmentary state of preservation, the modern observer tends to think of early Greek bronzes as monochromatic, but it is clear that the practice of inlaying other materials into bronze started early in ancient Greece.
 
-  Inlays appear in a broad variety of bronze object types from weapons and armor, vessels and jewelry to relief-decorated objects and figural sculpture. Many of the finest early Greek bronzes were embellished with inlays that enlivened the sculptural forms and may have added symbolic or even magical qualities. Eyes were often given particular prominence with inlays.
+    Inlays appear in a broad variety of bronze object types from weapons and armor, vessels and jewelry to relief-decorated objects and figural sculpture. Many of the finest early Greek bronzes were embellished with inlays that enlivened the sculptural forms and may have added symbolic or even magical qualities. Eyes were often given particular prominence with inlays.
 
-  Of special interest is a new technical analysis of a Late Geometric statuette of a man and a centaur (Metropolitan Museum of Art, inv. 17.190.2072), in which the eyes of the man were inlaid with silver to contrast with the eyes of the centaur, which appear to have an iron-rich inlay. Although the evidence is frequently incomplete, it is clear that a wide variety of colorful inlays such as gold, silver, iron, bone, ivory, and amber were utilized, and other materials, such as stone and shell, were certainly used as well.
+    Of special interest is a new technical analysis of a Late Geometric statuette of a man and a centaur (Metropolitan Museum of Art, inv. 17.190.2072), in which the eyes of the man were inlaid with silver to contrast with the eyes of the centaur, which appear to have an iron-rich inlay. Although the evidence is frequently incomplete, it is clear that a wide variety of colorful inlays such as gold, silver, iron, bone, ivory, and amber were utilized, and other materials, such as stone and shell, were certainly used as well.
 
-  This paper looks at the evidence for the Geometric (900–700 BC) and Archaic (700–480 BC) periods with particular reference to artworks in the collection of the Metropolitan Museum of Art in New York.
-weight: 18
+    This paper looks at the evidence for the Geometric (900–700 BC) and Archaic (700–480 BC) periods with particular reference to artworks in the collection of the Metropolitan Museum of Art in New York.
+weight: 302
 ---
 
 Ancient Greek bronze-smiths used a variety of techniques to enhance the appearance of their creations. Due to their often fragmentary state of preservation, the modern observer tends to think of early Greek bronzes as monochromatic, but it is clear that the practice of inlaying other materials into bronze started early in ancient Greece. This paper looks at the evidence for the Geometric (ca. 900–700 BC) and Archaic (ca. 700–480 BC) periods from many different regions, with particular reference to artworks in the collection of the Metropolitan Museum of Art, where a variety of nondestructive scientific analyses were conducted in the Museum’s conservation and scientific laboratories. While not the focus of this paper, the history of inlays on copper alloy artifacts began much earlier in ancient Greece, during the Bronze Age. Certainly among the most spectacular and accomplished examples of the Late Bronze Age are the daggers inlaid with figural scenes of gold, silver, and copper found in the Shaft Graves at Mycenae and in other coeval tombs, which have been catalogued and discussed in detail.[^1] Exquisite new examples continue to be discovered in archaeological excavations. Although these inlays are often described as using niello (a mixture of sulfur and various metals) in the archaeological and art-historical literature on the subject,[^2] scientific analysis has shown that a different technique was used to produce the rich black or blue-black patination.[^3] Such fine complex figural inlays in bronze artifacts made in Greece generally do not appear again until the Archaic period and niello is not securely attested until the Roman Imperial period.

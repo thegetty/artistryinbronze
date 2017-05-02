@@ -1,13 +1,15 @@
 ---
+id: "9"
 title: More Than Holes!
 subtitle: An Unconventional Perspective of the “Greek Revolution” in Bronze Statuary
-type: page
+type: essay
 author:
  - first_name: Gianfranco
    last_name: Adornato
    affiliation: Scuola Normale Superiore, Pisa
-abstract: This paper explores the technical and art-historical importance of dowel holes, a largely overlooked source of material evidence for the study of fifth-century Greek bronze statuary. Generally, the “artistic revolution” in Greek sculpture is associated with the Persian Wars, with two sculptors, Kritios and Nesiotes, and with their sculptural group, the Tyrannicides, precisely dated to 477/6 BC. From an art-historical point of view, I discuss whether their statues can indeed be considered “revolutionary.” For this purpose, I investigate inscribed and signed bases connected to Kritios and Nesiotes, in order to identify and highlight technical improvements in Greek sculpture. Thanks to a fresh and close inspection of dowel holes and remains of footprints, I argue that it is not until Polykleitos’s activity and not before the Kyniskos base in Olympia that we can detect a new technical solution in positioning bronze sculptures and, consequently, in rendering poses. The different posture resulting from the shift of balance from both feet to one only has profound artistic, technical and anatomical implications. Polykleitos’ fundamental characteristic breaks with the previous rules and traditional stance and represents a revolutionary innovation. I conclude that the balance on one leg (*uno crure*), a peculiarity of Polykleitos’s works attested by the remaining dowel holes and in Pliny (*Naturalis historia* 34.55–56), represents a turning point in perfecting the representation of the human figure and a different solution to the problem of ponderation.
-weight: 13
+abstract: |
+    This paper explores the technical and art-historical importance of dowel holes, a largely overlooked source of material evidence for the study of fifth-century Greek bronze statuary. Generally, the “artistic revolution” in Greek sculpture is associated with the Persian Wars, with two sculptors, Kritios and Nesiotes, and with their sculptural group, the Tyrannicides, precisely dated to 477/6 BC. From an art-historical point of view, I discuss whether their statues can indeed be considered “revolutionary.” For this purpose, I investigate inscribed and signed bases connected to Kritios and Nesiotes, in order to identify and highlight technical improvements in Greek sculpture. Thanks to a fresh and close inspection of dowel holes and remains of footprints, I argue that it is not until Polykleitos’s activity and not before the Kyniskos base in Olympia that we can detect a new technical solution in positioning bronze sculptures and, consequently, in rendering poses. The different posture resulting from the shift of balance from both feet to one only has profound artistic, technical and anatomical implications. Polykleitos’ fundamental characteristic breaks with the previous rules and traditional stance and represents a revolutionary innovation. I conclude that the balance on one leg (*uno crure*), a peculiarity of Polykleitos’s works attested by the remaining dowel holes and in Pliny (*Naturalis historia* 34.55–56), represents a turning point in perfecting the representation of the human figure and a different solution to the problem of ponderation.
+weight: 201
 ---
 
 ## 1. Defining the Severe-style Period

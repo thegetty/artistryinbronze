@@ -1,12 +1,14 @@
 ---
+id: "28"
 title: An Anthropomorphic Vessel in the National Museum of Beirut
-type: page
+type: essay
 author:
  - first_name: Zeina
    last_name: Fani
    affiliation: Lebanese University, Beirut
-abstract: An anthropomorphic vessel depicting a young man wearing a *nebris* (fawn skin) is on display at the National Museum of Beirut (inv. 25422). The man also wears a torque adorned with a crescent pendant, a type of jewelry commonly found in Egyptian painted portraits of the Roman period. The large bead molding at the bottom of the vessel may also indicate that Egypt, and particularly Alexandria, was the place of manufacture. However, the hair and eye treatment suggest that it may have been cast in a Lebanese workshop.
-weight: 32
+abstract: |
+    An anthropomorphic vessel depicting a young man wearing a *nebris* (fawn skin) is on display at the National Museum of Beirut (inv. 25422). The man also wears a torque adorned with a crescent pendant, a type of jewelry commonly found in Egyptian painted portraits of the Roman period. The large bead molding at the bottom of the vessel may also indicate that Egypt, and particularly Alexandria, was the place of manufacture. However, the hair and eye treatment suggest that it may have been cast in a Lebanese workshop.
+weight: 505
 ---
 
 A bronze anthropomorphic vessel came onto the art market in Damascus in 1953. It was acquired by the late Émir Maurice Chéhab, then director-general of antiquities in Lebanon, who actively sought artifacts that had been excavated in his country and subsequently smuggled into Syria for sale. The vessel (inv. 25422) currently is on display at the National Museum of Beirut.

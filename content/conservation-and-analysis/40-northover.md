@@ -1,7 +1,8 @@
 ---
+id: "40"
 title: The Cleveland *Apollo*
 subtitle: Recent Research and Revelations
-type: page
+type: essay
 author:
  - first_name: Colleen
    last_name: Snyder
@@ -12,8 +13,9 @@ author:
  - first_name: Peter
    last_name: Northover
    affiliation: October House, Southmoor, UK
-abstract: The Cleveland *Apollo* (Cleveland Museum of Art, inv. 2004.30) has continued to be the subject of extensive research since just prior to its acquisition in 2004. The life-size (H 150 cm or 59 in.) artwork depicts a youthful god of the *sauroktonos* type, including a small, serpent-like creature, now detached. The sculpture is nearly complete, missing only parts of both arms and the accompanying tree. This paper details the most recent research conducted in 2014 and, incorporating data from previous studies, provides a preliminary interpretation of the results. Research included extensive visual analysis, X-radiography, X-ray fluorescence spectrometry, metallography, and lead-isotope analysis of the bronze. These analyses had three primary goals. The first was to better understand the original manufacture, including how the indirect lost-wax bronze was cast, patched, and finished. The second aim was to reconstruct the history of the object before, during, and after burial. This included furthering the understanding of the bronze’s corrosion layers and remaining traces of archaeological materials, and also determining when and how the figure had been exposed to fire. Lastly, this research endeavored to elucidate decades of post-excavation display and interventions, including joining the sculpture to a bronze sheet as a display base, and reconstruction using modern materials.
-weight: 44
+abstract: |
+    The Cleveland *Apollo* (Cleveland Museum of Art, inv. 2004.30) has continued to be the subject of extensive research since just prior to its acquisition in 2004. The life-size (H 150 cm or 59 in.) artwork depicts a youthful god of the *sauroktonos* type, including a small, serpent-like creature, now detached. The sculpture is nearly complete, missing only parts of both arms and the accompanying tree. This paper details the most recent research conducted in 2014 and, incorporating data from previous studies, provides a preliminary interpretation of the results. Research included extensive visual analysis, X-radiography, X-ray fluorescence spectrometry, metallography, and lead-isotope analysis of the bronze. These analyses had three primary goals. The first was to better understand the original manufacture, including how the indirect lost-wax bronze was cast, patched, and finished. The second aim was to reconstruct the history of the object before, during, and after burial. This included furthering the understanding of the bronze’s corrosion layers and remaining traces of archaeological materials, and also determining when and how the figure had been exposed to fire. Lastly, this research endeavored to elucidate decades of post-excavation display and interventions, including joining the sculpture to a bronze sheet as a display base, and reconstruction using modern materials.
+weight: 706
 ---
 
 ## Introduction and Pre-accession Investigation

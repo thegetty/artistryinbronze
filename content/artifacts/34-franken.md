@@ -1,14 +1,15 @@
 ---
+id: "34"
 title: Roman Silhouette Figures
 subtitle: A Contribution to Music Archaeology?
-type: page
+type: essay
 author:
  - first_name: Norbert
    last_name: Franken
    affiliation: Corpus Vasorum, Bayerische Akademie der Wissenschaften, Berlin
-abstract: >
-  This paper is the first overall study of Roman silhouette figures cut out of bronze sheets. The silhouette-shaped figures are mostly reduced to their outlines and show chiseled or engraved detail drawings. Though the figures have a wide distribution throughout the ancient world, they remain extraordinarily rare. The silhouettes tend to represent deities, particularly figures from the Apollonian entourage. Although most of these figures are now deprived of their contexts, a distinct emphasis on music and dance scenes can clearly be observed. Taking technical characteristics as well as information on find contexts into consideration, the author proposes that the silhouette figures were originally used as inlays for wooden musical instruments and furniture.
-weight: 38
+abstract: |
+    This paper is the first overall study of Roman silhouette figures cut out of bronze sheets. The silhouette-shaped figures are mostly reduced to their outlines and show chiseled or engraved detail drawings. Though the figures have a wide distribution throughout the ancient world, they remain extraordinarily rare. The silhouettes tend to represent deities, particularly figures from the Apollonian entourage. Although most of these figures are now deprived of their contexts, a distinct emphasis on music and dance scenes can clearly be observed. Taking technical characteristics as well as information on find contexts into consideration, the author proposes that the silhouette figures were originally used as inlays for wooden musical instruments and furniture.
+weight: 605
 ---
 
 The question of original function is of great importance in our attempts to understand any archaeological object. For many ancient bronzes, this question is not easy to answer. Technical features, context of the discovery, or figural parallels can often provide valuable information. First of all, however, one must search for comparable bronzes. Only when one expands one’s view from the individual object to all similar artifacts does it become possible to better understand and assess their shared characteristics.

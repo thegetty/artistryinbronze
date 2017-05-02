@@ -1,16 +1,17 @@
 ---
+id: "20"
 title: Representations of Zeus/Jupiter in the Small-Scale Bronze
 subtitle: Sculptures of Albania
-type: page
+type: essay
 author:
  - first_name: Sabina
    last_name: Veseli
    affiliation: Institute of Archaeology, Center of Albanian Studies, Tirana
-abstract: >
-  Zeus and Jupiter were venerated gods in ancient Albania we can see from numerous attestations in inscriptions, coins, and marble sculpture. The presence of four bronze statuettes depicting Zeus/Jupiter is added evidence for his cult in this territory, which was situated on an important crossroads of the Mediterranean. The bronze statuettes representing Zeus with a Thunderbolt follow the canons of the Greek world and find many similarities with other statuettes that were used as votive offerings in various temples. The two Roman examples depicting Jupiter follow models widely used in the Roman Empire, mostly reproductions of the sculpture of the fourth century BC.
+abstract: |
+    Zeus and Jupiter were venerated gods in ancient Albania we can see from numerous attestations in inscriptions, coins, and marble sculpture. The presence of four bronze statuettes depicting Zeus/Jupiter is added evidence for his cult in this territory, which was situated on an important crossroads of the Mediterranean. The bronze statuettes representing Zeus with a Thunderbolt follow the canons of the Greek world and find many similarities with other statuettes that were used as votive offerings in various temples. The two Roman examples depicting Jupiter follow models widely used in the Roman Empire, mostly reproductions of the sculpture of the fourth century BC.
 
-  These bronze statuettes attest not only to the cult of Zeus/Jupiter in the territory of ancient Albania, but also to influences of style and bronze working techniques, and to similarities in religion shared with the rest of the Mediterranean world.
-weight: 24
+    These bronze statuettes attest not only to the cult of Zeus/Jupiter in the territory of ancient Albania, but also to influences of style and bronze working techniques, and to similarities in religion shared with the rest of the Mediterranean world.
+weight: 308
 ---
 
 Zeus/Jupiter was one of the most venerated gods in ancient Albania, a country situated on one of the crossroads of the Mediterranean. The area was heavily influenced culturally by the Graeco-Roman world. The eclectic religious life of this Graeco-Roman civilization ensured that the indigenous Illyrian pantheon was very similar to the Greek, and that most of the Olympian gods were venerated, as were Roman deities in a later era. Zeus/Jupiter, one of the most important gods, is represented in the small-scale bronze sculpture found in Albania, and in particular by the four examples discussed here. These have been previously published only in a descriptive manner, mostly in exhibition catalog formats.

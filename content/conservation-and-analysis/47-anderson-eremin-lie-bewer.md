@@ -1,7 +1,8 @@
 ---
+id: "47"
 title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
-type: page
+type: essay
 author:
  - first_name: Lisa Anderson
    last_name: Anderson
@@ -18,13 +19,13 @@ author:
  - first_name: Patrick
    last_name: Degryse
    affiliation: Centre for Archaeological Sciences, Division of Geology, KU Leuven
-abstract: >
-  Many different methods of analysis—art historical, technical, and scientific—must be considered at one time in order to determine the authenticity of an ancient metal artifact. But what should we do when multiple analytical methods are employed but no consensus can be reached? In this paper, we consider this question as applied to the Alexander Nelidow (inv. 1956.20), one of the most confounding and often-questioned copper-alloy pieces in the collection of the Harvard Art Museums.
+abstract: |
+    Many different methods of analysis—art historical, technical, and scientific—must be considered at one time in order to determine the authenticity of an ancient metal artifact. But what should we do when multiple analytical methods are employed but no consensus can be reached? In this paper, we consider this question as applied to the Alexander Nelidow (inv. 1956.20), one of the most confounding and often-questioned copper-alloy pieces in the collection of the Harvard Art Museums.
 
-  The piece has been examined and debated by art historians, conservators, and materials scientists for decades with no clear consensus having been reached about its authenticity. Thought by some to be a Roman-period copy of an original bronze statue of Alexander the Great created by Lysippos in the third century BC, the piece has also been attributed on stylistic grounds to the Renaissance. Although the surface of the statuette was stripped and partially recarved in the late nineteenth century, patches of thick cuprite remain in many areas. While the alloy is consistent with a Roman date (leaded bronze with only a trace of zinc), the lead isotope composition is not consistent with known ancient ore sources.
+    The piece has been examined and debated by art historians, conservators, and materials scientists for decades with no clear consensus having been reached about its authenticity. Thought by some to be a Roman-period copy of an original bronze statue of Alexander the Great created by Lysippos in the third century BC, the piece has also been attributed on stylistic grounds to the Renaissance. Although the surface of the statuette was stripped and partially recarved in the late nineteenth century, patches of thick cuprite remain in many areas. While the alloy is consistent with a Roman date (leaded bronze with only a trace of zinc), the lead isotope composition is not consistent with known ancient ore sources.
 
-  In this paper, we discuss the sometimes-conflicting results of the visual and analytical tests that have been conducted on the Alexander statuette. We compare these with results from other pieces in Harvard’s collection of equally uncertain date and of known replicas in order to achieve a better understanding of the different methods of authentication.
-weight: 51
+    In this paper, we discuss the sometimes-conflicting results of the visual and analytical tests that have been conducted on the Alexander statuette. We compare these with results from other pieces in Harvard’s collection of equally uncertain date and of known replicas in order to achieve a better understanding of the different methods of authentication.
+weight: 713
 ---
 
 On display in the Harvard Art Museums is a statuette of Alexander the Great, sometimes referred to as the Alexander Nelidow after its first known owner.[^1] The statuette first appeared in the Istanbul bazaar sometime before 1897.[^2] The original condition of the surface when excavated can only be guessed at: the surface had already been cleaned of any unsightly burial accretions by the time the first images appear.[^3] Alexander is depicted as a nude youth, standing with his left arm raised, probably to grasp a spear. His head is turned sharply toward the left, while his right arm is bent with hand placed on his right hip (**fig. 47.1**). His torso is heavily muscled on the front and back. The legs below the knee are restorations. The statuette was sold at auction in 1911.[^4] By 1954, it was in the possession of C. Ruxton Love, Jr.,[^5] who donated it to Harvard’s Fogg Art Museum in 1956.[^6]

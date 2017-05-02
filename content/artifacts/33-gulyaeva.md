@@ -1,15 +1,16 @@
 ---
+id: "33"
 title: A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration
-type: page
+type: essay
 author:
  - first_name: Nadežda P.
    last_name: Gulyaeva
    affiliation: The State Hermitage Museum, St. Petersburg
-abstract: >
-  Together with other items from the famous collection of Marquis Giovanni Pietro Campana, three so-called shields appeared in the Antiquities Department of the State Hermitage Museum in 1861. Two “shields” were hammered from a bronze sheet. Their wide, flat rims are decorated with a double-spiral ornament. The third “shield” with a crudely made handle inside was suspected to be entirely fake. In the center of the shields, Samnite *kardiophylakes* (chest bandoliers) were attached.
+abstract: |
+    Together with other items from the famous collection of Marquis Giovanni Pietro Campana, three so-called shields appeared in the Antiquities Department of the State Hermitage Museum in 1861. Two “shields” were hammered from a bronze sheet. Their wide, flat rims are decorated with a double-spiral ornament. The third “shield” with a crudely made handle inside was suspected to be entirely fake. In the center of the shields, Samnite *kardiophylakes* (chest bandoliers) were attached.
 
-  Except for the removal of the *kardiophylakes*, no other attempts were made to restore these items. Preliminary examinations of the items were made in 2011 in the conservation laboratory of the Hermitage. It was discovered that some parts of the surface of two similar “shields” were covered with a false green patina. In the center of one “shield,” accurate round holes had been made, and on the inside newly fashioned bronze loops with rings had been attached. In the center of the second “shield” was mounted a small metal detail, perhaps for fastening a *kardiophylax*, which at that time may have been believed to be a kind of shield decoration. The bosses covering the surface of the third “shield” were in fact ancient.
-weight: 37
+    Except for the removal of the *kardiophylakes*, no other attempts were made to restore these items. Preliminary examinations of the items were made in 2011 in the conservation laboratory of the Hermitage. It was discovered that some parts of the surface of two similar “shields” were covered with a false green patina. In the center of one “shield,” accurate round holes had been made, and on the inside newly fashioned bronze loops with rings had been attached. In the center of the second “shield” was mounted a small metal detail, perhaps for fastening a *kardiophylax*, which at that time may have been believed to be a kind of shield decoration. The bosses covering the surface of the third “shield” were in fact ancient.
+weight: 604
 ---
 
 The major part of Marquis Giovanni Pietro Campana’s famous collection came into the Department of Classical Antiquities at the Hermitage Museum in 1861. Among the items were three “shields.” There were no detailed descriptions of them, but they were included in a short list of the objects in a special catalogue.[^1]
