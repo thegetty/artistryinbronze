@@ -1,40 +1,46 @@
 <div class="quire-menu" role="directory">
-  <button class="expander">
+  <button class="expander quire-menu__button">
     <svg><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
     <span class="visually-hidden">Menu</span>
   </button>
-  <div>
-    <header>
-      <h2>
-        {{ partial "title-block.html" . }}
-      </h2>
-    </header>
-    <nav role="navigation" aria-label="full">
-      <h3 class="visually-hidden">Publication Contents</h3>
-      <ul>
-        {{ range where .Site.AllPages "Section" "essays" }}
-          {{- .Render "li" -}}
-        {{ end }}
-      </ul>
-      <!-- https://gohugo.io/extras/menus/ -->
-      <ul class="sidebar-nav">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <li><a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{.URL}}">{{ .Name }}</a></li>
-        {{ end }}
-      </ul>
-    </nav>
-    <section role="complementary">
-      <h3><button class="heading-expander">Other Formats</button></h3>
-      {{ partial "link-list.html" .Site.Data.publication.formats }}
-    </section>
-    <section role="complementary">
-      <h3><button class="heading-expander">Related Resources</button></h3>
-      {{ partial "link-list.html" .Site.Data.publication.related_resources }}
-    </section>
-    <section role="contentinfo">
-      <h3 class="visually-hidden">About</h3>
-      {{ partial "footer.html" . }}
-    </section>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          {{ partial "title-block.html" . }}
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Publication Contents</h3>
+        <ul class="quire-contents">
+          {{ range .Site.Pages }}
+            {{ if .Section }}
+            {{ if ne .Type "section-head" }}
+            {{ else }}
+            <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title }}</a></li>
+            {{ end }}
+            {{ else }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+      {{ with .Site.Data.publication.formats }}
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        {{ partial "link-list.html" . }}
+      </section>
+      {{ end }}
+      {{ with .Site.Data.publication.related_resources }}
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Related Resources</button></h3>
+        {{ partial "link-list.html" . }}
+      </section>
+      {{ end }}
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        {{ partial "footer.html" . }}
+      </footer>
+    </div>
   </div>
 </div>

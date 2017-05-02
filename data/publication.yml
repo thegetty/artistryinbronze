@@ -12,36 +12,171 @@ subtitle: The Greeks and Their Legacy
 short_title: Artistry in Bronze
 reading_line: XIXth International Congress on Ancient Bronzes
 
-pub_date: 2017-11-01
-creators:
+series_name:
+number_in_series:
+
+primary_contributors:
   # Add as many creators as desired here; each one should begin with a dash.
   # The Quire themes will assume the first item in the creators array is the
   # primary author.
   #
   # Multiple contributors can be added in the same fashion.
-  - first_name: Jens M.
+  - id:
+    first_name: Jens M.
     last_name: Daehner
-    role: edc
+    affiliation:
+    role: Editor
+    role_code: edc
     bio:
-  - first_name: Kenneth
+  - id:
+    first_name: Kenneth
     last_name: Lapatin
-    role: edc
+    affiliation:
+    role: Editor
+    role_code: edc
     bio:
-  - first_name: Ambra
+  - id:
+    first_name: Ambra
     last_name: Spinelli
-    role: edc
+    affiliation:
+    role: Editor
+    role_code: edc
     bio:
-contributors:
 
-author_as_it_appears:
+secondary_contributors:
+
+contributors_as_they_appear:
   # This field is totally custom in case a particular phrasing is desired.
-  - Edited by Jens M. Daehner, Kenneth Lapatin, and Ambra Spinelli
-project_team:
-  - name: Jane Editor
-    role: Project Editor
-  # Additional members can be added like this:
-  # - name: Joe Editor
-  #   role: Project Editor 2
+  - Edited by
+  - Jens M. Daehner
+  - Kenneth Lapatin
+  - Ambra Spinelli
+
+# PUBLICATION INFO
+
+pub_date: 2017-11-01
+language: en
+publisher:
+  - name: J. Paul Getty Museum
+    location: Los Angeles
+  - name: Getty Conservation Institute
+    location: Los Angeles
+
+copyright: © 2017 J. Paul Getty Trust
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  link_relation: license
+  url: http://creativecommons.org/licenses/by/4.0/
+  icon: cc-by.png
+
+license_exceptions:
+  online:
+  pdf:
+  ebook:
+  both:
+
+project-team:
+  - first_name:
+    last_name:
+    role:
+
+
+# FORMATS, DOWNLOADS & LINKS
+
+# `media_type`: http://www.iana.org/assignments/media-types/media-types.xhtml
+# `link_relation`: http://www.iana.org/assignments/link-relations/link-relations.xhtml
+# `description`: will append as new paragraph(s) to main `description` above on the backcover and/or About page for this edition
+# `identifier`: should be an ISBN, ISSN, DOI or other similar designator
+
+formats:
+  - name: Online
+    media_type: text/html
+    link_relation: canonical
+    description:
+    url: http://www.getty.edu/publications/artistryinbronze
+    identifier: 978-1-60606-540-2
+    file_size_mb:
+    file_type:
+    icon:
+  - name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    description:
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub
+    identifier: 978-1-60606-542-6
+    file_size_mb:
+    file_type: EPUB
+    icon:
+  - name: MOBI/KINDLE
+    media_type: application/mobi
+    link_relation: alternate
+    description:
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi
+    identifier: 978-1-60606-542-6
+    file_size_mb:
+    file_type: MOBI
+    icon:
+  - name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    description:
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf
+    identifier: 978-1-60606-541-9
+    file_size_mb:
+    file_type: PDF
+    icon:
+  - name: Paperback
+    media_type: print
+    link_relation: alternate
+    description:
+    url: http://shop.getty.edu/products/atistry-in-bronze-978-1606065419
+    identifier: 978-1-60606-541-9
+    file_size_mb:
+    file_type:
+    icon:
+
+# related_resources:
+#   - name:
+#     media_type:
+#     link_relation:
+#     description:
+#     url:
+#     identifier:
+#     file_size_mb:
+#     file_type:
+#     icon:
+
+footer_links:
+  - name: About
+    media_type:
+    link_relation: about
+    description:
+    url: http://www.getty.edu/publications/artistryinbronze/about/
+    identifier:
+    file_size_mb:
+    file_type:
+    icon:
+  - name: Privacy Policy
+    media_type:
+    link_relation: privacy-policy
+    description:
+    url: http://www.getty.edu/legal/privacy.html
+    identifier:
+    file_size_mb:
+    file_type:
+    icon:
+  - name: Terms of Use
+    media_type:
+    link_relation: terms-of-service
+    description:
+    url: http://www.getty.edu/legal/copyright.html
+    identifier:
+    file_size_mb:
+    file_type:
+    icon:
+
+
 editions:
   # You can define bibliographic information for each edition of the publication
   # in the array below. Templates that include citation tools will pull data
@@ -52,15 +187,27 @@ editions:
     isbn: 978-1-60606-499-3
     link: http://www.getty.edu/publications/artistryinbronze
     additional_description:
-publisher: Getty Publications
-imprint: J. Paul Getty Museum
-publisher_short: Getty P
-publisher_location: Los Angeles
-rights: © 2017 J. Paul Getty Trust
-license:
-  type: Creative Commons Attribution 4.0 International License
-  link: http://creativecommons.org/licenses/by/4.0/
-  logo: cc-by.png
-# The "jacket copy" goes here:
-description_main: >
-  Lorem ipsum dolor sic amet. This is where the description text goes.
+
+
+
+# PUBLICATION DESCRIPTION & SUBJECTS
+
+one_line_description:
+description:
+
+keywords:
+bisac:
+  - code:
+    subject:
+vocabs:
+  - vocab:
+    terms:
+library_of_congress_cip_data:
+
+
+# REVISIONS & VERSION CONTROL
+
+revision_history:
+  - date:
+    summary:
+repository_url:

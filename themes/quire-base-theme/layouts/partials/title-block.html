@@ -1,8 +1,11 @@
-<div class="quire-title"><span class="visually-hidden">Title: </span>{{ .Site.Data.publication.title }}{{ if .Site.Data.publication.subtitle }}: {{ .Site.Data.publication.subtitle }}{{ end }}</div>
-<div class="quire-contributors"><span class="visually-hidden">Contributors: </span>
-{{- if .Site.Data.publication.author_as_it_appears -}}
-  {{ .Site.Data.publication.author_as_it_appears }}
+<div class="quire-title"><span class="visually-hidden">Title: </span>{{ .Site.Data.publication.title }}{{ if .Site.Data.publication.subtitle }}<span class="quire-subtitle">{{ .Site.Data.publication.subtitle }}{{ end }}</span><span class="quire-reading-line">{{ if .Site.Data.publication.reading_line }}{{ .Site.Data.publication.reading_line }}{{ end }}</span></div>
+<div class="quire-contributors">
+{{- if .Site.Data.publication.contributors_as_they_appear -}}
+  {{ range .Site.Data.publication.contributors_as_they_appear }}
+   <span class="quire-contributors__contributors-as-they-appear">{{ . }}</span>
+  {{ end }}
 {{ else }}
+  <span class="visually-hidden">Contributors: </span>
   {{ range .Site.Data.publication.primary_contributors }}
     {{ .first_name }} {{ .last_name }},
   {{ end }}

@@ -3,7 +3,7 @@
   <p>{{ .Site.Data.publication.copyright }}.</p>
 {{ end }}
 
-<p>Published {{ if .Site.Data.publication.publisher }}by {{ .Site.Data.publication.publisher }}, {{ end }}{{- if .Site.Data.publication.pub_date -}}{{ .Site.Data.publication.pub_date | dateFormat "January 2006" }}{{- end -}}
+<p>Published {{ if .Site.Data.publication.publisher }}by <span>{{ range .Site.Data.publication.publisher }}<span class="quire-publisher">{{ .name }}</span>{{ end }}</span>{{ end }}{{- if .Site.Data.publication.pub_date -}}<time datetime="{{ .Site.Data.publication.pub_date }}">{{ .Site.Data.publication.pub_date | dateFormat "January 2006" }}</time>{{- end -}}
 {{- if .Site.Data.publication.license -}}
   , and licensed under a <a rel="license" href="{{ .Site.Data.publication.license.url }}">{{ .Site.Data.publication.license.name }}</a>
 {{- end -}}

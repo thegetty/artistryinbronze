@@ -15,7 +15,7 @@
     <div class="quire-cover__inner__authors">
       <p>Edited by</p>
       <ul>
-        {{ range .Site.Data.publication.creators }}
+        {{ range .Site.Data.publication.primary_contributors }}
         <li>{{ .first_name }} {{ .last_name }}</li>
         {{ end }}
       </ul>

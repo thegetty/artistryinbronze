@@ -97,6 +97,13 @@ hr:after {
   margin: 0 auto;
 }
 
+.quire-publisher:after {
+  content: ', ';
+}
+
+.quire-publisher:nth-last-child(2):after {
+  content: ' and ';
+}
 
 sup {
   line-height: 0;
@@ -128,11 +135,18 @@ sup {
   }
 
   .quire-nav-group {
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     font-family: $heading-font-family;
+    background-color: $white;
+  }
+
+  &.quire-cover {
+    .quire-nav-group {
+      background-color: transparent;
+    }
   }
 
 }
