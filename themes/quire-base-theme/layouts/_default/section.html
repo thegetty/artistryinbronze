@@ -10,53 +10,53 @@
   </header>
   <div class="quire-page__content">
     {{ .Content }}
-    <div class="quire-page__content__section-list">
-      <ul class="quire-page__content__section-list__essays">
-        {{ range where .Data.Pages "Type" "essay" }}
-        <li class="quire-page__content__section-list__item">
-          <a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a>
-          <ul class="quire-page__header__author">
-          {{ range .Params.author }}
-          <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
-          {{ end }}
-          </ul>
-          {{ with .Params.abstract }}
-          <div class="quire-page__content__read">
-            <span class="quire-page__content__read__link"><button class="heading-expander">Abstract</button></span>
-            <div class="quire-page__content__abstract">
-            {{ . | markdownify }}
-            </div>
-          </div>
-          {{ end }}
-          <div class="quire-page__content__read">
-            <a class="quire-page__content__read__link" href="{{ .Permalink }}">
-              <span class="visually-hidden">Link to </span>Paper
-              <svg><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
-            </a>
-          </div>
-        </li>
+  </div>
+  <div class="quire-page__section-list">
+    <ul class="quire-page__section-list">
+      {{ range where .Data.Pages "Type" "essay" }}
+      <li class="quire-page__section-list__item">
+        <span class="quire-page__section-list__item__title"><a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</a></span>
+        <ul class="quire-page__section-list__item__contributor">
+        {{ range .Params.author }}
+        <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
         {{ end }}
-      </ul>
-      <hr />
-      <ul class="quire-page__content__section-list__abstracts">
-        {{ range where .Data.Pages "Type" "abstract" }}
-        <li class="quire-page__content__section-list__item">
-          {{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}
-          <ul class="quire-page__header__author">
-          {{ range .Params.author }}
-          <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
-          {{ end }}
-          </ul>
-          <div class="quire-page__content__read">
-            <span class="quire-page__content__read__link"><button class="heading-expander">Abstract</button></span>
-            <div class="quire-page__content__abstract">
-            {{ .Params.abstract | markdownify }}
-            </div>
+        </ul>
+        {{ with .Params.abstract }}
+        <div class="quire-page__section-list__read">
+          <span class="quire-page__section-list__read__link"><button class="heading-expander">Abstract</button></span>
+          <div class="quire-page__section-list__abstract">
+          {{ . | markdownify }}
           </div>
-        </li>
+        </div>
         {{ end }}
-      </ul>
-    </div>
+        <div class="quire-page__section-list__read">
+          <a class="quire-page__section-list__read__link" href="{{ .Permalink }}">
+            <span class="visually-hidden">Link to </span>Paper
+            <svg><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+          </a>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
+    <hr />
+    <ul class="quire-page__section-list">
+      {{ range where .Data.Pages "Type" "abstract" }}
+      <li class="quire-page__section-list__item">
+        <span class="quire-page__section-list__item__abstract-only-title">{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</span>
+        <ul class="quire-page__section-list__item__contributor">
+        {{ range .Params.author }}
+        <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+        {{ end }}
+        </ul>
+        <div class="quire-page__section-list__read">
+          <span class="quire-page__section-list__read__link"><button class="heading-expander">Abstract</button></span>
+          <div class="quire-page__section-list__abstract">
+          {{ .Params.abstract | markdownify }}
+          </div>
+        </div>
+      </li>
+      {{ end }}
+    </ul>
   </div>
 </div>
 {{ end }}

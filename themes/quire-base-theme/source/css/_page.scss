@@ -1,4 +1,5 @@
 .quire-page {
+
   margin-bottom: $base-spacing * 10;
 
   &__header {
@@ -31,6 +32,12 @@
       color: $mid-neutral;
     }
 
+  }
+
+  &__content,
+  &__section-list {
+    max-width: 40rem;
+    margin: 0 auto;
   }
 
   &__content {
@@ -114,14 +121,35 @@
       // font-size: 100%;
     }
 
-    &__section-list__abstracts {
-      font-weight: 400;
-      color: $dark-neutral;
-    }
+  }
 
-    &__section-list__item {
+  &__section-list {
+
+    &__item {
       margin-bottom: $base-spacing * 2;
       list-style-type: none;
+
+      &__title {
+        font-family: $heading-font-family;
+        a {
+          font-weight: 700;
+        }
+      }
+
+      &__abstract-only-title {
+        font-family: $heading-font-family;
+        color: $dark-neutral;
+        font-weight: 400;
+      }
+
+      &__contributor {
+        list-style-type: none;
+        padding-left: 0;
+        font-family: $heading-font-family;
+        font-style: italic;
+        font-weight: 400;
+        color: $mid-neutral;
+      }
     }
 
     &__read {
@@ -148,7 +176,11 @@
           font-size: 1rem * $small-font-scale;
         }
       }
+    }
 
+    &__abstract {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
     }
 
   }
