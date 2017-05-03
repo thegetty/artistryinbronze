@@ -7,6 +7,7 @@
     <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
     {{ end }}
     </ul>
+    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a> | <a href="#bibliography">Bibliography</a></p>
   </header>
   <div class="quire-page__content">
     <section>
@@ -16,10 +17,10 @@
       </div>
       <hr />
     </section>
-    <section class="quire-page__content__main">
+    <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
-    <section class="quire-page__content__references">
+    <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>
       <dl>
         {{- range .Site.Data.references.reference_list -}}
