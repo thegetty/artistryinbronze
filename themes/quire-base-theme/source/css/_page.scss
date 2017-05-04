@@ -62,6 +62,11 @@
       p:first-child {
         text-indent: 0;
       }
+
+      blockquote > p {
+        text-indent: 0;
+      }
+
       .attribution {
         font-style: italic;
         margin-top: $base-spacing;
