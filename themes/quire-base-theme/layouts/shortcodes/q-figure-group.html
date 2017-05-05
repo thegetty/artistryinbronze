@@ -1,0 +1,21 @@
+{{- if .Get "id" -}}
+<figure class="q-figure-group{{ with $.Get "class" }} q-{{ . }}{{ end }}">
+{{ $idstring := replace (.Get "id") " " "" }}
+{{ $idlist := split $idstring "," }}
+{{ range $idlist }}
+{{ $x := . | string }}
+  {{ range where $.Site.Data.figures.figure_list "id" "eq" $x }}
+  <figure class="q-figure-group__inner-figure">
+  <img  src="/figures/{{ .src }}" alt="{{ .alt }}" id="{{ .id }}" />
+    {{- if $.Get "caption" -}}
+    {{ else }}
+    <figcaption><span class="q-figure-label">Figure {{ .id }}.</span> {{ .caption | markdownify }}</figcaption>
+    {{ end }}
+  </figure class="q-figure-group__inner-figure">  
+  {{ end }}
+{{ end }}
+{{- with .Get "caption" -}}
+<figcaption>{{ . }}</figcaption>
+{{ end }}
+</figure>
+{{- end -}}
