@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $list := ( where .Site.Data.bibliography.biblio_list "reference_for" .Params.id ) }}
+{{ $len := ( len $list ) }}
 <div class="quire-page">
   <header class="quire-page__header">
     <h1 class="quire-page__header__title"><span class="quire-page__header__number">{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title }}{{ with .Params.subtitle }}: {{ . }}{{ end }}</h1>
@@ -7,7 +9,7 @@
     <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
     {{ end }}
     </ul>
-    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a> | <a href="#bibliography">Bibliography</a></p>
+    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a>{{ if gt $len 0 }} | <a href="#bibliography">Bibliography</a>{{ end }}</p>
   </header>
   <div class="quire-page__content">
     <section>
@@ -20,17 +22,18 @@
     <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
+    {{ if gt $len 0 }}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>
       <dl>
-        {{- range .Site.Data.references.reference_list -}}
-        {{- $x := $.Params.id -}}
-        {{- if in .reference_for $x -}}
+        {{- range .Site.Data.bibliography.biblio_list -}}
+        {{- if in .reference_for $.Params.id -}}
         <dt>{{ .short }}</dt>
         <dd>{{ .full | markdownify }}</dd>
         {{- end -}}
         {{- end -}}
       </dl>
     </section>
+    {{ end }}
 </div>
 {{ end }}
