@@ -1,21 +1,26 @@
-{{- if .Get "id" -}}
-<figure class="q-figure-group{{ with $.Get "class" }} q-{{ . }}{{ end }}">
+{{ if .Get "id" }}
+<figure class="q-figure {{ with $.Get "class" }}q-{{ . }}{{ end }}">
 {{ $idstring := replace (.Get "id") " " "" }}
 {{ $idlist := split $idstring "," }}
 {{ range $idlist }}
 {{ $x := . | string }}
   {{ range where $.Site.Data.figures.figure_list "id" "eq" $x }}
-  <figure class="q-figure-group__inner-figure">
-  <img  src="/figures/{{ .src }}" alt="{{ .alt }}" id="{{ .id }}" />
-    {{- if $.Get "caption" -}}
-    {{ else }}
-    <figcaption><span class="q-figure-label">Figure {{ .id }}.</span> {{ .caption | markdownify }}</figcaption>
+  <figure class="q-figure__inner-figure" id="{{ .id }}">
+  <div class="q-figure__wrapper">
+    <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+    {{ if eq ($.Get "label") "true" }}
+    <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}</span>
     {{ end }}
-  </figure class="q-figure-group__inner-figure">  
+  </div>
+    {{ if $.Get "caption" }}
+    {{ else }}
+    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span> {{ .caption | markdownify }}</figcaption>
+    {{ end }}
+  </figure class="q-figure__inner-figure">
   {{ end }}
 {{ end }}
-{{- with .Get "caption" -}}
-<figcaption>{{ . }}</figcaption>
+{{ with .Get "caption" }}
+<figcaption>{{ . | markdownify }}</figcaption>
 {{ end }}
 </figure>
-{{- end -}}
+{{ end }}

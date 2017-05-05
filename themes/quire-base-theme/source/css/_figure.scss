@@ -1,5 +1,4 @@
-.q-figure,
-.q-figure-group {
+.q-figure {
   width: calc(100% - ($base-spacing * 6));
   margin-bottom: $base-spacing;
   margin-top: $base-spacing;
@@ -46,15 +45,23 @@
 
   &__inner-figure {
     width: 100%;
-    margin-bottom: $base-spacing * 1.5;
+    margin-bottom: $base-spacing;
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
   }
 
+  &__wrapper {
+    width: 100%;
+    .q-figure-label {
+      font-size: 1rem * $small-font-scale;
+      margin-top: -.25rem;
+      display: block;
+    }
+  }
 
   .q-figure-label {
-    font-weight: bold;
+    font-weight: 400;
   }
 
 }
