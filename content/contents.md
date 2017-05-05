@@ -2,6 +2,7 @@
 title: Contents
 weight: 2
 type: page
+menu: true
 ---
 {{% quire-toc %}}
 

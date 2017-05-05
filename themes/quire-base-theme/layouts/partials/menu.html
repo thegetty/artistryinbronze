@@ -20,7 +20,9 @@
             <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title }}</a></li>
             {{ end }}
             {{ else }}
+            {{ if eq .Params.menu true }}
             <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
             {{ end }}
           {{ end }}
         </ul>
