@@ -31,9 +31,9 @@ The first and older of the two was brought into the discussion by D. Haynes in 1
 
 Five working steps are necessary for both life-sized statues and for extremely large-scale statues such as the Buddha and the *Bavaria*.
 
-The *first working step* is the construction and modeling of the master model. Colossal statues need a model with the same dimensions as the bronze statue to be cast. And the Colossus of Rhodes was no exception, as illustrated in the author’s schematic drawing (**fig. 2.1**). The master model provides certainty that the statics of the statue are well done and that after assembly the large sections will fit together.[^10]
+{{< q-figure id="2.1" class="float-left" >}}
 
-{{< q-figure id="2.1" >}}
+The *first working step* is the construction and modeling of the master model. Colossal statues need a model with the same dimensions as the bronze statue to be cast. And the Colossus of Rhodes was no exception, as illustrated in the author’s schematic drawing (**fig. 2.1**). The master model provides certainty that the statics of the statue are well done and that after assembly the large sections will fit together.[^10]
 
 The *Bavaria* and the Buddha both had a master model, consisting of a wooden scaffold covered with materials to provide a surface for modeling in clay. A wood sheathing for this purpose is recorded in Munich. In Nara, the walling of the model still consists of wood, linen, and clay. In both cases, completion of the master model took several years of the decade or more it took to complete the statue. A Japanese text records 426 days just to model the clay for the Buddha.[^11] The master model of the Buddha remained inside the statue, forming its core. Of relevance here is the fact that it was built around a central mast of the same height as the statue.
 
@@ -41,7 +41,7 @@ The existence of master models in antiquity is proven by the monumental chrysele
 
 Pheidias, the master of the Parthenos, also made the Athena Promachos, which stood on the Acropolis near the Parthenon. The statue was made of cast bronze, and its height is believed to have been between 9 and 15 meters (29–49 feet).[^13] It is notable that the ground plan of the statue’s base again has a hole in the center (**fig. 2.2**). Following the arguments of Palagia, the statue was cast in the same period as the Parthenos was manufactured. The Promachos was dedicated to the main deity of the polis of Athens and stood in her sanctuary. Thus the Promachos is a real predecessor of the Colossus of Rhodes. Pheidias built a scaffold in the location of the bronze statue in order to make the master model for the Promachos. Afterward the statue was cast in pieces on the south side of the Acropolis. The finished parts were brought up to the Acropolis and assembled on the base instead of on the master model. Thus for colossal statues with a height up to 15 meters, we have not only archaeological remains of casting pits but also references concerning the master model.
 
-{{< q-figure id="2.2" >}}
+{{< q-figure id="2.2" class="float-left" >}}
 
 Philo does not mention the master model of the Colossus. But the master model of the Colossus commissioned by Nero for his *Domus Aurea* in Rome is probably the subject of a half sentence in Pliny (*Naturalis historia* 34.45–46). If this was indeed the subject, it was constructed and cast imitating the Rhodian prototype.[^14]
 
@@ -61,9 +61,7 @@ It cannot have worked like that. Without a master model, it would have been impo
 
 Turning to our other analog in Munich, the *Bavaria* was cast in large sections, so the master model was cut into numerous pieces (**fig. 2.5**). The largest of these are marked in **figure 2.6**. The fabrication of mold and core was done according to the “sand-casting process,” in which the fabricators used a special sand—a mixture of fire-resistant soils fixed by plaster—instead of clay. Instead of wax, clay sheets were used. And whereas in antiquity the system of funnels, gates, and vents was distributed regularly over the body, in Munich the funnel system was manufactured only above the mold. The channels for the vents were fixed at the lower edge of the mold at the bottom of the casting pit. Mold and core were built up from the bottom of the casting pit in such a way that no chaplets were needed. As illustrated in **figure 2.7**, the sections of the core can still be seen in the statue’s interior.
 
-{{< q-figure id="2.5" >}}
-
-{{< q-figure id="2.6" >}}
+{{< q-figure-group id="2.5, 2.6" grid="2" grid-align="bottom" >}}
 
 {{< q-figure id="2.7" >}}
 
