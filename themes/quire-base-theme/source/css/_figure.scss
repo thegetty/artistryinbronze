@@ -1,7 +1,7 @@
 .q-figure {
   width: calc(100% - ($base-spacing * 6));
-  margin-bottom: $base-spacing;
-  margin-top: $base-spacing;
+  margin-bottom: $base-spacing * 1.5;
+  margin-top: $base-spacing * 1.5;
   margin-right: $base-spacing * 3;
   margin-left: $base-spacing * 3;
 
@@ -33,7 +33,27 @@
     margin-right: 43%;
   }
 
+  &.q-figure-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    .q-figure__inner-figure {
+      margin-left: $base-spacing * .5;
+      margin-right: $base-spacing * .5;
+    }
+
+    .q-figure__inner-figure + figcaption {
+      margin-top: $base-spacing * -.4;
+      margin-left: $base-spacing * .5;
+      margin-right: $base-spacing * .5;
+    }
+
+  }
+
   img {
+    display: block;
     width: 100%;
   }
   figcaption {
@@ -44,7 +64,6 @@
   }
 
   &__inner-figure {
-    width: 100%;
     margin-bottom: $base-spacing;
     margin-top: 0;
     margin-right: 0;
@@ -52,7 +71,6 @@
   }
 
   &__wrapper {
-    width: 100%;
     .q-figure-label {
       font-size: 1rem * $small-font-scale;
       margin-top: -.25rem;
