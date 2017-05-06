@@ -14,9 +14,9 @@
       <a href="{{ .Site.BaseURL }}" rel="start">
         <span class="visually-hidden">Home Page: </span>
         {{ if .Site.Data.publication.short_title }}
-          {{ .Site.Data.publication.short_title }}
+          {{ .Site.Data.publication.short_title | markdownify }}
         {{ else }}
-          {{ .Site.Data.publication.title }}
+          {{ .Site.Data.publication.title | markdownify }}
         {{ end }}
       </a>
     </li>
@@ -24,10 +24,10 @@
     <li>
       <a href="{{ .Site.BaseURL }}">
         <span class="visually-hidden">Home Page: </span>
-        {{ if .Site.Data.publication.short_title }}
-          {{ .Site.Data.publication.short_title }}
+        {{ if .Site.Data.publication.short_title | markdownify }}
+          {{ .Site.Data.publication.short_title | markdownify }}
         {{ else }}
-          {{ .Site.Data.publication.title }}
+          {{ .Site.Data.publication.title | markdownify }}
         {{ end }}
       </a>
     </li>
@@ -43,7 +43,7 @@
     {{ end }}
     <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
-      <em>{{ .Title }}</em>
+      <em>{{ .Title | markdownify }}</em>
     </li>
     {{ end }}
 

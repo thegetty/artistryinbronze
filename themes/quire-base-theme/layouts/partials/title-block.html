@@ -1,4 +1,4 @@
-<div class="quire-title"><span class="visually-hidden">Title: </span>{{ if ne .Type "cover"}}<a href="{{ .Site.BaseURL }}">{{ end }}{{ .Site.Data.publication.title }}{{ if .Site.Data.publication.subtitle }}<span class="quire-subtitle">{{ .Site.Data.publication.subtitle }}{{ end }}{{ if ne .Type "cover"}}</a>{{ end }}</span><span class="quire-reading-line">{{ if .Site.Data.publication.reading_line }}{{ .Site.Data.publication.reading_line }}{{ end }}</span></div>
+<div class="quire-title"><span class="visually-hidden">Title: </span>{{ if ne .Type "cover"}}<a href="{{ .Site.BaseURL }}">{{ end }}{{ .Site.Data.publication.title | markdownify }}{{ if .Site.Data.publication.subtitle }}<span class="quire-subtitle">{{ .Site.Data.publication.subtitle | markdownify }}{{ end }}{{ if ne .Type "cover"}}</a>{{ end }}</span><span class="quire-reading-line">{{ if .Site.Data.publication.reading_line }}{{ .Site.Data.publication.reading_line | markdownify }}{{ end }}</span></div>
 <div class="quire-contributors">
 {{- if .Site.Data.publication.contributors_as_they_appear -}}
   {{ range .Site.Data.publication.contributors_as_they_appear }}

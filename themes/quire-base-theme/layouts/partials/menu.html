@@ -17,11 +17,11 @@
             {{ if .Section }}
             {{ if ne .Type "section-head" }}
             {{ else }}
-            <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title }}</a></li>
+            <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title | markdownify }}</a></li>
             {{ end }}
             {{ else }}
             {{ if eq .Params.menu true }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
             {{ end }}
             {{ end }}
           {{ end }}

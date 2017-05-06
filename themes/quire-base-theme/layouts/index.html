@@ -2,12 +2,12 @@
 <div class="quire-cover__background">
   <div class="quire-cover__inner">
     {{ if .Site.Data.publication }}
-      <h1 class="quire-cover__inner__title">{{ .Site.Data.publication.title }}
+      <h1 class="quire-cover__inner__title">{{ .Site.Data.publication.title | markdownify }}
       {{ with .Site.Data.publication.subtitle }}
-      <span class="quire-cover__inner__subtitle">{{ . }}</span>
+      <span class="quire-cover__inner__subtitle">{{ . | markdownify }}</span>
       {{ end }}
       {{ with .Site.Data.publication.reading_line }}
-      <span class="quire-cover__inner__reading-line">{{ . }}</span></h1>
+      <span class="quire-cover__inner__reading-line">{{ . | markdownify }}</span></h1>
       {{ end }}
     {{ else }}
       <h1 class="quire-cover__inner__title">{{ .Site.Title }}</h1>
