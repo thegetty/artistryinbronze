@@ -39,6 +39,14 @@
     align-items: center;
     flex-wrap: wrap;
 
+    &.q-grid-top {
+      align-items: flex-start;
+    }
+
+    &.q-grid-bottom {
+      align-items: flex-end;
+    }
+
     .q-figure__inner-figure {
       margin-left: $base-spacing * .5;
       margin-right: $base-spacing * .5;
