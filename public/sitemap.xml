@@ -334,71 +334,85 @@
   </url>
   
   <url>
+    <loc>https://gettypubs.github.io/artistryinbronze/figure-docs/</loc>
+  </url>
+  
+  <url>
     <loc>https://gettypubs.github.io/artistryinbronze/search.json</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/30.1_Ferrence_Giumlia-Mair_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/30.1_ferrence_giumlia-mair_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.1_Boyatzis_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.1_boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.2_Boyatzis_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.2_boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.3_Boyatzis_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.3_boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.4_Boyatzis_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/37.4_boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/39.1_Salvioli_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/39.1_salvioli_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/40.1_Northover_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/40.1_northover_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/41_Maish_tables_transmittal/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/41_maish_tables_transmittal/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/42.1_Mille_Descamps_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/42.1_mille_descamps_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/42.2_Mille_Descamps_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/42.2_mille_descamps_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/43.1_Vidovic_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/43.1_vidovic_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/44.1_Siano_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/44.1_siano_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/44.2_Siano_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/44.2_siano_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/46.1_Kantarelou_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/46.1_kantarelou_table/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tables/46.2_Kantarelou_table/</loc>
+    <loc>https://gettypubs.github.io/artistryinbronze/tables/46.2_kantarelou_table/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gettypubs.github.io/artistryinbronze/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gettypubs.github.io/artistryinbronze/tables/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gettypubs.github.io/artistryinbronze/tags/</loc>
     <priority>0</priority>
   </url>
   

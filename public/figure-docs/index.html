@@ -1,0 +1,1353 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Figures Documentation &middot; Artistry in Bronze</title>
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dcterms.date" content="2017-11-01">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:300,300i,400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="https://gettypubs.github.io/artistryinbronze/assets/css/application.css">
+  </head>
+  <body class="quire-baseof quire-page">
+    <svg style="display:none">
+  <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+    <path d="M6,16l11.7,12.4c0.4,0.4,0.4,0.8,0,1.1l-2.1,2.1c-0.4,0.4-0.8,0.4-1.1,0.1L0.2,16.6C0.1,16.5,0,16.3,0,16c0-0.2,0.1-0.4,0.2-0.6L14.5,0.3c0.4-0.4,0.7-0.4,1.1,0l2.1,2.2c0.4,0.4,0.4,0.8,0,1.1L6,16z"/>
+  </symbol>
+  <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+    <path d="M12,16L0.3,3.6c-0.4-0.4-0.4-0.8,0-1.1l2.1-2.1c0.4-0.4,0.8-0.4,1.1-0.1l14.3,15.2c0.1,0.1,0.2,0.3,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6L3.5,31.7c-0.4,0.4-0.7,0.4-1.1,0l-2.1-2.2c-0.4-0.4-0.4-0.8,0-1.1L12,16z"/>
+  </symbol>
+  <symbol id="search-icon" viewBox="0 0 32 32">
+    <path d="M31.7,26.9c0.4,0.4,0.4,0.8,0,1.2l-3.6,3.7C28,31.9,27.7,32,27.5,32c-0.2,0-0.4-0.1-0.6-0.2l-7-7.2c-2.1,1.3-4.3,1.9-6.7,1.9c-3.6,0-6.7-1.3-9.3-3.9C1.3,20,0,16.9,0,13.2s1.3-6.8,3.9-9.4C6.5,1.3,9.6,0,13.2,0c3.6,0,6.7,1.3,9.3,3.9s3.9,5.7,3.9,9.4c0,2.3-0.6,4.5-1.7,6.5L31.7,26.9z M18.9,7.5c-1.6-1.6-3.4-2.4-5.7-2.4C11,5.2,9.1,6,7.5,7.5S5.2,11,5.2,13.2c0,2.2,0.8,4.1,2.4,5.7c1.6,1.6,3.5,2.4,5.7,2.4c2.2,0,4.1-0.8,5.7-2.4c1.6-1.6,2.3-3.5,2.3-5.7C21.2,11,20.4,9.1,18.9,7.5z"/>
+  </symbol>
+  <symbol id="nav-icon" viewBox="0 0 32 32">
+    <path d="M29.4,2.5c0.7,0,1.3,0.3,1.8,0.8C31.8,3.8,32,4.5,32,5.2c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,6.6,0,5.9,0,5.2c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,13.3c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,17.4,0,16.7,0,16c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,24.1c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,28.2,0,27.5,0,26.8c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z"/>
+  </symbol>
+  <symbol id="location-icon" viewBox="0 0 20 32">
+    <path d="M2.9,2.9C4.9,1,7.2,0,10,0C12.7,0,15,1,17,2.9c2,1.9,3,4.3,3,7.1c0,2.8-0.8,6.1-2.5,9.8s-3.3,6.6-5,8.9L10,32c-0.3-0.3-0.6-0.8-1.1-1.4C8.4,30,7.6,28.8,6.5,27c-1.1-1.8-2.1-3.5-3-5.2c-0.9-1.7-1.7-3.7-2.4-5.9C0.4,13.8,0,11.8,0,10C0,7.2,1,4.9,2.9,2.9z M6.7,13.5c0.9,0.9,2,1.4,3.3,1.4c1.3,0,2.4-0.5,3.3-1.4c0.9-0.9,1.4-2,1.4-3.3c0-1.3-0.5-2.4-1.4-3.3c-0.9-0.9-2.1-1.4-3.3-1.4c-1.3,0-2.4,0.5-3.3,1.4c-0.9,0.9-1.4,2.1-1.4,3.3C5.3,11.4,5.7,12.5,6.7,13.5z"/>
+  </symbol>
+  <symbol id="link-icon" viewBox="0 0 32 16">
+    <path d="M22.2,4c0.3,0.8,0.5,1.7,0.5,2.7v2.7h-4V6.7c0-0.8-0.2-1.4-0.8-1.9S16.8,4,16,4H6.7C5.9,4,5.2,4.2,4.8,4.8S4,5.9,4,6.7v2.7c0,0.8,0.2,1.4,0.8,1.9S5.9,12,6.7,12H8c0.2,0.8,0.5,1.5,0.9,2.2c0.4,0.7,0.9,1.1,1.2,1.4l0.5,0.4h-4c-1.8,0-3.4-0.7-4.7-2c-1.3-1.3-2-2.9-2-4.7V6.7C0,4.8,0.7,3.3,2,2c1.3-1.3,2.9-2,4.7-2H16c1.3,0,2.6,0.4,3.7,1.1C20.8,1.9,21.7,2.8,22.2,4z M25.3,0c1.8,0,3.4,0.7,4.7,2c1.3,1.3,2,2.9,2,4.7v2.7c0,1.8-0.7,3.4-2,4.7c-1.3,1.3-2.9,2-4.7,2H16c-2.8,0-4.9-1.3-6.1-4c-0.4-0.9-0.6-1.8-0.6-2.7V6.7h4v2.7c0,0.8,0.2,1.4,0.8,1.9S15.2,12,16,12h9.3c0.8,0,1.4-0.2,1.9-0.8S28,10.1,28,9.3V6.7c0-0.8-0.2-1.4-0.8-1.9S26.1,4,25.3,4H24c-0.2-0.8-0.5-1.5-0.9-2.2c-0.4-0.7-0.9-1.1-1.2-1.4L21.3,0H25.3z"/>
+  </symbol>
+</svg>
+
+    <div class="quire-nav-group">
+      <a href="#main-content" class="skip-link">Skip to Main Content</a>
+      <div class="quire-menu" role="directory">
+  <button class="expander quire-menu__button">
+    <svg><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          <div class="quire-title"><span class="visually-hidden">Title: </span><a href="https://gettypubs.github.io/artistryinbronze">Artistry in Bronze<span class="quire-subtitle">The Greeks and Their Legacy</a></span><span class="quire-reading-line">XIXth International Congress on Ancient Bronzes</span></div>
+<div class="quire-contributors">
+   <span class="quire-contributors__contributors-as-they-appear">Edited by</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Jens M. Daehner</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Kenneth Lapatin</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Ambra Spinelli</span>
+  
+</div>
+
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Publication Contents</h3>
+        <ul class="quire-contents">
+          
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/contents/">Contents</a></li>
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/introduction/">Introduction</a></li>
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/">I. Large-Scale Bronzes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/">II. The Artist</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/statuettes/">III. Statuettes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/the-helenistic-east/">IV. The Helenistic East</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/vessels/">V. Vessels</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/artifacts/">VI. Artifacts</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/">VII. Conservation and Analysis</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/about/">About</a></li>
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/figure-docs/">Figures Documentation</a></li>
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+          
+        </ul>
+      </nav>
+      
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        <ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze" target="_blank" rel="canonical" type="text/html">Online</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi" target="_blank" rel="alternate" type="application/mobi">MOBI/KINDLE</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a></li>
+  <li><a href="http://shop.getty.edu/products/atistry-in-bronze-978-1606065419" target="_blank" rel="alternate" type="print">Paperback</a></li>
+</ul>
+
+      </section>
+      
+      
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        
+
+  <p>© 2017 J. Paul Getty Trust.</p>
+
+
+<p>Published by <span><span class="quire-publisher">J. Paul Getty Museum</span><span class="quire-publisher">Getty Conservation Institute</span></span><time datetime="2017-11-01">November 2017</time>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/about/" target="_blank" rel="about" type="">About</a></li>
+  <li><a href="http://www.getty.edu/legal/privacy.html" target="_blank" rel="privacy-policy" type="">Privacy Policy</a></li>
+  <li><a href="http://www.getty.edu/legal/copyright.html" target="_blank" rel="terms-of-service" type="">Terms of Use</a></li>
+</ul>
+
+
+      </footer>
+    </div>
+  </div>
+</div>
+
+      <nav class="quire-nav" role="navigation" aria-label="quick">
+  <ul>
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze/about/" rel="previous">
+        <svg><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze">
+        <span class="visually-hidden">Home Page: </span>
+        
+          Artistry in Bronze
+        
+      </a>
+    </li>
+    
+    <li class="quire-nav__current-page-link">
+      <span class="visually-hidden">Current Page: </span>
+      <em>Figures Documentation</em>
+    </li>
+    
+
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze/search.json" rel="next">
+        <svg><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+      
+        <div class="quire-search" role="directory">
+  <button class="expander">
+    <svg><switch><use xlink:href="#search-icon"></use><foreignObject><img src="path/to/search-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Search</span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    <div id="js-search-results" class="quire-search-results">
+  <div class="quire-search-results__inner">
+    <ul id="js-search-results-list" class="quire-search-results__inner__list">
+    </ul>
+  </div>
+  <template id="js-search-results-template">
+    <li class="quire-search-results__inner__list__item">
+      <a class="quire-search-results__inner__list__item__link js-search-results-item-title" href=""></a>
+    </li>
+  </template>
+</div>
+
+  </div>
+</div>
+
+      
+    </div>
+    <main role="main" id="main-content">
+      
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title">Figures Documentation</h1>
+    <ul class="quire-page__header__author">
+    
+    </ul>
+  </header>
+  <div class="quire-page__content">
+    <section class="quire-page__content__main">
+      
+
+<h2 id="samples">Samples</h2>
+
+<h4 id="basic-figure-shortcode">Basic Figure shortcode</h4>
+
+<pre><code>{{&lt; q-figure id=&quot;1.5&quot; &gt;}}
+</code></pre>
+
+
+
+  
+  
+
+    
+    
+    <figure class="q-figure " id="1.5">
+      <div class="q-figure__wrapper">
+        <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+        
+      </div>
+      
+      
+        <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+      
+      
+    </figure>
+    
+
+  
+
+
+
+
+<h4 id="figure-shortcode-with-a-class">Figure shortcode with a class</h4>
+
+<pre><code>{{&lt; q-figure id=&quot;1.5&quot; class=&quot;float-left&quot; &gt;}}
+</code></pre>
+
+
+
+  
+  
+
+    
+    
+    <figure class="q-figure q-float-left" id="1.5">
+      <div class="q-figure__wrapper">
+        <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+        
+      </div>
+      
+      
+        <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+      
+      
+    </figure>
+    
+
+  
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi magna nunc, cursus ut justo eu, gravida feugiat massa. Ut et leo feugiat, faucibus nibh eget, pellentesque ex. Etiam eu malesuada ex. Nam at sodales libero, nec lacinia dolor. Proin at nibh quis enim aliquam euismod id eget purus. Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci. Quisque pulvinar venenatis nulla, at pretium elit luctus ac. Mauris aliquam aliquam dignissim. Etiam sed metus tincidunt, tristique ligula et, rutrum justo. Praesent ac velit in erat finibus rutrum. Suspendisse id egestas odio. Aenean aliquet varius est, vitae auctor mi posuere sit amet. Sed vestibulum ante ac consectetur aliquet. In malesuada vulputate blandit. Etiam in malesuada tortor. Vestibulum ornare justo in nisi commodo, sollicitudin facilisis quam bibendum.</p>
+
+<h4 id="basic-figure-group-shortcode">Basic Figure Group shortcode</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.5, 1.5&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure   ">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" >
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" >
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+</figure>
+
+
+
+<h4 id="figure-group-shortcode-in-grid-of-three">Figure Group shortcode in grid of three</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.5, 1.5, 1.5, 1.5, 1.5, 1.5&quot; grid=&quot;3&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure  q-figure-grid ">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+</figure>
+
+
+
+<h4 id="figure-group-shortcode-with-labels-and-a-custom-caption">Figure Group shortcode with labels and a custom caption</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.5&quot; grid=&quot;2&quot; label=&quot;true&quot; caption=&quot;Duis suscipit sodales gravida. Pellentesque ut turpis diam (**figure 1.5**). Donec libero elit, accumsan in sapien in, sodales vestibulum orci.&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure  q-figure-grid ">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 2rem) / 2)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+    <span class="q-figure-label">Figure 1.5</span>
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 2rem) / 2)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+    <span class="q-figure-label">Figure 1.5</span>
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+<figcaption>Duis suscipit sodales gravida. Pellentesque ut turpis diam (<strong>figure 1.5</strong>). Donec libero elit, accumsan in sapien in, sodales vestibulum orci.</figcaption>
+
+</figure>
+
+
+
+<h4 id="figure-group-shortcode-with-many-images-and-a-custom-caption">Figure Group shortcode with many images and a custom caption</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.5, 1.5, 1.5, 1.5,1.5, 1.5, 1.5, 1.5&quot; grid=&quot;4&quot; label=&quot;false&quot; caption=&quot;Clockwise, from top left: Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci.&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure  q-figure-grid ">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 4rem) / 4)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+<figcaption>Clockwise, from top left: Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci.</figcaption>
+
+</figure>
+
+
+
+<h4 id="figure-group-shortcode-with-images-of-different-sizes">Figure Group shortcode with images of different sizes</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.2, 1.5, 1.7&quot; grid=&quot;3&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure  q-figure-grid ">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.2" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.02_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.2. </span> Ephesos, Harbor Baths: excavations 1896–97 in the southwest corner of the <em>palaestra</em>, marked the base of the athlete <em>in situ</em>. Photo: Ephesos Excavation, Austrian Archaeological Institute</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.5. </span> Campana relief showing statues in a <em>palaestra</em>. Kunsthistorisches Museum Vienna, inv. V 1895. Photo: © Kunsthistorisches Museum Vienna</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.7" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.07_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    <figcaption><span class="q-figure-label">Figure 1.7. </span> Reconstruction of original position of the Athlete; after Benndorf 1906, 185, fig. 131</figcaption>
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+</figure>
+
+
+
+<h4 id="figure-group-shortcode-with-images-aligned-and-a-custom-caption">Figure Group shortcode with images aligned and a custom caption</h4>
+
+<pre><code>{{&lt; q-figure-group id=&quot;1.2, 1.5, 1.7&quot; grid=&quot;3&quot; grid-align=&quot;bottom&quot; caption=&quot;From left to right: Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci. Quisque pulvinar venenatis nulla, at pretium elit luctus.&quot; &gt;}}
+</code></pre>
+
+
+<figure class="q-figure  q-figure-grid q-grid-bottom">
+
+
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.2" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.02_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.5" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.05_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+  
+  <figure class="q-figure__inner-figure" id="1.7" style="flex-basis: calc( (100% - 3rem) / 3)">
+  <div class="q-figure__wrapper">
+    <img  src="https://gettypubs.github.io/artistryinbronze/figures/fig_1.07_Plattner_Gschwantler_Vak.jpg" alt="" />
+    
+  </div>
+    
+    
+  </figure class="q-figure__inner-figure">
+  
+
+
+<figcaption>From left to right: Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci. Quisque pulvinar venenatis nulla, at pretium elit luctus.</figcaption>
+
+</figure>
+
+
+
+<h2 id="documentation">Documentation</h2>
+
+<h4 id="basic-figures">Basic Figures</h4>
+
+<p>Figures—including still images and animated gifs—can be inserted in any Markdown document in your publication with the <code>q-figure</code> shortcode, where <code>src</code> is the name of your file as it appears in the <code>figures</code> folder of your project.</p>
+
+<pre><code>{{&lt; q-figure src=&quot;fig01.jpg&quot; &gt;}}
+</code></pre>
+
+<p>Unless the figure is purely decorative, it should always also include an alternate textual description (<code>alt</code>) for the use of screen readers and other assistive technologies.</p>
+
+<pre><code>{{&lt; q-figure src=&quot;fig01.jpg&quot; alt=&quot;detail of painting showing diagonal brushstrokes in browns and reds&quot; &gt;}}
+</code></pre>
+
+<p>By default, figures are the full width of the text column (depending on your theme), but may be styled by adding a class within the shortcode.</p>
+
+<pre><code>{{&lt; q-figure src=&quot;fig01.jpg&quot; alt=&quot;detail of painting showing diagonal brushstrokes in browns and reds&quot; class=&quot;float-left&quot; &gt;}}
+</code></pre>
+
+<p>Available in all Quire themes are &ldquo;float-left&rdquo; (smaller and to the left), &ldquo;float-right&rdquo; (smaller and to the right), &ldquo;small-center&rdquo; (for decorative elements), and &ldquo;plate&rdquo; (big). Some themes may offer additional options, and styles may be edited and new styles added in any theme with <a href="#link">css</a>.</p>
+
+<p>In the same way you add styles and alternate texts to a shortcode, captions and other information can be included in a similar manner. The following attributes are suported in the <code>q-figure</code> shortcode. They may be called within the shortcode in any order.</p>
+
+<table>
+<thead>
+<tr>
+<th>Attribute</th>
+<th>Value</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td><code>id</code></td>
+<td>Numbers and lowercase letters only, with no spaces or special characters (<code>001</code>, <code>fig-01a</code>, etc). This can be used to create an anchor that can be linked to directly (<code>mypublication.com/chapter01/#fig-01a</code>). It can also be used in conjunction with a <code>figures.yml</code> file in your project for cetralized figure handling and for creating figure groups.</td>
+</tr>
+
+<tr>
+<td><code>src</code></td>
+<td>the file name (<code>fig01.jpg</code>), and if it’s in a sub-folder within the main <code>figures</code> directory, it should include that folder name as well (<code>comparatives/fig01.jpg</code>).</td>
+</tr>
+
+<tr>
+<td><code>class</code></td>
+<td>Add predefined styles to your figures. Supported values are &ldquo;float-left&rdquo;, &ldquo;float-right&rdquo;, &ldquo;small-center&rdquo;, and &ldquo;plate&rdquo;. More can be added with css.</td>
+</tr>
+
+<tr>
+<td><code>alt</code></td>
+<td>For accessibility, all images should have alternative text descriptions. (<a href="#link">Tips on crafting good alt text.</a>) Only ever leave blank if the image is purely decorative.</td>
+</tr>
+
+<tr>
+<td><code>label</code></td>
+<td>When using a <code>figures.yml</code> document, if label is set to <code>true</code>, label text will be automatically generated from the <code>id</code> value and with the <code>imageLabelContentBefore</code> value defined in your <code>config.yml</code> file, and added to your layout under or on the corner of the image, depending on your theme. If not using a <code>figures.yml</code> document or if text other than <code>true</code> is used, it will override the use of the <code>imageLabelContentBefore</code> value, and appear in the label as is.</td>
+</tr>
+
+<tr>
+<td><code>caption</code></td>
+<td>The caption to appear below the figure. Special characters are allowed. Use Markdown for formatting.</td>
+</tr>
+
+<tr>
+<td><code>grid</code></td>
+<td>Whole integer values: 2, 3, 4 etc. For use specifically with the <code>q-figure-group</code> shortcode.</td>
+</tr>
+
+<tr>
+<td><code>grid-align</code></td>
+<td>Can be &ldquo;top&rdquo; or &ldquo;bottom&rdquo;. For use specifically with the <code>q-figure-group</code> shortcode. Useful for when images in the grid are different sizes.</td>
+</tr>
+
+<tr>
+<td><code>media-type</code></td>
+<td>Not yet available. Supported values are: video, youtube, vimeo, audio, soundcloud. For use specifically with the <code>q-figure-media</code> shortcode.</td>
+</tr>
+
+<tr>
+<td><code>fallback</code></td>
+<td>Not yet available.</td>
+</tr>
+</tbody>
+</table>
+
+<p>As you can imagine, when including many attributes, shortcodes can quicky become not so short. One way to manage this is by using a <code>figures.yml</code> file.</p>
+
+<h4 id="using-figures-yml">Using figures.yml</h4>
+
+<p>Figures and all their associated attributes can be listed in a single <code>figures.yml</code> file in your <code>data</code> folder, and then called from wherever you need them in your project.</p>
+
+<pre><code class="language-yaml">- id: &quot;001&quot;
+  src: &quot;fig01.jpg&quot;
+  alt: &quot;detail of painting showing diagonal brushstrokes in browns and reds&quot;
+  caption:
+- id: &quot;002&quot;
+  src: &quot;fig02_withframe.jpg&quot;
+  alt: &quot;painting of man in brown and red cloak, shown from the waist up, in a gold frame on a dark red wall&quot;
+  caption:
+</code></pre>
+
+<p>Assuming each yaml figure entry includes a unique <code>id</code>, you can insert a figure in your publication with only the <code>id</code> attribute, and all of the other attributes defined in the yaml for that figure, will be automaticallly included.</p>
+
+<pre><code>{{&lt; q-figure id=&quot;###&quot; &gt;}}
+</code></pre>
+
+<p>If you include an attribute in the shortcode that is also in the <code>figures.yml</code> file, the <code>figures.yml</code> version is overridden. This can be useful when, for example, a figure is used in multiple locations and you want different captions.</p>
+
+<pre><code>{{&lt; q-figure id=&quot;###&quot; caption=&quot;&quot; &gt;}}
+</code></pre>
+
+<p>Note that including an attribute in this way but leaving it blank, as in the caption example above, can also be used to display no caption at all, even if one is present in <code>figures.yml</code>.</p>
+
+<p>If you use a shortcode with both <code>src</code> ad <code>id</code> Quire will insert your figure image and give it the <code>id</code>, but will ignore any data in the <code>figures.yml</code> even if an <code>id</code> matches.</p>
+
+<pre><code>{{&lt; q-figure src=&quot;fig01.jpg&quot; id=&quot;###&quot; &gt;}}
+</code></pre>
+
+<h4 id="figure-groups">Figure Groups</h4>
+
+<p>Using a <code>figures.yml</code> file gives you the additional ability to create a group of figures by using the <code>q-figure-group</code> shortcode extension and simply including multiple, comma-separated values in the <code>id</code> field.</p>
+
+<pre><code>{{&lt; q-figure-group id=&quot;###, ###, ###&quot; &gt;}}
+</code></pre>
+
+<p>In the above example, each figure’s caption will be included. Alternatively, if you add a <code>caption</code> field directly in the shortcode, it will override those present in the <code>figures.yml</code> file and display in the group alone, usually along the bottom depending on your theme.</p>
+
+<p>Just as with the single <code>q-figure</code> shortcode, classes can be added to groups to style them. For example, to create a small group of images running along one side of your text.</p>
+
+<pre><code>{{&lt; q-figure-group class=&quot;float-right&quot; id=&quot;###, ###, ###&quot; &gt;}}
+</code></pre>
+
+<p>In addition to all the attributes available to the <code>q-figure</code> shortcode, the <code>q-figure-group</code> extension also supports the <code>grid</code> attribute to specify a preferred grid width. In the below example, a <code>grid=&quot;2&quot;</code> is specified and so the gallery grid will be 2 images wide at you publication layout&rsquo;s full-size. Alternately, if you specified <code>grid=&quot;4&quot;</code> the grid would be 4 images wide making each image relatively smaller.</p>
+
+<pre><code>{{&lt; q-figure-group grid=&quot;2&quot; id=&quot;###, ###, ###, ###&quot; &gt;}}
+</code></pre>
+
+<p>Note that this is only a <strong>preferred</strong> grid width. With Quire’s responsively desiged templates, the specific width of images is variable and their position relative to one another may also change depending on a reader’s device. For instance, on a large monitor, four images in a group may appear side-by-side in a row, whereas on a phone, they would most likely be in a 2 x 2 grid, or stack one on top of another.</p>
+
+<p>This responsiveness also means that group captions that use language like “From left to right” or &ldquo;Clockwise from upper left,&rdquo; will only be correct some of the time. To avoid this issue and ensure a clear reading experience across all devices and publication formats we recommend labeling figures. Adding <code>label=&quot;true&quot;</code> to the shortcode will add a small text label to each image in the group (usually right below the image or in a corner on top of it, depending on your theme), which you can then reference in the caption, rather than referencing the figure’s relative position. The label text is constructed automatically with the <code>id</code> of the image and the <code>imageLabelContentBefore</code> value defined in your <code>config.yml</code> file. For example if the <code>id</code> value is &ldquo;12.3&rdquo; and the <code>imageLabelContentBefore</code> value is &ldquo;Figure &ldquo;, the <code>label</code> would be &ldquo;Figure 12.3&rdquo;.</p>
+
+<p>And <code>label</code> will work similarly in any <code>q-figure</code> shortcode, not just groups.</p>
+
+<p>Finally, for grids, individual figures will center themselves vertically by default. When grid images are differen sizes, a top or bottom alignment may be preferred. For this, you can use the <code>grid-align</code> attribute set to either &ldquo;top&rdquo; or &ldquo;bottom&rdquo;.</p>
+
+    <section>
+  </div>
+</div>
+
+    </main>
+    <script src="https://gettypubs.github.io/artistryinbronze/assets/js/application.js"></script>
+    <script>
+      (function() {
+        var button = document.querySelectorAll("button.expander");
+        for (var i = 0; i < button.length; i++) {
+          button[i].setAttribute("aria-expanded","false");
+          button[i].nextElementSibling.hidden = true;
+          button[i].addEventListener("click", function() {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", String(!expanded));
+            this.nextElementSibling.hidden = expanded;
+          });
+        }
+      })();
+      (function() {
+      var button = document.querySelectorAll("button.heading-expander");
+      for (var i = 0; i < button.length; i++) {
+        button[i].setAttribute("aria-expanded","false");
+        button[i].parentElement.nextElementSibling.hidden = true;
+        button[i].addEventListener("click", function() {
+          var expanded = this.getAttribute("aria-expanded") === "true";
+          this.setAttribute("aria-expanded", String(!expanded));
+          this.parentElement.nextElementSibling.hidden = expanded;
+        });
+      }
+    })();
+    </script>
+    
+<script></script>
+
+  </body>
+</html>
