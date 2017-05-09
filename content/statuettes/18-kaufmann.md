@@ -63,9 +63,7 @@ This brief overview has shown that the group of medium-sized statuettes might gr
 
 [^12]: Scheid 2007, 482. A complete but smaller bronze group of Jupiter, Juno, and Minerva (h. 29–33 cm or 11 1/2–13 in.) was part of a hoard connected to a rural sanctuary at Muri (Switzerland): Leibundgut 1980, nos. 6, 42–43, plates 11–13, 54–59; Kaufmann-Heinimann 1998, 283, GF80, fig. 245. For other representations of the Capitoline triad, see Costantini 1997.
 
-[^13]: The actual state of the epigraphical evidence at Dalheim is presented by Krier
-
-    2011.
+[^13]: The actual state of the epigraphical evidence at Dalheim is presented by Krier 2011.
 
 [^14]: Deyts and Vernou 2008–2009. For representations of Rosmerta, see Bauchhenss 1994.
 

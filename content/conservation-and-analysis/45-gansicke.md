@@ -113,7 +113,7 @@ Future study sessions with the team members within the next year are anticipated
 
 [^10]: Bodley 1946, 217.
 
-[^11]: This project is funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. <http://www.mfa.org/collections/conservation/feature_auloiofmeroe>
+[^11]: This project is funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe).
 
 [^12]: Hagel 2012a.
 
