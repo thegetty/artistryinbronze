@@ -97,58 +97,7 @@ The semi-cylinder is an awkward and unstable shape, unless it is associated with
 
 This notion of a writing substratum that is rolled around a pen case is known from historical finds. Such a writing case was in the possession of J. W. Goethe and is exhibited in his Weimar house. A similar case in gold-decorated red leather belonged to Napoleon, who gave it as a gift to his friend Marshal Lannes.[^15] The case proper accommodates pens in the middle, while its two metal ends are an inkwell and an ink powder container. Like our Classical finds, it is a portable case, but used by army officers for writing letters and orders during military campaigns rather than for medical purposes.
 
-## Bibliography
-
-Bessios 1985
-: Bessios, M. 1985. “Der Grabhügel von Alykes bei Kitros.” In *The Archaeologists Speak about Pieria*, 54‒58. Katerini: NELE Pierias (in Greek, German summary).
-
-Bessios 2010
-: Bessios M. 2010. *Pieridon Stefanos: Pydna, Methone and the Antiquities of North Pieria*. Katerini: AFE Publications (in Greek).
-
-Bliquez 2015
-: Bliquez, L. J. 2015. *The Tools of Asclepius: Surgical Instruments in Greek and Roman Times*. Leiden: Brill.
-
-Boyer, Bel, and Tranoy 1990
-: Boyer, R., V. Bel, and L. Tranoy. 1990. “Decouverte de la tombe d’un oculiste à Lyon (fin du IIe s. après J.-C.): Instruments et coffrets avec collyres.” *Gallia* 47: 215‒49.
-
-Chrysostomou 2013
-: Chrysostomou A. 2013. *Ancient Edessa: The Cemeteries*. Volos: Hellenic Ministry of Culture (in Greek).
-
-Descamps-Lequime 2011
-: Descamps-Lequime, S., ed. 2011. *Au royaume d’Alexandre le Grand: La Macedoine antique*. Paris: Louvre Museum.
-
-Giachi et al. 2013
-: Giachi G., P. Pallechi, A. Romualdi, E. Ribechini, J. J. Luceiko, M. P. Colombini, and M. Mariotti Lippi. 2013. “Ingredients of a 2,000-y-old Medicine Revealed by Chemical, Mineralogical, and Botanical Investigation.” *Proceedings of the National Academy of Sciences* (January 22), 110.4: 1193–96. [www.pnas.org/lookup/suppl/doi:10.1073/pnas.1216776110/-/DCSupplemental](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1216776110/-/DCSupplemental)
-
-Ignatiadou 2014a
-: Ignatiadou, D. 2014a. “The Stavroupolis Priest-warrior.” In *The Greeks: Agamemnon to Alexander the Great,* ed. M. Andreadaki-Vlazaki and A. Balaska, 388–401. Athens: Kapon.
-
-Ignatiadou 2014b
-: Ignatiadou, D. 2014b. “The Symbolic Krater.” In *Le cratère à volutes: Destinations d’un vase de prestige entre Grecs et non Grecs*, 43‒59. Cahiers du Corpus Vasorum Antiquorum (France) 2.
-
-Ignatiadou 2015
-: Ignatiadou, D. 2015. “The Warrior Priest in Derveni Grave B Was a Healer Too.” *Histoire, médecine et santé* 8: 89‒113.
-
-Ignatiadou forthcoming
-: Ignatiadou, D. Forthcoming. “Burial Practices for Élite Macedonians with Cultic Duties.” In *Constituer la tombe: Honorer les défunts en méditerranée hellénistique et romaine: Table ronde organisée par L´Écoloe française d´Athènes et le Centre d´étiudes alexandrines*, *Alexandrie, 29 octobre au 1er novembre 2014*, ed. M. D. Nenna, W. van Andringa, and S. Huber.
-
-Katsifas et al. forthcoming
-: Katsifas, C., D. Ignatiadou, N. Kantiranis, and G. A. Zachariadis. Forthcoming. “Metal Containers of the 4th century BC: Analysis of Their Composition and Contents.” In *9th Aegean Analytical Chemistry Days, 29* *September‒3 October 2014, Chios, Greece*.
-
-Koukouvou 1996
-: Koukouvou, A. 1996. “Sidestreet of Ploutarchou Street (Building Block 305).” *ADelt* 51, B: 524 (in Greek).
-
-Pöhlmann 2013
-: Pöhlmann, E. 2013. “Excavation, Dating and Content of Two Tombs in Daphne, Odos Olgas 53, Athens.” *Greek and Roman Musical Studies* 1: 7‒24.
-
-Romiopoulou 1973‒74
-: Romiopoulou, K. 1973‒74. “Oreokastrou Street (Stavroupolis District).” *ADelt* 29, B 2: 693 (in Greek).
-
-Romiopoulou 1989
-: Romiopoulou, K. 1989. “Closed Burial Contexts of the Late Classical Period from Thessaloniki.” In *Φίλια Έπη εις Γεώργιον Ε. Μυλωνάν* (Festschrift to George Mylonas), 3: 194‒218, plates 45‒58. Athens: Archaeologiki Etaireia (in Greek).
-
-Themelis and Touratsoglou 1997
-: Themelis, P.G., and Y. P. Touratsoglou. 1997. *The Derveni Tombs*. Athens: TAP (in Greek, English summary).
+## Notes
 
 [^1]: Translated by the author. See also Bliquez 2015, 24.
 

@@ -85,38 +85,7 @@ The equestrian group of Alexander the Great is composed of four authentic ancien
 
 None of the three sculptural pieces of the group present traces of slush casting of the waxes and the rider exhibits clues of direct shaping (i.e., it seems an original model). Further investigations are needed in order to assess whether the rider and horse belong together. In particular, we suggest that future studies include the other prancing horse found in the same area of Herculaneum in order to gain further insights.
 
-## Acknowledgments
-
-This study was carried out within the framework of the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World* (Florence, Los Angeles, Washington, 2015–16) and within the research activities of the European Project Integrated Platform for the European Research Infrastructure on Cultural Heritage (IPERION CH) (H2020-INFRAIA-2014-2015, Grant Agreement n. 654028).
-
-## Bibliography
-
-Agresti, Mencaglia, and Siano 2009
-: Agresti, J., A. A. Mencaglia, and S. Siano. 2009. “Development and Application of a Portable LIPS System for Characterising Copper Alloy Artefacts.” *Analytical and Bioanalytical Chemistry* 395 (7): 2255–62.
-
-Allrogen-Bedel and Kammerer-Grothaus 1980
-: Allrogen-Bedel, A., and H. Kammerer-Grothaus. 1980. “Das Museo Ercolanese in Portici.” *CronErcol* 10: 175–217.
-
-Alonso Rodriguez 2005
-: Alonso Rodriguez, M. C. 2005. “Vaciados del siglo XVIII de la Villa de Los Papiros de Herculano en la Real Academia de Bellas Artes de San Fernando.” *Academia: Boletin de la Real Academia de Bellas Artes de San Fernando, Primer y Segundo Semestre de 2005* 100–101: 25–64.
-
-Gelas 1820
-: Gelas, M. 1820. *Catalogues des statues en bronze exposées dans une grande salle du Musée Bourbon à Naples*. Naples.
-
-Lapatin 2015
-: Lapatin, K. 2015. “Alexander the Great on Horseback.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 188–89. Los Angeles: J. Paul Getty Museum; Florence: Giunti.
-
-Ruggiero 1885
-: Ruggiero, M. 1885. *Storia degli scavi di Ercolano ricomposta su’ documenti superstiti.* Naples: Tipografica dell’Accademia reale delle scienze.
-
-Scatozza 1982
-: Scatozza, L. M. 1982. “Restauri alle collezioni del Museo Ercolanese di Portici alla luce di documenti inediti.” *Atti della Accademia Pontaniana* n. s. 31: 495–540.
-
-Siano and Agresti 2015
-: Siano, S., and J. Agresti. 2015, “Archaeometallurgical Characterisation of Donatello’s Florentine Copper Alloy Masterpieces Using Portable Laser-Induced Plasma Spectroscopy and Traditional Techniques.” *Studies in Conservation* 60 (suppl. 1): S106–19.
-
-Winckelmann 2011
-: Winckelmann, J. J. 2011. *J. J. Winckelmann:* *Letter, and Report on the Discoveries at Herculaneum*. Introduction, trans., and commentary by C. C. Mattusch. Los Angeles: J. Paul Getty Museum.
+## Notes
 
 [^1]: Excavation daybook notes for the relevant dates are as follows: October 24, 1761: “part of the sword”. October 31, 1761: “the metal base and a fragment of the embellishments of the horse”. November 3, 1761: “the right leg of the rider”. November 19, 1761: “a hoof of the horse”. November 21, 1761: “the right hoof, two feet of the horse, sword, right arm, right leg and left leg of the rider”.
 

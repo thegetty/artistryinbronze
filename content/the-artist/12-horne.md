@@ -36,70 +36,7 @@ The full reality of the ancient sculptors’ trade is difficult to discern from 
 
 I would like to thank the organizers of the 19th Annual Bronze Congress for the opportunity present my initial thoughts on the subject. The helpful comments provided by various individuals greatly aided subsequent thought on the subject, notably the earliest discussions with Carol Mattusch.
 
-## Bibliography
-
-Bennett 2010
-: Bennett, D. 2010. “Creative Migration: A Western Australian Case Study of Creative Artists.” *Australian Geographer* 41: 117–28.
-
-Boren and Young 2013
-: Boren, T., and C. Young. 2013. “Migration Dynamics of the ‘Creative Class:’ Evidence from a Study of Artists in Stockholm, Sweden.” *Annals of the Association of American Geographers* 103: 195–210.
-
-Burford 1974
-: Burford, A. 1974. *Craftsmen in Greek and Roman Society*. Ithaca: Cornell University Press.
-
-Cohen 1972
-: Cohen, M. 1972. “An Empirical Foundation for an Explanation of Organizational Mobility.” *Human Organization* 31: 291–302.
-
-Dinsmoor 1950
-: Dinsmoor, W. 1950. *Architecture of Ancient Greece: An Account of Its Development*. London: B. T. Batsford Ltd.
-
-Gabrielsen 1997
-: Gabrielsen, V. 1997. *Naval Aristocracy of Hellenistic Rhodes*. Aarhus: Aarhus University Press.
-
-Garland 2014
-: Garland, R. 2014. *Wandering Greeks: The Ancient Greek Diaspora from the Age of Homer to the Death of Alexander the Great*. Princeton: Princeton University Press.
-
-Goodlett 1991
-: Goodlett, V. 1991. “Rhodian Sculptural Workshops.” *AJA* 95: 669–81.
-
-Kantzia 1989
-: Kantzia, C. 1989 “Rhodische Kolosse: Eine hellenistische Bronzegusswerkstatt.” *AA*: 497–523.
-
-Ma 2013
-: Ma, J. 2013. *Statues and Cities: Honorific Portraits and Civic Identity in the Hellenistic World*. Oxford: Oxford University Press.
-
-MacDonald 1981
-: MacDonald, B. 1981. “Emigration of Potters from Athens in the Late Fifth Century B.C.” *AJA* 85: 159–68.
-
-Mossé 1969
-: Mossé, C. 1969. *The Ancient World at Work*. Trans. J. Lloyd. New York: Norton.
-
-Paton, Caskey, and Stevens 1927
-: Paton, J., L. Caskey, and G. Stevens. 1927. *The Erechtheum*. Cambridge: Harvard University Press.
-
-Randall 1953
-: Randall Jr., R. 1953. “The Erechtheum Workmen.” *AJA* 57: 199–210.
-
-Rostovtzeff \[1941\] 1953
-: Rostovtzeff, M. 1953. *Social and Economic History of the Hellenistic World*. Reprint of 1941 original. Oxford: Clarendon Press.
-
-Sargent 1924
-: Sargent, R. 1924. *The Size of the Slave Population at Athens during the Fifth and Fourth Centuries before Christ*. Urbana: University of Illinois.
-
-Skvoretz 1984
-: Skvoretz, J. 1984. “Logic of Opportunity and Mobility.” *Social Forces* 63: 72–97.
-
-Sørensen 1976
-: Sørensen, A. 1976. *The Structure of Inequality and the Process of Attainment*. Madison: University of Wisconsin Press.
-
-Stewart 2015
-: Stewart, A. 2015. “Why Bronze?” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 34–47. Los Angeles: J. Paul Getty Museum.
-
-White 1970
-: White, H. 1970. *Chains of Opportunity*. Cambridge (MA): Harvard University Press.
-
-Zimmer 1990
-: Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz am Rhein: Philipp von Zabern.
+## Notes
 
 [^1]: Pliny *Naturalis historia* 36.20, 34.69; Pausanias 8.9.1, 1.23.7, 10.37.1.
 

@@ -70,58 +70,7 @@ As for the fire that may have damaged *Apollo*, an attempt was recently made to 
 
 The authors would like to thank Michael Bennett; the Cleveland Clinic and Dr. Andrew Godley; Per Knutås; Jeffrey Maish; Mannheim, Matthew Notarian; John Ranally; Erik Risser; and Roland Schwab.
 
-## Bibliography
-
-Bennett 2013
-: Bennett, M. 2013. *Praxiteles: The Cleveland Apollo*. London and Cleveland: The Cleveland Museum of Art in association with D. Giles Ltd.
-
-Bode, Hauptmann, and Mezger 2009
-: Bode, M., A. Hauptmann, and K. Mezger. 2009. “Tracing Roman Lead Sources using Lead Isotope Analyses in Conjunction with Archaeological and Epigraphic Evidence: A Case Study from Augustan/Tiberian Germania.” *Archaeological and Anthropological Sciences* 1: 177–94.
-
-Craddock 1977
-: Craddock, P. T. 1977. “The Composition of the Copper Alloys Used by the Greek, Etruscan and Roman Civilisations: 2. The Archaic, Classical and Hellenistic Greeks.” *JAS* 4: 103–23.
-
-Craddock 1985
-: Craddock, P. T. 1985. “Three Thousand Years of Copper Alloys from the Bronze Age to the Industrial Revolution.” In *Application of Science in the Examination of Works of Art*, ed. P. England and L. Van Zelst, 59–67. Boston: Museum of Fine Arts.
-
-Craddock, Pichler, and Riederer 1987–88
-: Craddock, P. T., B. Pichler, and J. Riederer. 1987–88. “Legierungszusammensetzung in naturwissenschaftlichen Untersuchungen an der Bronzestatue ‘Der Jüngling vom Magdalensberg’.” In *Wiener Berichte über Naturwissenschaft in der Kunst* 4/5: 262–95.
-
-Drescher 1959
-: Drescher, H. 1959. “Untersuchungen zur römischen Löttechnik.” *Technische Beiträge zur\ Archäologie* 1: 65–77.
-
-Fasnacht and Northover 1991
-: Fasnacht, W., and P. Northover. 1991. “Metallkundliche Untersuchungen.” *Berichte der Zürcher Denkmalpflege, Archäologische Monographien* 9: 239–51.
-
-Gale et al. 1997
-: Gale, N. H., Z. A. Stos-Gale, G. Maliotis, and N. Annetts. 1997. “Lead Isotope Data from the Isotrace Laboratory, Oxford: *Archaeometry* Data Base 4, Ores from Cyprus.” *Archaeometry* 39: 237–46.
-
-Mattusch 1996
-: Mattusch, C. C., ed. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections.* Cambridge: Harvard University Art Museums.
-
-Northover and Rychner 1998
-: Northover, J. P., and V. Rychner. 1998. “Bronze Analysis: Experience of a Comparative Programme.” In *L’atelier du bronzier en Europe du XXe au VIIIe siècle avant notre ère: Actes du colloque “Bronze ‘96”, Neuchâtel et Dijon, 1996*. Vol. 1: *Les analyses de composition du métal*, ed. C. Mordant, M. Pernot, and V. Rychner, 19–40. Paris: Èditions du Comité des travaux historiques et scientifiques.
-
-Pernicka 1987
-: Pernicka, E. 1987. “Erzlagerstätten in der Ägäis und ihre Ausbeutung im Altertum. Geochemische Untersuchungen zur Herkunftsbestimmung archäologischer Metallobjekte.” *JRGZM* 34: 607–714.
-
-Pernicka et al. 1984
-: Pernicka, E., T. C. Seeliger, G. A. Wagner, F. Begemann, S. Schmitt-Strecker, C. Eibner, Ö. Öztunalı, and I. Baranyi. 1984. “Archäometallurgische Untersuchungen in Nordwestanatolien.” *JRGZM* 31: 533–99.
-
-Pernicka et al. 1997
-: Pernicka, E., F. Begemann, S. Schmitt-Strecker, H. Todorova, and I. Kuleff. 1997. “Prehistoric Copper in Bulgaria: Its Composition and Provenance.” *Eurasia Antiqua* 3: 41–180.
-
-Pernicka et al. 2008
-: Pernicka, E., R. Schwab, N. Lockhoff, and M. Haustein. 2008. “Scientific Investigations of West African Metal Castings from a Collection in Bochum.” In *Original-Copy-Fake? Examining the Authenticity of Ancient Works of Art: Focusing on African and Asian Bronzes and Terracottas; International Symposium Stiftung Situation Kunst/Ruhr University Bochum, February 17th and 18th, 2007*, ed. E. Pernicka and S. von Berswordt-Wallrabe, 80–98. Mainz: Von Zabern.
-
-Preisshofen 2002
-: Preisshofen, R. 2002. “Der Apollon Sauroktonos des Praxiteles.” *AntP* 28: 41–115.
-
-Stos-Gale, Gale, and Annetts 1996
-: Stos-Gale, Z. A., N. H. Gale, and N. Annetts. 1996. “Lead Isotope Data from the Isotrace Laboratory, Oxford: *Archaeometry* Data Base 4, Ores from the Aegean, Part 1.” *Archaeometry* 38: 381–90.
-
-Wolters 1996
-: Wolters, J. 1996. “Löten im Mittelalter.” In *Europäische Technik im Mittelalter*, ed. U. Lindgren, 187–203. Berlin: Mann.
+## Notes
 
 [^1]: Bennett 2013.
 

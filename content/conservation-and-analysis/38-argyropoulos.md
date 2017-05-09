@@ -65,36 +65,7 @@ The paper presented a case study in which local electrolysis and the use of L-cy
 
 The authors would like to thank P. Manti for her useful comments regarding the analyses of the tinned surface. We also thank G. Koutsoflakis from the Ephorate of Underwater Antiquities for his support of our work. The authors would also like to acknowledge that this conservation work was supported by the MERMAID research project that was operated under the THALES action and coordinated by the TEI-A. The research on cysteine and local electrolysis has been co-financed by the European Union (European Social Fund – ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF) - Research Funding Program: ARCHIMEDES III: Investing in the knowledge society through the European Social Fund.
 
-## Bibliography
-
-Abu-Baker et al. 2013
-: Abu-Baker, A. N., I. D. MacLeod, R. I. Sloggett, and R. Taylor. 2013. “A Comparative Study of Salicyaldoxime, Cysteine, and Benzotriazole as Inhibitors for the Active Chloride-based Corrosion of Copper and Bronze Artifacts.” *European Scientific Journal* 9 (33): 229–51.
-
-Adriaens and Dowsett 2013
-: Adriaens, A., and M. Dowsett. 2013. “Electrochemical Analysis of Metallic Heritage Artefacts: Time-lapse Spectroelectrochemical Techniques.” In *Corrosion and conservation of cultural heritage metallic artefacts*. Woodhead Publishing Ltd.
-
-Argyropoulos and Batis 2013
-: Argyropoulos, V., and G. Batis. 2013. “Saving a Marine Iron Paddle Wheel Removed from the 1868 Steam Engine Shipwreck ‘Patris’ during an Economic Crisis in Greece.” Big Stuff Conference. Ottawa, 25–27 Sep, 2013. cstmuseum.techno-science.ca/doc/content/cstm/argyropouloubigstuffpaper.pdf.
-
-Argyropoulos et al. forthcoming
-: Argyropoulos, V., S. Boyatzis, M. Giannoulaki, A. Malea, A. Pournou, S. Rapti, A. Zacharopoulou, and E. Guilminot. Forthcoming. “Preliminary Investigation of L-cysteine as a Corrosion Inhibitor for Marine Composite Artefacts Containing Copper or Iron Alloys.” *ICOM-CC WOAM 2016*. Florence.
-
-Cano and Lafuente 2013
-: Cano, E., and D. Lafuente. 2013. “Corrosion Inhibitors for the Preservation of Metallic Heritage Artefacts.” In *Corrosion and Conservation of Cultural Heritage Metallic Artefacts*, ed. P. Dillmann, D. Watkinson, E. Angelini, and A. Adriaens, 570–90. Cambridge: Woodhead.
-
-Gravgaarda and van Lanschot 2012
-: Gravgaarda, M., and J. van Lanschot. 2012. “Cysteine as a Non-toxic Corrosion Inhibitor for Copper Alloys in Conservation.” *Journal of the Institute of Conservation* 35(1): 14–24.
-
-Manti and Watkinson 2011
-: Manti, P., and D. Watkinson. 2011. “Hot-tinning of Low Tin Bronzes.” In *METAL 2010: Proceedings of the Interim Meeting of the ICOM-CC Metal Working Group*, ed. P. Mardikian, C. Chemello, C. Watters, and P. Hull, 92–98. Clemson: ICOM-CC and Clemson University.
-
-North and MacLeod 1987
-: North, N. A., and I. D. MacLeod. 1987. “Corrosion of Metals.” In *Conservation of Marine Archaeological Objects*, ed. C. Pearson, 68–98. Oxford: Buttersworth.
-
-Zacharopoulou et al. 2016
-: Zacharopoulou, A., G. Batis, V. Argyropoulos, and E. Guilminot. 2016. “The Testing of Natural Corrosion Inhibitors Cysteine and Mature Tobacco for Treating Marine Composite Objects in PEG400 Solutions.” *Journal of Conservation Science* 7 (1): 259–64.
-
-
+## Notes
 
 [^1]: Adriaens and Dowsett 2013.
 

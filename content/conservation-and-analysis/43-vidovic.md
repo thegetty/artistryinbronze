@@ -96,28 +96,7 @@ Very interesting is the fact that the corresponding impurities pattern is not on
 
 Given the distinct alloy of the decorated plinth face and its lower impurities pattern (Ag/Bi/Sb only), it is very likely that the decorated parts of the plinth were manufactured in a later phase. It seems possible that a major restoration and/or modification of the plinth occurred already during the ancient life of the statue.
 
-## Bibliography
-
-Bourgarit and Mille 2003
-: Bourgarit, D., and B. Mille. 2003. “The Elemental Analysis of Ancient Copper-Based Artefacts by Inductively-Coupled-Plasma Atomic-Emission-Spectrometry (ICP-AES): An Optimized Methodology Reveals Some Secrets of the Vix Crater.” *Measurement Science and Technology* 14: 1538–55.
-
-Cambi 2006
-: Cambi, N. 2006. “The Athlete Cleaning the Strigil.” In Michelucci 2006, 21–33.
-
-Karniš and Domijan 2006
-: Karniš, I., and M. Domijan, eds. 2006. *The Croatian Apoxyomenos*. Zagreb: Hrvatski restauratorski zavod.
-
-Karniš Vidovič and Mille 2015
-: Karniš Vidovič, I., and B. Mille. 2015. “The Croatian Apoxyomenos: New Insights into Its Manufacturing Technique.” In *New Research on Ancient Bronzes: Acta of the XVIIIth International Congress on Ancient Bronzes*, ed. E. Deschler-Erb and P. Della Casa. Zurich Studies in Archaeology 10: 97–105. Zurich: Chronos.
-
-Lalli et al. 2006
-: Lalli, C., G. Lanterna, D. Pinna, S. Porcinai, M. Rizzi, and I. Tosini. 2006. “Diagnostic Tests.” In Michelucci 2006, 113–18.
-
-Michelucci 2006
-: Michelucci, M. ed. 2006. *Apoxyomenos: The Athlete of Croatia*. Florence: Giunti.
-
-Mudronja et al. 2010
-: Mudronja, D., M. Jakšić, S. Fazinić, I. Božičević, V. Desnica, J. Woodhead, and Z. A. Stos-Gale. 2010. “Croatian Appoxiomenos Alloy Composition and Lead Provenance Study.” *JAS* 37(7): 1396–1402. DOI:10.1016/j.jas.2009.12.0
+## Notes
 
 [^1]: Karniš Vidovič and Mille 2015.
 

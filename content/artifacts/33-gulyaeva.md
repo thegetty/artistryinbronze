@@ -49,28 +49,7 @@ A throne of the same form was found at the Lippi necropolis near Verucchio.[^10]
 
 As a result of our research, it became clear that the items are not entirely fake as was assumed before. Two similar objects in the form of shields most likely are parts of Etruscan paterae or large bowls. It is highly probable that the hemispheres detached from a shield may have been decorations on a wooden item, such as an Etruscan chair.
 
-## Bibliography
-
-Boriskovskaya 1973
-: Boriskovskaya, S. P. 1973. “Bronzovije plastini ot drevneitalijskogo pantzirnogo nabora.” In *Pamjatniki antičnogo* *prikladnogo iskusstva*, ed. X. S. Gorbunova, 5‒15. Leningrad: Avrora.
-
-Cataloghi del Museo Campana 1858
-: Cataloghi del Museo Campana, 1858. Classe II. *Bronzi Etruschi e Romani*. Rome.
-
-Connolly 1981
-: Connolly, P. 1981. *Greece and Rome at War*. London: Macdonald Phoebus.
-
-Eles 2000
-: Eles, P. von. 2000. *Museo Civico Archeologico Verucchio*. Rimini: Province of Rimini.
-
-Guédéonow 1861
-: Guédéonow, E. 1861. *Notice sur les objects d’art de la Galerie Campana à Rome acquis pour le Musée Impérial de l’Ermitage*. Paris: Raçon.
-
-Haynes 1985
-: Haynes, S. 1985. *Etruscan Bronzes*. London and New York: Sotheby’s Publications.
-
-Nazo 2003
-: Nazo, A. 2003. *I bronzi Etruschi e Italici del Römisch-Germanisches Zentralmuseum*. Mainz: Römisch-Germanisches Zentralmuseum.
+## Notes
 
 [^1]: Guédéonow 1861, 41.
 

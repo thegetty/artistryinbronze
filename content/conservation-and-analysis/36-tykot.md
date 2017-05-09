@@ -93,67 +93,7 @@ The use of nondestructive analytical techniques provides many opportunities for 
 
 I appreciate very much the assistance of Robert Bowers on creating copper-based metal calibration curves; colleagues Nancy de Grummond, Martin Guggisberg, Mads Ravn, Renee Stein, and Andrea Vianello for their roles in the case studies presented in this article; and the many officials and museum staff involved in providing permission and access to the objects for these nondestructive analyses. Funding for some of this research comes from Emory University, Florida State University, and the University of South Florida.
 
-## Bibliography
-
-Bruker 2015
-: Bruker. 2015. “Tracer Series pXRF Spectrometer” (April 30, 2015). <https://www.bruker.com/products/x-ray-diffraction-and-elemental-analysis/handheld-xrf/tracer-iii/overview.html>
-
-Charalambous, Kassianidou, and Papasavvas 2014
-: Charalambous, A., V. Kassianidou, and G. Papasavvas. 2014. “A Compositional Study of Cypriot Bronzes Dating to the Early Iron Age Using Portable X-ray Fluorescence Spectrometry (pXRF).” *JAS* 46: 205–16.
-
-Ciliberto and Spoto 2000
-: Ciliberto, E., and G. Spoto, eds. 2000. *Modern Analytical Methods in Art and Archaeology*. New York: Wiley.
-
-Dussubieux and Walker 2015
-: Dussubieux, L., and H. Walker. 2015. “Identifying American Native and European Smelted Coppers with pXRF: A Case Study of Artifacts from the Upper Great Lakes Region.” *JAS* 59:169–78.
-
-Dylan 2012
-: Dylan, S. 2012. “Handheld X-ray Fluorescence Analysis of Renaissance Bronzes: Practical Approaches to Quantification and Acquisition.” In Shugar and Mass 2012, 37–74.
-
-Freund, Usai, and Tykot 2016
-: Freund, K. P., L. Usai, and R. H. Tykot. 2016. “Early Copper-Based Metallurgy at the Site of Monte d’Accoddi (Sardinia, Italy).” 41st International Symposium on Archaeometry, Kalamata, Greece, May 15–20. Abstract published in *41st International Symposium on Archaeometry Book of Abstracts*. ed. N. Zacharias and E. Palamara, 258–59. Kalamata, Greece.
-
-Garrido and Li 2016
-: Garrido, F., and T. Li. 2016. “A Handheld XRF Study of Late Horizon Metal Artifacts: Implications for Technological Choices and Political Intervention in Copiapó, Northern Chile.” *Archaeological and Anthropological Sciences* 8:1–8. DOI: 10.1007/s12520-016-0315-2.
-
-Gliozzo et al. 2010
-: Gliozzo, E., R. Arletti, L. Cartechini, S. Imberti, W. A. Kockelmann, I. Memmi, R. Rinaldi, and R. H. Tykot. 2010. “Non-invasive Chemical and Phase Analysis of Roman Bronze Artefacts from Thamusida (Morocco).” *Applied Radiation and Isotopes* 68: 2246–51.
-
-Gliozzo et al. 2011
-: Gliozzo, E., W.A. Kockelmann, L. Bartoli, and R.H. Tykot. 2011. “Roman Bronze Artefacts from Thamusida (Morocco): Chemical and Phase Analyses.” *Nuclear Instruments and Methods in Physics Research Section B* 269: 277–83.
-
-Goodale et al. 2012
-: Goodale, N., D. G. Bailey, G. T. Jones, C. Prescott, E. Scholz, N. Stagliano, and C. Lewis. 2012. “pXRF: Study of Inter-instrument Performance.” *JAS* 39: 875–83.
-
-Karydas 2007
-: Karydas, A. G. 2007. “Application of a Portable XRF Spectrometer for the Non-invasive Analysis of Museum Metal Artefacts.” *Annali di Chimica* 97: 419–32.
-
-Liritzis and Zacharias 2013
-: Liritzis, I., and N. Zacharias. 2013. “Portable XRF of Archaeological Artifacts: Current Research, Potentials and Limitations.” In *X-ray Fluorescence Spectrometry (XRF) in Geoarchaeology*, ed. M. S. Shackley, 109–42. New York: Springer.
-
-Missouri University Archaeometry Laboratory 2015
-: Missouri University Archaeometry Laboratory. 2015. “Overview of X-ray Fluorescence” (April 30, 2015). Missouri University Archaeometry Laboratory. <http://archaeometry.missouri.edu/xrf_overview.html>
-
-Orfanou and Rehren 2015
-: Orfanou, V., and T. Rehren. 2015. “A (Not So) Dangerous Method: pXRF vs. EPMA-WDS Analysis of Copper-based Artefacts.” *Archaeological and Anthropological Sciences* 7: 387–97.
-
-Pollard et al. 2007
-: Pollard, A. M., C. Batt, B. Stern, and S. M. M. Young. 2007. *Analytical Chemistry in Archaeology*. Cambridge: Cambridge University Press.
-
-Pollard and Heron 2008
-: Pollard, A. M., and C. Heron, eds. 2008. *Archaeological Chemistry*. Cambridge: The Royal Society of Chemistry.
-
-Shugar 2013
-: Shugar, A. N. 2013. “Portable X-ray Fluorescence and Archaeology: Limitations of the Instrument and Suggested Methods to Achieve Desired Results.” In *Archaeological Chemistry VIII*, ed. R. A. Armitage and J. H. Burton, 173–95. Washington, DC: American Chemical Society.
-
-Shugar and Mass 2012
-: Shugar, A. N., and J. L. Mass, eds. 2012. *Handheld XRF for Art and Archaeology*. Leuven: Leuven University Press.
-
-Tykot 2016
-: Tykot, R. H. 2016. “Using Non-Destructive Portable X-Ray Fluorescence Spectrometers on Stone, Ceramics, Metals, and Other Materials in Museums: Advantages and Limitations.” *Applied Spectroscopy* 70(1): 42–56.
-
-Tykot, de Grummond, and Schwarz 2012
-: Tykot, R. H., N. T. de Grummond, and S. J. Schwarz. 2012. “XRF Analysis of Metal Composition of Etruscan Bronze Mirrors.”Abstract published in *Archaeological Institute of America 113th Annual Meeting Abstracts* 35: 71–72.
+## Notes
 
 [^1]: Ciliberto and Spoto 2000; Pollard et al. 2007; Pollard and Heron 2008; Missouri University Archaeometry Lab 2015.
 

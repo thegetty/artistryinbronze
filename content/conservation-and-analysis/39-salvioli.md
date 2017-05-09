@@ -112,34 +112,7 @@ The archaeometallurgical study also allowed us to identify all the additions int
 
 The conservation project and archaeometallurgical investigation of the Medici Riccardi horse head was funded by the Friends of Florence, a U.S. 501(c)(3) nonprofit organization supported by individuals who are dedicated to preserving and enhancing the cultural and historical integrity of the arts in the city and surrounding area of Florence, Italy.
 
-## Bibliography
-
-Agresti, Mencaglia, and Siano 2015
-: Agresti, J., A. A. Mencaglia, and S. Siano. 2015. “Development and Application of a Portable LIPS System for Characterising Copper Alloy Artefacts.” *Analytical and Bioanalytical Chemistry* 395 (7): 2255–62.
-
-Baldinucci 1812
-: Baldinucci, F. 1812. *Notizie dè Professori del Disegno da Cimabue in quà Firenze, 1681–1728*. Milan: Società Tipografica dè Classici Italiani.
-
-Borrelli 1992
-: Borrelli, L. V. 1992. “Considerazioni su tre problematiche teste di cavallo.” *Bollettino d’Arte* 71 (ser. 6): 67–82.
-
-Cianferoni 2015
-: Cianferoni, G. C. 2015. “Horse Head (Medici Riccardi Horse).” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*. ed. J. M. Daehner and K. Lapatin, 190–91, no. 3. Los Angeles: J. Paul Getty Museum; Florence: Giunti.
-
-Coarelli 1981
-: Coarelli, F. 1981. “Alessandro, i Licini e Lanuvio.” In *L’Art decoratif à Rome: À la fin de la Republique et au dèbut du Principat*, 229–84. Collection de l’Ècole Francaise de Rome 55. Paris: Ècole Francaise de Rome.
-
-De Marinis 1998
-: De Marinis, G. 1998. “La protome di cavallo Medici-Riccardi: Il contributo delle indagini chimico-fisiche.” In *In memoria di Enrico Paribeni*, ed. G. Capecchi, O. Paoletti, C. Cianferoni, A. M. Esposito, and A. Romualdi, 281–94. Rome: Giorgio Bretschneider.
-
-Pasquinelli 2008
-: Pasquinelli, C. 2008. *La Galleria in Esilio: Il trasferimento delle opere d’arte da Firenze a Palermo a cura del Cavalier Tommaso Puccini (1800–1803)*. Pisa: ETS.
-
-Romualdi 1996
-: Romualdi, A. 1996. “La testa di cavallo Medici Riccardi.” In *Bronzi greci e romani dalle collezioni del Museo Archeologico Nazionale di Firenze*, ed. A. Rastrelli and A. Romualdi, 8. Exh. cat. Florence, Museo Archeologico Nazionale di Firenze.
-
-Siano et al. 2012
-: Siano, S., M. Miccio, M. Giamello, S. Mugnaini, and J. Agresti. 2012. “Journey through the Material Layers of the Chimaera from Arezzo.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari. 185–222. Rome: Aracne.
+## Notes
 
 [^1]: Cianferoni 2015; Borrelli 1992, 67; Coarelli 1981, 246 n. 88.
 

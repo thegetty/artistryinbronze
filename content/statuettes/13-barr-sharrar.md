@@ -52,70 +52,7 @@ Artists who built bronze casting models from pliable wax on what may well have b
 
 Note: Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.
 
-## Bibliography
-
-Beck, Bol, and Bückling 1990
-: Beck, H., P. C. Bol, and M. Bückling, eds. 1990. *Polyklet: Der Bildhauer der griechischen Klassik*. Exh. cat. Frankfurt, Liebieghaus Museum alter Plastik. Mainz am Rhein: Zabern.
-
-Bol 1990
-: Bol, P. C. 1990. “Hermes.” In Beck, Bol, and Bückling 1990, 118–20.
-
-Daehner and Lapatin 2015
-: Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum.
-
-Fuchs 1963
-: Fuchs, W. 1963. *Der Schiffsfund von Mahdia*. Tübingen: W. Wasmuth.
-
-Furtwängler \[1895\] 1964
-: Furtwängler, A. 1964. *Masterpieces of Greek Sculpture*. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895).
-
-Höckmann 1994
-: Höckmann, U. 1994. “Die Hermesstatuette.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, 469–81. Cologne: Rheinland-Verlag.
-
-Hölscher 2004
-: Hölscher, T. 2004. *The Language of Images in Roman Art*, trans. A. Snodgrass and A. Künzl-Snodgrass. Cambridge: Cambridge University Press.
-
-Jenkins 2012
-: Jenkins, I. 2012. *The Discobolus*. British Museum Objects in Focus. London: British Museum Press.
-
-Kreeb 1988
-: Kreeb, M. 1988. *Untersuchungen zur figürlichen Ausstattung delischer Privathauser*. Chicago: Ares.
-
-Kreikenbom 1990
-: Kreikenbom, D. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64.
-
-Krystalli-Votsi 2014
-: Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων (*The Ambelokipi Bronzes)*. Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn.
-
-Krull 1985
-: Krull, D. 1985. *Der Herakles vom Typ Farnese*. Frankfurt am Main: P. Lang.
-
-Leibundgut 1990
-: Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427.
-
-Maass 1979
-: Maass, M. 1979. *Griechische und römische Bronzewerke der Antikensammlungen*. Munich: Beck.
-
-Moreno 1995
-: Moreno, P. 1995. *Lisippo: L’Arte e la fortuna*. Exh. cat. Rome, Palazzo delle Esposizioni. Milan: Fabbri.
-
-Petit 1980
-: Petit, J. 1980. *Bronzes antiques de la collection Dutuit: Grecs, hellénistiques, romains et de l’Antiquité tardive*. Musée du Petit Palais. Paris: Presses artistiques.
-
-Petsas 1966
-: Petsas, P. M. 1966. *O táphos ton Lefkadion*. Athens: TAP.
-
-Picón and Hemingway 2016
-: Picón, C., and S. Hemingway, eds. 2016. *Pergamon and the Hellenistic Kingdoms of the Ancient World*. Exh. cat. New York: Metropolitan Museum of Art.
-
-Rolley 1983
-: Rolley, C. 1983. *Les bronzes grecs*. Fribourg and Paris: Office du livres.
-
-Rotroff 1994
-: Rotroff, S. I. 1994. “The Pottery.” In *Das Wrack: Der antike Schiffsfund von Mahdia*, ed. G. Hellenkemper Salies, 133–52. Cologne: Rheinland-Verlag.
-
-Zanker 1974
-: Zanker, P. 1974. *Klassizistische Statuen: Studien zur Veränderung des Kunstgeschmacks in der römischen Kaiserzeit*. Mainz am Rhein: Zabern.
+## Notes
 
 [^1]: Furtwängler \[1895\] 1964, 231–32.
 

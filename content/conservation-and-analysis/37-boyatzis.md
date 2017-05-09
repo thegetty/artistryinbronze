@@ -79,68 +79,7 @@ FTIR spectra were recorded from acetone-extracted coating samples (see Experimen
 
 Scrutiny of the conservation records, visual inspection, SEM-EDX analysis, and FTIR analysis of the studied objects resulted in a comprehensive assessment of the condition of the objects’ surfaces, including their coatings. The results from the National Archaeological Museum are listed in table 37.3, while those of the Epigraphic and Numismatic Museum are in table 37.4. It can be seen that in specific cases from both museums, a combination of factors—the product purchased from distributor E, the application method in combination with the treatment practice (i.e., mechanical treatment and stabilization of bronze surface or chemical treatment), and the preservation state of the objects—resulted in poor coating condition. FTIR spectra of extracted coating material in these cases showed oxidative degradation, which resulted in deeply yellowed coating (as evidenced by visual inspection). The fact that in other cases the product from the same distributor (E) performed better, leads to the conclusion that pre-treatment of bronze surface by immersing the object in BTA solution helped to form a thin protective film of a copper-BTA complex, which improved the coating’s performance.[^12] However, it is not been shown whether the absence of BTA in the investigated solvent-extracted coatings is responsible for the overall coating performance at any level. At this point, reflection-absorption FTIR spectroscopy performed in situ and non-destructively on the artifacts’ surfaces could yield a more conclusive assessment; in this study, however, this was not possible. The decision to coat or not to coat museum bronze artifacts is left to the conservator, who must decide the best protocol based on the conditions of the museum environment and handling of the objects. Our study tried to highlight that coating changes may occur long-term and may not yet be visible to the naked eye. Since the conclusion of this study, the conservators of the National Epigraphic and Numismatic Museum have decided to discontinue use of any coatings on their coin collection. Conservators from the National Archaeological Museum still use Incralac® coatings on their bronzes, and attest to its good performance relative to other types of coatings.
 
-## Bibliography
-
-Argitis et al. 1998
-: Argitis, P., S. Boyatzis, I. Raptis, N. Glezos, and M. Hatzakis. 1998. “Post-Exposure Bake Kinetics in Epoxy Novolac-Based Chemically Amplified Resists.” *Micro- and Nanopatterning Polymers*, ACS Symposium Series, 706, ed. H. Ito, E. Reichmanis, O. Nalamasu, and T. Ueno, 345–57. Washington: ACS Publications.
-
-Argyropoulos et al. 2008
-: Argyropoulos, V., M. Giannoulaki, G. P. Michalakakos, and A. Siatou. 2008. “A Survey of the Types of Corrosion Inhibitors and Protective Coatings Used for the Conservation of Metal Objects from Museum Collections in the Mediterranean Basin.” In *Strategies for Saving Our Cultural Heritage: Papers Presented at the International Conference on Conservation Strategies for Saving Indoor Metallic Collections (CSSIM),* Cairo 25 February–1 March 2007, ed. V. Argyropoulos, A. Hein, and M. A. Harith, 166–70. Athens: TEI.
-
-Bierwagen, Shedlosky, and Stanek 2002
-: Bierwagen, G. P., T. J. Shedlosky, and K. Stanek. 2002. “Developing and Testing a New Generation of Protective Coatings for Outdoor Bronze Sculpture.” In *Proceedings 28:* *2002 Athens Conference on Coatings Science and Technology*, July 1–5, 2002, Vouliagmeni (Greece), 289–96. Athens: Institute of Materials Science.
-
-
-Boyatzis, Ioakimoglou, and Argitis 2002
-: Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” *Journal of Applied Polymer Science* 84(5): 936–49.
-
-Boyatzis et al. 2012
-: Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” *Applied Spectroscopy* 66(5): 580–90.
-
-Brostoff 2003
-: Brostoff, B. L. 2003. “Coating Strategies for Protection of Outdoor Bronze Art and Ornamentation.” Ph.D. diss., Universiteit van Amsterdam.
-
-Craine, Severson, and Merritt 1992
-: Craine, C., K. Severson, and S. Merritt. 1992. “Prospects for the Long-Term Maintenance of Outdoor Bronze Sculpture: The Shaw Memorial Nine Years after Cleaning and Coating.” In *Abstracts, 20th Annual Meeting of the American Institute for Conservation of Historic and Artistic Works, Buffalo, NY, June 4–7, 1992*, 30*.* Washington: AIC.
-
-De la Rie 1992
-: De la Rie, E. R. 1992. “Stability and Function of Coatings Used in Conservation.” In *Polymers in Conservation*, ed. N. S. Allen, M. Edge, and C. V. Horie, 62–81. Cambridge: Royal Society of Chemistry.
-
-Derrick, Stulik, and Landry 1999
-: Derrick, M. R., D. Stulik, and J. M. Landry. 1999. *Infrared Spectroscopy in Conservation Science*. Scientific Tools for Conservation Series. Los Angeles: Getty Conservation Institute.
-
-Erhardt et al. 1984
-: Erhardt, D., W. Hopwood, T. Padfield, and F. N. Veloz. 1984. “Durability of Incralac: Examination of a Ten-Year-Old Treatment.” In *Preprints, ICOM Committee for Conservation, 7th Triennial Meeting, Copenhagen, 10–14 September, 1984*, ed. D. de Froment, 22.1–3. Paris: ICOM.
-
-Gotoh et al. 2000
-: Gotoh, Y., R. Igarashi, Y. Ohkoshi, M. Nagura, K. Akamatsu, and S. Deki. 2000. “Preparation and Structure of Copper Nanoparticle/Poly(acrylic acid) Composite Films.” *Journal of Materials Chemistry*, 10(11): 2548–52.
-
-Griffiths and de Haseth 2007
-: Griffiths, P. E., and J. A. de Haseth. 2007. *Fourier Transform Infrared Spectrometry*. 2nd ed. Hoboken: Wiley.
-
-Horie 2010
-: Horie, C. V. 2010. *Materials for Conservation: Organics Consolidants, Adhesives, and Coatings*. 2nd ed. London and New York: Routledge.
-
-Ioakimoglou et al. 1999
-: Ioakimoglou, E., S. Boyatzis, P. Argitis, A. Fostiridou, K. Papapanagiotou, and N. Yannovits. 1999. “Thin-Film Study on the Oxidation of Linseed Oil in the Presence of Selected Copper Pigments.” *Chemistry of Materials* 11(8): 2013–22. 
-
-Lazzari and Chiantore 2000
-: Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” *Polymer* 41(17): 6447–55.
-
-Madsen 1971
-: Madsen, H. B. 1971. “Further Remarks on the Use of Benzotriazole for Stabilizing Bronze Objects.” *Studies in Conservation* 16(30): 122.
-
-McNamara et al. 2004
-: McNamara, C. J., M. Breuker, M. Helms, T. D. Perry, and R. Mitchell. 2004. “Biodeterioration of Incralac Used for the Protection of Bronze Monuments.” *Journal of Cultural Heritage* 5: 361–64.
-
-Merklin 2002
-: Merklin, G. 2002. “Infrared Spectrometry of Thick Organic Films on Metallic Substrates.” *Handbook of Vibrational Spectroscopy*, ed. J. M. Chalmers and P. R. Griffiths. Vol. 2: *Sampling Techniques*, 1033–43. New York: Wiley.
-
-Scott 2002
-: Scott, D. A. 2002. *Copper and Bronze in Art: Corrosion, Colorants, Conservation*. Los Angeles: Getty Conservation Institute.
-
-Stuart 2004
-: Stuart, B. 2004. *Infrared Spectroscopy Fundamentals and Applications*. Chichester: Wiley.
+## Notes
 
 [^1]: Madsen 1971, Scott 2002, Brostoff 2003.
 

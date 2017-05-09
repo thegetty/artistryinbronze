@@ -104,77 +104,7 @@ Within the PROMET project, a portable micro-XRF spectrometer, based on an indust
 
 We would like to thank Mr. Eythimios Bistekos for his technical assistance during the *in-situ* campaign in Damascus, Syria, and Dr. Demetrios Anglos for providing us with the reference bronze standards. We are also grateful to Dr. Maamoun Abdulkarim, Mr. Maher Azar, the staff of the Ministry of Culture of Syria, and the curators of the National Museum of Damascus for granting us the permission to study the unique gilded bronze figurines, for their hospitality, and for overall assistance during our campaign.
 
-## Bibliography
-
-Al Moadin and Díez-Fuentes 2006
-: Al Moadin, M., and H. Díez-Fuentes. 2006. *Highlights of the National Museum of Damascus*. 2006. Lebanon:
-Media Minds LLC.
-
-Arafat et al. 2013
-: Arafat, A., M. Naes, V. Kantarelou, N. Haddad, A. Giakoumaki, V. Argyropoulos, D. Anglos, and A. G. Karydas. 2013.“Combined *in situ* Micro-XRF, LIBS and SEM-EDS Analysis of Base Metal and Corrosion Products for Islamic Copper Alloyed Artefacts from Umm Qais Museum.” *Journal of Cultural Heritage* 14: 261–69.
-
-Aruz, Benzel, and Evans 2008
-: Aruz, J., K. Benzel, and J. M. Evans, eds. 2008. *Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C.* New York: Metropolitan Museum of Art.
-
-Degrigny et al. 2007
-: Degrigny, C., A. G. Karydas, S. Golfomitsou, V. Kantarelou, Ch. Zarkadas, and D. Vella. 2007. “Methodology for the *in-situ* Analyses of Historic Steel Armours with Portable Milli- and Micro-XRF Spectrometers.” In *METAL-07*, vol. 2: *Innovative Investigation of Metal Artifacts*, 26–34. Amsterdam: Rijksmuseum.
-
-Ebel 1999
-: Ebel, H. 1999. “X-ray Tube Spectra.” *X-Ray Spectrometry* 27: 255–66.
-
-Ferretti 2014
-: Ferretti, M. 2014. “The Investigation of Ancient Metal Artefacts by Portable X-ray Fluorescence Devices.” *Journal of Analytical Atomic Spectrometry* 29: 1753–66.
-
-Figueiredo et al. 2013
-: Figueiredo, E., M. Fatima Araujo, J. C. Silva, and R. Raquel Vilaca. 2013. “Characterisation of a Proto-historic Bronze Collection by Micro-EDXRF.” *Nuclear Instruments and Methods in Physics Research B* 296: 26–31.
-
-Giannoulaki et al. 2007.
-: Giannoulaki, M., V. Argyropoulos, G. P. Michalakakos, Th. Panou, V. Kantarelou, C.. Zarkadas, A. G.. Karydas, V. Perdikatsis, and Ch. Apostolaki. 2007.“A Conservation Survey of Museum Metals Collections: A Case Study of Ancient Messene Museum, Greece.” In *METAL-07*, vol. 1: *When Archaeometry and Conservation Meet*, 67–72. Amsterdam: Rijksmuseum.
-
-Gianoncelli and Kourousias 2007
-: Gianoncelli, A. and Kourousias, G. 2007. “Limitations of Portable XRF Implementations in Evaluating Depth Information: An Archaeometric Perspective.” *Applied Physics A* 89: 857–63.
-
-Heginbotham et al. 2010
-: Heginbotham, A., A. Bezur, M. Bouchard, J. M. Davis, K. Eremin, J. H. Frantz, L. Glinsman, L. A. Hayek, D. Hook, V. Kantarelou, A. G.. Karydas, L. Lee, J. Mass, C. Matsen, B. McCarthy, M. McGath, A. Shugar, J. Sirois, D. Smith, and R. J. Speakman. 2010. “An Evaluation of Inter-laboratory Reproducibility for Quantitative XRF of Historic Copper Alloys.” In *Proceedings of the International Conference on Metal Conservation, METAL 2010*, ed. P. Mardikian, C. Chemello, C. Watters, and P. Hull, 178–88. Charleston (SC): Clemson University.
-
-Ingelbrecht et al. 2001
-: Ingelbrecht, C., A. Andriaens, and E. A. Maler. 2001. “The Certification of Arsenic, Lead, Tin and Zinc (Mass Fractions) in Five Copper Alloys, BCR-691.” *EUR 19778/1EN*.
-
-Ingo et al. 2004
-: Ingo, G. M., E. Angelini, T. de Caro, G. Bultrini, and I. Calliari. 2004. “Combined Use of GDOES, SEM + EDS, XRD and OM for the Microchemical Study of the Corrosion Products on Archaeological Bronzes.” *Applied Physics A* 79: 199–203.
-
-Kantarelou et al. 2007a
-: Kantarelou, V., Ch. Zarkadas, A. Giakoumaki, M. Giannoulaki, A. G.. Karydas, D. Anglos, and V. Argyropoulos. 2007. “A Novel Approach on the Combined in-situ Application of LIBS and μ-XRF Spectrometers for the Characterization of Copper Alloy Corrosion Products.” In *METAL-07*, vol. 2: *Innovative Investigation of Metal Artifacts*, 35–41.
-
-Kantarelou et al. 2007b
-: Kantarelou, V., A. G. Karydas, Ch. Zarkadas, M. Giannoulaki, and V. Argyropoulos. 2007. “Micro-XRF Analysis of High Tin Bronze Mirrors at the Museum of Ancient Messene in Greece.” In *Proceedings of the International Conference on Conservation Strategies for Saving Indoor Metallic Collections (CSSIM)*, ed. V. Argyropoulos, A. Hein, and M. A. Harith, 93–99. Athens: Dept. of Conservation of Antiquities and Works of Art.
-
-Kantarelou et al. 2015
-: Kantarelou, V., A. G. Karydas, D. Sokaras, L. Mahfouz, A. Qurdab, M. Al-Saadi, M. Giannoulaki, and V. Argyropoulos. 2015. “In situ Scanning Micro-XRF Analyses of Gilded Bronze Figurines at the National Museum of Damascus.” *Journal of Analytical Atomic Spectroscopy* 30: 1787–98.
-
-Kantarelou and Karydas 2016
-: Kantarelou V., and A. G. Karydas. 2016. “A Simple Calibration Procedure of Polycapillary Based Portable Micro-XRF Spectrometers for Reliable Quantitative Analysis of Cultural Heritage Materials.” X *Ray Spectrometry* 45: 85–94.
-
-Karydas 2007
-: Karydas, A. G. 2007. “Application of a Portable XRF Spectrometer for the Non-Invasive Analysis of Museum Metal Artefacts.” *Annali di Chimica* 97: 419–32.
-
-Karydas, Anglos, and Harith 2008
-: Karydas, A. G., D. Anglos, and M. A. Harith. 2008. “Mobile Micro-XRF and LIBS Spectrometers for Diagnostic Micro-Analysis of Ancient Metal Objects.” In *Metals and Museums in the Mediterranean: Protecting, Preserving and Interpreting*, ed. V. Argyropoulos, 141–77. Athens: Department of Conservation of Antiquities and Works of Art.
-
-Manso et al. 2015
-: Manso, M., N. Schiavon, I. Queralt, A. M. Arruda, J. M. Sampaio, and A. Brunetti. 2015. “Alloy Characterization of a 7th Century BC Archeological Bronze Vase Overcoming Patina Constraints Using Monte Carlo Simulations.” *Spectrochimica Acta B* 107: 93–96.
-
-Nicholas and Manti 2014
-: Nicholas, M., and P. Manti. 2014. “Testing the Applicability of Handheld Portable XRF to the Characterisation of Archaeological Copper Alloys.” In *Proceedings of ICOM-CC 17th Triennial Conference, Melbourne*, ed. J. Bridgeland. International Council of Museums.
-
-Potts and West 2008
-: Potts, P. J., and M. West, eds. 2008. *Portable X-ray Fluorescence Spectrometry: Capabilities for In Situ Analysis*. Cambridge: RSC Publishing.
-
-Robbiola et al. 1998
-: Robbiola, L., J. M. Blengino, and C. Fiaud. 1998. “Morphology and Mechanisms Formation of Natural Patinas on Archaeological Cu-Sn Alloys.” *Corrosion Science* 40: 2083–111.
-
-Trentelman et al. 2010
-: Trentelman, K., M. Bouchard, M. Ganio, C. Namowicz, C. Schmidt Patterson, and M. Walton. 2010. “The Examination of Works of Art Using *in situ* XRF Line and Area Scans.” *X-Ray Spectrometry* 39: 159–66.
+## Notes
 
 [^1]: Giannoulaki et al. 2007, Kantarelou et al. 2007a, Kantarelou et al. 2007b.
 

@@ -48,61 +48,7 @@ Plutarch’s reference to marble and the use of the article *ὁ* encourages us 
 
 In conclusion, Plutarch’s description of Lysander’s monuments in Delphi reveals a use of the material—bronze or marble—first of all to distinguish between two different statues. In the case of the group of the Admirals, the deterioration of the bronze and the formation of the blue patina became a means of interpreting the monument in the light of the event it celebrated and of its connection with the sea. Moreover, the discussion of the origin of the patina, which is due to the Delphic air, introduces the philosophical nature of the writing and represents the first step in the theological reflection that Plutarch intends to develop. Therefore, the bronze and its patina also assume a philosophical and religious value: it is peculiar to the sanctuary of Delphi and strictly linked to Apollo. In Plutarch’s view, the bronze becomes more than bronze and a bronze statue more than just the sum of its technique and aesthetic appearance. The material assumes both a historical and a philosophical value and becomes the key of Plutarch’s interpretation of the Monument of the Admirals.
 
-## Bibliography
-
-Angeli Bertinelli et al. 1997
-: Angeli Bertinelli, M. G., M. Manfredini, L. Piccirilli, and G. Pisani. 1997. *Le vite di Lisandro e Silla*. Milan: Mondadori.
-
-Bommelaer 2015
-: Bommelaer, J. F. 2015. *Guide de Delphes: Le site*. 2nd rev. ed. Sites et Monuments 7. Athens and Paris: École française d’Athènes; De Boccard.
-
-Craddock and Giumlia-Mair 1993a
-: Craddock, P. T., and A. R. Giumlia-Mair. 1993a. “Beauty is Skin Deep: Evidence for the Original Appearance of Classical Statuary.” In *Metal Plating and Patination: Cultural, Technical and Historical Developments*, ed. S. La Niece and P. Craddock, 30–38. Oxford: Butterworth-Heinemann.
-
-Craddock and Giumlia-Mair 1993b
-: Craddock, P. T., and A. R. Giumlia-Mair. 1993b. “Hsmn-Km, Corinthian Bronze, Shakudo: Black-patinated Bronze in the Ancient World.” In *Metal Plating and Patination: Cultural, Technical and Historical Developments*, ed. S. La Niece and P. Craddock, 101–27. Oxford: Butterworth-Heinemann.
-
-Falaschi 2015
-: Falaschi, E. 2015. “BIOI POIKILOI: Le biografie dei pittori negli scritti di Plutarco.” Ph.D. diss., Scuola Normale Superiore, Pisa.
-
-Flacelière 1964
-: Flacelière, R. 1964. *Sagesse de Plutarque*. Paris: Presses Universitaires de France.
-
-Franke and Mircea 2005
-: Franke, W. A., and M. Mircea. 2005. “Plutarch’s Report on the Blue Patina of Bronze Statues at Delphi: A Scientific Explanation.” *Journal of American Institute of Conservation* 44: 103–16.
-
-Giumlia-Mair 2001a
-: Giumlia-Mair, A. R. 2001a. “Alchemy and Surface Treatments in Antiquity.” In *Surface Modification Technologies XIV: Proceedings of the 14th International Conference on Surface Modification Technologies (Paris, September 11–13, 2000)*, ed. T. S. Sudarshan and M. Jeandin, 404–11. Scarborough (ON): Emptek Publishing.
-
-Giumlia-Mair 2001b
-: Giumlia-Mair, A. R. 2001b. “Colouring Treatments on Ancient Copper-alloys.” *La Revue de Métallurgie* 98: 767–76.
-
-Giumlia-Mair 2008
-: Giumlia-Mair, A. R. 2008. “Antiche tecniche di colorazione dei metalli.” In *Colore e arte: storia e tecnologia del colore nei secoli: Atti del convegno AIAr Associazione Italiana di Archeometria, Metodologie Scientifiche per i Beni Culturali, Firenze, 28 febbraio–2 marzo 2007*, ed. M. Bacci, 259–75. Bologna: Patron Editore.
-
-Giumlia-Mair and Craddock 1993
-: Giumlia-Mair, A. R., and P. T. Craddock. 1993. *Corinthium aes: Das schwarze Gold der Alchimisten*. Zaberns Bildbände zur Archäologie 11. Mainz am Rhein: Verlag Philipp von Zabern.
-
-Giumlia-Mair and Lehr 1998
-: Giumlia-Mair, A. R., and M. Lehr. 1998. “Patinating Black Bronzes: Texts and Tests.” In *The 4th International Conference on the Beginning of the Use of Metal and Alloys (BUMA-IV): Kunibiki Messe, Matsue, Shimane, Japan. May 25–28, 1998*, 103–108. Aoba (Sendai): BUMA-IV Organizing Committee, Japan Institute of Metals.
-
-Giumlia-Mair et al. 2000
-: Giumlia-Mair, A. R., S. Meriani, and E. Lucchini. 2000. “Antiche patine artificiali e rivestimenti su leghe a base di rame.” In *Atti del I° Congresso Nazionale di Archeometria AIAr (Verona 2–4 Dicembre 1999)*, 171–84. Bologna: Patron Editore.
-
-Ildefonse 2006
-: Ildefonse, F. 2006. *Plutarque: Dialogues pythiques*. Paris: Flammarion.
-
-Jouanna 1975
-: Jouanna, M. 1975. “Plutarque et la patine des statues a Delphes (Sur les oracles de la Pythie 395b–396c).” *RPhil* 39: 67–71.
-
-Pouilloux 1986
-: Pouilloux, J. 1986. “L’air de Delphes et la patine du bronze.” In *D’Archiloque à Plutarque: Littérature et réalité: Choix d’articles de Jean Pouilloux*, 267–79. Collection de la Maison de l’Orient Méditerranéen 16. Série épigraphique 1. Lyon: Maison de l'Orient et de la Méditerranée Jean Pouilloux. Originally published in *RÉA* 67 (1965): 54–66.
-
-Schröder 1990
-: Schröder, S. 1990. *Plutarchs Schrift* De Pythiae Oraculis. Beiträge zur Altertumskunde 8. Stuttgart: Teubner.
-
-Zagdoun 1995
-: Zagdoun, M. 1995. “Plutarque à Delphes.” *RÉG* 108: 586–92.
+## Notes
 
 [^1]: Jouanna 1975; Pouilloux 1986; Craddock and Giumlia-Mair 1993a, 1993b; Giumlia-Mair and Craddock 1993, 15–17; Giumlia-Mair and Lehr 1998; Giumlia-Mair et al. 2000; Giumlia-Mair 2001a, 2001b; Giumlia-Mair 2008, 269–73; Franke and Mircea 2005.
 

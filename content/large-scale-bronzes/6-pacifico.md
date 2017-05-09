@@ -46,40 +46,7 @@ Mostly probably, the bronze Apollo is proof of how the most influential Campania
 
 We still have to evaluate and analyze the aspects of the head that indicate the characteristic features of this Italian production. The artisans’ ability to meld tradition and innovation reflects both the cosmopolitan heritage of the Hellenic universe and a parallel elaboration of Vesuvian and, on a larger scale, Magna Grecian influences, played out at that particular moment of transition from the tumultuous Republican period to the florid Augustan peace of whom Apollo is the tutelary deity.
 
-## Bibliography
-
-Andreae 2001
-: Andreae, B. 2001. *Skulptur des Hellenismus*. Munich: Hirmer.
-
-L’Apollo 1961
-: “L’Apollo di Salerno.” 1961. In *Apollo: Bollettino dei Musei Provinciali del Salernitano* 1: 3–20.
-
-Giorgetti et al. 1991
-: Giorgetti, F., M. Miccio, P. Pellecchi, and R. Pecchioli. 1991. “Indagini sulle caratteristiche tecnologiche e sullo stato di conservazione.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 15–18.
-
-Giumlia-Mair 2015
-: Giumlia-Mair, A. 2015. “Techno-Chronology? Alloy Composition and the Use of Technical Features for the Dating of Ancient Bronzes.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 167–81. Los Angeles: J. Paul Getty Museum.
-
-Guarino 1991
-: Guarino, D. P. 1991. “L’Apollo di Salerno: Dalla conservazione alla lettura del reperto.” *Apollo: Bollettino dei Musei Provinciali del Salernitano* 7: 4–22.
-
-Horn 1937
-: Horn, R. 1937. “Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien vom Oktober 1936 bis Oktober 1937.” *AA* 3/4: 348­–466.
-
-Maiuri 1942
-: Maiuri, A. 1942. Untitled note. *RendAccIt* 3: 10–2.
-
-Mustilli, D. 1937/38
-: Mustilli, D. 1937/38. “L’Apollo di Salerno.” *BdA*, ser. 3, 31: 136–46.
-
-Pacifico 2015
-: Pacifico, S. 2015. “Head of Apollo.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 236–37. Los Angeles: J. Paul Getty Museum.
-
-Palmentieri 2011
-: Palmentieri, A. 2011. “Testa di Apollo citaredo.” In *Dopo lo Tsunami: Salerno Antica*, ed. A. Campanelli, 103–105. Exh. cat. Salerno, Complesso monumentale si Santa Lucia. Naples: Art’m.
-
-Technau 1931
-: Technau, W. 1931. “Bericht über Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien von Oktober 1930 bis Oktober 1931.” *AA* 3/4: 620–710.
+## Notes
 
 [^1]: Giorgetti et al. 1971.
 

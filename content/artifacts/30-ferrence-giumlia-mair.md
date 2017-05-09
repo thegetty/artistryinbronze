@@ -69,46 +69,7 @@ The XRF analyses have demonstrated that the copper-based objects from Gournia pr
 
 We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA.
 
-## Bibliography
-
-Betancourt 1979
-: Betancourt, P. P. 1979. “The Pottery Chronology: A Brief Sketch.” In *Gournia, Crete: The 75th Anniversary of the Excavations* (Temple University Aegean Symposium 4), ed. P. Betancourt, 7–10. Philadelphia: Temple University.
-
-Betancourt and Silverman 1991
-: Betancourt, P. P, and J. S. Silverman. 1991. *The Cretan Collection in the University Museum, University of Pennsulvania*. Vol. 2: *Pottery from Gournia*. University Museum Monograph 72. Philadelphia: University Museum.
-
-Betancourt et al. 1978
-: Betancourt, P. P., T. S. Wheeler, R. Maddin, and J. D. Muhly. 1978. “Metallurgy at Gournia.” *MASCAJ* 1: 7–8.
-
-Boardman 1961
-: Boardman, J. 1961. *The Cretan Collection in Oxford: The Dictaean Cave and Iron Age Crete*. Oxford: Clarendon.
-
-Boyd 1904
-: Boyd, H. A. 1904. “Gournia: Report of the American Exploration Society’s Excavations at Gournia, Crete.” *Transactions, Department of Archaeology, University of Pennsylvania* 1.1: 7–44.
-
-Boyd Hawes et al. 1908
-: Boyd Hawes, H. A., B. E. Williams, R. B. Seager, and E. H. Hall. 1908. *Gournia, Vasiliki, and Other Prehistoric Sites on the Isthmus of Hierapetra, Crete: Excavations of the Wells-Houston-Cramp Expeditions, 1901, 1903, 1904*. Philadelphia: American Exploration Society, Free Museum of Science and Art.
-
-Branigan 1974
-: Branigan, K. 1974. *Aegean Metalwork of the Early and Middle Bronze Age*. Oxford: Clarendon.
-
-Evans 1964
-: Evans, A. 1964. *The Palace of Minos: A Comparative Account of the Successive Stages of the Early Cretan Civilization as Illustrated by the Discoveries at Knossos*. Vol. 3. New York: Biblo and Tannen.
-
-Fotou 1993
-: Fotou, V. 1993. *New Light on Gournia: Unknown Documents of the Excavation at Gournia and Other Sites on the Isthmus of Ierapetra*. Aegaeum 9. Liège: Université de Liège; Austin: University of Texas.
-
-Hahn-Weinheimer, Hirner, and Weber-Diefenbach 1995
-: Hahn-Weinheimer, P., A. Hirner, and K. Weber-Diefenbach. 1995. *Röntgenfluoreszenzanalytische Methoden: Grundlagen und praktische Anwendung in den Geo-, Material- und Umweltwissenschaften*. Braunschweig: Vieweg.
-
-Lutz and Pernicka 1996
-: Lutz, J., and E. Pernicka. 1996. “EDXRF Analysis of Ancient Copper Alloys.” *Archaeometry* 38.2: 313–23.
-
-Soles and Davaras 2010
-: Soles, J. S., and C. Davaras. 2010. “2010 Greek-American Excavations at Mochlos.” *Kentro: The Newsletter of the INSTAP Study Center for East Crete* 13: 1–3.
-
-Vlachopoulos and Georma 2012
-: Vlachopoulos, A., and F. Georma. 2012. “Jewellery and Adornment at Akrotiri, Thera: The Evidence from the Wall Paintings and the Finds.” In *Kosmos: Jewellery, Adornment and Textiles in the Aegean Bronze Age: Proceedings of the 13th International Aegean Conference, University of Copenhagen, Danish National Research Foundation’s Centre for Textile Research, 21–26 April 2010* (Aegaeum 33), ed. M.-L. Nosch and R. Laffineur, 35–42. Leuven and Liège: Peeters.
+## Notes
 
 [^1]: Boyd 1904; Boyd Hawes et al. 1908.
 

@@ -91,73 +91,7 @@ Numerous smaller stray bronze elements, mostly broken away from the external lay
 
 Future study sessions with the team members within the next year are anticipated. With the completion of reasonably accurate copies, the musical potential of such instruments could be rediscovered, adding immeasurably to our knowledge of music in the Roman period. A first trial by Stefan Hagel playing 3D-printed replicas of the “Wooden Pipes” took place in January 2016 in Paris during a conference focused on the making of ancient musical instruments, in part organized by the [Institut français d’archéologie orientale](http://www.ifao.egnet.net/) (IFAO).[^23]
 
-## Bibliography
-
-Bodley 1946
-: Bodley, N. B. 1946. “The Auloi of Meroe.” *AJA* 50: 217–40; plates i–viii.
-
-Byrne 2000
-: Byrne, M. 2000. “Understanding the Aulos.” In *Studien zur Musikarchäologie* 2 (Orient-Archäologie 7), ed. E. Hickmann, I. Laufs, and R. Eichmann, 279–85*.* Rahden/Westfalia: M. Leidorf.
-
-Byrne 2002
-: Byrne, M. 2002. “Understanding the Aulos II: Extended Pipes and Drone.” In *Studien zur Musikarchäologie* 3 (Orient-Archäologie 10), ed. E. Hickmann, A. D. Kilmer, and R. Eichmann, 367–73. Rahden/Westfalia: M. Leidorf.
-
-Cartwright 2015
-: Cartwright, C. R. 2015. “The Principles, Procedures and Pitfalls in Identifying Archaeological and Historical Wood Samples.” *Annals of Botany* 116: 1–13.
-
-Dixon and Wachsmann 1964
-: Dixon, D. M., and K. P. Wachsmann. 1964. “A Sandstone Statue of an Auletes from Meroe.” *Kush* 12: 119–25.
-
-Dunham 1957
-: Dunham, D. 1957. *Royal Tombs at Meroë and Barkal.* Royal Cemeteries of Kush 4. Boston: Museum of Fine Arts.
-
-Eichmann, Fang, and Koch 2012
-: Eichmann, R., J. Fang, and L.-Ch. Koch, eds. *Studien zur Musikarchäologie* 8 (Orient-Archäologie 27). Rahden/Westfalia: M. Leidorf.
-
-Hagel 2004
-: Hagel, S. 2004. “Calculating Auloi: The Louvre Aulos Scale. In *Studien zur Musikarchäologie* 4 (Orient-Archäologie 15), ed. E. Hickmann and R. Eichmann, 373–90. Rahden/Westfalia: M. Leidorf.
-
-Hagel 2008
-: Hagel, S. 2008. “Re-evaluating the Pompeii Auloi.” *JHS* 128: 52–71.
-
-Hagel 2009
-: Hagel, S. 2009. *Ancient Greek Music: A New Technical History*. Cambridge and New York: Cambridge University Press.
-
-Hagel 2012a
-: Hagel, S. 2012. “The Pompeii Auloi: Improved Data and a Hitherto Unknown Mechanism. In Eichmann, Fang, and Koch 2012, 103–14.
-
-Hagel 2012b
-: Hagel, S. 2012. “How to Shoot an Aulos: Taking Measurements from Photographs.” In Eichmann, Fang, and Koch 2012, 405–13.
-
-Hagel 2014
-: Hagel, S. 2014. “Better Understanding the Louvre Aulos.” In *Studien zur Musikarchäologie* 9 (Orient-Archäologie 33), ed. R. Eichmann, J. Fang, and L.-Ch. Koch, 131–42. Rahden/Westfalia: M. Leidorf.
-
-Harvard University–Museum of Fine Arts 1920–21a
-: Harvard University–Museum of Fine Arts Expedition. 1920–21. *Expedition Diary*. Vol. 10: *Sudan*; Part 6: Begarawiya. Archives of the Department of Art of the Ancient World, MFA.
-
-Harvard University–Museum of Fine Arts 1920–21b
-: Harvard University–Museum of Fine Arts Expedition. 1920–21. *Object Register*, Sudan IX, Begarawiyeh (Meroe) 20-4-1 to 21-3-716. Archives of the Department of Art of the Ancient World, MFA.
-
-Kuronen 2004
-: Kuronen, D. 2004. *Musical Instruments: MFA Highlights*. Boston: MFA Publications.
-
-Mille 2007
-: Mille, B. 2007. “Les trompes gallo-romaine de Neuvy-en-Sullias Just sur-Dive, apport d’une étude de laboratoire.” In *Le cheval et la danseuse, à la redécouverte du trésor de Neuvy-en-Sullias*, ed. C. Gorget and J.-P Guillaumet, 146–55, 267. Paris: Somogy.
-
-Priese 1993
-: Priese, K. H. 1993. *The Gold of Meroe*. Mainz: Zabern.
-
-Southgate 1915
-: Southgate, T. L. 1915. “Ancient Flutes from Egypt.” *JHS* 35: 12–21.
-
-Sutkowska 2012
-: Sutkowska, O. 2012. “One of Nine Tibiae from a Villa Rustica in the Vesuvian Area Rediscovered.” In Eichmann, Fang, and Koch 2012, 115–26.
-
-Sutkowska 2015
-: Sutkowska, O. 2015. “Archäologische Auloi/Tibia Funde mit Mechanismen.” *Die Tonkunst* 9 (4): 412–22.
-
-West 1992
-: West, M.L. 1992. *Ancient Greek Music.* Oxford: Clarendon Press.
+## Notes
 
 [^1]: Excavation numbers 21-3-350, 21-3-702. Dunham 1957, 109, plate LIX A, B.
 
