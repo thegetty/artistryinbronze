@@ -10402,15 +10402,15 @@
 
 	var _lodash2 = _interopRequireDefault(_lodash);
 
-	var _map = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./map.js\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
+	var _map = __webpack_require__(10);
 
 	var _map2 = _interopRequireDefault(_map);
 
-	var _search = __webpack_require__(10);
+	var _search = __webpack_require__(11);
 
 	var _search2 = _interopRequireDefault(_search);
 
-	var _deepzoom = __webpack_require__(!(function webpackMissingModule() { var e = new Error("Cannot find module \"./deepzoom.js\""); e.code = 'MODULE_NOT_FOUND'; throw e; }()));
+	var _deepzoom = __webpack_require__(13);
 
 	var _deepzoom2 = _interopRequireDefault(_deepzoom);
 
@@ -28137,9 +28137,113 @@
 	  value: true
 	});
 
+	var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }(); /* eslint-disable no-multi-spaces  */
+
+	var _leaflet = __webpack_require__(6);
+
+	var _leaflet2 = _interopRequireDefault(_leaflet);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+	var Map = function () {
+	  function Map() {
+	    _classCallCheck(this, Map);
+
+	    this.map = {};
+	    this.el = 'js-map';
+	    this.defaultZoom = 6;
+	    this.maxZoom = 12;
+	    this.minZoom = 5;
+	    this.ctr = this.readCoordinates();
+	    this.tiles = 'https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=';
+	    this.token = 'pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ';
+	    this.attr = 'Tiles \xA9 <a href="http://mapbox.com/" target="_blank" tabindex="-1">MapBox</a>\n                 | Tiles and Data \xA9 2013 <a href="http://www.awmc.unc.edu" target="_blank" tabindex="-1">AWMC</a>\n                 <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank" tabindex="-1">CC-BY-NC 3.0</a>';
+	    this.geojsonPath = $('#' + this.el).data('geojson');
+	    this.setup();
+	    this.addTiles();
+
+	    if (this.geojsonPath) {
+	      this.addData();
+	    }
+
+	    // Handle location hash, if any
+	    if (window.location.hash.slice(1, 4) === 'loc') {
+	      this.zoomToHash();
+	    }
+	  }
+
+	  _createClass(Map, [{
+	    key: 'readCoordinates',
+	    value: function readCoordinates() {
+	      return [$('#' + this.el).data('lat'), $('#' + this.el).data('long')];
+	    }
+	  }, {
+	    key: 'setup',
+	    value: function setup() {
+	      this.map = _leaflet2.default.map(this.el, {
+	        // options
+	        maxZoom: this.maxZoom,
+	        minZoom: this.minZoom
+	      }).setView(this.ctr, this.defaultZoom);
+	    }
+	  }, {
+	    key: 'addTiles',
+	    value: function addTiles() {
+	      _leaflet2.default.tileLayer(this.tiles + this.token, {
+	        // options
+	        attribution: this.attr
+	      }).addTo(this.map);
+	    }
+	  }, {
+	    key: 'addData',
+	    value: function addData() {
+	      var _this = this;
+
+	      // get the JSON
+	      $.getJSON('/' + this.geojsonPath + '.json', function (json) {
+	        // Add it to the map
+	        _leaflet2.default.geoJson(json, {
+	          // Break these out into separate functions if necessary
+	          pointToLayer: function pointToLayer(feature, latlng) {
+	            return _leaflet2.default.circleMarker(latlng, {
+	              radius: 8,
+	              fillColor: '#333',
+	              color: '#000',
+	              weight: 1,
+	              opacity: 1,
+	              fillOpacity: 0.75
+	            });
+	          },
+	          onEachFeature: function onEachFeature(feature, layer) {
+	            var options = { minWidth: 100, maxHeight: 250 };
+	            layer.bindPopup(feature.properties.description, options);
+	          }
+	        }).addTo(_this.map);
+	      });
+	    }
+	  }]);
+
+	  return Map;
+	}();
+
+	exports.default = Map;
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(4)))
+
+/***/ }),
+/* 11 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function($) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
 	var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-	var _lunr = __webpack_require__(11);
+	var _lunr = __webpack_require__(12);
 
 	var _lunr2 = _interopRequireDefault(_lunr);
 
@@ -28201,7 +28305,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(4)))
 
 /***/ }),
-/* 11 */
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
@@ -30278,6 +30382,110 @@
 	  }))
 	})();
 
+
+/***/ }),
+/* 13 */
+/***/ (function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function($) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }(); /* eslint-disable no-multi-spaces  */
+
+	var _leaflet = __webpack_require__(6);
+
+	var _leaflet2 = _interopRequireDefault(_leaflet);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+	var Map = function () {
+	  function Map() {
+	    _classCallCheck(this, Map);
+
+	    this.map = {};
+	    this.el = 'js-map';
+	    this.defaultZoom = 6;
+	    this.maxZoom = 12;
+	    this.minZoom = 5;
+	    this.ctr = this.readCoordinates();
+	    this.tiles = 'https://api.mapbox.com/v4/isawnyu.map-knmctlkh/{z}/{x}/{y}.png?access_token=';
+	    this.token = 'pk.eyJ1IjoiZWdhcmRuZXIiLCJhIjoiN2IyMmRlMTc0YTAwMzRjYWVhMzI5ZGY1YmViMGVkZTEifQ._576KIFjJ0S_dRHcdM2BmQ';
+	    this.attr = 'Tiles \xA9 <a href="http://mapbox.com/" target="_blank" tabindex="-1">MapBox</a>\n                 | Tiles and Data \xA9 2013 <a href="http://www.awmc.unc.edu" target="_blank" tabindex="-1">AWMC</a>\n                 <a href="http://creativecommons.org/licenses/by-nc/3.0/deed.en_US" target="_blank" tabindex="-1">CC-BY-NC 3.0</a>';
+	    this.geojsonPath = $('#' + this.el).data('geojson');
+	    this.setup();
+	    this.addTiles();
+
+	    if (this.geojsonPath) {
+	      this.addData();
+	    }
+
+	    // Handle location hash, if any
+	    if (window.location.hash.slice(1, 4) === 'loc') {
+	      this.zoomToHash();
+	    }
+	  }
+
+	  _createClass(Map, [{
+	    key: 'readCoordinates',
+	    value: function readCoordinates() {
+	      return [$('#' + this.el).data('lat'), $('#' + this.el).data('long')];
+	    }
+	  }, {
+	    key: 'setup',
+	    value: function setup() {
+	      this.map = _leaflet2.default.map(this.el, {
+	        // options
+	        maxZoom: this.maxZoom,
+	        minZoom: this.minZoom
+	      }).setView(this.ctr, this.defaultZoom);
+	    }
+	  }, {
+	    key: 'addTiles',
+	    value: function addTiles() {
+	      _leaflet2.default.tileLayer(this.tiles + this.token, {
+	        // options
+	        attribution: this.attr
+	      }).addTo(this.map);
+	    }
+	  }, {
+	    key: 'addData',
+	    value: function addData() {
+	      var _this = this;
+
+	      // get the JSON
+	      $.getJSON('/' + this.geojsonPath + '.json', function (json) {
+	        // Add it to the map
+	        _leaflet2.default.geoJson(json, {
+	          // Break these out into separate functions if necessary
+	          pointToLayer: function pointToLayer(feature, latlng) {
+	            return _leaflet2.default.circleMarker(latlng, {
+	              radius: 8,
+	              fillColor: '#333',
+	              color: '#000',
+	              weight: 1,
+	              opacity: 1,
+	              fillOpacity: 0.75
+	            });
+	          },
+	          onEachFeature: function onEachFeature(feature, layer) {
+	            var options = { minWidth: 100, maxHeight: 250 };
+	            layer.bindPopup(feature.properties.description, options);
+	          }
+	        }).addTo(_this.map);
+	      });
+	    }
+	  }]);
+
+	  return Map;
+	}();
+
+	exports.default = Map;
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(4)))
 
 /***/ })
 /******/ ]);

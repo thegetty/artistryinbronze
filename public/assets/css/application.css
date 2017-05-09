@@ -766,6 +766,27 @@ sup {
   .quire-baseof.quire-cover .quire-nav-group {
     background-color: transparent; }
 
+h4 {
+  margin-bottom: 0; }
+
+h4 + pre {
+  margin-top: 0; }
+
+pre {
+  white-space: pre-wrap;
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */ }
+
+code {
+  color: #995326; }
+
 .quire-nav {
   font-size: 0.85rem;
   font-weight: 400; }
@@ -817,6 +838,8 @@ sup {
     font-size: 85%;
     color: #995326;
     line-height: 2.3rem; }
+    .quire-menu__inner__header .quire-title a {
+      font-weight: 700; }
   .quire-menu__inner__header .quire-subtitle,
   .quire-menu__inner__header .quire-reading-line {
     display: block;
@@ -841,13 +864,13 @@ sup {
       display: block; }
   .quire-menu__inner__contents .quire-contents {
     list-style-type: none;
-    padding-left: 1rem; }
+    margin-left: 2rem;
+    padding-left: 0; }
     .quire-menu__inner__contents .quire-contents li {
       padding-top: 0.25rem;
       padding-bottom: 0.25rem; }
     .quire-menu__inner__contents .quire-contents__section {
-      text-transform: uppercase;
-      margin-left: 1rem; }
+      text-transform: uppercase; }
   .quire-menu__inner__links {
     border-top: 1px solid #b2b2b2;
     border-bottom: 1px solid #b2b2b2;
@@ -919,7 +942,7 @@ sup {
       padding-top: 1rem; }
 
 .quire-cover__background {
-  background-image: url("/artistryinbronze/figures/cover_bg.jpg");
+  background-image: url("/figures/cover_bg.jpg");
   background-position: right center;
   background-size: cover;
   display: flex;
@@ -992,6 +1015,10 @@ sup {
       font-family: "Lato", sans-serif;
       font-style: italic;
       color: #b2b2b2; }
+    .quire-page__header__page-navigation {
+      font-size: 0.85rem;
+      line-height: 1.6em;
+      text-indent: 0; }
   .quire-page__content, .quire-page__section-list {
     max-width: 40rem;
     margin: 0 auto; }
@@ -1006,6 +1033,8 @@ sup {
     .quire-page__content__main h5 + p,
     .quire-page__content__main h6 + p,
     .quire-page__content__main p:first-child {
+      text-indent: 0; }
+    .quire-page__content__main blockquote > p {
       text-indent: 0; }
     .quire-page__content__main .attribution {
       font-style: italic;
@@ -1093,8 +1122,8 @@ sup {
 
 .q-figure {
   width: calc(100% - ($base-spacing * 6));
-  margin-bottom: 1rem;
-  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
   margin-right: 3rem;
   margin-left: 3rem; }
   .q-figure.q-float-left {
@@ -1117,12 +1146,38 @@ sup {
     width: 14%;
     margin-left: 43%;
     margin-right: 43%; }
+  .q-figure.q-figure-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap; }
+    .q-figure.q-figure-grid.q-grid-top {
+      align-items: flex-start; }
+    .q-figure.q-figure-grid.q-grid-bottom {
+      align-items: flex-end; }
+    .q-figure.q-figure-grid .q-figure__inner-figure {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem; }
+    .q-figure.q-figure-grid .q-figure__inner-figure + figcaption {
+      margin-top: -0.4rem;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem; }
   .q-figure img {
+    display: block;
     width: 100%; }
   .q-figure figcaption {
     font-size: 0.85rem;
     line-height: 1.3rem;
     font-weight: 300;
     margin-top: 0.5rem; }
+  .q-figure__inner-figure {
+    margin-bottom: 1rem;
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0; }
+  .q-figure__wrapper .q-figure-label {
+    font-size: 0.85rem;
+    margin-top: -.25rem;
+    display: block; }
   .q-figure .q-figure-label {
-    font-weight: bold; }
+    font-weight: 400; }

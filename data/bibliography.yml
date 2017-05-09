@@ -824,7 +824,7 @@ biblio_list:
     full: "Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109."
     reference_for: "7"
 
-  - short: *Antichità* 1771
+  - short: Antichità 1771
     full: "Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia."
     reference_for: "7"
 
@@ -1252,7 +1252,7 @@ biblio_list:
     full: "Borbein, A. H. 1996. “Polykleitos.” In *Personal Styles in Greek Sculpture*, ed. O. Palagia and J. J. Pollitt, 66–90. Cambridge: Cambridge University Press."
     reference_for: "10"
 
-  - short: *DNO*
+  - short: <em>DNO</em>
     full: "*Der Neue Overbeck (DNO): Die antiken Schriftquellen zu den bildenden Künsten der Griechen*, ed. S. Kansteiner et al. 5 vols. Berlin: De Gruyter."
     reference_for: "10"
 
@@ -2297,7 +2297,7 @@ biblio_list:
     reference_for: "18"
 
   - short: Bertrandy et al. 2005
-    full: "Bertrandy, F., F. Kayser, A. Pelletier, B. Rémy, and F. Wiblé. 2005. *Inscriptions latines de Narbonnaise (ILN)*. Vol. 5.3: *Vienne*. Gallia, Suppl. 44. Paris: CNRS.
+    full: "Bertrandy, F., F. Kayser, A. Pelletier, B. Rémy, and F. Wiblé. 2005. *Inscriptions latines de Narbonnaise (ILN)*. Vol. 5.3: *Vienne*. Gallia, Suppl. 44. Paris: CNRS."
     reference_for: "18"
 
   - short: Billoret 1970
@@ -2980,7 +2980,7 @@ biblio_list:
     full: "Christie’s 2012. *Antiquities*. Auction catalogue 4925. April 26, 2012, London."
     reference_for: "23"
 
-  - short: *CIS*
+  - short: <em>CIS</em>
     full: "*Corpus Inscriptionum Semiticarum*. [1926] 1947. Part 2, vol. 3: *Inscriptiones Palmyrenae*, ed. J. B. Chabot. Paris: C. Klincksieck."
     reference_for: "23"
 
@@ -3525,7 +3525,8 @@ biblio_list:
     reference_for: "26"
 
   - short: Reeder 1976
-    full: Reeder, E. D. 1976. “Ancient Clay Impressions from Greek Metalwork.” *Hesperia* 45: 41–66.
+    full: "Reeder, E. D. 1976. “Ancient Clay Impressions from Greek Metalwork.” *Hesperia* 45: 41–66."
+    reference_for: "26"
 
   - short: Reeder 1999
     full: "Reeder, E. D. 1999. *Scythian Gold: Treasures from Ancient Ukraine*. New York: Harry N. Abrams."
@@ -3763,7 +3764,7 @@ biblio_list:
     full: "Colledge, M. A. R. 1976. *The Art of Palmyra*. London: Thames and Hudson."
     reference_for: "28"
 
-  - short: *Die Thraker* 2004
+  - short: <em>Die Thraker</em> 2004
     full: "*Die Thraker: Das goldene Reich des Orpheus*. Exh. cat. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: Zabern."
     reference_for: "28"
 
@@ -3967,7 +3968,7 @@ biblio_list:
     full: "Ettinghausen, R., O. Grabar, and M. Jenkins-Madina. 2001. *Islamic Art and Architecture, 650–1250*. 2nd ed. New Haven and London: Yale University Press."
     reference_for: "29"
 
-  - short; Fehérvari 1976
+  - short: Fehérvari 1976
     full: "Fehérvari, G. 1976. *Islamic Metalware of the Eighth to the Fifteenth Century in the Keir Collection.* London: Faber and Faber."
     reference_for: "29"
 
@@ -4272,7 +4273,7 @@ biblio_list:
     reference_for: "31"
 
   - short: Zieling and Leih 2004
-    full: "Zieling, N., and S. Leih 2004. “Rheinisches Amt für Bodendenkmalpflege\ Ausgrabungen, Funde und Befunde 2001 und 2002.” *BJb* 204: 273–357."
+    full: "Zieling, N., and S. Leih 2004. “Rheinisches Amt für Bodendenkmalpflege Ausgrabungen, Funde und Befunde 2001 und 2002.” *BJb* 204: 273–357."
     reference_for: "31"
 
   - short: Bessios 1985
@@ -4371,7 +4372,7 @@ biblio_list:
     full: "Nazo, A. 2003. *I bronzi Etruschi e Italici del Römisch-Germanisches Zentralmuseum*. Mainz: Römisch-Germanisches Zentralmuseum."
     reference_for: "33"
 
-  - short: *Antiken* 2011
+  - short: <em>Antiken</em> 2011
     full: "*Antiken*. 2011. Gerhard Hirsch Nachfolger, auction catalog 274. September 20‒21, 2011, Munich."
     reference_for: "34"
 
@@ -4443,7 +4444,7 @@ biblio_list:
     full: "Knauß, F. S., ed. 2012. *Die Unsterblichen Götter Griechenlands*. Exh. cat. Munich: Staatliche Antikensammlungen und Glyptothek."
     reference_for: "34"
 
-  - short: *Kunstobjekte der Antike* 2002
+  - short: <em>Kunstobjekte der Antike</em> 2002
     full: "*Kunstobjekte der Antike*. 2002. Gorny & Mosch, auction catalog 119. October 16, 2002, Munich."
     reference_for: "34"
 
@@ -4738,7 +4739,7 @@ biblio_list:
 
   - short: Ioakimoglou et al. 1999
     full: "Ioakimoglou, E., S. Boyatzis, P. Argitis, A. Fostiridou, K. Papapanagiotou, and N. Yannovits. 1999. “Thin-Film Study on the Oxidation of Linseed Oil in the Presence of Selected Copper Pigments.” *Chemistry of Materials* 11(8): 2013–22."
-    reference_for: "37" 
+    reference_for: "37"
 
   - short: Lazzari and Chiantore 2000
     full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” *Polymer* 41(17): 6447–55."
@@ -5360,7 +5361,7 @@ biblio_list:
     full: "Trentelman, K., M. Bouchard, M. Ganio, C. Namowicz, C. Schmidt Patterson, and M. Walton. 2010. “The Examination of Works of Art Using *in situ* XRF Line and Area Scans.” *X-Ray Spectrometry* 39: 159–66."
     reference_for: "46"
 
-  - short: *Ancient Art* 1954
+  - short: <em>Ancient Art</em> 1954
     full: "*Ancient Art in American Private Collections*. 1954. Exh. cat. Cambridge (MA): Fogg Art Museum."
     reference_for: "47"
 
