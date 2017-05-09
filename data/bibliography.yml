@@ -985,7 +985,7 @@ biblio_list:
     reference_for: "8"
 
   - short: Melillo 2013
-    full: "Melillo, L. 2013. “The Ephebe from the Via dell’Abbondanza: History of a Restoration.” In *The Restoration of Ancient Bronzes: Naples and Beyond*, ed. E. Risser and D. Saunders, 57–63. [www.getty.edu/museum/symposia/restoring\_bronzes/index.html](http://www.getty.edu/museum/symposia/restoring_bronzes/index.html)."
+    full: "Melillo, L. 2013. “The Ephebe from the Via dell’Abbondanza: History of a Restoration.” In *The Restoration of Ancient Bronzes: Naples and Beyond*, ed. E. Risser and D. Saunders, 57–63. [http://www.getty.edu/museum/symposia/restoring_bronzes/index.html](http://www.getty.edu/museum/symposia/restoring_bronzes/index.html)."
     reference_for: "8"
 
   - short: Pappalardo 2016
@@ -3895,116 +3895,1575 @@ biblio_list:
     full: "Ainé, H. R. 1870. *Herculanum et Pompéi: Recueil général des peitures, bronzes, mosaiques, etc*. Vol. 12. Paris: Librairie de Firmin-Didot."
     reference_for: "29"
 
-Allan 1985
-: Allan, J. W. 1985. “Concave or Convex? The Sources of Jaziran and Syrian Metalwork in the 13th Century.” In *The Art of Syria and the Jazīra 1100–1250*, ed. J. Raby, 126–40. Oxford and New York: Oxford University Press.
+  - short: Allan 1985
+    full: "Allan, J. W. 1985. “Concave or Convex? The Sources of Jaziran and Syrian Metalwork in the 13th Century.” In *The Art of Syria and the Jazīra 1100–1250*, ed. J. Raby, 126–40. Oxford and New York: Oxford University Press."
+    reference_for: "29"
 
-Baer 1983
-: Baer, E. 1983. *Metalwork in Medieval Islamic Art*. Albany: State University Press of New York.
+  - short: Baer 1983
+    full: "Baer, E. 1983. *Metalwork in Medieval Islamic Art*. Albany: State University Press of New York."
+    reference_for: "29"
 
-Bailey 1996
-: Bailey, D. M. 1996. *A Catalogue of the Lamps in the British Museum.* Vol. 4: *Lamps of Metal and Stone and Lampstands*. London: The Trustees of the British Museum.
+  - short: Bailey 1996
+    full: "Bailey, D. M. 1996. *A Catalogue of the Lamps in the British Museum.* Vol. 4: *Lamps of Metal and Stone and Lampstands*. London: The Trustees of the British Museum."
+    reference_for: "29"
 
-Bel 1995
-: Bel, A. 1995. s.v. “Sā‘.” *Encyclopaedia of Islam* 7: 654. 2nd ed. Leiden: Brill.
+  - short: Bel 1995
+    full: "Bel, A. 1995. s.v. “Sā‘.” *Encyclopaedia of Islam* 7: 654. 2nd ed. Leiden: Brill."
+    reference_for: "29"
 
-Bénazeth 2008
-: Bénazeth, D. 2008. *Catalogue général du Musée copte du Caire*. Vol. 1: *Objets en metal*. Cairo: Institut français d’archéologique orientale.
+  - short: Bénazeth 2008
+    full: "Bénazeth, D. 2008. *Catalogue général du Musée copte du Caire*. Vol. 1: *Objets en metal*. Cairo: Institut français d’archéologique orientale."
+    reference_for: "29"
 
-Bijovsky and Berman 2008
-: Bijovsky, G., and A. Berman. 2008. “The Coins.” In *Tiberias: Excavations in the House of the Bronzes.* Vol. 1: *Architecture, Stratigraphy, and Small Finds*, ed. Y. Hirschfeld, and O. Gutfeld, 63–105. Qedem 48. Jerusalem: Hebrew University of Jerusalem.
+  - short: Bijovsky and Berman 2008
+    full: "Bijovsky, G., and A. Berman. 2008. “The Coins.” In *Tiberias: Excavations in the House of the Bronzes.* Vol. 1: *Architecture, Stratigraphy, and Small Finds*, ed. Y. Hirschfeld, and O. Gutfeld, 63–105. Qedem 48. Jerusalem: Hebrew University of Jerusalem."
+    reference_for: "29"
 
-Bloom 2007
-: Bloom, J. M. 2007. *Arts of the City Victorious: Islamic Art and Architecture in Fatimid North Africa and Egypt.* New Haven and London: Yale University Press.
+  - short: Bloom 2007
+    full: "Bloom, J. M. 2007. *Arts of the City Victorious: Islamic Art and Architecture in Fatimid North Africa and Egypt.* New Haven and London: Yale University Press."
+    reference_for: "29"
 
-Bloom and Blair 1997
-: Bloom, J. M., and S. Blair. 1997. *Islamic Arts*. London: Phaidon.
+  - short: Bloom and Blair 1997
+    full: "Bloom, J. M., and S. Blair. 1997. *Islamic Arts*. London: Phaidon."
+    reference_for: "29"
 
-Brend 1991
-: Brend, B. 1991. *Islamic Art*. Cambridge (MA): Harvard University Press.
+  - short: Brend 1991
+    full: "Brend, B. 1991. *Islamic Art*. Cambridge (MA): Harvard University Press."
+    reference_for: "29"
 
-Canard 1965
-: Canard, M. 1965. s.v. “Fātimids.” *Encyclopaedia of Islam* 2: 850–52. 2nd ed. Leiden: Brill.
+  - short: Canard 1965
+    full: "Canard, M. 1965. s.v. “Fātimids.” *Encyclopaedia of Islam* 2: 850–52. 2nd ed. Leiden: Brill."
+    reference_for: "29"
 
-Contadini 1998
-: Contadini A. 1998. *Fatimid Art at the Victoria and Albert Museum*. London: V&A Publications.
+  - short: Contadini 1998
+    full: "Contadini A. 1998. *Fatimid Art at the Victoria and Albert Museum*. London: V&A Publications."
+    reference_for: "29"
 
-Davidson 1952
-: Davidson, G. R. 1952. *Corinth.* Vol. 12: *The Minor Objects*. Princeton (NJ): The American School of Classical Studies at Athens.
+  - short: Davidson 1952
+    full: "Davidson, G. R. 1952. *Corinth.* Vol. 12: *The Minor Objects*. Princeton (NJ): The American School of Classical Studies at Athens."
+    reference_for: "29"
 
-Dayagi-Mendels and Rosenberg 2010
-: Dayagi-Mendels, M., and S. Rozenberg. 2010. *Chronicles of the Land: Archaeology in the Israel Museum Jerusalem*. Jerusalem: The Israel Museum.
+  - short: Dayagi-Mendels and Rosenberg 2010
+    full: "Dayagi-Mendels, M., and S. Rozenberg. 2010. *Chronicles of the Land: Archaeology in the Israel Museum Jerusalem*. Jerusalem: The Israel Museum."
+    reference_for: "29"
 
-Dimand 1944
-: Dimand, M. S. 1944. *A Handbook of Muhammadan Art*. New York: Hartsdale House.
+  - short: Dimand 1944
+    full: "Dimand, M. S. 1944. *A Handbook of Muhammadan Art*. New York: Hartsdale House."
+    reference_for: "29"
 
-Enderlein 2003
-: Enderlein, V. 2003. *Museum of Islamic Art: State Museums of Berlin, Prussian Cultural Property.* Translated by R. H. Barnes. Mainz: Philipp von Zabern.
+  - short: Enderlein 2003
+    full: "Enderlein, V. 2003. *Museum of Islamic Art: State Museums of Berlin, Prussian Cultural Property.* Translated by R. H. Barnes. Mainz: Philipp von Zabern."
+    reference_for: "29"
 
-Ettinghausen 1943
-: Ettinghausen, R. 1943. “The Bobrinski ‘Kettle’: Patron and Style of an Islamic Bronze.” *Gazette des Beaux Arts* 24: 193–208.
+  - short: Ettinghausen 1943
+    full: "Ettinghausen, R. 1943. “The Bobrinski ‘Kettle’: Patron and Style of an Islamic Bronze.” *Gazette des Beaux Arts* 24: 193–208."
+    reference_for: "29"
 
-Ettinghausen and Grabar 1987
-: Ettinghausen, R., and O. Grabar. 1987. *The Art and Architecture of Islam, 650–1250*. Pelican History of Art. Harmondsworth, Middlesex (UK) and New York: Penguin.
+  - short: Ettinghausen and Grabar 1987
+    full: "Ettinghausen, R., and O. Grabar. 1987. *The Art and Architecture of Islam, 650–1250*. Pelican History of Art. Harmondsworth, Middlesex (UK) and New York: Penguin."
+    reference_for: "29"
 
-Ettinghausen, Grabar, and Jenkins-Madina 2001
-: Ettinghausen, R., O. Grabar, and M. Jenkins-Madina. 2001. *Islamic Art and Architecture, 650–1250*. 2nd ed. New Haven and London: Yale University Press.
+  - short: Ettinghausen, Grabar, and Jenkins-Madina 2001
+    full: "Ettinghausen, R., O. Grabar, and M. Jenkins-Madina. 2001. *Islamic Art and Architecture, 650–1250*. 2nd ed. New Haven and London: Yale University Press."
+    reference_for: "29"
 
-Fehérvari 1976
-: Fehérvari, G. 1976. *Islamic Metalware of the Eighth to the Fifteenth Century in the Keir Collection.* London: Faber and Faber.
+  - short; Fehérvari 1976
+    full: "Fehérvari, G. 1976. *Islamic Metalware of the Eighth to the Fifteenth Century in the Keir Collection.* London: Faber and Faber."
+    reference_for: "29"
 
-Gil 1983
-: Gil, M. 1983. *Palestine during the First Muslim Period (634–1099)* (in Hebrew). Tel Aviv: Tel Aviv University and the Ministry of Defense.
+  - short: Gil 1983
+    full: "Gil, M. 1983. *Palestine during the First Muslim Period (634–1099)* (in Hebrew). Tel Aviv: Tel Aviv University and the Ministry of Defense."
+    reference_for: "29"
 
-Goitein 1983
-: Goitein, S. D. 1983. *A Mediterranean Society: The Jewish Communities of the Arab World as Portrayed in the Documents of the Cairo Geniza*. Vol. 4, *Daily Life*. Berkeley (CA): University of California Press.
+  - short: Goitein 1983
+    full: "Goitein, S. D. 1983. *A Mediterranean Society: The Jewish Communities of the Arab World as Portrayed in the Documents of the Cairo Geniza*. Vol. 4, *Daily Life*. Berkeley (CA): University of California Press."
+    reference_for: "29"
 
-Hayes 1984
-: Hayes, J. W. 1984. *Greek, Roman, and Related Metalware in the Royal Ontario Museum: A Catalogue*. Toronto: Royal Ontario Museum.
+  - short: Hayes 1984
+    full: "Hayes, J. W. 1984. *Greek, Roman, and Related Metalware in the Royal Ontario Museum: A Catalogue*. Toronto: Royal Ontario Museum."
+    reference_for: "29"
 
-Hillenbrand, R. 1999
-: Hillenbrand, R. 1999. *Islamic Art and Architecture.* London: Thames and Hudson.
+  - short: Hillenbrand, R. 1999
+    full: "Hillenbrand, R. 1999. *Islamic Art and Architecture.* London: Thames and Hudson."
+    reference_for: "29"
 
-Institut du monde arabe 1998
-: Institut du monde arabe. 1998. *Trésors fātimides du Caire.* Exh. cat. Paris: Institut du monde arabe.
+  - short: Institut du monde arabe 1998
+    full: "Institut du monde arabe. 1998. *Trésors fātimides du Caire.* Exh. cat. Paris: Institut du monde arabe."
+    reference_for: "29"
 
-Irwin 1997
-: Irwin, R. 1997. *Islamic Art*. London: Laurence King.
+  - short: Irwin 1997
+    full: "Irwin, R. 1997. *Islamic Art*. London: Laurence King."
+    reference_for: "29"
 
-Jones and Mitchell 1976
-: Jones, D., and G. Mitchell, eds. 1976. *The Arts of Islam*. Exh. cat. London, Hayward Gallery. London: Arts Council of Great Britain.
+  - short: Jones and Mitchell 1976
+    full: "Jones, D., and G. Mitchell, eds. 1976. *The Arts of Islam*. Exh. cat. London, Hayward Gallery. London: Arts Council of Great Britain."
+    reference_for: "29"
 
-Khamis 2013
-: Khamis, E. 2013. *Tiberias: Excavations in the House of the Bronzes*. Vol. 2: *The Fatimid Metalwork Hoard from Tiberias*. Qedem 55. Jerusalem: Hebrew University of Jerusalem.
+  - short: Khamis 2013
+    full: "Khamis, E. 2013. *Tiberias: Excavations in the House of the Bronzes*. Vol. 2: *The Fatimid Metalwork Hoard from Tiberias*. Qedem 55. Jerusalem: Hebrew University of Jerusalem."
+    reference_for: "29"
 
-Lester 2011
-: Lester, A. 2011. “Typological and Stylistic Aspects of Metalware of the Fatimid Period” (Hebrew with an abstract in English). 2 vols. Ph.D. thesis. University of Haifa.
+  - short: Lester 2011
+    full: "Lester, A. 2011. “Typological and Stylistic Aspects of Metalware of the Fatimid Period” (Hebrew with an abstract in English). 2 vols. Ph.D. thesis. University of Haifa."
+    reference_for: "29"
 
-Lester 2014
-: Lester, A. 2014. “Reconsidering Fatimid Metalware.” *Proceedings of the 8th International Congress on the Archaeology of the Ancient Near East, Warsaw 2012*, ed. Piotr Bieliński et al., 437–54. Wiesbaden: Harrassowitz.
+  - short: Lester 2014
+    full: "Lester, A. 2014. “Reconsidering Fatimid Metalware.” *Proceedings of the 8th International Congress on the Archaeology of the Ancient Near East, Warsaw 2012*, ed. Piotr Bieliński et al., 437–54. Wiesbaden: Harrassowitz."
+    reference_for: "29"
 
-Melikian-Chirvani 1982
-: Melikian-Chirvani, A. S. 1982. *Islamic Metalwork from the Iranian World: 8th–18th Centuries*. Victoria and Albert Museum Catalogue. London: HMSO.
+  - short: Melikian-Chirvani 1982
+    full: "Melikian-Chirvani, A. S. 1982. *Islamic Metalwork from the Iranian World: 8th–18th Centuries*. Victoria and Albert Museum Catalogue. London: HMSO."
+    reference_for: "29"
 
-Pieraccini 2003
-: Pieraccini, L. C. 2003. *Around the Hearth: Caeretan Cylinder-stamped Braziers*. Rome: L’Erma di Bretschneider.
+  - short: Pieraccini 2003
+    full: "Pieraccini, L. C. 2003. *Around the Hearth: Caeretan Cylinder-stamped Braziers*. Rome: L’Erma di Bretschneider."
+    reference_for: "29"
 
-Rosenthal-Heginbottom 1981
-: Rosenthal-Heginbottom, R. 1981. “Notes on Hellenistic Braziers from Tel-Dor.” *Qadmoniot* 55/56: 110–11.
+  - short: Rosenthal-Heginbottom 1981
+    full: "Rosenthal-Heginbottom, R. 1981. “Notes on Hellenistic Braziers from Tel-Dor.” *Qadmoniot* 55/56: 110–11."
+    reference_for: "29"
 
-Ross 1962
-: Ross, M. C. 1962. *Catalogue of the Byzantine and Early Medieval Antiquities in the Dumbarton Oaks Collection.* Vol. 1: *Metalwork, Ceramics, Glyptics, Painting*. Washington, DC: Dumberton Oaks Research Library and Collection.
+  - short: Ross 1962
+    full: "Ross, M. C. 1962. *Catalogue of the Byzantine and Early Medieval Antiquities in the Dumbarton Oaks Collection.* Vol. 1: *Metalwork, Ceramics, Glyptics, Painting*. Washington, DC: Dumberton Oaks Research Library and Collection."
+    reference_for: "29"
 
-Seipel 1998
-: Seipel W. 1998. *Schätze der Kalifen: Islamische Kunst zur Fatimidenzeit*. Exh. cat. Vienna, Kunsthistorisches Museum*.*
+  - short: Seipel 1998
+    full: "Seipel W. 1998. *Schätze der Kalifen: Islamische Kunst zur Fatimidenzeit*. Exh. cat. Vienna, Kunsthistorisches Museum."
+    reference_for: "29"
 
-Tassinari 1993
-: Tassinari, S. 1993. *Il vasellame bronzeo di Pompei*. 2 vols. Rome: L’Erma di Bretschneider.
+  - short: Tassinari 1993
+    full: "Tassinari, S. 1993. *Il vasellame bronzeo di Pompei*. 2 vols. Rome: L’Erma di Bretschneider."
+    reference_for: "29"
 
-Ward 1993
-: Ward, R. 1993. *Islamic Metalwork*. London: British Museum.
+  - short: Ward 1993
+    full: "Ward, R. 1993. *Islamic Metalwork*. London: British Museum."
+    reference_for: "29"
 
-Weitzmann and Frazer 1979
-: Weitzmann, K., and M. E. Frazer. 1979. *Age of Spirituality: Late Antique and Early Christian Art, Third to Seventh Century*. Exh. cat. New York, Metropolitan Museum of Art.
+  - short: Weitzmann and Frazer 1979
+    full: "Weitzmann, K., and M. E. Frazer. 1979. *Age of Spirituality: Late Antique and Early Christian Art, Third to Seventh Century*. Exh. cat. New York, Metropolitan Museum of Art."
+    reference_for: "29"
 
-Wulff 1909
-: Wulff, O. 1909. *Altchristliche und mittelalterliche byzantinische und italienische Bildwerke*. Part 1: *Altchristliche Bildwerke*. 2 vols. Berlin: Reimer.
+  - short: Wulff 1909
+    full: "Wulff, O. 1909. *Altchristliche und mittelalterliche byzantinische und italienische Bildwerke*. Part 1: *Altchristliche Bildwerke*. 2 vols. Berlin: Reimer."
+    reference_for: "29"
+
+  - short: Betancourt 1979
+    full: "Betancourt, P. P. 1979. “The Pottery Chronology: A Brief Sketch.” In *Gournia, Crete: The 75th Anniversary of the Excavations* (Temple University Aegean Symposium 4), ed. P. Betancourt, 7–10. Philadelphia: Temple University."
+    reference_for: "30"
+
+  - short: Betancourt and Silverman 1991
+    full: "Betancourt, P. P, and J. S. Silverman. 1991. *The Cretan Collection in the University Museum, University of Pennsulvania*. Vol. 2: *Pottery from Gournia*. University Museum Monograph 72. Philadelphia: University Museum."
+    reference_for: "30"
+
+  - short: Betancourt et al. 1978
+    full: "Betancourt, P. P., T. S. Wheeler, R. Maddin, and J. D. Muhly. 1978. “Metallurgy at Gournia.” *MASCAJ* 1: 7–8."
+    reference_for: "30"
+
+  - short: Boardman 1961
+    full: "Boardman, J. 1961. *The Cretan Collection in Oxford: The Dictaean Cave and Iron Age Crete*. Oxford: Clarendon."
+    reference_for: "30"
+
+  - short: Boyd 1904
+    full: "Boyd, H. A. 1904. “Gournia: Report of the American Exploration Society’s Excavations at Gournia, Crete.” *Transactions, Department of Archaeology, University of Pennsylvania* 1.1: 7–44."
+    reference_for: "30"
+
+  - short: Boyd Hawes et al. 1908
+    full: "Boyd Hawes, H. A., B. E. Williams, R. B. Seager, and E. H. Hall. 1908. *Gournia, Vasiliki, and Other Prehistoric Sites on the Isthmus of Hierapetra, Crete: Excavations of the Wells-Houston-Cramp Expeditions, 1901, 1903, 1904*. Philadelphia: American Exploration Society, Free Museum of Science and Art."
+    reference_for: "30"
+
+  - short: Branigan 1974
+    full: "Branigan, K. 1974. *Aegean Metalwork of the Early and Middle Bronze Age*. Oxford: Clarendon."
+    reference_for: "30"
+
+  - short: Evans 1964
+    full: "Evans, A. 1964. *The Palace of Minos: A Comparative Account of the Successive Stages of the Early Cretan Civilization as Illustrated by the Discoveries at Knossos*. Vol. 3. New York: Biblo and Tannen."
+    reference_for: "30"
+
+  - short: Fotou 1993
+    full: "Fotou, V. 1993. *New Light on Gournia: Unknown Documents of the Excavation at Gournia and Other Sites on the Isthmus of Ierapetra*. Aegaeum 9. Liège: Université de Liège; Austin: University of Texas."
+    reference_for: "30"
+
+  - short: Hahn-Weinheimer, Hirner, and Weber-Diefenbach 1995
+    full: "Hahn-Weinheimer, P., A. Hirner, and K. Weber-Diefenbach. 1995. *Röntgenfluoreszenzanalytische Methoden: Grundlagen und praktische Anwendung in den Geo-, Material- und Umweltwissenschaften*. Braunschweig: Vieweg."
+    reference_for: "30"
+
+  - short: Lutz and Pernicka 1996
+    full: "Lutz, J., and E. Pernicka. 1996. “EDXRF Analysis of Ancient Copper Alloys.” *Archaeometry* 38.2: 313–23."
+    reference_for: "30"
+
+  - short: Soles and Davaras 2010
+    full: "Soles, J. S., and C. Davaras. 2010. “2010 Greek-American Excavations at Mochlos.” *Kentro: The Newsletter of the INSTAP Study Center for East Crete* 13: 1–3."
+    reference_for: "30"
+
+  - short: Vlachopoulos and Georma 2012
+    full: "Vlachopoulos, A., and F. Georma. 2012. “Jewellery and Adornment at Akrotiri, Thera: The Evidence from the Wall Paintings and the Finds.” In *Kosmos: Jewellery, Adornment and Textiles in the Aegean Bronze Age: Proceedings of the 13th International Aegean Conference, University of Copenhagen, Danish National Research Foundation’s Centre for Textile Research, 21–26 April 2010* (Aegaeum 33), ed. M.-L. Nosch and R. Laffineur, 35–42. Leuven and Liège: Peeters."
+    reference_for: "30"
+
+  - short: Amandry 1954
+    full: "Amandry, P. 1954. “Notes de topographie et d’architecture delphiques. IV. Le palmier de bronze de l’Eurymédon.” *BCH* 78: 295–315."
+    reference_for: "31"
+
+  - short: Bailey 1996
+    full: "Bailey, D. M. 1996. *A Catalogue of the Lamps in the British Museum.* Vol. 4: *Lamps of Metal and Stone and Lampstands*. London: The Trustees of the British Museum."
+    reference_for: "31"
+
+  - short: Beschi 1962
+    full: "Beschi, L. 1962. *I bronzetti romani di Montorio Veronese*. Venice: Istituto Veneto."
+    reference_for: "31"
+
+  - short: Beschi 1984
+    full: "Beschi, L. 1984. “Bronzi antichi da un naufragio alla Meloria di Livorno.” In *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen (Berlin 1980),* ed. U. Gehrig, 50–58. Berlin: Staatliche Museen Preussischer Kulturbesitz, Antikenmuseum."
+    reference_for: "31"
+
+  - short: Bieber 1963
+    full: "Bieber, M. 1963. “A Satyr in Pergamene Style in Kansas City.” *AJA* 67: 275–78."
+    reference_for: "31"
+
+  - short: Bol 1970
+    full: "Bol, P. C. 1970. “Die Herakles-Kentauren-Gruppe in Wien.” *AntP* 10: 81–90."
+    reference_for: "31"
+
+  - short: Bolla 2007
+    full: "Bolla, M. 2007. “Bronzi figurati romani dal veronese: un aggiornamento.” *NumAntCl* 36: 245–85."
+    reference_for: "31"
+
+  - short: Bolla 2015
+    full: "Bolla, M. 2015. “Arredi e oggetti vari del tempio di età imperiale.” In *Archeologia e storia sul Monte Castelon di Marano di Valpolicella*, ed. B. Bruno and G. Falezza, 271–92. Mantua: SAP Società Archeologica s.r.l."
+    reference_for: "31"
+
+  - short: Bommelaer and Laroche 1991
+    full: "Bommelaer, J. F., and D. Laroche. 1991. *Guide de Delphes: Le site*. Paris: École française d’Athènes."
+    reference_for: "31"
+
+  - short: Büttner 1962
+    full: "Büttner, A. 1962. “Figürlich verzierte Bronzen von Kastell Zugmantel.” *SaalbJb* 22: 62–75."
+    reference_for: "31"
+
+  - short: Calandra 2008
+    full: "Calandra, E. 2008. “L’occasione e l’eterno: la tenda di Tolomeo Filadelfo nei palazzi di Alessandria. 1. Materiali per la ricostruzione.” *Lanx* 1: 26–74. [http://riviste.unimi.it/index.php/lanx/index](http://riviste.unimi.it/index.php/lanx/index)."
+    reference_for: "31"
+
+  - short: Calandra 2009
+    full: "Calandra, E. 2009. “L’occasione e l’eterno: la tenda di Tolomeo Filadelfo nei palazzi di Alessandria. 2. Una proposta di ricostruzione.” *Lanx* 2: 1–77. [http://riviste.unimi.it/index.php/lanx/index](http://riviste.unimi.it/index.php/lanx/index)."
+    reference_for: "31"
+
+  - short: Calandra 2011
+    full: "Calandra, E. 2011. *The Ephemeral and the Eternal: The Pavilion of Ptolemy Philadelphos in the Court of Alexandria*. Athens: Scuola Archeologica Italiana di Atene."
+    reference_for: "31"
+
+  - short: Calandra 2015
+    full: "Calandra, E. 2015. “I giardini di Alessandria.” In Sena Chiesa and Pontrandolfo 2015, 256–64."
+    reference_for: "31"
+
+  - short: Carapanos 1878
+    full: "Carapanos, C. 1878. *Dodone et ses ruines*. 2 vols. Paris: Hachette."
+    reference_for: "31"
+
+  - short: Castoldi 2005
+    full: "Castoldi, M. 2005. “Cremona e l’*ager cremonensis*: elementi d’arredo in bronzo.” In Slavazzi 2005, 187–204."
+    reference_for: "31"
+
+  - short: Castoldi 2010
+    full: "Castoldi, M. 2010. “Gli arredi in bronzo della *domus* di Piazza Marconi a Cremona.” In *Arredi di lusso di età romana: Marmi e bronzi nelle case della Cisalpina: Atti della Giornata di Studi (Milano 2009*)*,* ed. F. Slavazzi (*Lanx* 6), 150–60. [http://riviste.unimi.it/index.php/lanx/index](http://riviste.unimi.it/index.php/lanx/index)."
+    reference_for: "31"
+
+  - short: Castoldi 2014
+    full: "Castoldi, M. 2014. *Alberi di bronzo: Piante in bronzo e in metalli preziosi nell’antica Grecia*. Bari: Edipuglia."
+    reference_for: "31"
+
+  - short: Clément and Dumoulin 2010
+    full: "Clément, N., and F. Dumoulin. 2010. “Deux nouveaux éléments de la statuaire antique d’ *Alba Helvorum* sorten de l’ombre.” *RANarb* 43: 331–38."
+    reference_for: "31"
+
+  - short: Courbin 1973
+    full: "Courbin, P. 1973. “Le colosse naxien et le palmier de Nicias.” *BCH* *Suppl* 1.1: 157–72."
+    reference_for: "31"
+
+  - short: Deimel 1987
+    full: "Deimel, M. 1987. *Die Bronzekleinfunde vom Magdalensberg*. Klagenfurt: Verlag des Landesmuseum für Kärnten."
+    reference_for: "31"
+
+  - short: Eichholz 1971
+    full: "Eichholz, D. E., ed. and trans. 1971. *Pliny, Natural History X: Libri XXXVI–XXXVII*. London: W. Heinemann Ltd.; Cambridge (MA): Harvard University Press."
+    reference_for: "31"
+
+  - short: Forrer 1927
+    full: "Forrer, R. 1927. *Strasbourg-Argentoratae: préhistorique, gallo-romain et mérovingien*. Strasbourg: Istra."
+    reference_for: "31"
+
+  - short: Gamba 2012
+    full: "Gamba, M. 2012. “Il Monte Summano: Un santuario sulle vie della transumanza.” In *La lana nella Cisalpina romana: Economia e società: Studi in onore di Stefania Pesavento Mattioli: Atti del Convegno (Padova-Verona 2011*), ed. M. S. Busana and P. Basso, 81–95. Padua: University Press."
+    reference_for: "31"
+
+  - short: Gentili 2013
+    full: "Gentili, G., ed. 2013. *Cleopatra: Roma e l’incantesimo dell’Egitto.* Exh. cat. Rome, Chiostro del Bramante. Milan: Skira."
+    reference_for: "31"
+
+  - short: Gerding 2006
+    full: "Gerding, H. 2006. “The Erechtheion and the Panathenaic Procession.” *AJA* 110: 389–401."
+    reference_for: "31"
+
+  - short: Giacobello 2005
+    full: "Giacobello, F. 2005. “Portalucerne romani in bronzo dall’Italia settentrionale.” In Slavazzi 2005, 119–30."
+    reference_for: "31"
+
+  - short: Giacobello, F. 2008
+    full: "Giacobello, F. 2008. *Larari pompeiani: Iconografia e culto dei Lari in ambito domestico*. Milan: LED Edizioni Universitarie di Lettere Economia Diritto."
+    reference_for: "31"
+
+  - short: Gschwantler 1986
+    full: "Gschwantler, K. 1986. *Guss + Form: Sonderausstellung: Bronzen aus der Antikensammlung*. Vienna: Kunsthistorisches Museum."
+    reference_for: "31"
+
+  - short: Kaufmann-Heinimann 1998
+    full: "Kaufmann-Heinimann, A. 1998. *Götter und Lararien aus Augusta Raurica: Herstellung, Fundzusammenhänge und sakrale Funktion figürlicher Bronzen in einer römischen Stadt*. Forschungen in Augst 26. Augts: Römermuseum."
+    reference_for: "31"
+
+  - short: Kaufmann-Heinimann 2002
+    full: "Kaufmann-Heinimann, A. 2002. *Dea Artio, die Bärengöttin von Muri: römische Bronzestatuetten aus einem ländlichen Heiligtum*. Zürich: Chronos; Bern: Bernisches Historisches Museum."
+    reference_for: "31"
+
+  - short: Kaufmann-Heinimann and Deschler-Erb 2013
+    full: "Kaufmann-Heinimann, A., and E. Deschler-Erb. 2013. *Göttlich, menschlich: Römische Bronzen der Schweiz*, ed. M. Bürge. Exh. cat. Zürich, Archaologisches Institut der Universität Zürich."
+    reference_for: "31"
+
+  - short: Kyrieleis 1988
+    full: "Kyrieleis, H. 1988. “Offerings of ‘the Common Man’ in the Heraion at Samos.” In *Early Greek Cult Practice:Proceedings of the Fifth International Symposium at the Swedish Institute at Athens, Athens 1986*, ed. R. Hägg, N. Marinatos, and G. C. Nordquist, 215–21. Stockholm and Göteborg: P. Åströms Förlag."
+    reference_for: "31"
+
+  - short: Kyrieleis 1993
+    full: "Kyrieleis, H. 1993. “The Heraion at Samos.” In *Greek Sanctuaries: New Approaches*, ed. N. Marinatos and R. Hägg, 125–53. London: Routledge."
+    reference_for: "31"
+
+  - short: Menzel 1966
+    full: "Menzel, H. 1966. *Die römischen Bronzen aus Deutschland*. Vol. 2: *Trier*. Mainz: Verlag des Römisch-Germanischen Zentralmuseums."
+    reference_for: "31"
+
+  - short: Palagia 1984
+    full: "Palagia, O. 1984. “A Niche for Kallimachos’ Lamp?” *AJA* 88: 515–21."
+    reference_for: "31"
+
+  - short: Pirzio Biroli Stefanelli 1990
+    full: "Pirzio Biroli Stefanelli, L. 1990. *Il bronzo dei Romani: Arredo e suppellettile*. Rome: L’Erma di Bretschneider."
+    reference_for: "31"
+
+  - short: Rouse 1902
+    full: "Rouse, W. H. D. 1902. *Greek Votive Offerings: An Essay in the History of Greek Religion*. Cambridge (MA): At the University Press."
+    reference_for: "31"
+
+  - short: Schaeffer 1927
+    full: "Schaeffer, F. A. 1927. *Un dépôt d’outils et en trésor de bronzes de l’époque gallo-romaine découverts à Seltz (Bas Rhin)*. Haguenau: Imprimerie Municipale."
+    reference_for: "31"
+
+  - short: Schnitzler 1995
+    full: "Schnitzler, B. 1995. *Bronzes antique d’Alsace: Musée archéologique de Strasbourg, Musées de Biesheim, Colmar, Haguenau, Mulhouse, Niederbronn, Wissembourg*. Inventaire des collections publiques française 37. Paris: Réunion des musée nationaux."
+    reference_for: "31"
+
+  - short: Sena Chiesa and Pontrandolfo 2015
+    full: "Sena Chiesa, G., and A. Pontrandolfo, eds. 2015. *Mito e natura: Dalla Grecia a Pompei*. Exh. cat. Milan, Palazzo Reale. Milan: Electa."
+    reference_for: "31"
+
+  - short: Slavazzi 2005
+    full: "Slavazzi, F., ed. 2005. *Arredi di lusso di età* *romana: Da Roma alla Cisalpina*. Flos Italiae 6. Florence: All’insegna del giglio."
+    reference_for: "31"
+
+  - short: Slavazzi 2015
+    full: "Slavazzi, F. 2015. “La rappresentazione della natura nelle residenze imperiali: le immagini dei giardini.” In Sena Chiesa and Pontrandolfo 2015, 231–38."
+    reference_for: "31"
+
+  - short: Zieling and Leih 2004
+    full: "Zieling, N., and S. Leih 2004. “Rheinisches Amt für Bodendenkmalpflege\ Ausgrabungen, Funde und Befunde 2001 und 2002.” *BJb* 204: 273–357."
+    reference_for: "31"
+
+  - short: Bessios 1985
+    full: "Bessios, M. 1985. “Der Grabhügel von Alykes bei Kitros.” In *The Archaeologists Speak about Pieria*, 54‒58. Katerini: NELE Pierias (in Greek, German summary)."
+    reference_for: "32"
+
+  - short: Bessios 2010
+    full: "Bessios M. 2010. *Pieridon Stefanos: Pydna, Methone and the Antiquities of North Pieria*. Katerini: AFE Publications (in Greek)."
+    reference_for: "32"
+
+  - short: Bliquez 2015
+    full: "Bliquez, L. J. 2015. *The Tools of Asclepius: Surgical Instruments in Greek and Roman Times*. Leiden: Brill."
+    reference_for: "32"
+
+  - short: Boyer, Bel, and Tranoy 1990
+    full: "Boyer, R., V. Bel, and L. Tranoy. 1990. “Decouverte de la tombe d’un oculiste à Lyon (fin du IIe s. après J.-C.): Instruments et coffrets avec collyres.” *Gallia* 47: 215‒49."
+    reference_for: "32"
+
+  - short: Chrysostomou 2013
+    full: "Chrysostomou A. 2013. *Ancient Edessa: The Cemeteries*. Volos: Hellenic Ministry of Culture (in Greek)."
+    reference_for: "32"
+
+  - short: Descamps-Lequime 2011
+    full: "Descamps-Lequime, S., ed. 2011. *Au royaume d’Alexandre le Grand: La Macedoine antique*. Paris: Louvre Museum."
+    reference_for: "32"
+
+  - short: Giachi et al. 2013
+    full: "Giachi G., P. Pallechi, A. Romualdi, E. Ribechini, J. J. Luceiko, M. P. Colombini, and M. Mariotti Lippi. 2013. “Ingredients of a 2,000-y-old Medicine Revealed by Chemical, Mineralogical, and Botanical Investigation.” *Proceedings of the National Academy of Sciences* (January 22), 110.4: 1193–96. [http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1216776110/-/DCSupplemental](http://www.pnas.org/lookup/suppl/doi:10.1073/pnas.1216776110/-/DCSupplemental)."
+    reference_for: "32"
+
+  - short: Ignatiadou 2014a
+    full: "Ignatiadou, D. 2014a. “The Stavroupolis Priest-warrior.” In *The Greeks: Agamemnon to Alexander the Great,* ed. M. Andreadaki-Vlazaki and A. Balaska, 388–401. Athens: Kapon."
+    reference_for: "32"
+
+  - short: Ignatiadou 2014b
+    full: "Ignatiadou, D. 2014b. “The Symbolic Krater.” In *Le cratère à volutes: Destinations d’un vase de prestige entre Grecs et non Grecs*, 43‒59. Cahiers du Corpus Vasorum Antiquorum (France) 2."
+    reference_for: "32"
+
+  - short: Ignatiadou 2015
+    full: "Ignatiadou, D. 2015. “The Warrior Priest in Derveni Grave B Was a Healer Too.” *Histoire, médecine et santé* 8: 89‒113."
+    reference_for: "32"
+
+  - short: Ignatiadou forthcoming
+    full: "Ignatiadou, D. Forthcoming. “Burial Practices for Élite Macedonians with Cultic Duties.” In *Constituer la tombe: Honorer les défunts en méditerranée hellénistique et romaine: Table ronde organisée par L´Écoloe française d´Athènes et le Centre d´étiudes alexandrines*, *Alexandrie, 29 octobre au 1er novembre 2014*, ed. M. D. Nenna, W. van Andringa, and S. Huber."
+    reference_for: "32"
+
+  - short: Katsifas et al. forthcoming
+    full: "Katsifas, C., D. Ignatiadou, N. Kantiranis, and G. A. Zachariadis. Forthcoming. “Metal Containers of the 4th century BC: Analysis of Their Composition and Contents.” In *9th Aegean Analytical Chemistry Days, 29 September‒3 October 2014, Chios, Greece*."
+    reference_for: "32"
+
+  - short: Koukouvou 1996
+    full: "Koukouvou, A. 1996. “Sidestreet of Ploutarchou Street (Building Block 305).” *ADelt* 51, B: 524 (in Greek)."
+    reference_for: "32"
+
+  - short: Pöhlmann 2013
+    full: "Pöhlmann, E. 2013. “Excavation, Dating and Content of Two Tombs in Daphne, Odos Olgas 53, Athens.” *Greek and Roman Musical Studies* 1: 7‒24."
+    reference_for: "32"
+
+  - short: Romiopoulou 1973‒74
+    full: "Romiopoulou, K. 1973‒74. “Oreokastrou Street (Stavroupolis District).” *ADelt* 29, B 2: 693 (in Greek)."
+    reference_for: "32"
+
+  - short: Romiopoulou 1989
+    full: "Romiopoulou, K. 1989. “Closed Burial Contexts of the Late Classical Period from Thessaloniki.” In *Φίλια Έπη εις Γεώργιον Ε. Μυλωνάν* (Festschrift to George Mylonas), 3: 194‒218, plates 45‒58. Athens: Archaeologiki Etaireia (in Greek)."
+    reference_for: "32"
+
+  - short: Themelis and Touratsoglou 1997
+    full: "Themelis, P.G., and Y. P. Touratsoglou. 1997. *The Derveni Tombs*. Athens: TAP (in Greek, English summary)."
+    reference_for: "32"
+
+  - short: Boriskovskaya 1973
+    full: "Boriskovskaya, S. P. 1973. “Bronzovije plastini ot drevneitalijskogo pantzirnogo nabora.” In *Pamjatniki antičnogo* *prikladnogo iskusstva*, ed. X. S. Gorbunova, 5‒15. Leningrad: Avrora."
+    reference_for: "33"
+
+  - short: Cataloghi del Museo Campana 1858
+    full: "Cataloghi del Museo Campana, 1858. Classe II. *Bronzi Etruschi e Romani*. Rome."
+    reference_for: "33"
+
+  - short: Connolly 1981
+    full: "Connolly, P. 1981. *Greece and Rome at War*. London: Macdonald Phoebus."
+    reference_for: "33"
+
+  - short: Eles 2000
+    full: "Eles, P. von. 2000. *Museo Civico Archeologico Verucchio*. Rimini: Province of Rimini."
+    reference_for: "33"
+
+  - short: Guédéonow 1861
+    full: "Guédéonow, E. 1861. *Notice sur les objects d’art de la Galerie Campana à Rome acquis pour le Musée Impérial de l’Ermitage*. Paris: Raçon."
+    reference_for: "33"
+
+  - short: Haynes 1985
+    full: "Haynes, S. 1985. *Etruscan Bronzes*. London and New York: Sotheby’s Publications."
+    reference_for: "33"
+
+  - short: Nazo 2003
+    full: "Nazo, A. 2003. *I bronzi Etruschi e Italici del Römisch-Germanisches Zentralmuseum*. Mainz: Römisch-Germanisches Zentralmuseum."
+    reference_for: "33"
+
+  - short: *Antiken* 2011
+    full: "*Antiken*. 2011. Gerhard Hirsch Nachfolger, auction catalog 274. September 20‒21, 2011, Munich."
+    reference_for: "34"
+
+  - short: Arapoyianni 2007
+    full: "Arapoyianni, X. 2007. *The Temple of Apollo Epikourios at Bassae*. Athens: Archaeological Receipts Fund, Publications Department."
+    reference_for: "34"
+
+  - short: Ars Antiqua 1959
+    full: "Ars Antiqua. 1959. *Antike Kunstwerke. Nachlaß Dr. Jacob Hirsch, II. Teil und anderer Besitz*. Auc­tion catalog. May 2, 1959, Lucerne."
+    reference_for: "34"
+
+  - short: Bazin 1891
+    full: "Bazin, H. 1891. *Vienne et Lyon gallo-romains*. Paris: Hachette."
+    reference_for: "34"
+
+  - short: Behn 1954
+    full: "Behn, F. 1954. *Musikleben im Altertum und frühen Mittelalter*. Stuttgart: Hiersemann."
+    reference_for: "34"
+
+  - short: Blatter 1964
+    full: "Blatter, R. 1964. “Ein spätklassisches Athenarelief aus Bronze in Basel.” *AA* 1964: cols. 805–23."
+    reference_for: "34"
+
+  - short: Bolla 1999
+    full: "Bolla, M. 1999. “Bronzetti figurati romani del territorio Veronese.” *Rassegna di studi del Civico Museo Archeologico e del Civico Gabinetto Numismatico di Milano* 63/64:193–260."
+    reference_for: "34"
+
+  - short: Bolla 2007/2011
+    full: "Bolla, M. 2007/2011. “Bronzi figurati romani dal territorio reggiano nel Museo Chierici di Reggio Emilia.” *Pagine di Archeologia* 4:1–93."
+    reference_for: "34"
+
+  - short: Boucher 1976
+    full: "Boucher, S. 1976. *Recherches sur les bronzes figurés de Gaule préromaine et romaine*. Rome: BÉFAR 228."
+    reference_for: "34"
+
+  - short: Boucher and Tassinari 1976
+    full: "Boucher, S., and S. Tassinari. 1976. *Bronzes antiques du Musée de la Civilisation Gallo-Romaine à Lyon.* Vol. 1: *Inscriptions, statuaire, vaisselle*. Musée de la Civilisation Gallo-Romaine Lyon. Paris: Boccard."
+    reference_for: "34"
+
+  - short: Brusin 1934
+    full: "Brusin, G. 1934. *Gli scavi di Aquileia*. Udine: La Panarie."
+    reference_for: "34"
+
+  - short: D’Andria 1970
+    full: "D’Andria, F. 1970. “I bronzi romani di Veleia, Parma e del territorio parmense.” In *Contributi dell’Istituto di Archeologia* 3: 3–144."
+    reference_for: "34"
+
+  - short: Dushanbe 1985
+    full: "Dushanbe. 1985. *Kunstschätze Tadschikistans*, Exh. cat. Dushanbe, National Museum."
+    reference_for: "34"
+
+  - short: Faider-Feytmans 1957
+    full: "Faider-Feytmans, G. 1957. *Recueil des bronzes de Bavai*. *Gallia*, suppl. 8. Paris: Centre national de la recherche scientifique."
+    reference_for: "34"
+
+  - short: Franken 2011
+    full: "Franken, N. 2011. *Bilddatenbank Antike Bronzen in Berlin*. [http://ww2.smb.museum/antikebronzenberlin/](http://ww2.smb.museum/antikebronzenberlin/)."
+    reference_for: "34"
+
+  - short: Friederichs 1871
+    full: "Friederichs, C. 1871. *Berlins antike Bildwerke.* Vol. 2: *Antike Geräthe und Broncen im Alten Museum.* Düsseldorf: J. Buddens."
+    reference_for: "34"
+
+  - short: Fuchs 1940
+    full: "Fuchs, S. 1940. “Figürliche Bronzebeschläge der Langobardenzeit aus Italien.” *RM* 55:100–113."
+    reference_for: "34"
+
+  - short: Knauß 2012
+    full: "Knauß, F. S., ed. 2012. *Die Unsterblichen Götter Griechenlands*. Exh. cat. Munich: Staatliche Antikensammlungen und Glyptothek."
+    reference_for: "34"
+
+  - short: *Kunstobjekte der Antike* 2002
+    full: "*Kunstobjekte der Antike*. 2002. Gorny & Mosch, auction catalog 119. October 16, 2002, Munich."
+    reference_for: "34"
+
+  - short: Lindström 2009
+    full: "Lindström, G. 2009. “Silhouettenbleche: Eroten, ungeflügelte Knabenfiguren, Psychen.” In *Alexander der Grosse und die Öffnung der Welt: Asiens Kulturen im Wandel*, edited by. S. Hansen, A. Wieczorek, and M. Tellenbach, 363, cat. no. 258. Exh. cat. Mannheim: Reiss-Engelhorn-Museen."
+    reference_for: "34"
+
+  - short: Massow 1916
+    full: "Massow, W. von. 1916. “Die Kypseloslade.” *AM* 41: 1–117."
+    reference_for: "34"
+
+  - short: Menzel 1986
+    full: "Menzel, H. 1986. *Die römischen Bronzen aus Deutschland*.” Vol. 3: *Bonn*. Mainz: Römisch-Germanisches Zentralmuseum."
+    reference_for: "34"
+
+  - short: Reinach 1910
+    full: "Reinach, S. 1910. *Répertoire de la statuaire grecque et romaine*. Vol. 4. Paris: Leroux."
+    reference_for: "34"
+
+  - short: Rome 1993
+    full: "Rome. 1993. *Oxus: Tesori dell’Asia Centrale.* Exh. cat. Rome, Palazzo Venezia."
+    reference_for: "34"
+
+  - short: Schmölder-Veit 2002
+    full: "Schmölder-Veit, A. 2002. “Bronzenes Beschlagblech mit dem Tierkreiszeichen der Jungfrau (Virgo).” *MüJb* 53: 291–92."
+    reference_for: "34"
+
+  - short: Siegfried-Weiss 1991
+    full: "Siegfried-Weiss, A. 1991. “Figürliche Bronzeobjekte.” In *Chur in römischer Zeit*. Vol. 2: A. *Ausgrabungen Areal Markthallenplatz*; B. *Historischer Überblick*. Basel: Schweizer Gesellschaft für Ur- und Frühgeschichte."
+    reference_for: "34"
+
+  - short: Stern 1994
+    full: "Stern, E. 1994. *Dor: The Ruler of the Seas*. Jerusalem: Israel Exploration Society."
+    reference_for: "34"
+
+  - short: Vendries 1999
+    full: "Vendries, C. 1999. *Instruments à cordes et musiciens dans l’empire romain.* Paris: L’Harmattan."
+    reference_for: "34"
+
+  - short: Wolff 1994
+    full: "Wolff, S. R. 1994. “Archaeology in Israel.” *AJA* 98: 481‒519."
+    reference_for: "34"
+
+  - short: Zürich 1989
+    full: "Zürich. 1989. *Oxus: 2000 Jahre Kunst am Oxus-Fluss in Mittelasien: Neue Funde aus der Sowjetrepublik Tadschikistan.* Exh. cat. Zürich, Museum Rietberg."
+    reference_for: "34"
+
+  - short: Abdullayev et al. 2013
+    full: "Abdullayev, E., V. Abbasov, A. Tursunbayeva, V. Portnov, H. Ibrahimov, G. Mukhtarova, and Y. Lvov. 2013. “Self-Healing Coatings Based on Halloysite Clay Polymer Composites for Protection of Copper Alloys.” *Applied Materials & Interfaces* 5(10): 4464–71."
+    reference_for: "35"
+
+  - short: Angelucci et al. 1978
+    full: "Angelucci, S., P. Fiorentino, J. Kosinkova, and M. Marabelli. 1978. “Pitting Corrosion in Copper and Copper Alloys: Comparative Treatment Tests.” *Studies in Conservation* 23: 147–56."
+    reference_for: "35"
+
+  - short: Basilissi and Marabelli 2008
+    full: "Basilissi, V., and M. Marabelli. 2008. “Le patine dei metalli: implicazioni teoriche, pratiche, conservative.” In *L’arte fuori dal museo: Problemi di conservazione dell’arte contemporanea*, ed. S. Rinaldi, 74–89. Rome: Gangemi."
+    reference_for: "35"
+
+  - short: Casaletto and Hajjaji 2010
+    full: "Casaletto, M. P., and N. Hajjaji. 2010. “Development of New Non-toxic Corrosion Inhibitors for Protecting Copper-based Archaeological Artefacts.” *Bulletin of Research on Metal Conservation (BROMEC)* 32: 5."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2006
+    full: "Casaletto, M. P., T. De Caro, G. M. Ingo, and C. Riccucci. 2006. “Production of Reference ‘Ancient’ Cu-based Alloys and Their Accelerated Degradation Methods.” *Applied Physics* A 83(4): 617–22."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2007
+    full: "Casaletto, M. P., F. Caruso, T. de Caro, G. M. Ingo, and C. Riccucci. 2007. “A Novel Scientific Approach to the Conservation of Archaeological Copper Alloys Artifacts.” In *Proceedings of Metal 2007, International Conference on Metals Conservation, Interim Meeting of the ICOM-CC Metals Working Group, Amsterdam, 17–21 September 2007*, 2: 20–25. Amsterdam: ICOM-CC Metal WG."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2010
+    full: "Casaletto, M. P., G. M. Ingo, C. Riccucci, and F. Faraldi. 2010. “Production of Reference Alloys for the Conservation of Archaeological Silver-based Artefacts.” *Applied Physics A* 100(3): 937–44."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2012
+    full: "Casaletto, M. P., R. Licciardi, A. Lombardo, G. M. Ingo, H. Hammouch, M. Chellouli, N. Bettach, N. Hajjaji, and A. Srhiri. 2012. “Surface and Electrochemical Investigation of New Green and Low Toxic Bronze Corrosion Inhibitors.” In *Proceedings of European Corrosion Congress EUROCORR 2012, Istanbul (Turkey), 9–14 September 2012.* Istanbul: Istanbul Technical University."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2013
+    full: "Casaletto, M. P., R. Schimmenti, and G. Lazzara. 2013. “Smart Nanostructured Corrosion Inhibitor Coatings for the Protection of Cu-based Artifacts.” In *Proceedings of the 8th International Conference on Surfaces, Coatings and Nanostructured Materials - NANOSMAT 2013, Granada, 22–25 September 2013*, 237. Amsterdam: Elsevier."
+    reference_for: "35"
+
+  - short: Casaletto et al. 2016
+    full: "Casaletto, M. P., C. Cirrincione, A. Privitera, and V. Basilissi. Forthcoming. “A Sustainable Approach to the Conservation of Bronze Artworks by Smart Nanostructured Coatings.” In *Proceedings of Metal 2016, 9th interim meeting of the ICOM-CC Metals Working Group, New Delhi, 26–30 September 2016*, in press."
+    reference_for: "35"
+
+  - short: Chellouli et al. 2016
+    full: "Chellouli, M., D. Chebabe, A. Dermaj, H. Erramli, N. Bettach, N. Hajjaji, M. P. Casaletto, C. Cirrincione, A. Privitera, and A. Srhiri. 2016. “Corrosion Inhibition of Iron in Acidic Solution by a Green Formulation Derived from *Nigella sativa L*.” *Electrochimica Acta* 204: 50–59."
+    reference_for: "35"
+
+  - short: Degrigny et al. 2007
+    full: "Degrigny, C., V. Argyropoulos, P. Pouli, M. Grech, K. Kreislova, M. Harith, F. Mirambet, N. Haddad, E. Angelini, E. Cano, N. Hajjaji, A. Cilingiroglu, A. Almansour, and L. Mahfoud. 2007. “The Methodological Approach for the PROMET Project to Develop/test New Non-toxic Corrosion Inhibitors and Coatings for Iron and Copper Alloy Objects Housed in Mediterranean Museums.” In *Proceedings of the ICOM-CC Metal 2007, International Conference on Metals Conservation, Amsterdam, 17–21 September 2007*, 5: 31–37. Amsterdam: ICOM-CC Metal WG."
+    reference_for: "35"
+
+  - short: Dermaj et al. 2011
+    full: "Dermaj, A., D. Chebabe, N. Bettach, N. Hajjaji, A. Srhiri, M. P. Casaletto, G. M. Ingo, C. Riccucci, and T. de Caro. 2011. “Electrochemical Study of a New Non-toxic Inhibitor Formulation for the Conservation of Archaeological Bronze.” In *Proceedings of the 5th International Congress Science and Technology for the Safeguard of Cultural Heritage in the Mediterranean Basin, Istanbul (Turkey), 22–25 November 2011*, 237*.* Rome: Centro Copie L’Istantanea."
+    reference_for: "35"
+
+  - short: Dermaj et al. 2015
+    full: "Dermaj, A., D. Chebabe, M. Doubi, H. Erramli, N. Hajjaji, M. P. Casaletto, G. M. Ingo, C. Riccucci, and T. de Caro. 2015. “Inhibition of Bronze Corrosion in 3% NaCl Media by Novel Non-toxic 3-phenyl-1,2,4-triazole thione Formulation.” *Corrosion Engineering Science and Technology* 50(2): 128–36."
+    reference_for: "35"
+
+  - short: Greene 1972
+    full: "Greene, V. 1972. *The Use of Benzotriazole in Conservation: Problems and Experiments*. ICOM Report 2/72/2. Paris: ICOM Committee for Conservation."
+    reference_for: "35"
+
+  - short: Hammouch et al. 2007
+    full: "Hammouch, H., A. Dermaj, M. Goursa, N. Hajjaji, and A. Srrhiri. 2007. “New Corrosion Inhibitor Containing *Opuntia ficus indica* Seed Extract for Bronze and Iron Based Artefacts.” In *Strategies for Saving our Cultural Heritage: Papers Presented at the International Conference on Conservation Strategies for Saving Indoor Metallic Collections, Cairo*, ed. V. Argyropoulos, A. Hein, and M. A. Harith, eds. 149–55. Athens: TEI."
+    reference_for: "35"
+
+  - short: Ingo et al. 2007
+    full: "Ingo, G. M., M. P. Casaletto, T. de Caro, F. M. Mingoia, C. Riccucci, and G. Chiozzini. 2007. Relazione finale del Progetto ATENA: “Applicazione di metodologie innovative per la conservazione di manufatti metallici e ceramici da scavo archeologico ed il recupero delle relative tecniche di produzione.” CNR-ISMN (2002–2006)."
+    reference_for: "35"
+
+  - short: Lazzara and Milioto 2010
+    full: "Lazzara, G., and S. Milioto. 2010. “Dispersions of Nanoclays of Different Shapes into Aqueous and Solid Biopolymeric Matrices: Extended Physicochemical Study.” *Langmuir* 27: 1158–67."
+    reference_for: "35"
+
+  - short: Madsen 1967
+    full: "Madsen, L. B. 1967. “A Preliminary Note on the Use of Benzotriazole for Stabilizing Bronze Objects.” *Studies in Conservation* 12.4: 163–67."
+    reference_for: "35"
+
+  - short: Metal 2016
+    full: "*Proceedings of Metal 2016, 9th Interim Meeting of the ICOM-CC Metals Working Group, New Delhi, 26–30 September 2016*, in press."
+    reference_for: "35"
+
+  - short: Oddy 1974
+    full: "Oddy, W. A. 1974. “Toxicity of Benzotriazole.” *Studies in Conservation* 19: 188–89."
+    reference_for: "35"
+
+  - short: Pillard et al. 2001
+    full: "Pillard, D. A., J. S. Cornell, D. L. Dufresne, and M. T. Hernandez. 2001. “Toxicity of Benzotriazole and Benzotriazole Derivatives to Three Aquatic Species.” *Water Research* 35(2): 557–60."
+    reference_for: "35"
+
+  - short: Salvaggio et al. 2012
+    full: "Salvaggio, G., M. P. Casaletto, M. L. Testa, G. Ingo, C. Riccucci, and T. De Caro. 2012. “Surface Characterization of New Corrosion Inhibitors for the Conservation of Archaeological Bronze Artifacts.” Paper delivered at *Youth in COnservation of CUltural Heritage (YOCOCU) 2012, Antwerpen (Belgium), 18–20 June 2012*."
+    reference_for: "35"
+
+  - short: Sease 1978
+    full: "Sease, C. 1978. “Benzotriazole: A Review for Conservation.” *Studies in Conservation* 23: 76–85."
+    reference_for: "35"
+
+  - short: Selwyn 2004
+    full: "Selwyn, L. 2004. *Metals and Corrosion: A Handbook for Conservation Professionals*. Ottawa: Canadian Conservation Institute."
+    reference_for: "35"
+
+  - short: Skerry 1985
+    full: "Skerry, B. 1985. “How Corrosion Inhibitors Work.” In *Corrosion Inhibitors in Conservation: The Proceedings of a Conference Held by UKIC in Association with the Museum of London*, ed. S. Keene, 5–12. London: UKIC."
+    reference_for: "35"
+
+  - short: Turgoose 1985
+    full: "Turgoose, S. 1985. “Corrosion Inhibitors for Conservation.” In *Corrosion Inhibitors in Conservation: The Proceedings of a Conference held by UKIC in association with the Museum of London*, ed. S. Keene, 13–17. London: UKIC."
+    reference_for: "35"
+
+  - short: Zaferani et al. 2013
+    full: "Zaferani, S. H., M. Shariﬁ, D. Zaarei, and M. R. Shishesaz. 2013. “Application of Eco-friendly Products as Corrosion Inhibitors for Metals in Pickling Processes – A Review.” *Journal of Environmental Chemical Engineering* 1(4): 652–57."
+    reference_for: "35"
+
+  - short: Bruker 2015
+    full: "Bruker. 2015. “Tracer Series pXRF Spectrometer” (April 30, 2015). [https://www.bruker.com/products/x-ray-diffraction-and-elemental-analysis/handheld-xrf/tracer-iii/overview.html](https://www.bruker.com/products/x-ray-diffraction-and-elemental-analysis/handheld-xrf/tracer-iii/overview.html)."
+    reference_for: "36"
+
+  - short: Charalambous, Kassianidou, and Papasavvas 2014
+    full: "Charalambous, A., V. Kassianidou, and G. Papasavvas. 2014. “A Compositional Study of Cypriot Bronzes Dating to the Early Iron Age Using Portable X-ray Fluorescence Spectrometry (pXRF).” *JAS* 46: 205–16."
+    reference_for: "36"
+
+  - short: Ciliberto and Spoto 2000
+    full: "Ciliberto, E., and G. Spoto, eds. 2000. *Modern Analytical Methods in Art and Archaeology*. New York: Wiley."
+    reference_for: "36"
+
+  - short: Dussubieux and Walker 2015
+    full: "Dussubieux, L., and H. Walker. 2015. “Identifying American Native and European Smelted Coppers with pXRF: A Case Study of Artifacts from the Upper Great Lakes Region.” *JAS* 59:169–78."
+    reference_for: "36"
+
+  - short: Dylan 2012
+    full: "Dylan, S. 2012. “Handheld X-ray Fluorescence Analysis of Renaissance Bronzes: Practical Approaches to Quantification and Acquisition.” In Shugar and Mass 2012, 37–74."
+    reference_for: "36"
+
+  - short: Freund, Usai, and Tykot 2016
+    full: "Freund, K. P., L. Usai, and R. H. Tykot. 2016. “Early Copper-Based Metallurgy at the Site of Monte d’Accoddi (Sardinia, Italy).” 41st International Symposium on Archaeometry, Kalamata, Greece, May 15–20. Abstract published in *41st International Symposium on Archaeometry Book of Abstracts*. ed. N. Zacharias and E. Palamara, 258–59. Kalamata, Greece."
+    reference_for: "36"
+
+  - short: Garrido and Li 2016
+    full: "Garrido, F., and T. Li. 2016. “A Handheld XRF Study of Late Horizon Metal Artifacts: Implications for Technological Choices and Political Intervention in Copiapó, Northern Chile.” *Archaeological and Anthropological Sciences* 8:1–8. DOI: 10.1007/s12520-016-0315-2."
+    reference_for: "36"
+
+  - short: Gliozzo et al. 2010
+    full: "Gliozzo, E., R. Arletti, L. Cartechini, S. Imberti, W. A. Kockelmann, I. Memmi, R. Rinaldi, and R. H. Tykot. 2010. “Non-invasive Chemical and Phase Analysis of Roman Bronze Artefacts from Thamusida (Morocco).” *Applied Radiation and Isotopes* 68: 2246–51."
+    reference_for: "36"
+
+  - short: Gliozzo et al. 2011
+    full: "Gliozzo, E., W.A. Kockelmann, L. Bartoli, and R.H. Tykot. 2011. “Roman Bronze Artefacts from Thamusida (Morocco): Chemical and Phase Analyses.” *Nuclear Instruments and Methods in Physics Research Section B* 269: 277–83."
+    reference_for: "36"
+
+  - short: Goodale et al. 2012
+    full: "Goodale, N., D. G. Bailey, G. T. Jones, C. Prescott, E. Scholz, N. Stagliano, and C. Lewis. 2012. “pXRF: Study of Inter-instrument Performance.” *JAS* 39: 875–83."
+    reference_for: "36"
+
+  - short: Karydas 2007
+    full: "Karydas, A. G. 2007. “Application of a Portable XRF Spectrometer for the Non-invasive Analysis of Museum Metal Artefacts.” *Annali di Chimica* 97: 419–32."
+    reference_for: "36"
+
+  - short: Liritzis and Zacharias 2013
+    full: "Liritzis, I., and N. Zacharias. 2013. “Portable XRF of Archaeological Artifacts: Current Research, Potentials and Limitations.” In *X-ray Fluorescence Spectrometry (XRF) in Geoarchaeology*, ed. M. S. Shackley, 109–42. New York: Springer."
+    reference_for: "36"
+
+  - short: Missouri University Archaeometry Laboratory 2015
+    full: "Missouri University Archaeometry Laboratory. 2015. “Overview of X-ray Fluorescence” (April 30, 2015). Missouri University Archaeometry Laboratory. [http://archaeometry.missouri.edu/xrf_overview.html](http://archaeometry.missouri.edu/xrf_overview.html)."
+    reference_for: "36"
+
+  - short: Orfanou and Rehren 2015
+    full: "Orfanou, V., and T. Rehren. 2015. “A (Not So) Dangerous Method: pXRF vs. EPMA-WDS Analysis of Copper-based Artefacts.” *Archaeological and Anthropological Sciences* 7: 387–97."
+    reference_for: "36"
+
+  - short: Pollard et al. 2007
+    full: "Pollard, A. M., C. Batt, B. Stern, and S. M. M. Young. 2007. *Analytical Chemistry in Archaeology*. Cambridge: Cambridge University Press."
+    reference_for: "36"
+
+  - short: Pollard and Heron 2008
+    full: "Pollard, A. M., and C. Heron, eds. 2008. *Archaeological Chemistry*. Cambridge: The Royal Society of Chemistry."
+    reference_for: "36"
+
+  - short: Shugar 2013
+    full: "Shugar, A. N. 2013. “Portable X-ray Fluorescence and Archaeology: Limitations of the Instrument and Suggested Methods to Achieve Desired Results.” In *Archaeological Chemistry VIII*, ed. R. A. Armitage and J. H. Burton, 173–95. Washington, DC: American Chemical Society."
+    reference_for: "36"
+
+  - short: Shugar and Mass 2012
+    full: "Shugar, A. N., and J. L. Mass, eds. 2012. *Handheld XRF for Art and Archaeology*. Leuven: Leuven University Press."
+    reference_for: "36"
+
+  - short: Tykot 2016
+    full: "Tykot, R. H. 2016. “Using Non-Destructive Portable X-Ray Fluorescence Spectrometers on Stone, Ceramics, Metals, and Other Materials in Museums: Advantages and Limitations.” *Applied Spectroscopy* 70(1): 42–56."
+    reference_for: "36"
+
+  - short: Tykot, de Grummond, and Schwarz 2012
+    full: "Tykot, R. H., N. T. de Grummond, and S. J. Schwarz. 2012. “XRF Analysis of Metal Composition of Etruscan Bronze Mirrors.”Abstract published in *Archaeological Institute of America 113th Annual Meeting Abstracts* 35: 71–72."
+    reference_for: "36"
+
+  - short: Argitis et al. 1998
+    full: "Argitis, P., S. Boyatzis, I. Raptis, N. Glezos, and M. Hatzakis. 1998. “Post-Exposure Bake Kinetics in Epoxy Novolac-Based Chemically Amplified Resists.” *Micro- and Nanopatterning Polymers*, ACS Symposium Series, 706, ed. H. Ito, E. Reichmanis, O. Nalamasu, and T. Ueno, 345–57. Washington: ACS Publications."
+    reference_for: "37"
+
+  - short: Argyropoulos et al. 2008
+    full: "Argyropoulos, V., M. Giannoulaki, G. P. Michalakakos, and A. Siatou. 2008. “A Survey of the Types of Corrosion Inhibitors and Protective Coatings Used for the Conservation of Metal Objects from Museum Collections in the Mediterranean Basin.” In *Strategies for Saving Our Cultural Heritage: Papers Presented at the International Conference on Conservation Strategies for Saving Indoor Metallic Collections (CSSIM),* Cairo 25 February–1 March 2007, ed. V. Argyropoulos, A. Hein, and M. A. Harith, 166–70. Athens: TEI."
+    reference_for: "37"
+
+  - short: Bierwagen, Shedlosky, and Stanek 2002
+    full: "Bierwagen, G. P., T. J. Shedlosky, and K. Stanek. 2002. “Developing and Testing a New Generation of Protective Coatings for Outdoor Bronze Sculpture.” In *Proceedings 28:* *2002 Athens Conference on Coatings Science and Technology*, July 1–5, 2002, Vouliagmeni (Greece), 289–96. Athens: Institute of Materials Science."
+    reference_for: "37"
+
+
+  - short: Boyatzis, Ioakimoglou, and Argitis 2002
+    full: "Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” *Journal of Applied Polymer Science* 84(5): 936–49."
+    reference_for: "37"
+
+  - short: Boyatzis et al. 2012
+    full: "Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” *Applied Spectroscopy* 66(5): 580–90."
+    reference_for: "37"
+
+  - short: Brostoff 2003
+    full: "Brostoff, B. L. 2003. “Coating Strategies for Protection of Outdoor Bronze Art and Ornamentation.” Ph.D. diss., Universiteit van Amsterdam."
+    reference_for: "37"
+
+  - short: Craine, Severson, and Merritt 1992
+    full: "Craine, C., K. Severson, and S. Merritt. 1992. “Prospects for the Long-Term Maintenance of Outdoor Bronze Sculpture: The Shaw Memorial Nine Years after Cleaning and Coating.” In *Abstracts, 20th Annual Meeting of the American Institute for Conservation of Historic and Artistic Works, Buffalo, NY, June 4–7, 1992*, 30. Washington: AIC."
+    reference_for: "37"
+
+  - short: De la Rie 1992
+    full: "De la Rie, E. R. 1992. “Stability and Function of Coatings Used in Conservation.” In *Polymers in Conservation*, ed. N. S. Allen, M. Edge, and C. V. Horie, 62–81. Cambridge: Royal Society of Chemistry."
+    reference_for: "37"
+
+  - short: Derrick, Stulik, and Landry 1999
+    full: "Derrick, M. R., D. Stulik, and J. M. Landry. 1999. *Infrared Spectroscopy in Conservation Science*. Scientific Tools for Conservation Series. Los Angeles: Getty Conservation Institute."
+    reference_for: "37"
+
+  - short: Erhardt et al. 1984
+    full: "Erhardt, D., W. Hopwood, T. Padfield, and F. N. Veloz. 1984. “Durability of Incralac: Examination of a Ten-Year-Old Treatment.” In *Preprints, ICOM Committee for Conservation, 7th Triennial Meeting, Copenhagen, 10–14 September, 1984*, ed. D. de Froment, 22.1–3. Paris: ICOM."
+    reference_for: "37"
+
+  - short: Gotoh et al. 2000
+    full: "Gotoh, Y., R. Igarashi, Y. Ohkoshi, M. Nagura, K. Akamatsu, and S. Deki. 2000. “Preparation and Structure of Copper Nanoparticle/Poly(acrylic acid) Composite Films.” *Journal of Materials Chemistry*, 10(11): 2548–52."
+    reference_for: "37"
+
+  - short: Griffiths and de Haseth 2007
+    full: "Griffiths, P. E., and J. A. de Haseth. 2007. *Fourier Transform Infrared Spectrometry*. 2nd ed. Hoboken: Wiley."
+    reference_for: "37"
+
+  - short: Horie 2010
+    full: "Horie, C. V. 2010. *Materials for Conservation: Organics Consolidants, Adhesives, and Coatings*. 2nd ed. London and New York: Routledge."
+    reference_for: "37"
+
+  - short: Ioakimoglou et al. 1999
+    full: "Ioakimoglou, E., S. Boyatzis, P. Argitis, A. Fostiridou, K. Papapanagiotou, and N. Yannovits. 1999. “Thin-Film Study on the Oxidation of Linseed Oil in the Presence of Selected Copper Pigments.” *Chemistry of Materials* 11(8): 2013–22."
+    reference_for: "37" 
+
+  - short: Lazzari and Chiantore 2000
+    full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” *Polymer* 41(17): 6447–55."
+    reference_for: "37"
+
+  - short: Madsen 1971
+    full: "Madsen, H. B. 1971. “Further Remarks on the Use of Benzotriazole for Stabilizing Bronze Objects.” *Studies in Conservation* 16(30): 122."
+    reference_for: "37"
+
+  - short: McNamara et al. 2004
+    full: "McNamara, C. J., M. Breuker, M. Helms, T. D. Perry, and R. Mitchell. 2004. “Biodeterioration of Incralac Used for the Protection of Bronze Monuments.” *Journal of Cultural Heritage* 5: 361–64."
+    reference_for: "37"
+
+  - short: Merklin 2002
+    full: "Merklin, G. 2002. “Infrared Spectrometry of Thick Organic Films on Metallic Substrates.” *Handbook of Vibrational Spectroscopy*, ed. J. M. Chalmers and P. R. Griffiths. Vol. 2: *Sampling Techniques*, 1033–43. New York: Wiley."
+    reference_for: "37"
+
+  - short: Scott 2002
+    full: "Scott, D. A. 2002. *Copper and Bronze in Art: Corrosion, Colorants, Conservation*. Los Angeles: Getty Conservation Institute."
+    reference_for: "37"
+
+  - short: Stuart 2004
+    full: "Stuart, B. 2004. *Infrared Spectroscopy Fundamentals and Applications*. Chichester: Wiley."
+    reference_for: "37"
+
+  - short: Abu-Baker et al. 2013
+    full: "Abu-Baker, A. N., I. D. MacLeod, R. I. Sloggett, and R. Taylor. 2013. “A Comparative Study of Salicyaldoxime, Cysteine, and Benzotriazole as Inhibitors for the Active Chloride-based Corrosion of Copper and Bronze Artifacts.” *European Scientific Journal* 9 (33): 229–51."
+    reference_for: "38"
+
+  - short: Adriaens and Dowsett 2013
+    full: "Adriaens, A., and M. Dowsett. 2013. “Electrochemical Analysis of Metallic Heritage Artefacts: Time-lapse Spectroelectrochemical Techniques.” In *Corrosion and conservation of cultural heritage metallic artefacts*. Woodhead Publishing Ltd."
+    reference_for: "38"
+
+  - short: Argyropoulos and Batis 2013
+    full: "Argyropoulos, V., and G. Batis. 2013. “Saving a Marine Iron Paddle Wheel Removed from the 1868 Steam Engine Shipwreck ‘Patris’ during an Economic Crisis in Greece.” Big Stuff Conference. Ottawa, 25–27 Sep, 2013. [http://cstmuseum.techno-science.ca/doc/content/cstm/argyropouloubigstuffpaper.pdf](http://cstmuseum.techno-science.ca/doc/content/cstm/argyropouloubigstuffpaper.pdf)."
+    reference_for: "38"
+
+  - short: Argyropoulos et al. forthcoming
+    full: "Argyropoulos, V., S. Boyatzis, M. Giannoulaki, A. Malea, A. Pournou, S. Rapti, A. Zacharopoulou, and E. Guilminot. Forthcoming. “Preliminary Investigation of L-cysteine as a Corrosion Inhibitor for Marine Composite Artefacts Containing Copper or Iron Alloys.” *ICOM-CC WOAM 2016*. Florence."
+    reference_for: "38"
+
+  - short: Cano and Lafuente 2013
+    full: "Cano, E., and D. Lafuente. 2013. “Corrosion Inhibitors for the Preservation of Metallic Heritage Artefacts.” In *Corrosion and Conservation of Cultural Heritage Metallic Artefacts*, ed. P. Dillmann, D. Watkinson, E. Angelini, and A. Adriaens, 570–90. Cambridge: Woodhead."
+    reference_for: "38"
+
+  - short: Gravgaarda and van Lanschot 2012
+    full: "Gravgaarda, M., and J. van Lanschot. 2012. “Cysteine as a Non-toxic Corrosion Inhibitor for Copper Alloys in Conservation.” *Journal of the Institute of Conservation* 35(1): 14–24."
+    reference_for: "38"
+
+  - short: Manti and Watkinson 2011
+    full: "Manti, P., and D. Watkinson. 2011. “Hot-tinning of Low Tin Bronzes.” In *METAL 2010: Proceedings of the Interim Meeting of the ICOM-CC Metal Working Group*, ed. P. Mardikian, C. Chemello, C. Watters, and P. Hull, 92–98. Clemson: ICOM-CC and Clemson University."
+    reference_for: "38"
+
+  - short: North and MacLeod 1987
+    full: "North, N. A., and I. D. MacLeod. 1987. “Corrosion of Metals.” In *Conservation of Marine Archaeological Objects*, ed. C. Pearson, 68–98. Oxford: Buttersworth."
+    reference_for: "38"
+
+  - short: Zacharopoulou et al. 2016
+    full: "Zacharopoulou, A., G. Batis, V. Argyropoulos, and E. Guilminot. 2016. “The Testing of Natural Corrosion Inhibitors Cysteine and Mature Tobacco for Treating Marine Composite Objects in PEG400 Solutions.” *Journal of Conservation Science* 7 (1): 259–64."
+    reference_for: "38"
+
+  - short: Agresti, Mencaglia, and Siano 2015
+    full: "Agresti, J., A. A. Mencaglia, and S. Siano. 2015. “Development and Application of a Portable LIPS System for Characterising Copper Alloy Artefacts.” *Analytical and Bioanalytical Chemistry* 395 (7): 2255–62."
+    reference_for: "39"
+
+  - short: Baldinucci 1812
+    full: "Baldinucci, F. 1812. *Notizie dè Professori del Disegno da Cimabue in quà Firenze, 1681–1728*. Milan: Società Tipografica dè Classici Italiani."
+    reference_for: "39"
+
+  - short: Borrelli 1992
+    full: "Borrelli, L. V. 1992. “Considerazioni su tre problematiche teste di cavallo.” *Bollettino d’Arte* 71 (ser. 6): 67–82."
+    reference_for: "39"
+
+  - short: Cianferoni 2015
+    full: "Cianferoni, G. C. 2015. “Horse Head (Medici Riccardi Horse).” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*. ed. J. M. Daehner and K. Lapatin, 190–91, no. 3. Los Angeles: J. Paul Getty Museum; Florence: Giunti."
+    reference_for: "39"
+
+  - short: Coarelli 1981
+    full: "Coarelli, F. 1981. “Alessandro, i Licini e Lanuvio.” In *L’Art decoratif à Rome: À la fin de la Republique et au dèbut du Principat*, 229–84. Collection de l’Ècole Francaise de Rome 55. Paris: Ècole Francaise de Rome."
+    reference_for: "39"
+
+  - short: De Marinis 1998
+    full: "De Marinis, G. 1998. “La protome di cavallo Medici-Riccardi: Il contributo delle indagini chimico-fisiche.” In *In memoria di Enrico Paribeni*, ed. G. Capecchi, O. Paoletti, C. Cianferoni, A. M. Esposito, and A. Romualdi, 281–94. Rome: Giorgio Bretschneider."
+    reference_for: "39"
+
+  - short: Pasquinelli 2008
+    full: "Pasquinelli, C. 2008. *La Galleria in Esilio: Il trasferimento delle opere d’arte da Firenze a Palermo a cura del Cavalier Tommaso Puccini (1800–1803)*. Pisa: ETS."
+    reference_for: "39"
+
+  - short: Romualdi 1996
+    full: "Romualdi, A. 1996. “La testa di cavallo Medici Riccardi.” In *Bronzi greci e romani dalle collezioni del Museo Archeologico Nazionale di Firenze*, ed. A. Rastrelli and A. Romualdi, 8. Exh. cat. Florence, Museo Archeologico Nazionale di Firenze."
+    reference_for: "39"
+
+  - short: Siano et al. 2012
+    full: "Siano, S., M. Miccio, M. Giamello, S. Mugnaini, and J. Agresti. 2012. “Journey through the Material Layers of the Chimaera from Arezzo.” In *Myth, Allegory, Emblem: The Many Lives of the Chimaera of Arezzo*, ed. G. C. Cianferoni, M. Iozzo, and E. Setari. 185–222. Rome: Aracne."
+    reference_for: "39"
+
+  - short: Bennett 2013
+    full: "Bennett, M. 2013. *Praxiteles: The Cleveland Apollo*. London and Cleveland: The Cleveland Museum of Art in association with D. Giles Ltd."
+    reference_for: "40"
+
+  - short: Bode, Hauptmann, and Mezger 2009
+    full: "Bode, M., A. Hauptmann, and K. Mezger. 2009. “Tracing Roman Lead Sources using Lead Isotope Analyses in Conjunction with Archaeological and Epigraphic Evidence: A Case Study from Augustan/Tiberian Germania.” *Archaeological and Anthropological Sciences* 1: 177–94."
+    reference_for: "40"
+
+  - short: Craddock 1977
+    full: "Craddock, P. T. 1977. “The Composition of the Copper Alloys Used by the Greek, Etruscan and Roman Civilisations: 2. The Archaic, Classical and Hellenistic Greeks.” *JAS* 4: 103–23."
+    reference_for: "40"
+
+  - short: Craddock 1985
+    full: "Craddock, P. T. 1985. “Three Thousand Years of Copper Alloys from the Bronze Age to the Industrial Revolution.” In *Application of Science in the Examination of Works of Art*, ed. P. England and L. Van Zelst, 59–67. Boston: Museum of Fine Arts."
+    reference_for: "40"
+
+  - short: Craddock, Pichler, and Riederer 1987–88
+    full: "Craddock, P. T., B. Pichler, and J. Riederer. 1987–88. “Legierungszusammensetzung in naturwissenschaftlichen Untersuchungen an der Bronzestatue ‘Der Jüngling vom Magdalensberg’.” In *Wiener Berichte über Naturwissenschaft in der Kunst* 4/5: 262–95."
+    reference_for: "40"
+
+  - short: Drescher 1959
+    full: "Drescher, H. 1959. “Untersuchungen zur römischen Löttechnik.” *Technische Beiträge zur Archäologie* 1: 65–77."
+    reference_for: "40"
+
+  - short: Fasnacht and Northover 1991
+    full: "Fasnacht, W., and P. Northover. 1991. “Metallkundliche Untersuchungen.” *Berichte der Zürcher Denkmalpflege, Archäologische Monographien* 9: 239–51."
+    reference_for: "40"
+
+  - short: Gale et al. 1997
+    full: "Gale, N. H., Z. A. Stos-Gale, G. Maliotis, and N. Annetts. 1997. “Lead Isotope Data from the Isotrace Laboratory, Oxford: *Archaeometry* Data Base 4, Ores from Cyprus.” *Archaeometry* 39: 237–46."
+    reference_for: "40"
+
+  - short: Mattusch 1996
+    full: "Mattusch, C. C., ed. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections.* Cambridge: Harvard University Art Museums."
+    reference_for: "40"
+
+  - short: Northover and Rychner 1998
+    full: "Northover, J. P., and V. Rychner. 1998. “Bronze Analysis: Experience of a Comparative Programme.” In *L’atelier du bronzier en Europe du XXe au VIIIe siècle avant notre ère: Actes du colloque “Bronze ‘96”, Neuchâtel et Dijon, 1996*. Vol. 1: *Les analyses de composition du métal*, ed. C. Mordant, M. Pernot, and V. Rychner, 19–40. Paris: Èditions du Comité des travaux historiques et scientifiques."
+    reference_for: "40"
+
+  - short: Pernicka 1987
+    full: "Pernicka, E. 1987. “Erzlagerstätten in der Ägäis und ihre Ausbeutung im Altertum. Geochemische Untersuchungen zur Herkunftsbestimmung archäologischer Metallobjekte.” *JRGZM* 34: 607–714."
+    reference_for: "40"
+
+  - short: Pernicka et al. 1984
+    full: "Pernicka, E., T. C. Seeliger, G. A. Wagner, F. Begemann, S. Schmitt-Strecker, C. Eibner, Ö. Öztunalı, and I. Baranyi. 1984. “Archäometallurgische Untersuchungen in Nordwestanatolien.” *JRGZM* 31: 533–99."
+    reference_for: "40"
+
+  - short: Pernicka et al. 1997
+    full: "Pernicka, E., F. Begemann, S. Schmitt-Strecker, H. Todorova, and I. Kuleff. 1997. “Prehistoric Copper in Bulgaria: Its Composition and Provenance.” *Eurasia Antiqua* 3: 41–180."
+    reference_for: "40"
+
+  - short: Pernicka et al. 2008
+    full: "Pernicka, E., R. Schwab, N. Lockhoff, and M. Haustein. 2008. “Scientific Investigations of West African Metal Castings from a Collection in Bochum.” In *Original-Copy-Fake? Examining the Authenticity of Ancient Works of Art: Focusing on African and Asian Bronzes and Terracottas; International Symposium Stiftung Situation Kunst/Ruhr University Bochum, February 17th and 18th, 2007*, ed. E. Pernicka and S. von Berswordt-Wallrabe, 80–98. Mainz: Von Zabern."
+    reference_for: "40"
+
+  - short: Preisshofen 2002
+    full: "Preisshofen, R. 2002. “Der Apollon Sauroktonos des Praxiteles.” *AntP* 28: 41–115."
+    reference_for: "40"
+
+  - short: Stos-Gale, Gale, and Annetts 1996
+    full: "Stos-Gale, Z. A., N. H. Gale, and N. Annetts. 1996. “Lead Isotope Data from the Isotrace Laboratory, Oxford: *Archaeometry* Data Base 4, Ores from the Aegean, Part 1.” *Archaeometry* 38: 381–90."
+    reference_for: "40"
+
+  - short: Wolters 1996
+    full: "Wolters, J. 1996. “Löten im Mittelalter.” In *Europäische Technik im Mittelalter*, ed. U. Lindgren, 187–203. Berlin: Mann."
+    reference_for: "40"
+
+  - short: Allison and Pond 1983
+    full: "Allison, A., and R. Pond 1983. “On Copying Bronze Statuettes.” *Journal of the American Institute for Conservation* 23: 32–46."
+    reference_for: "41"
+
+  - short: Barr-Sharrar 2016
+    full: "Barr-Sharrar, B. 2016. “Barr-Sharrar on Ridgway on Daehner and Lapatin, *Power and Pathos: Bronze Sculpture of the Hellenistic World*.” *BMCR* 2016.02.29."
+    reference_for: "41"
+
+  - short: Connan 1999
+    full: "Connan, J. 1999. “Use and Trade of Bitumen in Antiquity and Prehistory: Molecular Archaeology Reveals Secrets of Past Civilizations.” *Philosophical Transactions of the Royal Society B: Biological Sciences* 354(1379): 33–50."
+    reference_for: "41"
+
+  - short: Daehner and Lapatin 2015
+    full: "Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum."
+    reference_for: "41"
+
+  - short: Gale and Stos-Gale 1982
+    full: "Gale, N. H., and Z. Stos-Gale. 1982. “Bronze Age Copper Sources in the Mediterranean: A New Approach.” *Science* (2 April 1982), 216(4541): 11–19."
+    reference_for: "41"
+
+  - short: Gale and Stos-Gale 1992
+    full: "Gale, N. H., and Z. Stos-Gale. 1992. “Lead Isotope Studies in the Aegean (The British Academy Project).” *Proceedings of the British Academy* 77: 63–108."
+    reference_for: "41"
+
+  - short: Goldman 1942
+    full: "Goldman, H. 1942. “The Origin of the Greek Herm.” *AJA* 46: 58–68."
+    reference_for: "41"
+
+  - short: Hellenkemper Salies 1994
+    full: "Hellenkemper Salies, G., ed. 1994. *Das Wrack: Der Antike Schiffsfund von Mahdia*. Exh. cat. Bonn, Rheinisches Landesmuseum. Cologne: Rheinland Verlag."
+    reference_for: "41"
+
+  - short: Kalpakjian and Schmid 2008
+    full: "Kalpakjian, S., and S. Schmid. 2008. *Manufacturing Processes for Engineering Materials*. 5th ed. Upper Saddle River (NJ): Pearson Education. [http://www.slideshare.net/jagdeep_jd/manufacturing-engineering-and-technology-schmid-and-kalpakjian](http://www.slideshare.net/jagdeep_jd/manufacturing-engineering-and-technology-schmid-and-kalpakjian)."
+    reference_for: "41"
+
+  - short: Lee 2015
+    full: "Lee, L. 2015. Getty Conservation Institute, Internal Report."
+    reference_for: "41"
+
+  - short: Mattusch 1994
+    full: "Mattusch, C. 1994. “Bronze Herm of Dionysos.” In Hellenkemper Salies 1994, 431–50."
+    reference_for: "41"
+
+  - short: Mattusch 1995
+    full: "Mattusch, C. 1995. “Two Bronze Herms: Questions of Mass Production in Antiquity.” *ArtJ* 54:2 (Conservation and Art History \[Summer\]): 53–59."
+    reference_for: "41"
+
+  - short: Mattusch 1996
+    full: "Mattusch, C. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections*. Cambridge (MA): Harvard University Art Museums."
+    reference_for: "41"
+
+  - short: Mattusch 2002
+    full: "Mattusch, C. 2002. “In Search of the Bronze Original.” In *The Ancient Art of Emulation: Studies in Artistic Originality and Tradition from the Present to Classical Antiquity*, 99–115, MAAR Supplementary vol. 1. Ann Arbor: University of Michigan Press."
+    reference_for: "41"
+
+  - short: Mattusch 2015
+    full: "Mattusch, C. 2015. “Repeated Images: Beauty with Economy.” In Daehner and Lapatin 2015, 110–25."
+    reference_for: "41"
+
+  - short: Pernicka and Eggert 1994
+    full: "Pernicka, E., and G. Eggert. 1994. “Die Zusammensetzung der Bronzeobjekte von Mahdia.” In Hellenkemper Salies 1994, 1041–61."
+    reference_for: "41"
+
+  - short: Richter 1951
+    full: "Richter, G. M. A. 1951. “Who Made the Roman Portrait Statues – Greeks or Romans?” *PAPS* 95.2: 184–91."
+    reference_for: "41"
+
+  - short: Ridgway 2015
+    full: "Ridgway, B. S. 2015. “Review of Jens M. Daehner, Kenneth Lapatin (eds.), *Power and Pathos: Bronze Sculpture of the Hellenistic World*, Los Angeles: J. Paul Getty Museum 2015.” *BMCR* 2015.09.02."
+    reference_for: "41"
+
+  - short: Ridgway 2016
+    full: "Ridgway, B. S. 2016. “Ridgway on Barr-Sharrar on Ridgway on Daehner and Lapatin, *Power and Pathos*.” *BMCR* 2016.02.47."
+    reference_for: "41"
+
+  - short: Schwab et al. 2008
+    full: "Schwab, R., G. Eggert, E. Pernicka, and F. Willer. 2008. “Zu den Bronzefunden aus dem Schiffswrack von Mahdia: Alte Proben, neue Untersuchungen.” *BJb* 208: 5–21."
+    reference_for: "41"
+
+  - short: Scott and Podany 1989
+    full: "Scott, D., and J. Podany. 1989. “Ancient Copper Alloys: Some Metallurgical and Technological Studies of Greek and Roman Bronzes.” In *Small Bronze Sculpture from the Ancient World: Papers Delivered at a Symposium*, 31–60. Malibu: J. Paul Getty Museum."
+    reference_for: "41"
+
+  - short: Skaggs 2012
+    full: "Skaggs, S. 2012. “Local Mining or Lead Importation in the Roman Province of Africa Proconsularis? Lead Isotope Analysis of Curse Tables from Roman Carthage, Tunisia.” *JAS* 39: 970–83."
+    reference_for: "41"
+
+  - short: Vink 1986
+    full: "Vink, B. W. 1986. “Stability Reactions of Malachite and Azurite.” *Mineralogical Magazine* (Mineralogical Society, London) (March 1986) 50: 41–47."
+    reference_for: "41"
+
+  - short: Wheeler et al. 1975
+    full: "Wheeler, T. S., R. Maddin, and J. Muhly. 1975. “Ingots and the Bronze Age Copper Trade in the Mediterranean: A Progress Report.” *Expedition* 17(4): 31–39."
+    reference_for: "41"
+
+  - short: Willer 1994a
+    full: "Willer, F. 1994. “Die Restaurierung der Herme.” In Hellenkemper Salies 1994, 953–58."
+    reference_for: "41"
+
+  - short: Willer 1994b
+    full: "Willer, F. 1994. “Zur Herstellung der Herme.” In Hellenkemper Salies 1994, 959–70."
+    reference_for: "41"
+
+  - short: Azéma, A. 2013
+    full: "Azéma, A. 2013. “Les techniques de soudage de la grande statuaire antique en bronze: étude des paramètres thermiques et chimiques contrôlant le soudage par fusion au bronze liquide.” Thèse de doctorat, Université Pierre et Marie Curie (Paris 6)."
+    reference_for: "42"
+
+  - short: Azéma et al. 2011
+    full: "Azéma, A., B. Mille, P. Echegut, and D. De Sousa Meneses. 2011. “An Experimental Study of the Welding Techniques Used on the Greek and Roman Large Bronze Statues.” *Historical Metallurgy* 45(2): 71–80."
+    reference_for: "42"
+
+  - short: Azéma et al. 2012
+    full: "Azéma, A., B. Mille, F. Pilon, J.-C. Birolleau, and L. Guyard. 2012. “Étude archéométallurgique du dépôt de grands bronzes du sanctuaire gallo-romain du Vieil-Évreux (Eure).” *Archéosciences* 36: 153–72."
+    reference_for: "42"
+
+  - short: Badoud 2010
+    full: "Badoud, N. 2010. “Une famille de bronziers originaires de Tyr.” *ZPE* 172: 125–43."
+    reference_for: "42"
+
+  - short: Badoud 2015
+    full: "Badoud, N. 2015. *Le temps de Rhodes: Une chronologie des inscriptions de la cité fondée sur l’étude de ses institutions*. München: C. H. Beck."
+    reference_for: "42"
+
+  - short: Badoud 2017
+    full: "Badoud, N. 2017. “La lame de plomb découverte à l’intérieur de l’Apollon de Piombino.” In *Originaux, répliques et pastiches: Techniques d’élaboration et datation des grands bronzes antiques (Paris, Musée du Louvre-C2RMF, February 13, 2013)*, ed. S. Descamps-Lequime and B. Mille. *Technè* 45."
+    reference_for: "42"
+
+  - short: Bourgarit and Mille 2003
+    full: "Bourgarit, D., and B. Mille. 2003. “The Elemental Analysis of Ancient Copper-based Artefacts by Inductively-Coupled-Plasma Atomic-Emission-Spectrometry (ICP-AES) : An Optimized Methodology Reveals Some Secrets of the Vix Crater.” *Measurement Science and Technology* 14: 1538–55."
+    reference_for: "42"
+
+  - short: Daehner and Lapatin 2015
+    full: "Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh. cat. Los Angeles, The J. Paul Getty Museum. Florence: Giunti; Los Angeles: J. Paul Getty Museum."
+    reference_for: "42"
+
+  - short: Descamps-Lequime 2015
+    full: "Descamps-Lequime, S. 2015. “Statue of Apollo (Piombino Apollo).” In Daehner and Lapatin 2015, 288–91, no. 47."
+    reference_for: "42"
+
+  - short: Dow 1941
+    full: "Dow, S. 1941. “A Family of Sculptors from Tyre.” *Hesperia* 10: 351–60."
+    reference_for: "42"
+
+  - short: Formigli 1984
+    full: "Formigli, E. 1984. “La tecnica di costruzione delle statue di Riace.” In *Due Bronzi da Riace: Rinvenimento, restauro, analisi ed ipotesi di interpretazione 1–2,* ed. L. Vlad Borrelli and P. Pelagatti, 107–42. Bollettino d'Arte, serie speciale 3. Rome: Libreria dello Stato."
+    reference_for: "42"
+
+  - short: Goodlett 1991
+    full: "Goodlett, V. C. 1991. “Rhodian Sculpture Workshops.” *AJA* 95: 669–81."
+    reference_for: "42"
+
+  - short: Heilmeyer 1996
+    full: "Heilmeyer, W.-D. 1996. *Der Jüngling von Salamis: Technische Untersuchungen zu römischen Großbronzen*. Mainz: Philipp von Zabern."
+    reference_for: "42"
+
+  - short: Hemingway 2015a
+    full: "Hemingway, S. 2015. “Statue of Eros Sleeping.” In Daehner and Lapatin 2015, 228–29, no. 20."
+    reference_for: "42"
+
+  - short: Hemingway 2015b
+    full: "Hemingway, S. 2015. “Portrait Statue of an Aristocratic Boy.” In Daehner and Lapatin 2015, 260–61, no. 35."
+    reference_for: "42"
+
+  - short: Hemingway et al. 2002
+    full: "Hemingway, S., E. Milleker and R.E. Stone. 2002. “The Early Imperial Bronze Statue of a Boy in the Metropolitan Museum of Art: A Technical and Stylistic Analysis.” In *I Bronzi Antichi: Produzione e tecnologia: Atti del XV Congresso Internazionale sui Bronzi Antichi, Grado-Aquileia, 22–26 maggio 2001*, ed. A. Giumlia-Mair, 200–207. Monographies instrumentum 21. Montagnac: Editions Monique Mergoil."
+    reference_for: "42"
+
+  - short: Konstantinopoulos 1977
+    full: "Konstantinopoulos, G. 1977. *Musées de Rhodes*. Vol. 1: *Musée archéologique*. Athens: Apollo."
+    reference_for: "42"
+
+  - short: Lapatin 2015
+    full: "Lapatin, K. 2015. “Statue of Apollo (Kouros).” In Daehner and Lapatin 2015, 292–93, no. 48."
+    reference_for: "42"
+
+  - short: Mattusch 1996a
+    full: "Mattusch, C. C. 1996. *Classical Bronzes: The Art and Craft of Greek and Roman Statuary*. Ithaca and London: Cornell University Press."
+    reference_for: "42"
+
+  - short: Mattusch 1996b
+    full: "Mattusch, C.C. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections*. Exh. cat. Cambridge (MA), Harvard University Art Museums."
+    reference_for: "42"
+
+  - short: Mattusch 1998
+    full: "Mattusch, C. C. 1998. “Rhodian Sculpture: A School, A Style or Many Workshops?” In *Regional Schools in Hellenistic Sculpture*: *Proceedings of an International Conference Held at the American School of Classical Studies at Athens, March 15–17, 1996*, ed. O. Palagia and W. Coulson, 149–56. Oxbow Monograph 90. Oxford: Oxbow Books."
+    reference_for: "42"
+
+  - short: Mille 2007
+    full: "Mille, B. 2007. “Étude technique du cheval de bronze de Neuvy-en-Sullias.” In *Le cheval et la danseuse: À la redécouverte du trésor de Neuvy-en-Sullias*, ed. C. Gorget and J.-P. Guillaumet, 88–99, 264–65. Paris: Somogy; \[Orléans\]: Musée des beaux-arts d'Orléans; \[Bavay\]: Musée/site d'archéologie."
+    reference_for: "42"
+
+  - short: Mille et al. 2012
+    full: "Mille, B., L. Rossetti and C. Rolley. 2012. “Les deux statues d’enfant en bronze (Cap d’Adge): Étude iconographique et technique.” In *Bronzes grecs et romains: recherches récentes: Hommage à Claude Rolley (Actes de colloque, INHA, 16–17 juin 2009)*, ed. Denoyelle, M., S. Descamps, B. Mille, and S. Verger. [http://inha.revues.org/3949](http://inha.revues.org/3949)."
+    reference_for: "42"
+
+  - short: Queyrel 2012
+    full: "Queyrel, F. 2012. “L’Alexandre d’Agde: un porte-plateau ou un porte-flambeau.” In *De l’Éphèbe à l’Alexandre d’Agde*, 61–69. Agde: Musée de l’Éphèbe & d’Archéologie sous-marine."
+    reference_for: "42"
+
+  - short: Ridgway 1996
+    full: "Ridgway, B. S. 1996. “Roman Bronze Statuary: Beyond Technology.” In Mattusch 1996b, 122–37."
+    reference_for: "42"
+
+  - short: Zimmer and Hackländer 1977
+    full: "Zimmer, G., and N. Hackländer. 1977. *Der Betende Knabe: Original und Experiment*. Frankfurt am Main: P. Lang."
+    reference_for: "42"
+
+  - short: Zimmer and Bairami 2008
+    full: "Zimmer, G., and K. Bairami. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής* (Rhodian Bronze Workshops). Athens: TAPA."
+    reference_for: "42"
+
+  - short: Bourgarit and Mille 2003
+    full: "Bourgarit, D., and B. Mille. 2003. “The Elemental Analysis of Ancient Copper-Based Artefacts by Inductively-Coupled-Plasma Atomic-Emission-Spectrometry (ICP-AES): An Optimized Methodology Reveals Some Secrets of the Vix Crater.” *Measurement Science and Technology* 14: 1538–55."
+    reference_for: "43"
+
+  - short: Cambi 2006
+    full: "Cambi, N. 2006. “The Athlete Cleaning the Strigil.” In Michelucci 2006, 21–33."
+    reference_for: "43"
+
+  - short: Karniš and Domijan 2006
+    full: "Karniš, I., and M. Domijan, eds. 2006. *The Croatian Apoxyomenos*. Zagreb: Hrvatski restauratorski zavod."
+    reference_for: "43"
+
+  - short: Karniš Vidovič and Mille 2015
+    full: "Karniš Vidovič, I., and B. Mille. 2015. “The Croatian Apoxyomenos: New Insights into Its Manufacturing Technique.” In *New Research on Ancient Bronzes: Acta of the XVIIIth International Congress on Ancient Bronzes*, ed. E. Deschler-Erb and P. Della Casa. Zurich Studies in Archaeology 10: 97–105. Zurich: Chronos."
+    reference_for: "43"
+
+  - short: Lalli et al. 2006
+    full: "Lalli, C., G. Lanterna, D. Pinna, S. Porcinai, M. Rizzi, and I. Tosini. 2006. “Diagnostic Tests.” In Michelucci 2006, 113–18."
+    reference_for: "43"
+
+  - short: Michelucci 2006
+    full: "Michelucci, M. ed. 2006. *Apoxyomenos: The Athlete of Croatia*. Florence: Giunti."
+    reference_for: "43"
+
+  - short: Mudronja et al. 2010
+    full: "Mudronja, D., M. Jakšić, S. Fazinić, I. Božičević, V. Desnica, J. Woodhead, and Z. A. Stos-Gale. 2010. “Croatian Appoxiomenos Alloy Composition and Lead Provenance Study.” *JAS* 37(7): 1396–1402. DOI:10.1016/j.jas.2009.12.0."
+    reference_for: "43"
+
+  - short: Agresti, Mencaglia, and Siano 2009
+    full: "Agresti, J., A. A. Mencaglia, and S. Siano. 2009. “Development and Application of a Portable LIPS System for Characterising Copper Alloy Artefacts.” *Analytical and Bioanalytical Chemistry* 395 (7): 2255–62."
+    reference_for: "44"
+
+  - short: Allrogen-Bedel and Kammerer-Grothaus 1980
+    full: "Allrogen-Bedel, A., and H. Kammerer-Grothaus. 1980. “Das Museo Ercolanese in Portici.” *CronErcol* 10: 175–217."
+    reference_for: "44"
+
+  - short: Alonso Rodriguez 2005
+    full: "Alonso Rodriguez, M. C. 2005. “Vaciados del siglo XVIII de la Villa de Los Papiros de Herculano en la Real Academia de Bellas Artes de San Fernando.” *Academia: Boletin de la Real Academia de Bellas Artes de San Fernando, Primer y Segundo Semestre de 2005* 100–101: 25–64."
+    reference_for: "44"
+
+  - short: Gelas 1820
+    full: "Gelas, M. 1820. *Catalogues des statues en bronze exposées dans une grande salle du Musée Bourbon à Naples*. Naples."
+    reference_for: "44"
+
+  - short: Lapatin 2015
+    full: "Lapatin, K. 2015. “Alexander the Great on Horseback.” In *Power and Pathos: Bronze Sculpture of the Hellenistic World*, ed. J. M. Daehner and K. Lapatin, 188–89. Los Angeles: J. Paul Getty Museum; Florence: Giunti."
+    reference_for: "44"
+
+  - short: Ruggiero 1885
+    full: "Ruggiero, M. 1885. *Storia degli scavi di Ercolano ricomposta su’ documenti superstiti.* Naples: Tipografica dell’Accademia reale delle scienze."
+    reference_for: "44"
+
+  - short: Scatozza 1982
+    full: "Scatozza, L. M. 1982. “Restauri alle collezioni del Museo Ercolanese di Portici alla luce di documenti inediti.” *Atti della Accademia Pontaniana* n.s. 31: 495–540."
+    reference_for: "44"
+
+  - short: Siano and Agresti 2015
+    full: "Siano, S., and J. Agresti. 2015, “Archaeometallurgical Characterisation of Donatello’s Florentine Copper Alloy Masterpieces Using Portable Laser-Induced Plasma Spectroscopy and Traditional Techniques.” *Studies in Conservation* 60 (suppl. 1): S106–19."
+    reference_for: "44"
+
+  - short: Winckelmann 2011
+    full: "Winckelmann, J. J. 2011. *J. J. Winckelmann:* *Letter, and Report on the Discoveries at Herculaneum*. Introduction, trans., and commentary by C. C. Mattusch. Los Angeles: J. Paul Getty Museum."
+    reference_for: "44"
+
+  - short: Bodley 1946
+    full: "Bodley, N. B. 1946. “The Auloi of Meroe.” *AJA* 50: 217–40; plates i–viii."
+    reference_for: "45"
+
+  - short: Byrne 2000
+    full: "Byrne, M. 2000. “Understanding the Aulos.” In *Studien zur Musikarchäologie* 2 (Orient-Archäologie 7), ed. E. Hickmann, I. Laufs, and R. Eichmann, 279–85. Rahden/Westfalia: M. Leidorf."
+    reference_for: "45"
+
+  - short: Byrne 2002
+    full: "Byrne, M. 2002. “Understanding the Aulos II: Extended Pipes and Drone.” In *Studien zur Musikarchäologie* 3 (Orient-Archäologie 10), ed. E. Hickmann, A. D. Kilmer, and R. Eichmann, 367–73. Rahden/Westfalia: M. Leidorf."
+    reference_for: "45"
+
+  - short: Cartwright 2015
+    full: "Cartwright, C. R. 2015. “The Principles, Procedures and Pitfalls in Identifying Archaeological and Historical Wood Samples.” *Annals of Botany* 116: 1–13."
+    reference_for: "45"
+
+  - short: Dixon and Wachsmann 1964
+    full: "Dixon, D. M., and K. P. Wachsmann. 1964. “A Sandstone Statue of an Auletes from Meroe.” *Kush* 12: 119–25."
+    reference_for: "45"
+
+  - short: Dunham 1957
+    full: "Dunham, D. 1957. *Royal Tombs at Meroë and Barkal.* Royal Cemeteries of Kush 4. Boston: Museum of Fine Arts."
+    reference_for: "45"
+
+  - short: Eichmann, Fang, and Koch 2012
+    full: "Eichmann, R., J. Fang, and L.-Ch. Koch, eds. *Studien zur Musikarchäologie* 8 (Orient-Archäologie 27). Rahden/Westfalia: M. Leidorf."
+    reference_for: "45"
+
+  - short: Hagel 2004
+    full: "Hagel, S. 2004. “Calculating Auloi: The Louvre Aulos Scale. In *Studien zur Musikarchäologie* 4 (Orient-Archäologie 15), ed. E. Hickmann and R. Eichmann, 373–90. Rahden/Westfalia: M. Leidorf."
+    reference_for: "45"
+
+  - short: Hagel 2008
+    full: "Hagel, S. 2008. “Re-evaluating the Pompeii Auloi.” *JHS* 128: 52–71."
+    reference_for: "45"
+
+  - short: Hagel 2009
+    full: "Hagel, S. 2009. *Ancient Greek Music: A New Technical History*. Cambridge and New York: Cambridge University Press."
+    reference_for: "45"
+
+  - short: Hagel 2012a
+    full: "Hagel, S. 2012. “The Pompeii Auloi: Improved Data and a Hitherto Unknown Mechanism. In Eichmann, Fang, and Koch 2012, 103–14."
+    reference_for: "45"
+
+  - short: Hagel 2012b
+    full: "Hagel, S. 2012. “How to Shoot an Aulos: Taking Measurements from Photographs.” In Eichmann, Fang, and Koch 2012, 405–13."
+    reference_for: "45"
+
+  - short: Hagel 2014
+    full: "Hagel, S. 2014. “Better Understanding the Louvre Aulos.” In *Studien zur Musikarchäologie* 9 (Orient-Archäologie 33), ed. R. Eichmann, J. Fang, and L.-Ch. Koch, 131–42. Rahden/Westfalia: M. Leidorf."
+    reference_for: "45"
+
+  - short: Harvard University–Museum of Fine Arts 1920–21a
+    full: "Harvard University–Museum of Fine Arts Expedition. 1920–21. *Expedition Diary*. Vol. 10: *Sudan*; Part 6: Begarawiya. Archives of the Department of Art of the Ancient World, MFA."
+    reference_for: "45"
+
+  - short: Harvard University–Museum of Fine Arts 1920–21b
+    full: "Harvard University–Museum of Fine Arts Expedition. 1920–21. *Object Register*, Sudan IX, Begarawiyeh (Meroe) 20-4-1 to 21-3-716. Archives of the Department of Art of the Ancient World, MFA."
+    reference_for: "45"
+
+  - short: Kuronen 2004
+    full: "Kuronen, D. 2004. *Musical Instruments: MFA Highlights*. Boston: MFA Publications."
+    reference_for: "45"
+
+  - short: Mille 2007
+    full: "Mille, B. 2007. “Les trompes gallo-romaine de Neuvy-en-Sullias Just sur-Dive, apport d’une étude de laboratoire.” In *Le cheval et la danseuse, à la redécouverte du trésor de Neuvy-en-Sullias*, ed. C. Gorget and J.-P Guillaumet, 146–55, 267. Paris: Somogy."
+    reference_for: "45"
+
+  - short: Priese 1993
+    full: "Priese, K. H. 1993. *The Gold of Meroe*. Mainz: Zabern."
+    reference_for: "45"
+
+  - short: Southgate 1915
+    full: "Southgate, T. L. 1915. “Ancient Flutes from Egypt.” *JHS* 35: 12–21."
+    reference_for: "45"
+
+  - short: Sutkowska 2012
+    full: "Sutkowska, O. 2012. “One of Nine Tibiae from a Villa Rustica in the Vesuvian Area Rediscovered.” In Eichmann, Fang, and Koch 2012, 115–26."
+    reference_for: "45"
+
+  - short: Sutkowska 2015
+    full: "Sutkowska, O. 2015. “Archäologische Auloi/Tibia Funde mit Mechanismen.” *Die Tonkunst* 9 (4): 412–22."
+    reference_for: "45"
+
+  - short: West 1992
+    full: "West, M.L. 1992. *Ancient Greek Music.* Oxford: Clarendon Press."
+    reference_for: "45"
+
+  - short: Al Moadin and Díez-Fuentes 2006
+    full: "Al Moadin, M., and H. Díez-Fuentes. 2006. *Highlights of the National Museum of Damascus*. 2006. Lebanon: Media Minds LLC."
+    reference_for: "46"
+
+  - short: Arafat et al. 2013
+    full: "Arafat, A., M. Naes, V. Kantarelou, N. Haddad, A. Giakoumaki, V. Argyropoulos, D. Anglos, and A. G. Karydas. 2013.“Combined *in situ* Micro-XRF, LIBS and SEM-EDS Analysis of Base Metal and Corrosion Products for Islamic Copper Alloyed Artefacts from Umm Qais Museum.” *Journal of Cultural Heritage* 14: 261–69."
+    reference_for: "46"
+
+  - short: Aruz, Benzel, and Evans 2008
+    full: "Aruz, J., K. Benzel, and J. M. Evans, eds. 2008. *Beyond Babylon: Art, Trade, and Diplomacy in the Second Millennium B.C.* New York: Metropolitan Museum of Art."
+    reference_for: "46"
+
+  - short: Degrigny et al. 2007
+    full: "Degrigny, C., A. G. Karydas, S. Golfomitsou, V. Kantarelou, Ch. Zarkadas, and D. Vella. 2007. “Methodology for the *in-situ* Analyses of Historic Steel Armours with Portable Milli- and Micro-XRF Spectrometers.” In *METAL-07*, vol. 2: *Innovative Investigation of Metal Artifacts*, 26–34. Amsterdam: Rijksmuseum."
+    reference_for: "46"
+
+  - short: Ebel 1999
+    full: "Ebel, H. 1999. “X-ray Tube Spectra.” *X-Ray Spectrometry* 27: 255–66."
+    reference_for: "46"
+
+  - short: Ferretti 2014
+    full: "Ferretti, M. 2014. “The Investigation of Ancient Metal Artefacts by Portable X-ray Fluorescence Devices.” *Journal of Analytical Atomic Spectrometry* 29: 1753–66."
+    reference_for: "46"
+
+  - short: Figueiredo et al. 2013
+    full: "Figueiredo, E., M. Fatima Araujo, J. C. Silva, and R. Raquel Vilaca. 2013. “Characterisation of a Proto-historic Bronze Collection by Micro-EDXRF.” *Nuclear Instruments and Methods in Physics Research B* 296: 26–31."
+    reference_for: "46"
+
+  - short: Giannoulaki et al. 2007.
+    full: "Giannoulaki, M., V. Argyropoulos, G. P. Michalakakos, Th. Panou, V. Kantarelou, C.. Zarkadas, A. G.. Karydas, V. Perdikatsis, and Ch. Apostolaki. 2007.“A Conservation Survey of Museum Metals Collections: A Case Study of Ancient Messene Museum, Greece.” In *METAL-07*, vol. 1: *When Archaeometry and Conservation Meet*, 67–72. Amsterdam: Rijksmuseum."
+    reference_for: "46"
+
+  - short: Gianoncelli and Kourousias 2007
+    full: "Gianoncelli, A. and Kourousias, G. 2007. “Limitations of Portable XRF Implementations in Evaluating Depth Information: An Archaeometric Perspective.” *Applied Physics A* 89: 857–63."
+    reference_for: "46"
+
+  - short: Heginbotham et al. 2010
+    full: "Heginbotham, A., A. Bezur, M. Bouchard, J. M. Davis, K. Eremin, J. H. Frantz, L. Glinsman, L. A. Hayek, D. Hook, V. Kantarelou, A. G.. Karydas, L. Lee, J. Mass, C. Matsen, B. McCarthy, M. McGath, A. Shugar, J. Sirois, D. Smith, and R. J. Speakman. 2010. “An Evaluation of Inter-laboratory Reproducibility for Quantitative XRF of Historic Copper Alloys.” In *Proceedings of the International Conference on Metal Conservation, METAL 2010*, ed. P. Mardikian, C. Chemello, C. Watters, and P. Hull, 178–88. Charleston (SC): Clemson University."
+    reference_for: "46"
+
+  - short: Ingelbrecht et al. 2001
+    full: "Ingelbrecht, C., A. Andriaens, and E. A. Maler. 2001. “The Certification of Arsenic, Lead, Tin and Zinc (Mass Fractions) in Five Copper Alloys, BCR-691.” *EUR 19778/1EN*."
+    reference_for: "46"
+
+  - short: Ingo et al. 2004
+    full: "Ingo, G. M., E. Angelini, T. de Caro, G. Bultrini, and I. Calliari. 2004. “Combined Use of GDOES, SEM + EDS, XRD and OM for the Microchemical Study of the Corrosion Products on Archaeological Bronzes.” *Applied Physics A* 79: 199–203."
+    reference_for: "46"
+
+  - short: Kantarelou et al. 2007a
+    full: "Kantarelou, V., Ch. Zarkadas, A. Giakoumaki, M. Giannoulaki, A. G.. Karydas, D. Anglos, and V. Argyropoulos. 2007. “A Novel Approach on the Combined in-situ Application of LIBS and μ-XRF Spectrometers for the Characterization of Copper Alloy Corrosion Products.” In *METAL-07*, vol. 2: *Innovative Investigation of Metal Artifacts*, 35–41."
+    reference_for: "46"
+
+  - short: Kantarelou et al. 2007b
+    full: "Kantarelou, V., A. G. Karydas, Ch. Zarkadas, M. Giannoulaki, and V. Argyropoulos. 2007. “Micro-XRF Analysis of High Tin Bronze Mirrors at the Museum of Ancient Messene in Greece.” In *Proceedings of the International Conference on Conservation Strategies for Saving Indoor Metallic Collections (CSSIM)*, ed. V. Argyropoulos, A. Hein, and M. A. Harith, 93–99. Athens: Dept. of Conservation of Antiquities and Works of Art."
+    reference_for: "46"
+
+  - short: Kantarelou et al. 2015
+    full: "Kantarelou, V., A. G. Karydas, D. Sokaras, L. Mahfouz, A. Qurdab, M. Al-Saadi, M. Giannoulaki, and V. Argyropoulos. 2015. “In situ Scanning Micro-XRF Analyses of Gilded Bronze Figurines at the National Museum of Damascus.” *Journal of Analytical Atomic Spectroscopy* 30: 1787–98."
+    reference_for: "46"
+
+  - short: Kantarelou and Karydas 2016
+    full: "Kantarelou V., and A. G. Karydas. 2016. “A Simple Calibration Procedure of Polycapillary Based Portable Micro-XRF Spectrometers for Reliable Quantitative Analysis of Cultural Heritage Materials.” X *Ray Spectrometry* 45: 85–94."
+    reference_for: "46"
+
+  - short: Karydas 2007
+    full: "Karydas, A. G. 2007. “Application of a Portable XRF Spectrometer for the Non-Invasive Analysis of Museum Metal Artefacts.” *Annali di Chimica* 97: 419–32."
+    reference_for: "46"
+
+  - short: Karydas, Anglos, and Harith 2008
+    full: "Karydas, A. G., D. Anglos, and M. A. Harith. 2008. “Mobile Micro-XRF and LIBS Spectrometers for Diagnostic Micro-Analysis of Ancient Metal Objects.” In *Metals and Museums in the Mediterranean: Protecting, Preserving and Interpreting*, ed. V. Argyropoulos, 141–77. Athens: Department of Conservation of Antiquities and Works of Art."
+    reference_for: "46"
+
+  - short: Manso et al. 2015
+    full: "Manso, M., N. Schiavon, I. Queralt, A. M. Arruda, J. M. Sampaio, and A. Brunetti. 2015. “Alloy Characterization of a 7th Century BC Archeological Bronze Vase Overcoming Patina Constraints Using Monte Carlo Simulations.” *Spectrochimica Acta B* 107: 93–96."
+    reference_for: "46"
+
+  - short: Nicholas and Manti 2014
+    full: "Nicholas, M., and P. Manti. 2014. “Testing the Applicability of Handheld Portable XRF to the Characterisation of Archaeological Copper Alloys.” In *Proceedings of ICOM-CC 17th Triennial Conference, Melbourne*, ed. J. Bridgeland. International Council of Museums."
+    reference_for: "46"
+
+  - short: Potts and West 2008
+    full: "Potts, P. J., and M. West, eds. 2008. *Portable X-ray Fluorescence Spectrometry: Capabilities for In Situ Analysis*. Cambridge: RSC Publishing."
+    reference_for: "46"
+
+  - short: Robbiola et al. 1998
+    full: "Robbiola, L., J. M. Blengino, and C. Fiaud. 1998. “Morphology and Mechanisms Formation of Natural Patinas on Archaeological Cu-Sn Alloys.” *Corrosion Science* 40: 2083–111."
+    reference_for: "46"
+
+  - short: Trentelman et al. 2010
+    full: "Trentelman, K., M. Bouchard, M. Ganio, C. Namowicz, C. Schmidt Patterson, and M. Walton. 2010. “The Examination of Works of Art Using *in situ* XRF Line and Area Scans.” *X-Ray Spectrometry* 39: 159–66."
+    reference_for: "46"
+
+  - short: *Ancient Art* 1954
+    full: "*Ancient Art in American Private Collections*. 1954. Exh. cat. Cambridge (MA): Fogg Art Museum."
+    reference_for: "47"
+
+  - short: Arndt and Amelung 1897
+    full: "Arndt, P., and W. Amelung. 1897. *Photographische Einzelaufnahmen antiker Sculpturen*, vol. 3. Munich: Verlagsanstalt für Kunst und Wissenschaft vormals F. Bruckmann."
+    reference_for: "47"
+
+  - short: Balmuth and Tykot 2002
+    full: "Balmuth, M. S., and R. H. Tykot. 2002. “Recipes for Sardinian Bronzes.” In *From the Parts to the Whole: Acta of the 13th International Bronze Congress*, ed. C. C. Mattusch, A. Brauer, and S. E. Knudsen, 19–26. Portsmouth, RI: JRA Suppl. 39."
+    reference_for: "47"
+
+  - short: Bewer and Lie 2014
+    full: "Bewer, F. G., and H. Lie. 2014. “Ex Aere Factum: Technical Notes on Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 38–63. Cambridge (MA): Harvard Art Museums."
+    reference_for: "47"
+
+  - short: Buitron 1973
+    full: "Buitron, D. M. 1973. “The Alexander Nelidow: A Renaissance Bronze?” *ArtB* 55: 393–400."
+    reference_for: "47"
+
+  - short: Daehner and Lapatin 2015
+    full: "Daehner, J. M., and K. Lapatin, eds. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Los Angeles: J. Paul Getty Museum."
+    reference_for: "47"
+
+  - short: Eggert 2008
+    full: "Eggert, G. 2008. “Patina: Case Studies in Bronze Corrosion.” In Pernicka and von Berswordt-Wallrabe 2008, 74–79."
+    reference_for: "47"
+
+  - short: Eremin and Riederer 2014
+    full: "Eremin, K., with J. Riederer. 2014. “Analytical Approaches to Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 64–91. Cambridge (MA): Harvard Art Museums."
+    reference_for: "47"
+
+  - short: Galerie Georges Petit 1911
+    full: "Galerie Georges Petit. 1911. *Catalogue des ojects antiques provenant de la collection de Son Exc. Mr. de Nelidow*. Auction catalogue. May 23–24, 1911, Paris. Paris: C. & E. Canessa."
+    reference_for: "47"
+
+  - short: Gulson 1984
+    full: "Gulson, B. L. 1984. “Uranium-Lead and Lead-Lead Investigations of Minerals from the Broken Hill Lodes and Mine Sequence Rocks.” *Economic Geology* 79: 479–90."
+    reference_for: "47"
+
+  - short: Himmelmann 1989
+    full: "Himmelmann, N. 1989. *Herrscher und Athlet: Die Bronzen vom Quirinal*. Milan: Arnoldo Mondadori."
+    reference_for: "47"
+
+  - short: Jébrak et al. 1998
+    full: "Jébrak, M., É. Marcoux, M. Nasloubi, and M. Zaharaoui. 1998. “From Sandstone- to Carbonate-Hosted Stratabound Deposits: An Isotope Study of Galena in the Upper-Moulouya District (Morocco).” *Mineralium Deposita* 33: 406–15."
+    reference_for: "47"
+
+  - short: Kober et al. 1999
+    full: "Kober, B., M. Wessels, A. Bollhöfer, and A. Mangini. 1999. “Pb Isotopes in Sediments of Lake Constance, Central Europe.” *Geochimica et Cosmochimica Acta* 63.9: 1293–303."
+    reference_for: "47"
+
+  - short: Kreilinger 1996
+    full: "Kreilinger, U. 1996. *Römische Bronzeappliken: Historische Reliefs im Kleinformat*. Archäologie und Geschichte 6. Heidelberg: Archäologie und Geschichte."
+    reference_for: "47"
+
+  - short: Kuleff et al. 2006
+    full: "Kuleff, I., I. Iliev, E. Pernicka, and D. Gergova. 2006. “Chemical and Lead Isotope Compositions of Lead Artefacts from Ancient Thracia (Bulgaria).” *Journal of Cultural Heritage* 7: 244–56."
+    reference_for: "47"
+
+  - short: Lilliu 1966
+    full: "Lilliu, G. 1966. *Sculture della Sardegna nuragica*. Cagliari: Ilisso."
+    reference_for: "47"
+
+  - short: Monna, F., et al. 1997
+    full: "Monna J. Lancelot, I. W. Croudace, A. B. Cundy, and J. T. Lewis. 1997. “Pb Isotopic Composition of Airborne Particulate Material from France and the Southern United Kingdom: Implications for Pb Pollution Sources in Urban Areas.” *Environmental Science and Technology* 31: 2277–96."
+    reference_for: "47"
+
+  - short: Muffatti 1969
+    full: "Muffatti, G. 1969. “L’instrumentum in bronzo.” *StEtr* 37.2: 247–72."
+    reference_for: "47"
+
+  - short: Muscarella, O. W. 2008
+    full: "Muscarella, O. W. 2008. “The Veracity of ‘Scientific’ Testing by Conservators.” In Pernicka and von Berswordt-Wallrabe 2008, 9–18."
+    reference_for: "47"
+
+  - short: Ohly-Dumm 1973
+    full: "Ohly-Dumm, M. 1973. “Berichte der Staatlichen Kunstsammlungen: Glyptothek und Antikensammlungen.” *MüJb* 24: 239–46."
+    reference_for: "47"
+
+  - short: Pernicka and von Berswordt-Wallrabe 2008
+    full: "Pernicka, E., and S. von Berswordt-Wallrabe, eds. 2008. *Original – Copy – Fake? Examining the Authenticity of Ancient Works of Art*. Mainz: Philipp von Zabern."
+    reference_for: "47"
+
+  - short: Pollak 1903
+    full: "Pollak, L. 1903. *Klassisch-Antike Goldschmiedearbeiten im Besitze Sr. Excellenz A. J. von Nelidow*. Leipzig: Karl W. Hiersemann."
+    reference_for: "47"
+
+  - short: Pryce et al. 2014
+    full: "Pryce, T. O., S. Brown, B. H. M. Bellina, P. S. Bellwood, N. Chang, P. Chattopadhyay, E. Dizon, E. Hamilton, C. F. W. Higham, A. A. Kyaw, V. Laychour, S. Natapinto, V. Nguyen, J.-P. Pautreau, E. Pernicka, V. C. Pigott, M. Pollard, C. Pottier, A. Reinecke, T. Sayavongkhamdy, V. Souksavatdy, and J. White. 2014. “More Questions Than Answers: The Southeast Asian Lead Isotope Project 2009–2012.” *JAS* 42: 273–94."
+    reference_for: "47"
+
+  - short: Skaggs et al. 2012
+    full: "Skaggs, S., N. Norman, E. Garrison, D. Coleman, and S. Bouhlel. 2012. “Local Mining or Lead Importation in the Roman Province of Africa Proconsularis? Lead Isotope Analysis of Curse Tablets from Roman Carthage, Tunisia.” *JAS* 39: 970–83."
+    reference_for: "47"
+
+  - short: Srinivasan 1999
+    full: "Srinivasan, S. 1999. “Lead Isotope and Trace Element Analysis in the Study of Over a Hundred South Indian Metal Icons.” *Archaeometry* 41.1: 91–116."
+    reference_for: "47"
+
+  - short: Stewart 1993
+    full: "Stewart, A. 1993. *Faces of Power: Alexander’s Image and Hellenistic Politics*. Berkeley: University of California Press."
+    reference_for: "47"
+
+  - short: Wulff 1898
+    full: "Wulff, O. 1898. *Alexander mit der Lanze*. Berlin: A. Asher & Co."
+    reference_for: "47"
