@@ -1,6 +1,14 @@
 {{ define "main" }}
-{{ $list := ( where .Site.Data.bibliography.biblio_list "reference_for" .Params.id ) }}
-{{ $len := ( len $list ) }}
+{{ range .Site.Data.bibliography.biblio_list }}
+  {{ $refs := replace .reference_for " " "" }}
+  {{ $refslist := split $refs "," }}
+  {{ range $refslist }}
+    {{ if eq . $.Params.id  }}
+        {{ $.Scratch.Add "a" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $pagebiblio := $.Scratch.Get "a" }}
 <div class="quire-page">
   <header class="quire-page__header">
     <h1 class="quire-page__header__title"><span class="quire-page__header__number">{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
@@ -9,7 +17,7 @@
     <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
     {{ end }}
     </ul>
-    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a>{{ if gt $len 0 }} | <a href="#bibliography">Bibliography</a>{{ end }}</p>
+    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a>{{ if $pagebiblio }}| <a href="#bibliography">Bibliography</a>{{ end }}</p>
   </header>
   <div class="quire-page__content">
     <section>
@@ -22,17 +30,21 @@
     <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
-    {{ if gt $len 0 }}
+    {{ if $pagebiblio }}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>
-      <dl>
-        {{- range .Site.Data.bibliography.biblio_list -}}
-        {{- if in .reference_for $.Params.id -}}
-        <dt>{{ .short }}</dt>
-        <dd>{{ .full | markdownify }}</dd>
-        {{- end -}}
-        {{- end -}}
-      </dl>
+      {{ range .Site.Data.bibliography.biblio_list }}
+        {{ $refs := replace .reference_for " " "" }}
+        {{ $refslist := split $refs "," }}
+        {{ $s := .short }}
+        {{ $f := .full }}
+        {{ range $refslist }}
+          {{ if eq . $.Params.id  }}
+              <dt>{{ $s }}</dt>
+              <dd>{{ $f | markdownify }}</dd>
+          {{ end }}
+        {{ end }}
+      {{ end }}
     </section>
     {{ end }}
 </div>
