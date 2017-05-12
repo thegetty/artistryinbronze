@@ -13,216 +13,59 @@ weight: 402
 
 ## Discovery in 1935 in Ancient Elymais
 
-The portrait head of a Hellenistic ruler (**fig. 22.1**) was discovered
-more than eighty years ago in Kal-e Chendar in the valley of Shami,
-north of Izeh in present-day Khuzistan (ancient Elymais). It is often
-stated that Sir Aurel Stein (1862–1943), the famous Hungaro-British
-explorer, excavated the portrait. In fact, it was found accidently in
-the course of construction work, shortly before Stein arrived at the
-site.[^1] In 1935 local semi-nomadic Bakhtiaris had been obliged to
-settle down, and as they dug the foundations for a dwelling they
-discovered fragments of ancient statues made of bronze and marble. Of
-these the so-called Parthian nobleman—a nearly complete statue of a man
-in Parthian dress, some 2 meters (6 1/2 ft.) high—is the most
-well-known.[^2] When the military governor of the district came to learn
-of the discoveries, he ordered that the site be left undisturbed and
-transported all the finds to his house at Malamir (modern Izeh). About
-six months later, Stein visited the region during his Fourth Expedition
-into Iran. He saw the finds at the governor’s house, took some
-photographs of the statues, and decided to visit the place of their
-discovery.
+The portrait head of a Hellenistic ruler ([fig. 22.1](fig. 22.1)) was discovered more than eighty years ago in Kal-e Chendar in the valley of Shami, north of Izeh in present-day Khuzistan (ancient Elymais). It is often stated that Sir Aurel Stein (1862–1943), the famous Hungaro-British explorer, excavated the portrait. In fact, it was found accidently in the course of construction work, shortly before Stein arrived at the site.[^1] In 1935 local semi-nomadic Bakhtiaris had been obliged to settle down, and as they dug the foundations for a dwelling they discovered fragments of ancient statues made of bronze and marble. {{< q-figure id="22.1" class="float-left" >}}Of these the so-called Parthian nobleman—a nearly complete statue of a man in Parthian dress, some 2 meters (6 1/2 ft.) high—is the most well-known.[^2] When the military governor of the district came to learn of the discoveries, he ordered that the site be left undisturbed and transported all the finds to his house at Malamir (modern Izeh). About six months later, Stein visited the region during his Fourth Expedition into Iran. He saw the finds at the governor’s house, took some photographs of the statues, and decided to visit the place of their discovery.
+
+
 
 ## Excavations by Sir Aurel Stein in 1936
 
-Stein excavated at Kal-e Chendar for six days between January 28 and
-February 3, 1936.[^3] During this period, he conducted a brief survey of
-the whole site and opened a trench in the area where the sculptures were
-found. He found the remains of a quadrangular enclosure, about 12.5 by
-23.5 meters (41 x 77 ft.), with an altar built of burnt bricks in the
-center. These suggested to Stein a shrine with veranda-like halls along
-the walls and a central area left open to the sky. The structural
-remains are documented in a sketch plan, with marks for the findspots of
-the objects recovered during the archaeological investigations and for
-the earlier excavated sculptural fragments, as reported by the local
-villagers.[^4] Altogether, fragments of seven large-scale bronze
-sculptures and six smaller figures of bronze and marble were found.
-Based on the presumed dating of the sculptures, Stein wrote, “it has
-proved a shrine where local worship, continued into Parthian times, had
-in a syncretistic fashion common to the Near East combined Hellenistic
-cult of Greek divinities with the worship of deified royal personages,
-perhaps from Alexander the Great down to Iranian chiefs for us
-nameless.”[^5]
+Stein excavated at Kal-e Chendar for six days between January 28 and February 3, 1936.[^3] During this period, he conducted a brief survey of the whole site and opened a trench in the area where the sculptures were found. He found the remains of a quadrangular enclosure, about 12.5 by 23.5 meters (41 x 77 ft.), with an altar built of burnt bricks in the center. These suggested to Stein a shrine with veranda-like halls along the walls and a central area left open to the sky. The structural remains are documented in a sketch plan, with marks for the findspots of the objects recovered during the archaeological investigations and for the earlier excavated sculptural fragments, as reported by the local villagers.[^4] Altogether, fragments of seven large-scale bronze sculptures and six smaller figures of bronze and marble were found. Based on the presumed dating of the sculptures, Stein wrote, “it has proved a shrine where local worship, continued into Parthian times, had in a syncretistic fashion common to the Near East combined Hellenistic cult of Greek divinities with the worship of deified royal personages, perhaps from Alexander the Great down to Iranian chiefs for us nameless.”[^5]
 
 ## Recent Investigations at Kal-e Chendar by the Iranian-Italian mission
 
-Despite these extraordinary discoveries, Kal-e Chendar soon fell into
-oblivion, at least among archaeologists.[^6] However, in 2012 the
-Iranian-Italian Joint Expedition in Khuzistan carried out a new survey
-and started archaeological investigations.[^7] According to their
-preliminary results, the site consisted of at least three monumental
-terraces. The photographs taken by Stein in 1936 enabled the
-archaeologists to determine the approximate spot where Stein excavated,
-which is now covered over and cultivated. The Stein trench is at a
-peripheral part of the largest terrace, which extends for more than
-6,000 square meters (65,000 sq. ft.). Therefore, the discovered
-enclosure was hardly the main building of the sanctuary. Rather, the
-focal point was a large temple, which is attested so far only by column
-drums and blocks of ancient masonry, scattered on the surface or re-used
-in the walls of modern houses. The sculptures found in 1935 and 1936
-most likely belong to the presumed temple, and their number and quality
-indicate that it must have been one of the most renowned religious
-places of ancient Elymais. Given the style and date of the ruler
-portrait in question, the sanctuary must have been established already
-in Hellenistic times.
+Despite these extraordinary discoveries, Kal-e Chendar soon fell into oblivion, at least among archaeologists.[^6] However, in 2012 the Iranian-Italian Joint Expedition in Khuzistan carried out a new survey and started archaeological investigations.[^7] According to their preliminary results, the site consisted of at least three monumental terraces. The photographs taken by Stein in 1936 enabled the archaeologists to determine the approximate spot where Stein excavated, which is now covered over and cultivated. The Stein trench is at a peripheral part of the largest terrace, which extends for more than 6,000 square meters (65,000 sq. ft.). Therefore, the discovered enclosure was hardly the main building of the sanctuary. Rather, the focal point was a large temple, which is attested so far only by column drums and blocks of ancient masonry, scattered on the surface or re-used in the walls of modern houses. The sculptures found in 1935 and 1936 most likely belong to the presumed temple, and their number and quality indicate that it must have been one of the most renowned religious places of ancient Elymais. Given the style and date of the ruler portrait in question, the sanctuary must have been established already in Hellenistic times.
 
 ## The Head
 
-The head was found in two pieces, obviously severed in antiquity. The
-first published photo shows both fragments lying on their sides,
-juxtaposed (**fig. 22.2**). Although Stein noted that the two parts fit
-together, the side views of the faces differ sufficiently that some
-scholars assume that they represent two different portraits.[^8] In any
-case, for aesthetic and museum reasons the two parts were fixed together
-sometime in the 1960s and the join was covered with epoxy. The fragments
-comprise a clean-shaven face with both ears, parts of the hair, and the
-front part of the neck, which is bent forward. The upper and posterior
-parts of the head were detached from the face and are not preserved.[^9]
-Although there is a deep dent in the right cheek, the appearance of the
-right side is still vigorous. The left side is quite different: the
-jawline is bent outward forming a chubby cheek (see fig. 22.5). The
-frontal view shows that the entire face is bent toward the right side
-along the bridge of the nose. All in all, the facial features are so
-distorted that it is impossible to identify the ruler.
+The head was found in two pieces, obviously severed in antiquity. The first published photo shows both fragments lying on their sides, juxtaposed ([fig. 22.2](fig. 22.2)). Although Stein noted that the two parts fit together, the side views of the faces differ sufficiently that some scholars assume that they represent two different portraits.[^8] In any case, for aesthetic and museum reasons the two parts were fixed together sometime in the 1960s and the join was covered with epoxy. The fragments comprise a clean-shaven face with both ears, parts of the hair, and the front part of the neck, which is bent forward. The upper and posterior parts of the head were detached from the face and are not preserved.[^9] Although there is a deep dent in the right cheek, the appearance of the right side is still vigorous. The left side is quite different: the jawline is bent outward forming a chubby cheek (see [fig. 22.5](fig. 22.5)). The frontal view shows that the entire face is bent toward the right side along the bridge of the nose. All in all, the facial features are so distorted that it is impossible to identify the ruler.
+
+{{< q-figure id="22.2" >}}
 
 ## Proposed Identifications
 
-Nevertheless, numerous attempts have been made to identify the sitter.
-The size and the quality of the head indicate that it is a portrait of a
-ruler. And because it was discovered in Iran it is most probably a king
-of the Seleucid dynasty, which ruled the Hellenistic East until the
-Parthian invasion of 141 BC. Several identifications have been proposed
-from Alexander the Great[^10] to Antiochus I and II or Seleucus II,[^11]
-to Antiochus III,[^12] Antiochus IV,[^13] and Antiochus VII.[^14] It has
-even been proposed that the head represents Kamnaskires I,[^15] the
-first king of a local Elymaean dynasty ruling under Parthian domination
-from the middle of the second century BC. But most of these
-identifications are merely speculations, based on historical
-considerations rather than on a comparison with the coin portraits of
-the respective kings. Because of the strong deformation of the face,
-some scholars admit that it is difficult or even impossible to identify
-the ruler.[^16] So despite Stein’s hope that expert examination of the
-head might lead to a solid identification, the depicted ruler even today
-is still unknown.[^17]
+Nevertheless, numerous attempts have been made to identify the sitter. The size and the quality of the head indicate that it is a portrait of a ruler. And because it was discovered in Iran it is most probably a king of the Seleucid dynasty, which ruled the Hellenistic East until the Parthian invasion of 141 BC. Several identifications have been proposed from Alexander the Great[^10] to Antiochus I and II or Seleucus II,[^11] to Antiochus III,[^12] Antiochus IV,[^13] and Antiochus VII.[^14] It has even been proposed that the head represents Kamnaskires I,[^15] the first king of a local Elymaean dynasty ruling under Parthian domination from the middle of the second century BC. But most of these identifications are merely speculations, based on historical considerations rather than on a comparison with the coin portraits of the respective kings. Because of the strong deformation of the face, some scholars admit that it is difficult or even impossible to identify the ruler.[^16] So despite Stein’s hope that expert examination of the head might lead to a solid identification, the depicted ruler even today is still unknown.[^17]
 
 ## The Deliberate Breakage of the Head
 
-As mentioned above, the head was broken into two pieces, and not merely
-for the purpose of melting down the metal. A photograph taken by Stein,
-preserved in the archives of the British Library and published here for
-the first time (**fig. 22.3**), shows the assembled parts of the head
-before restoration. The marks of a chisel are visible at the left side
-of the forehead (**fig. 22.4**). From there, the cut runs along the
-bridge of the nose to the chin. This is not the easiest line along which
-to divide a bronze head, therefore a non-pragmatic purpose of the
-partition has to be considered. Moreover, the dent in the right cheek
-was the result of several heavy blows with an edged tool, presumably a
-stone. The entire nose is pushed to the right side of the face,
-compressing the right side of the nose and bulging out the left cheek.
-The brutality of the actions and the deliberate distortion is obvious.
-Presumably the damage is a form of *damnatio memoriae* and the
-performers aimed to destroy the image and the memory of the ruler.
+As mentioned above, the head was broken into two pieces, and not merely for the purpose of melting down the metal. A photograph taken by Stein, preserved in the archives of the British Library and published here for the first time ([fig. 22.3](fig. 22.3)), shows the assembled parts of the head before restoration. The marks of a chisel are visible at the left side of the forehead ([fig. 22.4](fig. 22.4)). From there, the cut runs along the bridge of the nose to the chin. This is not the easiest line along which to divide a bronze head, therefore a non-pragmatic purpose of the partition has to be considered. Moreover, the dent in the right cheek was the result of several heavy blows with an edged tool, presumably a stone. The entire nose is pushed to the right side of the face, compressing the right side of the nose and bulging out the left cheek. The brutality of the actions and the deliberate distortion is obvious. Presumably the damage is a form of *damnatio memoriae* and the performers aimed to destroy the image and the memory of the ruler.
+
+{{< q-figure-group id="22.4, 22.5" grid="2" >}}
 
 ## A First Reconstruction
 
-A first attempt to reconstruct the original features of the portrait was
-made soon after its discovery. This is attested only by a photograph
-taken by Stein in 1937, which is reproduced in Michael Rostovtzeff’s
-*The* *Social and Economic History of the Hellenistic World*
-(Rostovtzeff 1941). The caption reads: “photograph of a lead cast
-supplied by Sir Aurel Stein” and “*pro tempore* in the British
-Museum.”[^18] This label seems surprising, because the piece of art was
-found in Iran and has long since been in the National Museum of Iran.
-But indeed the head made a short trip to London. Because Stein was a
-famous explorer, the Iranian authorities allowed him temporarily to send
-all finds from his expedition to the British Museum for
-examination.[^19] During its time in London, the sculptor Frank Bowcher
-made a piece mold of the head and produced a lead cast.[^20] The
-sculptor added the eye, squeezed out the depression in the right cheek,
-and put some parts of the head back in place, such as the neck.[^21]
-Unfortunately, this reconstruction could not be traced in the British
-Museum or in any other collection in the United Kingdom.
+A first attempt to reconstruct the original features of the portrait was made soon after its discovery. This is attested only by a photograph taken by Stein in 1937, which is reproduced in Michael Rostovtzeff’s *The* *Social and Economic History of the Hellenistic World* (Rostovtzeff 1941). The caption reads: “photograph of a lead cast supplied by Sir Aurel Stein” and “*pro tempore* in the British Museum.”[^18] This label seems surprising, because the piece of art was found in Iran and has long since been in the National Museum of Iran. But indeed the head made a short trip to London. Because Stein was a famous explorer, the Iranian authorities allowed him temporarily to send all finds from his expedition to the British Museum for examination.[^19] During its time in London, the sculptor Frank Bowcher made a piece mold of the head and produced a lead cast.[^20] The sculptor added the eye, squeezed out the depression in the right cheek, and put some parts of the head back in place, such as the neck.[^21] Unfortunately, this reconstruction could not be traced in the British Museum or in any other collection in the United Kingdom.
 
 ## The Intended Reconstruction of the Original Features of the Head
 
-The reconstruction of the original features of the Hellenistic ruler has
-been attempted again in a project started in August 2015. Based upon a
-series of digital images and by means of photogrammetry, a
-three-dimensional state model was created (**fig. 22.5**).[^22] This
-model, in turn, will serve to reconstruct the original physiognomy of
-the face by means of computer animation. For example, relatively
-well-preserved sections such as the upper cheek and eye of the right
-side of the face can be cut out, mirrored, and inserted on the other
-side of the head. Dents and bulges can be straightened, and the cracks
-joined. But it is still a work in progress. The reconstructed portrait
-should enable comparison to coin portraits of the Seleucid kings. Of
-course, such an approach has to consider the problems particular to
-comparison between a three-dimensional representation to two-dimensional
-coin designs. Nevertheless, we hope be able to identify the sitter of
-the bronze portrait in the National Museum of Iran.
+The reconstruction of the original features of the Hellenistic ruler has been attempted again in a project started in August 2015. Based upon a series of digital images and by means of photogrammetry, a three-dimensional state model was created ([fig. 22.5](fig. 22.5)).[^22] This model, in turn, will serve to reconstruct the original physiognomy of the face by means of computer animation. For example, relatively well-preserved sections such as the upper cheek and eye of the right side of the face can be cut out, mirrored, and inserted on the other side of the head. Dents and bulges can be straightened, and the cracks joined. But it is still a work in progress. The reconstructed portrait should enable comparison to coin portraits of the Seleucid kings. Of course, such an approach has to consider the problems particular to comparison between a three-dimensional representation to two-dimensional coin designs. Nevertheless, we hope be able to identify the sitter of the bronze portrait in the National Museum of Iran.
 
 ## Other Remains of the Sculpture
 
-The photos from the Stein archive show further pieces of bronze
-sculpture, most likely belonging to the same sculpture as the bronze
-head in question. Some pieces were already illustrated in Stein’s
-report, but others have not been published until now. Unlike Stein’s
-plates, the photos from the archive provide an exact size scale. Five
-fragments show similar proportions, which are in turn in accordance with
-the scale of the head. Using the photos from the archives, colleagues at
-the National Museum of Iran easily identified the requested pieces, some
-of which were on display in the Museum halls and others located in
-storage. Gathered together for the first time, it turned out that three
-fragments fit together.[^23] They form a raised left arm, the fingers in
-the pose of grasping a long object, perhaps a spear (**fig. 22.6**).
-Being significantly larger than the arm of an average-size European, the
-bronze arm indicates a sculpture slightly more than two meters (6 1/2
-feet) tall. The inner surface of the sculptural fragment reveals details
-that are related to the casting process: two parallel raised lines with
-soft surfaces indicate a wax-to-wax join (**fig. 22.7**). Apparently two
-halves of a master mold met there, each lined with rectangular-cut wax
-sheets, and the seam between these sheets was covered with a wax strip.
-Fragments of a bare left leg from below the knee to above the ankle and
-of a right arm show the same technological features.[^24] Therefore,
-they most likely belong to the same sculpture.[^25]
+The photos from the Stein archive show further pieces of bronze sculpture, most likely belonging to the same sculpture as the bronze head in question. Some pieces were already illustrated in Stein’s report, but others have not been published until now. Unlike Stein’s plates, the photos from the archive provide an exact size scale. Five fragments show similar proportions, which are in turn in accordance with the scale of the head. Using the photos from the archives, colleagues at the National Museum of Iran easily identified the requested pieces, some of which were on display in the Museum halls and others located in storage. Gathered together for the first time, it turned out that three fragments fit together.[^23] They form a raised left arm, the fingers in the pose of grasping a long object, perhaps a spear ([fig. 22.6](fig. 22.6)). Being significantly larger than the arm of an average-size European, the bronze arm indicates a sculpture slightly more than two meters (6 1/2 feet) tall. The inner surface of the sculptural fragment reveals details that are related to the casting process: two parallel raised lines with soft surfaces indicate a wax-to-wax join ([fig. 22.7](fig. 22.7)). Apparently two halves of a master mold met there, each lined with rectangular-cut wax sheets, and the seam between these sheets was covered with a wax strip. Fragments of a bare left leg from below the knee to above the ankle and of a right arm show the same technological features.[^24] Therefore, they most likely belong to the same sculpture.[^25]
+
+{{< q-figure-group id="22.6, 22.7" grid="2" >}}
 
 ## Reconstruction of the Statue Type
 
-The preserved bronze fragments represent less than twenty percent of the
-statue. However, the bare limbs suggest that it was an undraped male.
-And with the position of the arm one can infer a statue with a raised
-arm, leaning on a spear (**fig. 22.8**). The princely pose and the size
-of the sculpture indicate that it represented a ruler, even if a diadem
-is not preserved.
+The preserved bronze fragments represent less than twenty percent of the statue. However, the bare limbs suggest that it was an undraped male. And with the position of the arm one can infer a statue with a raised arm, leaning on a spear ([fig. 22.8](fig. 22.8)). The princely pose and the size of the sculpture indicate that it represented a ruler, even if a diadem is not preserved.
 
-Trudy S. Kawami (1987) noted that “the presence of such an important
-work so far from a major city is difficult to explain.”[^26] However,
-judging from the first results of the Iranian-Italian excavations at
-Kal-e Chendar, the sculpture was erected at one of the most important
-religious places of ancient Elymais. From a Mediterranean point of view,
-the quality and “Greekness” of the reassembled statue may cause
-surprise, especially given its discovery in Iran. However, this just
-points out our limited knowledge of Hellenism in the regions east of the
-Tigris River.
+{{< q-figure id="22.8" >}}
+
+Trudy S. Kawami (1987) noted that “the presence of such an important work so far from a major city is difficult to explain.”[^26] However, judging from the first results of the Iranian-Italian excavations at Kal-e Chendar, the sculpture was erected at one of the most important religious places of ancient Elymais. From a Mediterranean point of view, the quality and “Greekness” of the reassembled statue may cause surprise, especially given its discovery in Iran. However, this just points out our limited knowledge of Hellenism in the regions east of the Tigris River.
 
 ## Acknowledgments
 
-This work was supported by the Fritz Thyssen Stiftung. My thanks go also
-to Dr. Jebrael Nokandeh, the director of the National Museum of Iran,
-who enabled the investigations, and to the entire museum staff,
-especially Firouzeh Sepidnameh (head of the Exhibition Department) and
-Masoumeh Ahmadi (International Affairs). Further thanks go to Ursula
-Sims-Williams, who drew my attention to the material of the Stein
-archives in the British Museum.
+This work was supported by the Fritz Thyssen Stiftung. My thanks go also to Dr. Jebrael Nokandeh, the director of the National Museum of Iran, who enabled the investigations, and to the entire museum staff, especially Firouzeh Sepidnameh (head of the Exhibition Department) and Masoumeh Ahmadi (International Affairs). Further thanks go to Ursula Sims-Williams, who drew my attention to the material of the Stein archives in the British Museum.
 
 ## Notes
 
@@ -240,7 +83,7 @@ archives in the British Museum.
 
 [^7]: Messina and Mehr Kian 2014.
 
-[^8]: Ghirshman 1962, 21 (“a seleucid king and his wife”); Colledge 1967, 156, 221 (“perhaps Antiochus IV and his queen”); idem. 1987, 152 (“a female and a male portrait head”); Parlasca 1991, 465 (“two bronze heads”); Fischer 1970, 53, n. 111 (“Antiochus VII and his son Seleucus”). Fleischer (2016) considered the present state of the head to be a modern pastiche of two different ancient fragments. But after viewing the image discovered during the present investigation (fig. 22.3), he was convinced that they belong together (personal communication).
+[^8]: Ghirshman 1962, 21 (“a seleucid king and his wife”); Colledge 1967, 156, 221 (“perhaps Antiochus IV and his queen”); idem. 1987, 152 (“a female and a male portrait head”); Parlasca 1991, 465 (“two bronze heads”); Fischer 1970, 53, n. 111 (“Antiochus VII and his son Seleucus”). Fleischer (2016) considered the present state of the head to be a modern pastiche of two different ancient fragments. But after viewing the image discovered during the present investigation ([fig. 22.3](fig. 22.3)), he was convinced that they belong together (personal communication).
 
 [^9]: Stein (1940, 151 plate 5.1) believed a top part of a bronze head with a diadem to belong to the face. Because the fragment could not be traced in the National Museum of Iran, a direct comparison to the face was not possible. In any case, the dissimilarities in the style of the hair and possible overlaps above the left temple suggest that the pieces do not belong together.
 

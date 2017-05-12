@@ -130,7 +130,7 @@ figure_list:
     caption: >
       Artemis statuette from the sea off Mykonos. Athens NAM, inv. X16790
 
-  - id: "3.2"
+  - id: "3.3"
     src: fig_3.03_Koutsouflakis.jpg
     caption: >
       Fragment of an equestrian torso from the sea off Ai Stratis (Athens, EUA, inv. BE 1981/43)
@@ -1031,7 +1031,7 @@ figure_list:
       Volute-krater from Derveni. Bronze with silver and copper. Greek, early fourth century BC. Thessaloniki, Archaeological Museum, inv. B1. Photo: TK
 
   - id: "26.3"
-    src: fig_25.03_Gaunt.jpg
+    src: fig_26.03_Gaunt.jpg
     caption: >
       Pointed neck-amphora with stand. Bronze. Greek, ca. 500–450 BC. New York, Metropolitan Museum of Art, inv. 2004.171a–b. Photo: TK
 
@@ -1293,17 +1293,17 @@ figure_list:
   - id: "35.2a"
     src: fig_35.02a_Casaletto.jpg
     caption: >
-      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from the surface of a pure bronze alloy
+      XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from the surface of a pure bronze alloy
 
   - id: "35.2b"
     src: fig_35.02b_Casaletto.jpg
     caption: >
-      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from different archaeological artifacts corroded by “bronze disease”
+      XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from different archaeological artifacts corroded by “bronze disease”
 
   - id: "35.2c"
     src: fig_35.02c_Casaletto.jpg
     caption: >
-      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from different archaeological artifacts corroded by “bronze disease”
+      XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from different archaeological artifacts corroded by “bronze disease”
 
   - id: "35.3"
     src: fig_35.03_Casaletto.jpg
