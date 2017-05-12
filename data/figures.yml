@@ -120,6 +120,16 @@ figure_list:
     caption: >
       Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (Google, Basarsoft, drawing added)
 
+  - id: "3.1"
+    src: fig_3.01_Koutsouflakis.jpg
+    caption: >
+      Ostia relief. Ostia Archaeological Museum, inv. 157
+
+  - id: "3.2"
+    src: fig_3.02_Koutsouflakis.JPG
+    caption: >
+      Artemis statuette from the sea off Mykonos. Athens NAM, inv. X16790
+
   - id: "3.2"
     src: fig_3.03_Koutsouflakis.jpg
     caption: >
@@ -310,6 +320,11 @@ figure_list:
     caption: >
       Statue of an ephebe, from the House of the Citharist in Pompeii (I 4.5). Naples, Museo Nazionale Archeologico, inv. 5630. Photo: © Archivio dell’Arte – Pedicini Fotografi
 
+  - id: "8.3"
+    src: fig_8.03_Mattusch.jpg
+    caption: >
+      Statue of an ephebe with tray-support, from the House of the Ephebe in Pompeii (I 7.11). Naples, Museo Archeologico Nazionale, inv. 143753. Photo: author
+
   - id: "8.4"
     src: fig_8.04_Mattusch.jpg
     caption: >
@@ -384,7 +399,6 @@ figure_list:
     src: fig_10.06_Sengoku_Haga.jpg
     caption: >
       Diomedes from Cuma. Naples, National Archaeolgical Museum, inv. 144978
-
 
   - id: "10.7"
     src: fig_10.07_Sengoku_Haga.jpg
@@ -526,10 +540,20 @@ figure_list:
     caption: >
       Roman lamp disc with bust of Hephaistos. Athens, Agora L 5413. Photo: American School of Classical Studies at Athens: Agora Excavations
 
+  - id: "15.6"
+    src: fig_15.06_McGowan.jpg
+    caption: >
+      Roman lamp disc with image of Hephaistos. Athens, National Archaeological Museum inv. 18011 (Empedokles Collection). Photo: National Archaeological Museum, Athens, Photographic Archives © Hellenic Ministry of Culture and Sports/Archaeological Receipts Fund
+
+  - id: "15.7"
+    src: fig_15.07_McGowan.jpg
+    caption: >
+      Roman relief with Vulcan, Jupiter Column. Mainz, Landesmuseum inv. S 137. Photo:  Ursula Rudischer © GDKE-Landesmuseum Mainz
+
   - id: "15.8"
     src: fig_15.08_McGowan.jpg
     caption: >
-      Penelope Painter, red-figured skyphos, obverse. Berlin, Antikensammlung F2588, *ARV*^2^ 1300.1, BAPD 216788. Photo: Johannes Laurentius. Courtesy bpk Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
+      Penelope Painter, red-figured skyphos, obverse. Berlin, Antikensammlung F2588, *ARV*<sup>2</sup> 1300.1, BAPD 216788. Photo: Johannes Laurentius. Courtesy bpk Berlin / Antikensammlung / Johannes Laurentius / Art Resource, NY
 
   - id: "15.9"
     src: fig_15.09_McGowan.jpg
@@ -676,15 +700,80 @@ figure_list:
     caption: >
       Tools from the foundry of Sentinum. Sassoferrato, Museo Civico Archeologico
 
+  - id: "18.1"
+    src: fig_18.01_Kaufmann.jpg
+    caption: >
+      Hermaphrodite from Pont-Sainte-Maxence. Present location unknown. Height without base 60 cm (23 5/8 in.). Photo: *RA* (1898), plate IX
+
+  - id: "18.2"
+    src: fig_18.02_Kaufmann.jpg
+    caption: >
+      Jupiter from Dalheim. Height 61 cm (24 in.). Paris, Musée du Louvre, inv. Br 36. Photo: © Réunion des musées nationaux
+
+  - id: "18.3"
+    src: fig_18.03_Kaufmann.jpg
+    caption: >
+      Minerva from Dalheim. Height 40.2 cm (15 3/4 in.). Paris, Musée du Louvre, inv. Br 1071. Photo: © Réunion des musées nationaux
+
   - id: "18.4"
     src: fig_18.04_Kaufmann.jpg
     caption: >
       Mercury and Rosmerta (?) from Turny. Height 40–50 cm (15 3/4–19 3/4 in.). Musée archéologique de Dijon, inv. 2008.1.1 and 2008.1.2. Photo: © Musée archéologique de Dijon, cl. F. Perrodin
 
+  - id: "18.5"
+    src: fig_18.05_Kaufmann.jpg
+    caption: >
+      Jupiter from Thiennes. Height 49 cm (19 1/4 in.). Lille, Palais des Beaux-Arts, inv. ANT2752. Photo: © RMN-Grand Palais / Stéphane Maréchalle
+
+  - id: "18.6"
+    src: fig_18.06_Kaufmann.jpg
+    caption: >
+      Mars from Thiennes. Height 52 cm (20 1/2 in.). Lille, Palais des Beaux-Arts, inv. ANT2751. Photo: © RMN-Grand Palais / Stéphane Maréchalle
+
+  - id: "18.7"
+    src: fig_18.07_Kaufmann.jpg
+    caption: >
+      Mercury from Thiennes. Height 49 cm (19 1/4 in.). Lille, Palais des Beaux-Arts, inv. ANT2753. Photo: © RMN-Grand Palais / Stéphane Maréchalle
+
   - id: "18.8"
     src: fig_18.08_Kaufmann.jpg
     caption: >
       Minerva from Dinéault. Original height approx. 70 cm (27 1/2 in.). Rennes, Musée de Bretagne, inv. 972.0059.1. © Collection Musée de Bretagne, Rennes – reproduction interdite. Photo: A. Amet
+
+  - id: "19.1"
+    src: fig_19.01_Grossi.jpg
+    caption: >
+      Bronze rooster with enamel from Cologne. Rheinisches Landesmuseum, Bonn. Photo: Jürgen Vogel. LVR – Landesmuseum Bonn
+
+  - id: "19.2"
+    src: fig_19.02_Grossi.jpg
+    caption: >
+      Bronze rooster with enamel from Cirencester. Corinium Museum, Cirencester. Copyright Cotswold District Council. Photo: Courtesy of Corinium Museum
+
+  - id: "19.3"
+    src: fig_19.03_Grossi.jpg
+    caption: >
+      Bronze rooster with enamel from Buchten. Limburgs Museum, Venlo. Photo: Courtesy of the Limburgs Museum (Venlo, The Netherlands)
+
+  - id: "19.4"
+    src: fig_19.04_Grossi.jpg
+    caption: >
+      Bronze rooster from Cople, Bedfordshire. Photo: Courtesy of the Portable Antiquities Scheme
+
+  - id: "19.5"
+    src: fig_19.05_Grossi.jpg
+    caption: >
+      Bronze rooster from Slyne with Hest, Lancashire. Photo: Courtesy of the Portable Antiquities Scheme
+
+  - id: "19.6"
+    src: fig_19.06_Grossi.jpg
+    caption: >
+      Bronze rooster from Ezinge. Groninger Museum, Groningen. Rooster. 1-300 AD. Bronze. Collection Groninger Museum. Photo: Marten de Leeuw
+
+  - id: "19.7"
+    src: fig_19.07_Grossi.jpg
+    caption: >
+      Bronze head of a rooster from Drayton Bassett, Staffordshire. Photo: Courtesy of the Portable Antiquities Scheme
 
   - id: "20.1a"
     src: fig_20.01a_Veseli.jpg
@@ -726,15 +815,85 @@ figure_list:
     caption: >
       Jupiter with *chlamys*, Korça: rear. Photo: TK
 
+  - id: "21.1"
+    src: fig_21.01_Paterakis.jpg
+    caption: >
+      Map showing the location of Kaman-Kalehöyük in relation to Ankara in Turkey. Photo: © Middle Eastern Culture Center in Japan
+
+  - id: "21.2"
+    src: fig_21.02_Paterakis.jpg
+    caption: >
+      Stone mold from Kaman-Kalehöyük, inv. KL05-34. Photo: © Middle Eastern Culture Center in Japan
+
+  - id: "21.3"
+    src: fig_21.03_Paterakis.jpg
+    caption: >
+      Top row, left to right: inv. KL08-8 (Phrygian); inv. KL87-2176 (north Syrian); inv. KL95-16 (northwest Iranian). Bottom row, left to right: inv. KL92-1075 (southeast Anatolian); inv. KL89-322 (Greek); inv. KL91-21 (Aegean). Photo: © Middle Eastern Culture Center in Japan
+
+  - id: "21.4"
+    src: fig_21.04_Paterakis.jpg
+    caption: >
+      Ceramic fibula mold, inv. KL88-16. Photo:© Middle Eastern Culture Center in Japan
+
+  - id: "21.5"
+    src: fig_21.05_Paterakis.jpg
+    caption: >
+      Bronze fibula, inv. KL90-62. Photo: © Middle Eastern Culture Center in Japan
+
+  - id: "21.6"
+    src: fig_21.06_Paterakis.jpg
+    caption: >
+      Urartian bronze object, inv. KL03000069. Photo: © Middle Eastern Culture Center in Japan
+
   - id: "21.7a"
     src: fig_21.07a_Paterakis.jpg
     caption: >
-      (Top) fragment of Urartian bronze belt with four-legged figure delineated, inv. KL12000010. Photo: © Middle Eastern Culture Center in Japan.
+      (Top) fragment of Urartian bronze belt with four-legged figure delineated, inv. KL12000010. Photo: © Middle Eastern Culture Center in Japan
 
   - id: "21.7b"
     src: fig_21.07b_Paterakis.jpg
     caption: >
       (Bottom) Urartian bronze belt, inv. 52.123 Metropolitan Museum of Art, New York. Photo: © Metropolitan Museum of Art
+
+  - id: "22.1"
+    src: fig_22.01_Lindstroem.jpg
+    caption: >
+      Bronze portrait head of a ruler. Tehran, National Museum of Iran, inv. 2477. Photo G. Lindström
+
+  - id: "22.2"
+    src: fig_22.02_Lindstroem.jpg
+    caption: >
+      Two fragments of the bronze portrait head as published by A. Stein in 1940. After Stein 1940, pl. IV
+
+  - id: "22.3"
+    src: fig_22.03_Lindstroem.jpg
+    caption: >
+      Two fragments of the head as assembled in the British Museum in 1937. © The British Library Board, India Office Select Materials, Prints and Drawings Collection, Photo 392/39 (406)
+
+  - id: "22.4"
+    src: fig_22.04_Lindstroem.jpg
+    caption: >
+      Detail of fig. 22.3 showing cut marks made by a chisel. © The British Library Board, India Office Select Materials, Prints and Drawings Collection, Photo 392/39 (406)
+
+  - id: "22.5"
+    src: fig_22.05_Lindstroem.jpg
+    caption: >
+      State model of the head: profiles, front, and back view. Image: Th. Kersten and M. Lindstaedt, Photogrammetry & Laserscanning Lab, HafenCity University Hamburg.
+
+  - id: "22.6"
+    src: fig_22.06_Lindstroem.jpg
+    caption: >
+      Raised left arm of the sculpture, compared to the arm of a man 1.76 meters tall. Photo G. Lindström
+
+  - id: "22.7"
+    src: fig_22.07_Lindstroem.jpg
+    caption: >
+      Back and inside view of the left arm. Photo: G. Lindström
+
+  - id: "22.8"
+    src: fig_22.08_Lindstroem.jpg
+    caption: >
+      Proposed reconstruction of the sculpture using scaled photos of the preserved fragments. Drawing and photos: G. Lindström
 
   - id: "23.1"
     src: fig_23.01_Albertson.jpg
@@ -826,6 +985,11 @@ figure_list:
     caption: >
       Distribution map. Drawing: author
 
+  - id: "25.1"
+    src: fig_25.01_Meirano.jpg
+    caption: >
+      Delphi at the time of the Grande Fouille (Great Excavation). The Portico of the Athenians and the polygonal wall. Photo: Jacquemin 1992, fig. 66
+
   - id: "25.2"
     src: fig_25.02_Meirano.jpg
     caption: >
@@ -855,6 +1019,11 @@ figure_list:
     src: fig_25.07_Meirano.jpg
     caption: >
       Figured bronze lamp. Archaeological Museum of Delphi, inv. 1160. Photo: author
+
+  - id: "26.1"
+    src: fig_26.01_Gaunt.jpg
+    caption: >
+      Bronze volute-krater from Vix (Burgundy, France). Greek, Laconian, ca. 570 BC. Chatîllon sur Seine, Musée du Pays Chatîllonais, inv. nnn. Photo: TK
 
   - id: "26.2"
     src: fig_26.02_Gaunt.jpg
@@ -891,35 +1060,105 @@ figure_list:
     caption: >
       Attic red-figured cup with a woman carrying a bail-handled amphora, attributed to Douris, ca. 480 BC. New York, Metropolitan Museum of Art, inv. 1986.322.1. Photo: TK
 
-  - id: "28.5"
-    src: fig_28.05_Fani.jpg
+  - id: "27.1"
+    src: fig_27.01_De_Decker.jpg
+    caption: >
+      Triton and Nereid on a silver kantharos. Mid-first century BC. Naples, Museo Archeologico Nazionale di Napoli, inv. 144802. Photo:
+
+  - id: "27.2"
+    src: fig_27.02_De_Decker.jpg
+    caption: >
+      Bronze calyx-krater with *emblema* showing pathetic Triton with a *ketos* head. Second quarter of the first century BC. Naples, Museo Archeologico Nazionale di Napoli, inv. 109697. Photo:
+
+  - id: "27.3"
+    src: fig_27.03_De_Decker.jpg
+    caption: >
+      Lower attachment of krater handle. After AD 14 to ca. AD 50. Geneva, Musée d’Art et d’histoire, inv. MF 1207. Photo:
+
+  - id: "27.4"
+    src: fig_27.04_De_Decker.jpg
+    caption: >
+      Jug handle with dolorous Triton, silver inlays, and open work. Ca. 50 BC to ca. AD 50. Naples, Museo Archeologico Nazionale di Napoli, inv. 72600. Photo:
+
+  - id: "27.5"
+    src: fig_27.05_De_Decker.jpg
+    caption: >
+      Jug handle attachment with the head of a Triton on a vine leaf. Mid-first century AD. Pompeii, Soprintendenza Archeologica di Pompei, inv. 55687. Photo:
+
+  - id: "27.6"
+    src: fig_27.06_De_Decker.jpg
+    caption: >
+      Jug handle with Tritoness. Mid-first century AD. Naples, Museo Archeologico Nazionale di Napoli (no inv. no.). Photo:
+
+  - id: "27.7"
+    src: fig_27.07_De_Decker.jpg
+    caption: >
+      Handle with Medusa/Tritoness head with dolphins and octopus. Mid-first century AD. Naples, Museo Archeologico Nazionale di Napoli, inv. 69081. Photo:
+
+  - id: "27.8"
+    src: fig_27.08_De_Decker.jpg
+    caption: >
+      Jug handle with young Triton with seaweed on the front. Late first century BC. Hartford (CT), Wadsworth Atheneum, inv. 1917.864. Photo:
+
+  - id: "28.1"
+    src: fig_28.01_Fani.jpg
     caption: >
       The anthropomorphic vessel as shown in 1953 (reproduced in Jones 1987, 18). Photo: TK
 
-  - id: "29.2a"
-    src: fig_29.02a_Lester.jpg
+  - id: "29.1a"
+    src: fig_29.01a_Lester.jpg
     caption: >
       Base of a lampstand from Pompeii. Photo: after Ainé 1870, plate 23
 
-  - id: "29.2b"
-    src: fig_29.02b_Lester.jpg
+  - id: "29.1b"
+    src: fig_29.01b_Lester.jpg
     caption: >
       Base of a lampstand with a plate over the feet. Before AD 79. Photo: after Ainé 1870, plate 23
+
+  - id: "29.2"
+    src: fig_29.02_Lester.jpg
+    caption: >
+      A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
+
+  - id: "29.3"
+    src: fig_29.03_Lester.jpg
+    caption: >
+      A brazier from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 67.
 
   - id: "29.4"
     src: fig_29.04_Lester.jpg
     caption: >
-      A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
-
-  - id: "29.5a"
-    src: fig_29.05a_Lester.jpg
-    caption: >
-      A brazier from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 67.
-
-  - id: "29.7"
-    src: fig_29.07b_Lester.jpg
-    caption: >
       A handle from Pompeii, before AD 79. Photo: after Ainé 1870, plate 72
+
+  - id: "30.1_MS4190"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4190.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
+
+  - id: "30.1_MS4196"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4196.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
+
+  - id: "30.1_MS4198"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4198.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
+
+  - id: "30.1_MS4203"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4203.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
+
+  - id: "30.1_MS4204"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4204.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
+
+  - id: "30.1_MS4205"
+    src: fig_30.01_Ferrence_Giumlia-Mair_MS4205.jpg
+    caption: >
+      Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
   - id: "30.2"
     src: fig_30.02_Ferrence_Giumlia-Mair.jpg
@@ -931,10 +1170,25 @@ figure_list:
     caption: >
       Bronze laurel leaves from the temenos of Apollo and Aristeas on the agora of Metaponto, Italy. Photo: Courtesy of Soprintendenza Archeologia della Basilicata
 
+  - id: "31.2"
+    src: fig_31.02_Castoldi.jpg
+    caption: >
+      Bronze lampstand a *canna* (cane-like) from the *Domus del ninfeo*, Cremona, Italy. Photo: Courtesy of Soprintendenza Archeologia della Lombardia
+
   - id: "31.3"
     src: fig_31.03_Castoldi.jpg
     caption: >
       Trunk-shaped bronze lampstand from Meloria, Livorno, Italy. Photo: Courtesy of Soprintendenza Archeologia della Toscana
+
+  - id: "31.4"
+    src: fig_31.04_Castoldi.jpg
+    caption: >
+      Small bronze tree and statuette of Minerva from a lararium at Gazzo Veronese (Verona, Italy). Photo: Courtesy of Soprintendenza Archeologia del Veneto
+
+  - id: "32.1a"
+    src: fig_32.01a_Ignatiadou.jpg
+    caption: >
+      Stavroupolis in Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. MTH 7437. Photo: Archaeological Museum of Thessaloniki / O. Kourakis.
 
   - id: "32.1b"
     src: fig_32.01b_Ignatiadou.jpg
@@ -945,6 +1199,11 @@ figure_list:
     src: fig_32.02a_Ignatiadou.jpg
     caption: >
       Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90. restored case B 35. Photo: D. Ignatiadou
+
+  - id: "32.2b"
+    src: fig_32.02b_Ignatiadou.jpg
+    caption: >
+      Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90. restored case B 35. Drawings: A. Thanos
 
   - id: "32.2c"
     src: fig_32.02c_Ignatiadou.jpg
@@ -970,6 +1229,16 @@ figure_list:
     src: fig_32.06_Ignatiadou.jpg
     caption: >
       Archontiko, near Pella. Two bronze semi-cylindrical cases with hinged lids. Fourth century BC. Archaeological Museum of Pella. Photo: D. Ignatiadou
+
+  - id: "32.7"
+    src: fig_32.07_Ignatiadou.jpg
+    caption: >
+      Veroia. Bronze semi-cylindrical case and stone palette. Late fourth‒early third century BC. Archaeological Museum of Veroia. Photo: Courtesy of A. Koukouvou
+
+  - id: "32.8"
+    src: fig_32.08_Ignatiadou.jpg
+    caption: >
+      Edessa. Bronze semi-cylindrical case with feet. Third‒second century BC. Edessa, Archaeological site. Photo: Courtesy of A. Chrysostomou
 
   - id: "34.1"
     src: fig_34.01_Franken.jpg
@@ -1010,6 +1279,126 @@ figure_list:
     src: fig_34.08_Franken.jpg
     caption: >
       Satyr. H 5.8 cm. Rome, Musei Vaticani, Museo Gregoriano Etrusco, inv. 11510. Photo: Musei Vaticani, Archivio Fotografico neg. no. XXVII.15.146
+
+  - id: "35.1a"
+    src: fig_35.01a_Casaletto.jpg
+    caption: >
+      Corrosion of archaeological bronzes: detail of pitting corrosion on a bronze greave from the *panoplia* unearthed in Arquata del Tronto (AP), Italy
+
+  - id: "35.1b"
+    src: fig_35.01b_Casaletto.jpg
+    caption: >
+      Corrosion of archaeological bronzes: schematic illustration of “bronze disease”
+
+  - id: "35.2a"
+    src: fig_35.02a_Casaletto.jpg
+    caption: >
+      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from the surface of a pure bronze alloy
+
+  - id: "35.2b"
+    src: fig_35.02b_Casaletto.jpg
+    caption: >
+      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from different archaeological artifacts corroded by “bronze disease”
+
+  - id: "35.2c"
+    src: fig_35.02c_Casaletto.jpg
+    caption: >
+      XPS curve-fitting of the Cu 2p3/2 photoelectron peak from different archaeological artifacts corroded by “bronze disease”
+
+  - id: "35.3"
+    src: fig_35.03_Casaletto.jpg
+    caption: >
+      Innovative scientific approach to the conservation of ancient bronzes
+
+  - id: "35.4"
+    src: fig_35.04_Casaletto.jpg
+    caption: >
+      Chemical synthesis of organic corrosion inhibitors (right) as possible alternative to BTA
+
+  - id: "35.5"
+    src: fig_35.05_Casaletto.jpg
+    caption: >
+      “Green” corrosion inhibitors as possible alternative to BTA. Top left: *Opuntia ficus indica* (Barbary fig); bottom left: *Nigella sativa* (black cumin)
+
+  - id: "35.6"
+    src: fig_35.06_Casaletto.jpg
+    caption: >
+      SNanostructured self-healing coatings for the conservation of ancient bronzes
+
+  - id: "36.1"
+    src: fig_36.01_Tykot.jpg
+    caption: >
+      X-ray energy peaks for a “bronze” Viking artifact from Norway
+
+  - id: "36.2"
+    src: fig_36.02_Tykot.jpg
+    caption: >
+      Portable X-ray fluorescence analysis of a small “bronze” head at Emory University
+
+  - id: "36.3"
+    src: fig_36.03_Tykot.jpg
+    caption: >
+      “Bronze” objects in the Paolo Orsi Museum, Siracusa, Sicily
+
+  - id: "36.4"
+    src: fig_36.04_Tykot.jpg
+    caption: >
+      Viking age cruciform broach, Stavanger Museum, Norway. Analysis of inner edge by pXRF.
+
+  - id: "36.5"
+    src: fig_36.05_Tykot.jpg
+    caption: >
+      Excavated burial at Francavilla Marittima, Calabria with multiple grave offerings (a) analyzed by pXRF in the field (b)
+
+  - id: "36.6"
+    src: fig_36.06_Tykot.jpg
+    caption: >
+      Native American copper tablet from the Blueberry site, Florida
+
+  - id: "36.7a"
+    src: fig_36.07a_Tykot.jpg
+    caption: >
+      Analysis of classical archaeology objects in the Tampa Museum of Art, Florida. Roman strigil
+
+  - id: "36.7b"
+    src: fig_36.07b_Tykot.jpg
+    caption: >
+      Analysis of classical archaeology objects in the Tampa Museum of Art, Florida. Greek bracelet
+
+  - id: "36.7c"
+    src: fig_36.07c_Tykot.jpg
+    caption: >
+      Analysis of classical archaeology objects in the Tampa Museum of Art, Florida. chatelaine.
+
+  - id: "36.7d"
+    src: fig_36.07d_Tykot.jpg
+    caption: >
+      Analysis of classical archaeology objects in the Tampa Museum of Art, Florida. chatelaine.
+
+  - id: "36.8"
+    src: fig_36.08_Tykot.jpg
+    caption: >
+      X-ray energy peaks showing Cu, Zn, Au, Hg, Ag in a “bronze” Roman crossbow fibula, Tampa Museum of Art
+
+  - id: "36.9"
+    src: fig_36.09_Tykot.jpg
+    caption: >
+      Analyzed plumes (a), tumi (b), needles (c), and knife (d) in the Orlando Museum of Art
+
+  - id: "36.10a"
+    src: fig_36.10a_Tykot.jpg
+    caption: >
+      Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
+
+  - id: "36.10b"
+    src: fig_36.10b_Tykot.jpg
+    caption: >
+      Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
+
+  - id: "36.10c"
+    src: fig_36.10c_Tykot.jpg
+    caption: >
+      Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
 
   - id: "37.1"
     src: fig_37.01_Boyatzis.jpg
@@ -1086,10 +1475,190 @@ figure_list:
     caption: >
       The frying pan after treatment with local electrolysis and the corrosion inhibitor L-cysteine. Photo: Susana Mavroforaki; courtesy G. Koutsouflakis, Ephorate of Underwater Antiquities
 
+  - id: "39.01"
+    src: fig_39.01_Siano_Sarri.jpg
+    caption: >
+      The Medici Riccardi Horse Head (a) before and (b–c) after the present restoration
+
+  - id: "39.02a"
+    src: fig_39.02a_Siano_Sarri.jpg
+    caption: >
+      Details of the inner of the head in correspondence of the tuft, forehead, and right eye
+
+  - id: "39.02b"
+    src: fig_39.02b_Siano_Sarri.jpg
+    caption: >
+      A macro of the calcareous encrustation among the skinfolds before conservation treatment
+
+  - id: "39.03a"
+    src: fig_39.03a_Siano_Sarri.jpg
+    caption: >
+      Electron microscopy images of very small gilding fragments
+
+  - id: "39.03b"
+    src: fig_39.03b_Siano_Sarri.jpg
+    caption: >
+      Electron microscopy images of very small gilding fragments
+
+  - id: "39.04a"
+    src: fig_39.04a_Siano_Sarri.jpg
+    caption: >
+      Details of gilding residues during conservation treatments (throat)
+
+  - id: "39.04b"
+    src: fig_39.04b_Siano_Sarri.jpg
+    caption: >
+      Details of gilding residues during conservation treatments (skinfolds)
+
+  - id: "39.05"
+    src: fig_39.05_Siano_Sarri.jpg
+    caption: >
+      Detail after conservation treatment. Note the gilding remains on lower eyelid and in skinfolds
+
+  - id: "39.06"
+    src: fig_39.06_Siano_Sarri.jpg
+    caption: >
+      Detail of the muzzle after conservation treatment
+
+  - id: "39.07"
+    src: fig_39.07_Siano_Sarri.jpg
+    caption: >
+      Maps of the repairs and integrations, including two graffiti in proximity of the withers at the right side (pink) and on a plug of the right side (olive), and a stretch of the soft soldering of the crownpiece (orange dashed lines on the left cheek)
+
+  - id: "39.08"
+    src: fig_39.08_Siano_Sarri.jpg
+    caption: >
+      Detail of the inner surface of the right side (the flat zone corresponds to the right cheek)
+
+  - id: "39.09"
+    src: fig_39.09_Siano_Sarri.jpg
+    caption: >
+      (a) Internal view of the protome; (b) virtual cross-sections of the textured 3D model achieved by intersection of the protome with the frontal plane, (c) a plane orthogonal to the neck, and planes almost parallel to the tangent at the crest of the mane in proximity of its (d) maximum and (e) minimum curvature radius
+
+  - id: "39.10"
+    src: fig_39.10_Siano_Sarri.jpg
+    caption: >
+      Reconstruction of the ancient appearance
+
+  - id: "40.01a"
+    src: fig_40.01a_Northover_Pernicka_Snyder.jpg
+    caption: >
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Front; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 3/4 x 26 1/4 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Photos: © The Cleveland Museum of Art
+
+  - id: "40.01b"
+    src: fig_40.01b_Northover_Pernicka_Snyder.jpg
+    caption: >
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Reverse; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 3/4 x 26 1/4 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Photos: © The Cleveland Museum of Art
+
+  - id: "40.01c"
+    src: fig_40.01c_Northover_Pernicka_Snyder.jpg
+    caption: >
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached left hand; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 3/4 x 26 1/4 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Photos: © The Cleveland Museum of Art
+
+  - id: "40.01d"
+    src: fig_40.01d_Northover_Pernicka_Snyder.jpg
+    caption: >
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached python. Bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 3/4 x 26 1/4 in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Photos: © The Cleveland Museum of Art
+
+  - id: "40.02a"
+    src: fig_40.02a_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Head of *Apollo*. Photo: © The Cleveland Museum of Art
+
+  - id: "40.02b"
+    src: fig_40.02b_Northover_Pernicka_Snyder.jpg
+    caption: >
+      X-ray of *Apollo* showing extensive repairs around neck and shoulders, as well as the internal armature from a recent restoration. Photo: © The Cleveland Museum of Art
+
+  - id: "40.03"
+    src: fig_40.03_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Detail of feet and bronze baseplate. The circle in the corner may indicate where a bronze tree was once attached. Photo: © The Cleveland Museum of Art
+
+  - id: "40.04a"
+    src: fig_40.04a_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Etched metallographic cross section from the figure’s torso. This sample contains a band of cuprite particles that was noted beneath the metal surface. The particles were formed by the inward diffusion of oxygen at high temperature (internal oxidation) and indicate the object has been in a fire. Photo: Peter Northover.
+
+  - id: "40.04b"
+    src: fig_40.04b_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Detail of *Apollo*’s torso where sample was obtained. Photo: © The Cleveland Museum of Art
+
+  - id: "40.05"
+    src: fig_40.5_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Reverse of *Apollo*, left thigh, showing lump of metal. This also indicates exposure to a high-temperature environment. Photo: © The Cleveland Museum of Art
+
+  - id: "40.06a"
+    src: fig_40.06a_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Lead isotope ratios of the analyzed samples. In the lower right corner a cross indicates the 2σ uncertainties of measurements. The six samples in the lower left are isotopically indistinguishable.
+
+  - id: "40.06b"
+    src: fig_40.06b_Northover_Pernicka_Snyder.jpg
+    caption: >
+      Lead isotope ratios of the analyzed samples compared with lead ores from the Aegean and from Laurium in Attica
+
+  - id: "41.1"
+    src: fig_41.01_Maish.jpg
+    caption: >
+      Herm of Dionysos, 200–100 BC, front view. Los Angeles, J. Paul Getty Museum, inv. 79.AB.138. Photo: J. Maish, © Getty Trust
+
+  - id: "41.2"
+    src: fig_41.02_Maish.jpg
+    caption: >
+      Bronze spillage and azurite buildup on herm boss and head interior. Photo: J. Maish, © Getty Trust
+
+  - id: "41.3"
+    src: fig_41.03_Maish.jpg
+    caption: >
+      Lead deposit from ancient mounting possibly, interior lower shaft. Photo: J. Maish, © Getty Trust
+
+  - id: "41.4"
+    src: fig_41.04_Maish.jpg
+    caption: >
+      Radiographic detail of repair below phallus (cast and rectangular patching). Note internal “sprue” at bottom center. Image: J. Maish, © Getty Trust
+
+  - id: "41.5"
+    src: fig_41.05_Maish.jpg
+    caption: >
+      Schematic of rectangular patch distribution on proper right side. Drawing: J. Maish, E. Ohara, © Getty Trust
+
+  - id: "41.6"
+    src: fig_41.06_Maish.jpg
+    caption: >
+      Cold working marks from probable repairs, top of head. Photo: J. Maish, © Getty Trust
+
+  - id: "41.7"
+    src: fig_41.07_Maish.jpg
+    caption: >
+      Herm eye, detail (calcitic stone and copper alloy lashes; pupil and iris missing). Photo: J. Maish, © Getty Trust
+
+  - id: "41.8"
+    src: fig_41.08_Maish.jpg
+    caption: >
+      CT comparison at eye level: (left) Getty Herm; (right) BAM Berlin (Mahdia Herm). Imaging: courtesy of Rocketdyne, Canoga Park, CA
+
+  - id: "41.9"
+    src: fig_41.09_Maish.jpg
+    caption: >
+      Flowchart showing production process of Getty vs. Mahdia herms
+
+  - id: "42.1"
+    src: fig_42.01_Mille-Descamps.jpg
+    caption: >
+      Piombino Apollo, 120–100 BC. H. 115.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br2. Photo: © C2RMF, Anne Maigret
+
   - id: "42.2"
     src: fig_42.02_Mille-Descamps.jpg
     caption: >
       Marble Head, Rhodes. Archaeological Museum of Rhodes, inv. E. 127. Photo: © S. Descamps
+
+  - id: "42.3"
+    src: fig_42.03_Mille-Descamps.jpg
+    caption: >
+      X-radiograph of the Piombino Apollo. Photo: © C2RMF, E. Lambert
 
   - id: "42.4a"
     src: fig_42.04a_Mille-Descamps.jpg
@@ -1106,10 +1675,42 @@ figure_list:
     caption: >
       Piombino Apollo, drawing of the technological features, showing the hair details done in the positive of the wax (black lines), the primary castings (white), the flow fusion welds (red), the core flashing lines (purple), the core pins (light blue), the repairs (rectangular patches or casting on, green), the copper inlays (orange) the silver inlays (blue). Image: © C2RMF, B. Mille
 
+  - id: "42.6"
+    src: fig_42.06_Mille-Descamps.jpg
+    caption: >
+      Piombino Apollo, three-quarter view detailing the work done in the positive of the wax and the copper inlays. Photo: © C2RMF, G. Parisse
+
   - id: "42.7"
     src: fig_42.07_Mille-Descamps.jpg
     caption: >
       Casting map of the Piombino Apollo, three options are possible depending the way legs were joined. Image: © C2RMF, B. Mille
+
+  - id: "42.8"
+    src: fig_42.08_Mille-Descamps.jpg
+    caption: >
+      Endoscopic image showing the platform welding of the head from the inside. Photo: © C2RMF, B. Mille
+
+  - id: "42.9"
+    src: fig_42.09_Mille-Descamps.jpg
+    caption: >
+      *Eros and Psyche*. Roman, possible Rhodian production. H. 72.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br4105. Photo: © Paris, Réunion des Musée Nationaux, H. Lewandowski
+
+  - id: "43.1a"
+    src: fig_43.01a_Karnis.jpg
+    caption: >
+      The statue of the Apoxyomenos after conservation. Right profile. Photo: Lj. Gamulin, 2015 (HRZ)
+
+
+  - id: "43.1b"
+    src: fig_43.01b_Karnis.jpg
+    caption: >
+      The statue of the Apoxyomenos after conservation. Front. Photo: Lj. Gamulin, 2015 (HRZ)
+
+
+  - id: "43.1c"
+    src: fig_43.01c_Karnis.jpg
+    caption: >
+      The statue of the Apoxyomenos after conservation. Left profile. Photo: Lj. Gamulin, 2015 (HRZ)
 
   - id: "43.2"
     src: fig_43.02_Karnis.jpg
@@ -1156,6 +1757,86 @@ figure_list:
     caption: >
       Trace element composition of the Croatian Apoxyomenos: cumulated content of main impurities for each analysis. Graph: B. Mille, 2015 (C2RMF)
 
+  - id: "44.1a"
+    src: fig_44.01a_Siano_Melillo.jpg
+    caption: >
+      Alexander the Great battling on horseback: lateral view showing its fine sculptural quality, rich decorations, and the dynamism of the group. Bronze. First century BC. National Archaeological Museum of Naples, inv. 4996. H 49 cm; W 47 cm; D 29 cm. Photo:
+
+  - id: "44.1b"
+    src: fig_44.01b_Siano_Melillo.jpg
+    caption: >
+      Alexander the Great battling on horseback: front detail showing its fine sculptural quality, rich decorations, and the dynamism of the group. Bronze. First century BC. National Archaeological Museum of Naples, inv. 4996. H 49 cm; W 47 cm; D 29 cm. Photo:
+
+  - id: "44.2a"
+    src: fig_44.02a_Siano_Melillo.jpg
+    caption: >
+      Repair zones of the horse highlighted with arrows. Photo:
+
+  - id: "44.2b"
+    src: fig_44.02b_Siano_Melillo.jpg
+    caption: >
+      Repair zones of the rider highlighted with arrows. Photo:
+
+  - id: "44.3a"
+    src: fig_44.03a_Siano_Melillo.jpg
+    caption: >
+      Detail of the saddlecloth and mane. Photo:
+
+  - id: "44.3b"
+    src: fig_44.03b_Siano_Melillo.jpg
+    caption: >
+      Detail of the skirt fitting to the withers. Photo:
+
+  - id: "44.4a"
+    src: fig_44.04a_Siano_Melillo.jpg
+    caption: >
+      Radiographic images of the base, showing round porosities beneath the silver foils and various degrees of consumption of the flower petals. Photo:
+
+  - id: "44.4b"
+    src: fig_44.04b_Siano_Melillo.jpg
+    caption: >
+      Radiographic images of a detail of the silver decoration, showing round porosities beneath the silver foils and various degrees of consumption of the flower petals. Photo:
+
+  - id: "44.5"
+    src: fig_44.05_Siano_Melillo.jpg
+    caption: >
+      Two adjacent X-ray plates of the horse and two detail images (upper left) of the joining zone of the neck. The joints identified are highlighted by arrows. Photo:
+
+  - id: "44.6a"
+    src: fig_44.06a_Siano_Melillo.jpg
+    caption: >
+      Three radiographic views of the joining zone of the tail. Photo:
+
+  - id: "44.6b"
+    src: fig_44.06b_Siano_Melillo.jpg
+    caption: >
+      Three radiographic views of the joining zone of the tail. Photo:
+
+  - id: "44.6c"
+    src: fig_44.06c_Siano_Melillo.jpg
+    caption: >
+      Three radiographic views of the joining zone of the tail. Photo:
+
+  - id: "44.7a"
+    src: fig_44.07a_Siano_Melillo.jpg
+    caption: >
+      Radiographic plates of the rider from the front. Photo:
+
+  - id: "44.7b"
+    src: fig_44.07b_Siano_Melillo.jpg
+    caption: >
+      Radiographic plates of the rider from behind. Photo:
+
+  - id: "44.8a"
+    src: fig_44.08a_Siano_Melillo.jpg
+    caption: >
+      Reconstruction of the various pieces making up the group of Alexander, and map of the LIPS measurements. Image:
+
+  - id: "44.8b"
+    src: fig_44.08b_Siano_Melillo.jpg
+    caption: >
+      Reconstruction of the various pieces making up the group of Alexander, and map of the LIPS measurements. Image:
+
   - id: "45.1"
     src: fig_45.01_Gansicke.jpg
     caption: >
@@ -1196,10 +1877,35 @@ figure_list:
     caption: >
       Three boxes containing two pairs of pipes each, as assembled in early November 2015. Photo: © Museum of Fine Arts, Boston
 
+  - id: "46.1a"
+    src: fig_46.01a_Kantarelou.jpg
+    caption: >
+      Statuette representing the El god, principal god of Ugarit. The figure was originally gilded bronze but many gold parts are missing and the exposed areas are covered by a thick green corrosion layer. H. 13.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. RS23. Photo:
+
+  - id: "46.1b"
+    src: fig_46.01b_Kantarelou.jpg
+    caption: >
+      Statuette of the weather god Baal. The figurine was originally gilded bronze but only a few gold parts are preserved in the head area. H. 12.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. 3572. Photo:
+
+  - id: "46.2"
+    src: fig_46.02_Kantarelou.jpg
+    caption: >
+      The area on the Baal god figurine was analyzed with (thin line) and without (thick line) the use of a filter in the excitation path. When using filtered excitation, the pile-ups were eliminated, the background noise was reduced, and the presence of traces of selenium and lead was revealed. Photo:
+
+  - id: "46.3a"
+    src: fig_46.03a_Kantarelou.jpg
+    caption: >
+      Detail on El God figurine take from the spectrometers camera. Photo:
+
   - id: "46.3b"
     src: fig_46.03b_Kantarelou.jpg
     caption: >
-      The area on the Baal god figurine was analyzed with (thin line) and without (thick line) the use of a filter in the excitation path. When using filtered excitation, the pile-ups were eliminated, the background noise was reduced, and the presence of traces of selenium and lead was revealed. Photo:
+      microXRF spectra
+
+  - id: "46.4a"
+    src: fig_46.04a_Kantarelou.jpg
+    caption: >
+      Photo of the analyzed area (back side of El god figurine), outlined by the black quadrangle. From the photo, it is clear that the examined area contains a green (upper right) and a black (lower left) region. Photo:
 
   - id: "46.4b"
     src: fig_46.04b_Kantarelou.jpg
