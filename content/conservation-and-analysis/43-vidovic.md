@@ -16,7 +16,9 @@ weight: 709
 
 ## Introduction
 
-The statue of an Apoxyomenos (**fig. 43.1**), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
+The statue of an Apoxyomenos ([fig. 43.1](fig. 43.1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
+
+{{< q-figure id="43.1" >}}
 
 In 2012, during the exhibition of the statue at the Louvre, the HRZ established a cooperation with that institution leading in 2013 to new insights into the technology of the Croatian Apoxyomenos,[^1] and continuing in 2015 with a new campaign to analyze the alloys used to produce the statue.
 
@@ -30,7 +32,9 @@ Already in 1999 more than a hundred different samples were collected from the in
 
 After a first and necessary desalination, several sampling and analytical campaigns were conducted between 1999 and 2003, by taking metal samples and by performing surface analyses during the conservation-restoration treatments. The aim was to provide information about the elemental composition of the alloys used for primary and secondary castings (including welding and repairs), soldering, patches, and inlays.
 
-In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; **fig. 43.2**).
+In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](fig. 43.2)).
+
+{{< q-figure id="43.2" >}}
 
 The metal structure in the samples was found to be very heterogeneous and spongy, showing penetration of corrosion into the bronze wall on both sides (interior and exterior), especially on the rear of the statue that had been buried in sand on the seabed. Experts from the OPD performed several analyses to examine the samples, using stereomicroscopy, stratigraphic investigation under an optical microscope, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), and inductively coupled plasma atomic emission (ICP-AES).
 
@@ -66,7 +70,9 @@ As noted above, we concluded that for an accurate determination of the metal com
 
 Our examination confirmed that the statue had been produced by an indirect lost-wax process. It is a hollow cast; that is, the casting core was removed and only minor traces of it remained. Hence the total weight of the statue is only about 125 kg, making it easily transportable.
 
-The statue is made of seven main parts (head, torso, legs, arms, and genitals). Arms, legs, and genitals were joined to the torso by flow fusion welding. The head was soldered onto the neck. The plinth parts were also soldered together and the feet were then soldered to the plinth (**fig. 43.3**).
+The statue is made of seven main parts (head, torso, legs, arms, and genitals). Arms, legs, and genitals were joined to the torso by flow fusion welding. The head was soldered onto the neck. The plinth parts were also soldered together and the feet were then soldered to the plinth ([fig. 43.3](fig. 43.3)).
+
+{{< q-figure id="43.3" >}}
 
 The head was cast in one piece, with a bronze wall 5 to 8 mm thick. A large casting defect under the left eye was repaired by a secondary casting; smaller rectangular patches closed the core pin holes. The head-to-neck join has a very typical path with right-angle corners below the ears and platforms between the head and the neck in order to accommodate the soldering. The eye inserts are unfortunately lost but the lips are still there. They are made of unalloyed copper that was inserted into rectangular mounting channels, and finally hammered in place.
 
@@ -78,19 +84,27 @@ The hands were joined to the arms by a wax-to-wax method. Some of the fingers we
 
 Before assembly, the casting core was removed from all parts of the statue. The statue was joined in five phases: (1) the arms to the torso; (2) the complex leg area (first the right leg, then the left); (3) the pubic area and genitals; (4) soldering the head onto the neck; and (5) soldering the feet onto the plinth. Joins 1–3 were performed using a flow fusion welding technique in basins for legs and arms (secondary castings of bronze). All welding areas had to be repaired with multiple patches.
 
-All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings (**fig. 43.4**), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
+All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4](fig, 43.4)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
+
+{{< q-figure id="43.4" >}}
 
 This re-examination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
 ## New Sampling Campaign (2013–2015)
 
-Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling (**fig. 43.5**), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5](fig. 43.5)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+
+{{< q-figure id="43.5" >}}
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in **table 43.1**.
 
-By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth (**fig. 43.6**). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
+By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth ([fig. 43.6](fig. 43.6)). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
 
-Furthermore, all high-lead bronze parts share the same trace-elements pattern (**fig. 43.7**), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, i.e., some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
+{{< q-figure id="43.6" >}}
+
+Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](fig. 43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, i.e., some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
+
+{{< q-figure id="43.7" >}}
 
 Very interesting is the fact that the corresponding impurities pattern is not only consistent for all parts of the statue itself, but also for the undecorated side of the plinth. We can therefore deduce that this part of the plinth was cast at the same time as the rest of the statue.
 
