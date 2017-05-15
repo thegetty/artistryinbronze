@@ -1103,30 +1103,90 @@ figure_list:
   - id: "28.1"
     src: fig_28.01_Fani.jpg
     caption: >
+      Present condition of the anthropomorphic vessel. National Museum of Beirut, inv. 25422. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.2"
+    src: fig_28.02_Fani.jpg
+    caption: >
+      Left profile. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.3"
+    src: fig_28.03_Fani.jpg
+    caption: >
+      Right profile. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.4"
+    src: fig_28.04_Fani.jpg
+    caption: >
+      Back of vessel. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.5"
+    src: fig_28.05_Fani.jpg
+    caption: >
       The anthropomorphic vessel as shown in 1953 (reproduced in Jones 1987, 18). Photo: TK
 
-  - id: "29.1a"
-    src: fig_29.01a_Lester.jpg
+  - id: "28.6"
+    src: fig_28.06_Fani.jpg
+    caption: >
+      Locks of hair and chaplet holes appear through the rim opening. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.7"
+    src: fig_28.07_Fani.jpg
+    caption: >
+      View inside the head revealing the recessed facial features. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "28.8"
+    src: fig_28.08_Fani.jpg
+    caption: >
+      The rough interior surface of the bust does not correspond exactly to the exterior contours. Photo: Directorate General of Antiquities, Beirut
+
+  - id: "29.1"
+    src: fig_29.02a_Lester.jpg
+    caption: >
+      A lampstand from Caesarea, eleventh century. Israel Antiquities Authority, Jerusalem (IAA) reg. no. 1996-625-627-628. Photo: Courtesy of the IAA
+
+  - id: "29.2a"
+    src: fig_29.02a_Lester.jpg
     caption: >
       Base of a lampstand from Pompeii. Photo: after Ainé 1870, plate 23
 
-  - id: "29.1b"
-    src: fig_29.01b_Lester.jpg
+  - id: "29.2b"
+    src: fig_29.02b_Lester.jpg
     caption: >
       Base of a lampstand with a plate over the feet. Before AD 79. Photo: after Ainé 1870, plate 23
-
-  - id: "29.2"
-    src: fig_29.02_Lester.jpg
-    caption: >
-      A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
 
   - id: "29.3"
     src: fig_29.03_Lester.jpg
     caption: >
-      A brazier from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 67.
+      A measuring vessel from Caesarea, eleventh century AD. IAA reg. no. 1995-3510. Photo: Courtesy of the IAA
 
   - id: "29.4"
     src: fig_29.04_Lester.jpg
+    caption: >
+      A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
+
+  - id: "29.5a"
+    src: fig_29.05a_Lester.jpg
+    caption: >
+      A brazier from Pompeii. Before AD 79. Photo: Courtesy of the IAA
+
+  - id: "29.5b"
+    src: fig_29.05b_Lester.jpg
+    caption: >
+      A large brazier from Caesarea, eleventh century AD. IAA reg. no. 1995-3507. Photo: Courtesy of the IAA
+
+  - id: "29.6"
+    src: fig_29.06_Lester.jpg
+    caption: >
+      A saucepan from Pompeii. Before AD 79. Photo: after Ainé 1870, plate 68
+
+  - id: "29.7a"
+    src: fig_29.07a_Lester.jpg
+    caption: >
+      A handle for a bowl from Caesarea, eleventh century AD. IAA reg. no. 1996-381. Photo: Courtesy of the IAA.
+
+  - id: "29.7b"
+    src: fig_29.07b_Lester.jpg
     caption: >
       A handle from Pompeii, before AD 79. Photo: after Ainé 1870, plate 72
 
