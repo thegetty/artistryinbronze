@@ -45,7 +45,9 @@ Even if the retrieval of the pipes left much to be desired, the excavators at le
 
 Our initial assessment indicated that the project would access a group of elements consisting of cylindrical wooden or bone resonators, encased in thin bronze tubing, and supplemented with non-encased bone bulbs and encased reed inserts, similar to ones known from Pompeii.[^12] Furthermore there appeared to be a variety of types, not only based on their different diameters as already stated by Reisner, but also in terms of the numbers and density of finger holes, the length of sections, the shapes, and the types of mechanics ([figs. 45.3–4](#45.3)).[^13]
 
-{{< q-figure-group id="45.3, 45.4" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="45.3" >}}
+
+{{< q-figure-group id="45.4" >}}
 
 ## Rehousing
 

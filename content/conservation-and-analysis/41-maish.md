@@ -26,7 +26,7 @@ Studies of the Getty herm ([fig. 41.1](#41.1)) have characterized the alloy and 
 
 *Copper Alloy Analysis:* The most recent analysis of interior samples (1 and 2) shows compositions consistent with ancient lead-tin bronze alloys (**table 41.1**).[^7] Lead concentrations range from 14 to 22% with tin concentrations ranging approximately from 8 to 14%. Cobalt levels were determined to be less than 0.005 weight percent in the internal lead deposit (sample 3) while present in higher concentration in the bronze alloy itself (at 0.15 and 0.20 weight percent).
 
-*Lead Isotopes:* Lead isotope studies provided both lead sourcing (<sup>206</sup>Pb, <sup>207</sup>Pb, <sup>208</sup>Pb) and smelting information (<sup>210</sup>Pb).[^8] Isotopic ratios suggest different lead sources for the alloy lead and a lead deposit on the herm interior. While the alloy falls within the Aegean field, the purer lead lies outside this grouping. Lead 210 (<sup>210</sup>Pb) was also evaluated in the three samples (two alloy, one lead) to better understand the smelting history of the bronze. If present in sufficient amounts, <sup>210</sup>, with a half-life of 22.2 years, could indicate smelting in the last 75–100 years. The study concluded there was negligible <sup>210</sup>Pb in the bronze alloy, and none was detected in the sample of purer lead.
+*Lead Isotopes:* Lead isotope studies provided both lead sourcing (<sup>206</sup>Pb, <sup>207</sup>Pb, <sup>208</sup>Pb) and smelting information (<sup>210</sup>Pb).[^8] Isotopic ratios suggest different lead sources for the alloy lead and a lead deposit on the herm interior. While the alloy falls within the Aegean field, the purer lead lies outside this grouping. Lead 210 (<sup>210</sup>Pb) was also evaluated in the three samples (two alloy, one lead) to better understand the smelting history of the bronze. If present in sufficient amounts, <sup>210</sup>Pb, with a half-life of 22.2 years, could indicate smelting in the last 75–100 years. The study concluded there was negligible <sup>210</sup>Pb in the bronze alloy, and none was detected in the sample of purer lead.
 
 *Technical Comparisons to Mahdia Herm:* Studies of the Getty and Mahdia herms point to physical similarities as well as differences between the two sculptures.[^9] Comparative facial measurements show close correspondences, although the beard and drapery show greater variation.[^10] The physical similarities have led to discussion of ancient serial production and even speculation that the Getty herm is a twentieth-century copy.[^11] In the end, there are many similarities but few of the exact correspondences that would be expected from a directly molded copy. The drapery on the heads of the two bronze herms have generally similar masses and proportions, but are completely different in method of execution. While the complex and undercut Mahdia herm drapery is generally attributed to direct working of the wax, the Getty herm drapery, with its simpler and softer form, is seen as the product of molding and indirect casting. As Carol Mattusch succinctly states, “Neither herm is the original, and neither one is a replica of the other, ancient or modern.”[^12]
 
@@ -42,7 +42,7 @@ The Getty herm was studied in an effort to clarify and provide further insights 
 
 Large repaired flaws visible in radiographs indicate casting problems below the phallus, at the rear center and on the lower rear wall ([fig. 41.4](#41.4)). The founder filled most of the voids by casting in bronze; in some instances, cast repairs were mechanically repaired with rectangular patches. Perhaps coincidentally, the large repairs are collinear with the vertical rod remains. Small rectangular patches (approximately 140) are visible elsewhere on the herm ([fig. 41.5](#41.5)), while some areas of porosity, particularly on the more complex head, were left uncorrected.[^14] A curvilinear flow feature is also visible in radiographs extending around the pillar below the head.
 
-{{< q-figure-group id="41.4, 41.5" grip="2" >}}
+{{< q-figure-group id="41.4, 41.5" grid="2" >}}
 
 *Herm Head:* Interior inspection of the boss and beard cavity reveals extensive metal spattering. The morphology of the metal clusters suggests spillage into an open space, as opposed, for example, to seepage into a cracked or damaged section of core. The splatter is localized toward one side of the head and is absent in other parts of the herm. Perhaps related, the herm head has areas of casting porosity, and external markings at the top rear drapery of the head suggest possible cold working by a flat chisel.[^15] These marks are absent from the smoother cast surfaces of adjoining drapery folds ([fig. 41.6](#41.6)).
 
@@ -52,7 +52,7 @@ Remnants of the extant eye were investigated microscopically and with X-ray fluo
 
 Several CT cross sections of the Getty head confirm a fairly uniform wall thickness indicative of a molded wax model. Comparison to the Mahdia head CT at eye level also shows some close internal profile correspondences ([fig. 41.8](#41.8)).[^18] An outer drapery fold of the Mahdia herm (direct work) generally corresponds to a fold on the Getty herm.
 
-{{< q-figure-group id="41.7, 41.8" grip="2" >}}
+{{< q-figure-group id="41.7, 41.8" grid="2" >}}
 
 ## Discussion
 

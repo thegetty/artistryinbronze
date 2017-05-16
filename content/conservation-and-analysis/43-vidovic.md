@@ -18,7 +18,7 @@ weight: 709
 
 The statue of an Apoxyomenos ([fig. 43.1](#43.1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
 
-{{< q-figure id="43.1" >}}
+{{< q-figure-group id="43.1a, 43.1b, 43.1c" grid="3" >}}
 
 In 2012, during the exhibition of the statue at the Louvre, the HRZ established a cooperation with that institution leading in 2013 to new insights into the technology of the Croatian Apoxyomenos,[^1] and continuing in 2015 with a new campaign to analyze the alloys used to produce the statue.
 
@@ -34,7 +34,7 @@ After a first and necessary desalination, several sampling and analytical campai
 
 In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](#43.2)).
 
-{{< q-figure id="43.2" >}}
+{{< q-figure id="43.2" class="float-left" >}}
 
 The metal structure in the samples was found to be very heterogeneous and spongy, showing penetration of corrosion into the bronze wall on both sides (interior and exterior), especially on the rear of the statue that had been buried in sand on the seabed. Experts from the OPD performed several analyses to examine the samples, using stereomicroscopy, stratigraphic investigation under an optical microscope, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), and inductively coupled plasma atomic emission (ICP-AES).
 
@@ -86,7 +86,7 @@ Before assembly, the casting core was removed from all parts of the statue. The 
 
 All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4](fig, 43.4)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
-{{< q-figure id="43.4" >}}
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" label="false" caption="Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)" >}}
 
 This re-examination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 

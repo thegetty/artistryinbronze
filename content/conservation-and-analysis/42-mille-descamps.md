@@ -46,7 +46,9 @@ Last but not least, the fourth toe of the right foot (sample FZ20669-n) was repa
 
 Looking at the main impurities in the metal, the first thing to notice is that the primary and secondary castings share identical impurities spectra: a global level of 0.6%, with arsenic and sulfur as the main impurities ([fig. 42.4b](#42.4b)).
 
-{{< q-figure-group id="42.4a, 42.4b" grid="2" >}}
+{{< q-figure-group id="42.4a" >}}
+
+{{< q-figure-group id="42.4b" >}}
 
 The pattern observed for the fourth toe is very different, with high levels of arsenic, bismuth, antimony, and zinc, confirming the hypothesis of a later repair. Interesting is the fact that the weld join of the right arm, which shows a peculiar alloy, is also distinctive for its impurities, and quite close to the pattern of the fourth toe. This may suggest that the restoration was not limited to the replacement of the fourth toe, but that the statue underwent a major intervention.
 

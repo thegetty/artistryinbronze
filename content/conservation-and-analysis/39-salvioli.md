@@ -50,15 +50,15 @@ In various areas, traces of gilding were found. Analysis by scanning electron mi
 The recent restoration was mainly aimed at removing aggressive exogenous substances and recovering the complete legibility of the object. The intervention was carried out in a dedicated room of the archaeological museum between January and March 2015. Visitors had the opportunity to see most of the intervention, though the use of dangerous substances and noisy tools was restricted to closed periods.
 
 After preliminary material removal tests, which were carried out in order to optimize the treatment, the following operational sequence was performed on the outer surface, leaving the interior untouched.
-
-
-1. Removal of powder and of the outer layer of the aged protective organic materials by washing the surface using cotton pads soaked in a solvent blend of petroleum ether (80–120°C) and methyl ethyl ketone (75/25 volume ratio). {{< q-figure id="3.4" class="float-right" >}}
+1. Removal of powder and of the outer layer of the aged protective organic materials by washing the surface using cotton pads soaked in a solvent blend of petroleum ether (80–120°C) and methyl ethyl ketone (75/25 volume ratio).
 
 2. Application of agar gel supporting an aqueous solution of sodium bicarbonate with pH8. The application time was 4–7 minutes, which was sufficient for softening and saponification of the oleo-waxy superposition.
 
 3. Removal of the agar gel and softened materials using soaked pads as in 1.
 
-4. Repetition of the washing treatment reinforced with a blend of cyclohexane and butyl acetate using a volume fraction of 55/45, respectively. This made it possible to safely expose the oxidized bronze surface and residual calcareous spots by safeguarding the traces of gilding ([fig. 39.4](#39.4)).
+4. Repetition of the washing treatment reinforced with a blend of cyclohexane and butyl acetate using a volume fraction of 55/45, respectively. This made it possible to safely expose the oxidized bronze surface and residual calcareous spots by safeguarding the traces of gilding ([fig. 39.4a–b](#39.4a)).
+
+{{< q-figure-group id="39.4a, 39.4b" grid="2" label="true" caption="Details of gilding residues during conservation treatments: (a) throat; (b) skinfolds" >}}
 
 5. Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.
 
@@ -114,7 +114,7 @@ The alloy compositions were thoroughly investigated using laser induced plasma (
 
 The coherence of the modern integration and plugs is very strong: besides having a similar amount of tin and lead, the relatively high nickel content and the frequent traces of zinc are very significant. These data are in substantial agreement with those reported by De Marinis.
 
-\[A-head\]Conclusions
+## Conclusions
 
 The present conservation treatments carried out on the Medici Riccardi horse head recovered the realism and dynamism of the original part of the sculpture and allowed to us to uncover and safeguard minute traces of gilding all over the artwork. These elements were previously obscured by waxy patinations, calcareous growths, and deposits. The formal features and the details of the protome are now more legible, while the modern repairs have been made more evident than before.
 
@@ -126,7 +126,7 @@ The archaeometallurgical study also allowed us to identify all the additions int
 
 ## Acknowledgments
 
-The conservation project and archaeometallurgical investigation of the Medici Riccardi horse head was funded by the Friends of Florence, a U.S. 501(c)(3) nonprofit organization supported by individuals who are dedicated to preserving and enhancing the cultural and historical integrity of the arts in the city and surrounding area of Florence, Italy.
+The conservation project and archaeometallurgical investigation of the Medici Riccardi horse head was funded by the Friends of Florence, a U.S. 501(c\)(3) nonprofit organization supported by individuals who are dedicated to preserving and enhancing the cultural and historical integrity of the arts in the city and surrounding area of Florence, Italy.
 
 ## Notes
 
