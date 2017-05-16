@@ -25,13 +25,11 @@ This paper focuses on a few types of vessels—lampstands, saucepans, braziers, 
 
 ## Lampstands
 
-Fatimid lampstands are typically composed of three parts: a tripod base, a shaft, and a tray ([fig. 29.1](#29.1)). The shaft is designed to fit into the central socket of the base; the bottom part of the tray was soldered to the shaft. The lampstands are characterized by a stylistic continuity between the base and the shaft; thus a base with a round body was fitted to a round shaft and a polygonal base supported a polygonal shaft.
-
-{{< q-figure id="29.1" >}}
+Fatimid lampstands are typically composed of three parts: a tripod base, a shaft, and a tray ([fig. 29.1](#29.1)). The shaft is designed to fit into the central socket of the base; the bottom part of the tray was soldered to the shaft. {{< q-figure id="29.1" class="float-left" >}}The lampstands are characterized by a stylistic continuity between the base and the shaft; thus a base with a round body was fitted to a round shaft and a polygonal base supported a polygonal shaft.
 
 The Fatimid lampstand is the outcome of a long process of adaption, beginning in the Persian period during the late sixth–fifth century BC. The earliest example is a lampstand with three sharply bent legs with cloven hooves, and a long fluted shaft with a bowl attached on the top. Three palmettes or ivy leafs emerge between the legs.[^9] This tradition continues to the early Imperial period (first–third century AD), with lampstands characterized by ivy leaf design between the legs, and a krater-shaped top ([fig. 29.2a](#29.2a)).[^10] In parallel, during the first century AD, we find another subtype of lampstand, with a circular plate that rests on the legs ([fig. 29.2b](#29.2b)). The decoration of the plate consists of ovolo and other moldings.[^11] A lampstand of the same type is dated between the second and third centuries AD, however the plate has become convex with engraved decoration.[^12]
 
-{{< q-figure-group id="29.2, 29.3" grid="2" >}}
+{{< q-figure-group id="29.2a, 29.2b" grid="2" >}}
 
 Later, during the fifth and sixth centuries AD, the morphology of the lampstand changes. The round horizontal plate transforms into a tent-shaped canopy, with the protruding leaf motif combined amid the legs. The shaft has two variations. One is a solid, hexagonal form with bulges at the edges;[^13] the other is baluster in shape composed of spherical balls soldered together.[^14] On the upper part of the lampstand, the bowl was modified into a circular tray, sometimes with a central spike on which a metal lamp was placed.[^15]
 
@@ -77,7 +75,7 @@ Continuous typological adaptation affected not just vessels and cooking articles
 
 A base of a lampstand, with three hoof-shaped feet with protruding lion paws, is dated to the Roman period.[^31] A lampstand dated to the sixth–seventh century has three feet in the shape of griffon’s heads.[^32] During the Islamic period, the naturalistic shape was transformed into a symbolic pattern that often only insinuates the original shape. The small feet that were used to raise a vessel above the floor have undergone a change. During the Classical period, they bore a motif of a cloven hoof with a recess on which the vessel rested; now they have became entirely stylized ([fig. 29.6](#29.6)), sometimes even being identified as a spike rather than a foot.[^33] This reflects the religious ban on the use of figural sculpture and exemplifies its effect on the consolidation of Islamic material culture.
 
-{{< q-figure id="29.6 >}}
+{{< q-figure id="29.6" >}}
 
 The same effect apparently applied to arch-shaped handles. The tips of the handles change into simple almond-shaped terminations, thus becoming functional rather than decorative ([fig. 29.7a](#29.7a)).[^34] This is a substantial change from earlier handles, which were decorated on the edges with animals, faces of men, ivy leaves, and fruits ([fig. 29.7b](#29.7b)).
 

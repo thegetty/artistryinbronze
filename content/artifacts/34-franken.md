@@ -18,21 +18,21 @@ The following examples provide a useful illustration of this methodological appr
 
 I begin my analysis with the silhouette of a dancing warrior in Berlin’s Antikensammlung (cat. 1; [fig. 34.1](#34.1)). The helmeted warrior (H 10.5 cm) wears a short cloak slung around his waist, and appears to be holding a short knife in the right hand. Spread across his torso is a row of short, mostly parallel incisions, which, to judge from two similar examples, represents either a tightly fitting vest or body hair.[^5]
 
-{{< q-figure-group id="34.1, 34.2" grid="2" grid-align="bottom" >}}
-
-{{< q-figure-group id="34.3, 34.4" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="34.1, 34.2" grid="2" >}}
 
 Also in Berlin is a long vine leaf sheet with richly incised detail (cat. 2). In the middle, one of two tendrils is framed by an Apollonian cult-statue (a Baitylos); on the edges of the leaf there are masks and ritual objects, including baskets and tympana.
 
+{{< q-figure-group id="34.3, 34.4" grid="2" >}}
+
 For comparison, I cite nine individual silhouette figures and a group from Tajikistan. The nine are: a Mercury from Chur in Switzerland (cat. 3; [fig. 34.2](#34.2)); a dancing girl from the excavations in Tel Dor (Israel) (cat. 4; [fig. 34.3](#34.3)); an Apollo with kithara and griffin in Lyon (cat. 6; [fig. 34.4](#34.4)); a seated griffin facing right (H 3.9 cm) on the art market (cat. 13); a pantheistic goddess with torch and polos in Munich (so far the only silhouette figure with a border) (cat. 7; [fig. 34.5](#34.5)); a dwarf in Parma with very crudely incised interior drawing (cat. 8; [fig. 34.6](#34.6)); a Victoria originally shown inscribing a shield in Reggio Emilia (cat. 9; [fig. 34.7](#34.7)); a silhouette of a dancing satyr in the Santa Barbara Museum of Art (cat. 11); a satyr with wineskin and kantharos in the Museo Gregoriano Profano at the Vatican (cat. 10; [fig. 34.8](#34.8)); and an offering jug in Verona (cat. 12).
 
-{{< q-figure-group id="34.5, 34.6" grid="2" grid-align="bottom" >}}
-
-{{< q-figure-group id="34.7, 34.8" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="34.5, 34.6" grid="2" >}}
 
 Of particular interest is a group of silhouette figures from the so-called Oxus Temple in Tajikistan: they show Cupid with grapes, with a kithara, with Psyche, with birds, and so on (cat. 5).
 
 The size of these silhouette figures varies greatly. Their height ranges from barely 6 centimeters (cat. 10; see [fig. 34.8](#34.8)) to more than 18 cm (cat. 11). The subjects are equally variable. There are goddesses and gods, for example Victoria (cat. 9; see [fig. 34.7](#34.7)), Apollo (cat. 6; see [fig. 34.4](#34.4)), and Mercury (cat. 3; see [fig. 34.2](#34.2)). Particularly striking are the dancing or cavorting figures: a warrior (cat. 1; see [fig. 34.1](#34.1)); a girl (cat. 4; see [fig. 34.3](#34.3)); and a satyr (cat. 11).
+
+{{< q-figure-group id="34.7, 34.8" grid="2" >}}
 
 So far as is known, the backs of the silhouette figures are all flat. We might therefore conclude that most of the sheets were inlaid in or otherwise attached to a wooden base. Many of the sheets are perforated, suggesting that they were nailed in place. Some of the perforations are carefully worked, whereas others are so crude as to suggest that they are the result of later repairs.
 
@@ -74,7 +74,7 @@ Cat. 8. Dwarf. Parma, Museo d’Antichità, inv. B 416. H 8.3 cm. D 0.5 cm. From
 
 Cat. 9. Victoria. Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, inv. 15242. H 12.9 cm. From the surroundings of Reggio Emilia. Published: Bolla 2007/2011, 68–69, no. 46, with ill. [fig. 34.7](#34.7).
 
-Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [fig. 34.8](#34.18.
+Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [fig. 34.8](#34.18).
 
 Cat. 11. Dancing satyr. Santa Barbara, Santa Barbara Museum of Art, inv. 1981.64.18. H 18.4 cm. Findspot unknown. Unpublished.
 

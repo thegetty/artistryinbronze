@@ -31,19 +31,19 @@ Athenian bronze vessel production seems to have the same mix of high quality and
 
 The basin and the related ring base, usually a tripod, is the most prevalent form, reflecting the importance of this shape in the furniture of Greek sanctuaries and in domestic life, as they were used for many different functions. Peculiar to the Athenian production are some variants in the shape of the handles: extremely numerous are those made from a simple rod, bent at the top to make a triangular form, generally with plain attachments, simply splayed or with a pentagonal section ([fig. 24.1](#24.1)).[^6] This variant is only sporadically attested in other areas, while the many centuries of examples found on the acropolis clearly indicate its local origin.[^7] Other variants of handles also seem to be typical of Athens: the tracery-worked type ([fig. 24.2](#24.2))[^8] or those shaped like plain rectangular plaques ([fig. 24.3](#24.3)).[^9] Yet another type shows a characteristic attachment to the basin, with arched side extensions ending with many variants of the flower or “rosette” motif ([fig. 24.4](#24.4)).[^10]
 
-{{< q-figure-group id="24.1, 24.2" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="24.1, 24.2" grid="2" >}}
 
-{{< q-figure-group id="24.3, 24.4" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="24.3, 24.4" grid="2" >}}
 
 Very numerous too are feet in shape of lion’s paws: these are either high and decorated at the top with palmettes ([fig. 24.5](#24.5)), or low and decorated with Ionic capitals. Found always alone, they could have been joined to a variety of objects, such as basins, plates, or wooden boxes.
 
 A notable feature of the Athenian bronze vessels seems to be the taste for figured decoration, which recurs on many different shapes. Examples include basin handles in shape of animals (lions, snakes, and lizards);[^11] patera handles in the shape of a kouros or lion ([fig. 24.6](#24.6));[^12] and oinochoai with a female bust on the upper attachment of the handle.[^13]
 
-{{< q-figure-group id="24.5, 24.6" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="24.5, 24.6" grid="2" >}}
 
 Many of these decorations were also used on bronze vessels made in other regions at this time, but those from Athens have their own stylistic character, which made it possible to attribute pieces found elsewhere to Athenian production. Very interesting, for example, is the frequent use of the lion motif. Well attested on Archaic Laconian vessels, it also had great success at Athens.[^14] It was used generally on attachments of mobile ring handles and on some handles of paterae*.* Particularly interesting are some basin handles of the *podanipter* type in the shape of lions attacking deer or of lions lying opposite a central flower ([fig. 24.7](#24.7a));[^15] these are stylistically distinctive and have a wide geographical spread, from southern Italy to southern Russia.
 
-{{< q-figure-group id="24.7a, 24.7b, 24.7c, 24.7d" grid="4" label="true" caption="Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author" >}}
+{{< q-figure-group id="24.7a, 24.7b, 24.7c, 24.7d" grid="2" label="true" caption="Basin handle. National Archaeological Museum of Athens, inv. 7133. Photo: author" >}}
 
 A generally accepted opinion[^16] attributes to Athens the production of hydriai with a surmounting vertical handle decorated with a lion’s head on the upper end and a siren on the lower attachment, made from the end of the sixth century or beginning of the fifth down to the fourth century BC. The study of the bronze vessel fragments from the Athenian acropolis was an opportunity to verify this hypothesis, but only one pair of horizontal handles, probably from the same vessel, can be attributed to this kind of hydria, calling into question the attribution to Athens of the entire group. A subset of this hydria group,[^17] stylistically very homogeneous, is characterized by the presence of a lion’s head also at the lower attachment of the vertical handle: the significant similarities of this smaller group with some of the lions’ heads attributed to Athenian production[^18] allow us to propose the same artisanal context.
 
