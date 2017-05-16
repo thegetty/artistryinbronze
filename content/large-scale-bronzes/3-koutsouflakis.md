@@ -108,7 +108,7 @@ Defining an archaeological context remains today the most crucial issue for the 
 
 ## Notes
 
-[^1]: <www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world>.
+[^1]: [www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world](www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world).
 
 [^2]: Daehner and Lapatin 2015, 26.
 
