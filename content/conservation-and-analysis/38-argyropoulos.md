@@ -48,9 +48,9 @@ Corrosion samples were analyzed nondestructively from five different locations w
 
 [Figures 38.2](#38.2) and [38.3](#38.3) show the microscopic images of this cross-section of the copper metal with the black surface as well as other types of corrosion products. In both images, there appears to be a thin tin metal or intermetallic compound covering the copper metal. Manti and Watkinson (2011) concluded that such black surfaces are the result of intentional tinning rather than surface corrosion of low-tin archaeological bronzes.
 
-{{< q-figure-group id="38.2, 38.3" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="38.2, 38.3" grid="2" >}}
 
-Black corrosion products from another area of the interior surface were further analyzed using SEM-EDAX and XRD. [Figure 38.4](#38.4) shows the micromorphology of the corrosion products, with small round globules indicating the possibility of intermetallic compound η-Cu~6~Sn~5~ with around a 57 wt.% tin concentration, suggesting a hot-tinning process. However, XRD was unable to confirm this compound due to the small sample size and the complexity of the diffraction pattern due to the fact that it was difficult to isolate this compound from other mineral species present in the sample.
+Black corrosion products from another area of the interior surface were further analyzed using SEM-EDAX and XRD. [Figure 38.4](#38.4) shows the micromorphology of the corrosion products, with small round globules indicating the possibility of intermetallic compound η-Cu<sub>6</sub>Sn<sub>5</sub> with around a 57 wt.% tin concentration, suggesting a hot-tinning process. However, XRD was unable to confirm this compound due to the small sample size and the complexity of the diffraction pattern due to the fact that it was difficult to isolate this compound from other mineral species present in the sample.
 
 {{< q-figure id="38.4" >}}
 

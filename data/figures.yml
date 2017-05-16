@@ -1383,7 +1383,7 @@ figure_list:
   - id: "35.6"
     src: fig_35.06_Casaletto.jpg
     caption: >
-      SNanostructured self-healing coatings for the conservation of ancient bronzes
+      Nanostructured self-healing coatings for the conservation of ancient bronzes
 
   - id: "36.1"
     src: fig_36.01_Tykot.jpg
@@ -1440,10 +1440,25 @@ figure_list:
     caption: >
       X-ray energy peaks showing Cu, Zn, Au, Hg, Ag in a “bronze” Roman crossbow fibula, Tampa Museum of Art
 
-  - id: "36.9"
-    src: fig_36.09_Tykot.jpg
+  - id: "36.9a"
+    src: fig_36.09a_Tykot.jpg
     caption: >
-      Analyzed plumes (a), tumi (b), needles (c), and knife (d) in the Orlando Museum of Art
+      Analyzed plumes in the Orlando Museum of Art
+
+  - id: "36.9b"
+    src: fig_36.09b_Tykot.jpg
+    caption: >
+      Analyzed tumi in the Orlando Museum of Art
+
+  - id: "36.9c"
+    src: fig_36.09c_Tykot.jpg
+    caption: >
+      Analyzed needles in the Orlando Museum of Art
+
+  - id: "36.9d"
+    src: fig_36.09d_Tykot.jpg
+    caption: >
+      Analyzed knife in the Orlando Museum of Art
 
   - id: "36.10a"
     src: fig_36.10a_Tykot.jpg
@@ -1646,7 +1661,7 @@ figure_list:
       Detail of *Apollo*’s torso where sample was obtained. Photo: © The Cleveland Museum of Art
 
   - id: "40.5"
-    src: fig_40.5_Northover_Pernicka_Snyder.jpg
+    src: fig_40.05_Northover_Pernicka_Snyder.jpg
     caption: >
       Reverse of *Apollo*, left thigh, showing lump of metal. This also indicates exposure to a high-temperature environment. Photo: © The Cleveland Museum of Art
 
@@ -1780,10 +1795,20 @@ figure_list:
     caption: >
       Separately cast sections of the statue. Drawing: I. Karniš Vidovič and K. Certić, 2015 (HRZ)
 
-  - id: "43.4"
-    src: fig_43.04_Karnis.jpg
+  - id: "43.4a"
+    src: fig_43.04a_Karnis.jpg
     caption: >
-      Joining areas: (a) head, (b) right arm-torso, (c) pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
+      Joining areas: Head. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
+
+  - id: "43.4b"
+    src: fig_43.04b_Karnis.jpg
+    caption: >
+      Joining areas: Right arm-torso. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
+
+  - id: "43.4c"
+    src: fig_43.04c_Karnis.jpg
+    caption: >
+      Joining areas: Pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
 
   - id: "43.5a"
     src: fig_43.05a_Karnis.jpg
@@ -1975,27 +2000,27 @@ figure_list:
     caption: >
       Ratio of the elemental intensities of Sn-Lα to Sn-Kα lines. In the graphs, the warm colors correspond to higher values
 
-  - id: "47.1a-b"
+  - id: "47.1a–b"
     src: fig_47.01_Anderson.jpg
     caption: >
       Alexander the Great statuette. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mr. C. Ruxton Love, Jr., inv. 1956.20. (a) Front and (b) back views. Photos: Imaging Department © President and Fellows of Harvard College
 
-  - id: "47.2a-b"
+  - id: "47.2a–b"
     src: fig_47.02_Anderson.jpg
     caption: >
       (a) Demosthenes. Bronze. Harvard Art Museums/Arthur M. Sackler Museum, Gift of John W. Straus in honor of David Mitten, inv. 2007.221. Photo: Imaging Department © President and Fellows of Harvard College. (b) X-radiograph of Demosthenes statuette. Photo: Straus Center for Conservation © President and Fellows of Harvard College
 
-  - id: "47.3a-b"
+  - id: "47.3a–b"
     src: fig_47.03_Anderson.jpg
     caption: >
       (a) Aftercast of Demosthenes statuette, private collection. Photo: © President and Fellows of Harvard College. (b) X-radiograph of the aftercast. Photo: Straus Center for Conservation © President and Fellows of Harvard College
 
-  - id: "47.4a-b"
+  - id: "47.4a–b"
     src: fig_47.04_Anderson.jpg
     caption: >
       (a–b) Details of head of the Alexander the Great statuette (see fig. 47.1) showing cuprites. Photos: Straus Center for Conservation © President and Fellows of Harvard College
 
-  - id: "47.5a-b"
+  - id: "47.5a–b"
     src: fig_47.05_Anderson.jpg
     caption: >
       (a) Standing Warrior, Harvard Art Museums/Arthur M. Sackler Museum, Gift of Frederick M. Watkins, inv. 1961.143. Photo: Tony Filipe © President and Fellows of Harvard College. (b) Detail of Standing Warrior head, showing cuprite. Photo: Straus Center for Conservation © President and Fellows of Harvard College

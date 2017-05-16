@@ -17,7 +17,7 @@ abstract: |
 weight: 701
 ---
 
-##Introduction
+## Introduction
 
 Conservation Science is a field that has been in continuous evolution since the late twentieth century. The study of ancient bronzes has long focused on archaeometry, addressing technological aspects and production concerns. Casting cores, alloys, joins, surface patinas, and corrosion products have been intensively investigated by various analytical techniques in order to improve our knowledge of the original materials, processes, manufacturing techniques, and degradation phenomena. Scientific results provided very useful information to archaeologists, art historians, and conservators about the artistry, craftsmanship, production, conservation, and restoration of ancient bronze artifacts.
 
@@ -35,7 +35,7 @@ In the framework of several international and national projects carried out in t
 
 Long-term stability of Cu-based artworks is deeply affected by the cyclic copper (Cu) corrosion induced by air exposure (RH>35%) of the reactive cuprous chloride (CuCl) that is located at the interface between external corrosion products and the surviving core metal matrix([fig. 35.1a](#35.1a)).[^3] Pitting corrosion attacks develop underneath the corrosion products, deep in internal areas of the alloy, with typical pinpoint forms (pits) or craters, and only later appear on the surface. At this point, the state of conservation of the artifacts is irremediably compromised ([fig. 35.1b](#35.1b)), and an appropriate stabilization intervention is necessary to prevent further damage.
 
-Results of the XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from the surface of a pure bronze alloy and from various archaeological artifacts corroded by “bronze disease” are shown here ([fig. 35.2](#35.2a)). In a pure bronze alloy, the Cu 2p<sub>3/2</sub> photoelectron signal consists of a single component centered at a binding energy (BE) value around 932.0 eV, that is assigned to Cu<sup>0</sup>, Cu<sup>+1</sup> species on the surface (see [fig. 35.2a](#35.2a)). In corroded bronze samples, the presence of a second component located at BE = 934.5 eV in the XPS Cu 2p<sub>3/2</sub> spectrum clearly indicates a fraction of Cu<sup>+2</sup> species on the surface, whose relative quantity is related to the extent of corrosion suffered by the ancient bronzes (see [figs. 35.2b–c](fig.e 35.2b)).
+Results of the XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from the surface of a pure bronze alloy and from various archaeological artifacts corroded by “bronze disease” are shown here ([fig. 35.2](#35.2a)). In a pure bronze alloy, the Cu 2p<sub>3/2</sub> photoelectron signal consists of a single component centered at a binding energy (BE) value around 932.0 eV, that is assigned to Cu<sup>0</sup>, Cu<sup>+1</sup> species on the surface (see [fig. 35.2a](#35.2a)). In corroded bronze samples, the presence of a second component located at BE = 934.5 eV in the XPS Cu 2p<sub>3/2</sub> spectrum clearly indicates a fraction of Cu<sup>+2</sup> species on the surface, whose relative quantity is related to the extent of corrosion suffered by the ancient bronzes (see [figs. 35.2b–c](fig. 35.2b)).
 
 {{< q-figure-group id="35.2a, 35.2b, 35.2c" grid="3" >}}
 
