@@ -13,9 +13,9 @@ weight: 402
 
 ## Discovery in 1935 in Ancient Elymais
 
-The portrait head of a Hellenistic ruler ([fig. 22.1](#22.1)) was discovered more than eighty years ago in Kal-e Chendar in the valley of Shami, north of Izeh in present-day Khuzistan (ancient Elymais). It is often stated that Sir Aurel Stein (1862–1943), the famous Hungaro-British explorer, excavated the portrait. In fact, it was found accidently in the course of construction work, shortly before Stein arrived at the site.[^1] In 1935 local semi-nomadic Bakhtiaris had been obliged to settle down, and as they dug the foundations for a dwelling they discovered fragments of ancient statues made of bronze and marble. {{< q-figure id="22.1" class="float-left" >}}Of these the so-called Parthian nobleman—a nearly complete statue of a man in Parthian dress, some 2 meters (6 1/2 ft.) high—is the most well-known.[^2] When the military governor of the district came to learn of the discoveries, he ordered that the site be left undisturbed and transported all the finds to his house at Malamir (modern Izeh). About six months later, Stein visited the region during his Fourth Expedition into Iran. He saw the finds at the governor’s house, took some photographs of the statues, and decided to visit the place of their discovery.
+The portrait head of a Hellenistic ruler ([fig. 22.1](#22.1)) was discovered more than eighty years ago in Kal-e Chendar in the valley of Shami, north of Izeh in present-day Khuzistan (ancient Elymais). It is often stated that Sir Aurel Stein (1862–1943), the famous Hungaro-British explorer, excavated the portrait. In fact, it was found accidently in the course of construction work, shortly before Stein arrived at the site.[^1] In 1935 local semi-nomadic Bakhtiaris had been obliged to settle down, and as they dug the foundations for a dwelling they discovered fragments of ancient statues made of bronze and marble. Of these the so-called Parthian nobleman—a nearly complete statue of a man in Parthian dress, some 2 meters (6 1/2 ft.) high—is the most well-known.[^2] When the military governor of the district came to learn of the discoveries, he ordered that the site be left undisturbed and transported all the finds to his house at Malamir (modern Izeh). About six months later, Stein visited the region during his Fourth Expedition into Iran. He saw the finds at the governor’s house, took some photographs of the statues, and decided to visit the place of their discovery.
 
-
+{{< q-figure id="22.1" >}}
 
 ## Excavations by Sir Aurel Stein in 1936
 
@@ -39,7 +39,7 @@ Nevertheless, numerous attempts have been made to identify the sitter. The size 
 
 As mentioned above, the head was broken into two pieces, and not merely for the purpose of melting down the metal. A photograph taken by Stein, preserved in the archives of the British Library and published here for the first time ([fig. 22.3](#22.3)), shows the assembled parts of the head before restoration. The marks of a chisel are visible at the left side of the forehead ([fig. 22.4](#22.4)). From there, the cut runs along the bridge of the nose to the chin. This is not the easiest line along which to divide a bronze head, therefore a non-pragmatic purpose of the partition has to be considered. Moreover, the dent in the right cheek was the result of several heavy blows with an edged tool, presumably a stone. The entire nose is pushed to the right side of the face, compressing the right side of the nose and bulging out the left cheek. The brutality of the actions and the deliberate distortion is obvious. Presumably the damage is a form of *damnatio memoriae* and the performers aimed to destroy the image and the memory of the ruler.
 
-{{< q-figure-group id="22.4, 22.5" grid="2" >}}
+{{< q-figure-group id="22.3, 22.4" grid="2" >}}
 
 ## A First Reconstruction
 
@@ -48,6 +48,8 @@ A first attempt to reconstruct the original features of the portrait was made so
 ## The Intended Reconstruction of the Original Features of the Head
 
 The reconstruction of the original features of the Hellenistic ruler has been attempted again in a project started in August 2015. Based upon a series of digital images and by means of photogrammetry, a three-dimensional state model was created ([fig. 22.5](#22.5)).[^22] This model, in turn, will serve to reconstruct the original physiognomy of the face by means of computer animation. For example, relatively well-preserved sections such as the upper cheek and eye of the right side of the face can be cut out, mirrored, and inserted on the other side of the head. Dents and bulges can be straightened, and the cracks joined. But it is still a work in progress. The reconstructed portrait should enable comparison to coin portraits of the Seleucid kings. Of course, such an approach has to consider the problems particular to comparison between a three-dimensional representation to two-dimensional coin designs. Nevertheless, we hope be able to identify the sitter of the bronze portrait in the National Museum of Iran.
+
+{{< q-figure id="22.5" >}}
 
 ## Other Remains of the Sculpture
 

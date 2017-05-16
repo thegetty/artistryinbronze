@@ -20,7 +20,9 @@ Zeus/Jupiter was one of the most venerated gods in ancient Albania, a country si
 
 This statuette of Zeus ([fig. 20.1](#20.1a)), which originates from Apollonia, is shown in full heroic nudity. His left arm and foot are thrust dynamically forward in the direction of his foes, while his right leg is straight; the arm is raised and slightly bent, implying movement. His weight falls on his left forward leg, but the figure is balanced and poised. His left arm is held straight before his body. He may have held an eagle on his missing left hand, while his right arm is bent at a right angle to throw the thunderbolt, which is also missing.
 
-{{< q-figure-group id="20.1a, 20.1b, 20.1c" grid="3" grid-align="bottom" >}}
+{{< q-figure-group id="20.1a, 20.1c" grid="2" >}}
+
+{{< q-figure id="20.1b" >}}
 
 This statuette, which is meant to be seen in profile, demonstrates a high quality execution of anatomy, as can be seen through the intense expression on the face and the variegated transitions between the muscles. The statuette seems to be in motion.
 
@@ -44,11 +46,11 @@ However, the pose, the attitude, and the resemblance to other statuettes in this
 
 Jupiter is represented by two bronze statuettes of a very good quality found in the region of Korça in southeast Albania. In the first statuette, Jupiter is portrayed naked ([fig. 20.3](#20.3a)). In the right hand he would have held a thunderbolt, an eagle, or a patera; the left hand extends upward, most probably to hold a scepter. This statuette is largely intact, missing only his feet and forearms. In addition, it has a youthful body, as can be noticed by the slender legs and semi-muscular body. He looks very regal, with a haughty expression under his beautifully sculpted beard and laurel crown.
 
-{{< q-figure-group id="20.3a, 20.3b" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="20.3a, 20.3b" grid="2" >}}
 
 The other statuette of Jupiter is wearing only a *chlamys* draped over his neck and left shoulder ([fig. 20.4](#20.4a)). The statuette has exceptional facial features and hair, and a very muscular body. The bearded Jupiter is seen looking away to his right, and his weight is on his right leg.
 
-{{< q-figure-group id="20.4a, 20.4b" grid="2" grid-align="bottom" >}}
+{{< q-figure-group id="20.4a, 20.4b" grid="2" >}}
 
 In these two similar poses, the figure can be recognized as Jupiter the Thunderer of the Capitoline, the preserver and supporter of the Roman state, which imitated the famous sculpture of Zeus by the Athenian sculptor Leochares.
 

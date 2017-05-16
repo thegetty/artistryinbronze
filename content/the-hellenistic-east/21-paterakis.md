@@ -79,9 +79,11 @@ Urartian bronze objects are found in Gordion and in many areas of Greece. Trade 
 
 {{< q-figure id="21.6" >}}
 
-A bronze belt or strap showing strong Urartian characteristics (KL12000010) was found in thirty-four pieces and was reconstructed to a length of 45 centimeters (17 3/4 in.; [fig. 21.7](#21.7), top).[^38] Double rows of decoration delineating horizontal bands of human and animal figures were a common motif on Urartian belts.[^39] In raking light, it is possible to distinguish similar two- and four-legged creatures along two registers on an Urartian belt fragment in the Metropolitan Museum of Art ([fig. 21.7](#21.7), bottom).[^40] Extensive corrosion of the Urartian bronzes found at Kaman-Kalehöyük impedes a more precise iconographical interpretation.
+A bronze belt or strap showing strong Urartian characteristics (KL12000010) was found in thirty-four pieces and was reconstructed to a length of 45 centimeters (17 3/4 in.; [fig. 21.7a](#21.7a)).[^38] Double rows of decoration delineating horizontal bands of human and animal figures were a common motif on Urartian belts.[^39] In raking light, it is possible to distinguish similar two- and four-legged creatures along two registers on an Urartian belt fragment in the Metropolitan Museum of Art ([fig. 21.7b](#21.7b)).[^40] Extensive corrosion of the Urartian bronzes found at Kaman-Kalehöyük impedes a more precise iconographical interpretation.
 
-{{< q-figure id="21.7" >}}
+{{< q-figure id="21.7a" >}}
+
+{{< q-figure id="21.7b" >}}
 
 ## The Hellenistic Period
 
