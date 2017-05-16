@@ -16,7 +16,7 @@ weight: 709
 
 ## Introduction
 
-The statue of an Apoxyomenos ([fig. 43.1](fig. 43.1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
+The statue of an Apoxyomenos ([fig. 43.1](#43.1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
 
 {{< q-figure id="43.1" >}}
 
@@ -32,7 +32,7 @@ Already in 1999 more than a hundred different samples were collected from the in
 
 After a first and necessary desalination, several sampling and analytical campaigns were conducted between 1999 and 2003, by taking metal samples and by performing surface analyses during the conservation-restoration treatments. The aim was to provide information about the elemental composition of the alloys used for primary and secondary castings (including welding and repairs), soldering, patches, and inlays.
 
-In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](fig. 43.2)).
+In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](#43.2)).
 
 {{< q-figure id="43.2" >}}
 
@@ -70,7 +70,7 @@ As noted above, we concluded that for an accurate determination of the metal com
 
 Our examination confirmed that the statue had been produced by an indirect lost-wax process. It is a hollow cast; that is, the casting core was removed and only minor traces of it remained. Hence the total weight of the statue is only about 125 kg, making it easily transportable.
 
-The statue is made of seven main parts (head, torso, legs, arms, and genitals). Arms, legs, and genitals were joined to the torso by flow fusion welding. The head was soldered onto the neck. The plinth parts were also soldered together and the feet were then soldered to the plinth ([fig. 43.3](fig. 43.3)).
+The statue is made of seven main parts (head, torso, legs, arms, and genitals). Arms, legs, and genitals were joined to the torso by flow fusion welding. The head was soldered onto the neck. The plinth parts were also soldered together and the feet were then soldered to the plinth ([fig. 43.3](#43.3)).
 
 {{< q-figure id="43.3" >}}
 
@@ -92,17 +92,17 @@ This re-examination confirmed that the Croatian Apoxyomenos is a typical product
 
 ## New Sampling Campaign (2013–2015)
 
-Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5](fig. 43.5)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5](#43.5)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
 {{< q-figure id="43.5" >}}
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in **table 43.1**.
 
-By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth ([fig. 43.6](fig. 43.6)). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
+By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth ([fig. 43.6](#43.6)). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
 
 {{< q-figure id="43.6" >}}
 
-Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](fig. 43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, i.e., some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
+Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, i.e., some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
 
 {{< q-figure id="43.7" >}}
 

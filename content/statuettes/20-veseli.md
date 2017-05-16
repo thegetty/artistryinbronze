@@ -18,7 +18,7 @@ Zeus/Jupiter was one of the most venerated gods in ancient Albania, a country si
 
 ## Zeus with a Thunderbolt
 
-This statuette of Zeus ([fig. 20.1](fig. 20.1a)), which originates from Apollonia, is shown in full heroic nudity. His left arm and foot are thrust dynamically forward in the direction of his foes, while his right leg is straight; the arm is raised and slightly bent, implying movement. His weight falls on his left forward leg, but the figure is balanced and poised. His left arm is held straight before his body. He may have held an eagle on his missing left hand, while his right arm is bent at a right angle to throw the thunderbolt, which is also missing.
+This statuette of Zeus ([fig. 20.1](#20.1a)), which originates from Apollonia, is shown in full heroic nudity. His left arm and foot are thrust dynamically forward in the direction of his foes, while his right leg is straight; the arm is raised and slightly bent, implying movement. His weight falls on his left forward leg, but the figure is balanced and poised. His left arm is held straight before his body. He may have held an eagle on his missing left hand, while his right arm is bent at a right angle to throw the thunderbolt, which is also missing.
 
 {{< q-figure-group id="20.1a, 20.1b, 20.1c" grid="3" grid-align="bottom" >}}
 
@@ -30,11 +30,11 @@ The findspot, the Greek colony of Apollonia of Illyria, suggests it was an impor
 
 ## Zeus with a Thunderbolt or Poseidon?
 
-The statuette ([fig. 20.2](fig. 20.2)) is represented nude; his left arm and foot move forward, while his right leg is straight and his arm is raised and bent. The weight falls on the forward leg. The anatomy of the body is schematic and poorly designed with the main concern being the portrayal of a strong figure of the god. The head rests on a very short neck. The features are of poor quality due to a neglected full cast but also the lack of cold work.
+The statuette ([fig. 20.2](#20.2)) is represented nude; his left arm and foot move forward, while his right leg is straight and his arm is raised and bent. The weight falls on the forward leg. The anatomy of the body is schematic and poorly designed with the main concern being the portrayal of a strong figure of the god. The head rests on a very short neck. The features are of poor quality due to a neglected full cast but also the lack of cold work.
 
 {{< q-figure id="20.2" >}}
 
-This statuette is represented in an attitude very similar to the Zeus of Apollonia (see [fig. 20.1](fig. 20.1a)), but with a notably less quality of execution. All the details that are exceptionally well executed in the statuette from Apollonia are quite neglected here. The coiffure is poorly designed, almost schematic, as is the anatomy of the body, with few close parallels.[^4]
+This statuette is represented in an attitude very similar to the Zeus of Apollonia (see [fig. 20.1](#20.1a)), but with a notably less quality of execution. All the details that are exceptionally well executed in the statuette from Apollonia are quite neglected here. The coiffure is poorly designed, almost schematic, as is the anatomy of the body, with few close parallels.[^4]
 
 Two hypotheses for the identification of this statuette have been suggested: the first recognizes it as a representation of Zeus on account of the similarities with the exemplar from Apollonia,[^5] while the second identifies it as Poseidon, mainly because of its findspot. The statuette was found in Salaria (southern Albania), in the vicinity of an inscription mentioning Poseidon, and some researchers believe that this archaeological evidence might suggest the presence of a sanctuary of Poseidon in this area.[^6]
 
@@ -42,11 +42,11 @@ However, the pose, the attitude, and the resemblance to other statuettes in this
 
 ## Jupiter
 
-Jupiter is represented by two bronze statuettes of a very good quality found in the region of Korça in southeast Albania. In the first statuette, Jupiter is portrayed naked ([fig. 20.3](fig. 20.3a)). In the right hand he would have held a thunderbolt, an eagle, or a patera; the left hand extends upward, most probably to hold a scepter. This statuette is largely intact, missing only his feet and forearms. In addition, it has a youthful body, as can be noticed by the slender legs and semi-muscular body. He looks very regal, with a haughty expression under his beautifully sculpted beard and laurel crown.
+Jupiter is represented by two bronze statuettes of a very good quality found in the region of Korça in southeast Albania. In the first statuette, Jupiter is portrayed naked ([fig. 20.3](#20.3a)). In the right hand he would have held a thunderbolt, an eagle, or a patera; the left hand extends upward, most probably to hold a scepter. This statuette is largely intact, missing only his feet and forearms. In addition, it has a youthful body, as can be noticed by the slender legs and semi-muscular body. He looks very regal, with a haughty expression under his beautifully sculpted beard and laurel crown.
 
 {{< q-figure-group id="20.3a, 20.3b" grid="2" grid-align="bottom" >}}
 
-The other statuette of Jupiter is wearing only a *chlamys* draped over his neck and left shoulder ([fig. 20.4](fig. 20.4a)). The statuette has exceptional facial features and hair, and a very muscular body. The bearded Jupiter is seen looking away to his right, and his weight is on his right leg.
+The other statuette of Jupiter is wearing only a *chlamys* draped over his neck and left shoulder ([fig. 20.4](#20.4a)). The statuette has exceptional facial features and hair, and a very muscular body. The bearded Jupiter is seen looking away to his right, and his weight is on his right leg.
 
 {{< q-figure-group id="20.4a, 20.4b" grid="2" grid-align="bottom" >}}
 
@@ -58,9 +58,9 @@ This model was used widely for the production of bronze statuettes, the best exa
 
 The statuettes from Albania are noted for the realistic modeling of the body and the position of the arms, which would once have held the attributes of Jupiter the Thunderer: the thunderbolt and the scepter or patera*,* which was the chief vessel used for libations.[^11] In most cases the thunderbolt was embellished with two small flames (depicted as two torches linked with decorated leaves); this was one of the most commonly represented attributes of the Jupiter during the Roman period.[^12] In addition to these attributes, Jupiter often wears a wreath composed of oak leaves, which represents the god’s sacred tree.[^13]
 
-The counterparts of the statuette of naked Jupiter (see [fig. 20.3](fig. 20.3a)) are numerous and widespread throughout the Roman Empire.[^14] This statuette, although of a good quality, is not among the best of the series. The anatomy looks a bit neglected, and the coiffure, though following Roman style, is not thoroughly worked in its details. It finds its closest parallel in a bronze statuette found in Germany.[^15]
+The counterparts of the statuette of naked Jupiter (see [fig. 20.3](#20.3a)) are numerous and widespread throughout the Roman Empire.[^14] This statuette, although of a good quality, is not among the best of the series. The anatomy looks a bit neglected, and the coiffure, though following Roman style, is not thoroughly worked in its details. It finds its closest parallel in a bronze statuette found in Germany.[^15]
 
-The other statuette, wearing a *chlamys* “en sautoir” (see [fig. 20.4](fig. 20.4a)), finds numerous analogies in a series of bronze statuettes of the same type. It differs from the first statuette in the depiction of the body in a very muscular manner and with a more leonine style of the beard and hair. Similar statuettes are seen holding an eagle in the outstretched right hand, in the act of throwing a thunderbolt with raised left arm or holding a scepter.[^16] This type is also derived from the Zeus of Leochares, but it is dated to the Roman period based on its coiffure and the contrapposto of the body.[^17]
+The other statuette, wearing a *chlamys* “en sautoir” (see [fig. 20.4](#20.4a)), finds numerous analogies in a series of bronze statuettes of the same type. It differs from the first statuette in the depiction of the body in a very muscular manner and with a more leonine style of the beard and hair. Similar statuettes are seen holding an eagle in the outstretched right hand, in the act of throwing a thunderbolt with raised left arm or holding a scepter.[^16] This type is also derived from the Zeus of Leochares, but it is dated to the Roman period based on its coiffure and the contrapposto of the body.[^17]
 
 ## The Zeus Cult in Ancient Albania
 
@@ -70,7 +70,7 @@ Ancient coinage also presents various representations of Zeus, but the most freq
 
 ## The Jupiter Cult in Ancient Albania
 
-These two bronze statuettes of Jupiter (see [figs. 20.3–4](fig. 20.3a)) attest to the presence of the cult of Jupiter Capitolinus in southern Illyria. However, the cult of Jupiter is attested by just a few rare documents in Albania, indicating that his cult was not widespread in the country. Only two inscriptions are known: the first from Byllis, where Jupiter is addressed with the epithet *Sabazios*,[^24] and the other from the environs of Dyrrachium.[^25] His cult can also be documented by the presence of Roman coins on which he is depicted with the leonine head.[^26]
+These two bronze statuettes of Jupiter (see [figs. 20.3–4](#20.3a)) attest to the presence of the cult of Jupiter Capitolinus in southern Illyria. However, the cult of Jupiter is attested by just a few rare documents in Albania, indicating that his cult was not widespread in the country. Only two inscriptions are known: the first from Byllis, where Jupiter is addressed with the epithet *Sabazios*,[^24] and the other from the environs of Dyrrachium.[^25] His cult can also be documented by the presence of Roman coins on which he is depicted with the leonine head.[^26]
 
 In the meantime his cult was more popular in other Illyrian territories, such as Dalmatia, where he was known as Maximus, Dolicheus, or Capitolinus, and in Dardania, where inscriptions regarding this god are seen throughout the territory, for example in Dërsnik[^27] and Pejë,[^28] and on two altars from the area of Suhareka.[^29] The popularity of his cult in these territories is probably due to the presence of the Roman army.
 

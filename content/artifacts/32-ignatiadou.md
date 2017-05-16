@@ -39,9 +39,9 @@ Other bronze and copper parts related to the Derveni case were retrieved from th
 
 - Lid B 90a ([fig. 32.2c](fig.e 32.2c), top) is a second, but longer, bronze lid preserving two latches and also repaired. It is 25.2 centimeters long and 4.5 centimeters wide; the bronze sheet is 0.1 centimeter thick. The handle measures 2.5 by 3.2 centimeters, with latch holes 4.5 centimeters from the corresponding short side.
 
-- Lid B 90b (fig. 32.2c](fig.e 32.2c), bottom middle) is a small square bronze lid with a ring handle, perhaps a replacement part. It is 5.3 centimeters long, and 4.5 centimeters wide. The bronze sheet is again 0.1 centimeter thick. The diameter of the ring (handle) is 1 centimeter, while the latch holes are 2.5 centimeters from the left side and 2.3 centimeters from the right.
+- Lid B 90b (#32.2c](fig.e 32.2c), bottom middle) is a small square bronze lid with a ring handle, perhaps a replacement part. It is 5.3 centimeters long, and 4.5 centimeters wide. The bronze sheet is again 0.1 centimeter thick. The diameter of the ring (handle) is 1 centimeter, while the latch holes are 2.5 centimeters from the left side and 2.3 centimeters from the right.
 
-- The bronze top of B 90c (fig. 32.2c](fig.e 32.2c), bottom right) is flat and perforated, decorated with incised lines. It was probably fitted with a small cylinder made of a single flat sheet fastened with a bronze nail; this is evidently the lid of an inbuilt inkwell. It is 5.1 centimeters long and 4.9 centimeters wide, with a sheet thickness of 0.1 centimeter. The diameter of the perforation is 1.4 centimeters.
+- The bronze top of B 90c (#32.2c](fig.e 32.2c), bottom right) is flat and perforated, decorated with incised lines. It was probably fitted with a small cylinder made of a single flat sheet fastened with a bronze nail; this is evidently the lid of an inbuilt inkwell. It is 5.1 centimeters long and 4.9 centimeters wide, with a sheet thickness of 0.1 centimeter. The diameter of the perforation is 1.4 centimeters.
 
 - Case B 43 has two miniature, undecorated, semi-spherical bowls of hammered copper. They contained remains of a dark cake, of a nature similar to that of the “clays” in Case B 35. The dimensions of the bowls (4.4 cm in diameter, height 2.1 cm) permit the hypothesis that they could originally have fit inside the compartments of the case.
 
@@ -69,7 +69,7 @@ The top (Py 686, Py 691) consists of a flat rectangular sheet with three circula
 
 The lid (Py 683, [fig. 32.3](fig.e 32.3), top) consists of a single flat sheet with a moving arched handle. On top of its upper surface and along the back long side is attached a flat rod with pointed ends. Both back corners of the lid are missing; it is therefore not possible to see how it was connected to the body. On the front middle of the lid is an arched moving handle with curved-back terminals. The handle was attached to the sheet by means of two strips penetrating the sheet; these survive only partly. Flanking the handle are two stepped bosses covering the dowel attachments of the latches on the other side of the lid, and probably also used to swivel the latches. The bosses are placed at a distance of 1.7 centimeters from the corresponding short sides and 0.6 centimeter from the long side. The latches are made of a contoured sheet (like two back-to-back C-shaped elements) at the end of a long strip, which survives only partly; the latches were obviously swiveling around the dowel so that the protruding strip would catch against an opposite side. The surface is corroded but from the uncorroded patches it is evident that the lid is not decorated with incisions. It was mended but not restored. The lid measures 16.3 by 5.2 centimeters; the handle is 2.9 by 2 centimeters; the bosses are 0.9 centimeter in diameter. The latches (preserved) are 1.2 by 1.2 centimeters; the rod is 16.7 by 0.3 by 0.1 centimeter.
 
-Case B is also a bronze semi-cylindrical (Py 692), preserved at the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki. It too comes from Pydna, from the same tomb as Case A ([fig. 32.4](fig. 32.4)).
+Case B is also a bronze semi-cylindrical (Py 692), preserved at the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki. It too comes from Pydna, from the same tomb as Case A ([fig. 32.4](#32.4)).
 
 {{< q-figure id="32.4" >}}
 
@@ -95,13 +95,13 @@ Our next examples come from Archontiko, near Pella, Pit Grave 325 A of the fourt
 
 {{< q-figure id="32.6" >}}
 
-Another bronze semi-cylindrical case and stone palette was discovered in Veroia, Building Block 305, on a side street off Ploutarchou Street, in a vaulted rock-cut tomb (Tomb III) with a burial of the third century BC.[^11] It is preserved in the Archaeological Museum of Veroia ([fig. 32.7](fig. 32.7)). This case, with three compartments and a perforated top, has a long body with two preserved dividers, making one long compartment in the middle and two short ones at the ends. The top has three perforations: two large rectangular ones left and right, and one smaller rectangular at the center right. Thus the central compartment top features two sets of concentric decoration but only one off-center perforation. A lid is not preserved. With it was found a stone palette that could be associated with one of the larger perforations.
+Another bronze semi-cylindrical case and stone palette was discovered in Veroia, Building Block 305, on a side street off Ploutarchou Street, in a vaulted rock-cut tomb (Tomb III) with a burial of the third century BC.[^11] It is preserved in the Archaeological Museum of Veroia ([fig. 32.7](#32.7)). This case, with three compartments and a perforated top, has a long body with two preserved dividers, making one long compartment in the middle and two short ones at the ends. The top has three perforations: two large rectangular ones left and right, and one smaller rectangular at the center right. Thus the central compartment top features two sets of concentric decoration but only one off-center perforation. A lid is not preserved. With it was found a stone palette that could be associated with one of the larger perforations.
 
 {{< q-figure id="32.7" >}}
 
 Another bronze case with three compartments was unearthed during a rescue excavation at Amphipolis. The dating is uncertain but may be fourth/third century BC.[^12] The top features one rectangular and two round perforations.
 
-Finally, from the archaeological site at Edessa comes a small, single-compartment bronze case with feet ([fig. 32.8](fig. 32.8)). It was found on a rural road, in Grave II with burial of the second century BC.[^13] The semi-cylindrical body is supported on two contoured sheet feet. It has a flat top with a central small round perforation. There is no lid. It is thought to be an inkwell.
+Finally, from the archaeological site at Edessa comes a small, single-compartment bronze case with feet ([fig. 32.8](#32.8)). It was found on a rural road, in Grave II with burial of the second century BC.[^13] The semi-cylindrical body is supported on two contoured sheet feet. It has a flat top with a central small round perforation. There is no lid. It is thought to be an inkwell.
 
 {{< q-figure id="32.8" >}}
 

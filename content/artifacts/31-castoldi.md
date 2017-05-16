@@ -23,7 +23,7 @@ Fruit and vegetables could became more durable offerings if they were modeled fr
 
 These objects are well-known thanks to the ancient sources. For example, Plutarch described the bronze palm dedicated in the sanctuary of Delphi by Kypselos—perhaps a *sphyrelaton*[^5]—and one offered by the Athenians after the battle of the Eurymedon (470/69 BC).[^6] The base of the latter has been identified to the northeast of the front side of the Apollo temple: a statue of Athena with an owl stood on top of the palm tree, which had bunches of golden dates and was still standing at the time of Pausanias.[^7] Another famous bronze palm tree was offered by Nikias at the Apollo sanctuary of Delos around 417 BC, as mentioned by Plutarch; its base is preserved not far from the *oikos* of the Naxians.[^8]
 
-However, we also have many *realia*. A good example in bronze was found during the excavations of Karapanos in Dodona; it represents a branch of an oak, the tree sacred to Zeus.[^9] Moreover, we may remember the bronze branches and laurel leaves in the sanctuary of Apollo in Klaros, and those found in Magna Graecia, in Kroton, Kaulonia, and Metaponto ([fig. 31.1](fig. 31.1)); these testify to the practice of dedicating bronze laurel trees to Apollo.[^10]
+However, we also have many *realia*. A good example in bronze was found during the excavations of Karapanos in Dodona; it represents a branch of an oak, the tree sacred to Zeus.[^9] Moreover, we may remember the bronze branches and laurel leaves in the sanctuary of Apollo in Klaros, and those found in Magna Graecia, in Kroton, Kaulonia, and Metaponto ([fig. 31.1](#31.1)); these testify to the practice of dedicating bronze laurel trees to Apollo.[^10]
 
 {{< q-figure id="31.1" >}}
 
@@ -39,11 +39,11 @@ Of course, gardens like the one in Alexandria were artificial: the exuberance of
 
 The taste for ornamental plants spread in the arts and crafts of early Imperial Rome. They evoked the spirit of the Alexandrian gardens and the tree-shaped artworks and precious monumental anathemata in the Greek temples and sanctuaries (i.e., laurel trees, palms, and grapevines in bronze or gold) that were still visible in Roman times.
 
-Candelabra in the form of trees, more or less naturalistic, were widespread. The most common were certainly lampstands with slender shafts *a canna* (cane-like), representing bamboo or lopped branches, surmounted by a disk to hold a single lamp ([fig. 31.2](fig. 31.2)).[^20] This type was most likely produced in Central Italy and was manufactured in a small, tabletop version, and in a larger version, to be placed on the floor.[^21]
+Candelabra in the form of trees, more or less naturalistic, were widespread. The most common were certainly lampstands with slender shafts *a canna* (cane-like), representing bamboo or lopped branches, surmounted by a disk to hold a single lamp ([fig. 31.2](#31.2)).[^20] This type was most likely produced in Central Italy and was manufactured in a small, tabletop version, and in a larger version, to be placed on the floor.[^21]
 
 {{< q-figure id="31.2" >}}
 
-In addition to such stylized variants, however, there is also evidence of more naturalistic representations. There are medium-sized lampstands, trunk-shaped, made to be placed on tables or supports, with small lamps suspended from their branches like fruits, such as the specimens from Pompeii and the famous lampstand from the Meloria (Livorno) ([fig. 31.3](fig. 31.3)).[^22] These “trees” have few leaves: evidently, the lamps, like small luminous fruit, replaced the foliage.
+In addition to such stylized variants, however, there is also evidence of more naturalistic representations. There are medium-sized lampstands, trunk-shaped, made to be placed on tables or supports, with small lamps suspended from their branches like fruits, such as the specimens from Pompeii and the famous lampstand from the Meloria (Livorno) ([fig. 31.3](#31.3)).[^22] These “trees” have few leaves: evidently, the lamps, like small luminous fruit, replaced the foliage.
 
 {{< q-figure id="31.3" >}}
 
@@ -51,7 +51,7 @@ Some ornate stands have a large rectangular base upon which statuettes of heroes
 
 Other bronze trees in the Roman world had a votive function: such is likely the case for the candelabrum in the British Museum, a true *signum pantheum*, in which a twisted tree became the support for pantheistic attributes in relief. This is a unique object, as far as I know, which due to its small size should be assigned to a *lararium* or a small domestic shrine setting.[^26]
 
-In northern Italy, a group found in the region of Verona is of great interest. It consisted of a small bronze tree and a statuette of Minerva ([fig. 31.4](fig. 31.4)): one can assume that they too were likely placed in a *lararium*.[^27] Lamps modeled in the form of an acanthus bud are known also from among the famous findings of Montorio Veronese, some of which were likely part of a *lararium*.[^28] Individual leaves, too, are represented in Roman times among votive offerings, as we know from many examples from northern Italy.[^29]
+In northern Italy, a group found in the region of Verona is of great interest. It consisted of a small bronze tree and a statuette of Minerva ([fig. 31.4](#31.4)): one can assume that they too were likely placed in a *lararium*.[^27] Lamps modeled in the form of an acanthus bud are known also from among the famous findings of Montorio Veronese, some of which were likely part of a *lararium*.[^28] Individual leaves, too, are represented in Roman times among votive offerings, as we know from many examples from northern Italy.[^29]
 
 {{< q-figure id="31.4" >}}
 
