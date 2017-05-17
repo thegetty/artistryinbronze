@@ -67,6 +67,16 @@
         text-indent: 0;
       }
 
+      ol, ul {
+        li {
+          margin-bottom: $base-spacing * .5;
+          p {
+            text-indent: 0;
+            margin-bottom: $base-spacing * .25;
+          }
+        }
+      }
+
       .attribution {
         font-style: italic;
         margin-top: $base-spacing;
