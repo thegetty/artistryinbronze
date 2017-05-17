@@ -44,13 +44,13 @@ type: page
 
     VIIth International Congress on Ancient Bronzes, May 5–10, 1982. István Király Muzeum, Székesfehérvár, Hungary.
 
-    Jenö Fitz, ed. 1984. “Bronzes romains figurés et appliqués et leurs problèmes techniques: Actes du VIIe colloque international sur les bronzes antiques, Székesfehérvár, 1982.” *Alba Regia* 21: 5–136.
+    Acta: Jenö Fitz, ed. 1984. “Bronzes romains figurés et appliqués et leurs problèmes techniques: Actes du VIIe colloque international sur les bronzes antiques, Székesfehérvár, 1982.” *Alba Regia* 21: 5–136.
 
 8. 1984 STARA ZAGORA
 
     VIIIth International Congress on Ancient Bronzes, May 27–31, 1984. District Historical Museum, Stara Zagora, Bulgaria.
 
-    Acta unpublished.
+    Acta: unpublished.
 
     Catalogue: D. Nikolov et al., eds. 1984. *Ancient Bronzes*. Exh. cat., District Historical Museum, Stara Zagora.
 
@@ -74,7 +74,7 @@ type: page
 
     XIth International Congress on Ancient Bronzes, May–June 1990. Madrid, Spain.
 
-    Acta: J. Arce and F. Burkhalter, eds. 1993. *Bronces y religion romana: Actas del X I congreso internacional de bronces antiguos, Madrid*. Madrid: Consejo Superior de Investigaciones Científicas*. *
+    Acta: J. Arce and F. Burkhalter, eds. 1993. *Bronces y religion romana: Actas del X I congreso internacional de bronces antiguos, Madrid*. Madrid: Consejo Superior de Investigaciones Científicas.
 
     Catalogue: P. de Velázquez, ed. 1990. *Los bronces romanos en España*. Exh. cat., Palacio de Velazquez, Madrid.
 
@@ -96,7 +96,7 @@ type: page
 
     XIVth International Congress on Ancient Bronzes, September 21–24, 1999. Römisch-Germanischen Museums, Cologne, Germany.
 
-    Acta: R. Thomas, ed. 2000. *Antike Bronzen: Werkstattkreise: Figuren und Geräte, 14. Internationaler Kongress, Römisch-Germanischen Museums,* *Köln*. Kölner Jahrbuch 33.
+    Acta: R. Thomas, ed. 2000. *Antike Bronzen: Werkstattkreise: Figuren und Geräte, 14. Internationaler Kongress, Römisch-Germanischen Museums, Köln*. Kölner Jahrbuch 33.
 
 15. 2001 GRADO-AQUILEIA
 
