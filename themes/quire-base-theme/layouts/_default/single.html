@@ -2,16 +2,23 @@
 <div class="quire-page">
   <header class="quire-page__header">
     <h1 class="quire-page__header__title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
-    <ul class="quire-page__header__author">
-    {{ range .Params.author }}
-    <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
-    {{ end }}
-    </ul>
+      <ul class="quire-page__header__author">
+      {{ range .Params.author }}
+      <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+      {{ end }}
+      </ul>
   </header>
   <div class="quire-page__content">
     <section class="quire-page__content__main">
       {{ .Content }}
     <section>
+    {{ if eq .Params.contributor_byline "bottom" }}
+      <ul class="quire-page__content__contributor">
+      {{ range .Params.contributor }}
+      <li>{{ .first_name }} {{ .last_name }} <br />{{ .title }}, {{ .affiliation }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
   </div>
 </div>
 {{ end }}

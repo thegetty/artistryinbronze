@@ -142,6 +142,16 @@
       // font-size: 100%;
     }
 
+    &__contributor {
+      list-style-type: none;
+      margin-top: $base-spacing * 3;
+      padding-left: $base-spacing;
+      li {
+        float: left;
+        margin-right: $base-spacing * 2;
+      }
+    }
+
   }
 
   &__section-list {

@@ -3,12 +3,15 @@ title: Directors’ Foreword
 weight: 4
 type: page
 contributor:
-  - firt_name: Timothy
+  - first_name: Timothy
     last_name: Potts
-    affiliation: Director, The J. Paul Getty Museum
-  - firt_name: Tim
+    title: Director
+    affiliation: The J. Paul Getty Museum
+  - first_name: Tim
     last_name: Whalen
-    affiliation: Director, The Getty Conservation Institute
+    title: Director
+    affiliation: The Getty Conservation Institute
+contributor_byline: bottom
 ---
 
 The Getty has long been committed to the appreciation, study, and conservation of ancient bronzes. Much like Cicero and others who valued these works for their history, beauty, and craftsmanship, J. Paul Getty himself greatly admired bronze sculpture. Among the early purchases that pleased him most were statuettes of gods and heroes. When he passed away in 1976, he was negotiating for the purchase of the rare life-size image of a victorious athlete that has come to be known as the Getty Bronze. Subsequently acquired by the museum that bears J. Paul Getty’s name, that statue was the inspiration for the award-winning international loan exhibition *Power and Pathos, Bronze Sculpture of the Hellenistic World*, a project that brought together an exceptional group of ancient bronzes of the 4<sup>th</sup>–1<sup>st</sup> centuries BC from around the world. The exhibition opened at Palazzo Strozzi in Florence in spring 2015, was seen by over 165,000 people at the Getty Center in the summer and autumn of that year, and closed at the National Gallery of Art in Washington, D.C., in spring 2016.
