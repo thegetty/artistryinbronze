@@ -1252,7 +1252,7 @@ biblio_list:
     full: "Borbein, A. H. 1996. “Polykleitos.” In *Personal Styles in Greek Sculpture*, ed. O. Palagia and J. J. Pollitt, 66–90. Cambridge: Cambridge University Press."
     reference_for: "10"
 
-  - short: <em>DNO</em>
+  - short: "*DNO*"
     full: "*Der Neue Overbeck (DNO): Die antiken Schriftquellen zu den bildenden Künsten der Griechen*, ed. S. Kansteiner et al. 5 vols. Berlin: De Gruyter."
     reference_for: "10"
 
@@ -3144,7 +3144,7 @@ biblio_list:
     full: "Christie’s 2012. *Antiquities*. Auction catalogue 4925. April 26, 2012, London."
     reference_for: "23"
 
-  - short: <em>CIS</em>
+  - short: "*CIS*"
     full: "*Corpus Inscriptionum Semiticarum*. [1926] 1947. Part 2, vol. 3: *Inscriptiones Palmyrenae*, ed. J. B. Chabot. Paris: C. Klincksieck."
     reference_for: "23"
 
@@ -3928,7 +3928,7 @@ biblio_list:
     full: "Colledge, M. A. R. 1976. *The Art of Palmyra*. London: Thames and Hudson."
     reference_for: "28"
 
-  - short: <em>Die Thraker</em> 2004
+  - short: "*Die Thraker* 2004"
     full: "*Die Thraker: Das goldene Reich des Orpheus*. Exh. cat. Bonn, Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: Zabern."
     reference_for: "28"
 
@@ -4536,7 +4536,7 @@ biblio_list:
     full: "Nazo, A. 2003. *I bronzi Etruschi e Italici del Römisch-Germanisches Zentralmuseum*. Mainz: Römisch-Germanisches Zentralmuseum."
     reference_for: "33"
 
-  - short: <em>Antiken</em> 2011
+  - short: "*Antiken* 2011"
     full: "*Antiken*. 2011. Gerhard Hirsch Nachfolger, auction catalog 274. September 20‒21, 2011, Munich."
     reference_for: "34"
 
@@ -4608,7 +4608,7 @@ biblio_list:
     full: "Knauß, F. S., ed. 2012. *Die Unsterblichen Götter Griechenlands*. Exh. cat. Munich: Staatliche Antikensammlungen und Glyptothek."
     reference_for: "34"
 
-  - short: <em>Kunstobjekte der Antike</em> 2002
+  - short: "*Kunstobjekte der Antike* 2002"
     full: "*Kunstobjekte der Antike*. 2002. Gorny & Mosch, auction catalog 119. October 16, 2002, Munich."
     reference_for: "34"
 
@@ -4862,11 +4862,11 @@ biblio_list:
 
 
   - short: Boyatzis, Ioakimoglou, and Argitis 2002
-    full: "Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” <em>Journal of Applied Polymer Science</em> 84(5): 936–49."
+    full: "Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” *Journal of Applied Polymer Science* 84(5): 936–49."
     reference_for: "37"
 
   - short: Boyatzis et al. 2012
-    full: "Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” <em>Applied Spectroscopy</em> 66(5): 580–90."
+    full: "Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” *Applied Spectroscopy* 66(5): 580–90."
     reference_for: "37"
 
   - short: Brostoff 2003
@@ -4906,7 +4906,7 @@ biblio_list:
     reference_for: "37"
 
   - short: Lazzari and Chiantore 2000
-    full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” <em>Polymer</em> 41(17): 6447–55."
+    full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” *Polymer* 41(17): 6447–55."
     reference_for: "37"
 
   - short: Madsen 1971
@@ -5525,7 +5525,7 @@ biblio_list:
     full: "Trentelman, K., M. Bouchard, M. Ganio, C. Namowicz, C. Schmidt Patterson, and M. Walton. 2010. “The Examination of Works of Art Using *in situ* XRF Line and Area Scans.” *X-Ray Spectrometry* 39: 159–66."
     reference_for: "46"
 
-  - short: <em>Ancient Art</em> 1954
+  - short: "*Ancient Art* 1954"
     full: "*Ancient Art in American Private Collections*. 1954. Exh. cat. Cambridge (MA): Fogg Art Museum."
     reference_for: "47"
 

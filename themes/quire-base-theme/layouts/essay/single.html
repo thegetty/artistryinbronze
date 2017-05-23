@@ -40,7 +40,7 @@
         {{ $f := .full }}
         {{ range $refslist }}
           {{ if eq . $.Params.id  }}
-              <dt>{{ $s }}</dt>
+              <dt>{{ $s | markdownify }}</dt>
               <dd>{{ $f | markdownify }}</dd>
           {{ end }}
         {{ end }}
