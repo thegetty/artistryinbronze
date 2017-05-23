@@ -12,11 +12,13 @@
 <div class="quire-page">
   <header class="quire-page__header">
     <h1 class="quire-page__header__title"><span class="quire-page__header__number">{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
-    <ul class="quire-page__header__contributor">
-    {{ range .Params.contributor }}
-    <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+    {{ if or (eq .Params.contributor_byline "top") ( eq .Params.contributor_byline nil) }}
+      <ul class="quire-page__header__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
     {{ end }}
-    </ul>
     <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a>{{ if $pagebiblio }}| <a href="#bibliography">Bibliography</a>{{ end }}</p>
   </header>
   <div class="quire-page__content">
@@ -46,6 +48,13 @@
         {{ end }}
       {{ end }}
     </section>
+    {{ end }}
+    {{ if eq .Params.contributor_byline "bottom" }}
+      <ul class="quire-page__content__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
     {{ end }}
 </div>
 {{ end }}

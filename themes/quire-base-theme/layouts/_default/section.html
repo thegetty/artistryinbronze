@@ -18,7 +18,7 @@
         <span class="quire-page__section-list__item__title"><a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></span>
         <ul class="quire-page__section-list__item__contributor">
         {{ range .Params.contributor }}
-        <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
         {{ end }}
         </ul>
         {{ with .Params.abstract }}
@@ -45,7 +45,7 @@
         <span class="quire-page__section-list__item__abstract-only-title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</span>
         <ul class="quire-page__section-list__item__contributor">
         {{ range .Params.contributor }}
-        <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
         {{ end }}
         </ul>
         <div class="quire-page__section-list__read">
