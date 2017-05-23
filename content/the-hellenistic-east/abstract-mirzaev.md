@@ -1,7 +1,7 @@
 ---
 title: The Hellenistic Heritage of Termez
 type: abstract
-author:
+contributor:
  - first_name: Djalalitdin
    last_name: Mirzaev
    affiliation: Termez Archaeological Museum, Uzbekistan

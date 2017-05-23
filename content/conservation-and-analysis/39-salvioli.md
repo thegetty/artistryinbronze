@@ -2,7 +2,7 @@
 id: "39"
 title: Conservation Treatments and Archaeometallurgical Insights on the Medici Riccardi Horse Head
 type: essay
-author:
+contributor:
  - first_name: Nicola
    last_name: Salvioli
    affiliation: Conservator, Florence, Italy

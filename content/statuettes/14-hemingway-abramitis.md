@@ -2,7 +2,7 @@
 id: "14"
 title: The Use of Inlays in Early Greek Bronzes
 type: essay
-author:
+contributor:
  - first_name: Séan
    last_name: Hemingway
    affiliation: Metropolitan Museum of Art, New York

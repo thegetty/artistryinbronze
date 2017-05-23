@@ -2,7 +2,7 @@
 title: Standspiegel, Figured Appliqués, and Other Bronze Items at Locri Epizefiri (Magna Graecia)
 subtitle: "Morphology, Style, and Chronology between Local Production and External Influences (Sixth to Fourth Century BC): A Reappraisal"
 type: abstract
-author:
+contributor:
  - first_name: Diego
    last_name: Elia
    affiliation: University of Turin

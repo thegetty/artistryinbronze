@@ -2,7 +2,7 @@
 title: Apoxyomenos
 subtitle: Discovery, Underwater Excavation, and Survey
 type: abstract
-author:
+contributor:
  - first_name: Jasen
    last_name: Mesić
    affiliation: Parliament of Croatia, Committee for Science, Education, and Culture, Zagreb

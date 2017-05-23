@@ -1,7 +1,7 @@
 ---
 title: Examination, Conservation, and Analysis of a Composed Egyptian Ibis Statue
 type: abstract
-author:
+contributor:
  - first_name: Shimaa
    last_name: Mahmoud
    affiliation: Grand Egyptian Museum, Egypt

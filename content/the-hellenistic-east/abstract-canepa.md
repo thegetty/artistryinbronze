@@ -1,7 +1,7 @@
 ---
 title: The Transformation of Bronze Sculpture in the Hellenistic East and the Iranian World
 type: abstract
-author:
+contributor:
  - first_name: Matthew P.
    last_name: Canepa
    affiliation: University of Minnesota, Minneapolis

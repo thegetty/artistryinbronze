@@ -1,7 +1,7 @@
 ---
 title: Roman-Age Casting Techniques of Small Bronzes from Marche
 type: abstract
-author:
+contributor:
  - first_name: Fabio
    last_name: Fazzini
    affiliation: Italy

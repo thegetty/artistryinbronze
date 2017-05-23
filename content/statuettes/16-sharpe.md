@@ -3,7 +3,7 @@ id: "16"
 title: The Paramythia Bronzes
 subtitle: Expressions of Cultural Identity in Roman Epirus
 type: essay
-author:
+contributor:
  - first_name: Heather
    last_name: Sharpe
    affiliation: West Chester University

@@ -1,7 +1,7 @@
 ---
 title: The Bronze Statue of Germanicus from Ameria (Amelia)
 type: abstract
-author:
+contributor:
  - first_name: John
    last_name: Pollini
    affiliation: University of Southern California, Los Angeles

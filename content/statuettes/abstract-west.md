@@ -1,7 +1,7 @@
 ---
 title: Figural Bronze Statuettes in the Ashmolean Collection and the Aesthetics of Replication
 type: abstract
-author:
+contributor:
  - first_name: Nicholas
    last_name: West
    affiliation: University of Oxford

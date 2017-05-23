@@ -2,7 +2,7 @@
 id: "17"
 title: Roman Bronze Figurines of Deities in the National Archaeological Museum of the Marche (Ancona)
 type: essay
-author:
+contributor:
  - first_name: Nicoletta
    last_name: Frapiccini
    affiliation: Soprintendenzia per i Beni Archeologici delle Marche, Ancona

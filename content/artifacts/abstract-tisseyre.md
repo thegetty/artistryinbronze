@@ -2,7 +2,7 @@
 title: Bronze Warfare from the Hellenistic Period
 subtitle: A Study of the Acqualadroni Naval Ram
 type: abstract
-author:
+contributor:
  - first_name: Tisseyre
    last_name: Tisseyre
    affiliation: Soprintendenza del Mare, Italy

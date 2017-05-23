@@ -2,7 +2,7 @@
 id: "29"
 title: Hellenistic, Roman and Byzantine Influence in the Consolidation of Fatimid Metalware
 type: essay
-author:
+contributor:
  - first_name: Ayala
    last_name: Lester
    affiliation: The Israeli Antiquities Authority

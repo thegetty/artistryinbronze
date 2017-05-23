@@ -2,7 +2,7 @@
 id: "32"
 title: Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia
 type: essay
-author:
+contributor:
  - first_name: Despina
    last_name: Ignatiadou
    affiliation: National Archaeological Museum, Athens

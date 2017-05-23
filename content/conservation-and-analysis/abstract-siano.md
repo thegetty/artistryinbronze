@@ -2,7 +2,7 @@
 title: The Material Interpretation of Ancient Large Bronzes
 subtitle: The Case of the Florentine Masterpieces
 type: abstract
-author:
+contributor:
  - first_name: Salvatore
    last_name: Siano
    affiliation: Istituto di Fisica Applicata “Nello Carrara”, Consiglio Nazionale delle Ricerche, Sesto Fiorentino, Florence

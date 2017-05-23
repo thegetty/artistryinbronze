@@ -2,7 +2,7 @@
 id: "24"
 title: Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Period
 type: essay
-author:
+contributor:
  - first_name: Chiara
    last_name: Tarditi
    affiliation: Università Cattolica, Brescia (Italy)

@@ -3,7 +3,7 @@ id: "11"
 title: Looking at the Bronze of Lost Sculptures
 subtitle: The Reception of the Delphic Monument of the Admirals in the Imperial Age
 type: essay
-author:
+contributor:
  - first_name: Eva
    last_name: Falaschi
    affiliation: Scuola Normale Superiore, Pisa

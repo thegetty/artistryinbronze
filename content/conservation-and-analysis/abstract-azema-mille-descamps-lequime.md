@@ -2,7 +2,7 @@
 title: Balancing Artifacts
 subtitle: Incense-Burners and Ponderation in Etruria
 type: abstract
-author:
+contributor:
  - first_name: Aurélia
    last_name: Azema
    affiliation: Laboratoire de Recherche des Monuments Historiques

@@ -1,7 +1,7 @@
 ---
 title: Praxiteles’ Bronze Sculpture at Delphi
 type: abstract
-author:
+contributor:
  - first_name: Aileen
    last_name: Ajootian
    affiliation: University of Mississippi, Oxford

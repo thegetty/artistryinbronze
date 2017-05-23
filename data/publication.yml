@@ -15,7 +15,7 @@ reading_line: XIXth International Congress on Ancient Bronzes
 series_name:
 number_in_series:
 
-primary_contributors:
+primary_contributor:
   # Add as many creators as desired here; each one should begin with a dash.
   # The Quire themes will assume the first item in the creators array is the
   # primary author.
@@ -43,9 +43,9 @@ primary_contributors:
     role_code: edc
     bio:
 
-secondary_contributors:
+secondary_contributor:
 
-contributors_as_they_appear:
+contributor_as_it_appears:
   # This field is totally custom in case a particular phrasing is desired.
   - Edited by
   - Jens M. Daehner

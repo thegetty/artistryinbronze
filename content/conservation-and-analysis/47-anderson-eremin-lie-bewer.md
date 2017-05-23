@@ -3,7 +3,7 @@ id: "47"
 title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
 type: essay
-author:
+contributor:
  - first_name: Lisa Anderson
    last_name: Anderson
    affiliation: Division of Asian and Mediterranean Art, Harvard Art Museums

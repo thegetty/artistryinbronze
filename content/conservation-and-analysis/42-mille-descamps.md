@@ -2,7 +2,7 @@
 id: "42"
 title: A Technological Re-Examination of the Piombino Apollo
 type: essay
-author:
+contributor:
  - first_name: Benoît
    last_name: Mille
    affiliation: Centre de Recherche et de Restauration des Musées de France (C2RMF) & UMR7055 Préhistoire et Technologie, France

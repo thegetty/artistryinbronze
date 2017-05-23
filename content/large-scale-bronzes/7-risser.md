@@ -3,7 +3,7 @@ id: "7"
 title: Tiberius from Herculaneum
 subtitle: Methods of Assembling a Monumental Bronze Portrait
 type: essay
-author:
+contributor:
  - first_name: Erik
    last_name: Risser
    affiliation: The J. Paul Getty Museum

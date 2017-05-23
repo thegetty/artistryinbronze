@@ -2,7 +2,7 @@
 title: Figures on Fire
 subtitle: New Approaches to the Understanding of Roman Lighting Devices in Bronze
 type: abstract
-author:
+contributor:
  - first_name: Ruth
    last_name: Bielfeldt
    affiliation: Harvard University, Cambridge

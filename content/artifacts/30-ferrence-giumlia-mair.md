@@ -3,7 +3,7 @@ id: "30"
 title: Minoan Status Symbols
 subtitle: Tweezers, “Weaving Hooks,” and Cosmetic Scrapers
 type: essay
-author:
+contributor:
  - first_name: Susan C.
    last_name: Ferrence
    affiliation: INSTAP Academic Press, Philadelphia, PA

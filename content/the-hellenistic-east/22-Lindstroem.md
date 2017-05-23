@@ -2,7 +2,7 @@
 id: "22"
 title: The Portrait of a Hellenistic Ruler in the National Museum of Iran
 type: essay
-author:
+contributor:
  - first_name: Gunvor
    last_name: Lindström
    affiliation: Deutsches Archäeologisches Institut, Berlin

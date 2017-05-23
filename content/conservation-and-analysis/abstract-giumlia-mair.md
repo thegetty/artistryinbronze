@@ -2,7 +2,7 @@
 title: Modern and Ancient Metal Fakes
 subtitle: Composition, Patina, Production Technology, Technical Details
 type: abstract
-author:
+contributor:
  - first_name: Alessandra
    last_name: Giumlia-Mair
    affiliation: AGM Archeoanalisi, Merano

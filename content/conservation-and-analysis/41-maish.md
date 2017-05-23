@@ -3,7 +3,7 @@ id: "41"
 title: The Getty Herm of Dionysos
 subtitle: Technical Observations, Review, and Interpretation
 type: essay
-author:
+contributor:
  - first_name: Jeffrey
    last_name: Maish
    affiliation: J. Paul Getty Museum

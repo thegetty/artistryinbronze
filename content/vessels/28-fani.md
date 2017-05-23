@@ -2,7 +2,7 @@
 id: "28"
 title: An Anthropomorphic Vessel in the National Museum of Beirut
 type: essay
-author:
+contributor:
  - first_name: Zeina
    last_name: Fani
    affiliation: Lebanese University, Beirut

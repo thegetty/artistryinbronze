@@ -3,7 +3,7 @@ id: "10"
 title: Polykleitos at Work
 subtitle: How the Doryphoros Was Used
 type: essay
-author:
+contributor:
  - first_name: Kyoko
    last_name: Sengoku-Haga
    affiliation: Tohoku University

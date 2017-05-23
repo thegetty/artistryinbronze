@@ -3,7 +3,7 @@ id: "34"
 title: Roman Silhouette Figures
 subtitle: A Contribution to Music Archaeology?
 type: essay
-author:
+contributor:
  - first_name: Norbert
    last_name: Franken
    affiliation: Corpus Vasorum, Bayerische Akademie der Wissenschaften, Berlin

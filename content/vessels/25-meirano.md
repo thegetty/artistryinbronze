@@ -3,7 +3,7 @@ id: "25"
 title: Bronze Vessels and Related *Instrumenta* at Delphi
 subtitle: Remarks on Morphology, Provenance, and Chronology
 type: essay
-author:
+contributor:
  - first_name: Valeria
    last_name: Meirano
    affiliation: Università degli Studi di Torino, Italy

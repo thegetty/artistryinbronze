@@ -1,7 +1,7 @@
 ---
 title: A Multidisciplinary Study of Hellenistic and Roman Bronze Mirrors from the Archaeological Collection of Ancient Messene, Greece
 type: abstract
-author:
+contributor:
  - first_name: Maria
    last_name: Giannoulaki
    affiliation: Technological Educational Institute of Athens

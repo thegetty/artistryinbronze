@@ -2,7 +2,7 @@
 id: "31"
 title: Bronze Trees from the Greek to the Roman World
 type: essay
-author:
+contributor:
  - first_name: Marina
    last_name: Castoldi
    affiliation: Università degli Studi di Milano

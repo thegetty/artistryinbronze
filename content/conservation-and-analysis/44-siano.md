@@ -3,7 +3,7 @@ id: "44"
 title: The Bronze Sculpture of Alexander the Great on Horseback
 subtitle: An Archaeometallurgical Study
 type: essay
-author:
+contributor:
  - first_name: Salvatore
    last_name: Siano
    affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy

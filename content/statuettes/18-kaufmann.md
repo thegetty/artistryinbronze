@@ -2,7 +2,7 @@
 id: "18"
 title: Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces
 type: essay
-author:
+contributor:
  - first_name: Annemarie
    last_name: Kaufmann-Heinimann
    affiliation: Universität Basel

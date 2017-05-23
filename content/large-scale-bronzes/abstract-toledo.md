@@ -1,7 +1,7 @@
 ---
 title: The Influence of Ancient Bronzes in Cuban Large-Scale Sculptures
 type: abstract
-author:
+contributor:
  - first_name: Jorge Rolando
    last_name: Toledo
    affiliation: Subasta HABANA Auction House, Havana

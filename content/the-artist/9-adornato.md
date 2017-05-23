@@ -3,7 +3,7 @@ id: "9"
 title: More Than Holes!
 subtitle: An Unconventional Perspective of the “Greek Revolution” in Bronze Statuary
 type: essay
-author:
+contributor:
  - first_name: Gianfranco
    last_name: Adornato
    affiliation: Scuola Normale Superiore, Pisa

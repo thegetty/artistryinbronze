@@ -2,7 +2,7 @@
 id: "8"
 title: When a Statue is Not a Statue
 type: essay
-author:
+contributor:
  - first_name: Carol C.
    last_name: Mattusch
    affiliation: George Mason University

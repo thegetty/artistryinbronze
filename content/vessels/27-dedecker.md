@@ -2,7 +2,7 @@
 id: "27"
 title: Iconography of the Sea World on Late Hellenistic Bronze Vessels
 type: essay
-author:
+contributor:
  - first_name: Klara
    last_name: De Decker
    affiliation: Westfälische-Wilhelms-Universität, Münster

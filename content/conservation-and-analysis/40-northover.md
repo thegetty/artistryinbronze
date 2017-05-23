@@ -3,7 +3,7 @@ id: "40"
 title: The Cleveland *Apollo*
 subtitle: Recent Research and Revelations
 type: essay
-author:
+contributor:
  - first_name: Colleen
    last_name: Snyder
    affiliation: The Cleveland Museum of Art

@@ -1,7 +1,7 @@
 ---
 title: Copper, War, and Art in Ancient Greece
 type: abstract
-author:
+contributor:
  - first_name: Soledad
    last_name: Díaz
    affiliation: Instituto del Patrimonio Cultural de España (IPCE), Madrid

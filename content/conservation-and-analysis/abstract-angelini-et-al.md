@@ -2,7 +2,7 @@
 title: The Riace Bronze Statues
 subtitle: Chemical, Textural, and Isotopic Investigation of the Metals
 type: abstract
-author:
+contributor:
  - first_name: Ivana
    last_name: Angelini
    affiliation: University of Padua

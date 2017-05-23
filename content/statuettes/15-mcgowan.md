@@ -3,7 +3,7 @@ id: "15"
 title: The Poet as Artisan
 subtitle: A Hellenistic Bronze Statuette in the Metropolitan Museum of Art
 type: essay
-author:
+contributor:
  - first_name: Elizabeth
    last_name: McGowan
    affiliation: Williams College

@@ -3,7 +3,7 @@ id: "3"
 title: Bronzes from the Aegean Sea
 subtitle: A Reassessment of Old and New Finds
 type: essay
-author:
+contributor:
  - first_name: George
    last_name: Koutsouflakis
    affiliation: Hellenic Ephorate of Underwater Antiquities

@@ -2,7 +2,7 @@
 id: "5"
 title: The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief
 type: essay
-author:
+contributor:
  - first_name: Patricia A.
    last_name: Butz
    affiliation: Savannah College of Art and Design

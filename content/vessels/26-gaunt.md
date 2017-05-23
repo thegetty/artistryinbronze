@@ -3,7 +3,7 @@ id: "26"
 title: Toward the Derveni Krater
 subtitle: On the Rarity of Large Bronze Vessels of the Archaic and Classical Periods Bearing Large Figural Registers
 type: essay
-author:
+contributor:
  - first_name: Jasper
    last_name: Gaunt
    affiliation: Michael C. Carlos Museum, Emory University

@@ -12,10 +12,10 @@
     {{ else }}
       <h1 class="quire-cover__inner__title">{{ .Site.Title }}</h1>
     {{ end }}
-    <div class="quire-cover__inner__authors">
+    <div class="quire-cover__inner__contributor">
       <p>Edited by</p>
       <ul>
-        {{ range .Site.Data.publication.primary_contributors }}
+        {{ range .Site.Data.publication.primary_contributor }}
         <li>{{ .first_name }} {{ .last_name }}</li>
         {{ end }}
       </ul>

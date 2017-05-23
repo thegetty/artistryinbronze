@@ -1,7 +1,7 @@
 ---
 title: The Gréau Mirror and the Phenomenon of Fakes in Nineteenth-Century Paris
 type: abstract
-author:
+contributor:
  - first_name: Mireille M.
    last_name: Lee
    affiliation: Vanderbilt University, Nashville

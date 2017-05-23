@@ -2,7 +2,7 @@
 title: Second-Century Large Bronze Workshop at Gerasa (Jerash, Jordan)
 subtitle: Jordanian-European Cultural Heritage Conservation Program at Jerash 2012
 type: abstract
-author:
+contributor:
  - first_name: Lutfi
    last_name: Khalil
    affiliation: University of Jordan, Amman

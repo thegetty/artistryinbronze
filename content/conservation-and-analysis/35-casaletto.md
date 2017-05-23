@@ -3,7 +3,7 @@ id: "35"
 title: Sustainable Conservation of Bronze Artworks
 subtitle: Advanced Research in Materials Science
 type: essay
-author:
+contributor:
  - first_name: Maria Pia
    last_name: Casaletto
    affiliation: Istituto per lo Studio dei Materiali Nanostrutturati, Consiglio Nazionale delle Ricerche (CNR-ISMN), Palermo

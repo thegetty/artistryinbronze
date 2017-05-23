@@ -3,7 +3,7 @@ id: "13"
 title: Assertions by the Portable
 subtitle: What Can Bronze Statuettes Tell Us about Major Classical Sculpture?
 type: essay
-author:
+contributor:
  - first_name: Beryl
    last_name: Barr-Sharrar
    affiliation: Institute of Fine Arts, New York University

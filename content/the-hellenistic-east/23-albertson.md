@@ -3,7 +3,7 @@ id: "23"
 title: The Influence of Bronze Working on Roman Provincial Stone Sculpture
 subtitle: The Case of Palmyra
 type: essay
-author:
+contributor:
  - first_name: Fred C.
    last_name: Albertson
    affiliation: University of Memphis, Tennessee

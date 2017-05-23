@@ -3,7 +3,7 @@ id: "45"
 title: The Auloi from Meroë
 subtitle: Preliminary Notes on the Conservation, Technical Examination, and Interpretation of a Cache of Ancient Musical Instruments
 type: essay
-author:
+contributor:
  - first_name: Susanne
    last_name: Gänsicke
    affiliation: J. Paul Getty Museum

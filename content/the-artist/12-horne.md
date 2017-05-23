@@ -3,7 +3,7 @@ id: "12"
 title: Mobility and Migration
 subtitle: Issues Concerning Itinerant Sculptors
 type: essay
-author:
+contributor:
  - first_name: Martin
    last_name: Horne
    affiliation: Indiana University

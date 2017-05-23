@@ -2,7 +2,7 @@
 id: "43"
 title: New Results on the Alloys of the Croatian Apoxyomenos
 type: essay
-author:
+contributor:
  - first_name: Iskra
    last_name: "Karniš Vidovič"
    affiliation: "Hrvatski restauratorski zavod (HRZ: Croatian Conservation Institute), Zagreb, Croatia"

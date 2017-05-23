@@ -2,7 +2,7 @@
 id: "4"
 title: A Royal Macedonian Portrait Head from the Sea off Kalymnos
 type: essay
-author:
+contributor:
  - first_name: Olga
    last_name: Palagia
    affiliation: University of Athens

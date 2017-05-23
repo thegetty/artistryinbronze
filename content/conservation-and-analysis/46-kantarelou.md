@@ -2,7 +2,7 @@
 id: "46"
 title: A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria
 type: essay
-author:
+contributor:
  - first_name: V.
    last_name: Kantarelou
    affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece

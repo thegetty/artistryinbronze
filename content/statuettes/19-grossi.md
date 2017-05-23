@@ -3,7 +3,7 @@ id: "19"
 title: Through Celts and Romans
 subtitle: Technology and Symbolism of Bronze Enameled Roosters
 type: essay
-author:
+contributor:
  - first_name: Federica
    last_name: Grossi
    affiliation: Università degli Studi di Milano

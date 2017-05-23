@@ -1,7 +1,7 @@
 ---
 title: The Ancient Chariot from Serbia
 type: abstract
-author:
+contributor:
  - first_name: Dragan
    last_name: Milanović
    affiliation: Institute of Archaeology, National Museum in Belgrade

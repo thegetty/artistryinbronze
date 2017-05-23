@@ -2,7 +2,7 @@
 id: "38"
 title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas
 type: essay
-author:
+contributor:
  - first_name: Vasilike
    last_name: Argyropoulos
    affiliation: Technological Educational Institute of Athens

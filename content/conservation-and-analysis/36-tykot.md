@@ -3,7 +3,7 @@ id: "36"
 title: Investigating Ancient “Bronzes”
 subtitle: Non-Destructive Analysis of Copper-Based Alloys
 type: essay
-author:
+contributor:
  - first_name: Robert H.
    last_name: Tykot
    affiliation: University of South Florida

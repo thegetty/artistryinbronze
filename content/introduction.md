@@ -2,7 +2,7 @@
 title: Introduction
 type: page
 menu: true
-author:
+contributor:
  - first_name: Jens
    last_name: Daehner
    affiliation: J. Paul Getty Museum

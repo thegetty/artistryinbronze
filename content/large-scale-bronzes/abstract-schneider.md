@@ -2,7 +2,7 @@
 title: The Doryphoros in Bronze
 subtitle: Venerated–Suppressed–Forgotten
 type: abstract
-author:
+contributor:
  - first_name: Rolf
    last_name: Schneider
    affiliation: Ludwig-Maximilians-Universität, Munich

@@ -3,7 +3,7 @@ id: "6"
 title: The Apollo from Salerno
 subtitle: Hellenistic Influence in Southern Italy
 type: essay
-author:
+contributor:
  - first_name: Silvia
    last_name: Pacifico
    affiliation: Museo Archeologico Provinciale di Salerno

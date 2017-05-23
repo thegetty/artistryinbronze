@@ -2,7 +2,7 @@
 id: "1"
 title: The Bronze Athlete from Ephesos
 type: essay
-author:
+contributor:
  - first_name: George A.
    last_name: Plattner
    affiliation: Kunsthistorisches Museum, Vienna

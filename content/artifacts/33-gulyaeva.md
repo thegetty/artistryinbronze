@@ -2,7 +2,7 @@
 id: "33"
 title: A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration
 type: essay
-author:
+contributor:
  - first_name: Nadežda P.
    last_name: Gulyaeva
    affiliation: The State Hermitage Museum, St. Petersburg

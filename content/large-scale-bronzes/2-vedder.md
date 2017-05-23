@@ -2,7 +2,7 @@
 id: "2"
 title: Was the Colossus of Rhodes Cast in Courses or in Large Sections?
 type: essay
-author:
+contributor:
  - first_name: Ursula
    last_name: Vedder
    affiliation: Deutschen Archäologischen Instituts, Munich
