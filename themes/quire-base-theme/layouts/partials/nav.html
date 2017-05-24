@@ -9,7 +9,7 @@
     </li>
     {{ end }}
 
-    {{ if .IsHome }}
+    {{ if eq .Type "cover" }}
     <li>
       <a href="{{ .Site.BaseURL }}" rel="start">
         <span class="visually-hidden">Home Page: </span>
