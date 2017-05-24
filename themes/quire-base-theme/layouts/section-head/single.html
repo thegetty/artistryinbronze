@@ -13,7 +13,8 @@
   </div>
   <div class="quire-page__section-list">
     <ul class="quire-page__section-list">
-      {{ range where .Data.Pages "Type" "essay" }}
+      {{ $thissection := .Section }}
+      {{ range (where (where .Site.Pages "Section" $thissection) "Type" "essay") }}
       <li class="quire-page__section-list__item">
         <span class="quire-page__section-list__item__title"><a href="{{ .Permalink }}"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></span>
         <ul class="quire-page__section-list__item__contributor">
@@ -40,7 +41,7 @@
     </ul>
     <hr />
     <ul class="quire-page__section-list">
-      {{ range where .Data.Pages "Type" "abstract" }}
+      {{ range (where (where .Site.Pages "Section" $thissection) "Type" "abstract") }}
       <li class="quire-page__section-list__item">
         <span class="quire-page__section-list__item__abstract-only-title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</span>
         <ul class="quire-page__section-list__item__contributor">
