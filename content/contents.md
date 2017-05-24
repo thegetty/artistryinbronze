@@ -14,7 +14,7 @@ menu: true
 1. [Large-Scale Bronzes](/large-scale-bronzes/)
 2. [The Artist](/the-artist/)
 3. [Statuettes](/statuettes/)
-4. [The Hellenistic East](/the-helenistic-east/)
+4. [The Hellenistic East](/the-hellenistic-east/)
 5. [Vessels](/vessels/)
 6. [Artifacts](/artifacts/)
 7. [Conservation and Analysis](/conservation-and-analysis/)
