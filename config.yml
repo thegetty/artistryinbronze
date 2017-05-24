@@ -30,3 +30,5 @@ params:
   searchEnabled: true
   imageLabelContentBefore: "Figure "
   imageLabelContentAfter: ". "
+  tableLabelContentBefore: "Table "
+  tableLabelContentAfter: ". "

@@ -1,28 +1,101 @@
-tables:
+table_list:
 
   - id: "30.1"
-    heading:
-    caption:
-    markup_type: # html or md
-    markup:
-      
+    caption: Results of XRF Analyses on Metal Objects from Gournia
+    media_type: html
+    table: |
+      <table>
+        <caption>
+          Results of XRF Analyses on Metal Objects from Gournia
+        </caption>
+        <thead>
+          <tr> <th>Object Type</th> <th>Museum Inv. No.</th> <th>Part</th> <th>CU</th> <th>SN</th> <th>Pb</th> <th>As</th> <th>Sb</th> <th>Fe</th> <th>Ni</th> <th>Ag</th> <th>Zn</th> <th>Co</th> <th>Mn</th> <th>Au</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>Scraper</td> <td>MS4190</td> <td>Blade</td> <td>93.2</td> <td>0.9</td> <td></td> <td></td> <td></td> <td>1.3</td> <td></td> <td>Tr.</td> <td>4.6</td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Scraper</td> <td>MS4190</td> <td>Rivet_1</td> <td>92</td> <td></td> <td>Tr.</td> <td>Tr.</td> <td>Tr.</td> <td>1.7</td> <td></td> <td></td> <td>5.8</td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Scraper</td> <td>MS4190</td> <td>Rivet_2</td> <td>91.6</td> <td>Tr.</td> <td></td> <td>Tr.</td> <td></td> <td>2.4</td> <td></td> <td>Tr.</td> <td>5.5</td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Scraper</td> <td>MS4198</td> <td></td> <td>94.7</td> <td>3.2</td> <td>0.3</td> <td></td> <td>Tr.</td> <td>1.7</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Tweezers</td> <td>MS4746K</td> <td>Frg.</td> <td>97.2</td> <td>Tr.</td> <td></td> <td>2.4</td> <td>Tr.</td> <td>0.3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Tweezers</td> <td>MS4196</td> <td>Blade</td> <td>96.7</td> <td>2.1</td> <td>Tr.</td> <td>Tr.</td> <td></td> <td>1.5</td> <td></td> <td>Tr.</td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Tweezers</td> <td>MS4196</td> <td>Repair</td> <td>95.6</td> <td>1.8</td> <td></td> <td>Tr.</td> <td></td> <td>2.4</td> <td></td> <td>Tr.</td> <td></td> <td></td> <td></td> <td>Tr.</td> </tr>
+          <tr> <td>Tweezers</td> <td>MS4746F</td> <td>Frg.</td> <td>99.8</td> <td></td> <td></td> <td></td> <td></td> <td>Tr.</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Hook</td> <td>MS4204</td> <td></td> <td>95.6</td> <td>2.3</td> <td></td> <td>1.2</td> <td>Tr.</td> <td>1.3</td> <td></td> <td>Tr.</td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Hook</td> <td>MS4205</td> <td></td> <td>94.2</td> <td>4.2</td> <td>0.3</td> <td></td> <td></td> <td>1.2</td> <td></td> <td></td> <td></td> <td></td> <td>Tr.</td> <td></td> </tr>
+          <tr> <td>Hook</td> <td>MS4203</td> <td></td> <td>93.6</td> <td>5</td> <td></td> <td>0.4</td> <td></td> <td>0.8</td> <td></td> <td>0.5</td> <td></td> <td></td> <td></td> <td></td> </tr>
+          <tr> <td>Hook</td> <td>MS4740</td> <td></td> <td>93.6</td> <td>3.8</td> <td></td> <td>Tr.</td> <td>Tr.</td> <td>2.2</td> <td></td> <td>0.2</td> <td></td> <td></td> <td></td> <td>Tr.</td> </tr>
+        </tbody>
+        <tfoot>
+          <tr> <td colspan="15"> MS = Mediterranean Section, Penn Museum, Philadelphia, PA.<br /> Tr. = trace amount.<br /> Frg. = fragment.</td> </tr>
+        </tfoot>
+      </table>
 
-table_one: "<p>TABLE TWO TEST</p>"
-table_two: "<table class=\"table table-bordered table-hover table-condensed\"> <thead><tr><th title=\"Field 1\">Distributor</th> <th title=\"Field 2\">Base acrylic resin</th> <th title=\"Field 3\">Additives</th> </tr></thead> <tbody><tr> <td>A</td> <td>Paraloid® B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr> <tr> <td>B</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr> <tr> <td>C</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr> <tr> <td>D</td> <td>Different resin, possibly Paraloid® B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr> <tr> <td>E</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr> <tr> <td>F</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr> </tbody></table> <p>Table 37.1. Incralac formulations based on FTIR analysis</p>"
-table_three: |
-  <p>Table 37.2. FTIR assignments of key materials</p> <table> <thead> <tr class="header"> <th>Incralac® Absorption maxima (cm<sup>–1</sup>)</th> <th>Assignment<sup>1</sup></th> </tr> </thead> <tbody> <tr class="odd"> <td>3444</td> <td>Carbonyl ester harmonic</td> </tr> <tr class="even"> <td>2989, 2953, 2846(sh)</td> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid® B44) <sup>2</sup></td> </tr> <tr class="odd"> <td>2926</td> <td><em>v<sub>as </sub></em>CH<sub>2</sub> from oil, possibly ESO<sup>4</sup></td> </tr> <tr class="even"> <td>2875</td> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid® B48N; found in one case, see text) <sup>2</sup></td> </tr> <tr class="odd"> <td>1732</td> <td><em>v</em> C=O in base acrylic resin<sup>2</sup></td> </tr> <tr class="even"> <td>1604</td> <td><em>v</em> C=C in aromatic ring of BTA<sup>3</sup></td> </tr> <tr class="odd"> <td>1548</td> <td><em>δ</em> NH</td> </tr> <tr class="even"> <td>1494</td> <td><em>v</em> C=C (aryl ring)</td> </tr> <tr class="odd"> <td>1474</td> <td><em>δ</em> CH<sub>2</sub> main chain in base acrylic resin<sup>2</sup></td> </tr> <tr class="even"> <td>1449</td> <td><em>δ</em> CH<sub>3</sub>-CH<sub>2</sub>-O side chain + <em>δ<sub>as</sub></em> CH<sub>3</sub> in base acrylic resin<sup>2</sup></td> </tr> <tr class="odd"> <td>1387</td> <td><em>δ<sub>s </sub></em>CH<sub>3</sub> side chain in base acrylic resin<sup>2</sup></td> </tr> <tr class="even"> <td>1265</td> <td><em>v</em> C-O in epoxy-ring in ESO<sup>5</sup></td> </tr> <tr class="odd"> <td>1238, 1177, 1147</td> <td><em>v</em> C-O-C in base acrylic resin<sup>2</sup></td> </tr> <tr class="even"> <td>1027</td> <td><em>v</em> C-C-O in base acrylic resin<sup>2</sup></td> </tr> <tr class="odd"> <td>990</td> <td><em>δ</em> Η-C-Η, <em>τ</em> CH<sub>3</sub> in base acrylic resin</td> </tr> <tr class="even"> <td>875</td> <td><em>δ<sub>oop </sub></em>C-H in substituted aryl ring in BTA<sup>3</sup></td> </tr> <tr class="odd"> <td>848</td> <td><em>δ</em> C-C-CH<sub>3</sub> (α-CH3 of EMA in base acrylic resin)<sup>2</sup></td> </tr> <tr class="even"> <td>824</td> <td><em>δ</em> (CCO) in epoxy-ring in ESO<sup>5</sup></td> </tr> <tr class="odd"> <td>753</td> <td><em>δ<sub>oop</sub></em> C-C=O</td> </tr> <tr class="even"> <td>688</td> <td>Aromatic ring vibration in BTA<sup>3</sup></td> </tr> <tr class="odd"> <td>606</td> <td>Triazole ring vibration in BTA<sup>3</sup></td> </tr> </tbody> </table> <p><sup>1</sup> Abbreviations: BTA: benzotriazole; ESO: epoxidized soybean oil; v: stretching vibration; δ: bending vibration; s: symmetric; as: anti-symmetric; oop: out-of-plane; ip: in-plane.</p> <p><sup>2</sup> Lazzari and Chiantore 2000.</p> <p><sup>3</sup> Brostoff 2003.</p> <p><sup>4</sup> Ioakimoglou et al. 1999, Boyatzis et al. 2002.</p> <p><sup>5</sup> Argitis et al. 1998.</p>
-table_four: |
-    | Sample no. | CU  | SN  | Pb | Fe   | Co    | Ni    | Zn   | As   | Se    | Sb    | Te     | Bi   | Ag    | Sb    |
-    | --------------------- | --- | --- | --- | ---- | ----- | ----- | ---- | ---- | ----- | ----- | ------ | ---- | ----- | ----- |
-    | FG 050587<br> (alloy) | 74  | 8.8 | 17 | 0.26 | 0.16  | 0.04  | 0.1  | 0.22 | 0.01  | 0.164 | <0.005 | 0.02 | 0.039 | 0.164 |
-    | FG 050587<br> (lead)  | 0.7 | 39  | 60 | 0.3  | <0.01 | <0.01 | <0.1 | <0.5 | <0.01 | 0.02  | 0.02   | <0.1 | 0.03  | 0.02  |
+  - id: "30.1md"
+    caption: Results of XRF Analyses on Metal Objects from Gournia
+    media_type: md
+    table: |
+        | Object Type  | Museum Inv. No. | Part     | CU   | SN  | Pb  | As  | Sb  | Fe  | Ni  | Ag  | Zn  | Co  | Mn  | Au |
+        | ------------ | --------------- | -------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+        | Scraper      | MS4190          | Blade    | 93.2 | 0.9 |     |     |     | 1.3 |     | Tr. | 4.6 |     |     |     |
+        | Scraper      | MS4190          | Rivet_1  | 92   |     | Tr. | Tr. | Tr. | 1.7 |     |     | 5.8 |     |     |     |
+        | Scraper      | MS4190          | Rivet_2  | 91.6 | Tr. |     | Tr. |     | 2.4 |     | Tr. | 5.5 |     |     |     |
+        | Scraper      | MS4198          |          | 94.7 | 3.2 | 0.3 |     | Tr. | 1.7 |     |     |     |     |     |     |
+        | Tweezers     | MS4746K         | Frg.     | 97.2 | Tr. |     | 2.4 | Tr. | 0.3 |     |     |     |     |     |     |
+        | Tweezers     | MS4196          | Blade    | 96.7 | 2.1 | Tr. | Tr. |     | 1.5 |     | Tr. |     |     |     |     |
+        | Tweezers     | MS4196          | Repair   | 95.6 | 1.8 |     | Tr. |     | 2.4 |     | Tr. |     |     |     | Tr. |
+        | Tweezers     | MS4746F         | Frg.     | 99.8 |     |     |     |     | Tr. |     |     |     |     |     |     |
+        | Hook         | MS4204          |          | 95.6 | 2.3 |     | 1.2 | Tr. | 1.3 |     | Tr. |     |     |     |     |
+        | Hook         | MS4205          |          | 94.2 | 4.2 | 0.3 |     |     | 1.2 |     |     |     |     | Tr. |     |
+        | Hook         | MS4203          |          | 93.6 | 5   |     | 0.4 |     | 0.8 |     | 0.5 |     |     |     |     |
+        | Hook         | MS4740          |          | 93.6 | 3.8 |     | Tr. | Tr. | 2.2 |     | 0.2 |     |     |     | Tr. |
 
-    Results after Schwab et al. 2008.
+        MS = Mediterranean Section, Penn Museum, Philadelphia, PA. TEST
+        Tr. = trace amount.
+        Frg. = fragment.
 
-table_five: |
-    | *Greek original* |   |
-    | ------------- |-------------|
-    | Schneider 1901 Greek (Attic) | mid fourth century BC |
-    | Hauser 1902 | Daidalos of Sikyon |
-    | Sieveking 1926 | mid-fourth century BC |
-    | Stewart 1978 | around 300 BC |
+  - id: "39.1"
+    caption: "Chemical analysis of the alloys as measured using LIPS (see maps in fig. 39.7). r: right. l: left. f: front. Note that the collar belongs to the main recasting and at the left side it is superimposed to the ancient metal wall along most of the right side and for a shorter stretch of the left side in proximity of the withers."
+    media_type: html
+    table: |
+        <table>
+          <thead>
+            <tr> <th>Site</th> <th>Sn (wt%)</th> <th>Pb (wt%)</th> <th>Zn (wt%)</th> <th>Ni (wt%)</th> <th>Fe (wt%)</th> <th>Comment</th> </tr>
+          </thead>
+          <tbody>
+            <tr> <td><strong>1 Throat (f)</strong></td> <td>11.8 ± 1.0</td> <td>0.5 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan=14>Main Alloy</td> </tr>
+            <tr> <td><strong>5 Neck (l)</strong></td> <td>11.8 ± 1.0</td> <td>0.6 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> </tr>
+            <tr> <td><strong>13 Cheek (l)</strong></td> <td>10.8 ± 1.3</td> <td>1.1 ± 0.4</td> <td>-</td> <td>-</td> <td>0.1 ± 0.05</td> </tr>
+            <tr> <td><strong>15 Muzzle (l)</strong></td> <td>10.9 ± 1.3</td> <td>1.6 ± 0.4</td> <td>-</td> <td>-</td> <td>0.13 ± 0.04</td> </tr>
+            <tr> <td><strong>16 Muzzle (f)</strong></td> <td>10.8 ± 1.0</td> <td>1.0 ± 0.3</td> <td>-</td> <td>-</td> <td>0.15 ± 0.05</td> </tr>
+            <tr> <td><strong>21 Ear (r)</strong></td> <td>10.7 ± 1.4</td> <td>1.2 ± 0.3</td> <td>-</td> <td>-</td> <td>0.13 ± 0.05</td> </tr>
+            <tr> <td><strong>22 Mane (u)</strong></td> <td>11.0 ± 0.7</td> <td>0.8 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> </tr>
+            <tr> <td><strong>23 Neck (r)</strong></td> <td>11.3 ± 1.2</td> <td>1.2 ± 0.5</td> <td>-</td> <td>-</td> <td>-</td> </tr>
+            <tr> <td><strong>26 Neck (r)</strong></td> <td>9.2 ± 1.2</td> <td>1.6 ± 0.5</td> <td>-</td> <td>-</td> <td>0.12 ± 0.05</td> </tr>
+            <tr> <td><strong>28 Cheek (r)</strong></td> <td>11.3 ± 1.0</td> <td>1.0 ± 0.3</td> <td>-</td> <td>-</td> <td>0.14 ± 0.04</td> </tr>
+            <tr> <td><strong>29 Cheek (r)</strong></td> <td>11.3 ± 1.0</td> <td>1.0 ± 0.4</td> <td>-</td> <td>-</td> <td>0.07 ± 0.03</td> </tr>
+            <tr> <td><strong>30 Cheek (r)</strong></td> <td>11.9 ± 1.3</td> <td>1.1 ± 0.3</td> <td>-</td> <td>-</td> <td>0.1 ± 0.05</td> </tr>
+            <tr> <td><strong>30 Chest</strong></td> <td>10.8 ± 1.1</td> <td>1.1 ± 0.4</td> <td>-</td> <td>-</td> <td>0.12 ± 0.04</td> </tr>
+            <tr> <td><strong>35 Collar (inner)</strong></td> <td>11.4 ± 0.6</td> <td>0.3 ± 0.1</td> <td>-</td> <td>-</td> <td>-</td> </tr>
+            <tr> <td><strong>10 Mane (l)</strong></td> <td>16.0 ± 1.0</td> <td>0.7 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan=3>Visible residues of tin used to solder the crownpiece</td> </tr>
+            <tr> <td><strong>11 Tin (l)</strong></td> <td>35.4 ± 3.3</td> <td>1.4 ± 0.3</td> <td>-</td> <td>-</td> <td>0.13 ± 0.04</td> </tr>
+            <tr> <td><strong>12 Tin (l)</strong></td> <td>29.1 ± 3.7</td> <td>1.1 ± 0.3</td> <td>-</td> <td>-</td> <td>0.14 ± 0.05</td> </tr>
+            <tr> <td><strong>2 Anchoring (l)</strong></td> <td>4.9 ± 0.4</td> <td>2.3 ± 0.3</td> <td>0.1 ± 0.07</td> <td>1.4 ± 0.2</td> <td>0.13 ± 0.03</td> <td rowspan="13">Repair patches by recastings</td> </tr>
+            <tr> <td><strong>3 Anchoring (l)</strong></td> <td>4.7 ± 0.4</td> <td>2.3 ± 0.3</td> <td>-</td> <td>1.4 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>4 Main recasting (l)</strong></td> <td>4.7 ± 0.3</td> <td>2.1 ± 0.3</td> <td>0.1 ± 0.06</td> <td>1.4 ± 0.2</td> <td>0.14 ± 0.03</td> </tr>
+            <tr> <td><strong>6 Minor patch (l)</strong></td> <td>3.7 ± 0.5</td> <td>2.3 ± 0.4</td> <td>-</td> <td>1.6 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>4 Collar (outer l)</strong></td> <td>4.5 ± 0.4</td> <td>2.2 ± 0.3</td> <td>-</td> <td>1.4 ± 0.1</td> <td>-</td> </tr>
+            <tr> <td><strong>8 Minor patch (l)</strong></td> <td>4.4 ± 0.5</td> <td>3.0 ± 0.4</td> <td>0.5 ± 0.1</td> <td>1.6 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>9 Main recasting (l)</strong></td> <td>4.0 ± 0.5</td> <td>2.6 ± 0.5</td> <td>0.14 ± 0.1</td> <td>1.7 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>17 Muzzle repair (f)</strong></td> <td>3.9 ± 0.3</td> <td>2.3 ± 0.3</td> <td>0.11 ± 0.06</td> <td>1.7 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>18 Muzzle repair (f)</strong></td> <td>4.7 ± 0.5</td> <td>2.8 ± 0.3</td> <td>0.14 ± 0.07</td> <td>1.8 ± 0.2</td> <td>0.14 ± 0.04</td> </tr>
+            <tr> <td><strong>20 Ear repair (f)</strong></td> <td>4.2 ± 0.5</td> <td>2.5 ± 0.4</td> <td>0.2 ± 0.1</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>31 Main recasting (f)</strong></td> <td>4.0 ± 0.5</td> <td>2.1 ± 0.3</td> <td>-</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>33 Collar (r)</strong></td> <td>4.3 ± 0.4</td> <td>2.2 ± 0.3</td> <td>-</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>34 Collar (outer l)</strong></td> <td>4.6 ± 0.4</td> <td>2.8 ± 0.4</td> <td>-</td> <td>1.7 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>24 Plug (r)</strong></td> <td>10.6 ± 1.1</td> <td>0.9 ± 0.3</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan="2">Ancient plugs</td> </tr>
+            <tr> <td><strong>25 Plug (r)</strong></td> <td>11.7 ± 1.1</td> <td>0.6 ± 0.3</td> <td>-</td> <td>-</td> <td>-</td> </tr>
+            <tr> <td><strong>14 Phalerae plug (l)</strong></td> <td>4.5 ± 0.6</td> <td>2.6 ± 0.4</td> <td>-</td> <td>1.6 ± 0.2</td> <td>-</td> <td rowspan="3">Plugs corresponding to the anchoring holes of the Phalera</td> </tr>
+            <tr> <td><strong>19 Phalerae plug (r)</strong></td> <td>3.5 ± 0.5</td> <td>2.6 ± 0.5</td> <td>0.5 ± 0.2</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
+            <tr> <td><strong>19 Phalerae plug (r)</strong></td> <td>3.6 ± 0.3</td> <td>1.7 ± 0.2</td> <td>-</td> <td>1.2 ± 0.1</td> <td>-</td> </tr>
+          </tbody>
+        </table>

@@ -1,0 +1,14 @@
+{{ $x := .Get "id" | string }}
+{{ range where .Site.Data.tables.table_list "id" "eq" $x }}
+<figure class="q-figure {{ with $.Get "class" }}q-{{ . }}{{ end }}" {{ with $.Get "id" }}id="table-{{ . }}"{{ end }}>
+  <!-- <p><span class="q-table-label">Table {{ .id }}</span> {{ .heading }}</p> -->
+  <div class="q-table-container" {{ with $.Get "scale" }}style="font-size: calc( (1rem * {{.}}));"{{ end }}>
+  {{ if eq .media_type "md" }}
+  {{ .table | markdownify }}
+  {{ else }}
+  {{ .table | safeHTML }}
+  {{ end }}
+  </div>
+  <figcaption><span class="q-table-label">{{ $.Site.Params.tableLabelContentBefore }}{{ .id }}{{ $.Site.Params.tableLabelContentAfter }}</span> {{ .caption }}</figcaption>
+</figure>
+{{ end }}

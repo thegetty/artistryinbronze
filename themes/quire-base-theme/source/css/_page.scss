@@ -107,12 +107,11 @@
         }
       }
       table {
-        font-size: 1rem * $small-font-scale;
+        width: 100%;
         line-height: $small-font-line-height;
-        width: calc(100% - (1rem * 2));
-        margin-left: 1rem;
-        margin-right: 1rem;
-        margin-bottom: $base-spacing * 2;
+      }
+      .q-table-label {
+        font-weight: 400;
       }
     }
 
