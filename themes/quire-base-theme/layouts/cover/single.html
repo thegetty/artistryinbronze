@@ -22,4 +22,13 @@
     </div>
   </div>
 </div>
+<div>
+  {{ .Content }}
+  <ul>
+    <li><strong>[ kind: type ] Title URL</strong></li>
+  {{ range .Site.Pages }}
+    <li>[{{ .Kind }}{{ with .Params.Type }}: {{ .}}{{ end }}] {{ .Title }} {{ .URL }}</li>
+  {{ end }}
+  </ul>
+</div>
 {{ end }}
