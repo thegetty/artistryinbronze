@@ -28,6 +28,30 @@ table_list:
         </tfoot>
       </table>
 
+  - id: "35.1"
+    caption:
+    media_type: html
+    table: |
+      <table>
+        <thead>
+          <tr> <th>Chemical Compound</th> <th>Mineralogical Name</th> <th>Chemical Formula</th> <th>Color</th> </tr>
+        </thead>
+      	<tbody>
+      		<tr> <td>Oxides</td> <td>Cuprite</td> <td>Cu<sub>2</sub>0</td> <td>Red/Orange</td> </tr>
+      		<tr> <td></td> <td>Tenorite</td> <td>CuO</td> <td>Black grey</td> </tr>
+      		<tr> <td>Carbonates</td> <td>Malachite</td> <td>CuCO<sub>3</sub> Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
+      		<tr> <td></td> <td>Azurite</td> <td>2 CuC0<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
+      		<tr> <td></td> <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuC0<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>0</td> <td>Green/Blue</td> </tr>
+      		<tr> <td>Chloride</td> <td>Nantokite</td> <td>CuCl</td> <td>green/White</td> </tr>
+      		<tr> <td>Basic chlorides</td> <td>Atacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Green</td> </tr>
+      		<tr> <td></td> <td>Paratacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
+      		<tr> <td></td> <td>Botallakite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
+      		<tr> <td>Sulphides</td> <td>Chalcocite</td> <td>Cu<sub>2</sub>S</td> <td>Black</td> </tr>
+      		<tr> <td></td> <td>Covellite</td> <td>CuS</td> <td>Black</td> </tr>
+      		<tr> <td>Sulphate</td> <td>Brochantite</td> <td>CuS0<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
+      	</tbody>
+      </table>
+
   - id: "37.1"
     caption: Incralac formulations based on FTIR analysis
     media_type: html
@@ -266,6 +290,26 @@ table_list:
       |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
       | **R2318/Metal** | Apollo  | Proper left hand  | 0.01     | 0.00   | 0.04   | 74.57   | 0.00    | 0.02    | 0.16    | 4.83    | 0.00    | 0.00    | 19.81    | 0.01    |         | 0.52    | 0.00    | 0.00    | 0.02    |
       | **R2320/Mean**  | Apollo  | Base              | 0.01     | 0.00   | 0.02   | 76.60   | 0.02    | 0.09    | 0.09    | 3.44    | 0.06    | 0.00    | 19.52    | 0.02    |         | 0.12    | 0.00    | 0.00    | 0.01    |
+
+  - id: "40.2"
+    caption: "Lead isotope ratios of the investigated samples. Uncertainties are about ± 0.05% for <sup>208</sup>Pb/<sup>204</sup>Pb and better than 0.03% for the other two ratios."
+    media_type: html
+    table: |
+      <table>
+        <thead>
+          <tr> <th> Lab no. </th> <th> <sup>206</sup>Pb/<sup>204</sup>Pb </th> <th> <sup>207</sup>Pb/<sup>204</sup>Pb </th> <th> <sup>208</sup>Pb/<sup>204</sup>Pb </th> <th> <sup>208</sup>Pb/<sup>206</sup>Pb </th> <th> <sup>207</sup>Pb/<sup>206</sup>Pb </th> </tr>
+        </thead>
+      	<tbody>
+      		<tr> <td> MA-141326 </td> <td> 18.379 </td> <td> 15.636 </td> <td> 38.479 </td> <td> 2.0937 </td> <td> 0.85077 </td> </tr>
+      		<tr> <td> MA-141328 </td> <td> 18.429 </td> <td> 15.640 </td> <td> 38.522 </td> <td> 2.0902 </td> <td> 0.84864 </td> </tr>
+      		<tr> <td> MA-141330 </td> <td> 18.427 </td> <td> 15.642 </td> <td> 38.519 </td> <td> 2.0903 </td> <td> 0.84885 </td> </tr>
+      		<tr> <td> MA-141331 </td> <td> 18.456 </td> <td> 15.649 </td> <td> 38.570 </td> <td> 2.0899 </td> <td> 0.84794 </td> </tr>
+      		<tr> <td> MA-141332 </td> <td> 18.439 </td> <td> 15.644 </td> <td> 38.545 </td> <td> 2.0904 </td> <td> 0.84843 </td> </tr>
+      		<tr> <td> MA-141333 </td> <td> 18.320 </td> <td> 15.634 </td> <td> 38.397 </td> <td> 2.0959 </td> <td> 0.85339 </td> </tr>
+      		<tr> <td> MA-141334 </td> <td> 18.444 </td> <td> 15.644 </td> <td> 38.548 </td> <td> 2.0900 </td> <td> 0.84819 </td> </tr>
+      		<tr> <td> MA-141336 </td> <td> 18.435 </td> <td> 15.640 </td> <td> 38.529 </td> <td> 2.0900 </td> <td> 0.84839 </td> </tr>
+      	</tbody>
+      </table>
 
   - id: "41.1"
     caption: Elemental analysis of Getty herm (ICP-MS weight percent)

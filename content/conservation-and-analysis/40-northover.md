@@ -76,9 +76,9 @@ However, most unexpected of all was the finding that the stable lead-isotope rat
 
 {{< q-figure id="40.6" >}}
 
-Lead-isotope ratios can also be used to determine the provenance of the lead in the alloy, because much data is available for lead deposits in the Aegean region, in southeastern Europe, and in the eastern Mediterranean.[^12] The lead isotope ratios of both the statue and the solder exclude a geological provenance of the lead from the Aegean and therefore Laurium, the largest source of Aegean lead in antiquity. There are not many lead ore deposits that would match the *Apollo*. The Cevennes in France and the Balkans are two possibilities ([fig. 40.7](#40.7)).[^13]
+Lead-isotope ratios can also be used to determine the provenance of the lead in the alloy, because much data is available for lead deposits in the Aegean region, in southeastern Europe, and in the eastern Mediterranean.[^12] The lead isotope ratios of both the statue and the solder exclude a geological provenance of the lead from the Aegean and therefore Laurium, the largest source of Aegean lead in antiquity. There are not many lead ore deposits that would match the *Apollo*. The Cevennes in France and the Balkans are two possibilities ([table 40.2](#table-40.2)).[^13]
 
-{{< q-figure id="40.7" >}}
+{{< q-table id="40.2" scale=".6" border="horizontal">}}
 
 ## Interpretation of Results and Conclusion
 
