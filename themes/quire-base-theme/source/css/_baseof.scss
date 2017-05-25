@@ -32,6 +32,10 @@ a {
   }
 }
 
+sup, sub {
+  line-height: 0;
+}
+
 //
 // @media (max-width: 40em) {
 //   html {
@@ -56,30 +60,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   font-size: 1.75em;
-}
-
-table {
-  border-collapse: collapse;
-  margin: $base-spacing 0;
-  table-layout: fixed;
-}
-
-th {
-  border-bottom: 1px solid $black;
-  font-weight: bold;
-  padding: ($base-spacing * .5) 0;
-  text-align: left;
-}
-
-td {
-  border-bottom: 1px solid $mid-neutral;
-  padding: ($base-spacing * .5) 0;
-}
-
-tr,
-td,
-th {
-  vertical-align: middle;
 }
 
 hr {

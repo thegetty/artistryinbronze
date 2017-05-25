@@ -5,6 +5,17 @@
   margin-right: $base-spacing * 3;
   margin-left: $base-spacing * 3;
 
+  img {
+    display: block;
+    width: 100%;
+  }
+  figcaption {
+    font-size: 1rem * $small-font-scale;
+    line-height: 1.3rem;
+    font-weight: 300;
+    margin-top: $base-spacing * .5;
+  }
+
   &.q-float-left {
     float: left;
     clear: both;
@@ -60,17 +71,6 @@
 
   }
 
-  img {
-    display: block;
-    width: 100%;
-  }
-  figcaption {
-    font-size: 1rem * $small-font-scale;
-    line-height: 1.3rem;
-    font-weight: 300;
-    margin-top: $base-spacing * .5;
-  }
-
   &__inner-figure {
     margin-bottom: $base-spacing;
     margin-top: 0;
@@ -88,6 +88,154 @@
 
   .q-figure-label {
     font-weight: 400;
+  }
+
+  &__table-wrapper {
+
+    table {
+      width: 100%;
+      line-height: $small-font-line-height;
+      border-collapse: collapse;
+      margin: $base-spacing 0;
+      table-layout: fixed;
+
+      caption {
+        font-weight: 700;
+        margin-bottom: $base-spacing * .5;
+      }
+
+      ul {
+        list-style-type: none;
+        margin: 0;
+        padding-left: 0;
+        li {
+          margin-bottom: $base-spacing * .25;
+        }
+      }
+
+    }
+
+    th {
+      font-weight: bold;
+      padding-top: $base-spacing * .5;
+      padding-right: $base-spacing * .25;
+      padding-bottom: $base-spacing * .5;
+      padding-left: 0;
+      text-align: left;
+      overflow: hidden;
+    }
+
+    td {
+      padding-top: $base-spacing * .5;
+      padding-right: $base-spacing * .25;
+      padding-bottom: $base-spacing * .5;
+      padding-left: 0;
+      overflow: hidden;
+    }
+
+    tr,
+    td,
+    th {
+      vertical-align: middle;
+    }
+
+    &.q-center-head {
+      thead tr th {
+        text-align: center;
+      }
+    }
+
+    &.q-center-body {
+      tbody tr td {
+        text-align: center;
+      }
+    }
+
+    &.q-center-foot {
+      tfoot tr td {
+        text-align: center;
+      }
+    }
+
+    &.q-center-all {
+      th, td {
+        text-align: center;
+      }
+    }
+
+    &.q-border-horizontal {
+      th {
+        border-bottom: 1px solid $dark-neutral;
+      }
+      td {
+        border-bottom: 1px solid $mid-neutral;
+      }
+      tfoot td {
+        border-bottom: 0;
+      }
+    }
+
+    &.q-border-vertical {
+      td,
+      th {
+        border-left: 1px solid $mid-neutral;
+        padding-left: $base-spacing * .25;
+      }
+      th {
+        border-color: $dark-neutral;
+      }
+      th:last-of-type {
+        border-right: 1px solid $dark-neutral;
+      }
+      td:last-of-type {
+        border-right: 1px solid $mid-neutral;
+      }
+    }
+
+    &.q-border-box {
+      table {
+        border: 1px solid $dark-neutral;
+        td,
+        th {
+          padding-left: $base-spacing * .25;
+        }
+        td:first-of-type,
+        th:first-of-type {
+          padding-left: $base-spacing * .25;
+          border-left: 0;
+        }
+        td:last-of-type,
+        th:last-of-type {
+          border-right: 0;
+        }
+      }
+    }
+
+    &.q-border-all {
+      table {
+        border: 1px solid $dark-neutral;
+        td,
+        th {
+          border-left: 1px solid $mid-neutral;
+          padding-left: $base-spacing * .25;
+        }
+        th {
+          border-bottom: 1px solid $dark-neutral;
+          border-color: $dark-neutral;
+        }
+        td {
+          border-bottom: 1px solid $mid-neutral;
+        }
+        tfoot td {
+          border-bottom: 0;
+        }
+        td:first-of-type,
+        th:first-of-type {
+          border-left: 0;
+        }
+      }
+    }
+
   }
 
 }
