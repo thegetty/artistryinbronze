@@ -12,6 +12,6 @@
   {{ .table | safeHTML }}
   {{ end }}
   </div>
-  <figcaption><span class="q-figure-label">{{ $.Site.Params.tableLabelContentBefore }}{{ .id }}{{ $.Site.Params.tableLabelContentAfter }}</span>{{ .caption }}</figcaption>
+  <figcaption><span class="q-figure-label">{{ $.Site.Params.tableLabelContentBefore }}{{ .id }}{{ $.Site.Params.tableLabelContentAfter }}</span>{{ if .caption }}{{ .caption | safeHTML }}{{ end }}</figcaption>
 </figure>
 {{ end }}
