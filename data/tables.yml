@@ -5,9 +5,7 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>
-          Results of XRF Analyses on Metal Objects from Gournia
-        </caption>
+        <caption>Results of XRF Analyses on Metal Objects from Gournia</caption>
         <thead>
           <tr> <th>Object Type</th> <th>Museum Inv. No.</th> <th>Part</th> <th>CU</th> <th>SN</th> <th>Pb</th> <th>As</th> <th>Sb</th> <th>Fe</th> <th>Ni</th> <th>Ag</th> <th>Zn</th> <th>Co</th> <th>Mn</th> <th>Au</th> </tr>
         </thead>
@@ -30,28 +28,121 @@ table_list:
         </tfoot>
       </table>
 
-  - id: "30.1md"
-    caption: Results of XRF Analyses on Metal Objects from Gournia
-    media_type: md
+  - id: "37.1"
+    caption: Incralac formulations based on FTIR analysis
+    media_type: html
     table: |
-        | Object Type  | Museum Inv. No. | Part     | CU   | SN  | Pb  | As  | Sb  | Fe  | Ni  | Ag  | Zn  | Co  | Mn  | Au |
-        | ------------ | --------------- | -------- | ---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-        | Scraper      | MS4190          | Blade    | 93.2 | 0.9 |     |     |     | 1.3 |     | Tr. | 4.6 |     |     |     |
-        | Scraper      | MS4190          | Rivet_1  | 92   |     | Tr. | Tr. | Tr. | 1.7 |     |     | 5.8 |     |     |     |
-        | Scraper      | MS4190          | Rivet_2  | 91.6 | Tr. |     | Tr. |     | 2.4 |     | Tr. | 5.5 |     |     |     |
-        | Scraper      | MS4198          |          | 94.7 | 3.2 | 0.3 |     | Tr. | 1.7 |     |     |     |     |     |     |
-        | Tweezers     | MS4746K         | Frg.     | 97.2 | Tr. |     | 2.4 | Tr. | 0.3 |     |     |     |     |     |     |
-        | Tweezers     | MS4196          | Blade    | 96.7 | 2.1 | Tr. | Tr. |     | 1.5 |     | Tr. |     |     |     |     |
-        | Tweezers     | MS4196          | Repair   | 95.6 | 1.8 |     | Tr. |     | 2.4 |     | Tr. |     |     |     | Tr. |
-        | Tweezers     | MS4746F         | Frg.     | 99.8 |     |     |     |     | Tr. |     |     |     |     |     |     |
-        | Hook         | MS4204          |          | 95.6 | 2.3 |     | 1.2 | Tr. | 1.3 |     | Tr. |     |     |     |     |
-        | Hook         | MS4205          |          | 94.2 | 4.2 | 0.3 |     |     | 1.2 |     |     |     |     | Tr. |     |
-        | Hook         | MS4203          |          | 93.6 | 5   |     | 0.4 |     | 0.8 |     | 0.5 |     |     |     |     |
-        | Hook         | MS4740          |          | 93.6 | 3.8 |     | Tr. | Tr. | 2.2 |     | 0.2 |     |     |     | Tr. |
+      <table>
+        <caption>Incralac formulations based on FTIR analysis</caption>
+        <thead>
+          <tr><th>Distributor</th> <th>Base acrylic resin</th> <th>Additives</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>A</td> <td>Paraloid® B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <td>B</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <td>C</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <td>D</td> <td>Different resin, possibly Paraloid® B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <td>E</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <td>F</td> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+        </tbody>
+      </table>
 
-        MS = Mediterranean Section, Penn Museum, Philadelphia, PA. TEST
-        Tr. = trace amount.
-        Frg. = fragment.
+  - id: "37.2"
+    caption: FTIR assignments of key materials
+    media_type: html
+    table: |
+      <table>
+        <caption>Table 37.2. FTIR assignments of key materials</caption>
+        <thead>
+          <tr> <th>Incralac® Absorption maxima (cm<sup>–1</sup>)</th> <th>Assignment<sup>1</sup></th></tr>
+        </thead>
+        <tbody>
+          <tr> <td>3444</td> <td>Carbonyl ester harmonic</td> </tr>
+          <tr> <td>2989, 2953, 2846(sh)</td> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid® B44) <sup>2</sup></td> </tr>
+          <tr> <td>2926</td> <td><em>v<sub>as </sub></em>CH<sub>2</sub> from oil, possibly ESO<sup>4</sup></td> </tr>
+          <tr> <td>2875</td> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid® B48N; found in one case, see text) <sup>2</sup></td> </tr>
+          <tr> <td>1732</td> <td><em>v</em> C=O in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>1604</td> <td><em>v</em> C=C in aromatic ring of BTA<sup>3</sup></td> </tr>
+          <tr> <td>1548</td> <td><em>δ</em> NH</td> </tr>
+          <tr> <td>1494</td> <td><em>v</em> C=C (aryl ring)</td> </tr>
+          <tr> <td>1474</td> <td><em>δ</em> CH<sub>2</sub> main chain in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>1449</td> <td><em>δ</em> CH<sub>3</sub>-CH<sub>2</sub>-O side chain + <em>δ<sub>as</sub></em> CH<sub>3</sub> in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>1387</td> <td><em>δ<sub>s </sub></em>CH<sub>3</sub> side chain in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>1265</td> <td><em>v</em> C-O in epoxy-ring in ESO<sup>5</sup></td> </tr>
+          <tr> <td>1238, 1177, 1147</td> <td><em>v</em> C-O-C in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>1027</td> <td><em>v</em> C-C-O in base acrylic resin<sup>2</sup></td> </tr>
+          <tr> <td>990</td> <td><em>δ</em> Η-C-Η, <em>τ</em> CH<sub>3</sub> in base acrylic resin</td> </tr>
+          <tr> <td>875</td> <td><em>δ<sub>oop </sub></em>C-H in substituted aryl ring in BTA<sup>3</sup></td> </tr>
+          <tr> <td>848</td> <td><em>δ</em> C-C-CH<sub>3</sub> (α-CH3 of EMA in base acrylic resin)<sup>2</sup></td> </tr>
+          <tr> <td>824</td> <td><em>δ</em> (CCO) in epoxy-ring in ESO<sup>5</sup></td> </tr>
+          <tr> <td>753</td> <td><em>δ<sub>oop</sub></em> C-C=O</td> </tr>
+          <tr> <td>688</td> <td>Aromatic ring vibration in BTA<sup>3</sup></td> </tr>
+          <tr> <td>606</td> <td>Triazole ring vibration in BTA<sup>3</sup></td> </tr>
+        </tbody>
+        <tfoot>
+          <tr><td colspan="2">
+          <ul>
+            <li><sup>1</sup> Abbreviations: BTA: benzotriazole; ESO: epoxidized soybean oil; v: stretching vibration; δ: bending vibration; s: symmetric; as: anti-symmetric; oop: out-of-plane; ip: in-plane.li>
+            <li><sup>2</sup> Lazzari and Chiantore 2000.</li>
+            <li><sup>3</sup> Brostoff 2003.</li>
+            <li><sup>4</sup> Ioakimoglou et al. 1999, Boyatzis et al. 2002.</li>
+            <li><sup>5</sup> Argitis et al. 1998.</li>
+          </ul>
+          </td></tr>
+        </tfoot>
+      </table>
+
+  - id: "37.3"
+    caption: Condition of coatings on objects from the National Archaeological Museum as investigated through FTIR spectroscopy
+    media_type: html
+    table: |
+      <table>
+        <caption>Condition of coatings on objects from the National Archaeological Museum as investigated through FTIR spectroscopy</caption>
+        <thead>
+          <tr> <th rowspan="2">Registry #</th> <th rowspan="2">Description</th> <th rowspan="2">Region and Historical Period</th> <th rowspan="2">Year of Conservation</th> <th colspan="3">Pre-treatment</th> <th colspan="6">Application of Coating</th> <th colspan="2">Arbitrary grading</th> </tr>
+          <tr> <th>Mechanical</th> <th>Chemical</th> <th>Stabilization</th> <th>Incralac solvent</th> <th>Incralac Concentration (%)</th> <th>Matting Agent</th> <th>Distributor</th> <th>SEM analysis<sup>1</sup></th> <th>FTIR analysis of corrosion products<sup>1</sup></th> <th>FTIR analysis of coating</th> <th>Degradation grading<sup>2</sup></th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>X 7934</td> <td>Jug</td> <td>Greece, 5th c. BC</td> <td>1979</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>Yes</td> <td>E or F</td> <td>Cu, Al, Si, Fe, Mg, Ca, S</td> <td>Calcite, silicates, copper oxides</td> <td>Low levels of degradation: mainly hydrolytic and depolymerization</td> <td>4</td> </tr>
+          <tr> <td>X 1974</td> <td>Statuette, Isis with Horus</td> <td>Egypt, 26th–30th Dynasty (600–300 BC)</td> <td>1985</td> <td>Yes</td> <td>Yes</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>No</td> <td>E or F</td> <td>Cu, Sn, Pb, Al, Ca, Cl</td> <td>Copper oxides and hydroxides, traces of organic coating, moisture</td> <td>No sign of degradation</td> <td>0</td> </tr>
+          <tr> <td>Χ 21039</td> <td>Mirror</td> <td>?</td> <td>1991</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>No</td> <td>E or F</td> <td>Cu, Pb, Al, Si, Fe, Ca </td> <td>Copper oxides, malachite</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
+          <tr> <td>Χ 26175</td> <td>kyathos</td> <td>Greece, end of 7th – beginning of 6th c. BC</td> <td>1998</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>A</td> <td>N.A.</td> <td>N.A.</td> <td>Low levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>4</td> </tr>
+          <tr> <td>Χ 25604</td> <td>ring</td> <td>?</td> <td>2000</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>High levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>5</td> </tr>
+          <tr> <td>Χ 17166</td> <td>kringle</td> <td>Greece, possibly Geometric period</td> <td>1999</td> <td>No</td> <td>Yes</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>Significantly high levels of degradation: mainly hydrolytic and depolymerization</td> <td>9</td> </tr>
+          <tr> <td>Χ 8297</td> <td>strigil</td> <td>Greece, 5th c BC</td> <td>1997</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>Yes</td> <td>E</td> <td>Cu, Sn, Al, Ca , S, P, Si</td> <td>Malachite, organic coating residue</td> <td>Very low levels of degradation</td> <td>[BLANK]</td> </tr>
+          <tr> <td>Π 7317</td> <td>sword</td> <td>end of 15th–beginning of 14th c. BC </td> <td>2003</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>No</td> <td>A</td> <td>Cu, Sn  Al, Si, Fe, Ca, As, S, P</td> <td>Malachite</td> <td>Low levels of degradation</td> <td>3</td> </tr>
+        </tbody>
+        <tfoot>
+          <tr> <td colspan="15">
+            <ul>
+              <li><sup>1</sup> Corrosion products were analyzed when detaching powder particles from the objects’ surface was feasible.</li>
+              <li><sup>2</sup> Arbitrary scale, based on the absorption of C=C at approx. 1646 cm–1 as a marker for oxidative degradation (see main text).</li>
+            </ul>
+          </td></tr>
+        </tfoot>
+      </table>
+
+  - id: "37.4"
+    caption: Condition of coatings on objects from the Epigraphic and Numismatic Museum as investigated through FTIR spectroscopy
+    media_type: html
+    table: |
+      <table>
+        <caption>Condition of coatings on objects from the Epigraphic and Numismatic Museum as investigated through FTIR spectroscopy</caption>s
+        <thead>
+          <tr> <th rowspan="2">Group</th> <th rowspan="2">Description</th> <th rowspan="2">Region/Historical Period</th> <th rowspan="2">Year of Conservation</th> <th colspan="3">Pre-treatment</th> <th colspan="6">Application of Coating</th> <th colspan="2">Arbitrary grading</th> </tr>
+          <tr> <th>Mechanical</th> <th>Chemical</th> <th>Stabilization</th> <th>Coating thickness (μm)</th> <th>Coating layers</th> <th>Incralac solvent</th> <th>Incralac Concentration (%)</th> <th>Matting Agent</th> <th>Distributor</th> <th>FTIR results</th> <th>Degradation grading<sup>2</sup></th> </tr>
+        </thead>
+        <tbody>
+
+          <tr> <td>A</td> <td>coin</td> <td>Byzantine</td> <td>2002</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>1.5</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Second layer, only</td> <td>D</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
+          <tr> <td>B</td> <td>coin</td> <td>Greek Imperial</td> <td>1997</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>2</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Yes</td> <td>C</td> <td>Low levels of degradation</td> <td>2</td> </tr>
+          <tr> <td>C</td> <td>coin</td> <td>Hellenistic</td> <td>1992</td> <td>Yes</td> <td>Yes</td> <td>Noi</td> <td>2</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Yes</td> <td>E</td> <td>Significant degradation mainly due to oxidation</td> <td>5</td> </tr>
+          <tr> <td>D</td> <td>coin</td> <td>Ancient Greek and Greek Imperial</td> <td>1987</td> <td>Yes</td> <td>No</td> <td>Yes</td> <td>2</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Yes</td> <td>E</td> <td>Low levels of degradation</td> <td>2</td> </tr>
+          <tr> <td>E</td> <td>coin</td> <td>Late Roman and Byzantine</td> <td>1982</td> <td>Yes</td> <td>No</td> <td>?</td> <td>3</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>No</td> <td>E</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
+          <tr> <td>A</td> <td>coin</td> <td>Byzantine</td> <td>2002</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>1.5</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Second layer, only</td> <td>D</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
+          <tr> <td>A</td> <td>coin</td> <td>Byzantine</td> <td>2002</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>1.5</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Second layer, only</td> <td>D</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
+        </tbody>
+      </table>
 
   - id: "39.1"
     caption: "Chemical analysis of the alloys as measured using LIPS (see maps in fig. 39.7). r: right. l: left. f: front. Note that the collar belongs to the main recasting and at the left side it is superimposed to the ancient metal wall along most of the right side and for a shorter stretch of the left side in proximity of the withers."
@@ -99,3 +190,253 @@ table_list:
             <tr> <td><strong>19 Phalerae plug (r)</strong></td> <td>3.6 ± 0.3</td> <td>1.7 ± 0.2</td> <td>-</td> <td>1.2 ± 0.1</td> <td>-</td> </tr>
           </tbody>
         </table>
+
+  - id: "40.1"
+    caption: Compositional analysis of bronze samples. This table includes data from both samples obtained in 2004 and samples taken in 2013.
+    media_type: md
+    table: |
+      | Sample          | Object  | Part              | Fe (wt%) | Co     | Ni     | Cu      | Zn      | As      | Sb      | Sn      | Ag      | Bi      | Pb       | Au      | Cd      | S       | Al      | Si      | Mn      |
+      |-----------------|---------|-------------------|----------|--------|--------|---------|---------|---------|---------|---------|---------|---------|----------|---------|---------|---------|---------|---------|---------|
+      | **R2318/1**     | Apollo  | Proper left hand  | 0.01     | 0.00   | 0.04   | 74.57   | 0.00    | 0.02    | 0.16    | 4.83    | 0.00    | 0.00    | 19.81    | 0.01    |         | 0.52    | 0.00    | 0.00    | 0.02    |
+      | **R2318/2**     |         |                   | *0.10*   | *0.00* | *0.00* | *56.87* | *0.14*  | *0.00*  | *0.03*  | *17.13* | *0.00*  | *0.01*  | *2.69*   | *0.00*  |         | *0.09*  | *0.01*  | *0.16*  | *0.00*  |
+      | **R2318/3**     |         |                   | *0.03*   | *0.00* | *0.00* | *66.48* | *0.01*  | *0.03*  | *0.12*  | *3.19*  | *0.01*  | *0.00*  | *12.66*  | *0.05*  |         | *0.45*  | *0.04*  | *0.19*  | *0.00*  |
+      | **R2318/4**     |         |                   | *0.02*   | *0.00* | *0.00* | *67.55* | *0.05*  | *0.00*  | *0.01*  | *14.92* | *0.00*  | *0.00*  | *2.73*   | *0.11*  |         | *0.09*  | *0.01*  | *0.03*  | *0.00*  |
+      | **R2318/5**     |         |                   | *0.00*   | *0.00* | *0.00* | *86.41* | *0.00*  | *0.00*  | *0.03*  | *0.96*  | *0.00*  | *0.02*  | *0.52*   | *0.09*  |         | *0.01*  | *0.02*  | *0.14*  | *0.00*  |
+      | **R2318/6**     |         |                   | *0.08*   | *0.03* | *0.00* | *53.91* | *0.64*  | *0.01*  | *0.09*  | *19.79* | *0.00*  | *0.00*  | *8.91*   | *0.00*  |         | *0.04*  | *0.03*  | *0.04*  | *0.00*  |
+      | **R2318/7**     |         |                   | *0.03*   | *0.02* | *0.00* | *73.58* | *0.00*  | *0.03*  | *0.02*  | *7.43*  | *0.39*  | *0.00*  | *0.00*   | *0.00*  |         | *5.36*  | *0.00*  | *0.01*  | *0.00*  |
+      | **R2318/8**     |         |                   | *0.04*   | *0.00* | *0.00* | *73.81* | *0.01*  | *0.07*  | *0.13*  | *3.65*  | *0.00*  | *0.04*  | *1.67*   | *0.00*  |         | *0.02*  | *0.01*  | *0.25*  | *0.00*  |
+      | **R2318/9**     |         |                   | *0.00*   | *0.00* | *0.00* | *84.09* | *0.00*  | *0.08*  | *0.02*  | *0.05*  | *0.00*  | *0.04*  | *1.02*   | *0.05*  |         | *0.01*  | *0.01*  | *0.01*  | *0.00*  |
+      | **R2318/10**    |         |                   | *0.15*   | *0.00* | *0.00* | *0.11*  | *0.07*  | *0.05*  | *0.00*  | *0.04*  | *0.00*  | *0.00*  | *66.84*  | *0.02*  |         | *0.00*  | *0.17*  | *0.22*  | *0.00*  |
+      | **R2318/11**    |         |                   | *0.00*   | *0.00* | *0.01* | *0.30*  | *0.00*  | *0.05*  | *0.06*  | *0.59*  | *0.00*  | *0.01*  | *63.99*  | *0.02*  |         | *0.00*  | *0.16*  | *0.23*  | *0.00*  |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2319/1**     | Apollo  | Proper right arm  | 0.03     | 0.00   | 0.03   | 90.12   | 0.18    | 0.40    | 0.18    | 7.15    | 0.02    | 0.00    | 1.71     | 0.05    |         | 0.07    | 0.00    | 0.05    | 0.00    |
+      | **R2319/2**     |         |                   | 0.18     | 0.02   | 0.02   | 73.88   | 0.15    | 0.11    | 0.34    | 9.85    | 0.00    | 0.00    | 14.87    | 0.10    |         | 0.20    | 0.01    | 0.27    | 0.00    |
+      | **R2319/3**     |         |                   | 0.00     | 0.00   | 0.00   | 92.42   | 0.16    | 0.17    | 0.17    | 6.79    | 0.05    | 0.05    | 0.16     | 0.03    |         | 0.00    | 0.00    | 0.01    | 0.00    |
+      | **R2319/4**     |         |                   | 0.05     | 0.00   | 0.02   | 87.88   | 0.12    | 0.15    | 0.17    | 6.27    | 0.42    | 0.00    | 4.65     | 0.02    |         | 0.26    | 0.00    | 0.00    | 0.00    |
+      | **R2319/5**     |         |                   | 0.02     | 0.00   | 0.00   | 88.17   | 0.16    | 0.14    | 0.13    | 7.19    | 0.04    | 0.02    | 4.04     | 0.00    |         | 0.02    | 0.00    | 0.07    | 0.00    |
+      | **R2319/6**     |         |                   | 0.01     | 0.00   | 0.01   | 95.15   | 0.04    | 0.05    | 0.12    | 3.01    | 0.02    | 0.00    | 1.50     | 0.00    |         | 0.09    | 0.00    | 0.00    | 0.00    |
+      | **R2319/7**     |         |                   | 0.01     | 0.03   | 0.03   | 88.52   | 0.09    | 0.13    | 0.16    | 7.07    | 0.00    | 0.00    | 3.67     | 0.07    |         | 0.12    | 0.00    | 0.08    | 0.01    |
+      | **R2319/8**     |         |                   | 0.016    | 0.02   | 0.00   | 74.95   | 0.12    | 0.09    | 0.35    | 11.61   | 0.13    | 0.00    | 11.87    | 0.00    |         | 0.45    | 0.00    | 0.24    | 0.01    |
+      | **R2319/9**     |         |                   | 0.06     | 0.00   | 0.01   | 83.54   | 0.13    | 0.24    | 0.13    | 4.93    | 0.47    | 0.00    | 4.33     | 0.09    |         | 6.05    | 0.00    | 0.00    | 0.02    |
+      | **R2319/10**    |         |                   | 0.01     | 0.01   | 0.07   | 92.18   | 0.19    | 0.29    | 0.13    | 6.90    | 0.00    | 0.00    | 0.22     | 0.00    |         | 0.01    | 0.00    | 0.00    | 0.00    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2320/1**     | Apollo  | Base              | 0.00     | 0.00   | 0.02   | 69.00   | 0.04    | 0.05    | 0.06    | 3.07    | 0.03    | 0.00    | 27.68    | 0.00    |         | 0.02    | 0.00    | 0.01    | 0.03    |
+      | **R2320/2**     |         |                   | 0.00     | 0.01   | 0.00   | 64.39   | 0.00    | 0.09    | 0.03    | 3.02    | 0.00    | 0.00    | 32.40    | 0.00    |         | 0.04    | 0.00    | 0.01    | 0.00    |
+      | **R2320/3**     |         |                   | 0.02     | 0.00   | 0.00   | 61.98   | 0.00    | 0.08    | 0.13    | 3.44    | 0.11    | 0.00    | 34.02    | 0.00    |         | 0.20    | 0.00    | 0.00    | 0.02    |
+      | **R2320/4**     |         |                   | 0.05     | 0.00   | 0.05   | 90.43   | 0.00    | 0.06    | 0.11    | 2.99    | 0.00    | 0.00    | 5.82     | 0.00    |         | 0.47    | 0.01    | 0.00    | 0.02    |
+      | **R2320/5**     |         |                   | 0.00     | 0.01   | 0.04   | 95.32   | 0.04    | 0.14    | 0.05    | 2.42    | 0.02    | 0.03    | 1.87     | 0.00    |         | 0.01    | 0.00    | 0.00    | 0.00    |
+      | **R2320/6**     |         |                   | 0.00     | 0.00   | 0.00   | 87.59   | 0.00    | 0.25    | 0.21    | 6.83    | 0.11    | 0.00    | 4.48     | 0.03    |         | 0.40    | 0.00    | 0.01    | 0.00    |
+      | **R2320/7**     |         |                   | 0.00     | 0.00   | 0.11   | 50.31   | 0.11    | 0.02    | 0.05    | 2.81    | 0.04    | 0.00    | 46.51    | 0.10    |         | 0.00    | 0.00    | 0.00    | 0.03    |
+      | **R2320/8**     |         |                   | 0.00     | 0.00   | 0.00   | 87.64   | 0.00    | 0.11    | 0.10    | 5.21    | 0.00    | 0.00    | 6.88     | 0.00    |         | 0.00    | 0.00    | 0.00    | 0.00    |
+      | **R2320/9**     |         |                   | 0.01     | 0.00   | 0.04   | 67.31   | 0.04    | 0.00    | 0.05    | 1.48    | 0.02    | 0.00    | 31.04    | 0.02    |         | 0.00    | 0.00    | 0.00    | 0.00    |
+      | **R2320/10**    |         |                   | 0.02     | 0.00   | 0.00   | 92.03   | 0.00    | 0.08    | 0.06    | 3.04    | 0.23    | 0.00    | 4.51     | 0.00    |         | 0.01    | 0.00    | 0.00    | 0.00    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2940/1**     | Lizard  | Front leg         | 0.06     | 0.01   | 0.04   | 71.18   | 0.10    | 0.05    | 0.13    | 6.40    | 0.04    | 0.02    | 21.54    | 0.00    | 0.00    | 0.41    | 0.01    | 0.00    | 0.03    |
+      | **R2940/2**     |         |                   | 0.05     | 0.00   | 0.04   | 85.74   | 0.10    | 0.05    | 0.09    | 7.24    | 0.00    | 0.01    | 6.63     | 0.00    | 0.00    | 0.06    | 0.00    | 0.00    | 0.00    |
+      | **R2940/3**     |         |                   | 0.01     | 0.00   | 0.02   | 74.19   | 0.14    | 0.06    | 0.11    | 6.65    | 0.09    | 0.00    | 18.69    | 0.02    | 0.02    | 0.00    | 0.00    | 0.00    | 0.00    |
+      | **R2940/4**     |         |                   | 0.05     | 0.01   | 0.01   | 79.30   | 0.11    | 0.04    | 0.10    | 7.00    | 0.05    | 0.00    | 13.27    | 0.00    | 0.00    | 0.03    | 0.01    | 0.02    | 0.00    |
+      | **R2940/5**     |         |                   | 0.03     | 0.00   | 0.06   | 78.03   | 0.07    | 0.03    | 0.11    | 7.02    | 0.00    | 0.00    | 14.60    | 0.01    | 0.00    | 0.03    | 0.00    | 0.01    | 0.00    |
+      | **R2940/6**     |         |                   | 0.13     | 0.00   | 0.00   | 71.56   | 0.10    | 0.04    | 0.07    | 6.06    | 0.01    | 0.00    | 21.21    | 0.00    | 0.00    | 0.81    | 0.00    | 0.00    | 0.00    |
+      | **R2940/7**     |         |                   | 0.06     | 0.01   | 0.04   | 85.44   | 0.05    | 0.03    | 0.11    | 7.17    | 0.07    | 0.01    | 6.73     | 0.05    | 0.01    | 0.23    | 0.00    | 0.00    | 0.00    |
+      | **R2940/8**     |         |                   | 0.03     | 0.02   | 0.04   | 54.10   | 0.04    | 0.03    | 0.11    | 5.52    | 0.06    | 0.00    | 40.04    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    | 0.00    |
+      | **R2940/9**     |         |                   | 0.05     | 0.01   | 0.05   | 78.05   | 0.15    | 0.06    | 0.13    | 6.77    | 0.01    | 0.08    | 14.55    | 0.00    | 0.00    | 0.08    | 0.00    | 0.00    | 0.00    |
+      | **R2940/10**    |         |                   | 0.04     | 0.00   | 0.02   | 86.90   | 0.11    | 0.13    | 0.12    | 7.30    | 0.02    | 0.02    | 5.25     | 0.03    | 0.00    | 0.03    | 0.00    | 0.01    | 0.00    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2941/1**     | Lizard  | Rear leg          | 0.04     | 0.00   | 0.04   | 88.75   | 0.07    | 0.13    | 0.08    | 8.72    | 0.07    | 0.00    | 2.05     | 0.00    | 0.00    | 0.02    | 0.00    | 0.02    | 0.01    |
+      | **R2941/2**     |         |                   | 0.08     | 0.00   | 0.02   | 84.64   | 0.15    | 0.05    | 0.11    | 8.22    | 0.52    | 0.02    | 6.06     | 0.05    | 0.02    | 0.06    | 0.00    | 0.00    | 0.00    |
+      | **R2941/3**     |         |                   | 0.04     | 0.01   | 0.07   | 88.57   | 0.11    | 0.08    | 0.10    | 7.56    | 0.00    | 0.06    | 3.25     | 0.04    | 0.00    | 0.09    | 0.00    | 0.01    | 0.01    |
+      | **R2941/4**     |         |                   | 0.03     | 0.00   | 0.09   | 82.69   | 0.07    | 0.05    | 0.10    | 7.78    | 0.04    | 0.00    | 9.06     | 0.01    | 0.02    | 0.01    | 0.01    | 0.03    | 0.01    |
+      | **R2941/5**     |         |                   | 0.01     | 0.00   | 0.03   | 79.49   | 0.07    | 0.09    | 0.11    | 7.76    | 0.57    | 0.00    | 11.54    | 0.00    | 0.00    | 0.02    | 0.04    | 0.26    | 0.00    |
+      | **R2941/6**     |         |                   | 0.00     | 0.01   | 0.01   | 86.50   | 0.08    | 0.10    | 0.12    | 7.58    | 0.05    | 0.03    | 5.41     | 0.00    | 0.00    | 0.00    | 0.01    | 0.10    | 0.00    |
+      | **R2941/7**     |         |                   | 0.06     | 0.00   | 0.00   | 76.88   | 0.10    | 0.09    | 0.08    | 6.91    | 0.00    | 0.04    | 14.97    | 0.00    | 0.00    | 0.24    | 0.02    | 0.61    | 0.00    |
+      | **R2941/8**     |         |                   | 0.02     | 0.00   | 0.03   | 62.00   | 0.08    | 0.09    | 0.08    | 5.93    | 0.00    | 0.04    | 31.58    | 0.02    | 0.00    | 0.07    | 0.00    | 0.05    | 0.00    |
+      | **R2941/9**     |         |                   | 0.03     | 0.00   | 0.05   | 89.55   | 0.12    | 0.14    | 0.07    | 7.68    | 0.05    | 0.11    | 2.10     | 0.00    | 0.02    | 0.03    | 0.02    | 0.01    | 0.00    |
+      | **R2941/10**    |         |                   | 0.04     | 0.00   | 0.09   | 91.58   | 0.06    | 0.08    | 0.11    | 7.55    | 0.00    | 0.00    | 0.34     | 0.07    | 0.00    | 0.01    | 0.01    | 0.03    | 0.02    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2318/Metal** | Apollo  | Proper left hand  | 0.01     | 0.00   | 0.04   | 74.57   | 0.00    | 0.02    | 0.16    | 4.83    | 0.00    | 0.00    | 19.81    | 0.01    |         | 0.52    | 0.00    | 0.00    | 0.02    |
+      | **R2318/Corr**  | Apollo  | Proper left hand  | *0.04*   | *0.00* | *0.00* | *56.31* | *0.09*  | *0.03*  | *0.05*  | *6.77*  | *0.04*  | *0.01*  | *16.10*  | *0.03*  |         | *0.61*  | *0.05*  | *0.13*  | *0.00*  |
+      | **R2319/Mean**  | Apollo  | Proper right arm  | 0.05     | 0.01   | 0.02   | 86.68   | 0.13    | 0.18    | 0.19    | 7.08    | 0.12    | 0.01    | 4.70     | 0.04    |         | 0.73    | 0.00    | 0.07    | 0.00    |
+      | **R2320/Mean**  | Apollo  | Base              | 0.01     | 0.00   | 0.02   | 76.60   | 0.02    | 0.09    | 0.09    | 3.44    | 0.06    | 0.00    | 19.52    | 0.02    |         | 0.12    | 0.00    | 0.00    | 0.01    |
+      | **R2340/Mean**  | Lizard  | Front leg         | 0.05     | 0.01   | 0.03   | 76.45   | 0.10    | 0.05    | 0.11    | 6.71    | 0.03    | 0.01    | 16.25    | 0.01    | 0.00    | 0.17    | 0.00    | 0.00    | 0.00    |
+      | **R2341/Mean**  | Lizard  | Rear leg          | 0.04     | 0.00   | 0.04   | 83.06   | 0.09    | 0.09    | 0.10    | 7.57    | 0.13    | 0.03    | 8.64     | 0.02    | 0.01    | 0.06    | 0.01    | 0.11    | 0.00    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2319/Mean**  | Apollo  | Proper right arm  | 0.05     | 0.01   | 0.02   | 86.68   | 0.13    | 0.18    | 0.19    | 7.08    | 0.12    | 0.01    | 4.70     | 0.04    |         | 0.73    | 0.00    | 0.07    | 0.00    |
+      | **R2340/Mean**  | Lizard  | Front leg         | 0.05     | 0.01   | 0.03   | 76.45   | 0.10    | 0.05    | 0.11    | 6.71    | 0.03    | 0.01    | 16.25    | 0.01    | 0.00    | 0.17    | 0.00    | 0.00    | 0.00    |
+      | **R2341/Mean**  | Lizard  | Rear leg          | 0.04     | 0.00   | 0.04   | 83.06   | 0.09    | 0.09    | 0.10    | 7.57    | 0.13    | 0.03    | 8.64     | 0.02    | 0.01    | 0.06    | 0.01    | 0.11    | 0.00    |
+      |                 |         |                   |          |        |        |         |         |         |         |         |         |         |          |         |         |         |         |         |         |
+      | **R2318/Metal** | Apollo  | Proper left hand  | 0.01     | 0.00   | 0.04   | 74.57   | 0.00    | 0.02    | 0.16    | 4.83    | 0.00    | 0.00    | 19.81    | 0.01    |         | 0.52    | 0.00    | 0.00    | 0.02    |
+      | **R2320/Mean**  | Apollo  | Base              | 0.01     | 0.00   | 0.02   | 76.60   | 0.02    | 0.09    | 0.09    | 3.44    | 0.06    | 0.00    | 19.52    | 0.02    |         | 0.12    | 0.00    | 0.00    | 0.01    |
+
+  - id: "41.1"
+    caption: Elemental analysis of Getty herm (ICP-MS weight percent)
+    media_type: md
+    table: |
+      | Sample no.            | CU  | SN  | Pb | Fe   | Co    | Ni    | Zn   | As   | Se    | Sb    | Te     | Bi   | Ag    | Sb    |
+      | ------------ | --- | --- | --- | ---- | ----- | ----- | ---- | ---- | ----- | ----- | ------ | ---- | ----- | ----- |
+      | FG 050587<br> (alloy) | 74  | 8.8 | 17 | 0.26 | 0.16  | 0.04  | 0.1  | 0.22 | 0.01  | 0.164 | <0.005 | 0.02 | 0.039 | 0.164 |
+      | FG 050587<br> (lead)  | 0.7 | 39  | 60 | 0.3  | <0.01 | <0.01 | <0.1 | <0.5 | <0.01 | 0.02  | 0.02   | <0.1 | 0.03  | 0.02  |
+
+      Results after Schwab et al. 2008.
+
+  - id: "42.1"
+    caption: "Results of the ICP-AES analyses made at the C2RMF on the bronze parts of the Piombino Apollo. Results in wt% or wt. ppm. X = base metal (not quantified). nd = below the limit of detection."
+    media_type: md
+    table: |
+      | Analysis_No. | Sample location                    | Casting type   | Cu   | Sn (wt.%)   | Pb (wt.%)   | Ag (wt.%)    | As (wt.%)   | Fe (wt.%)        | Ni (wt.%)    | S (wt.%)                  | Sb (wt.%)    | Zn (wt.%)    | Au (wt. ppm) | Ba (wt. ppm) | Bi (wt. ppm) | Cd (wt. ppm) | Co (wt. ppm) | Cr (wt. ppm) | Ge (wt. ppm) | Hg (wt. ppm) | In (wt. ppm)        | Mg (wt. ppm) | Mn (wt. ppm) | Mo (wt. ppm) | P (wt. ppm)      | Se (wt. ppm)         | Te (wt. ppm) | Ti (wt. ppm) | U (wt. ppm) | V (wt. ppm) | W (wt. ppm) |
+      |--------------|------------------------------------|:--------------:|:----:|:-----------:|:-----------:|:------------:|:-----------:|:----------------:|:------------:|:-------------------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:------------:|:-------------------:|:------------:|:------------:|:------------:|:----------------:|:--------------------:|:------------:|:------------:|:-----------:|:-----------:|:-----------:|
+      | FZ20669-a    | Head (curl)                        | PC             | X    | 6.3 ±0.6    | 21 <br> ±2  | 0.046 ±0.005 | 0.16 ±0.02  | 0.045 ±0.005     | 0.075 ±0.008 | 0.15 ±0.01                | 0.059 ±0.006 | nd <0.00069  | 55 <br> ±5   | nd <0.2      | 140 ±14      | nd <0.2      | 228 ±23      | nd <0.9      | nd <3.3      | 4.1 ±0.4     | 10 <br> ±4          | nd <3.1      | nd <0.0      | 2.6° <8.4    | nd <24 <br> >2.5 | 12 <br> ±2           | 27 <br> ±5   | nd <0.3      | nd <9.3     | nd <0.2     | nd <2.2     |
+      | FZ20669-b    | Welding: head - body (left basin)  | SC (welding)   | X    | 6.5 ±0.7    | 21 <br> ±2  | 0.047 ±0.005 | 0.17 ±0.02  | 0.041 ±0.004     | 0.076 ±0.008 | 0.15 ±0.01                | 0.061 ±0.006 | nd <0.00080  | 42 <br> ±4   | nd <0.3      | 138 ±14      | nd <0.3      | 227 ±23      | nd <1.0      | nd <3.9      | 4.1 ±0.4     | 8.2 ±1.7            | nd <3.6      | nd <0.1      | nd <2.9      | nd <28           | 9.9 ±1.1             | 31 <br> ±3   | nd <0.3      | nd <br> <11 | nd <0.3     | nd <2.6     |
+      | FZ20669-c    | Body (right flank)                 | PC             | X    | 5.1 ±0.5    | 20 <br> ±2  | 0.043 ±0.004 | 0.17 ±0.02  | 0.12 ±0.01       | 0.068 ±0.007 | 0.13 ±0.01                | 0.055 ±0.006 | nd <0.00079  | 37 <br> ±4   | nd <0.3      | 63 <br> ±6   | nd <0.3      | 204 ±20      | nd <1.0      | nd <3.8      | 4.2 ±0.5     | 5.5° <8.0 <br> >2.4 | nd <3.6      | nd <0.1      | nd <2.9      | nd <28           | 12 <br>±1            | 32 <br> ±9   | nd <0.3      | nd <br> <11 | nd <0.3     | nd <2.5     |
+      | FZ20669-d    | Welding: right arm - body          | SC (welding)   | X    | 9.3 ±0.9    | 13 <br> ±1  | 0.081 ±0.008 | 0.51 ±0.05  | 0.11 ±0.01       | 0.071 ±0.007 | 0.26 ±0.03                | 0.11 ±0.01   | 0.047 ±0.005 | 27 <br> ±3   | nd <0.3      | 122 ±12      | nd <0.3      | 40 <br> ±4   | nd <1.1      | nd <4.3      | 4.2 ±1.3     | 9.6 ±4.8            | nd <4.0      | nd <0.1      | nd <3.3      | nd <31           | 24 <br> ±2           | 26 <br> ±9   | nd <0.4      | nd <br> <12 | nd <0.3     | nd <2.9     |
+      | FZ20669-e    | Right arm                          | PC             | X    | 6.5 ±0.6    | 21 <br> ±2  | 0.045 ±0.005 | 0.16 ±0.02  | 0.043 ±0.004     | 0.073 ±0.007 | 0.19 ±0.02                | 0.059 ±0.006 | nd <0.00096  | 27 <br> ±3   | nd <0.3      | 138 ±14      | nd <0.3      | 228 ±23      | nd <1.2      | nd <4.6      | 4 <br> ±0.4  | 9.4° <9.7 <br> >2.9 | nd <4.3      | nd <0.1      | nd <3.5      | nd <34           | 9.1° <11.5 <br> >3.4 | 28 <br> ±3   | nd <0.4      | nd <br> <13 | nd <0.3     | nd <3.1     |
+      | FZ20669-f    | Pinkie finger                      | PC             | X    | 6 <br> ±0.6 | 19 <br> ±2  | 0.042 ±0.004 | 0.15 ±0.02  | 0.035 ±0.003     | 0.069 ±0.007 | 0.13 ±0.01                | 0.054 ±0.005 | nd <0.00096  | 24 <br> ±2   | nd <0.3      | 128 ±13      | nd <0.3      | 208 ±21      | nd <1.2      | nd <4.6      | 3.7 ±0.7     | 3.7° <9.7 <br> >2.9 | nd <4.3      | nd <0.1      | nd <3.5      | nd <34           | 6.5° <11.5 <br> >3.4 | 21 <br> ±4   | nd <0.4      | nd <br> <13 | nd <0.3     | nd <3.1     |
+      | FZ20669-g    | Welding: pinkie finger - right arm | SC (welding)   | X    | 8.1 ±0.8    | 7.4 ±0.7    | 0.051 ±0.005 | 0.35 ±0.03  | 0.00081 ±0.00008 | 0.031 ±0.003 | 0.051° >0.020 <br> <0.067 | 0.078 ±0.008 | nd <0.00070  | 18 <br> ±2   | nd <0.2      | 57 <br> ±6   | nd <0.2      | 25 <br> ±3   | nd <0.9      | nd <3.4      | 3.9 ±0.4     | 2.2° <7.0 <br> >2.1 | nd <3.1      | nd <0.0      | nd <2.5      | nd <24           | 36 <br> ±4           | 16 <br> ±6   | nd <0.3      | nd <9.3     | nd <0.2     | nd <2.2     |
+      | FZ20669-h    | Left leg                           | PC             | X    | 5.1 ±0.5    | 16 <br> ±2  | 0.04 ±0.004  | 0.18 ±0.02  | 0.13 ±0.01       | 0.068 ±0.007 | 0.13 ±0.01                | 0.053 ±0.005 | nd <0.00066  | 29 <br> ±3   | nd <0.2      | 57 <br> ±6   | nd <0.2      | 220 ±22      | nd <0.8      | nd <3.2      | 4.5 ±0.6     | 9.7 ±1.1            | nd <3.0      | nd <0.0      | nd <2.4      | nd <23           | 12 <br> ±2           | 28 <br> ±3   | nd <0.3      | nd <8.9     | nd <0.2     | nd <2.1     |
+      | FZ20669-i    | Welding: left foot - left leg      | SC (welding)   | X    | 6 <br> ±0.6 | 19 <br> ±2  | 0.044 ±0.004 | 0.17 ±0.02  | 0.025 ±0.003     | 0.075 ±0.007 | 0.13 ±0.01                | 0.056 ±0.006 | nd <0.00073  | 63 <br> ±6   | nd <0.3      | 66 <br> ±7   | nd <0.2      | 112 ±11      | nd <0.9      | nd <3.6      | 4 <br> ±0.6  | 4.3° <7.4 <br> >2.2 | nd <3.3      | nd <0.0      | nd <2.7      | nd <26           | 12 <br> ±2           | 35 <br> ±7   | nd <0.3      | nd <9.9     | nd <0.3     | nd <2.3     |
+      | FZ20669-j    | Left foot (forefoot)               | PC             | X    | 6.3 ±0.6    | 21 <br> ±2  | 0.047 ±0.005 | 0.16 ±0.02  | 0.056 ±0.006     | 0.075 ±0.007 | 0.15 ±0.02                | 0.06 ±0.006  | nd <0.00068  | 39 <br> ±4   | nd <0.2      | 141 ±14      | nd <0.2      | 224 ±22      | nd <0.9      | nd <3.3      | 4 <br> ±0.7  | 6.9 ±1.7            | nd <3.1      | nd <0.0      | nd <2.5      | nd <24           | 10 <br> ±2           | 33 <br> ±6   | nd <0.3      | nd <9.2     | nd <0.2     | nd <2.2     |
+      | FZ20669-k    | Right leg                          | PC             | X    | 6.3 ±0.6    | 19 <br> ±2  | 0.045 ±0.005 | 0.18 ±0.02  | 0.024 ±0.002     | 0.072 ±0.007 | 0.12 ±0.01                | 0.057 ±0.006 | nd <0.00089  | 40 <br> ±4   | nd <0.3      | 60 <br> ±6   | nd <0.3      | 110 ±11      | nd <1.1      | nd <4.3      | 4.4 ±0.4     | 4.8° <9.0 <br> >2.7 | nd <4.0      | nd <0.1      | nd <3.3      | nd <31           | 13 <br> ±2           | 30 <br> ±4   | nd <0.4      | nd <12      | nd <0.3     | nd <2.9     |
+      | FZ20669-l    | Welding: right foot - right leg    | SC (welding)   | X    | 5.5 ±0.5    | 17 <br> ±2  | 0.041 ±0.004 | 0.16 ±0.02  | 0.025 ±0.003     | 0.075 ±0.008 | 0.13 ±0.01                | 0.051 ±0.005 | nd <0.00072  | 35 <br> ±4   | nd <0.2      | 54 <br> ±7   | nd <0.2      | 114 ±11      | nd <0.9      | nd <3.5      | 4.4 ±0.7     | 6.2° <7.3 <br> >2.2 | nd <3.2      | nd <0.0      | nd <2.6      | nd <25           | 9.8 ±1.0             | 29 <br> ±9   | nd <0.3      | nd <9.7     | nd <0.3     | nd <2.3     |
+      | FZ20669-m    | Right foot (forefoot)              | PC             | X    | 6.5 ±0.7    | 19 <br> ±2  | 0.046 ±0.005 | 0.17 ±0.02  | 0.06 ±0.006      | 0.077 ±0.008 | 0.16 ±0.02                | 0.061 ±0.006 | nd <0.00078  | 31 <br> ±3   | nd <0.3      | 135 ±14      | nd <0.3      | 229 ±23      | nd <1.0      | nd <3.8      | 4 <br> ±0.4  | 9 <br> ±3.5         | nd <3.5      | nd <0.0      | nd <2.8      | nd <27           | 9.8 ±3.7             | 33 <br> ±13  | nd <0.3      | nd <10      | nd <0.3     | nd <2.5     |
+      | FZ20669-n    | Fourth toe of the right foot       | SC (repair)    | X    | 4.2 ±0.4    | 13 <br> ±1  | 0.18 ±0.02   | 0.4 ±0.04   | 0.0082 ±0.0008   | 0.087 ±0.009 | 0.15 ±0.02                | 0.28 ±0.03   | 0.69 ±0.07   | 52 <br> ±5   | nd <0.3      | 393 ±39      | nd <0.3      | 103 ±10      | nd <1.0      | nd <3.9      | 5.3 ±0.5     | 9.3 ±3.3            | nd <3.6      | nd <0.1      | nd <3.0      | nd <28           | 21 <br> ±3           | 31 <br> ±6   | nd <0.3      | nd <11      | nd <0.3     | nd <2.6     |
+
+      ° = below the limit of quantification. PC = primary casting. SC = secondary casting.
+
+  - id: "42.2"
+    caption: "Results of the PIXE analyses made at the C2RMF on the copper and silver inlays of the Piombino Apollo. Results in wt%."
+    media_type: md
+    table: |
+      | Analysis No. | Location                 | Cr        | Mn       | Fe       | Co        | Ni       | Cu       | Zn        | As       | Se        | Mo        | Ag       | Cd        | In        | Sn        | Sb       | Te        | Au        | Hg        | Pb       | Bi        |
+      |--------------|--------------------------|:---------:|:--------:|:--------:|:---------:|:--------:|:--------:|:---------:|:--------:|:---------:|:---------:|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|:---------:|:---------:|:--------:|:---------:|
+      | 07mai006     | Cu - right eyebrow       | *<0.3*    | *<0.05*  | 0.33     | *<0.0058* | 0.067    | **98.3** | *<0.017*  | 0.032    | *<0.0071* | *<0.0098* | 0.071    | *<0.015*  | *<0.009*  | *<0.022*  | *<0.021* | *<0.02*   | *<0.0085* | *<0.0094* | 0.96     | *<0.0099* |
+      | 07mai007     | Cu - left eyebrow        | *<0.26*   | *<0.066* | 0.28     | *<0.0026* | 0.077    | **99.1** | *<0.018*  | *<0.021* | *<0.0023* | *<0.0053* | 0.076    | *<0.0087* | *<0.0073* | *<0.013*  | 0.07*    | *<0.0091* | *<0.011*  | *<0.0041* | 0.098    | *<0.0063* |
+      | 07mai008     | Cu - upper lip           | *<0.32*   | *<0.048* | 0.42     | *<0.012*  | 0.066    | **97.6** | *<0.025*  | 0.19     | *<0.0084* | *<0.0052* | 0.055    | *<0.019*  | *<0.0053* | *<0.045*  | *<0.016* | *<0.029*  | *<0.013*  | *<0.0094* | **1.7**  | *<0.014*  |
+      | 07mai010     | Cu - lower lip           | *<0.21*   | *<0.077* | 0.47     | *<0.017*  | 0.072    | **98.8** | *<0.024*  | 0.2      | *<0.005*  | *<0.011*  | 0.029    | *<0.0098* | *<0.0032* | *<0.031*  | *<0.031* | *<0.024*  | *<0.014*  | *<0.0079* | 0.18     | *<0.0086* |
+      | 07mai011     | Cu - right nipple        | *<0.29*   | *<0.057* | 0.28     | *<0.014*  | 0.093    | **98.9** | *<0.018*  | 0.14     | *<0.0042* | *<0.011*  | 0.056    | *<0.026*  | *<0.008*  | *<0.016*  | *<0.051* | *<0.021*  | *<0.012*  | *<0.0082* | 0.17     | *<0.0064* |
+      | 07mai012     | Cu - left nipple         | *<0.28*   | *<0.065* | 0.46     | 0.097     | 0.095    | **98.7** | *<0.018*  | 0.2      | *<0.0049* | *<0.0048* | 0.048    | *<0.018*  | *<0.0069* | *<0.0059* | *<0.029* | *<0.025*  | *<0.01*   | *<0.004*  | 0.07     | *<0.0066* |
+      | 07mai013     | Ag - left foot           | *<0.36*   | *<0.039* | 0.33     | *<0.013*  | 0.067    | **9.8**  | *<0.011*  | 0.085    | *<0.0036* | *<0.0024* | **85.8** | *<0.036*  | *<0.084*  | **2.9**   | *<0.047* | *<0.031*  | 0.45      | *<0.0051* | **2.1**  | *<0.0072* |
+      | 07mai014     | Ag - left foot - no scan | *<0.35*   | *<0.059* | 0.024    | *<0.0086* | 0.054    | **3.1**  | *<0.0059* | *<0.014* | *<0.0036* | *<0.0021* | **95.9** | *<0.027*  | *<0.074*  | *<0.59*   | *<0.04*  | *<0.023*  | 0.48      | *<0.0026* | 0.41     | 0.029     |
+
+  - id: "43.1"
+    caption: "Results of the ICP-AES analyses made at the C2RMF on the bronze parts of the Croatian Apoxyomenos. Results in wt% or wt ppm. X = base metal (not quantified). nd = below the limit of detection. ° = below the limit of quantification."
+    media_type: md
+    table: |
+      | Analysis No. | Sample location                        | Cu | Sn (wt.%) | Pb (wt.%) | Ag (wt.%)    | As (wt.%)    | Fe (wt.%)       | Ni (wt.%)     | S (wt.%)             | Sb (wt.%)    | Zn (wt.%)    | Au (wt. ppm) | Ba (wt. ppm) | Bi (wt. ppm) | Cd (wt. ppm) | Co (wt. ppm)  | Cr (wt. ppm) | Ge (wt. ppm) | Hg (wt. ppm)  | In (wt. ppm)  | Mg (wt. ppm) | Mn (wt. ppm) | Mo (wt. ppm) | P  (wt. ppm) | Se (wt. ppm) | Te (wt. ppm) | Ti (wt. ppm) | U (wt. ppm) | V (wt. ppm) | W (wt. ppm) |
+      |--------------|----------------------------------------|----|-----------|-----------|--------------|--------------|-----------------|---------------|----------------------|--------------|--------------|--------------|--------------|--------------|--------------|---------------|--------------|--------------|---------------|---------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|-------------|-------------|-------------|
+      | C2RMF72247-1 | Head: under the chin (in the platform) | X  | 7.1 ±0.7  | 18 ±2     | 0.056 ±0.006 | 0.1 ±0.010   | 0.16 ±0.02      | 0.04 ±0.004   | 0.071 ±0.007         | 0.11±0.01    | 0.23 ±0.02   | 42 ±4        | nd <0.2      | 77 ±8        | nd <0.2      | 67 ±7         | nd <0.9      | nd <3.4      | 4.1 ±0.4      | 6.4 <7.0 >2.1 | nd <3.1      | nd <0.0      | nd <2.5      | nd <24       | 32 ±3        | 23 ±3        | nd <0.3      | nd <9.3     | nd <0.2     | nd <2.2     |
+      | C2RMF72247-2 | Plinth: right side (decorated)         | X  | 9.5 ±0.9  | 11 ±1     | 0.052 ±0.005 | 0.015 ±0.002 | 0.0072 ±0.0007  | 0.005 ±0.0005 | 0.021¡ >0.20 <0.067  | 0.069 ±0.007 | nd <0.00067  | 16 ±2        | nd <0.2      | 45 ±4        | nd <0.2      | nd <0.2       | nd <0.9      | nd <3.3      | 4.4 ±0.4      | 3.0 <6.8 >2.0 | nd <3.0      | nd <0.0      | nd <2.4      | nd <2.4      | 17 ±2        | 17 ±2        | nd <0.3      | nd <9.0     | nd <0.2     | nd <2.1     |
+      | C2RMF72247-3 | Plinth: back side (not decorated)      | X  | 7.6 ±0.8  | 23 ±2     | 0.059 ±0.006 | 0.069 ±0.007 | 0.12 ±0.01      | 0.022 ±0.002  | 0.12 ±0.01           | 0.099 ±0.010 | 0.24 ±0.02   | 21 ±2        | nd <0.3      | 68 ±7        | nd <0.3      | 22 ±2         | nd <1.1      | nd <4.3      | 3.2 <3.4 >1.0 | 4.2 <8.9 >2.7 | nd <4.0      | nd <0.1      | nd <3.2      | nd <31       | 35 ±4        | 20 ±3        | nd <0.4      | nd <12      | nd <0.3     | nd <2.8     |
+      | C2RMF72247-4 | Body: neck (in the platform)           | X  | 4 ±0.4    | 17 ±2     | 0.062 ±0.006 | 0.055 ±0.005 | 0.0005 ±0.00005 | 0.027 ±0.003  | 0.042¡ >0.020 <0.067 | 0.1 ±0.01    | 0.014 ±0.001 | 25 ±2        | nd <0.3      | 72 ±7        | nd <0.3      | 2.2 ±0.3      | nd <1.0      | nd <3.7      | 4.4 ±0.4      | 3.6 <7.6 >2.3 | nd <3.4      | nd <0.0      | nd <2.8      | nd <26       | 19 ±2        | 22 ±5        | nd <0.3      | nd <10      | nd <0.3     | nd <2.4     |
+      | C2RMF72247-5 | Pubic hair                             | X  | 6.5 ±0.7  | 21 ±2     | 0.02 ±0.002  | 0.024 ±0.002 | 0.0017 ±0.0002  | 0.011 ±0.001  | 0.075 ±0.007         | 0.061 ±0.006 | 0.039 ±0.004 | nd <4.4      | nd <0.3      | 29 ±6        | nd <0.3      | 0.6 <0.6 >0.2 | nd <1.0      | nd <3.79     | 3.5 ±0.7      | 3.8 <8.1 >2.4 | nd <3.6      | nd <0.1      | nd <2.9      | nd <28       | 64 ±6        | 18 ±11       | nd <0.3      | nd <11      | nd <0.3     | nd <2.6     |
+      | C2RMF72247-6 | Welding: genital & pubic hair - legs   | X  | 4 ±0.4    | 18 ±2     | 0.061 ±0.006 | 0.051 ±0.005 | 0.038 ±0.004    | 0.028 ±0.003  | 0.047¡ >0.020 <0.067 | 0.099 ±0.010 | nd <0.00067  | 20 ±2        | nd <0.3      | 65 ±6        | nd <0.3      | 1 ±0.4        | 88 ±9        | nd <4.1      | 4.3 ±0.8      | nd <2.6       | nd <3.8      | 2.2 ±0.2     | nd <3.1      | nd <30       | 16 ±2        | 13 ±4        | nd <0.4      | nd <11      | nd <0.3     | nd <2.7     |
+      | C2RMF72247-7 | Left foot                              | X  | 5.7 ±0.6  | 18 ±2     | 0.048 ±0.005 | 0.048 ±0.005 | 0.041 ±0.004    | 0.02 ±0.002   | 0.072 ±0.007         | 0.1 ±0.01    | 0.071 ±0.007 | 14 ±1        | nd <0.3      | 52 ±5        | nd <0.3      | 8.6 ±0.9      | nd <1.0      | nd <3.6      | 4.2 ±0.5      | 4.4 <7.6 >2.3 | nd <3.4      | nd <0.0      | nd <2.7      | nd <26       | 36 ±4        | 32 ±6        | nd <0.3      | nd <10      | nd <0.3     | nd <2.4     |
+
+  - id: "44.1"
+    caption: LIPS chemical analyses of the horse.
+    media_type: html
+    table: |
+      <table>
+        <caption>LIPS chemical analyses of the horse.</caption>
+        <thead>
+          <tr><th>Meas. no./site</th> <th>Sn (wt %)</th> <th>Pb (wt %)</th> <th>Comment</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>1 Right ribs</td> <td>12.0 ± 1.2</td> <td>3.3 ± 0.4</td> <td rowspan="7">Main alloy</td> </tr>
+          <tr> <td>6 Crest (left side)</td> <td>12.3 ± 0.8</td> <td>3.2 ± 0.4</td> </tr>
+          <tr> <td>8 Right ribs</td> <td>10.8 ± 0.8</td> <td>3.3 ± 0.4</td> </tr>
+          <tr> <td>25 Left hind thigh</td> <td>11.8 ± 1.4</td> <td>3.2 ± 0.5</td> </tr>
+          <tr> <td>26 Left breast</td> <td>11.8 ± 0.8</td> <td>3.5 ± 0.4</td> </tr>
+          <tr> <td>27 Head (left side)</td> <td>12.4 ± 0.8</td> <td>3.2 ±0.3</td> </tr>
+          <tr> <td>36 Chest (right side)</td> <td>10.6 ± 1.1</td> <td>5.2 ± 0.7</td> </tr>
+          <tr> <td>2 Right forearm</td> <td>10.3 ± 1.1</td> <td>9.2 ± 0.9</td> <td rowspan="8">Compatible with independent casting with respect to the body of the horse</td> </tr>
+          <tr> <td>5 Left forearm</td> <td>12.7 ± 1.3</td> <td>8.1 ± 1.1</td> </tr>
+          <tr> <td>3<sup>*</sup> Right forehoof</td> <td>8.1 ± 0.5</td> <td>15.4 ± 1.4</td> </tr>
+          <tr> <td>4<sup>*</sup> Left forepastern</td> <td>8.4 ± 0.5</td> <td>14.9 ± 1.6</td> </tr>
+          <tr> <td>9 Tail</td> <td>13.3 ± 1.0</td> <td>8.8 ± 0.6</td> </tr>
+          <tr> <td>10 Right point of hock</td> <td>13.3 ± 0.8</td> <td>8.5 ± 0.4</td> </tr>
+          <tr> <td>23 Right hind pastern</td> <td>14.8 ± 0.9</td> <td>8.0 ± 0.4</td> </tr>
+          <tr> <td>24<sup>*</sup> Left hind cannon</td> <td>8.5 ± 0.9</td> <td>13.7 ± 1.2</td> </tr>
+          <tr> <td>11 Saddle</td> <td>0.2 ± 0.1</td> <td>0.7 ± 0.3</td> <td rowspan="4">Pure copper</td> </tr>
+          <tr> <td>28 Rein (left side)</td> <td>0.4 ± 0.2</td> <td>0.4 ± 0.3</td> </tr>
+          <tr> <td>35 Girth</td> <td>0.4 ± 0.1</td> <td>0.3 ± 0.3 </td> </tr>
+          <tr> <td>37 Bolt (hind foot)</td> <td>0.1 ± 0.1</td> <td>0.2 ± 0.2</td> </tr>
+        </tbody>
+        <tfoot> <tr><td> <ul><li><sup>*</sup> Fe 0.1–0.2 (wt %)</li></ul> </td></tr>
+        </tfoot>
+      </table>
+
+  - id: "44.2"
+    caption: "LIPS chemical analyses of rider and base."
+    media_type: html
+    table: |
+      <table>
+        <caption>LIPS chemical analyses of rider and base.</caption>
+        <thead>
+          <tr><th>Meas. no./site</th> <th>Sn (wt %)</th> <th>Pb (wt %)</th> <th>Comment</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>17 Head</td> <td>9.8 ± 0.7</td> <td>10.9 ± 0.8</td> <td rowspan="4">Main alloy of the rider</td> </tr>
+          <tr> <td>20 Skirt (broken part)</td> <td>10.9 ± 0.7</td> <td>11.4 ± 1.1</td> </tr>
+          <tr> <td>33 Mantle</td> <td>10.7 ± 0.6</td> <td>11.4 ± 1.0</td> </tr>
+          <tr> <td>19 Left forearm</td> <td>10.5 ± 0.9</td> <td>9.4 ± 1.1</td> </tr>
+          <tr> <td>15 Right calf</td> <td>10.5 ± 1.1</td> <td>11.3 ± 1.0</td> <td rowspan="3">Although the legs could have been cast independently their composition is similar to that of the main alloy</td> </tr>
+          <tr> <td>16 Left foot</td> <td>10.4 ± 1.0</td> <td>9.7 ± 0.9</td> </tr>
+          <tr> <td>18 Left calf</td> <td>14.1 ± 0.8</td> <td>10.0 ± 0.5</td> </tr>
+          <tr> <td>13 Scabbard</td> <td>10.7 ± 0.8</td> <td>9.9 ± 0.9</td> <td>Independent with the same composition</td> </tr>
+          <tr> <td>14 Right forearm</td> <td>7.1 ± 0.4</td> <td>7.8 ± 1.0</td> <td rowspan="3">Compatible with independent casting</td> </tr>
+          <tr> <td>21 Sword guard</td> <td>7.1 ± 0.5</td> <td>7.8 ± 0.5</td> </tr>
+          <tr> <td>34 Sword knob</td> <td>7.5 ± 0.7</td> <td>7.6 ± 0.8</td> </tr>
+          <tr> <td>14a Anchoring casting</td> <td>7</td> <td>7.9</td> <td>(SEM-EDX) As the right arm anchored</td> </tr>
+          <tr> <td>22 Base </td> <td>12.3 ± 1.0</td> <td>7.7 ± 0.6</td> <td rowspan="3">Main alloy of the base</td> </tr>
+          <tr> <td>30 Base</td> <td>11.8 ± 0.9</td> <td>7.0 ± 0.5</td> </tr>
+          <tr> <td>32 Base</td> <td>12.0 ± 0.9</td> <td>8.2 ± 0.8</td> </tr>
+          <tr> <td>7 Rudder</td> <td>11.8 ± 0.7</td> <td>3.3 ± 0.3</td> <td rowspan="2">The same as the main alloy of the horse </td> </tr>
+          <tr> <td>38 Rudder</td> <td>13.4 ± 1.0</td> <td>3.9 ± 0.5</td> </tr>
+        </tbody>
+      </table>
+
+  - id: "46.1"
+    caption: "Results from micro-XRF area scans on standard reference bronze alloys BCR-A-691 with Cu: 78.73%, Zn: 6.02%, Sn: 7.16%, Pb: 7.9%, As: 0.194%. STDMV (%) represents the standard deviation of the mean value of the elemental intensities measured from an area scan. The highlighted values estimate the standard deviation (%) of the mean values  obtained from the respective individual area scans"
+    media_type: html
+    table: |
+      <table>
+        <thead>
+          <tr> <th rowspan="2">Scans</th> <th rowspan="2">Step (mm)</th> <th rowspan="2">Area (mm<sup>2</sup>)</th> <th rowspan="2">No. of spots</th> <th colspan="5">Standard Deviation of the Mean Value (STDMV %) of the elemental intensities measured from area scans</th> </tr>
+          <tr> <th>Cu-Kα</th> <th>Zn-Kα</th> <th>Sn-Kα</th> <th>Sn-Lα</th> <th>Pb-Lβ</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td>1</td> <td>0.02</td> <td>0.14 x 0.14</td> <td>64</td> <td>6</td> <td>13</td> <td>7</td> <td>14</td> <td>68</td> </tr>
+          <tr> <td>2</td> <td>0.02</td> <td>0.14 x 0.14</td> <td>64</td> <td>7</td> <td>6</td> <td>20</td> <td>18</td> <td>30</td> </tr>
+          <tr> <td>3</td> <td>0.02</td> <td>0.24 x 0.24</td> <td>156</td> <td>6</td> <td>8</td> <td>15</td> <td>16</td> <td>59</td> </tr>
+          <tr> <td>4</td> <td>0.02</td> <td>0.32 x 0.32</td> <td>289</td> <td>6</td> <td>12</td> <td>20</td> <td>19</td> <td>62</td> </tr>
+          <tr> <td>5</td> <td>0.02</td> <td>0.5 x 0.5</td> <td>110</td> <td>6</td> <td>9</td> <td>21</td> <td>22</td> <td>69</td> </tr>
+          <tr> <td>6</td> <td>0.08</td> <td>0.8 x 0.8</td> <td>121</td> <td>8</td> <td>18</td> <td>22</td> <td>22</td> <td>75</td> </tr>
+          <tr> <td>7</td> <td>0.1</td> <td>1 x 1</td> <td>110</td> <td>7</td> <td>14</td> <td>12</td> <td>13</td> <td>60</td> </tr>
+          <tr> <td>8</td> <td>0.2</td> <td>3 x 3</td> <td>225</td> <td>10</td> <td>19</td> <td>15</td> <td>16</td> <td>75</td> </tr>
+          <tr> <td>9</td> <td>0.25</td> <td>5 x 5</td> <td>441</td> <td>10</td> <td>22</td> <td>20</td> <td>20</td> <td>70</td> </tr>
+          <tr> <td>10</td> <td>1.0</td> <td>5 x 5</td> <td>36</td> <td>9</td> <td>18</td> <td>22</td> <td>21</td> <td>63</td> </tr>
+          <tr>
+            <td colspan="4"></td>
+            <td><strong>4.2</strong></td>
+            <td><strong>5</strong></td>
+            <td><strong>5</strong></td>
+            <td><strong>4</strong></td>
+            <td><strong>31</strong></td>
+          </tr>
+        </tbody>
+      </table>
+
+  - id: "46.2"
+    caption: "Elemental composition of the base bronze metal for Baal God figurine. Although all analyzed areas look similar, only the area 2b was screened to represent best the true alloy surface providing quantitative results representative of the original alloy composition."
+    media_type: html
+    table: |
+      <table>
+        <thead>
+          <tr> <th rowspan="2">Photo of the analyzed area</th> <th rowspan="2">Analyzed area</th> <th colspan="2">Concentration (%w.w)</th> </tr>
+          <tr> <th>Cu</th> <th>Sn</th> </tr>
+        </thead>
+        <tbody>
+          <tr> <td></td> <td>2a</td> <td>89.2 ± 1.0</td> <td>9.82 ± 0.5</td> </tr>
+          <tr> <td></td> <td>2b</td> <td>92.5 ± 1.0</td> <td>6.32 ± 0.3</td> </tr>
+          <tr> <td></td> <td>2c</td> <td>81.9 ± 1.0</td> <td>16.4 ± 0.8</td> </tr>
+        </tbody>
+      <table>

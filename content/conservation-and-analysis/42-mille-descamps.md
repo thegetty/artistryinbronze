@@ -38,7 +38,11 @@ Thus, the fact that the statue was most probably made in Rhodes during the last 
 
 {{< q-figure id="42.3" >}}
 
-*Metal composition:* A high-lead bronze was chosen for the primary castings, and the composition is virtually the same for all parts of the statue (head, body, arms, legs, fingers): 6% tin and 19.5% lead. The lips, eyebrows, and nipples are made of unalloyed copper: no tin, up to 2% lead. The letters of the inscription on the foot are inlaid with silver slightly alloyed with copper (3%), and containing 0.5% gold as its main impurity ([fig. 42.4a](#42.4a); see also **table 42.1** and **table 42.2** for the complete results).
+*Metal composition:* A high-lead bronze was chosen for the primary castings, and the composition is virtually the same for all parts of the statue (head, body, arms, legs, fingers): 6% tin and 19.5% lead. The lips, eyebrows, and nipples are made of unalloyed copper: no tin, up to 2% lead. The letters of the inscription on the foot are inlaid with silver slightly alloyed with copper (3%), and containing 0.5% gold as its main impurity ([fig. 42.4a](#42.4a); see also [table 42.1](#table-42.1) and [table 42.2](#table-42.2) for the complete results).
+
+{{< q-table id="42.1" scale=".3" border="horizontal" center-text="all" >}}
+
+{{< q-table id="42.2" scale=".3" border="horizontal" center-text="all" >}}
 
 The alloy used as filler metal for welding (the so-called secondary casting) matches perfectly the one used for primary castings (head to body, left and right feet to the corresponding legs), with two exceptions: the join of the right arm to the body (sample FZ20669-d), and the join of the pinkie finger to the right hand (sample FZ20669-g), which contain more tin and less lead (see [fig. 42.4a](#42.4a)).
 
