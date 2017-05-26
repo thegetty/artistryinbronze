@@ -1197,32 +1197,38 @@ figure_list:
     caption: >
       A handle from Pompeii, before AD 79. Photo: after Ainé 1870, plate 72
 
-  - id: "30.1_MS4190"
+  - id: "30.1a"
+    label: "MS4190"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4190.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
-  - id: "30.1_MS4196"
+  - id: "30.1b"
+    label: "MS4196"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4196.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
-  - id: "30.1_MS4198"
+  - id: "30.1c"
+    label: "MS4198"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4198.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
-  - id: "30.1_MS4203"
+  - id: "30.1d"
+    label: "MS4203"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4203.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
-  - id: "30.1_MS4204"
+  - id: "30.1e"
+    label: "MS4204"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4204.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.
 
-  - id: "30.1_MS4205"
+  - id: "30.1c"
+    label: "MS4205"
     src: fig_30.01_Ferrence_Giumlia-Mair_MS4205.jpg
     caption: >
       Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA.

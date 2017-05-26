@@ -16,13 +16,7 @@ weight: 304
 
 This paper will focus on a hoard of bronze statuettes found near Paramythia (Epirus) at the end of the eighteenth century ([fig. 16.1–14](#16.1)).[^1] It is appropriate to review these bronzes in light of recent scholarship on Roman Greece and current discussions regarding aspects of Roman identity.[^2] A reappraisal of the Paramythia material can contribute to recent deliberations concerning how material culture, in particular personal items, might reflect and reinforce the patron’s social and cultural identity. With this focus in mind, I will discuss some of the recent scholarly and archaeological investigations of Roman Epirus, specifically the Roman colony of Photike, which is where the Paramythia bronzes were said to have originated. Although the specific findspot of the bronzes has been lost, the statuettes most likely came from a Roman house or villa judging from the predominantly Roman character of the finds from Photike. This paper will conclude with a brief discussion of the subject matter of the bronzes (i.e., the deities represented), and with consideration of how the villa owner might have utilized these bronzes as a means to project and reinforce his or her Roman identity.
 
-{{< q-figure-group id="16.1, 16.2, 16.3, 16.4" grid="4" >}}
-
-{{< q-figure-group id="16.5, 16.6, 16.7, 16.8" grid="4" >}}
-
-{{< q-figure-group id="16.9, 16.10, 16.11, 16.12" grid="4" >}}
-
-{{< q-figure-group id="16.13, 16.14" grid="2" >}}
+{{< q-figure-group id="16.1, 16.2, 16.3, 16.4, 16.5, 16.6, 16.7, 16.8, 16.9, 16.10, 16.11, 16.12, 16.13, 16.14" grid="4" label="true" caption="**Figure 16.1.** Bronze statuette of Neptune (?), inv. 1824,0453.4; **Figure 16.2.** Bronze statuette of Apollo, inv. 1824,0405.2; **Figure 16.3.** Bronze statuette of Serapis, inv. 1824,0478.1; **Figure 16.4.** Bronze statuette of Castor, inv. 1824,0429.1; **Figure 16.5.** Bronze statuette of Isis-Aphrodite, inv. 1824,0428.1; **Figure 16.6.** Bronze statuette of Venus, inv. 1824,0490.4; **Figure 16.7.** Bronze statuette of a Ram with Odysseus, inv. 1824,0473.1; **Figure 16.8.** Bronze relief with face of Apollo as sun god, inv. 1824,0405.3; **Figure 16.9.** Bronze statuette of Jupiter, inv. 1824,0453.5; **Figure 16.10.** Bronze arm from a statuette, inv. 1824,0453.6; **Figure 16.11.** Bronze fragment of a bull’s hoof and fetlock, inv. 1824,0415.11; **Figure 16.12.** Bronze statuette of a Lar, inv. 1824,0437.2; **Figure 16.13.** Bronze mirror-case relief depicting Aphrodite and Anchises, inv. 1904,702.1; **Figure 16.14.** Bronze statuette of Mercury, inv. 1904,1010.1. London, British Museum. All photos: © The Trustees of The British Museum" >}}
 
 ## Discovery of the Bronze Statuettes
 
