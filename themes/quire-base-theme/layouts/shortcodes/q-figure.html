@@ -22,7 +22,11 @@
     {{ range where .Site.Data.figures.figure_list "id" "eq" $x }}
     <figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }}" id="{{ .id }}">
       <div class="q-figure__wrapper">
-        <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+        {{ if eq .media_type "inline-svg" }}
+          {{ .src | safeHTML }}
+        {{ else }}
+          <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+        {{ end }}
         {{ if $.Get "label" }}
         {{ if eq ($.Get "label") "true" }}
         <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ $.Get "id" }}</span>
@@ -50,7 +54,11 @@
 
     <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
-        <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+        {{ if eq .media_type "inline-svg" }}
+          {{ .src | safeHTML }}
+        {{ else }}
+          <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+        {{ end }}
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
         {{ end }}
