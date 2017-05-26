@@ -2,6 +2,11 @@
 
   margin-bottom: $base-spacing * 10;
 
+  @media print {
+    page: footer;
+    page-break-before: always;
+  }
+
   &__header {
     text-align: center;
     margin-bottom: $base-spacing * 6;
@@ -49,6 +54,13 @@
   &__content {
 
     &__main {
+
+      @media print {
+        column-count: 2;
+        column-gap: 0.25in;
+        font-size: 10pt;
+      }
+
       margin-bottom: $base-spacing;
       p {
         text-indent: $base-spacing;
