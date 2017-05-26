@@ -3,7 +3,7 @@
   {{ if .Get "src" }}
   <!-- if the shortcode has both an id and a src, ignore any figures.yml document and render only the values given in the shortcode -->
 
-    <figure class="q-figure {{ with .Get "class" }}q-{{ . }}{{ end }}" id="{{ with .Get "id" }}{{ . }}{{ end }}">
+    <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}" id="{{ with .Get "id" }}{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
         <img  src="/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
         {{ with .Get "label" }}
@@ -20,7 +20,7 @@
 
     {{ $x := .Get "id" | string }}
     {{ range where .Site.Data.figures.figure_list "id" "eq" $x }}
-    <figure class="q-figure {{ with $.Get "class" }}q-{{ . }}{{ end }}" id="{{ .id }}">
+    <figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }}" id="{{ .id }}">
       <div class="q-figure__wrapper">
         <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
         {{ if $.Get "label" }}
@@ -35,7 +35,7 @@
         <figcaption>{{ $.Get "caption" }}</figcaption>
       {{ else }}
       {{ if .caption }}
-        <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span> {{ .caption | markdownify }}</figcaption>
+        <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
       {{ end }}
       {{ end }}
     </figure>
@@ -48,9 +48,9 @@
   {{ if .Get "src" }}
   <!-- if the shortcode has a src, but no id, render the figure from the values given in the shortcode -->
 
-    <figure class="q-figure {{ with .Get "class" }}q-{{ . }}{{ end }}">
+    <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
-        <img  src="/figures/{{ with .Get "src" }}{{ . }}{{ end }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
+        <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
         {{ end }}

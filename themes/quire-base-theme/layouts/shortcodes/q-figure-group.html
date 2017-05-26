@@ -1,5 +1,5 @@
 {{ if .Get "id" }}
-<figure class="q-figure {{ with .Get "class" }}q-{{ . }}{{ end }} {{ with .Get "grid" }}q-figure-grid{{ end }} {{ with .Get "grid-align" }}q-grid-{{ . }}{{ end }}">
+<figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "grid" }}q-figure-grid{{ end }}{{ with .Get "grid-align" }} q-grid-{{ . }}{{ end }}">
 {{ $idstring := replace (.Get "id") " " "" }}
 {{ $idlist := split $idstring "," }}
 {{ range $idlist }}
@@ -14,9 +14,9 @@
   </div>
     {{ if $.Get "caption" }}
     {{ else }}
-    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span> {{ .caption | markdownify }}</figcaption>
+    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
     {{ end }}
-  </figure class="q-figure__inner-figure">
+  </figure>
   {{ end }}
 {{ end }}
 {{ with .Get "caption" }}
