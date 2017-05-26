@@ -57,6 +57,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi magna nunc, cursu
 
 {{< q-figure-group id="1.5, 1.5, 1.5, 1.5,1.5, 1.5, 1.5, 1.5" grid="4" label="false" caption="Clockwise, from top left: Duis suscipit sodales gravida. Pellentesque ut turpis diam. Donec libero elit, accumsan in sapien in, sodales vestibulum orci." >}}
 
+#### Figure Group shortcode with many images, custom labels and custom caption
+
+```
+{{</* q-figure-group id="30.1a, 30.1b, 30.1c, 30.1d, 30.1e, 30.1f" grid="3" label="true" caption="**Figure 30.1.** Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA." */>}}
+```
+
+{{< q-figure-group id="30.1a, 30.1b, 30.1c, 30.1d, 30.1e, 30.1f" grid="3" label="true" caption="**Figure 30.1.** Selection of metal objects from the Late Minoan town of Gournia that have been analyzed with XRF at the Penn Museum, Philadelphia, PA." >}}
+
+
 #### Figure Group shortcode with images of different sizes
 
 ```
@@ -106,7 +115,7 @@ In the same way you add styles and alternate texts to a shortcode, captions and 
 | `src` | the file name (`fig01.jpg`), and if it’s in a sub-folder within the main `figures` directory, it should include that folder name as well (`comparatives/fig01.jpg`). |
 | `class` |  Add predefined styles to your figures. Supported values are "float-left", "float-right", "small-center", and "plate". More can be added with css. |
 | `alt` | For accessibility, all images should have alternative text descriptions. ([Tips on crafting good alt text.](#link)) Only ever leave blank if the image is purely decorative. |
-| `label` | When using a `figures.yml` document, if label is set to `true`, label text will be automatically generated from the `id` value and with the `imageLabelContentBefore` value defined in your `config.yml` file, and added to your layout under or on the corner of the image, depending on your theme. If not using a `figures.yml` document or if text other than `true` is used, it will override the use of the `imageLabelContentBefore` value, and appear in the label as is. |
+| `label` | When using a `figures.yml` document, if label is set to `true`, label text will be added to your layout under or on the corner of the image, depending on your theme. Quire first looks for a 1label:` field in `figures.yml` and will use that, or if none is found, a label will be automatically generated from the `id` value and with the `imageLabelContentBefore` and `imageLabelContentAfter` values defined in your `config.yml` file. If not using a `figures.yml` document or if text other than `true` is used, the label will appear as given, or not appear at all if use in the `q-figure-group` shortcode. Markdown is supported. |
 | `caption` | The caption to appear below the figure. Special characters are allowed. Use Markdown for formatting. |
 | `grid` | Whole integer values: 2, 3, 4 etc. For use specifically with the `q-figure-group` shortcode.  |
 | `grid-align` | Can be "top" or "bottom". For use specifically with the `q-figure-group` shortcode. Useful for when images in the grid are different sizes.  |
