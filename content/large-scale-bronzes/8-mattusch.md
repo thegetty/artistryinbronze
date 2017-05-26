@@ -15,7 +15,7 @@ weight: 108
 
 The Piombino Apollo has recently undergone new studies of its production, measurements, alloy, and associated inscriptions ([fig. 8.1](#8.1), left). That statue and the similar Apollo from Pompeii ([fig. 8.1](#8.1), right) were installed side-by-side for the first time in the exhibition *Power and Pathos*, which made it possible to compare and contrast the two figures and to raise new questions about their similarities and differences.The Piombino Apollo was discovered underwater and sold at Livorno in 1832; in 1834 it was acquired by the Louvre.[^1] On the statue’s left foot, in capital letters, the phrase “. . . ος Αθαναια δεκαταν” (. . . os dedicated this as a tithe to Athena) was cut in the metal after casting[^2] and inlaid with silver. The image’s peculiar style led to debate over its date that continued until 1967, when Brunilde Sismondo Ridgway argued persuasively that the Piombino Apollo was made in the late Hellenistic period.[^3] Inside the statue were four fragments of a lead tablet, three of which were exhibited in *Power and Pathos*. The lead strips are inscribed with another phrase, in handwriting similar to that on the foot, partially preserving the names of its sculptors: “. . . ηνοδο . . . φων Ροδ\[ι\]ος εποo . . .” (\[M\]enodotos and . . . phon of Rhodes made it).
 
-{{< q-figure id="8.1" >}}
+{{< q-figure id="8.1" class="float-right" >}}
 
 Menodotos of Tyre founded a workshop in Rhodes, for which three generations of his family are recorded, ranging in date from 150 BC to perhaps 50 BC, and two of his descendants also bore the name Menodotos.[^4] These dates have suggested to some that the bronze image from Piombino might have been dedicated to Athena Lindia in Rhodes during the last quarter of the second century BC, and that it was shipped to Italy at some later date.[^5] Sophie Descamps-Lequime has asked, however, whether a statue of a god could be dedicated to another god,[^6] and this leads to the question of whether this kouros necessarily represents Apollo. That is, in what sense might an archaizing kouros be recognized as a statue of that god and yet actually have been dedicated to Athena. One might even ask whether the statue’s buyer believed that this was an Archaic statue, as did many modern scholars. Furthermore, the bronze from Piombino may not have been produced in Rhodes. Menodotos himself came from Tyre, and inscriptions record works by his family-members in Halikarnassos, in Athens, and in Delphi. A versatile family, they produced at least three different types of works: an athletic group, portrait statues, and the archaizing Piombino bronze.[^7] This image is of very high quality, with delicate detailing of the hair, gracefully curving inlaid copper brows and lips, inlaid copper nipples, and almost no evidence of bubbles, patches, or other repairs, beyond the possible repair of one toe.[^8]
 
@@ -59,13 +59,11 @@ Like the previous image, this bronze is slightly under 150 centimeters (59 in.) 
 
 In 1960, a fleshy bronze youth, late Classical in style, poised gracefully on an elaborate base, was excavated at Pompeii, in the House of Marcus Fabius Rufus, the location unspecified ([fig. 8.4](#8.4)).[^21] The height of the statue on its base is 137 or 139 centimeters (ca. 54 in.), of the figure alone 122 centimeters (48 in.). He has long thickly curled luxuriant hair, a fleshy face, and a soft effeminate body. The object he once held aloft in his right hand is now missing, but it may have been a wine-cup, because his left hand held tray supports in the form of grapevines, suggesting that the bearer is a young Bacchus. He is usually identified, but without explanation, as a statue that was repurposed as a lampstand (*lampadēphoros* or *lychnophoros*). On the contrary, it seems more likely that this too was intended as a piece of furniture, designed in the form of a statue.
 
-{{< q-figure id="8.4" >}}
-
 ## The Idolino
 
 The Idolino, now in Florence, was found in 1530 at Pesaro ([fig. 8.5](#8.5)).[^22] The bronze youth was initially identified as a statue by Myron, or, more widely, by Polykleitos, and an elaborate highly decorated base was made for him by Sebastiano Serlio during the 1530s, to which his small round ancient base was affixed. Little attention was paid to the tray-support made of grapevines that was found with the statue. Mario Iozzo has aptly described the Idolino not as a Roman version of a Classical statue, but rather as a “vaguely Polykleitan” piece of furniture.[^23]
 
-{{< q-figure id="8.5" >}}
+{{< q-figure-group id="8.4, 8.5" grid="2" >}}
 
 ## An Ephebe in a Pompeiian Wall-painting
 
@@ -81,7 +79,7 @@ These three-dimensional images, appointments for the luxury household, recall th
 
 An elegantly posed bronze ephebe was netted by fishermen in 1925 near the beach in the Bay of Marathon, with no other finds and no trace of a shipwreck ([fig. 8.7](#8.7)).[^25] The figure was nearly intact, missing only the front of the right foot, which had been separately cast, and a piece of the left heel. Ever since, scholars have argued over what the youth once held on the flattened palm of his left hand, at which he is looking so intently. The Marathon Boy’s right hand is raised, the wrist bent, the thumb and forefinger touching each other, again as if he is holding something. But what was it? Was he pouring liquid into a bowl? Picking fruit and putting it in a bowl? Holding a child, or perhaps a tortoiseshell lyre? Was he holding a box from which he was taking a ribbon? A top? Or was he snapping the fingers of his right hand? Who is he? Is he a young Hermes? Or does the fillet with the leaflike tab at the middle identify him as an athlete?
 
-{{< q-figure id="8.7" >}}
+{{< q-figure-group id="8.7, 8.8" class="float-right" >}}
 
 Some have imagined that the arms had broken off and were restored in Roman times, when he was turned into a lamp-bearer.[^26] But there is no evidence to support this conjecture. The statue was nearly intact when found, with his arms, legs, and head in place. The only point upon which scholars generally agree is that the style is Praxitelean, late fourth-century, or perhaps early Hellenistic. Was he actually made at that time, or was he a later production, made in the ever-popular Classical style?
 

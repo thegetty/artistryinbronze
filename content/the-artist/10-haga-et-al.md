@@ -36,7 +36,7 @@ For more than a century, arguments have been made both for and against the ident
 
 Since the connection between the two sentences is rather abrupt, Jahn suggested it be read as “doryphorum viriliter puerum fecit \[et\] quem canona artifices vocant,” namely, “the sculptor made the Doryphoros and this very statue was called the ‘Canon’ by artists.” It is strange that the subject of such an important and influential work is not mentioned, given that, judging from the number of Roman copies, the Doryphoros was Polykleitos’s most famous work. This reading has therefore been supported by some[^2] but rejected by others.[^3] Furthermore, even to the broadly accepted identification of the “doryphorum viriliter puerum” with the Doryphoros type ([fig. 10.1](#10.1)) an objection has been raised recently.[^4]
 
-{{< q-figure id="10.1" >}}
+{{< q-figure id="10.1" class="float-right" >}}
 
 In this confused situation, we need to reflect again on the series of Roman copies, possibly attributable to the great sculptor: first, the famous (so-called, if necessary) Doryphoros, known to us through more than sixty copies; secondly, the Diadoumenos mentioned by Pliny in the passage cited above as the most costly work of the sculptor, copies of which we have only two (and some more head copies); thirdly, three (or four) Amazon types, each of which was created by Polykleitos, Pheidias, or Kresilas. We also have some types of statues that might originate from disciples or followers of the great master. Of course these pieces of evidence have been available for a long time, but with the help of new technology we have the possibility of obtaining from them some substantial new data.
 
