@@ -28,7 +28,7 @@ Richard Payne Knight (1750–1824), who had acquired twelve of the statuettes, d
 
 Today, this group of bronzes is commonly referred to as the Paramythia Hoard due to the misconception that they were discovered at Paramythia. In 1809, William Martin Leake, a British military man and antiquarian, visited Paramythia and clarified that the bronzes in fact had been discovered just outside of that town.[^8] He described a valley located to the north of Paramythia, “watered by one of the tributaries of the Vuvó” (i.e. Kokytos River), where a village named Lábovo once stood ([fig. 16.15–16](#16.15)). There he observed some architectural fragments as well as broken pottery in neighboring fields. Hammond, who extensively explored Epirus from 1929 to 1939, clarifies the findspot of the bronzes further by connecting Lábovo with the modern site of Liboni (also spelled Limboni).[^9] Liboni has not been excavated, but a number of inscriptions have been found in the vicinity that identify the site as the ancient city of Photike.[^10]
 
-{{< q-figure-group id="16.15, 16.16" grid="2" >}}
+{{< q-figure-group id="16.15, 16.16" >}}
 
 Photike was a Roman colony founded in the first century BC by either Julius Caesar or Augustus.[^11] It is situated at an important crossroads with access to the Kalamas River to the north, the Acheron River to the south, and a mountain pass leading east to Dodona and Ioannina (see [fig. 16.15](#16.15)).[^12] In addition to having an advantageous geographic location, the area has long been considered to be especially fertile. The climate and landscape are well suited to pastoralism, and in antiquity Epirus was famed for the quality of its livestock ([fig. 16.17](#16.17–18)).[^13] The varied terrain could support a broad array of foodstuffs and goods; in addition to livestock, the region is suitable for the cultivation of apple, pear, olive, and almond trees; wheat, barley, and pulses; and is abundant in a variety of timber species: holm oak, poplar, willow, and pine.[^14] It is therefore not surprising that after the sack and devastation of the area by Romans under Aemilius Paullus in 167 BC (including the enslavement of 150,000 inhabitants),[^15] the territory experienced an influx of Roman settlers who took advantage of the economically stricken region.[^16] Roman immigration to northern Epirus took place as early as the third century BC,[^17] and Roman colonies were established at Butrint, Nikopolis, and Photike in the second half of the first century BC.[^18] Archaeological excavations and surveys, most recently the Thesprotia Expedition conducted by the Finnish Institute at Athens,[^19] have uncovered evidence of Roman settlers in the Kokytos Valley to the south of Paramythia, including inscriptions,[^20] farmsteads, and a villa.[^21] The Roman villa, located at Agios Donatos of Zervochori, is situated approximately 9 kilometers (5 miles) south of Paramythia and therefore is unlikely to have been the origin of the Paramythia bronzes.[^22] In his discussion of Thesprotia during the Roman and Late Antique periods, William Bowden has suggested that, as at Roman Butrint, rich suburban villas were likely situated in and around Photike; he further proposes that the Paramythia bronzes once belonged to such a villa.[^23]
 
@@ -56,7 +56,7 @@ I wish to thank the Trustees of the British Museum for allowing me to work on th
 
 In the collection of the British Museum, with current acquisition and catalogue numbers from Walters’s 1899 catalogue. With the exception of no. 5, the identifications are taken from Judith Swaddling’s 1979 paper.
 
-Donated by Richard Payne Knight:
+### Donated by Richard Payne Knight
 
 1. Neptune (?) (inv. 1824,0453.4; Walters no. 274) (originally identified as a Jupiter[^45]) ([fig. 16.1](#16.1))
 
@@ -82,17 +82,15 @@ Donated by Richard Payne Knight:
 
 12. *Lar* (inv. 1824,0437.2; Walters no. 278) (originally identified as a Ganymede) ([fig. 16.12](#16.12))
 
-<hr />
-
-Donated by John Hawkins:
+### Donated by John Hawkins
 
 13. Mirror-case relief depicting Aphrodite and Anchises (inv. 1904,702.1) ([fig. 16.13](#16.13))[^47]
 
 14. Mercury (1904,1010.1) ([fig. 16.14](#16.14))
 
-<hr />
+### Belonging to the Czernicheff Family
 
-Belonging to the Czernicheff family (acquired in St. Petersburg; current locations unknown)[^48]:
+(Acquired in St. Petersburg; current locations unknown.[^48])
 
 15. Jupiter
 
@@ -104,9 +102,7 @@ Belonging to the Czernicheff family (acquired in St. Petersburg; current locatio
 
 19. Draped female figure with diadem (Juno?)
 
-<hr />
-
-Owner / location unknown:
+### Owner/Location Unknown
 
 20. Hercules
 

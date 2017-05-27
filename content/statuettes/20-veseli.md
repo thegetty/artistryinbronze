@@ -34,7 +34,7 @@ The findspot, the Greek colony of Apollonia of Illyria, suggests it was an impor
 
 The statuette ([fig. 20.2](#20.2)) is represented nude; his left arm and foot move forward, while his right leg is straight and his arm is raised and bent. The weight falls on the forward leg. The anatomy of the body is schematic and poorly designed with the main concern being the portrayal of a strong figure of the god. The head rests on a very short neck. The features are of poor quality due to a neglected full cast but also the lack of cold work.
 
-{{< q-figure id="20.2" >}}
+{{< q-figure id="20.2" class="float-right" >}}
 
 This statuette is represented in an attitude very similar to the Zeus of Apollonia (see [fig. 20.1](#20.1a)), but with a notably less quality of execution. All the details that are exceptionally well executed in the statuette from Apollonia are quite neglected here. The coiffure is poorly designed, almost schematic, as is the anatomy of the body, with few close parallels.[^4]
 
