@@ -69,7 +69,7 @@ Three Phrygian and three north Syrian fibulae from Kaman-Kalehöyük were analyz
 
 A few stone and ceramic molds for manufacturing fibulae have been discovered at Kaman-Kalehöyük. The ceramic mold pictured here (KL88-16; [fig. 21.4](#21.4)) was for the manufacture of a Phrygian type fibula.[^29] Evidence of Greek influence is seen in the unfinished fibula (KL90-62; [fig. 21.5](#21.5)) found at Kaman-Kalehöyük.[^30] Although it closely resembles Blinkenberg Type XII 9h[^31] from the region of Ankara, it preserves the remnants of a transverse piece, similar to Blinkenberg Type XII 10a[^32] from Olympia, Greece. A series of studs along the bow and transverse piece would have completed this fibula.
 
-{{< q-figure-group id="21.4, 21.5" grid="2" >}}
+{{< q-figure-group id="21.4, 21.5" >}}
 
 ## Urartian bronzes at Kaman-Kalehöyük
 

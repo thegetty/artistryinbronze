@@ -59,9 +59,9 @@ The photos from the Stein archive show further pieces of bronze sculpture, most 
 
 ## Reconstruction of the Statue Type
 
-The preserved bronze fragments represent less than twenty percent of the statue. However, the bare limbs suggest that it was an undraped male. And with the position of the arm one can infer a statue with a raised arm, leaning on a spear ([fig. 22.8](#22.8)). The princely pose and the size of the sculpture indicate that it represented a ruler, even if a diadem is not preserved.
+{{< q-figure id="22.8" class="float-right" >}}
 
-{{< q-figure id="22.8" >}}
+The preserved bronze fragments represent less than twenty percent of the statue. However, the bare limbs suggest that it was an undraped male. And with the position of the arm one can infer a statue with a raised arm, leaning on a spear ([fig. 22.8](#22.8)). The princely pose and the size of the sculpture indicate that it represented a ruler, even if a diadem is not preserved.
 
 Trudy S. Kawami (1987) noted that “the presence of such an important work so far from a major city is difficult to explain.”[^26] However, judging from the first results of the Iranian-Italian excavations at Kal-e Chendar, the sculpture was erected at one of the most important religious places of ancient Elymais. From a Mediterranean point of view, the quality and “Greekness” of the reassembled statue may cause surprise, especially given its discovery in Iran. However, this just points out our limited knowledge of Hellenism in the regions east of the Tigris River.
 

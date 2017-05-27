@@ -21,11 +21,13 @@ Since the object’s location was unknown to these scholars, neither of them had
 
 *The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#28.1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile and it is the same width as the nose. A gentle rounded curve constitutes the chin.
 
-{{< q-figure id="28.1" >}}
+<!-- {{< q-figure id="28.1" >}} -->
+
+{{< q-figure-group id="28.1, 28.4, 28.2, 28.3" grid="2" >}}
 
 The head of the figure, which is raised slightly to the right, is crowned by a thick cap of hair composed of short, defined locks that hide the forehead, the ears, and the nape of the neck. They frame the face and give it a distinct presence. Although the locks of hair are irregular in direction, they are all pointed, striated, and more or less the same size. The front locks are in two rows. On the left side, the front row is directed back with only one pointing toward the cheek ([fig. 28.2](#28.2)); on the right, only two locks fall toward the back ([fig. 28.3](#28.3)). One elevated lock is positioned on either side of the round opening at the crown of the head, indicating where the hinges of the handle would have been. Curls of hair in low relief cover the remaining space around the rim opening ([fig. 28.4](#28.4)). Below the crown, the strands gain volume and fall in wavy locks at the back of the neck. They are combed in different directions and untangle at the nape.
 
-{{< q-figure-group id="28.2, 28.3, 28.4" grid="3" >}}
+
 
 The young man wears a torque around his thick neck. Suspended from the torque is a crescent-shaped pendant. The crescent is open at the bottom and ornamented with three beads, one at each end and another in the middle, just at the level of the ribbed ring.
 
@@ -41,11 +43,9 @@ The figure is draped in a *nebris*, the diagonal folds of which gather on the le
 
 *Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5–1 centimeter (1/4–3/8 in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#28.6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#28.8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 3/4 x 4 3/8 in.).
 
-{{< q-figure-group id="28.6, 28.7" grid="2" >}}
+{{< q-figure-group id="28.6, 28.7, 28.8" class="float-right" >}}
 
 The hatching technique employed to define the eyebrows and the fur, as well as the whitish coloration left in the eyes, are cold work.[^6]
-
-{{< q-figure id="28.8" >}}
 
 The footed pedestal and the spout were also fixed after the casting. The former is attested on a few known examples,[^7] while the faceted shape of the spout is unusual; it was evidently soldered to the vessel. However, there is a group of anthropomorphic vessels that were cast with a short spout and two handles.[^8] In addition, oinochoai were commonly cast with a neck ending in a spout and a single handle. One anthropomorphic example was found in Banias (Syria) with a zoomorphic handle resembling the Beirut vessel.[^9]
 

@@ -38,7 +38,7 @@ As previously stated, contextualization is problematic at Delphi, but neverthele
 
 Open shapes are predominant. Among them we find the *phialai mesomphaloi*—the drinking vessels and the libation vases *par excellence*—both in the “plain” and in the “lotus-bowl” versions together with large, deep bowls ([fig. 25.3](#25.3)). Kantharoi, kylikes and other handled cups, skyphoi, and mugs are far less attested, while handles are the only surviving parts of paterae.
 
-{{< q-figure id="25.3" >}}
+{{< q-figure id="25.3" class="float-right" >}}
 
 Various types of large and medium-size basins are widely documented, as well as *deinoi* (spherical mixing vessels) with their characteristic profile. I could identify the presence of at least two fragments pertaining to basins with embossed rims, a shape that was not attested previously at Delphi.[^18] These vessels provide clues to the attendance at the sanctuary, or rather to the circulation of bronze objects. The shape of the basins is of certain Etruscan origin and the majority of the specimens known so far come from the Tyrrhenian area and from the central Italian peninsula. Nevertheless, the vessel type is widely documented, from the barbarian contexts of central-western Europe to central-eastern Mediterranean. In Greece, these basins are definitely rare and occur in only a few sites, namely sanctuaries, including Olympia.[^19] In the last few decades, the version bearing a single row of bosses—like the specimens attested at Delphi—has been noticed in eastern Sicily, where these vessels mainly occur in graves as funerary receptacles:[^20] the proposal of local production has been advanced, based on technical and morphological features. In Southern Italy as well, the discovery of a homogeneous group of basins of this type—mostly coming from the sanctuary of Scrimbia at Hipponion in southern Calabria[^21]—showing close affinities with the Sicilian group, corroborates the hypothesis of a western Greek manufacture inspired by Etruscan prototypes. Technical details would in some cases support the Greek colonial provenance of some of the basins found in Greece. In the case of the fragments from Delphi, which do not preserve their entire profile, it would be difficult to ascertain their origin, apart from their western provenance: a south Italian or Sicilian production remains conjectural, though highly probable.
 
@@ -48,17 +48,17 @@ A few pieces attest to the presence of small forms like pyxides, *bombylioi*, bo
 
 Large closed shapes, which can be recognized as hydriai*,* olpai, and oinochoai*,* are mainly documented by fragments or miniature versions, with some exceptions. One is the known hydria dating to the mid-fifth century BC, which served as a cinerary urn in a tomb unearthed during the excavations for the building of the new museum.[^23] Another example is a small, refined trefoil oinochoe, which can be compared with Macedonian specimens of the fourth century BC.[^24]
 
-As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphologies ([fig. 25.4](#25.4)).
+<!-- {{< q-figure id="25.4" class="float-right" >}} -->
 
-{{< q-figure id="25.4" >}}
+{{< q-figure-group id="25.4, 25.5, 25.6, 25.7" class="float-right" >}}
+
+As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphologies ([fig. 25.4](#25.4)).
 
 Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5–6](#25.5)).
 
-{{< q-figure-group id="25.5, 25.6" grid="2" >}}
-
 Among the *instrumenta*, lamps are attested especially in the late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.7](#25.7)).[^26]
 
-{{< q-figure id="25.7" >}}
+<!-- {{< q-figure id="25.7" >}} -->
 
 Finally, we find a group of “vertical” instruments, namely candelabra, *kottaboi* (stands used in the drinking game *kottabos*), and other such articles. Some pieces—in particular a few curved arms with decorated finials showing serpent heads or floral motifs—are probably to be interpreted as parts of utensil stands, a rare class that is better known in western Greece, thanks to some specimens from Epizephyrian Lokroi (Locri, in Calabria).[^27]
 
