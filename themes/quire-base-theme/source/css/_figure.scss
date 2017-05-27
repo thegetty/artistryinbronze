@@ -92,51 +92,58 @@
 
   &__table-wrapper {
 
-    table {
-      width: 100%;
-      line-height: $small-font-line-height;
-      border-collapse: collapse;
-      margin: $base-spacing 0;
-      table-layout: fixed;
-
-      caption {
-        font-weight: 700;
-        margin-bottom: $base-spacing * .5;
-      }
-
-      ul {
-        list-style-type: none;
-        margin: 0;
-        padding-left: 0;
-        li {
-          margin-bottom: $base-spacing * .25;
-        }
-      }
-
-    }
+    // table {
+    //   width: 100%;
+    //   line-height: $small-font-line-height;
+    //   border-collapse: collapse;
+    //   margin: $base-spacing 0;
+    //   table-layout: fixed;
+    //
+    //   caption {
+    //     font-weight: 700;
+    //     margin-bottom: $base-spacing * .5;
+    //   }
+    //
+    //   ul {
+    //     list-style-type: none;
+    //     margin: 0;
+    //     padding-left: 0;
+    //     li {
+    //       margin-bottom: $base-spacing * .25;
+    //     }
+    //   }
+    //
+    // }
+    //
+    // th {
+    //   font-weight: bold;
+    //   padding-top: $base-spacing * .5;
+    //   padding-right: $base-spacing * .25;
+    //   padding-bottom: $base-spacing * .5;
+    //   padding-left: 0;
+    //   text-align: left;
+    //   overflow: hidden;
+    // }
+    //
+    // td {
+    //   padding-top: $base-spacing * .5;
+    //   padding-right: $base-spacing * .25;
+    //   padding-bottom: $base-spacing * .5;
+    //   padding-left: 0;
+    //   overflow: hidden;
+    // }
+    //
+    // tr,
+    // td,
+    // th {
+    //   vertical-align: middle;
+    // }
 
     th {
-      font-weight: bold;
-      padding-top: $base-spacing * .5;
-      padding-right: $base-spacing * .25;
-      padding-bottom: $base-spacing * .5;
-      padding-left: 0;
-      text-align: left;
-      overflow: hidden;
+      border-bottom: 0;
     }
-
     td {
-      padding-top: $base-spacing * .5;
-      padding-right: $base-spacing * .25;
-      padding-bottom: $base-spacing * .5;
-      padding-left: 0;
-      overflow: hidden;
-    }
-
-    tr,
-    td,
-    th {
-      vertical-align: middle;
+      border-bottom: 0;
     }
 
     &.q-center-head {

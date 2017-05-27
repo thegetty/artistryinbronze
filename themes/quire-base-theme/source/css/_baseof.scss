@@ -80,6 +80,59 @@ hr:after {
   letter-spacing: $base-spacing * .8;
 }
 
+table {
+  width: 100%;
+  line-height: $small-font-line-height;
+  border-collapse: collapse;
+  margin: $base-spacing 0;
+  table-layout: fixed;
+
+  caption {
+    font-weight: 700;
+    margin-bottom: $base-spacing * .5;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    li {
+      margin-bottom: $base-spacing * .25;
+    }
+  }
+
+}
+
+th {
+  border-bottom: 1px solid $dark-neutral;
+  font-weight: bold;
+  padding-top: $base-spacing * .5;
+  padding-right: $base-spacing * .25;
+  padding-bottom: $base-spacing * .5;
+  padding-left: 0;
+  text-align: left;
+  overflow: hidden;
+}
+
+td {
+  border-bottom: 1px solid $mid-neutral;
+  padding-top: $base-spacing * .5;
+  padding-right: $base-spacing * .25;
+  padding-bottom: $base-spacing * .5;
+  padding-left: 0;
+  overflow: hidden;
+}
+
+tfoot td {
+  border-bottom: 0;
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}
+
 .quire-publisher:after {
   content: ', ';
 }
