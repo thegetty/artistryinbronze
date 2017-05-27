@@ -69,9 +69,11 @@ Copper-based artifacts have been infrequently found at Copper-Bronze Age sites i
 
 ## Viking Age Norway
 
-By the Viking Age, both bronze and brass were widely used. Nondestructive analyses using a pXRF were conducted in the Stavanger Museum, Norway, to test for any patterns and provide information for the museum’s catalog and display. Among the nearly thirty copper-based objects tested, a cruciform brooch copy stands out as a typical bronze with only tin (9.4%) intentionally added ([fig. 36.4](#36.4)). All other items tested were brass, with zinc ranging from just a few percent to more than twenty, and more than half also had tin and/or lead **(table 36.1**). The range among the percentages for each of these three elements also supports the likelihood of recycling rather than primary production of brass objects.
+By the Viking Age, both bronze and brass were widely used. Nondestructive analyses using a pXRF were conducted in the Stavanger Museum, Norway, to test for any patterns and provide information for the museum’s catalog and display. Among the nearly thirty copper-based objects tested, a cruciform brooch copy stands out as a typical bronze with only tin (9.4%) intentionally added ([fig. 36.4](#36.4)). All other items tested were brass, with zinc ranging from just a few percent to more than twenty, and more than half also had tin and/or lead ([table 36.1](#table-36.1)). The range among the percentages for each of these three elements also supports the likelihood of recycling rather than primary production of brass objects.
 
 {{< q-figure id="36.4" >}}
+
+{{< q-table id="36.1" scale=".8" border="horizontal" >}}
 
 ## On-site Analysis in Calabria Using pXRF
 
@@ -97,11 +99,13 @@ In the Tampa Museum, two northern Greek bracelets (TMA 1996.024.001/2) have cons
 
 {{< q-figure id="36.8" >}}
 
-The Orlando Museum has many metal objects labeled as “gold” but analyses by pXRF show that most are actually alloys, with high percentages of silver and copper as well (OMA 2003.078.1-2) ([fig. 36.9a](#36.9a)). Many others are listed as tumbaga (Cu-Ag-Au alloy), but contain no gold or silver (**table 36.2**). Starting in pre-Inca times, depletion gilding—involving acid treatment and oxidation of the surface—was used to make the immediate surface mostly gold, so XRF analyses result in varying concentrations depending on depth. Many other objects in the museum were simply labeled as “copper” or “metal”, with analyses revealing many that are arsenical copper (OMA 2004.104.1-4), [fig. 36.9b](#36.9b)), and just a few that are bronze (with just 2–3% Sn) (OMA 2004.032) ([fig. 36.9a](#36.9c). One artifact, a knife (OMA 2004.074), has a high percentage of zinc, which was not used in Moche (pre-Columbian) times in the Americas, and thus is not authentic ([fig. 36.9d](#36.9d)).
+The Orlando Museum has many metal objects labeled as “gold” but analyses by pXRF show that most are actually alloys, with high percentages of silver and copper as well (OMA 2003.078.1-2) ([fig. 36.9a](#36.9a)). Many others are listed as tumbaga (Cu-Ag-Au alloy), but contain no gold or silver ([table 36.2](#table-36.2)). Starting in pre-Inca times, depletion gilding—involving acid treatment and oxidation of the surface—was used to make the immediate surface mostly gold, so XRF analyses result in varying concentrations depending on depth. Many other objects in the museum were simply labeled as “copper” or “metal”, with analyses revealing many that are arsenical copper (OMA 2004.104.1-4), [fig. 36.9b](#36.9b)), and just a few that are bronze (with just 2–3% Sn) (OMA 2004.032) ([fig. 36.9a](#36.9c). One artifact, a knife (OMA 2004.074), has a high percentage of zinc, which was not used in Moche (pre-Columbian) times in the Americas, and thus is not authentic ([fig. 36.9d](#36.9d)).
 
 {{< q-figure-group id="36.9a, 36.9b" grid="2" >}}
 
 {{< q-figure-group id="36.9c, 36.9d" grid="2" >}}
+
+{{< q-table id="36.2" scale=".4" border="all" >}}
 
 ## Etruscan Bronze Mirrors in the Southeast United States
 

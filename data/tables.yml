@@ -1,5 +1,52 @@
 table_list:
 
+  - id: "12.1"
+    caption: "Erechtheion craftsmen working in more than one trade. Athenian Building Commission, ca. 409–405 BC. After Randall 1953"
+    media_type: html
+    table: |
+      <table>
+      	<thead>
+      		<tr><th>Name</th><th>Carpenter</th><th>Joiner</th><th>Laborer</th><th>Mason</th><th>Modeller in Wax</th><th>Sculptor</th><th>Woodcarver</th></tr>
+      	</thead>
+      	<tbody>
+      		<tr><th>Aganthor - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td></td></tr>
+      		<tr><th>Kephisodoros - <em>metic</em></th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+      		<tr><th>Manis - <em>metic</em></th><td>2</td><td>2</td><td>2</td><td></td><td></td><td></td><td>1</td></tr>
+      		<tr><th>Mikion - <em>metic</em></th><td>3</td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
+      		<tr><th>Sindron - slave</th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+      		<tr><th>Neseus - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td></td><td>1</td></tr>
+      		<tr><th>Teukros - <em>metic</em></th><td></td><td></td><td>1</td><td>3</td><td></td><td></td><td></td></tr>
+      		<tr><th>Theodotos - citizen</th><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr>
+      	</tbody>
+      	<tfoot>
+      		<tr><td colspan="8">Numbers denote the frequency of working a specific trade</td></tr>
+      	</tfoot>
+      </table>
+
+  - id: "12.2"
+    caption: "Breakdown of trades of Erechtheion workmen by civic status. Athenian Building Commission, ca. 409–405 BC. After Randall 1953"
+    media_type: html
+    table: |
+      <table>
+      	<thead>
+      		<tr><th></th><th>Citizens</th><th>Metrics</th><th>Slaves</th><th>Unknown</th><th>Total</th></tr>
+      	</thead>
+      	<tbody>
+      		<tr><th>Architects</th><td>2</td><td></td><td></td><td></td><td>2</td></tr>
+      		<tr><th>Under-Secretary</th><td>1</td><td></td><td></td><td></td><td>1</td></tr>
+      		<tr><th>Mason</th><td>9</td><td>12</td><td>16</td><td>7</td><td>44</td></tr>
+      		<tr><th>Sculptors</th><td>3</td><td>5</td><td></td><td>1</td><td>9</td></tr>
+      		<tr><th>Wax Modellers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
+      		<tr><th>Woodcarvers</th><td>1</td><td>5</td><td></td><td>1</td><td>7</td></tr>
+      		<tr><th>Carpenters</th><td>5</td><td>7</td><td>4</td><td>3</td><td>19</td></tr>
+      		<tr><th>Painters</th><td></td><td>2</td><td></td><td>1</td><td>3</td></tr>
+      		<tr><th>Laborers</th><td>1</td><td>5</td><td></td><td>3</td><td>9</td></tr>
+      	</tbody>
+      	<tfoot>
+      		<tr><th>Totals</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
+      	</tfoot>
+      </table>
+
   - id: "30.1"
     caption: Results of XRF Analyses on Metal Objects from Gournia
     media_type: html
@@ -49,6 +96,82 @@ table_list:
       		<tr> <td>Sulphides</td> <td>Chalcocite</td> <td>Cu<sub>2</sub>S</td> <td>Black</td> </tr>
       		<tr> <td></td> <td>Covellite</td> <td>CuS</td> <td>Black</td> </tr>
       		<tr> <td>Sulphate</td> <td>Brochantite</td> <td>CuS0<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
+      	</tbody>
+      </table>
+
+  - id: "36.1"
+    caption:
+    media_type: html
+    table: |
+      <table>
+      	<thead>
+      	<tr> <th>Sample</th> <th>Cu</th> <th>Zn</th> <th>As</th> <th>Pb</th> <th>Sn</th> <th>Fe</th> </tr>
+      	</thead>
+      	<tbody>
+      		<tr> <td>Cruciform broach</td> <td>89.9</td> <td>0.1</td> <td>0.0</td> <td>0.5</td> <td>9.4</td> <td>0.0</td> </tr>
+      		<tr> <td>S411</td> <td>73.6</td> <td>24.3</td> <td>0.2</td> <td>0.9</td> <td>0.5</td> <td>0.0</td> </tr>
+      		<tr> <td>S826-1</td> <td>88.1</td> <td>9.1</td> <td>0.1</td> <td>0.9</td> <td>1.2</td> <td>0.1</td> </tr>
+      		<tr> <td>S826-2</td> <td>80.0</td> <td>16.8</td> <td>0.1</td> <td>0.9</td> <td>1.6</td> <td>0.1</td> </tr>
+      		<tr> <td>S828</td> <td>80.7</td> <td>6.1</td> <td>0.1</td> <td>1.9</td> <td>9.5</td> <td>0.1</td> </tr>
+      		<tr> <td>S1009</td> <td>86.0</td> <td>11.7</td> <td>0.1</td> <td>0.7</td> <td>0.6</td> <td>0.2</td> </tr>
+      		<tr> <td>S1558</td> <td>80.7</td> <td>16.5</td> <td>0.2</td> <td>1.4</td> <td>0.6</td> <td>0.1</td> </tr>
+      		<tr> <td>S1882</td> <td>85.6</td> <td>8.2</td> <td>0.0</td> <td>4.3</td> <td>1.2</td> <td>0.2</td> </tr>
+      		<tr> <td>S1889</td> <td>88.2</td> <td>9.8</td> <td>0.1</td> <td>0.7</td> <td>0.5</td> <td>0.1</td> </tr>
+      		<tr> <td>S2095</td> <td>65.6</td> <td>2.8</td> <td>0.0</td> <td>10.0</td> <td>17.4</td> <td>2.6</td> </tr>
+      		<tr> <td>S2272</td> <td>85.9</td> <td>8.7</td> <td>0.4</td> <td>1.3</td> <td>2.6</td> <td>0.5</td> </tr>
+      		<tr> <td>S2351</td> <td>77.2</td> <td>19.8</td> <td>0.1</td> <td>0.4</td> <td>2.0</td> <td>0.0</td> </tr>
+      		<tr> <td>S2552</td> <td>81.4</td> <td>10.4</td> <td>0.5</td> <td>4.3</td> <td>2.7</td> <td>0.3</td> </tr>
+      		<tr> <td>S2820</td> <td>81.9</td> <td>16.4</td> <td>0.0</td> <td>0.5</td> <td>0.5</td> <td>0.1</td> </tr>
+      		<tr> <td>S2852</td> <td>85.1</td> <td>11.8</td> <td>0.0</td> <td>0.6</td> <td>1.8</td> <td>0.1</td> </tr>
+      		<tr> <td>S3162-a</td> <td>92.1</td> <td>4.9</td> <td>0.2</td> <td>1.4</td> <td>0.7</td> <td>0.1</td> </tr>
+      		<tr> <td>S3162-b/c</td> <td>88.3</td> <td>9.1</td> <td>0.1</td> <td>1.1</td> <td>0.6</td> <td>0.1</td> </tr>
+      		<tr> <td>S3168</td> <td>82.4</td> <td>11.8</td> <td>1.5</td> <td>1.7</td> <td>0.9</td> <td>1.0</td> </tr>
+      		<tr> <td>S3237</td> <td>75.8</td> <td>22.7</td> <td>0.2</td> <td>0.3</td> <td>0.4</td> <td>0.0</td> </tr>
+      		<tr> <td>S3426</td> <td>82.4</td> <td>15.7</td> <td>0.1</td> <td>0.6</td> <td>0.5</td> <td>0.1</td> </tr>
+      		<tr> <td>S3857</td> <td>81.7</td> <td>16.5</td> <td>0.0</td> <td>0.6</td> <td>0.5</td> <td>0.0</td> </tr>
+      		<tr> <td>S4083</td> <td>80.1</td> <td>10.1</td> <td>0.0</td> <td>8.4</td> <td>1.8</td> <td>0.0</td> </tr>
+      		<tj
+      		<tr> <td>S4690</td> <td>82.5</td> <td>13.5</td> <td>1.6</td> <td>0.8</td> <td>0.5</td> <td>0.4</td> </tr>
+      		<tr> <td>S7129</td> <td>84.8</td> <td>6.0</td> <td>0.5</td> <td>2.9</td> <td>4.2</td> <td>1.1</td> </tr>
+      		<tr> <td>S8352</td> <td>84.8</td> <td>9.6</td> <td>1.0</td> <td>2.0</td> <td>1.2</td> <td>0.8</td> </tr>
+      		<tr> <td>S12295</td> <td>67.8</td> <td>6.2</td> <td>1.0</td> <td>15.9</td> <td>5.3</td> <td>2.5</td> </tr>
+      		<tr> <td>S12720</td> <td>70.6</td> <td>8.0</td> <td>2.6</td> <td>10.7</td> <td>5.9</td> <td>1.0</td> </tr>
+      	</tbody>
+      </table>
+
+  - id: "36.2"
+    caption:
+    media_type: html
+    table: |
+      <table>
+      	<thead>
+      		<tr> <th>OMA no.</th> <th>Object Description</th> <th>Cu</th> <th>Sn</th> <th>As</th> <th>Pb</th> <th>Ag</th> <th>Au</th> <th>Fe</th> <th>Zn</th> <th>Ca</th> </tr>
+      	</thead>
+      	<tbody>
+      		<tr> <td>2002.018</td> <td>Botanical Frog Bead, AD 700-1000, Moche. Gold</td> <td>13.2</td> <td></td> <td></td> <td></td> <td>14.6</td> <td>72.3</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2002.057</td> <td>Teeth Design Mouthpiece, AD 300-700, Moche. Gold</td> <td>27.8</td> <td></td> <td></td> <td></td> <td>17.0</td> <td>55.2</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2003.078.1</td> <td>Plume, AD 300-700, Nasca. Gold</td> <td>1.9</td> <td></td> <td></td> <td></td> <td>29.8</td> <td>68.3</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2003.078.2</td> <td>Plume, AD 300-700, Nasca. Gold</td> <td>4.5</td> <td></td> <td></td> <td></td> <td>23.0</td> <td>72.6</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.029</td> <td>Ornament, AD 100-300, Chimu. Copper</td> <td>93.0</td> <td></td> <td>4.1</td> <td></td> <td></td> <td></td> <td>3.0</td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.03</td> <td>Ring with two birds, AD 1100-1400, Chimu.</td> <td>97.4</td> <td>2.6</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.032</td> <td>Crocodile tumi, AD 1100-1400, Chimu. Copper/tumbaga</td> <td>97.7</td> <td>2.3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.052</td> <td>Tumi, AD 1100-1400, Lambayeque/Chimu. Copper</td> <td>90.4</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td>2.0</td> <td></td> <td>1.9</td> </tr>
+      		<tr> <td>2004.053</td> <td>Tumi, AD 200-700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.054</td> <td>Tumi, AD 200-700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.5</td> <td></td> <td>1.5</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.071</td> <td>Spoon, AD 200-500</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.074</td> <td>Top of knife, AD 450-550, Moche. Copper</td> <td>46.4</td> <td></td> <td></td> <td>1.7</td> <td></td> <td></td> <td>8.0</td> <td>35.2</td> <td>8.7</td> </tr>
+      		<tr> <td>2004.080.1</td> <td>Ear Spools, AD 1100-1400, Moche? Copper</td> <td>60.4</td> <td></td> <td>1.0</td> <td></td> <td>38.5</td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.080.2</td> <td>Ear Spools, AD 1100-1400, Moche? Copper</td> <td>42.7</td> <td></td> <td>0.7</td> <td></td> <td>56.6</td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.096</td> <td>Vessel of a figure, AD 200-400, Nasca</td> <td>2.4</td> <td></td> <td></td> <td></td> <td>31.2</td> <td>66.4</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.097</td> <td>Tweezers, AD 500-800, Nasca. Gold</td> <td>3.7</td> <td></td> <td></td> <td></td> <td>24.9</td> <td>71.4</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.104.1</td> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>92.6</td> <td></td> <td>7.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.104.2</td> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.104.3</td> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.104.4</td> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>94.3</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.112.1</td> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>97.2</td> <td></td> <td>2.8</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.112.2</td> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>94.6</td> <td></td> <td>5.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.112.3</td> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>97.0</td> <td></td> <td>3.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <td>2004.112.4</td> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>86.4</td> <td></td> <td></td> <td></td> <td>11.7</td> <td></td> <td>1.8</td> <td></td> <td></td> </tr>
       	</tbody>
       </table>
 
