@@ -43,7 +43,7 @@ Other bronze and copper parts related to the Derveni case were retrieved from th
 
 - Lid B 90b ([fig. 32.2c](#32.2c), bottom middle) is a small square bronze lid with a ring handle, perhaps a replacement part. It is 5.3 centimeters long, and 4.5 centimeters wide. The bronze sheet is again 0.1 centimeter thick. The diameter of the ring (handle) is 1 centimeter, while the latch holes are 2.5 centimeters from the left side and 2.3 centimeters from the right.
 
-- The bronze top of B 90c ()[fig. 32.2c](#32.2c), bottom right) is flat and perforated, decorated with incised lines. It was probably fitted with a small cylinder made of a single flat sheet fastened with a bronze nail; this is evidently the lid of an inbuilt inkwell. It is 5.1 centimeters long and 4.9 centimeters wide, with a sheet thickness of 0.1 centimeter. The diameter of the perforation is 1.4 centimeters.
+- The bronze top of B 90c ([fig. 32.2c](#32.2c), bottom right) is flat and perforated, decorated with incised lines. It was probably fitted with a small cylinder made of a single flat sheet fastened with a bronze nail; this is evidently the lid of an inbuilt inkwell. It is 5.1 centimeters long and 4.9 centimeters wide, with a sheet thickness of 0.1 centimeter. The diameter of the perforation is 1.4 centimeters.
 
 - Case B 43 has two miniature, undecorated, semi-spherical bowls of hammered copper. They contained remains of a dark cake, of a nature similar to that of the “clays” in Case B 35. The dimensions of the bowls (4.4 cm in diameter, height 2.1 cm) permit the hypothesis that they could originally have fit inside the compartments of the case.
 
@@ -73,7 +73,7 @@ The lid (Py 683, [fig. 32.3](fig.e 32.3), top) consists of a single flat sheet w
 
 Case B is also a bronze semi-cylindrical (Py 692), preserved at the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki. It too comes from Pydna, from the same tomb as Case A ([fig. 32.4](#32.4)).
 
-{{< q-figure id="32.4" >}}
+{{< q-figure id="32.4" class="float-right" >}}
 
 Case B is a semi-cylindrical case with three compartments, but it is shorter than Case A. Only the body is preserved, with visible marks on the places where the compartment dividers once were. It is also possible that some of the top parts attributed to Case A belong to this case instead.
 
@@ -81,7 +81,7 @@ The body consists of one nearly complete semi-cylindrical curved sheet, mended b
 
 A third case from the Pydna tomb, Case C, is once again a bronze semi-cylindrical case with a perforated top. It is preserved in the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki (inv. Py 644, Py 645, Py 687, Py 689, Py 690; [fig. 32.5](fig.e 32.5)).
 
-{{< q-figure id="32.5" >}}
+{{< q-figure id="32.5" class="float-right" >}}
 
 Case C is a single compartment case with a recessed top with a square perforation. In the recess fits a bronze “palette” that can slide to cover or uncover the perforation. A lid slightly larger than the top and with a similar perforation was probably fitted on it.
 

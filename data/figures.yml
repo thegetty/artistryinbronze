@@ -1799,16 +1799,19 @@ figure_list:
       Separately cast sections of the statue. Drawing: I. Karniš Vidovič and K. Certić, 2015 (HRZ)
 
   - id: "43.4a"
+    label: "a"
     src: fig_43.04a_Karnis.jpg
     caption: >
       Joining areas: Head. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
 
   - id: "43.4b"
+    label: "b"
     src: fig_43.04b_Karnis.jpg
     caption: >
       Joining areas: Right arm-torso. Archaeological drawing: K. J. Rončević, 2005 (HRZ)
 
   - id: "43.4c"
+    label: "c"
     src: fig_43.04c_Karnis.jpg
     caption: >
       Joining areas: Pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)

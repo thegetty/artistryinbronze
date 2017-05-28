@@ -34,7 +34,7 @@ After a first and necessary desalination, several sampling and analytical campai
 
 In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](#43.2)).
 
-{{< q-figure id="43.2" class="float-left" >}}
+{{< q-figure id="43.2" >}}
 
 The metal structure in the samples was found to be very heterogeneous and spongy, showing penetration of corrosion into the bronze wall on both sides (interior and exterior), especially on the rear of the statue that had been buried in sand on the seabed. Experts from the OPD performed several analyses to examine the samples, using stereomicroscopy, stratigraphic investigation under an optical microscope, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), and inductively coupled plasma atomic emission (ICP-AES).
 
@@ -72,7 +72,7 @@ Our examination confirmed that the statue had been produced by an indirect lost-
 
 The statue is made of seven main parts (head, torso, legs, arms, and genitals). Arms, legs, and genitals were joined to the torso by flow fusion welding. The head was soldered onto the neck. The plinth parts were also soldered together and the feet were then soldered to the plinth ([fig. 43.3](#43.3)).
 
-{{< q-figure id="43.3" >}}
+{{< q-figure id="43.3" class="float-right" >}}
 
 The head was cast in one piece, with a bronze wall 5 to 8 mm thick. A large casting defect under the left eye was repaired by a secondary casting; smaller rectangular patches closed the core pin holes. The head-to-neck join has a very typical path with right-angle corners below the ears and platforms between the head and the neck in order to accommodate the soldering. The eye inserts are unfortunately lost but the lips are still there. They are made of unalloyed copper that was inserted into rectangular mounting channels, and finally hammered in place.
 
@@ -84,17 +84,17 @@ The hands were joined to the arms by a wax-to-wax method. Some of the fingers we
 
 Before assembly, the casting core was removed from all parts of the statue. The statue was joined in five phases: (1) the arms to the torso; (2) the complex leg area (first the right leg, then the left); (3) the pubic area and genitals; (4) soldering the head onto the neck; and (5) soldering the feet onto the plinth. Joins 1–3 were performed using a flow fusion welding technique in basins for legs and arms (secondary castings of bronze). All welding areas had to be repaired with multiple patches.
 
-All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4](fig, 43.4)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
+All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
-{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" label="false" caption="Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg. Archaeological drawing: K. J. Rončević, 2005 (HRZ)" >}}
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg. Archaeological drawings: K. J. Rončević, 2005 (HRZ)" >}}
 
 This re-examination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
 ## New Sampling Campaign (2013–2015)
 
-Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5](#43.5)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–c](#fig-43.5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
-{{< q-figure id="43.5" >}}
+{{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" >}}
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in [table 43.1](#table-43.1).
 

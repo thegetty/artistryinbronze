@@ -70,7 +70,7 @@ After each application, the electrolytic solution used was collected to check th
 
 Cysteine was tested on another fragment of a tinned copper-alloy artifact from the same marine site. The piece was immersed in 1% (w/v) solution of cysteine in deionized water for 3 hours as opposed to 24 hours as tested by the other studies. After slight rinsing with a soft brush, it was placed in a climatic chamber for 24 hours at 70% RH with an untreated fragment from the same artifact, for comparative purposes. The cysteine-treated piece was found to be stable while the other had signs of active corrosion. For the frying pan, it was decided to apply the cysteine with a paintbrush every 2 hours over 3 days. Again after light rinsing with a soft brush, it was left to dry in a polystyrene box on top of polyethylene foam, with silica gel to help dry it gradually. [Figure 38.8](#38.8) shows the base of the frying pan before (a) and after (b) treatment, and indicates that, apart from a slight graying effect, both electrolysis and the application of L-cysteine maintained the patina appearance. One year after treatment, the frying pan remains stable in storage with no signs of active corrosion. The conservation work for the object still needs to be completed by deciding whether a coating will be used as well as the best method for restoring it for future display in a museum in Rhodes.
 
-{{< q-figure id="38.8" >}}
+{{< q-figure-group id="38.8a, 38.8b" grid="2" >}}
 
 ## Conclusions
 
