@@ -123,6 +123,11 @@ td {
   overflow: hidden;
 }
 
+tbody th {
+    font-weight: 300;
+    border-bottom-color: $mid-neutral;
+}
+
 tfoot td {
   border-bottom: 0;
 }
