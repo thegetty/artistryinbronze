@@ -2,8 +2,8 @@
   <ul>
     {{ with .Prev }}
     <li>
-      <a href="{{ .Permalink }}" rel="previous">
-        <svg><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+      <a href="{{ .Permalink }}" rel="previous" id="js-prev" >
+        <svg height="1em" width="1em"><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
         <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
       </a>
     </li>
@@ -49,8 +49,8 @@
 
     {{ with .Next }}
     <li>
-      <a href="{{ .Permalink }}" rel="next">
-        <svg><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+      <a href="{{ .Permalink }}" rel="next" id="js-next">
+        <svg width="1em" height="1em"><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
         <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
       </a>
     </li>
