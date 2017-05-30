@@ -2,12 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The-artists on </title>
-    <link>/the-artist/</link>
+    <link>/the-artist/index.xml</link>
     <description>Recent content in The-artists on </description>
     <generator>Hugo -- gohugo.io</generator>
-    
-	<atom:link href="/the-artist/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="/the-artist/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Artist</title>
@@ -24,7 +22,239 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/the-artist/9-adornato/</guid>
-      <description>1. Defining the Severe-style Period The artistic revolution in Greek sculpture is generally associated with one fundamental historical event, the Persian Wars; with two of the most important sculptors of the late sixth–early fifth century BC, Kritios and Nesiotes; and with a sculptural group: the Tyrannicides. The chronological span between the end of the Persian Wars—marked by the destruction of the monuments on the Athenian Acropolis (480/79 BC)—and the beginning of the construction of the Parthenon (448/7 BC) is commonly labelled as the “Severe style period” in archaeological literature.</description>
+      <description>
+
+&lt;h2 id=&#34;1-defining-the-severe-style-period&#34;&gt;1. Defining the Severe-style Period&lt;/h2&gt;
+
+&lt;p&gt;The artistic revolution in Greek sculpture is generally associated with one fundamental historical event, the Persian Wars; with two of the most important sculptors of the late sixth–early fifth century BC, Kritios and Nesiotes; and with a sculptural group: the Tyrannicides. The chronological span between the end of the Persian Wars—marked by the destruction of the monuments on the Athenian Acropolis (480/79 BC)—and the beginning of the construction of the Parthenon (448/7 BC) is commonly labelled as the “Severe style period” in archaeological literature.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; In this paper I discuss the notion of the artistic revolution in Greek art from an unconventional and entirely neglected perspective: the dowel holes on statue bases. I investigate the archaeological evidence in order to single out and highlight technical improvements in Greek sculpture, which in turn had aesthetic implications.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;As far as I know, Gustav Kramer was the first scholar to introduce the term “Severe style”. In his 1837 contribution on Greek vases, he identified three main phases: the Old style (&lt;em&gt;Alter Styl&lt;/em&gt;) up to Olympiad 80 (460 BC); the Severe style (&lt;em&gt;Strenger Styl&lt;/em&gt;) to Olympiad 90 (460–420 BC); and the third period, the Beautiful style (&lt;em&gt;Schöner Styl&lt;/em&gt;) until Olympiad 100 (420–380 BC).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; It is evident that his classification and chronology do not coincide with the stylistic labels currently adopted in archaeological literature and handbooks.&lt;/p&gt;
+
+&lt;p&gt;Since the publication of Vagn Poulsen’s &lt;em&gt;Der strenge Stil&lt;/em&gt; in 1937, the term has been used unequivocally to indicate a specific period and style: to Poulsen and those who followed, Kritios, Nesiotes, and the Tyrannicides represented the turning point and the very beginning of a new period and style.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Ridgway concurred and catalogued the most prominent traits of the Severe style: “the official date of the Tyrannicide group by Kritios and Nesiotes, 477 BC, can therefore be considered the legal birthday of the Severe style.”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; More recently, Stewart defined this cultural and artistic phase and concluded, “the totality of the evidence from the stratigraphy, architecture, pottery, and sculpture of the Acropolis deposits supports the theory that the Severe Style began (just) after the Persian sack.”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; Stewart considers the Tyrannicides “not only the earliest dated monuments in the &lt;em&gt;new style&lt;/em&gt; but also themselves &lt;em&gt;revolutionary&lt;/em&gt;.”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Which new and revolutionary stylistic and technical criteria do we find looking at the artistic production of Kritios and Nesiotes in comparison with previous sculptures? And what kind of appreciation of their works of art can we find in ancient literary sources? Furthermore, does the word “severe” correctly translate Greek and Latin adjectives?&lt;/p&gt;
+
+&lt;h2 id=&#34;2-signed-bases-dowel-holes-and-iconography&#34;&gt;2. Signed Bases, Dowel Holes, and Iconography&lt;/h2&gt;
+
+&lt;p&gt;The names of the artists Kritios and Nesiotes are known from six inscriptions found on statue bases on the Acropolis, three of which are diagnostic for the purposes of this analysis.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; The dowel holes on these bases allow us to reconstruct the poses and schemes of the figures mounted on them and to evaluate their technical novelty. On the top of the pedestal dedicated by Epicharinos (&lt;a href=&#34;#9.1&#34;&gt;fig. 9.1&lt;/a&gt;,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; two dowel holes are recognizable, even though it is not easy to reconstruct the pose of the figure: it stood either with the left foot advanced, to be seen in profile, or with the right foot advanced, facing the viewer. In any case, the figure was standing with both feet on the ground.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;9.1&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_9.01_Adornato.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 9.1. &lt;/span&gt;Base of Epicharinos. Athens, Acropolis Museum, inv. 13248. Photo: E. Feiler, © D-DAI-ATH-1976/1623)&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;On top of the base dedicated by Hegelochos, father and son of Ekphantos (&lt;a href=&#34;#9.2&#34;&gt;fig. 9.2&lt;/a&gt;), two dowel holes placed widely apart make it appear as if the base supported a large-scale bronze figure: it is possible to reconstruct Hegelochos’s dedication as an approximately life-size, striding male warrior in an attacking pose (a pose identical to that of an Athena Promachos).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;9.2&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_9.02_Adornato.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 9.2. &lt;/span&gt;Base of Hegelochos. Athens, Acropolis Museum, inv. 13206 (after Keesling 2003)&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;The circular base dedicated by “[ &amp;hellip; ]as and Ophsios” (&lt;a href=&#34;#9.3&#34;&gt;fig. 9.3&lt;/a&gt;) presents two long dowel holes on the surface. The shape of the base is not common and it may be that one of the unfinished column drums of the older Parthenon was reused as a pedestal. The position of the dowel holes shows that the bronze statue, a lost bronze Athena,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; stood with its feet close together; the statue was standing and not in motion.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;9.3&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_9.03_Adornato.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 9.3. &lt;/span&gt;Base of [&amp;hellip;]as and Ophsios. Athens, Acropolis Museum, inv. 13270. Photo: author&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;Unfortunately, we cannot evaluate style and technique of those lost sculptures by Kritios and Nesiotes. However, thanks to the presence of the dowel holes on the bases, it is possible to pinpoint some aspects related to the typology and the iconography of the statues. On two monuments, the figure is represented standing with both feet anchored to the ground, according to poses already attested in the sixth century BC. More interesting is the case of Hegelochos’s dedication: the figure was represented with legs spread, like those of the coeval Tyrannicides.&lt;/p&gt;
+
+&lt;p&gt;Going back to the initial issues, were the pose and the iconography new and revolutionary in comparison with the sculpture of the (late) Archaic period? The answer is negative, since Kritios and Nesiotes adopted and exploited typologies that were already in use in different media and at various scales in late Archaic artistic production. Examples include the imposing Athena Promachos from the Gigantomachy pediment, the Ugento Zeus, and, in small format, a bronze hoplite statuette from Dodona.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; The tradition of this pose is documented on the Athenian Acropolis after 480 BC, as we can see on the small bronze depicting Athena, dedicated by Meleso.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; In sum, the poses and typologies used in the sculptures of Kritios and Nesiotes appear not to be innovative in comparison with previous statues.&lt;/p&gt;
+
+&lt;p&gt;The Tyrannicides&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;14&lt;/a&gt;&lt;/sup&gt;—representing the attack by Harmodios and Aristogeiton—are constructed employing a well-established iconography: legs spread, rear foot lifted, torso erect, arm raised, and head held frontally.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; The vehement action of the two protagonists is not reflected in their abdominal muscles—which while precisely detailed are not very natural in terms of rendering movement—or in the position of the heads, which are held straight and facing fixedly forward on muscular necks.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;16&lt;/a&gt;&lt;/sup&gt; We have the same impression observing coeval sculptures like the Miletus torso, the statues of athletes from Delos, or the archer from the Acropolis.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:17&#34;&gt;17&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;In literary sources, statues made by Kritios and Nesiotes were not highly appreciated. In a rhetorical context, Lucian gives aesthetic evaluations of the “hardness” of the sculptures, mentioning the sculptor Hegias (also called Hegesias) in association with the more renowned figures of Kritios and Nesiotes. In chapter 9 of his &lt;em&gt;Rhetorum praeceptor&lt;/em&gt;, the author mentions as exemplary (&lt;em&gt;paradeigmata&lt;/em&gt;) exponents of ancient technique (&lt;em&gt;palaia ergasia&lt;/em&gt;) Hegias, and artists around Kritios and Nesiotes,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:18&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:18&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; characterizing their works as rigid (&lt;em&gt;apesphigmena&lt;/em&gt;), robust and muscular (&lt;em&gt;neurode&lt;/em&gt;), hard (&lt;em&gt;sklera&lt;/em&gt;), and precisely divided into parts with lines (&lt;em&gt;akribos apotetamena tais grammais&lt;/em&gt;).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:19&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:19&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Although in modern historiography the two sculptors are considered to be the pioneers of the artistic revolution of the Severe style, in ancient literary sources they are classified among the “hard” (&lt;em&gt;sklera&lt;/em&gt;, Lucian). Furthermore, in a well-known passage of the &lt;em&gt;Institutio oratoria&lt;/em&gt; by Quintilian (12.10), Hegias’s style is described as “harder and close to Etruscan statues” (&lt;em&gt;duriora et Tuscanicis proxima&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;It is interesting to note how the Greek and Latin adjectives associated with the artists of this period (&lt;em&gt;skleros&lt;/em&gt;, &lt;em&gt;durus&lt;/em&gt;, &lt;em&gt;rigidus&lt;/em&gt;) have been rendered in modern translations as &lt;em&gt;severo&lt;/em&gt;,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:20&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:20&#34;&gt;20&lt;/a&gt;&lt;/sup&gt; severe,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:21&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:21&#34;&gt;21&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;sévère&lt;/em&gt;,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:22&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:22&#34;&gt;22&lt;/a&gt;&lt;/sup&gt; &lt;em&gt;streng&lt;/em&gt;,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:23&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:23&#34;&gt;23&lt;/a&gt;&lt;/sup&gt; in an attempt to put a positive twist on an aesthetic concept that was by no means positive for the ancients. This connotation does not seem to be supported by textual analysis of these adjectives used in other contexts, where they definitely indicated rigidity, fixedness, and immobility.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:24&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:24&#34;&gt;24&lt;/a&gt;&lt;/sup&gt; According to scholars such as Strocka and Stewart, this wording can be traced back to a formulation suggested by J. J. Winckelmann.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:25&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:25&#34;&gt;25&lt;/a&gt;&lt;/sup&gt; Reading Winckelmann, however, I realized that he used the adjective &lt;em&gt;streng&lt;/em&gt; not to characterize ancient artists but solely in connection with a modern artist; he contrasted the “correct and strict” style (&lt;em&gt;die richtig und streng angegebenen Figuren&lt;/em&gt;) of Raphael with the gentler style (&lt;em&gt;die rundlich und sanft gehaltenen Formen&lt;/em&gt;) of Correggio.&lt;/p&gt;
+
+&lt;p&gt;From a technical and art-historical point of view, it is not until the activity of Polykleitos and his “Canon” that we have a clear testimony of interest in the movement of the body and its laws: the inflection of the anatomy, the position of the head, and the movement of the body are all precisely anatomically reflected in the individual parts. That sculptor’s distinction, as we read in Pliny, was to have created statues standing on one leg (&lt;em&gt;proprium eius est uno crure ut insisterent signa excogitasse&lt;/em&gt;), breaking with the traditional stance of sculptures characterized by a certain sense of rigidity and immobility of the figure.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:26&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:26&#34;&gt;26&lt;/a&gt;&lt;/sup&gt; We need only compare works attributed to Polykleitos with other coeval sculptures to visualize and understand his achievements. In his works&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:27&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:27&#34;&gt;27&lt;/a&gt;&lt;/sup&gt; we detect the surpassing of the previous anatomical schema: on the base of Kyniskos of Mantinea (&lt;a href=&#34;#9.4&#34;&gt;fig. 9.4&lt;/a&gt;),&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:28&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:28&#34;&gt;28&lt;/a&gt;&lt;/sup&gt; we find a very peculiar positioning of the lower limbs, with the left foot barely resting on the ground and the right held to the rear with the heel raised. 
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure q-float-left&#34; id=&#34;9.4&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_9.04_Adornato.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 9.4. &lt;/span&gt;Drawing of the base of Kyniskos. Olympia, Museum of the History of the Olympic Games, inv. 526. (Dittenberger and Purgold 1896, no. 149)&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+This ponderation (the tension of the figure moving from resting to moving) is found in both the Doryphoros and in the Diadumenos statues. Perhaps due to this new artistic concept and its technical solution, Quintilian reported that Polykleitos’s statues were perceived as lacking stability (&lt;em&gt;deesse pondus putant&lt;/em&gt;) compared to those of Pheidias.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:29&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:29&#34;&gt;29&lt;/a&gt;&lt;/sup&gt; In previous translations, &lt;em&gt;pondus&lt;/em&gt; has been rendered as “grandeur, solemnity, majesty”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:30&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:30&#34;&gt;30&lt;/a&gt;&lt;/sup&gt; and connected to his style and iconography of the statues. Polykleitos was thought, Quintilian continues, to have been less successful in representing the dignity of the gods (&lt;em&gt;deorum auctoritas&lt;/em&gt;), and was further alleged to have shrunk from representing persons of mature years, having ventured on nothing more difficult than a smooth and beardless face. I would like to propose an alternative translation of &lt;em&gt;pondus&lt;/em&gt;, namely “stability, equilibrium”, to be connected with the new pose and stance “on one leg” (&lt;em&gt;uno crure&lt;/em&gt;), as attested in Pliny’s passage (&lt;em&gt;Naturalis historia&lt;/em&gt; 34.56).&lt;/p&gt;
+
+&lt;p&gt;In order to support this hypothesis, we can look at sculptural evidence. For instance, we can compare the anatomical structure of the Kassel Apollo (believed to be a replica of the Parnopios Apollo) or the Lemnian Athena,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:31&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:31&#34;&gt;31&lt;/a&gt;&lt;/sup&gt; as passed down through Roman copies, with the Kyniskos statue, as far as we can reconstruct it based on holes for mounting: we find a major difference in balance and stability. The impression gathered from an examination of these statues attributed to Pheidias is one of stable poses and solid bodies, while Polykleitos’s works of art are not well balanced. For this reason, Polykleitos’s statues were not appropriate for the representation of gods.&lt;/p&gt;
+
+&lt;p&gt;This comparison allows us to fully comprehend the importance of Polykleitos’s achievement, the final outcome of a long, slow, continuous technical process begun at the end of the sixth century BC, through small but significant formal stages.&lt;/p&gt;
+
+&lt;p&gt;This analysis brings me to conclude that significant changes in Greek sculpture are to be detected around that time: it is a transitional period, which seems to include the second quarter of the fifth century. I favor a paradigm of continuity instead of a clear-cut division of artistic periods, artists, and styles: the poses, typologies, iconography of statues of the second quarter of the fifth century are inherited from the past. Furthermore, late Archaic artists of the ancient Mediterranean worked both before and after the year 480 BC (some of them were spared by the Persians!): the case of Kritios and Nesiotes is self-evident in this regard. This experimental phase lasted several decades until the middle of the fifth century: it is with Polykleitos that we detect a significant change, a disruptive innovation in pose and scheme in comparison with the previous artistic production.&lt;/p&gt;
+
+&lt;p&gt;This notwithstanding, the notion of a “Severe style period” need not be expunged from handbooks, but we must be aware that we use it as a modern, conventional art-historical label, somewhat misleading, yet nonetheless useful. Reading ancient sources is very instructive on the perception of aesthetic evaluation and judgments of ancient art and artists and the modern reception of it in the construction of an art-historical system. In epigram 62 by Poseidippos of Pella, for instance, there is no distinction between the late Archaic and Classical periods, between Late Archaic and Classical artists. To him, what happened before Lysippos’s activity is considered as an indistinct entity.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:32&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:32&#34;&gt;32&lt;/a&gt;&lt;/sup&gt; According to Latin literary sources,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:33&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:33&#34;&gt;33&lt;/a&gt;&lt;/sup&gt; the art of bronze sculpture proceeds through formal steps and advancement, adopting the scale of hardness and beauty: from the most rigid statues by Late Archaic artists to the less rigid statues by Kalamis, to the beautiful ones by Myron and those more beautiful still by Polykleitos. In this frame of progress and continuity, it must be clear that to the ancients the Severe Style as a chronological and stylistic category never existed.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;This paper is part of a wider project on a technical lexicon and art criticism in ancient sources: thanks to a National Research Fund (PRIN 2012), as Principal Investigator I am currently working on a new edition of and commentary on Pliny the Elder’s Books of Art. I am grateful to Jens Daehner for his invaluable comments on the manuscript.&lt;/p&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;See Stewart 1990; Rolley 1994; this chronological span is also labeled as “transition period” (Richter 1951) or “Bold Style” (Harrison 1985), among others.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;A thorough investigation on the development of technique is in Mattusch 2006; see also Adornato 2008.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Kramer 1837, 101.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Poulsen 1937.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;Ridgway 1970, 12. Already Poulsen 1937, 116.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;Stewart 2008a, 406–407.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;Stewart 2008b, 608 (my italics).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;Raubitschek 1949, no. 161: the fragment found between 1877 and 1886 west of the Erechtheion contains too few letters to be included in this analysis. No. 161a is not included because the fragment was found in the Agora and contains just a few letters.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;&lt;em&gt;IG&lt;/em&gt; I3, 847 = DAA 120; Keesling 2003, 170–72.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;&lt;em&gt;IG&lt;/em&gt; I3, 850 = DAA 121; Raubitschek 1949, 128; Keesling 2003, 186–90.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;&lt;em&gt;IG&lt;/em&gt; I3, 848 = DAA 160; Keesling 2000.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;Athens, Acropolis Museum, inv. 631: Stewart 1990, 129; Taranto, National Archeological Museum, inv. 121327: Adornato 2010, 318–20; Berlin, Staatliche Museen, inv. Misc. 7470: Stewart 1990, 147.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;Athens, Acropolis Museum, inv. X 6447: Stewart 2008a, 385, 388, 410.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;Naples, National Archaeological Museum, inv. 6009 and 6010; &lt;em&gt;FGrHist&lt;/em&gt; 239 A 54; Marm. Par. A, ll. 70–71 (&lt;em&gt;IG&lt;/em&gt; 12.5.444, 70–71); Brunnsåker 1971; Taylor 1991.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;De Cesare 2012.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;This is in disagreement with Stewart (1997, 73), who writes that “its revolutionary ‘severe’ or early classic style with its emphatic, powerfully organic, yet still rigorously ordered articulation of the male body did what the archaic style’s calligraphic patterning could not do.” I argue, on the contrary, that the rendering of the joints and muscles is still bound to the formal conventions and traditions of the Late Archaic period.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;Paris, Louvre, inv. Ma 2792: Bol 2005; Delos, Archaeological Museum, inv. A 4275, A 4276, A 4277: Hermary 1984, 8–13, nos. 5–7; Athens, Acropolis Museum, inv. 599: Stewart 2008a, 385, 408.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34;&gt;On Kritios and Nesiotes: Muller-Dufeu 2002, nos. 576–84; see also Keesling 2000.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:18&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34;&gt;Zweimüller 2008, 240–43.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:19&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34;&gt;Vlad Borrelli 1966.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:20&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:21&#34;&gt;E.g. Ridgway 1970. On the reception of Archaic style, Hallett 2012.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:21&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:22&#34;&gt;Rolley 1994, 320: “C’est sous l’influence des auteurs latins, qui caractérisent les œuvres des sculpteurs de cette période par les qualificatifs &lt;em&gt;durus&lt;/em&gt;, &lt;em&gt;rigidus&lt;/em&gt;, &lt;em&gt;austerus&lt;/em&gt;, que Winckelmann, dans son &lt;em&gt;Histoire de l’art antique&lt;/em&gt; de 1764, qualifie de sévère (&lt;em&gt;streng&lt;/em&gt;) la sculpture antérieure à Pheidias&amp;hellip; . C’est l’étude fondamentale de V. Poulsen qui a imposé l’expression ‘style sévère’.” For Muller-Dufeu (2002, 171) “le style sévère, en référence à la noblesse d’attitude que les artistes donnent alors à leurs œuvres.”
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:22&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:23&#34;&gt;Poulsen 1937; Bol 2004a; Germini 2008, 19, attributes the concept of &lt;em&gt;hardness&lt;/em&gt; solely to Archaic artistic production, in clear contradiction with the literary sources analyzed. See Lapatin 2012.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:23&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:24&#34;&gt;E.g., Quintilian &lt;em&gt;Institutio oratoria&lt;/em&gt; 11.3.76: staring eyes (&lt;em&gt;rigidi oculi&lt;/em&gt;); 11.3.82: head held high, neither rigid nor bowed (&lt;em&gt;cervicem rectam oportet esse, non rigidam aut supinam&lt;/em&gt;).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:24&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:25&#34;&gt;Winckelmann 1764, ch. 4, section 3, part I.C (Engl. trans., see Winckelmann 2006, 231–32); Donohue 1995; Strocka 2002, 120; Germini 2008, 17.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:25&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:26&#34;&gt;Pliny &lt;em&gt;Naturalis historia&lt;/em&gt; 34.55–56. Fruitful discussion in Leftwich 1995.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:26&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:27&#34;&gt;In general, see La Rocca 1979. On the Doryphoros: von Steuben 1990; on the Diadumenos: Bol 1990; Settis 1992; in general, Franciosi 2003 (with bibliography), to be read with the discerning assessments of Di Cesare 2003.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:27&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:28&#34;&gt;The attribution of the Kyniskos statue to Polykleitos is based on Pausanias 6.4.11, since the base in Olympia is not signed. On the inscription: Dittenberger and Purgold 1896, 255–58, no. 149. Borbein (1996, 78) rejects the hypothesis that the Westmacott Boy is linked to the Kyniskos base, for chronological reasons; Stewart (2008c, 167, fig. 84), on the contrary, is open to the possibility of the connection.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:28&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:29&#34;&gt;Kaiser 1990; Neumeister (1990, 441) links the meaning of &lt;em&gt;pondus&lt;/em&gt; to the concepts of &lt;em&gt;auctoritas&lt;/em&gt; and &lt;em&gt;maiestas&lt;/em&gt;; see Hölscher 2002.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:29&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:30&#34;&gt;Pollitt 1974, 422–23; on aesthetic thought in ancient Greece: Porter 2010; Adornato 2015.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:30&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:31&#34;&gt;Kassel, Staatliche Kunstsammlungen, Antikensammlung inv. Sk 1; Bol 2004a, 29–32, and 2004b; Gercke and Zimmermann-Elseify 2007, 44–50; Dresden, Staatliche Kunstsammlungen, Skulpturensammlung, inv. Hm 49; Knoll, Vorster, and Woelk 2011, 121–31, no. 2 (J. Raeder).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:31&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:32&#34;&gt;Adornato 2015.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:32&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:33&#34;&gt;Cicero &lt;em&gt;Brutus&lt;/em&gt; 70; Quintilian &lt;em&gt;Institutio&lt;/em&gt; &lt;em&gt;oratoria&lt;/em&gt; 12.7–9; Adornato, forthcoming.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:33&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +263,305 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/the-artist/10-haga-et-al/</guid>
-      <description>Introduction For more than a century, arguments have been made both for and against the identification of the Doryphoros with the “Canon” of Polykleitos without a definitive conclusion being reached. Although the most important information is Pliny’s famous phrase, it also is the cause of controversy. He writes: “Polyclitus &amp;hellip; et doryphorum viriliter puerum fecit. quem canona artifices vocant, liniamenta artis ex eo petentes veluti a lege quadam &amp;hellip;” [“Polykleitos made &amp;hellip; and a Doryphoros, a virile-looking boy.</description>
+      <description>
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;For more than a century, arguments have been made both for and against the identification of the Doryphoros with the “Canon” of Polykleitos without a definitive conclusion being reached. Although the most important information is Pliny’s famous phrase, it also is the cause of controversy. He writes: “Polyclitus &amp;hellip; et doryphorum viriliter puerum fecit. quem canona artifices vocant, liniamenta artis ex eo petentes veluti a lege quadam &amp;hellip;” [“Polykleitos made &amp;hellip; and a Doryphoros, a virile-looking boy. He also made a statue which artists call the ‘Canon’ and from which they derive the basic forms of their art, as if from some kind of law.”] (&lt;em&gt;Naturalis historia&lt;/em&gt; 34.55).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the connection between the two sentences is rather abrupt, Jahn suggested it be read as “doryphorum viriliter puerum fecit [et] quem canona artifices vocant,” namely, “the sculptor made the Doryphoros and this very statue was called the ‘Canon’ by artists.” It is strange that the subject of such an important and influential work is not mentioned, given that, judging from the number of Roman copies, the Doryphoros was Polykleitos’s most famous work. This reading has therefore been supported by some&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; but rejected by others.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Furthermore, even to the broadly accepted identification of the “doryphorum viriliter puerum” with the Doryphoros type (&lt;a href=&#34;#10.1&#34;&gt;fig. 10.1&lt;/a&gt;) an objection has been raised recently.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure q-float-right&#34; id=&#34;10.1&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_10.01_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.1. &lt;/span&gt;Doryphoros from the Palaestra of Pompei. Naples, National Archaeological Museum, inv. 6011&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;In this confused situation, we need to reflect again on the series of Roman copies, possibly attributable to the great sculptor: first, the famous (so-called, if necessary) Doryphoros, known to us through more than sixty copies; secondly, the Diadoumenos mentioned by Pliny in the passage cited above as the most costly work of the sculptor, copies of which we have only two (and some more head copies); thirdly, three (or four) Amazon types, each of which was created by Polykleitos, Pheidias, or Kresilas. We also have some types of statues that might originate from disciples or followers of the great master. Of course these pieces of evidence have been available for a long time, but with the help of new technology we have the possibility of obtaining from them some substantial new data.&lt;/p&gt;
+
+&lt;h2 id=&#34;methodology-5&#34;&gt;Methodology&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+
+&lt;p&gt;We first scanned each work (or its modern plaster casts in Munich) with a 3D laser scanner with an accuracy of ±50 μm and created a very precise 3D model. From two of the models to be compared, a pair of corresponding parts is cut out, normalized in scale if necessary, and aligned together. To clarify the distances of the gap between the two parts, two means of visualization are devised (see &lt;a href=&#34;#10.5&#34;&gt;fig. 10.5&lt;/a&gt;). One is color-mapping, in which the distances of the two forms are plotted and visualized with a color-code. The threshold of the color-mapping is to be defined: in most cases, 4 millimeters (1/8 in.) so that we can recognize 1 mm differences. A perfect match (0 mm distance) is colored green; +1 mm yellow; +2 mm orange; –1 mm light blue, and so on. The distances over 4 millimeters are colored black. If the image is colored all green, it means that the shapes of two compared objects are identical. The second visualization method is valley-line drawing, which is useful for distinguishing gaps of important points and lines, such as eyes, eyelids, nose features, and mouths.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-reliability-of-roman-copies&#34;&gt;1. Reliability of Roman Copies&lt;/h2&gt;
+
+&lt;p&gt;It is well known that many Roman sculptures are copies of famous Greek masterpieces, but at the same time it has been pointed out that even the mechanically carved “exact” copies are not exact in any real sense. The traditional method of &lt;em&gt;Kopienkritik&lt;/em&gt; has revealed that Roman copies are variable in their forms, especially in their limbs, in some cases to a great extent. Still, it is too early to discard the reliability of those copies. In the case of bronze copies, you may easily imagine that they reproduce exactly their original forms, because they are replicated in the molding and casting processes. Marble copies too maintain their original forms, more or less, because in the first century BC sculptors began to carve marble copies mechanically, using instruments and/or compasses by means of which theoretically they managed to reproduce “exact” marble copies.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;But how “exact” are the marble copies?&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; In the case of two almost complete copies of the Doryphoros—one excavated in the Palaestra of Pompeii (Museo Archeologico Nazionale di Napoli, inv. 6011, see &lt;a href=&#34;#10.1&#34;&gt;fig. 10.1&lt;/a&gt;) and the other conserved in Minneapolis (Institute of Fine Arts)—they don’t match at all when they are compared as a whole. But compared separately in body parts, they match better. Maybe it is because the copy makers, when they took plaster casts of the original bronze statues, took molds part by part. It was also noticed that the detailed parts, such as heads, hands, and feet (or toes) match better. Obviously they were copied more accurately than the arms and legs.&lt;/p&gt;
+
+&lt;p&gt;Additionally, four copied heads of the Doryphoros—the bronze herm by Apollonios (Museo Archeologico Nazionale di Napoli, inv. 4885, &lt;a href=&#34;#10.2&#34;&gt;fig. 10.2&lt;/a&gt;) and the marble herm (Museo Archeologico Nazionale di Napoli, inv. 6412), both found in Herculaneum, and the two statues above mentioned—were compared. It was noted that, while their forms are copied quite accurately, they differ among each other in scale. The head of the statue from Pompeii is bigger than the other two marble copies by 3%; this difference may be because the back of its head is not finished and therefore the scales were not calculated correctly. The bronze head, by contrast, is about 2% smaller than the other two; this difference is probably attributable to the casting process: the size of a bronze copy always becomes smaller, since clay shrinks when it dries and bronze shrinks when it cools.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;10.2&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_10.02_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.2. &lt;/span&gt;Bronze herm of the Doryphoros signed by Apollonios. Naples, National Archaeological Museum, inv. 4885&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;With the 3D shape comparison method, it has been proven that regarding detailed parts of statues, such as heads, feet, and hands, the “exact” copies are in fact incredibly precise and their deviations are in most cases within a few millimeters.&lt;/p&gt;
+
+&lt;h2 id=&#34;2-the-doryphoros-reused-in-polykleitos-s-own-works&#34;&gt;2. The Doryphoros Reused in Polykleitos’s Own Works&lt;/h2&gt;
+
+&lt;p&gt;Having checked the reliability of “exact” copy heads, we should go back to the fifth century BC to discuss the originals of Polykleitos: the Doryphoros, the Diadoumenos, and one of the three (or four) Amazon types.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The first two male statues are variously dated,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; but scholars agree at least on one point: the Doryphoros was created at least a decade earlier than the Diadoumenos, because the latter has softer facial features, more natural wavy hair, and a more melancholic overall expression. However, the 3D comparison reveals that the face of the Diadoumenos from Delos now in Athens (National Archaeological Museum, inv. 1826) and that of the bronze Doryphoros herm from Herculaneum now in Naples have surprisingly close shapes, while the former is 1% smaller than the latter (&lt;a href=&#34;#10.3&#34;&gt;fig. 10.3&lt;/a&gt;). It is true that the areas between the brows and the eyelids, the nose sides, and the lip contours indicate gaps of more or less 1 millimeter. Actually, the Delian Diadoumenos has the swelled upper eyelids, the slightly closed eyes, the slim nose line, and its lip contour is less marked; these differences cause the different expressions of the two heads. Some of them may be due to the Late Hellenistic sculptor who copied the Diadoumenos statue around 100 BC on Delos, but that should not be the only factor causing the difference. As Pliny said, the two original statues were actually different in style and the Diadoumenos was “softer” than the Doryphoros. There are small gaps to be sure, but the overall coincidence of the shapes of the facial features is more noteworthy: the position and shape of eyes, noses, and the upper lips are almost the same. If Polykleitos had modeled the two heads independently, this closeness would not have occurred. We may safely suppose that he reused the model of the Doryphoros to create the Diadoumenos, using the indirect lost-wax casting method. Thus, he kept a clay model of the Doryphoros in his workshop. Later, to create a new work, he took molds of this model, at least of the face, and then added some small changes and remodeled the hair to create a new clay model, the Diadoumenos, which he fired to make durable.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;10.3&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_10.03_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.3. &lt;/span&gt;3D shape comparison between the Doryphoros and the Diadoumenos and with the three Amazon types (the threshold is 4mm)&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;Polykleitos also created an Amazon statue in competition (or, more probably, in collaboration) with other contemporary sculptors to dedicate it in the sanctuary of Artemis at Ephesos (Pliny &lt;em&gt;Naturalis historia&lt;/em&gt; 34.53). Three or four Classical Amazon types are known, but scholars have not arrived at an agreement on the type to be attributed to Polykleitos.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;We tried 3D shape comparison for three Amazon heads (the Sosikles type head in the Capitoline Museum in Rome, inv. 1091; the Sciarra type in the Ny Carlsberg Glyptothek in Copenhagen, inv. 1658; and the bronze head of Naples–Rome type, often attributed to the Mattei type, in the National Archaeological Museum in Naples, inv. 4889) with the works of Polykleitos: the bronze herm of the Doryphoros from Herculaneum in Naples and the Diadoumenos from Delos in Athens.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; The results were quite clear (see &lt;a href=&#34;#10.3&#34;&gt;fig. 10.3&lt;/a&gt;). While the comparisons with the Sciarra type and the Naples–Rome head type show some black areas, the comparison with the Sosikles type has almost no black area. They are as close as the pair of the Doryphoros and the Diadoumenos and, between the two statues, the Sosikles type is closer to the Doryphoros than the Diadoumenos. We can conclude that the gap between the heads of the Doryphoros and the Sosikles Amazon are within the range of works from one model. This is quite strong evidence to affirm that the Sosikles type was created by Polykleitos, reusing the model of his Doryphoros.&lt;/p&gt;
+
+&lt;h2 id=&#34;3-kresilas&#34;&gt;3. Kresilas&lt;/h2&gt;
+
+&lt;p&gt;Since most scholars agree with the attribution of the Mattei type (either with or without the Naples–Rome head type) to Pheidias,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; the remaining one, the Sciarra type, is to be attributed to Kresilas. He was native of Kydonia in Crete but was active mainly in Athens.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; Probably around 430 BC, he collaborated with Polykleitos on the group of Amazons at Ephesos and inevitably should have been influenced by the greater sculptor; his Amazon shows the same head inclination and a hairstyle similar to (but less naturalistic than) that of Polykleitos. However, these similarities are superficial and do not originate from the reuse of Polykleitos’s model, as has been shown by the 3D shape comparisons (see &lt;a href=&#34;#10.3&#34;&gt;fig. 10.3&lt;/a&gt;). This is understandable because Kresilas was an independent sculptor and did not belong to Polykleitos’s workshop.&lt;/p&gt;
+
+&lt;p&gt;Although he was less renowned than Polykleitos, Kresilas made a highly regarded portrait of Pericles (Pliny &lt;em&gt;Naturalis historia&lt;/em&gt; 34.74). Pausanias (1.28.2) saw Pericles’ portrait near the Propylaia of the Acropolis in Athens without mentioning the sculptor’s name. Excavations on the Athenian Acropolis have unearthed a statue base on which the name of Kresilas was inscribed as a sculptor, but without the name of Pericles.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; However, a portrait type of Pericles is attested in several Roman marble copies, two of which are inscribed with Pericles’ name.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; All these pieces of evidence—Pliny, Pausanias, the Acropolis base, and marble copies—seem to refer to a single work: Kresilas’s portrait of Pericles erected on the Acropolis. Still, we are not absolutely certain about its identification.&lt;/p&gt;
+
+&lt;p&gt;At first glance, the Sciarra Amazon and the Pericles portrait don’t look alike at all. While the Sciarra Amazon has an idealized female head, the Pericles is male with a beard, a mustache, and sagging cheeks. Besides, the nose of the Pericles herm in the British Museum is restored. Keeping all these obvious differences in mind, we dared to compare the Sciarra head in Copenhagen and Pericles head in British Museum (&lt;a href=&#34;#10.4&#34;&gt;fig. 10.4&lt;/a&gt;).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;16&lt;/a&gt;&lt;/sup&gt; In the image of the color-mapping visualization (&lt;a href=&#34;#10.5&#34;&gt;fig. 10.5&lt;/a&gt;, left below) wide areas of the above-mentioned parts (the nose, the cheeks, and the mustache area) are colored in blue, red, or black; that is, their 3D shapes differ by more than 4 millimeters. However, using the valley-line visualization, we ascertained that the eye forms match perfectly and that the positions of nose and mouth are the same (&lt;a href=&#34;#10.5&#34;&gt;fig. 10.5&lt;/a&gt;, right below), indicating that the Sciarra Amazon has the same facial features as the Pericles portrait. Although the results were not firm enough to prove the sculptor’s reuse of his own model, they support at least the attribution of both works to the same sculptor, Kresilas.&lt;/p&gt;
+
+
+&lt;figure class=&#34;q-figure q-figure-grid&#34;&gt;
+
+
+
+
+  
+  &lt;figure class=&#34;q-figure__inner-figure&#34; id=&#34;10.4&#34; style=&#34;flex-basis: calc( (100% - 2rem) / 2)&#34;&gt;
+  &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+    &lt;img  src=&#34;../figures/fig_10.04_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+    
+  &lt;/div&gt;
+    
+    &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.4. &lt;/span&gt;Portrait herm of Pericles. London, British Museum, inv. 1805,0703.91&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+  
+
+
+  
+  &lt;figure class=&#34;q-figure__inner-figure&#34; id=&#34;10.5&#34; style=&#34;flex-basis: calc( (100% - 2rem) / 2)&#34;&gt;
+  &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+    &lt;img  src=&#34;../figures/fig_10.05_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+    
+  &lt;/div&gt;
+    
+    &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.5. &lt;/span&gt;3D shape comparison of the face of Pericles (left above) with that of Sciarra Amazon (right above) and its visualization in color (left below; the threshold is 4mm) and in valley lines (right below). Their size ratio is 1:1.03&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+  
+
+
+&lt;/figure&gt;
+
+
+
+&lt;h2 id=&#34;4-the-doryphoros-reused-in-diomedes&#34;&gt;4. The Doryphoros Reused in “Diomedes”&lt;/h2&gt;
+
+&lt;p&gt;In addition to the statuary types whose originals have been attributed to Polykleitos himself, there are several Classical statue types that more or less recall his style. Scholars have debated whether they are works by one of his disciples or were simply influenced by his works, judging from the fidelity to the great master’s principles of body structure.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:17&#34;&gt;17&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The so-called “Diomedes,” known from one replica from Cuma (Naples, National Archaeological Museum, inv. 144978, &lt;a href=&#34;#10.6&#34;&gt;figs. 10.6–7&lt;/a&gt;) and another in Munich (Glyptothek, inv. 304), is one of such statues.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:18&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:18&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; Its pose and the modeling of the torso are very close to those of the Doryphoros, except for the left foot positioned slightly farther to the left. The biggest change is the direction of the head, which turns strongly to the opposite side to gaze at something. Some scholars attribute it to the circle of Polykleitos, but others prefer to attribute it to Kresilas based on its similarity with Pericles’ head and the leg position identical with the Sciarra Amazon.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:19&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:19&#34;&gt;19&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+
+&lt;figure class=&#34;q-figure q-figure-grid&#34;&gt;
+
+
+
+
+  
+  &lt;figure class=&#34;q-figure__inner-figure&#34; id=&#34;10.6&#34; style=&#34;flex-basis: calc( (100% - 2rem) / 2)&#34;&gt;
+  &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+    &lt;img  src=&#34;../figures/fig_10.06_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+    
+  &lt;/div&gt;
+    
+    &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.6. &lt;/span&gt;Diomedes from Cuma. Naples, National Archaeolgical Museum, inv. 144978&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+  
+
+
+  
+  &lt;figure class=&#34;q-figure__inner-figure&#34; id=&#34;10.7&#34; style=&#34;flex-basis: calc( (100% - 2rem) / 2)&#34;&gt;
+  &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+    &lt;img  src=&#34;../figures/fig_10.07_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+    
+  &lt;/div&gt;
+    
+    &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.7. &lt;/span&gt;Head of Diomedes from Cuma&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+  
+
+
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;To determine its relationship to Polykleitos or to Kresilas, we compared the face of Diomedes in Naples to the bronze Doryphoros herm in Naples and the Sciarra Amazon in Copenhagen, using 3D imaging. The results show a clear discrepancy with the Sciarra Amazon and a similarity to the Doryphoros (&lt;a href=&#34;#10.8&#34;&gt;fig. 10.8&lt;/a&gt;). In both cases, the nose parts are black because that of Diomedes is broken. While the eyes and the mouth of the Sciarra Amazon are out of position, the eyes of the Doryphoros are in exactly the same place. It is true that Diomedes’ mouth is smaller, in a slightly higher position, and its cheeks are slimmer than those of the Doryphoros; this can be explained as a modification of the mouth shape and an addition of the short beard on Diomedes’ cheeks. The rest of the image is colored green, indicating that the gap between the surfaces is almost zero. As a whole the shape of Diomedes’ face is quite similar to that of the Doryphoros, which suggests that the sculptor of Diomedes did not merely imitate the pose and the style of the Doryphoros, but he used the Doryphoros as his model. He was not Kresilas but rather a sculptor to whom the model of the Doryphoros was available.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;10.8&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_10.08_Sengoku_Haga.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 10.8. &lt;/span&gt;3D shape comparison of Diomedes with the Doryphoros and the Sciarra Amazon. (The threshold is 4mm.)&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;Who could use the Doryphoros model? In the later period, copy-makers took plaster casts from bronze statues displayed in public spaces,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:20&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:20&#34;&gt;20&lt;/a&gt;&lt;/sup&gt; but in the Classical period such an operation is not likely. Most probably, the “Diomedes sculptor” was one of Polykleitos’s disciples, who worked in his master’s workshop. It is true that the Diomedes sculptor, in addition to making some modifications to his master’s model, tried another solution for the balance and proportion of the male body. As is often the case of an excellent disciple, he deviated from his master.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;We have asserted that the model of the Doryphoros was reused not only by Polykleitos himself, but also by another sculptor, most probably one of his disciples. Interestingly, so far as we have discerned, the later works are always smaller in scale than the Doryphoros. Taking into account that the face of the bronze Doryphoros is around 2% smaller than those of the other two marble copies, we can calculate that the Amazon Sosikles and the Diadoumenos are around 3% smaller than the marble Doryphoros, and the Diomedes statue, around 7% smaller than it.&lt;/p&gt;
+
+&lt;p&gt;This scaling-down may be explained as shrinkage of the clay model. Theoretically, if Polykleitos kept a clay model of the Doryphoros in his workshop, to create another work he would have taken a mold from the Doryphoros model and, modifying some details, created a new clay model. Before casting in bronze, the sculptor should have dried and baked the new model to increase its durability, thus inevitably the model’s size was reduced. In the case of his disciple, if he kept a new Doryphoros model in his own workshop, this reproduction should have always been smaller than the original Doryphoros model.&lt;/p&gt;
+
+&lt;p&gt;Adopting the indirect lost-wax casting technique, probably from the beginning, Polykleitos intended the model of the Doryphoros to be reused. Remembering that the Doryphoros is almost 2 meters (158 in.) tall, larger than normal statues of athlete and heroes, a question comes to mind: did Polykleitos create the Doryphoros larger expecting the scale it down when reusing it for other works? Being a skilled sculptor, Polykleitos would have anticipated this shrinkage. If that is the case, we might call the Doryphoros the “Canon,” created for the purpose of being “cited” in other works by Polykleitos and other artists. Then Pliny’s phrase, cited earlier, should be read in the way proposed by Jahn: “Polykleitos made a Doryphoros, which artists call the Canon and from which they derive the basic forms of their art.”&lt;/p&gt;
+
+&lt;p&gt;Since we have proved the reuse of the Doryphoros’s face model and the shrinkage in size of the faces in only a few samples, our conclusion is still preliminary. Nevertheless, we are at least certain of the great potential of the method of the 3D shape comparison in the study of ancient sculpture.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;For generous permission and kind assistance during the scanning, I am particularly grateful to Dr. Ingeborg Kader, museum management and chief keeper of the Museum für Abgüsse Klassischer Bildwerke München; Dr. Teresa Elena Cinquantaquattro, then superintendent of the Soprintendenza Speciale per i Beni Archeologici di Napoli e Pompei; and Dr. Valeria Sampaolo, then director of the Museo Archeologico Nazionale di Napoli. I am also deeply grateful to my colleague Todd Enslen for revising my manuscript. This work is supported by JSPS KAKENHI Grant Numbers 23320040, 16K02262, and Microsoft Research CORE 12 Project.&lt;/p&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Translation by Pollitt 1990, 75.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;Jahn 1851, 315–16; Furtwängler 1893, 422; Hafner 1997, 10–18 with n. 10.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;Pollitt 1990 (see n. 1 above); Stewart 1990, 264, T62; &lt;em&gt;DNO&lt;/em&gt; 1234.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Franciosi 2003.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;For technical details, see Zhang et al. 2013, 58–59. (The preliminary results regarding Polykleitos’s Amazon, on 60 of that paper, is to be corrected. See Sengoku-Haga 2015.)
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;Pfanner 1989.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;In detail, see Sengoku-Haga et al. 2015, 205–207. The 3D data of the Minneapolis Doryphoros was obtained through the scan of a plaster cast conserved in the Museum of Classical Statues in Munich.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;In detail, see Sengoku-Haga et al. 2015, 207–14.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;Stewart 1990 (Doryphoros ca. 440 BC, Diadoumenos ca. 430 BC); Borbein 1996 (Doryphoros 450–440 BC, Diadoumenos ca. 420 BC).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;Bol 1998 (with a catalogue of replicas).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;For details, see Sengoku-Haga et al. 2015, 210–13. The 3D data of the Sciarra type Amazon in Copenhagen was scanned from a plaster cast in the Museum of Classical Statues in Munich.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;Except for Weber (1976; 2008), who attributed the Mattei type to Kresilas. As for the Naples–Rome head type, attribution to Pheidias is supported by von Steuben (Helbig&lt;sup&gt;4&lt;/sup&gt; no. 2261). In contrast, Bol (1998, 187, no. I.26) put this head type into the variant of the Sciarra type, and Mattusch (2005, 278) calls it a “Polykleitan” head. Weber (1976), Raeder (1983, 77–78, no. I.64), and Boardman (1985, 217), preferred the Petworth head as belonging to the Mattei type.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;As for Kresilas, see Vierneisel-Schlörb 1979, 79–93; Rolley 1999, 149–52; Vollkommer 2001, s.v. Kresilas (M. Weber); &lt;em&gt;DNO&lt;/em&gt; II, 337–50.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;&lt;em&gt;IG&lt;/em&gt; I&lt;sup&gt;2&lt;/sup&gt; 528; Raubitschek 1949, no. 131.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;See Richter and Smith 1984, 173–75.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;We scanned plaster casts in Munich.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;E.g., Linfert 1990; Rolley 1999, 42–51.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34;&gt;Admitting the strong influence of the Doryphoros, many scholars denied the relationship of the Diomedes sculptor to Polykleitos’ workshop, based on its departure from the Canon in its　structure. Stewart 1990, 168; Stewart 1995, 251–53; Linfert 1990, 289. See also n. 19 below.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:18&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34;&gt;Attribution to Kresilas: Furtwängler 1893, 311–25; Vierneisel-Schlörb 1979, 79–93; Weber 2008, 11.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:19&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34;&gt;Lucian &lt;em&gt;Iuppiter tragoedos&lt;/em&gt; 32–33.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:20&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -42,7 +570,87 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/the-artist/11-falaschi/</guid>
-      <description>At the beginning of his writing On the Pythian Responses (De Pythiae oraculis), Plutarch dedicates several chapters (395b–396c) to the blue patina that characterized bronze Delphian votive offerings. Several studies have tried to give a scientific explanation for this patina and to identify it in artworks brought to light during excavations.1 This contribution focuses on a different aspect, strictly linked to the reception and perception of art in the Imperial age.</description>
+      <description>
+
+&lt;p&gt;At the beginning of his writing &lt;em&gt;On the Pythian Responses&lt;/em&gt; (&lt;em&gt;De Pythiae oraculis&lt;/em&gt;), Plutarch dedicates several chapters (395b–396c) to the blue patina that characterized bronze Delphian votive offerings. Several studies have tried to give a scientific explanation for this patina and to identify it in artworks brought to light during excavations.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; This contribution focuses on a different aspect, strictly linked to the reception and perception of art in the Imperial age. Its aim is not to explain what the blue patina is but rather the values and meanings that Plutarch attributed to it, and also how it influenced his interpretation of the Monument of the Admirals.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;On the Pythian Responses&lt;/em&gt; describes a group of intellectuals walking along the Sacred Way in Delphi. The walk begins at the entrance of the sanctuary and ends in front of the Temple of Apollo. Along the way, various discussions on Delphic philosophy and religion take place, each of them linked to a votive offering that the group looks at.&lt;/p&gt;
+
+&lt;p&gt;The first stop along the way is the Monument of the Admirals&lt;em&gt;,&lt;/em&gt; as Plutarch points out (&lt;em&gt;De Pythiae oraculis&lt;/em&gt; 395b, ἀπ’ ἐκείνων γὰρ ἦρκται τῆς θέας).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; It was dedicated by the Spartans after the victory at Aigospotamoi in 405 BC. According to Pausanias (10.9.7–11), it included thirty-eight statues, but at least one more should be added on the basis of preserved inscriptions. Lysander was represented among a number of gods, being crowned by Poseidon; there were also statues of the Spartan navarch Arakos and of the Greek trierarchs who were Spartan allies.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Plutarch (395b) tells us that, in front of this offering, one of the visitors, Diogenianos of Pergamon, is struck by the patina (τοῦ χαλκοῦ τὸ ἀνθηρὸν) that covered the monument, because it is neither like dirt (πίνῳ) nor like verdigris (ἰῷ), but shines with a dark blue dye (βαφῇ δὲ κυάνου στίλβοντος). This observation provokes a discussion of the origin of that patina, which is considered an alteration, a deterioration of the bronze. According to Theon, it is subject (πεπονθὼς) to the action of air (395d).&lt;/p&gt;
+
+&lt;p&gt;At first it does not seem that Plutarch intends to refer to the patina of the Monument of the Admirals in particular. In fact, he describes (395a–b) with a bit of irony the guides who bore the visiting intellectuals with tedious explanations of all the sanctuary’s inscriptions; he reports that Diogenianos was not interested in the appearance and artistic merit of the statues (ἡ μὲν ἰδέα καὶ τὸ τεχνικὸν), because he had already seen beautiful artworks elsewhere. He does, however, admire the blue patina of the statues (ἐθαύμαζε δὲ τοῦ χαλκοῦ τὸ ἀνθηρὸν), in particular that of the group of the Admirals. This means that, according to Plutarch, the blue patina was not a feature just of the Monuments of the Admirals but also characterized at least some of the bronze statues nearby.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Therefore, it is first of all necessary to understand why he chose this specific monument for developing his reflections.&lt;/p&gt;
+
+&lt;p&gt;The visual impact of the Monument of the Admirals certainly played an important role in Plutarch’s choice. Comprising at least thirty-nine bronze statues, it was a very impressive monument, and the peculiarity of Delphic bronze would have been extremely evident there. Even before entering the gate of the sanctuary, one could see the monument looming over the walls of the sacred precinct.&lt;/p&gt;
+
+&lt;p&gt;Moreover, the monument stood at the entrance of the sanctuary and this corresponds well with Plutarch’s need to deal with the issue of the patina at the beginning of the walk. &lt;em&gt;On the Pythian Responses&lt;/em&gt; is first of all a theological and philosophical text and this aspect obviously influences how Plutarch looks at artworks.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; The walk along the Sacred Way is an ascent to the Temple of Apollo and to the heart of the discussion, which is the responses of the Pythian oracles and how they changed through time. All the issues discussed along the way are a preparation for that main discussion. In this perspective, the debate on the patina is suited to be the first one, because it is linked to substance and physics. In other words, it is a perfect bridge between art and its materiality on one side and philosophy and its physical theories on the other.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; Plutarch’s explanation of the patina is deeply linked with the sanctuary and Delphic religion.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Nonetheless, the Monument of the Admirals was not the only significant bronze monument at the entrance of the sanctuary. While the group of Admirals was certainly impressive for the number of its statues, there was nearby at least one other equally impressive bronze offering, the bull dedicated by the Korkyreans (Corcyraeans), which was over life-size. Because it stood on a high base, the bull also appeared in the visitor’s field of vision before entering the gate, above the wall.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; Similarly, we can assume that the Admirals’ group was renowned in part because it celebrated an important victory, the one at Aigospotamoi, but just near it there was also a base by Pheidias celebrating Marathon.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;In conclusion, location, visual impact, and fame are not in and of themselves sufficient reasons to justify Plutarch’s choice. The mention of the group is rather connected to its interpretation: in the case of the Admirals, the blue patina made the statues look, to Diogenianos’s eyes, very like sea creatures in their surface color and deeper than the ocean (οἷον ἀτεχνῶς θαλαττίους τῇ χρόᾳ καὶ βυθίους).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; It seems that Plutarch is playing with history here. In fact, the reference to the color of the sea seems, primarily, an allusion to the naval battle the monument celebrated. Except for the gods, the figures were mainly those of the men who commanded the victorious ships at Aigospotamoi, so that a sea-blue patina made them look like real “men of the sea.” But θαλάττιος also means something that is “&lt;em&gt;in&lt;/em&gt; or &lt;em&gt;of&lt;/em&gt; or &lt;em&gt;on&lt;/em&gt; or &lt;em&gt;from&lt;/em&gt; the sea.”&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; Thus another interpretation suggests itself. Perhaps Plutarch, in writing this passage, also had in mind bronze statues that were actually found in the sea. This phenomenon was not unknown to the ancients, as we know from a famous relief from Ostia representing statues in a fishermen’s net.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Plutarch refers twice to the Spartan Monument as the monument “of the Admirals” (&lt;em&gt;De Pythiae oraculis&lt;/em&gt; 395b, πρὸς τοὺς ναυάρχους; &lt;em&gt;Lysander&lt;/em&gt; 18.1, τῶν ναυάρχων&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;), and this is the name commonly used today, although from a historical point of view it is erroneous. In fact, only Arakos was navarch at Aigospotamoi. He was elected because Lysander, who was navarch the year before, could not assume that role again. Instead, Lysander was vice-navarch, while all the other men represented in the Delphian monument were trierarchs. Historical mistake or not, from Plutarch’s perspective all the commanders are put on the same level, so that the impression of &lt;em&gt;concordia&lt;/em&gt; and unity among Greek cities is stressed. Since this is a very important theme in Plutarch’s reading of the past and present history of Greece and also in his interpretation of the votive offerings in Delphi,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; we can conclude that the philosopher attributed to the Monument of the Admirals a peculiar political, historical, and social meaning and considered it an apt symbol of &lt;em&gt;concordia&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lysander was undoubtedly the main character of the monument; nonetheless, when Plutarch wants to mention a portrait of him (&lt;em&gt;Lysander&lt;/em&gt; 1.1), he refers to a marble statue in the Treasury of Brasidas and the Akanthians.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; The indication of the material (λίθινον) serves, together with information on the statue’s exact position inside the treasury (τὸν ἐντὸς ἐστῶτα τοῦ οἴκου παρὰ ταῖς θύραις λίθινον ἀνδριάντα), first of all to identify the statue. In describing it, Plutarch is interested in just a few features: the long beard and hair, according to the ancient Spartan tradition. He interprets this tradition as a rule established by Lykourgos: according to the Spartan ruler, long hair made beautiful men more fascinating and ugly men more fearsome. We can conclude that in Plutarch’s opinion Lysander belonged to one of these two categories, though it is not clear which one, and his marble portrait mirrored this feature very well, probably better than his portrait in the Monument of the Admirals. Plutarch’s preference could also be due to a different way of representing the Spartan commander and/or an inferior state of preservation of the bronze statue. In fact, we should also take into consideration that, unlike the Admirals’ group, Lysander’s marble statue was set inside a building, so that it was not subjected to atmospheric agents.&lt;/p&gt;
+
+&lt;p&gt;As a priest in Delphi, Plutarch knew very well the histories and myths connected to the sanctuary, and, above all, he had access to its archives. For this reason, his interpretation of the marble statue of Lysander is particularly interesting. According to him, the statue was usually identified with Brasidas because of the name of the treasury itself. But it seems he had further information confirming that, indeed, it represented Lysander.&lt;/p&gt;
+
+&lt;p&gt;The doubtful identification of the statue seems to suggest, first of all, that at least in Plutarch’s time the statue in the treasury did not have an inscription.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;16&lt;/a&gt;&lt;/sup&gt; Although the philosopher does not state where he learned that the statue was Lysander, it is possible to propose a hypothesis about his source. In the &lt;em&gt;Life of Lysander&lt;/em&gt; (18.2), he reports that according to Anaxandrides of Delphi (Ἀναξανδρίδης δ’ ὁ Δελφὸς ἱστορεῖ), Lysander had left a gold and ivory trireme in the Treasury of Brasidas and the Akanthians. Consequently, we can conclude that Anaxandrides was certainly one of his sources on the connections between Lysander and the Treasury of Brasidas and the Akanthians. Therefore, it is possible that the identification of the marble statue as Lysander—and not Brasidas, as usual—also came from Anaxandrides.&lt;/p&gt;
+
+&lt;p&gt;Plutarch refers to a Delphic marble statue of Lysander again in &lt;em&gt;On the Pythian Responses&lt;/em&gt; (397f), when he reports the extraordinary event that happened after the battle of Leuktra in 371 BC: the face of Lysander’s statue was covered in grass (ὁ δ’ αὐτοῦ &amp;lt;τοῦ&amp;gt; Λυσάνδρου λίθινος ἀνδριὰς ἐξήνθησεν ἀγρίαν λόχμην καὶ πόαν τοσαύτην τὸ πλῆθος, ὥστε κατακρύψαι τὸ πρόσωπον).&lt;/p&gt;
+
+&lt;p&gt;The event was very famous and is recorded also by Cicero, who gives a slightly different version: according to Cicero, the grass did not cover Lysander’s face but made a corona around his head (Cicero &lt;em&gt;De divinatione&lt;/em&gt; 1.34.75: in Lysandri, qui Lacedaemoniorum clarissumus fuerat, statua, quae Delphis stabat, in capite corona subito exstitit ex asperis herbis et agrestibus).&lt;/p&gt;
+
+&lt;p&gt;Plutarch’s reference to marble and the use of the article &lt;em&gt;ὁ&lt;/em&gt; encourages us to identify the statue with the one in the Treasury of Brasidas and the Akanthians,&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:17&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; as if it was &lt;em&gt;the&lt;/em&gt; marble statue of Lysander &lt;em&gt;par excellence&lt;/em&gt;. Nonetheless, it seems a bit odd that such a famous event was connected to a statue whose identification was not clear and which was usually identified as Brasidas. It is, then, possible that another marble statue of Lysander was in the sanctuary. In either case, Plutarch intends the reference to marble as a way to distinguish this statue from another, probably from the most famous: that in the Monument of the Admirals, which was mentioned at the beginning of &lt;em&gt;On the Pythian Responses&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;In conclusion, Plutarch’s description of Lysander’s monuments in Delphi reveals a use of the material—bronze or marble—first of all to distinguish between two different statues. In the case of the group of the Admirals, the deterioration of the bronze and the formation of the blue patina became a means of interpreting the monument in the light of the event it celebrated and of its connection with the sea. Moreover, the discussion of the origin of the patina, which is due to the Delphic air, introduces the philosophical nature of the writing and represents the first step in the theological reflection that Plutarch intends to develop. Therefore, the bronze and its patina also assume a philosophical and religious value: it is peculiar to the sanctuary of Delphi and strictly linked to Apollo. In Plutarch’s view, the bronze becomes more than bronze and a bronze statue more than just the sum of its technique and aesthetic appearance. The material assumes both a historical and a philosophical value and becomes the key of Plutarch’s interpretation of the Monument of the Admirals.&lt;/p&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Jouanna 1975; Pouilloux 1986; Craddock and Giumlia-Mair 1993a, 1993b; Giumlia-Mair and Craddock 1993, 15–17; Giumlia-Mair and Lehr 1998; Giumlia-Mair et al. 2000; Giumlia-Mair 2001a, 2001b; Giumlia-Mair 2008, 269–73; Franke and Mircea 2005.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;The text is cited from Schröder 1990.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;On the Monument of the Admirals, see Bommelaer 2015, 132–34 (with further bibliography). During a conference at the Scuola Normale Superiore, Pisa, in June 2016, Anne Jacquemin presented a new reconstruction of the monument by D. La Roche, which is going to be published.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Jouanna 1975, 69–70.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;Flacelière 1964, 208.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;Falaschi 2015, 49–51.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;Pouilloux 1986; Zagdoun 1995, 589–90; Ildefonse 2006, 60–63, 259.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;On the Corcyrean Bull, see Bommelaer 2015, 126–27 (with further bibliography).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;On the Marathon Base, see Bommelaer 2015, 135 (with further bibliography).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;For the explanation of this expression, see Schröder 1990, 117; Ildefonse 2006, 259 n. 22.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;LSJ Online, s.v. “θαλάσσιος”.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;Ostia, Museo Nazionale inv. 157 (from Ostia, first century BC).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;The text is from Angeli Bertinelli et al. 1997.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;See, for example, Plutarch &lt;em&gt;Flamininus&lt;/em&gt; 11.6; &lt;em&gt;Timoleon&lt;/em&gt; 29.5–6; &lt;em&gt;Philopoemon&lt;/em&gt; 8.3. On this issue, see Falaschi 2015, 53–55.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;On the Treasury of Brasidas and the Akanthians, see Bommelaer 2015, 188–90 (with further bibliography).
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;Angeli Bertinelli et al. 1997, 124.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;Angeli Bertinelli et al. 1997, 124–25.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -51,7 +659,260 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/the-artist/12-horne/</guid>
-      <description>Our understanding of the ancient sculptor’s profession, like so much of ancient sculpture itself, is fragmentary. The particulars of ephemeral facets such as training and organization come primarily from literary sources, supplemented by meager evidence found at sites of bronze and marble sculpture production. As a result, the clearest picture forms around the major figures of antiquity such as Praxiteles and Pheidias, who, according to ancient accounts, were sought out to complete major works across the Aegean.</description>
+      <description>
+
+&lt;p&gt;Our understanding of the ancient sculptor’s profession, like so much of ancient sculpture itself, is fragmentary. The particulars of ephemeral facets such as training and organization come primarily from literary sources, supplemented by meager evidence found at sites of bronze and marble sculpture production. As a result, the clearest picture forms around the major figures of antiquity such as Praxiteles and Pheidias, who, according to ancient accounts, were sought out to complete major works across the Aegean.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; While we cannot fault encyclopedists, principally Pliny the Elder and Pausanias, for focusing their comments on notable pieces and creators, their perspectives are their own; it is rather our understanding of their accounts that deserves critical reexamination. A passing analysis of these literary accounts skews our understanding of the broader system of employment for all sculptors toward a series of major commissions.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; It is perhaps more accurate to consider commissions, or &lt;em&gt;patroned&lt;/em&gt; work, as exceptional highlights rather than reflecting the trade more generally.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; This perspective raises important questions such as: What would have occupied the intervening years of a patron-less sculptor’s career? Were there periods during which he was actively seeking employment at sites of sculptural production? I will argue that in order to understand &lt;em&gt;un-patroned&lt;/em&gt; employment and its relation to mobility, it is prudent to turn to approaches typically considered ancillary to the study of art. These include the modern study of migration dynamics as well as logistical and contractual documents within the epigraphic record.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Sculptors of the ancient world were, after all, engaged in a commercial enterprise and reliant upon monetizing their material output.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; In the case of sculpting for large-scale architectural projects, we are fortunate to have documentation pertaining to the experiences of such individuals. This essay draws on these important bodies of evidence, identifying where pay rate, job type, and civic status affected the employment of sculptors and their apparent movement to locations of opportunity. These sources of information can be correlated with epigraphic evidence from Athens and Rhodes, which demonstrate the economic pressures on two diverse types of work settings: architectural projects and static workshops. By identifying common legal and economic catalysts, it becomes possible to broaden our understanding of the working lives of bronze and marble sculptors in antiquity.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;As previously mentioned, our sources on the ephemeral aspects of production are limited; even Lucian’s colorful account of stone sculpting is largely devoid of useful details.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; We will see in Athens that, in the case of large-scale architectural projects, the practice of documenting expenditures provides valuable information regarding employment of figural sculptors. The temporary nature of such projects adds an additional consideration when contemplating the effect upon workmen with niche skills. The Athenian Building Commission’s records of the Erechtheion’s construction from 409–405 BC, found on fragmentary marble slabs, include individual workman’s roles, pay, period of employment, and civic status (&lt;a href=&#34;#12.1&#34;&gt;fig. 12.1&lt;/a&gt;).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; Richard Randall, Jr., has drawn several important conclusions about the organization of these laborers, sculptors included. First, workmen of mixed status (slave, &lt;em&gt;metic&lt;/em&gt;, and citizen) labored side-by-side on tasks of similar complexity while earning an equal sum during this third phase of construction.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; In the case of skilled slave labor, earnings would have been given directly to the slave’s owner.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; Considering the equality of pay, one must ask what factors affected the initial selection of workmen. Were there factors outside of the familiar facets of opportunity: resources (individuals possessing the necessary skills) and positional factors (availability of workers)? The second interesting piece of information gleaned from the marble fragments is that individual craftsmen engaged in more than one trade. The &lt;em&gt;metic&lt;/em&gt; Agathanor, for example, worked as a sculptor on two projects (likely carving the Erechtheion’s small frieze figures) and as a wax modeler for the ceiling coffers, as documented by job title and its associated pay (&lt;a href=&#34;#12.1&#34;&gt;table 12.1&lt;/a&gt;). Randall goes on to point out that Agathanor was not the only individual engaged in multiple trades. These craftsmen sought to capitalize on the availability of work provided by complex multifaceted projects. With this information, one begins to see the value of investigating the context of logistical data as a corrective to preconceived notions of absolute trade specialization and assumptions privileging “artists” over craftspeople.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;12.1&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_12.01_Horne.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 12.1. &lt;/span&gt;Fragment of the Erechtheion construction record of the Athenian Building Commission, ca. 409–405 BC. After Paton, Caskey, and Stevens 1927&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+
+
+&lt;figure class=&#34;q-figure&#34; id=&#34;table-12.1&#34;&gt;
+  
+  
+  
+  
+  &lt;div class=&#34;q-figure__table-wrapper q-border-all q-center-all&#34; style=&#34;font-size: calc( (1rem * .8));&#34;&gt;
+  
+  &lt;table&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;&lt;th scope=&#34;col&#34;&gt;Name&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Carpenter&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Joiner&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Laborer&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Mason&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Modeller in Wax&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Sculptor&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Woodcarver&lt;/th&gt;&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Aganthor - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Kephisodoros - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Manis - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Mikion - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Sindron - slave&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Neseus - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Teukros - &lt;em&gt;metic&lt;/em&gt;&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Theodotos - citizen&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
+	&lt;/tbody&gt;
+	&lt;tfoot&gt;
+		&lt;tr&gt;&lt;td colspan=&#34;8&#34;&gt;Numbers denote the frequency of working a specific trade&lt;/td&gt;&lt;/tr&gt;
+	&lt;/tfoot&gt;
+&lt;/table&gt;
+
+  
+  &lt;/div&gt;
+  &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Table 12.1. &lt;/span&gt;Erechtheion craftsmen working in more than one trade. Athenian Building Commission, ca. 409–405 BC. After Randall 1953&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;Delving further into the numerical data of the Erechtheion construction project, the details of civic status, compensation, and tenure provide clues to the larger picture of the &lt;em&gt;un-patroned&lt;/em&gt; sculptor’s profession. It should be reiterated that these architectural engagements are by definition temporary; however, the specifics of sculptors’ terms of employment illustrate the necessity of constantly pursuing new opportunities. In this phase of construction attributed to the aforementioned inscriptions, the sculptors were carving small-scale figures for the frieze on the north porch.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; In Randall’s assessment, these nine sculptors were paid the rather modest sum of sixty drachmae per figure, an amount comparable to what masons were paid for carving a similarly-sized block of stone.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; In looking at the sculptors on a neighboring project, the Parthenon pediment, Alison Burford noted that sculptors were paid a sum comparable to the woodworkers and masons, the equivalent of 1.5 to 2 drachmae per day.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; Simplifying the numbers in this way leads to the conclusion that workmen were similarly compensated regardless of their technical proficiency. The second point of concern is that the changing terms of payment—that is, wages payable on completion of individual frieze figures versus a contract or daily wage—suggest a day-to-day arrangement that was economically efficient for the project foremen but insecure for the sculptors. Here is where the modern study of migration dynamics can be most effectively applied, helping us understand how similar practices affected opportunity and motivated individuals’ mobility.&lt;/p&gt;
+
+&lt;p&gt;The movement of people for political, social, economic, and other reasons is clearly visible in the historical records of antiquity. Changing circumstances often motivated individuals to relocate to more stable and profitable environs.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; For those with financial motives, the primary governing factor remains improved opportunity. Scholars of the past decades have sought to elucidate and quantify the extramonetary motives that act upon those seeking permanent working situations, as well as those favoring a transient experience. In his 1984 article “The Logic of Opportunity and Mobility,” John Skvoretz seeks to refine the working model around which social scientists had constructed the study of upward movement within contemporary structured labor environments.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; Previous studies had been limited to considerations of position availability and numbers of applicants. Skvoretz suggests that additional facets play a significant role in calculating an individual’s potential for movement, principally (1) timing (as a function of periods of high demand versus low demand), (2) skills possessed by the individual, and (3) the availability of positions in a given environment.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;16&lt;/a&gt;&lt;/sup&gt; More recently, scholars have expanded considerations to include dimensions such as gender and race.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:17&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; The original tripartite conception of the governing factors must thus be reconsidered as a matrix of dimensions, each of which exerts a degree of influence upon the modern or ancient laborer’s ability to pursue new opportunities. It is difficult to apply Skvoretz’s statistical models to an ancient context; however, incorporating dimensions of identity including citizenship, ethnicity, and civic status into a sculptor’s &lt;em&gt;opportunity exposure&lt;/em&gt; allows for a more complex understanding of forces acting upon &lt;em&gt;un-patroned&lt;/em&gt; practitioners of the sculptural trade.&lt;/p&gt;
+
+&lt;p&gt;The machinations of the Athenian bureaucracy would have placed added financial hardship on the &lt;em&gt;metic&lt;/em&gt; craftsmen residing in the city: foreign merchants and craftspeople were required to pay a special market tax in order to sell their wares on the Agora.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:18&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:18&#34;&gt;18&lt;/a&gt;&lt;/sup&gt; While this would not have immediately affected the Erechtheion workmen, their counterparts working in terracotta and with small-scale bronzes would have felt this pressure. Those &lt;em&gt;metics&lt;/em&gt; who chose to reside in the city for any length of time were also required to pay a yearly poll tax, regardless of their employment status. In his study of mobility in ancient Greece, Robert Garland points to the writings of Xenophon to show that such taxes brought in a considerable sum to the Athenian treasury. These financial pressures contribute to our understanding of the complex matrix of legal and financial forces acting on non-citizen craftsmen. Despite these specific pressures, it appears that workmen were attracted to Athens as a site of employment, even if only on a temporary basis.&lt;/p&gt;
+
+&lt;p&gt;The prevalence of &lt;em&gt;metics&lt;/em&gt; in artisanal trades is mirrored in the now-familiar records of Erechtheion’s construction.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:19&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:19&#34;&gt;19&lt;/a&gt;&lt;/sup&gt; Of the total workforce employed during this phase of construction, &lt;em&gt;metics&lt;/em&gt; predominate: 42 &lt;em&gt;metics&lt;/em&gt; versus 24 citizens and 20 slaves (&lt;a href=&#34;#12.2&#34;&gt;table 12.2&lt;/a&gt;). A useful point of comparison is the construction of another monumental building project, the sanctuary at Eleusis dating between 329/8 and 319/8 BC.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:20&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:20&#34;&gt;20&lt;/a&gt;&lt;/sup&gt; According to documentary inscriptions, &lt;em&gt;metic&lt;/em&gt; workmen once again outnumber citizens, but here only by a small margin.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:21&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:21&#34;&gt;21&lt;/a&gt;&lt;/sup&gt; The trend in civic status of workers on these two projects is reflected in the smaller sample of sculptors employed to carve the Erechtheion’s frieze: of 9 total, 5 were &lt;em&gt;metic&lt;/em&gt;, 3 were citizens, and 1 was of unknown status. The logistical concerns of the Commission’s records provide us with information on these individuals beyond just their names. Randall suggests that the bulk of the &lt;em&gt;metic&lt;/em&gt; workforce did not remain in Athens waiting for more work.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:22&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:22&#34;&gt;22&lt;/a&gt;&lt;/sup&gt; While his assessment is based on the relatively small detail of stylistic comparanda from a single other architectural project, the weight of the aforementioned terms of employment and tax-related concerns provide strong supporting evidence for the sculptors’ itinerant lifestyle.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:23&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:23&#34;&gt;23&lt;/a&gt;&lt;/sup&gt; It appears that Pliny’s celebrity sculptors differed from their compatriots not in their ability to travel but in the reasons for their mobility: commissions by wealthy patrons, rather than external financial pressures.&lt;/p&gt;
+
+
+
+&lt;figure class=&#34;q-figure&#34; id=&#34;table-12.2&#34;&gt;
+  
+  
+  
+  
+  &lt;div class=&#34;q-figure__table-wrapper q-border-all q-center-all&#34; style=&#34;font-size: calc( (1rem * .8));&#34;&gt;
+  
+  &lt;table&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;&lt;th scope=&#34;col&#34;&gt;&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Citizens&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Metrics&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Slaves&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Unknown&lt;/th&gt;&lt;th scope=&#34;col&#34;&gt;Total&lt;/th&gt;&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Architects&lt;/th&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Under-Secretary&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Mason&lt;/th&gt;&lt;td&gt;9&lt;/td&gt;&lt;td&gt;12&lt;/td&gt;&lt;td&gt;16&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;44&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Sculptors&lt;/th&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Wax Modellers&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Woodcarvers&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Carpenters&lt;/th&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;7&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;19&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Painters&lt;/th&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;/tr&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Laborers&lt;/th&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;&lt;/tr&gt;
+	&lt;/tbody&gt;
+	&lt;tfoot&gt;
+		&lt;tr&gt;&lt;th scope=&#34;row&#34;&gt;Totals&lt;/th&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;42&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;21&lt;/td&gt;&lt;td&gt;107&lt;/td&gt;&lt;/tr&gt;
+	&lt;/tfoot&gt;
+&lt;/table&gt;
+
+  
+  &lt;/div&gt;
+  &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Table 12.2. &lt;/span&gt;Breakdown of trades of Erechtheion workmen by civic status. Athenian Building Commission, ca. 409–405 BC. After Randall 1953&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+&lt;p&gt;In order to more fully understand the role of financial pressures in sculptors’ mobility, the scope of their settings must be widened to include a second source of non-commission employment: static workshop sites such as Rhodes. Here the potential for sustained employment offered new opportunities to &lt;em&gt;metic&lt;/em&gt; sculptors in stone and bronze.&lt;/p&gt;
+
+&lt;p&gt;In stationary sculptural workshops, the financial concerns were generally similar to those in architectural projects, that is, the costs of materials and labor—of technicians, carvers, and/or painters. In the case of bronze sculpting, these concerns were evident in several measures for cutting material costs, such as hollow casting for large-scale pieces.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:24&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:24&#34;&gt;24&lt;/a&gt;&lt;/sup&gt; This and other innovations demonstrate a clear financial concern in the function of the bronze workshop at sites such as those on Rhodes, documented by Chris Kantzia and Gerhard Zimmer.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:25&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:25&#34;&gt;25&lt;/a&gt;&lt;/sup&gt; While literary accounts attest to a high volume of production comparable to major civic centers, Rhodes is unique in that statue bases belonging to locally commissioned pieces provide a detailed epigraphic record of production by specific named sculptors. The density of signatory inscriptions has allowed scholars such as Virginia Goodlett to reconstruct several Rhodian family workshops and to calculate the number of local and &lt;em&gt;metic&lt;/em&gt; sculptors, which appears to be considerable.&lt;/p&gt;
+
+&lt;p&gt;According to Goodlett’s calculations, the height of Rhodes’s sculptural production correlates to a numerical superiority of statue bases bearing foreign sculptors’ signatures (&lt;a href=&#34;#12.2&#34;&gt;fig. 12.2&lt;/a&gt;). The profusion of foreign craftsmen suggests an analogous environment of positional opportunity akin to the aforementioned architectural projects. Bronze sculptors were aware of these opportunities in Rhodes and sought to capitalize on the demand.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:26&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:26&#34;&gt;26&lt;/a&gt;&lt;/sup&gt; The largest proportion of individuals came from Athens, and later Asia Minor. In the years 250–200 BC, approximately 60 statues were produced and the same number in the following fifty years (&lt;a href=&#34;#12.3&#34;&gt;fig. 12.3&lt;/a&gt;).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:27&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:27&#34;&gt;27&lt;/a&gt;&lt;/sup&gt; The same periods reveal a sample of 11 citizen versus 19 foreign signatures, and 12 citizen versus 16 foreign signatures, respectively.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:28&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:28&#34;&gt;28&lt;/a&gt;&lt;/sup&gt; Goodlett points out that during the specific period of 250–167/6 BC, the &lt;em&gt;metic&lt;/em&gt; sculptors must have been itinerant, since their signatures appear on only one piece.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:29&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:29&#34;&gt;29&lt;/a&gt;&lt;/sup&gt; Once again, we are confronted with the question: what affected these individuals’ short tenure? In this case the circumstances of production did not generate the type of detailed logistical documentation seen at the Erechtheion’s construction; however, the assumption that sculptors on Rhodes were employed under similar circumstances (e.g. per-unit compensation) is suggested by inscriptions detailing individual commissions from the fourth–second centuries.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:30&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:30&#34;&gt;30&lt;/a&gt;&lt;/sup&gt; Another contributing factor to the transience of foreign sculptors on Rhodes could have been the island’s economic downturn in the mid-second century BC, which surely affected local demand. The latter circumstance explains the general decrease in production by way of decreased patronage, but does not directly address the short-term stay of itinerant sculptors during the earlier decades of prosperity. Goodlett provides a possible explanation in her analysis of the puzzling numerical inversion of foreign versus Rhodian signatures from 100 to 50 BC.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:31&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:31&#34;&gt;31&lt;/a&gt;&lt;/sup&gt; She suggests that the structure of Rhodian citizenship followed Athenian precedent in regard to the exclusivity of land ownership, making it difficult for &lt;em&gt;metics&lt;/em&gt; to establish permanent workshop facilities. If these administrative systems were as closely related as Goodlett suggests, it is possible that there was an added tax burden on foreigners in Rhodes like the one described by Xenophon for Athens. As a hub of maritime commerce, Rhodes was well positioned to capitalize on this potential tax base of &lt;em&gt;metic&lt;/em&gt; merchants and craftsmen.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:32&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:32&#34;&gt;32&lt;/a&gt;&lt;/sup&gt; With unpredictable opportunities for employment and external financial pressures, sculptors would have felt compelled to keep moving, seeking a more favorable positional opportunity. At this point the notion that mobility was key to sculptors of various media at temporary as well as static production sites becomes more attractive; yet there are far more questions to answer about the trade and other sites.&lt;/p&gt;
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;12.2&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_12.04_Horne.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 12.2. &lt;/span&gt;DSculptor’s ethnics (citizenship) on statue bases of Hellenistic Rhodes. After Goodlett 1991&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+
+
+  
+  
+
+    
+    
+    &lt;figure class=&#34;q-figure&#34; id=&#34;12.3&#34;&gt;
+      &lt;div class=&#34;q-figure__wrapper&#34;&gt;
+        
+          &lt;img  src=&#34;../figures/fig_12.05_Horne.jpg&#34; alt=&#34;&#34; /&gt;
+        
+        
+
+      &lt;/div&gt;
+      
+      
+        &lt;figcaption&gt;&lt;span class=&#34;q-figure-label&#34;&gt;Figure 12.3. &lt;/span&gt;Sculpture production in Hellenistic Rhodes (350 BC–AD 50). After Goodlett 1991&lt;/figcaption&gt;
+      
+      
+    &lt;/figure&gt;
+    
+
+  
+
+
+
+
+&lt;p&gt;The full reality of the ancient sculptors’ trade is difficult to discern from the meager evidence left to us. Scholars have wrestled with literary testimony, visual documentation, and physical evidence associated with the constructive process. In many cases it has proven invaluable to our understanding of physical materials, yet the greater challenge remains in explaining the ephemeral facets of the trade. By adopting new approaches such as migration dynamics and analyzing ancillary data at sites of production, we can begin to reconstitute the working lives of sculptors and their mobility through their environment. These &lt;em&gt;un-patroned&lt;/em&gt; individuals certainly constitute a larger proportion of the workforce than those we know from literary accounts. After all, it was the &lt;em&gt;un-patroned&lt;/em&gt; sculptors and technicians whose assistance was required in the creation of Pliny’s masterworks.&lt;/p&gt;
+
+&lt;h2 id=&#34;acknowledgments&#34;&gt;Acknowledgments&lt;/h2&gt;
+
+&lt;p&gt;I would like to thank the organizers of the 19th Annual Bronze Congress for the opportunity present my initial thoughts on the subject. The helpful comments provided by various individuals greatly aided subsequent thought on the subject, notably the earliest discussions with Carol Mattusch.&lt;/p&gt;
+
+&lt;h2 id=&#34;notes&#34;&gt;Notes&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Pliny &lt;em&gt;Naturalis historia&lt;/em&gt; 36.20, 34.69; Pausanias 8.9.1, 1.23.7, 10.37.1.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;The passing accounts of familial workshops such as those of Polykleitos and Polykles detail specific works and their varied locations.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;The use of the term &lt;em&gt;patroned&lt;/em&gt; refers to the active pursuit of a sculptor by a patron. Conversely, the &lt;em&gt;un-patroned&lt;/em&gt; individual is the active party seeking work from a patron.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;Bennett 2010 and Boren and Young 2013 approach the subject of creatives’ mobility as a function of attracting said individuals.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;Here the distinction between sustained sponsorship by a patron and specific commissions must be elucidated.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;Classical Athens and Hellenistic Rhodes are notably distinct; however, their shared model of governance and legal distinctions allows for important comparisons to be drawn.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:7&#34;&gt;Lucian &lt;em&gt;Somnium&lt;/em&gt; 130: 222–23.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:8&#34;&gt;&lt;em&gt;IG&lt;/em&gt; 1.324.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:9&#34;&gt;Randall 1953, 203. Burford 1974, 34, comes to the same conclusion in her later study of the Parthenon construction. Mossé 1969 expresses the same sentiment, though he conflates several contributing factors. Randall addresses the high proportion of non-citizen workmen, suggesting that naval engagements drew from the reserves of citizen workmen, contributing to the reliance upon &lt;em&gt;metic&lt;/em&gt; laborers. Garland 2014, 163, suggests that &lt;em&gt;metic&lt;/em&gt; men of were also pressed into service by the Athenian state in times of war.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:10&#34;&gt;Mossé 1969, 29.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:11&#34;&gt;Randall 1953, 199. The famous caryatid porch had already been completed by this point.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:12&#34;&gt;Randall 1953, 207.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:13&#34;&gt;Burford 1974, 34.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:14&#34;&gt;MacDonald 1981 provides a contrast between utilitarian (and more accessible) pottery and the luxury of sculpture, which must be considered.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:15&#34;&gt;Skvoretz 1984 analyzes several competing theories but this discussion is limited to his critique of Sørensen 1976, Cohen 1972, and White 1970.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:16&#34;&gt;Skvoretz 1984, 73.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:17&#34;&gt;Skvoretz (1984, 74) points out that mathematical models such as Sørensen’s (1976) assume potential movement only within these individual groups.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:18&#34;&gt;Garland 2014, 156.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:18&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:19&#34;&gt;Randall 1953, 203.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:19&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:20&#34;&gt;Sargent 1924, 40.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:20&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:21&#34;&gt;&lt;em&gt;IG&lt;/em&gt; 2.834b–c; 4.2.834b.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:21&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:22&#34;&gt;Randall 1953, 203.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:22&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:23&#34;&gt;Randall’s assertion is based on commentary by Dinsmoor 1950, who noted a correlation in building construction between the Erechtheion and the Nereid Monument at Xanthos.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:23&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:24&#34;&gt;Stewart 2015, 43. Stewart and Ma 2013 provide a general idea of material costs, though exact conclusions are difficult to draw due to the small sample of available data.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:24&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:25&#34;&gt;Kantzia 1989; Zimmer 1990. Materials left behind in the pits suggest that they were used on multiple occasions.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:25&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:26&#34;&gt;Goodlett 1991, 676, points out that the Mnasitimos family hired outside sculptors Menippos of Kos and Eukles of Mylasa.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:26&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:27&#34;&gt;Pliny &lt;em&gt;Naturalis historia&lt;/em&gt; 34.36 asserts that 3,000 bronze statues remained on Rhodes in the first century AD, some two hundred years after the city’s fall from power.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:27&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:28&#34;&gt;There is a brief spike in Rhodian sculptors from 100 to 50 BE, which Goodlett attributes to &lt;em&gt;metic&lt;/em&gt; sculptors gaining citizenship, a rare event. Rostovtzeff ([1941] 1953, 689) argues against any precedent of full citizenship.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:28&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:29&#34;&gt;Goodlett 1991, 675. The small size of Goodlett’s sample raises important questions; however, I would suggest that her general hypotheses remain sound.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:29&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:30&#34;&gt;&lt;em&gt;IG&lt;/em&gt; 12.9.196, 198. Ma (2013, 244) lists numerous instances in which specific costs appear on the associated statue base.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:30&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:31&#34;&gt;Goodlett 1991, 679.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:31&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&#34;fn:32&#34;&gt;See Gabrielsen 1997.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:32&#34;&gt;↥&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>

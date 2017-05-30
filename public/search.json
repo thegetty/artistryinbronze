@@ -590,10 +590,6 @@
             
             
             
-          
-            
-            
-            
             
           
             
@@ -607,10 +603,6 @@
             
           
             
-            
-            
-            
-          
             
             
             
@@ -696,7 +688,7 @@
 
     
     <li>
-      <a href="./tables/30.1_ferrence_giumlia-mair_table/" rel="next" id="js-next">
+      <a href="./tables/30.1_Ferrence_Giumlia-Mair_table/" rel="next" id="js-next">
         <svg width="1em" height="1em"><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
         <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
       </a>

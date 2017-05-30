@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>/</loc>
@@ -155,7 +154,7 @@
   </url>
   
   <url>
-    <loc>/the-hellenistic-east/22-lindstroem/</loc>
+    <loc>/the-hellenistic-east/22-Lindstroem/</loc>
   </url>
   
   <url>
@@ -352,76 +351,71 @@
   </url>
   
   <url>
-    <loc>/search.json</loc>
+    <loc>search.json</loc>
   </url>
   
   <url>
-    <loc>/tables/30.1_ferrence_giumlia-mair_table/</loc>
+    <loc>/tables/30.1_Ferrence_Giumlia-Mair_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/37.1_boyatzis_table/</loc>
+    <loc>/tables/37.1_Boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/37.2_boyatzis_table/</loc>
+    <loc>/tables/37.2_Boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/37.3_boyatzis_table/</loc>
+    <loc>/tables/37.3_Boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/37.4_boyatzis_table/</loc>
+    <loc>/tables/37.4_Boyatzis_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/39.1_salvioli_table/</loc>
+    <loc>/tables/39.1_Salvioli_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/40.1_northover_table/</loc>
+    <loc>/tables/40.1_Northover_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/41_maish_tables_transmittal/</loc>
+    <loc>/tables/41_Maish_tables_transmittal/</loc>
   </url>
   
   <url>
-    <loc>/tables/42.1_mille_descamps_table/</loc>
+    <loc>/tables/42.1_Mille_Descamps_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/42.2_mille_descamps_table/</loc>
+    <loc>/tables/42.2_Mille_Descamps_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/43.1_vidovic_table/</loc>
+    <loc>/tables/43.1_Vidovic_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/44.1_siano_table/</loc>
+    <loc>/tables/44.1_Siano_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/44.2_siano_table/</loc>
+    <loc>/tables/44.2_Siano_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/46.1_kantarelou_table/</loc>
+    <loc>/tables/46.1_Kantarelou_table/</loc>
   </url>
   
   <url>
-    <loc>/tables/46.2_kantarelou_table/</loc>
+    <loc>/tables/46.2_Kantarelou_table/</loc>
   </url>
   
   <url>
     <loc>/artifacts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -442,11 +436,6 @@
   
   <url>
     <loc>/tables/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
