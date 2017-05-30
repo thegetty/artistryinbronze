@@ -2,5 +2,5 @@
 .DS_Store
 /themes/quire-base-theme/static
 /themes/quire-base-theme/node_modules
-/public
+
 README.md
