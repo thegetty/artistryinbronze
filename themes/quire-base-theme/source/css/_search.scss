@@ -12,4 +12,37 @@
     width: 1.75em;
     fill: $primary-color;
   }
+  .tool-tip {
+    display: none;
+  }
+  &.no-js {
+    // display: none;
+    svg {
+      fill: $light-neutral;
+    }
+    div {
+      display: none;
+    }
+    button:hover,
+    button:focus {
+      .tool-tip {
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 1em;
+        width: 12em;
+        text-align: left;
+        color: $dark-neutral;
+        font-size: 1rem * $small-font-scale;
+        line-height: $small-font-line-height;
+        background-color: $light-neutral;
+        padding: 1em;
+        border-radius: .25em;
+        a {
+          color: $dark-neutral;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
 }

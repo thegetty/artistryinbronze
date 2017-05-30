@@ -169,24 +169,49 @@ sup {
   }
 
   .skip-link:focus {
+    z-index: 1000;
     position: fixed;
     left: $base-spacing * 4;
     top: $base-spacing * .8;
     width: 10em;
+    &.no-js {
+      left: $base-spacing;
+    }
   }
 
   .quire-nav-group {
     position: fixed;
     top: 0;
-    left: 0;
     width: 100%;
     font-family: $heading-font-family;
     background-color: $white;
+    &.no-js {
+      width: 70%;
+      right: 0;
+    }
+  }
+
+  main {
+    &.no-js {
+      float: right;
+      width: 70%;
+    }
   }
 
   &.quire-cover {
     .quire-nav-group {
       background-color: transparent;
+      &.no-js {
+        width: 100%;
+      }
+    }
+    main {
+      &.no-js {
+        width: 100%;
+      }
+    }
+    .quire-menu.no-js {
+      display: none;
     }
   }
 

@@ -1,4 +1,15 @@
+
 .quire-menu {
+
+    float: left;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 22em;
+
+    &.no-js {
+      width: 30%;
+    }
 
   &__button {
     position: absolute;
@@ -13,14 +24,12 @@
       width: 1.75em;
       fill: $primary-color;
     }
+    &.no-js {
+      display: none;
+    }
   }
 
   &__background {
-    z-index: 900;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 22em;
     height: 100vh;
     background-color: $light-neutral;
     padding: $base-spacing;

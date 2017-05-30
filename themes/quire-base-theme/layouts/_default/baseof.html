@@ -11,20 +11,26 @@
   </head>
   <body class="quire-baseof quire-{{ .Type }}">
     {{ partial "icons.html" . }}
-    <div class="quire-nav-group">
-      <a href="#main-content" class="skip-links">Skip to Main Content</a>
+    <div class="quire-nav-group no-js">
+      <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
       {{ partial "menu.html" . }}
       {{ partial "nav.html" . }}
       {{ if .Site.Params.searchEnabled }}
         {{ partial "search.html" . }}
       {{ end }}
     </div>
-    <main role="main" id="main-content">
+    <main role="main" id="main-content" class="no-js">
       {{ block "main" . }}
       {{ end }}
     </main>
     <script src="{{ .Site.BaseURL }}/assets/js/application.js"></script>
     <script>
+      (function() {
+        var dynamic = document.querySelectorAll(".no-js");
+        for (var i = 0; i < dynamic.length; i++) {
+          dynamic[i].classList.remove("no-js");
+        }
+      })();
       (function() {
         var button = document.querySelectorAll("button.expander");
         for (var i = 0; i < button.length; i++) {

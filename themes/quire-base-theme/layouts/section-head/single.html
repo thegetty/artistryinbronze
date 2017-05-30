@@ -22,7 +22,7 @@
       {{ end }}
       </ul>
       {{ with .Params.abstract }}
-        <h3 class="quire-page__section-list__link"><button class="heading-expander">Abstract</button></h3>
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
         <div class="quire-page__section-list__abstract">
         {{ . | markdownify }}
         </div>
@@ -44,7 +44,7 @@
       <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
       {{ end }}
       </ul>
-      <h3 class="quire-page__section-list__link"><button class="heading-expander">Abstract Only</button></h3>
+      <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract Only</button></h3>
       <div class="quire-page__section-list__abstract">
       {{ .Params.abstract | markdownify }}
       </div>
