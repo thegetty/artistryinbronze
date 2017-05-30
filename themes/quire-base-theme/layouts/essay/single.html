@@ -19,7 +19,7 @@
       {{ end }}
       </ul>
     {{ end }}
-    <p class="quire-page__header__page-navigation">Jump to: <a href="#essay-text">Main Text</a> | <a href="#notes">Notes</a>{{ if $pagebiblio }}| <a href="#bibliography">Bibliography</a>{{ end }}</p>
+    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li>Jump to: <a href="#essay-text">Main Text</a></li> <li><a href="#notes">Notes</a></li>{{ if $pagebiblio }} <li><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
   </header>
   <div class="quire-page__content">
     <section>
@@ -35,6 +35,7 @@
     {{ if $pagebiblio }}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>
+      <dl>
       {{ range .Site.Data.bibliography.biblio_list }}
         {{ $refs := replace .reference_for " " "" }}
         {{ $refslist := split $refs "," }}
@@ -47,6 +48,7 @@
           {{ end }}
         {{ end }}
       {{ end }}
+      </dl>
     </section>
     {{ end }}
     {{ if eq .Params.contributor_byline "bottom" }}

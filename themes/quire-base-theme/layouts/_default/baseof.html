@@ -48,6 +48,24 @@
           this.parentElement.nextElementSibling.hidden = expanded;
         });
       }
+      (function() {
+        var footnotes = document.querySelectorAll('[rel="footnote"]');
+        for (var i = 0; i < footnotes.length; i++) {
+          var span = document.createElement('span');
+          var txt = document.createTextNode("Footnote ");
+          var html = span.appendChild(txt);
+          span.setAttribute("class","visually-hidden");
+          footnotes[i].prepend(span);
+        };
+        var returnlink = document.querySelectorAll(".footnote-return");
+        for (var i = 0; i < returnlink.length; i++) {
+          var span = document.createElement('span');
+          var txt = document.createTextNode("Return to text ");
+          var html = span.appendChild(txt);
+          span.setAttribute("class","visually-hidden");
+          returnlink[i].prepend(span);
+        }
+      })();
     })();
     </script>
     {{ partial "analytics.html" . }}

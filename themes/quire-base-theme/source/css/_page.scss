@@ -41,6 +41,30 @@
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
       text-indent: 0;
+      ul {
+        display: inline-block;
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 0;
+        li {
+          float: left;
+          margin-left: $base-spacing * .25;
+        }
+        li:first-child {
+          margin-left: 0;
+          a {
+            margin-left: $base-spacing * .25;
+          }
+        }
+        li:before {
+          padding-right: $base-spacing * .25;
+          content: "|"
+        }
+        li:first-child:before {
+          padding-right: 0;
+          content: "";
+        }
+      }
     }
 
   }
