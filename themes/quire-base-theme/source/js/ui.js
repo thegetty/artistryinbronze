@@ -31,6 +31,8 @@ class QuireUI {
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
 
+    this.anchorScroll(window.location.hash)
+
     // Event Listeners
     window.onkeydown = (e) => { this.keyboardControls(e) }
     $navbarMenu.click(() => { this.menuToggle()})
@@ -41,6 +43,7 @@ class QuireUI {
     $searchCloseButton.click(() => { this.searchHide() })
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
+    $('a').on('click', (e) => { this.footnoteScroll(e) })
 
     // Page-specific setup
     if ($mapEl.length) { new Map() }
@@ -54,6 +57,41 @@ class QuireUI {
       // Force repaint for webkit
       $('<style></style>').appendTo($(document.body)).remove()
     })
+  }
+
+  anchorScroll(href) {
+    href = typeof (href) === 'string' ? href : $(this).attr('href')
+    var fromTop = 60
+
+    if (href.indexOf('#') === 0) {
+      var $target = $(href)
+
+      if ($target.length) {
+        $('html, body').animate({ scrollTop: $target.offset().top - fromTop })
+        if (window.history && 'pushState' in window.history) {
+          window.history.pushState({}, document.title, window.location.pathname + href)
+          return false
+        }
+      }
+    }
+  }
+
+  footnoteScroll(e) {
+    // Helper function to wrap selectors that contain . or : characters
+    function jq(myid) {
+      return myid.replace(/(:|\.|\[|\]|,)/g, '\\$1')
+    }
+
+    // Get the base Page url
+    let basePath = window.location.origin + window.location.pathname
+    let href = e.target.href
+
+    if (basePath === href.split('#')[0]) {
+      e.preventDefault()
+      let target = $(e.target).attr('href')
+      let distance = $(jq(target)).offset().top
+      $('html, body').animate({scrollTop: distance - 60}, 250)
+    }
   }
 
   keyboardControls(e) {
