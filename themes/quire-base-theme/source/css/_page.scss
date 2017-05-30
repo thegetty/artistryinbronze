@@ -192,14 +192,16 @@
       list-style-type: none;
 
       &__title {
-        font-family: $heading-font-family;
+        font-size: 1rem;
+        margin-bottom: 0;
         a {
           font-weight: 700;
         }
       }
 
       &__abstract-only-title {
-        font-family: $heading-font-family;
+        font-size: 1rem;
+        margin-bottom: 0;
         color: $dark-neutral;
         font-weight: 400;
       }
@@ -214,29 +216,26 @@
       }
     }
 
-    &__read {
+    &__link {
       display: inline-block;
-      cursor: pointer;
+      font-size: 1rem * $small-font-scale;
+      display: inline-block;
+      margin: ($base-spacing * .5) 0 0;
 
-      &__link {
-        font-size: 1rem * $small-font-scale;
-        display: inline-block;
-        background-color: $light-neutral;
+      svg {
+        height: 1em;
+        width: 1em;
+        fill: $primary-color;
+      }
+      button {
         border-radius: .25em;
-        padding: ($base-spacing * .1) ($base-spacing * .5);
+        padding: ($base-spacing * .35) ($base-spacing * .7);
         margin: $base-spacing * .25;
-        svg {
-          height: 1em;
-          width: 1em;
-          fill: $primary-color;
-        }
-        button {
-          cursor: pointer;
-          background-color: inherit;
-          border: none;
-          color: $primary-color;
-          font-size: 1rem * $small-font-scale;
-        }
+        cursor: pointer;
+        background-color: $light-neutral;
+        border: none;
+        color: $primary-color;
+        font-size: 1rem * $small-font-scale;
       }
     }
 
