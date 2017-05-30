@@ -107,3 +107,30 @@ $print-page-number-size: 7.5pt;
 }
 
 // scss-lint:enable PropertySpelling
+
+@media print {
+  .quire-nav-group,
+  .quire-nav,
+  .quire-menu,
+  .quire-search,
+  .quire-page__header__page-navigation {
+    display: none;
+  }
+
+  html {
+    font-size: 10pt;
+    font-weight: 400;
+    line-height: 1.3em;
+  }
+
+  .quire-page {
+    page: footer;
+    page-break-before: always;
+
+    &__content__main {
+      column-count: 2;
+      column-gap: 0.25in;
+      font-size: 10pt;
+    }
+  }
+}
