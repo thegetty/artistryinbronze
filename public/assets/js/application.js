@@ -10443,6 +10443,8 @@
 	      var $searchCloseButton = $('#js-search-close');
 	      var $searchInput = $('#js-search-input');
 
+	      this.anchorScroll(window.location.hash);
+
 	      // Event Listeners
 	      window.onkeydown = function (e) {
 	        _this.keyboardControls(e);
@@ -10471,6 +10473,9 @@
 	      $menu.focusout(function () {
 	        _this.menuHide();
 	      });
+	      $('a').on('click', function (e) {
+	        _this.footnoteScroll(e);
+	      });
 
 	      // Page-specific setup
 	      if ($mapEl.length) {
@@ -10488,6 +10493,43 @@
 	        // Force repaint for webkit
 	        $('<style></style>').appendTo($(document.body)).remove();
 	      });
+	    }
+	  }, {
+	    key: 'anchorScroll',
+	    value: function anchorScroll(href) {
+	      href = typeof href === 'string' ? href : $(this).attr('href');
+	      var fromTop = 60;
+
+	      if (href.indexOf('#') === 0) {
+	        var $target = $(href);
+
+	        if ($target.length) {
+	          $('html, body').animate({ scrollTop: $target.offset().top - fromTop });
+	          if (window.history && 'pushState' in window.history) {
+	            window.history.pushState({}, document.title, window.location.pathname + href);
+	            return false;
+	          }
+	        }
+	      }
+	    }
+	  }, {
+	    key: 'footnoteScroll',
+	    value: function footnoteScroll(e) {
+	      // Helper function to wrap selectors that contain . or : characters
+	      function jq(myid) {
+	        return myid.replace(/(:|\.|\[|\]|,)/g, '\\$1');
+	      }
+
+	      // Get the base Page url
+	      var basePath = window.location.origin + window.location.pathname;
+	      var href = e.target.href;
+
+	      if (basePath === href.split('#')[0]) {
+	        e.preventDefault();
+	        var target = $(e.target).attr('href');
+	        var distance = $(jq(target)).offset().top;
+	        $('html, body').animate({ scrollTop: distance - 60 }, 250);
+	      }
 	    }
 	  }, {
 	    key: 'keyboardControls',
