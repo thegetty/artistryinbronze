@@ -118,19 +118,42 @@ $print-page-number-size: 7.5pt;
   }
 
   html {
-    font-size: 10pt;
+    font-size: 9.5pt;
     font-weight: 400;
     line-height: 1.3em;
+  }
+
+  table {
+    column-span: all;
+    margin-bottom: 1em;
+    margin-top: 1em;
   }
 
   .quire-page {
     page: footer;
     page-break-before: always;
 
-    &__content__main {
+    p + p {
+      text-indent: 2em;
+    }
+
+    &__content__main,
+    &__content__references {
       column-count: 2;
       column-gap: 0.25in;
-      font-size: 10pt;
+    }
+
+    &__content__main { font-size: 9.5pt; }
+    &__content__references { font-size: 8pt; }
+    .footnotes { font-size: 8pt; }
+  }
+
+  .q-figure {
+    margin: 1em;
+
+    figcaption {
+      font-size: 8.5pt;
+      margin-top: 0.5em;
     }
   }
 }
