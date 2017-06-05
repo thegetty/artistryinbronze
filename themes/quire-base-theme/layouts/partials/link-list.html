@@ -1,0 +1,3 @@
+<ul>{{ range . }}
+  <li><a href="{{ .url }}" target="_blank" rel="{{ .link_relation }}" type="{{ .media_type }}">{{ .name }}{{ if .file_size_mb }} ({{ .file_size_mb }} MB){{ end }}</a></li>{{ end }}
+</ul>

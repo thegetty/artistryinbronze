@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>The Artist || Artistry in Bronze</title>
+    <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
+<meta name="dcterms.date" content="2017-11-01">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:300,300i,400,400i" rel="stylesheet">
+    <link rel="stylesheet" href="https://gettypubs.github.io/artistryinbronze/assets/css/application.css">
+  </head>
+  <body class="quire-baseof quire-section-head">
+    <svg style="display:none">
+  <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+    <path d="M6,16l11.7,12.4c0.4,0.4,0.4,0.8,0,1.1l-2.1,2.1c-0.4,0.4-0.8,0.4-1.1,0.1L0.2,16.6C0.1,16.5,0,16.3,0,16c0-0.2,0.1-0.4,0.2-0.6L14.5,0.3c0.4-0.4,0.7-0.4,1.1,0l2.1,2.2c0.4,0.4,0.4,0.8,0,1.1L6,16z"/>
+  </symbol>
+  <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+    <path d="M12,16L0.3,3.6c-0.4-0.4-0.4-0.8,0-1.1l2.1-2.1c0.4-0.4,0.8-0.4,1.1-0.1l14.3,15.2c0.1,0.1,0.2,0.3,0.2,0.6c0,0.2-0.1,0.4-0.2,0.6L3.5,31.7c-0.4,0.4-0.7,0.4-1.1,0l-2.1-2.2c-0.4-0.4-0.4-0.8,0-1.1L12,16z"/>
+  </symbol>
+  <symbol id="search-icon" viewBox="0 0 32 32">
+    <path d="M31.7,26.9c0.4,0.4,0.4,0.8,0,1.2l-3.6,3.7C28,31.9,27.7,32,27.5,32c-0.2,0-0.4-0.1-0.6-0.2l-7-7.2c-2.1,1.3-4.3,1.9-6.7,1.9c-3.6,0-6.7-1.3-9.3-3.9C1.3,20,0,16.9,0,13.2s1.3-6.8,3.9-9.4C6.5,1.3,9.6,0,13.2,0c3.6,0,6.7,1.3,9.3,3.9s3.9,5.7,3.9,9.4c0,2.3-0.6,4.5-1.7,6.5L31.7,26.9z M18.9,7.5c-1.6-1.6-3.4-2.4-5.7-2.4C11,5.2,9.1,6,7.5,7.5S5.2,11,5.2,13.2c0,2.2,0.8,4.1,2.4,5.7c1.6,1.6,3.5,2.4,5.7,2.4c2.2,0,4.1-0.8,5.7-2.4c1.6-1.6,2.3-3.5,2.3-5.7C21.2,11,20.4,9.1,18.9,7.5z"/>
+  </symbol>
+  <symbol id="nav-icon" viewBox="0 0 32 32">
+    <path d="M29.4,2.5c0.7,0,1.3,0.3,1.8,0.8C31.8,3.8,32,4.5,32,5.2c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,6.6,0,5.9,0,5.2c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,13.3c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,17.4,0,16.7,0,16c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z M29.4,24.1c0.7,0,1.3,0.3,1.8,0.8c0.5,0.5,0.8,1.2,0.8,1.9c0,0.7-0.2,1.4-0.8,1.9c-0.5,0.5-1.1,0.8-1.8,0.8H2.6c-0.7,0-1.3-0.3-1.8-0.8C0.2,28.2,0,27.5,0,26.8c0-0.7,0.2-1.4,0.8-1.9c0.5-0.5,1.1-0.8,1.8-0.8H29.4z"/>
+  </symbol>
+  <symbol id="location-icon" viewBox="0 0 20 32">
+    <path d="M2.9,2.9C4.9,1,7.2,0,10,0C12.7,0,15,1,17,2.9c2,1.9,3,4.3,3,7.1c0,2.8-0.8,6.1-2.5,9.8s-3.3,6.6-5,8.9L10,32c-0.3-0.3-0.6-0.8-1.1-1.4C8.4,30,7.6,28.8,6.5,27c-1.1-1.8-2.1-3.5-3-5.2c-0.9-1.7-1.7-3.7-2.4-5.9C0.4,13.8,0,11.8,0,10C0,7.2,1,4.9,2.9,2.9z M6.7,13.5c0.9,0.9,2,1.4,3.3,1.4c1.3,0,2.4-0.5,3.3-1.4c0.9-0.9,1.4-2,1.4-3.3c0-1.3-0.5-2.4-1.4-3.3c-0.9-0.9-2.1-1.4-3.3-1.4c-1.3,0-2.4,0.5-3.3,1.4c-0.9,0.9-1.4,2.1-1.4,3.3C5.3,11.4,5.7,12.5,6.7,13.5z"/>
+  </symbol>
+  <symbol id="link-icon" viewBox="0 0 32 16">
+    <path d="M22.2,4c0.3,0.8,0.5,1.7,0.5,2.7v2.7h-4V6.7c0-0.8-0.2-1.4-0.8-1.9S16.8,4,16,4H6.7C5.9,4,5.2,4.2,4.8,4.8S4,5.9,4,6.7v2.7c0,0.8,0.2,1.4,0.8,1.9S5.9,12,6.7,12H8c0.2,0.8,0.5,1.5,0.9,2.2c0.4,0.7,0.9,1.1,1.2,1.4l0.5,0.4h-4c-1.8,0-3.4-0.7-4.7-2c-1.3-1.3-2-2.9-2-4.7V6.7C0,4.8,0.7,3.3,2,2c1.3-1.3,2.9-2,4.7-2H16c1.3,0,2.6,0.4,3.7,1.1C20.8,1.9,21.7,2.8,22.2,4z M25.3,0c1.8,0,3.4,0.7,4.7,2c1.3,1.3,2,2.9,2,4.7v2.7c0,1.8-0.7,3.4-2,4.7c-1.3,1.3-2.9,2-4.7,2H16c-2.8,0-4.9-1.3-6.1-4c-0.4-0.9-0.6-1.8-0.6-2.7V6.7h4v2.7c0,0.8,0.2,1.4,0.8,1.9S15.2,12,16,12h9.3c0.8,0,1.4-0.2,1.9-0.8S28,10.1,28,9.3V6.7c0-0.8-0.2-1.4-0.8-1.9S26.1,4,25.3,4H24c-0.2-0.8-0.5-1.5-0.9-2.2c-0.4-0.7-0.9-1.1-1.2-1.4L21.3,0H25.3z"/>
+  </symbol>
+</svg>
+
+    <div class="quire-nav-group no-js">
+      <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
+      <div class="quire-menu no-js" role="banner">
+  <button class="expander quire-menu__button no-js">
+    <svg width="1em" height="1em"><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          <div class="quire-title"><a href="https://gettypubs.github.io/artistryinbronze"><span class="visually-hidden">Publication Info: </span>Artistry in Bronze: <span class="quire-subtitle">The Greeks and Their Legacy</a> </span><div class="quire-reading-line">XIXth International Congress on Ancient Bronzes</div></div>
+<div class="quire-contributors">
+   <span class="quire-contributors__contributors-as-they-appear">Edited by</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Jens M. Daehner</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Kenneth Lapatin</span>
+  
+   <span class="quire-contributors__contributors-as-they-appear">Ambra Spinelli</span>
+  
+</div>
+
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Contents</h3>
+        <ul class="quire-contents">
+          
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/contents/">Contents</a></li>
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/introduction/">Introduction</a></li>
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/">I. Large-Scale Bronzes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/">II. The Artist</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/statuettes/">III. Statuettes</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/">IV. The Hellenistic East</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/vessels/">V. Vessels</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/artifacts/">VI. Artifacts</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li class="quire-contents__section"><a href="https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/">VII. Conservation and Analysis</a></li>
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            <li><a href="https://gettypubs.github.io/artistryinbronze/about/">About</a></li>
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+            
+            
+            
+            
+          
+        </ul>
+      </nav>
+      
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        <ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze" target="_blank" rel="canonical" type="text/html">Online</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub" target="_blank" rel="alternate" type="application/epub&#43;zip">EPUB</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi" target="_blank" rel="alternate" type="application/mobi">MOBI/KINDLE</a></li>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf" target="_blank" rel="alternate" type="application/pdf">PDF</a></li>
+  <li><a href="http://shop.getty.edu/products/atistry-in-bronze-978-1606065419" target="_blank" rel="alternate" type="print">Paperback</a></li>
+</ul>
+
+      </section>
+      
+      
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        
+
+  <p>© 2017 J. Paul Getty Trust.</p>
+
+
+<p>Published by <span><span class="quire-publisher">J. Paul Getty Museum</span><span class="quire-publisher">Getty Conservation Institute</span></span><time datetime="2017-11-01">November 2017</time>, and licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+
+<ul>
+  <li><a href="http://www.getty.edu/publications/artistryinbronze/about/" target="_blank" rel="about" type="">About</a></li>
+  <li><a href="http://www.getty.edu/legal/privacy.html" target="_blank" rel="privacy-policy" type="">Privacy Policy</a></li>
+  <li><a href="http://www.getty.edu/legal/copyright.html" target="_blank" rel="terms-of-service" type="">Terms of Use</a></li>
+</ul>
+
+
+      </footer>
+    </div>
+  </div>
+</div>
+
+      <nav class="quire-nav" role="navigation" aria-label="quick">
+  <ul>
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-toledo/" rel="previous" id="js-prev" >
+        <svg height="1em" width="1em"><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze">
+        <span class="visually-hidden">Home Page: </span>
+        
+          Artistry in Bronze
+        
+      </a>
+    </li>
+    
+    
+    
+    <li class="quire-nav__current-page-link">
+      <span class="visually-hidden">Current Page: </span>
+      <em>The Artist</em>
+    </li>
+    
+
+    
+    <li>
+      <a href="https://gettypubs.github.io/artistryinbronze/the-artist/9-adornato/" rel="next" id="js-next">
+        <svg width="1em" height="1em"><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+        <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
+      </a>
+    </li>
+    
+  </ul>
+</nav>
+
+      
+        <div class="quire-search no-js" role="search">
+  <button class="expander">
+    <svg width="1em" height="1em"><switch><use xlink:href="#search-icon"></use><foreignObject><img src="path/to/search-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Search: </span>
+    <span class="tool-tip"><em>To search the text,<br />please <a href="http://www.activatejavascript.org/" target="_blank">enable JavaScript</a></em></span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    <div id="js-search-results" class="quire-search-results">
+  <div class="quire-search-results__inner">
+    <ul id="js-search-results-list" class="quire-search-results__inner__list">
+    </ul>
+  </div>
+  <template id="js-search-results-template">
+    <li class="quire-search-results__inner__list__item">
+      <a class="quire-search-results__inner__list__item__link js-search-results-item-title" href=""></a>
+    </li>
+  </template>
+</div>
+
+  </div>
+</div>
+
+      
+    </div>
+    <main role="main" id="main-content" class="no-js">
+      
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title"><span>II. </span> The Artist</h1>
+    <ul class="quire-page__header__contributor">
+    
+    </ul>
+  </header>
+  <div class="quire-page__content">
+    
+  </div>
+  <ul class="quire-page__section-list">
+    
+    
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__title"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/9-adornato/">9. More Than Holes!: An Unconventional Perspective of the “Greek Revolution” in Bronze Statuary</a></h2>
+      <ul class="quire-page__section-list__item__contributor">
+      
+      <li>Gianfranco Adornato, Scuola Normale Superiore, Pisa</li>
+      
+      </ul>
+      
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
+        <div class="quire-page__section-list__abstract">
+        This paper explores the technical and art-historical importance of dowel holes, a largely overlooked source of material evidence for the study of fifth-century Greek bronze statuary. Generally, the “artistic revolution” in Greek sculpture is associated with the Persian Wars, with two sculptors, Kritios and Nesiotes, and with their sculptural group, the Tyrannicides, precisely dated to 477/6 BC. From an art-historical point of view, I discuss whether their statues can indeed be considered “revolutionary.” For this purpose, I investigate inscribed and signed bases connected to Kritios and Nesiotes, in order to identify and highlight technical improvements in Greek sculpture. Thanks to a fresh and close inspection of dowel holes and remains of footprints, I argue that it is not until Polykleitos’s activity and not before the Kyniskos base in Olympia that we can detect a new technical solution in positioning bronze sculptures and, consequently, in rendering poses. The different posture resulting from the shift of balance from both feet to one only has profound artistic, technical and anatomical implications. Polykleitos’ fundamental characteristic breaks with the previous rules and traditional stance and represents a revolutionary innovation. I conclude that the balance on one leg (<em>uno crure</em>), a peculiarity of Polykleitos’s works attested by the remaining dowel holes and in Pliny (<em>Naturalis historia</em> 34.55–56), represents a turning point in perfecting the representation of the human figure and a different solution to the problem of ponderation.
+        </div>
+      
+      <h3 class="quire-page__section-list__link"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/9-adornato/">
+        <span class="visually-hidden">Link to </span>Paper
+        <svg width="1em" height="1em"><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+      </a></h3>
+    </li>
+    
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__title"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/10-haga-et-al/">10. Polykleitos at Work: How the Doryphoros Was Used</a></h2>
+      <ul class="quire-page__section-list__item__contributor">
+      
+      <li>Kyoko Sengoku-Haga, Tohoku University</li>
+      
+      <li>Sae Buseki, Tohoku University</li>
+      
+      <li>Min Lu, Tencent Technology Co. Ltd., Shenzhen</li>
+      
+      <li>Shintaro Ono, The University of Tokyo</li>
+      
+      <li>Takeshi Oishi, The University of Tokyo</li>
+      
+      <li>Takeshi Masuda, National Institute of Advanced Industrial Science and Technology, Japan</li>
+      
+      <li>Katsushi Ikeuchi, Microsoft Research, Japan</li>
+      
+      </ul>
+      
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
+        <div class="quire-page__section-list__abstract">
+        Our 3D shape comparison methods enable us to distinguish millimeter-small differences between statues. They have shown that, at least in terms of facial and feet areas, “exact” marble Roman copies are actually quite precise. We have also demonstrated that the face shapes of the copies of the Doryphoros, the Diadoumenos, and the Sosikles Amazon are almost identical. Adding to these previous results, it is newly demonstrated that the facial features of the Sciarra Amazon are close to those of the Pericles by Kresilas. The face shape of the statue of Diomedes, often attributed to Kresilas, does not match that of the Sciarra Amazon but is rather close to that of the Doryphoros. Through this method, it has been proven the Sosikles Amazon was made by Polykleitos, the Sciarra Amazon by Kresilas, and the Diomedes statue by a disciple of Polykleitos.
+        </div>
+      
+      <h3 class="quire-page__section-list__link"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/10-haga-et-al/">
+        <span class="visually-hidden">Link to </span>Paper
+        <svg width="1em" height="1em"><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+      </a></h3>
+    </li>
+    
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__title"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/11-falaschi/">11. Looking at the Bronze of Lost Sculptures: The Reception of the Delphic Monument of the Admirals in the Imperial Age</a></h2>
+      <ul class="quire-page__section-list__item__contributor">
+      
+      <li>Eva Falaschi, Scuola Normale Superiore, Pisa</li>
+      
+      </ul>
+      
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
+        <div class="quire-page__section-list__abstract">
+        The paper focuses on Plutarch’s interpretation of the Monument of the Admirals in Delphi and attempts to explain if and how the material (in particular the blue patina of bronze), the state of preservation of the statues, and their style influenced Plutarch’s perception and led him to attribute peculiar meanings and values to the group. It investigates also how these issues intertwined with the philosophical, religious, and historical reflections that are part of his discussion of the monument.
+        </div>
+      
+      <h3 class="quire-page__section-list__link"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/11-falaschi/">
+        <span class="visually-hidden">Link to </span>Paper
+        <svg width="1em" height="1em"><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+      </a></h3>
+    </li>
+    
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__title"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/12-horne/">12. Mobility and Migration: Issues Concerning Itinerant Sculptors</a></h2>
+      <ul class="quire-page__section-list__item__contributor">
+      
+      <li>Martin Horne, Indiana University</li>
+      
+      </ul>
+      
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
+        <div class="quire-page__section-list__abstract">
+        The economic considerations involved in ancient sculptural production share recognizable characteristics with the concerns of sculptors from subsequent periods. Recent study of the modern “creative class” has led scholars of anthropology to examine additional factors affecting employment opportunity, such as cultural, logistical, and legal influences that motivate mobility. These same principles may help us to focus our perception of the ancient sculptors’ trade beyond the fragmentary body of epigraphic, archaeological, and literary evidence. This paper briefly considers the financial pressures upon sites of sculptural production before embarking on an analysis of legal factors that would affect individual sculptors seeking improved employment opportunities throughout the classical world. The wealth of epigraphic information from statue bases on Rhodes and logistical documents at Athens provide a body of evidence ideally suited to study how this broader conception of external pressures relates to sculptors and workshops of antiquity.
+        </div>
+      
+      <h3 class="quire-page__section-list__link"><a href="https://gettypubs.github.io/artistryinbronze/the-artist/12-horne/">
+        <span class="visually-hidden">Link to </span>Paper
+        <svg width="1em" height="1em"><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+      </a></h3>
+    </li>
+    
+  </ul>
+  <hr />
+  <ul class="quire-page__section-list">
+    
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__abstract-only-title">Praxiteles’ Bronze Sculpture at Delphi</h2>
+      <ul class="quire-page__section-list__item__contributor">
+      
+      <li>Aileen Ajootian, University of Mississippi, Oxford</li>
+      
+      </ul>
+      <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract Only</button></h3>
+      <div class="quire-page__section-list__abstract">
+      A statue base (Delphi Museum inv. no. 3951) discovered in 1896, southeast of the Apollo Temple at Delphi, preserves cuttings for a now-lost bronze statue and evidence for the fourth-century Athenian sculptor Praxiteles’ commissions in the eastern Mediterranean. The inscription states that the <em>demos</em> Abydos, a Milesian colony in Mysia, dedicated a portrait of Chairidemos, son of Antiphanos of Pitania, to Apollo, and that Praxiteles Athenaios made it. Attributed to a shadowy third-century member of the Praxiteles family because of tripuncts (vertical rows of dots) separating some words in the inscription, the monument has been ignored. It does not even appear in Jacquemin’s recent publication of inscriptions at Delphi.</p>
+
+<p>A reevaluation of the inscribed text, an examination of the old arguments for the attribution to Praxiteles’ hypothetical grandson, and a new look at the stone itself suggest that it should be assigned instead to the famous fourth-century sculptor himself. Furthermore, this base, with another now in the Thebes Museum, provides secure evidence for Praxiteles’ production of bronze statues. Overall, the five fourth-century bases from mainland Greece bearing his name all attest to Praxiteles’ work as a portrait artist. Delphi 3951, the only surviving Praxitelean votive commissioned by a city instead of a private individual, documents the sculptor’s work in bronze at the panhellenic site. Ancient literary sources emphasized Praxiteles’ mythological statues, especially his famous marble Aphrodite, but analysis of the archaeological record—fourth-century statue bases bearing his “signature”—reveals a different facet of his artistic profile. The inscribed base for a bronze statue at Delphi sheds new light on Praxiteles.
+      </div>
+    </li>
+    
+  </ul>
+</div>
+
+    </main>
+    <script src="https://gettypubs.github.io/artistryinbronze/assets/js/application.js"></script>
+    <script>
+      (function() {
+        var dynamic = document.querySelectorAll(".no-js");
+        for (var i = 0; i < dynamic.length; i++) {
+          dynamic[i].classList.remove("no-js");
+        }
+      })();
+      (function() {
+        var button = document.querySelectorAll("button.expander");
+        for (var i = 0; i < button.length; i++) {
+          button[i].setAttribute("aria-expanded","false");
+          button[i].nextElementSibling.hidden = true;
+          button[i].addEventListener("click", function() {
+            var expanded = this.getAttribute("aria-expanded") === "true";
+            this.setAttribute("aria-expanded", String(!expanded));
+            this.nextElementSibling.hidden = expanded;
+          });
+        }
+      })();
+      (function() {
+      var button = document.querySelectorAll("button.heading-expander");
+      for (var i = 0; i < button.length; i++) {
+        button[i].setAttribute("aria-expanded","false");
+        button[i].parentElement.nextElementSibling.hidden = true;
+        button[i].addEventListener("click", function() {
+          var expanded = this.getAttribute("aria-expanded") === "true";
+          this.setAttribute("aria-expanded", String(!expanded));
+          this.parentElement.nextElementSibling.hidden = expanded;
+        });
+      }
+      (function() {
+        var footnotes = document.querySelectorAll('[rel="footnote"]');
+        for (var i = 0; i < footnotes.length; i++) {
+          var span = document.createElement('span');
+          var txt = document.createTextNode("Footnote ");
+          var html = span.appendChild(txt);
+          span.setAttribute("class","visually-hidden");
+          footnotes[i].prepend(span);
+        };
+        var returnlink = document.querySelectorAll(".footnote-return");
+        for (var i = 0; i < returnlink.length; i++) {
+          var span = document.createElement('span');
+          var txt = document.createTextNode("Return to text ");
+          var html = span.appendChild(txt);
+          span.setAttribute("class","visually-hidden");
+          returnlink[i].prepend(span);
+        }
+      })();
+    })();
+    </script>
+    
+<script></script>
+
+  </body>
+</html>

@@ -1,0 +1,6 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- $pages := where .Site.Pages "Type" "eq" "page" -}}
+{{- range $index, $page := $pages -}}
+{{- $.Scratch.Add "index" (dict "id" $index "title" $page.Title "url" $page.Permalink "type" $page.Type "content" $page.Plain) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}

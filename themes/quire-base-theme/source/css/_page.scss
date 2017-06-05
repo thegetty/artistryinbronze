@@ -1,0 +1,258 @@
+.quire-page {
+
+  margin-bottom: $base-spacing * 10;
+
+  @media print {
+    page: footer;
+    page-break-before: always;
+  }
+
+  &__header {
+    text-align: center;
+    margin-bottom: $base-spacing * 6;
+    margin-top: $base-spacing * 8;
+    padding: 0 ($base-spacing * 3);
+
+    &__number {
+      display: block;
+      font-size: 1.5rem;
+      color: $mid-neutral;
+      font-family: $heading-font-family;
+    }
+
+    &__title {
+      max-width: 52rem;
+      margin: auto;
+      color: $primary-color;
+      font-size: 2.5rem;
+      margin-bottom: $base-spacing;
+    }
+
+    &__contributor {
+      list-style-type: none;
+      padding: 0;
+      margin-top: 0;
+      font-family: $heading-font-family;
+      font-style: italic;
+      color: $mid-neutral;
+    }
+
+    &__page-navigation {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+      text-indent: 0;
+      ul {
+        display: inline-block;
+        list-style-type: none;
+        padding-left: 0;
+        margin-top: 0;
+        li {
+          float: left;
+          margin-left: $base-spacing * .25;
+        }
+        li:first-child {
+          margin-left: 0;
+          a {
+            margin-left: $base-spacing * .25;
+          }
+        }
+        li:before {
+          padding-right: $base-spacing * .25;
+          content: "|"
+        }
+        li:first-child:before {
+          padding-right: 0;
+          content: "";
+        }
+      }
+    }
+
+  }
+
+  &__content,
+  &__section-list {
+    max-width: 40rem;
+    margin: 0 auto;
+  }
+
+  &__content {
+
+    &__main {
+
+      @media print {
+        column-count: 2;
+        column-gap: 0.25in;
+        font-size: 10pt;
+      }
+
+      margin-bottom: $base-spacing;
+      p {
+        text-indent: $base-spacing;
+        margin-bottom: 0;
+      }
+      h2 + p,
+      h3 + p,
+      h4 + p,
+      h5 + p,
+      h6 + p,
+      p:first-child {
+        text-indent: 0;
+      }
+
+      blockquote > p {
+        text-indent: 0;
+      }
+
+      ol, ul {
+        li {
+          margin-bottom: $base-spacing * .5;
+          p {
+            text-indent: 0;
+            margin-bottom: $base-spacing * .25;
+          }
+        }
+      }
+
+      .attribution {
+        font-style: italic;
+        margin-top: $base-spacing;
+        text-align: right;
+        margin-right: $base-spacing;
+      }
+      .footnotes {
+        font-size: 1rem * $small-font-scale;
+        line-height: $small-font-line-height;
+        p {
+          text-indent: 0;
+          margin-bottom: $base-spacing * .25;
+        }
+        ol {
+          padding-left: 0;
+          margin-left: $base-spacing * 1.6;
+        }
+        li > ol {
+          padding-left: 1em;
+          li {
+            margin-bottom: 0;
+          }
+        }
+        li {
+          margin-bottom: $base-spacing * .5;
+        }
+        hr {
+          display: none;
+        }
+      }
+
+    }
+
+    &__references dt {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+      font-weight: bold;
+    }
+
+    &__references dd {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+      margin-bottom: $base-spacing * .5;
+      margin-left: 0;
+    }
+
+    &__abstract {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+    }
+
+    &__abstract + hr {
+      margin: ($base-spacing * 2) 0;
+    }
+
+    &__abstract h2 {
+      // font-size: 100%;
+    }
+
+    &__contributor {
+      list-style-type: none;
+      margin-top: $base-spacing * 3;
+      padding-left: $base-spacing;
+      li {
+        float: left;
+        margin-right: $base-spacing * 2;
+        margin-bottom: $base-spacing;
+      }
+    }
+
+  }
+
+  &__section-list {
+
+    &__item {
+      margin-bottom: $base-spacing * 2;
+      list-style-type: none;
+
+      &__title {
+        font-size: 1rem;
+        margin-bottom: 0;
+        a {
+          font-weight: 700;
+        }
+      }
+
+      &__abstract-only-title {
+        font-size: 1rem;
+        margin-bottom: 0;
+        color: $dark-neutral;
+        font-weight: 400;
+      }
+
+      &__contributor {
+        list-style-type: none;
+        padding-left: 0;
+        font-family: $heading-font-family;
+        font-style: italic;
+        font-weight: 400;
+        color: $mid-neutral;
+      }
+    }
+
+    &__link {
+      display: inline-block;
+      font-size: 1rem * $small-font-scale;
+      display: inline-block;
+      margin: ($base-spacing * .5) 0 0;
+
+      svg {
+        height: 1em;
+        width: 1em;
+        fill: $primary-color;
+      }
+      button {
+        border-radius: .25em;
+        padding: ($base-spacing * .35) ($base-spacing * .7);
+        margin: $base-spacing * .25;
+        cursor: pointer;
+        background-color: $light-neutral;
+        border: none;
+        color: $primary-color;
+        font-size: 1rem * $small-font-scale;
+        &.no-js {
+          cursor: inherit;
+          background-color: transparent;
+          padding: 0;
+          margin-left: 0;
+          border: none;
+          color: inherit;
+          font-size: 1rem * $small-font-scale;
+        }
+      }
+    }
+
+    &__abstract {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+    }
+
+  }
+
+}

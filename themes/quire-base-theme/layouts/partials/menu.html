@@ -1,0 +1,48 @@
+<div class="quire-menu no-js" role="banner">
+  <button class="expander quire-menu__button no-js">
+    <svg width="1em" height="1em"><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="path/to/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <span class="visually-hidden">Menu</span>
+  </button>
+  <div class="quire-menu__background">
+    <div class="quire-menu__inner">
+      <header class="quire-menu__inner__header">
+        <h2>
+          {{ partial "title-block.html" . }}
+        </h2>
+      </header>
+      <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
+        <h3 class="visually-hidden">Contents</h3>
+        <ul class="quire-contents">
+          {{ range .Site.Pages }}
+            {{ if .Section }}
+            {{ if ne .Type "section-head" }}
+            {{ else }}
+            <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title | markdownify }}</a></li>
+            {{ end }}
+            {{ else }}
+            {{ if eq .Params.menu true }}
+            <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
+            {{ end }}
+            {{ end }}
+          {{ end }}
+        </ul>
+      </nav>
+      {{ with .Site.Data.publication.formats }}
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Other Formats</button></h3>
+        {{ partial "link-list.html" . }}
+      </section>
+      {{ end }}
+      {{ with .Site.Data.publication.related_resources }}
+      <section class="quire-menu__inner__links" role="complementary">
+        <h3><button class="heading-expander">Related Resources</button></h3>
+        {{ partial "link-list.html" . }}
+      </section>
+      {{ end }}
+      <footer role="contentinfo" class="quire-menu__inner__footer">
+        <h3 class="visually-hidden">About</h3>
+        {{ partial "footer.html" . }}
+      </footer>
+    </div>
+  </div>
+</div>

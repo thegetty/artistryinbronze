@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
+    {{ if or (eq .Params.contributor_byline "top") ( eq .Params.contributor_byline nil) }}
+      <ul class="quire-page__header__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+  </header>
+  <div class="quire-page__content">
+    <section class="quire-page__content__main">
+      {{ .Content }}
+    <section>
+    {{ if eq .Params.contributor_byline "bottom" }}
+      <ul class="quire-page__content__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

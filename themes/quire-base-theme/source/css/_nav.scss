@@ -1,0 +1,33 @@
+.quire-nav {
+
+  font-size: 1rem * $small-font-scale;
+  font-weight: 400;
+
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    padding: 0;
+    // border: 1px solid #000;
+    margin: 0;
+
+    li {
+      margin: 1em;
+      // border: 1px solid #fff000;
+    }
+
+  }
+
+  svg {
+    height: 1em;
+    width: 1em;
+    fill: $primary-color;
+  }
+
+  &__section-link::before,
+  &__current-page-link::before, {
+    content: "›";
+    margin-right: $base-spacing;
+  }
+
+}

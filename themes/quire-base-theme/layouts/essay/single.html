@@ -1,0 +1,62 @@
+{{ define "main" }}
+{{ range .Site.Data.bibliography.biblio_list }}
+  {{ $refs := replace .reference_for " " "" }}
+  {{ $refslist := split $refs "," }}
+  {{ range $refslist }}
+    {{ if eq . $.Params.id  }}
+        {{ $.Scratch.Add "a" . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $pagebiblio := $.Scratch.Get "a" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title"><span class="quire-page__header__number">{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
+    {{ if or (eq .Params.contributor_byline "top") ( eq .Params.contributor_byline nil) }}
+      <ul class="quire-page__header__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+    <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li>Jump to: <a href="#essay-text">Main Text</a></li> <li><a href="#notes">Notes</a></li>{{ if $pagebiblio }} <li><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
+  </header>
+  <div class="quire-page__content">
+    <section>
+      <h2>Abstract</h2>
+      <div class="quire-page__content__abstract">
+      {{ .Params.abstract | markdownify }}
+      </div>
+      <hr />
+    </section>
+    <section class="quire-page__content__main" id="essay-text">
+      {{ .Content }}
+    </section>
+    {{ if $pagebiblio }}
+    <section class="quire-page__content__references" id="bibliography">
+      <h2>Bibliography</h2>
+      <dl>
+      {{ range .Site.Data.bibliography.biblio_list }}
+        {{ $refs := replace .reference_for " " "" }}
+        {{ $refslist := split $refs "," }}
+        {{ $s := .short }}
+        {{ $f := .full }}
+        {{ range $refslist }}
+          {{ if eq . $.Params.id  }}
+              <dt>{{ $s | markdownify }}</dt>
+              <dd>{{ $f | markdownify }}</dd>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      </dl>
+    </section>
+    {{ end }}
+    {{ if eq .Params.contributor_byline "bottom" }}
+      <ul class="quire-page__content__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+</div>
+{{ end }}

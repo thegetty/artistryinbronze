@@ -1,697 +1,790 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cover on Quire Catalogue Demo</title>
-    <link>/index.xml</link>
-    <description>Recent content in Cover on Quire Catalogue Demo</description>
+    <title></title>
+    <link>https://gettypubs.github.io/artistryinbronze/</link>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://gettypubs.github.io/artistryinbronze/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>Contents</title>
-      <link>/contents/</link>
+      <title>Cover</title>
+      <link>https://gettypubs.github.io/artistryinbronze/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contents/</guid>
-      <description>&lt;ul class=&#34;quire-toc&#34;&gt;
-  &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;./&#34;&gt;Cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./foreword/&#34;&gt;Foreword&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./introduction/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./catalogue/&#34;&gt;Catalogue&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;./catalogue/italy/&#34;&gt;Italy (1-2)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./catalogue/gaul/&#34;&gt;Gaul (3-4)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./bibliography/&#34;&gt;Bibliography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;./about/&#34;&gt;About&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;/ul&gt;
-
-</description>
+      <guid>https://gettypubs.github.io/artistryinbronze/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Foreword</title>
-      <link>/foreword/</link>
+      <title>Contents</title>
+      <link>https://gettypubs.github.io/artistryinbronze/contents/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/foreword/</guid>
-      <description></description>
+      <guid>https://gettypubs.github.io/artistryinbronze/contents/</guid>
+      <description> Cover List of Previous Bronze Congresses, Proceedings, and Related Exhibitions Directors’ Foreword — Timothy Potts and Tim Whalen Introduction — Jens M. Daehner, Kenneth Lapatin, Ambra Spinelli   Large-Scale Bronzes The Artist Statuettes The Hellenistic East Vessels Artifacts Conservation and Analysis   About   </description>
+    </item>
+    
+    <item>
+      <title>International Bronze Congresses and Associated Publications and Exhibitions</title>
+      <link>https://gettypubs.github.io/artistryinbronze/congresses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/congresses/</guid>
+      <description>1970 NIJMEGEN
+Ist International Congress on Ancient Bronzes, April 20–23, 1970. Rijksmuseum G. M. Kam, Nijmegen, Netherlands.
+Acta: 1970. “Tagung über römische Bronzegefäße im Rijksmuseum G. M. Kam in Nijmegen von 20. bis einschließlich 23. April 1970.” Hektogr. Niederschrift (Nijmegen).
+ 1972 MAINZ
+IInd International Congress on Ancient Bronzes, May 23–26, 1972. Mainz, Germany.
+Acta: H. Menzel, ed. 1973. “Bericht über die Tagung &amp;lsquo;Römische Toreutik’ vom 23–26. Mai 1972 in Mainz.</description>
+    </item>
+    
+    <item>
+      <title>Directors’ Foreword</title>
+      <link>https://gettypubs.github.io/artistryinbronze/foreword/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/foreword/</guid>
+      <description>The Getty has long been committed to the appreciation, study, and conservation of ancient bronzes. Much like Cicero and others who valued these works for their history, beauty, and craftsmanship, J. Paul Getty himself greatly admired bronze sculpture. Among the early purchases that pleased him most were statuettes of gods and heroes. When he passed away in 1976, he was negotiating for the purchase of the rare life-size image of a victorious athlete that has come to be known as the Getty Bronze.</description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/introduction/</link>
+      <link>https://gettypubs.github.io/artistryinbronze/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/introduction/</guid>
+      <guid>https://gettypubs.github.io/artistryinbronze/introduction/</guid>
+      <description>Building on a distinguished tradition, the 19th International Congress on Ancient Bronzes convened in Los Angeles between October 13 and 17, 2015. Organized by the J. Paul Getty Museum in conjunction with the Getty Conservation Institute, this meeting of more than 150 attendees was held at the Getty Center in Brentwood and the Getty Villa in Malibu. Over 5 days, 116 presenters from 24 countries participated in 11 sessions, delivering 49 papers, 3 keynote addresses, and 1 public lecture, as well as 19 posters discussing diverse aspects of ancient bronze production and its modern reception.</description>
+    </item>
+    
+    <item>
+      <title>Large-Scale Bronzes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Italy</title>
-      <link>/catalogue/italy/</link>
+      <title>The Bronze Athlete from Ephesos</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/1-plattner-gschwantler-vak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/italy/</guid>
-      <description>&lt;div
-    id=&#34;js-map&#34;
-    class=&#34;quire-map inset&#34;
-    data-lat=&#34;40.51&#34;
-    data-long=&#34;17.19&#34;
-    data-geojson=&#34;sample-geojson&#34; &gt;
-&lt;/div&gt;
-
-
-&lt;p&gt;The mosaics of Italy first appeared in the late second century BC under the
-influence of the Hellenistic Greek pictorial tradition, in which tiny pieces of
-irregular stone were used to create narrative themes in detailed, colorful
-compositions that imitated the effects of painting.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The earliest examples of
-this type, most of which were &lt;em&gt;emblemata&lt;/em&gt;, or picture panels, were either
-introduced to the region by Greek craftsmen or manufactured elsewhere and
-imported. Found predominantly in the cities around the Bay of Naples and Rome
-mosaics in this style, such as the well-known Alexander Mosaic from the House of
-the Faun at Pompeii and the Nile Mosaic from Palestrina, both dating to about
-100 BC, were considered expensive luxury items, reserved exclusively for the
-decoration of the wealthiest constructions. Smaller &lt;em&gt;emblemata&lt;/em&gt; were usually
-centerpieces of floors, and they were typically surrounded by plain white
-tesserae or framed by simple decorative patterns. On some later floors, the
-figural scene was set in a more elaborate design, such as in the House of the
-Labyrinth at Pompeii, which features an &lt;em&gt;emblema&lt;/em&gt; of Theseus and the Minotaur
-dating to about 70–60 BC and framed by a black-and-white labyrinth pattern.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;By the end of the first century BC, the production of mosaic pavements in
-various new Roman styles became widespread throughout Italy. The tremendous
-expansion in the use of mosaics to decorate both public and private buildings
-resulted in a number of different types that ranged from colorful figural scenes
-to predominantly black-and-white geometric and floral patterns.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; The Villa of
-the Volusii Saturnini at Lucus Feroniae, north of Rome, includes both styles:
-polychrome mosaics in a phase of the villa dated to about 60–50 BC contrasting
-with black-and-white pavements from the period of about AD 10–20.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;
-Black-and-white style mosaics, like the Getty’s Mosaic Floor with Head of Medusa
-(cat. 1), however, became increasingly common by the late first century AD,
-especially in Rome and central Italy.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; Complex geometric designs, like the
-intricate pattern of curvilinear triangles encircling the bust of Medusa in this
-mosaic, now covered the floors of entire rooms. Stylized vegetal motifs, used in
-similarly themed compositions, such as the detailed floral pattern that
-surrounds the central head of Medusa in a mosaic decorating the floor of the
-&lt;em&gt;triclinium&lt;/em&gt; in the House of Bacchus and Ariadne at Ostia, were equally
-prevalent.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; Although this new decorative style may have served as a less
-expensive solution to the more costly tesserae required for polychrome mosaics,
-in the second century AD black-and-white patterned mosaics of extremely high
-quality were also used in the decoration of Hadrian’s Villa at Tivoli and in the
-Palazzo Imperiale at Ostia.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;The growing popularity of the black-and-white mosaic style in Italy in the first
-and second centuries AD had a strong impact on mosaic designs outside of Italy,
-particularly in the Roman provinces of Gaul and North Africa. The introduction
-and diffusion of this style in these regions in the first century AD can most
-likely be attributed to the increasing Roman presence in the region; itinerant
-craftsmen traveled or settled in the area and established workshops for mosaic
-production. Around the beginning of the fourth century AD, however, provincial
-workshops exerted a profound influence in Italy, even in Rome itself, bringing a
-new preference for large-scale scenes of the hunt or the arena to luxurious
-Italian villas. The Getty’s fourth-century AD Mosaic Floor with Bear Hunt (cat.
-2), from a seaside villa near Baiae on the Bay of Naples, exemplifies this new
-style, which was particularly characteristic of mosaics in North Africa during
-this period. The North African influence is also evident in the Great Hunt
-mosaic at Piazza Armerina in Sicily and in a hunting mosaic from the Gardens of
-Licinius on the Esquiline Hill in Rome, both dating to the early fourth century
-AD, which in turn derive from the third-century AD hunting mosaics, such as
-those from Carthage, Thysdrus (present-day El Djem), and the Villa of the
-Laberii at Oudna.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;This technique, known as &lt;em&gt;opus vermiculatum&lt;/em&gt;, appeared as early as the third century BC in Sicily and then spread north throughout Italy. On the origins of these types of pavements, see the discussion in Phillips 1960, 243–62. For a general history of mosaics in Sicily, see von Boeselager 1983.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;Strocka 1991.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;The earliest black-and-white ornamental mosaics often imitated other types of pavements in motif and composition, and they may have been used as a substitute for the more expensive polychrome mosaics.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;Moretti and Sgubini Moretti 1977, plates 35–36, 39–42. The new preferences that begin to appear in mosaics about 20 BC also parallel changes in taste in wall painting: polychromy and three-dimensional decorative motifs disappear and are replaced by flat black-and-white designs and figural styles; see Clarke 1991, 61–63.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;On the relationship between the development of black-and-white style mosaics and the architectural spaces they decorated, see Clarke 1979.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34;&gt;House of Bacchus and Ariadne: Clarke 1979, fig. 20.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:7&#34;&gt;Hadrian’s Villa at Tivoli: Blake 1936, plates 11–14. Palazzo Imperiale at Ostia: Becatti 1961, plates 24, no. 300, and 69, no. 296. Ostia, the port of Rome, provides the most extensive evidence for the development of mosaic pavement types following the destruction of Pompeii and Herculaneum by the eruption of Vesuvius in AD 79; many examples date to the second and early third centuries AD. The vast majority of these are black-and-white figural mosaics, often with marine subjects, as in the Baths of Neptune (Clarke 1979, figs. 31–34) and the Baths of the Lighthouse (Clarke 1979, figs. 69–71).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:8&#34;&gt;Piazza Armerina: Gentili 1954, 33, fig. 14 (Small Hunt), 36, figs. 17–21 (Corridor of the Hunt); Gentili 1959, figs. 4, 5 (drawings); and Lavin 1963, 244–51, figs. 8, 9 (Corridor of the Hunt), fig. 110 (Small Hunt). Esquiline: Aymard 1937, 42–66, plates 1–3; Lavin 1963, 258, figs. 122–23; and Cima 1998, fig. 9. The Esquiline mosaic is now in the Musei Capitolini Centrale Montemartini (inv. no. AntCom03636). Thysdrus: Gauckler 1910, 26, no. 64; and Lavin 1963, fig. 80. Carthage: Poinssot and Lantier 1923, 154–58; and Lavin 1963, fig. 79. Oudna: Gauckler 1910, 122–23, no. 362; and Lavin 1963, 230–31, fig. 75.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/1-plattner-gschwantler-vak/</guid>
+      <description>1. Archaeological Background and History of the Bronze’s Classification Among the few preserved bronze statues from antiquity, the Athlete from Ephesos is an outstanding case in several respects (fig. 1.1): (1) discovered in the late nineteenth century (1896), it comes from a clear context within its ancient surrounding; (2) to this day it ranks among the most complex conservation projects ever undertaken, requiring the reassembly of more than 200 fragments; (3) with the discovery of a “twin” statue in the sea near the coast of Croatia exactly 100 years later, it has recently become part of an intriguing case study and an issue for archaeology and art history.</description>
     </item>
     
     <item>
-      <title>Mosaic Floor with Head of Medusa</title>
-      <link>/catalogue/1/</link>
+      <title>Was the Colossus of Rhodes Cast in Courses or in Large Sections?</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/2-vedder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/1/</guid>
-      <description>
-
-&lt;div id=&#34;js-deepzoom&#34;
-     class=&#34;quire-deepzoom inset&#34;
-     aria-live=&#34;polite&#34;
-     role=&#34;application&#34;
-     aria-label=&#34;Zoomable image&#34;
-     aria-describedby=&#34;&#34;
-     data-object-id=&#34;6576&#34; &gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
-
-&lt;p&gt;This mosaic originally decorated the floor of a Roman villa in one of two
-adjacent rooms, both with similar mosaics, discovered on the Via Emanuele
-Filiberto in Rome. The site was excavated by Angelo Pasqui in 1910, but it is
-uncertain when the mosaic was removed.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; It was purchased by the J. Paul Getty
-Museum in 1971.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;commentary&#34;&gt;Commentary&lt;/h3&gt;
-
-&lt;p&gt;A colorful female bust is the only polychrome feature in this otherwise
-black-and-white mosaic. Snakes around her neck and serpentine locks of hair
-identify her as the Gorgon Medusa. The image decorates the central medallion of
-the mosaic, with the face turned upward and to the right. An elaborate geometric
-pattern encircles the bust: concentric bands of alternating black-and-white
-triangles decrease in size as they spiral toward the center, creating the
-optical illusion of spinning motion. The design has also been interpreted as a
-shield of scales, a reference to the aegis worn by Athena, a scaly mantle
-decorated with the head of Medusa. A &lt;em&gt;guilloche&lt;/em&gt; border around the circle is
-enclosed within a second, square &lt;em&gt;guilloche&lt;/em&gt; that outlines the entire
-composition. &lt;em&gt;Kantharoi&lt;/em&gt; fill the triangular spaces at each of the four corners.&lt;/p&gt;
-
-&lt;p&gt;In Greek mythology, the Gorgon Medusa was a fearsome monster who turned viewers
-to stone with her gaze. When she was finally killed—beheaded by the hero
-Perseus—her hideous head was presented to his patron goddess, Athena. The Gorgon
-head was a popular apotropaic device in Greek art, as its terrifying appearance
-was believed to ward off evil. In Roman art, however, Medusa was humanized and
-more clearly female; at times she was even depicted in the form of a beautiful
-woman. During the Roman period, the image of the Gorgon often served a primarily
-decorative function in interior decoration, appearing, for example, on domestic
-utensils and wall paintings, but it continued to be regarded as a protective
-symbol. Representations of Medusa were often accompanied by imagery related to
-the god of wine, Dionysos, whose worship invoked pleasure and good fortune. The
-&lt;em&gt;kantharoi&lt;/em&gt; found in the corners of the Getty mosaic are closely associated with
-the revelries of Dionysos. A Roman mosaic from &amp;ldquo;Kisamos,&amp;rdquo;, on Crete, similarly
-depicts the central bust of Medusa surrounded by panels of masks and followers
-of Dionysos.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; An explicit connection appears in a late second-century AD
-mosaic pavement from a Roman villa at Corinth, which features the head of
-Dionysos at the center of the same pattern found on the Getty mosaic and a
-&lt;em&gt;guilloche&lt;/em&gt; border with &lt;em&gt;kantharoi&lt;/em&gt; in the corners.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;figure class=&#34;quire-figure&#34;&gt;
-  
-    &lt;img src=&#34;./figures/fig01.jpg&#34; alt=&#34;Figure 1. Mosaic with Head of Medusa&#34; /&gt;
-  
-  
-  &lt;figcaption&gt;
-    &lt;p&gt;
-    Figure 1. Mosaic with Head of Medusa, Roman, AD 115–150. Found in Rome, Italy, 1910. Stone tesserae, 530 × 450 cm. Museo Nazionale Romano—Palazzo Massimo alle Terme, 56253
-    
-        
-    
-    &lt;/p&gt; 
-  &lt;/figcaption&gt;
-  
-&lt;/figure&gt;
-
-
-&lt;p&gt;The Getty’s Medusa mosaic originally decorated a small room measuring 3.6 × 2.9
-meters. A pendant mosaic (fig. 1) survives from an adjacent, larger room (5.3 ×
-4.5 meters) of the same villa; it was most likely made by the same workshop and
-is now in the collection of the Museo Nazionale Romano—Palazzo Massimo alle
-Terme.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; This second mosaic depicts the bust of Medusa in mirror image, her
-gaze turned upward to the left. Her head is also placed at the center of a
-black-and-white shield or spinning wheel design. Birds perch on branches in the
-four corners instead of &lt;em&gt;kantharoi&lt;/em&gt;, and a pattern of stylized tendrils and
-ornate scrolls frames the &lt;em&gt;guilloche&lt;/em&gt; border. The excavation of this villa
-revealed that the two rooms originally formed one large rectangular chamber
-decorated with a black-and-white mosaic of a marine scene before it was
-subdivided and redecorated with the pair of Medusa mosaics.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; Although the
-reason for the renovation or reconstruction of the villa is unknown, the
-construction of the building in &lt;em&gt;opus mixtum&lt;/em&gt;, a technique used especially
-during the rule of the emperor Hadrian from AD 117 to 138, indicates that the
-transformation likely took place sometime in the early second century AD.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;
-The style of the mosaics is typical of private villas in Italy during this
-period, which were decorated predominately with black-and-white mosaics made up
-of complicated, often curvilinear geometric patterns and highly stylized floral
-designs.&lt;/p&gt;
-
-&lt;h3 id=&#34;comparanda&#34;&gt;Comparanda&lt;/h3&gt;
-
-&lt;p&gt;The circular geometric design with the Gorgon head at its center was used
-frequently on mosaic pavements throughout the Roman Empire. Many were colorful,
-polychrome compositions. In second-century AD mosaics from Piraeus in Greece and
-Pergamon in Asia Minor (present-day Turkey), the triangles of the scale pattern
-are rendered in shades of red, blue, green, and yellow, with a &lt;em&gt;guilloche&lt;/em&gt;
-border in yellow and blue.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; The example from Pergamon&lt;/span&gt;, like the Getty
-mosaic, also displays &lt;em&gt;kantharoi&lt;/em&gt; in its four corners. In a variation on the
-spinning aspect of the design, the curvilinear triangles encircling the head of
-Medusa in a late second-century AD mosaic floor from the House of the Red
-Pavement at Antioch form concentric petal shapes.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; Scale patterns could also
-be composed of shapes other than triangles. A mosaic from the *triclinium of a
-Roman villa at Marcianopolis in Thrace (present-day Devnya, in Bulgaria), known
-as the House of Antiope, displays Medusa within a circular pattern of
-spade-shaped scales surrounded by a meander pattern, with felines in
-each of the corners.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; Comparable examples from North Africa include a Roman
-villa at Thysdrus (present-day El Djem) and a bath complex at Dar Zmela, both
-characterized by a similar pattern of spade-shaped scales and flower motifs in
-the corners, as well as the Great Baths at Thaenae, (present-day Thina), decorated with
-radiating waves of alternating colors.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; An unusual version of this design in
-&lt;em&gt;opus sectile&lt;/em&gt; was discovered at in southern Turkey, where it covered the floor
-of the orchestra of an &lt;em&gt;odeion&lt;/em&gt; or &lt;em&gt;bouleuterion&lt;/em&gt; that was destroyed in the
-fifth or sixth century AD.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; Although other examples of the shield or
-spinning wheel motif appear in &lt;em&gt;opus sectile&lt;/em&gt;, all feature a geometric pattern
-in place of the head of Medusa. One of these, executed in polychrome marble, was
-found in the Villa dei Papiri at Herculaneum, the famous Roman villa that
-inspired the design and decoration of the Getty Villa in Malibu.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;condition&#34;&gt;Condition&lt;/h3&gt;
-
-&lt;p&gt;The central medallion is largely intact, but the edges, including the two
-vessels in the lower half of the mosaic and much of the border, appear to be
-modern reconstructions. Reportedly, the mosaic was already badly damaged when it
-was discovered.&lt;/p&gt;
-
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;p&gt;Pasqui 1911, 338–39; Blake 1936, 83; Vermeule and Neuerburg 1973, 51–52, no.
-111; Hessenbruch McKeon 1983, 239–41, cat. no. 23; Aisenberg 1994, plate 10; J.
-Paul Getty Museum 2010, 220.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;For the excavations of the villa, see Pasqui 1911, 338–39. It seems that the mosaic may have been reburied and lifted later. Period photographs in the Getty curatorial files, including one labeled “Casa dei Neroni,” show the mosaic as the floor of a modern house, but the location and previous owner have not yet been identified.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;Purchased from the Royal Athena Galleries, New York.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;Markoulaki 1987, plate 324 (detail only), early third century AD. Another Medusa mosaic, from the Villa of Dionysos at Knossos on Crete, depicts heads representing the four seasons in the corners; see Paton 2000, 553–62.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;Shear 1930, plate 10 (now in the Archaeological Museum of Ancient Corinth, inv. no. A609 / MOS 25–3).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;Museo Nazionale Romano, Rome, inv. no. 56253; Paribeni 1913, plate 1; and Aurigemma 1974, plate 104. In Hessenbruch McKeon 1983, 238–39, cat. no. 22, the author writes that at the time of publication the tondo was in the Ministero Archeologico di Roma. It is currently in the Museo Nazionale Romano—Palazzo Massimo alle Terme. No architectural plan or description of the layout of the building was published at the time the mosaic was excavated.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34;&gt;See Pasqui 1911, 338, with figures of sea monsters and dolphins led by winged putti and Tritons.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:7&#34;&gt;See Pasqui 1911, 338, which identifies the remains of a building made in &lt;em&gt;opus mixtum&lt;/em&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:8&#34;&gt;Piraeus (now in the National Archaeological Museum of Athens): Philadelpheus 1894, plate 4. Pergamon (now in the Bergama Archaeological Museum, Izmir): Scheibelreiter-Gail 2011, 338–39, no. 107, and 649, fig. 484. Additional information can be found in Hessenbruch McKeon 1983, 264–67, nos. 43 and 45.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:9&#34;&gt;Levi 1947, plate 14a (now in the Princeton University Art Museum, inv. no. y1965-212).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:10&#34;&gt;Minchev 2002, 253, figs. 4, 5. The mosaic remains in situ in the Museum of Mosaics, Devnya (Bulgaria), which was constructed on top of a late third- to early fourth-century AD Roman villa, the so-called House of Antiope.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:11&#34;&gt;El Djem: Merlin 1915, no. 71f, no. 2; Foucher 1963, 97, fig. 13b; Dunbabin 1978, 163 and 258 (catalogue). Dar Zmela: Foucher 1960b, 121–22, no. 57.247; Foucher 1963, 97, fig. 13a; and Dunbabin 1978, 163 and 271 (catalogue). The design is meant to represent a shield, but it is not contained within a circular frame. Thina: Gauckler 1910, no. 18, A, 14; and Dunbabin 1978, 163 and 273 (catalogue). Additional bibliography can be found in Hessenbruch McKeon 1983, 301–2, nos. 64, 71, 72. Dunbabin 1978 dates the mosaics from El Djem and Thina to the late third century AD and the mosaic from Dar Zmela to the second half of the second to early third century AD, identifying Medusa as an &lt;em&gt;apotropaion&lt;/em&gt;.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:12&#34;&gt;Özüdoğru and Dökü 2010, 39–42, figs. 5, 6; and Özüdoğru and Dökü 2012, 51.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:13&#34;&gt;Spinazzola 1928, plate 195, now in the Museo Archeologico Nazionale, Naples.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/2-vedder/</guid>
+      <description>In the argument over where the monumental statue known as the Colossus of Rhodes was located, its casting has hitherto seldom been considered. The statue—made of cast bronze with a height of 70 cubits (30–35 meters, or 98–114 feet)—must have left at least some remnants of its production. Furthermore, these remnants must be discoverable in the city of Rhodes. However, a requirement for recognizing these remnants is knowledge of the casting technique that was used.</description>
     </item>
     
     <item>
-      <title>Mosaic Floor with Bear Hunt</title>
-      <link>/catalogue/2/</link>
+      <title>Bronzes from the Aegean Sea</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/3-koutsouflakis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/2/</guid>
-      <description>
-
-&lt;div id=&#34;js-deepzoom&#34;
-     class=&#34;quire-deepzoom inset&#34;
-     aria-live=&#34;polite&#34;
-     role=&#34;application&#34;
-     aria-label=&#34;Zoomable image&#34;
-     aria-describedby=&#34;&#34;
-     data-object-id=&#34;6916&#34; &gt;
-&lt;/div&gt;
-
-
-&lt;h3 id=&#34;provenance&#34;&gt;Provenance&lt;/h3&gt;
-
-&lt;p&gt;This mosaic was acquired by the J. Paul Getty Museum in 1972 from Jeannette
-Brun, a Zurich-based antiquities dealer, who reported that it had been in an
-Italian collection but provided no further information regarding its provenance.
-Subsequent publications attributed the work on stylistic grounds to a North
-African atelier.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Recent archival research, however, indicates that the
-mosaic was in fact unearthed in June 1901, in a vineyard in the vicinity of Lago
-di Lucrino, north of Baiae and just west of Naples.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; At the time of
-its discovery, architects and archaeologists at the Museo Archeologico Nazionale
-in Naples suggested that the mosaic may have decorated the great room of a bath
-but believed it had little artistic value and recommended against its
-acquisition by the museum.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Subsequently, the Italian state authorized the
-landowner, Schiano Muriello, to sell the mosaic, and it was purchased in March
-1906 by Ernesto Osta, a lawyer who intended to use it in the decoration of the
-monument to King Vittorio Emanuele II in Rome. The mosaic was lifted from the
-ground, but portions of it remained in situ owing to its poor condition and the
-difficulty of removing it intact. The lifted mosaic remained in storage in
-Naples, and in 1925 it was offered to John Marshall, a British art expert and
-dealer in Rome. By 1929, Osta’s heirs sold it to Rodolfo Follis of Turin. Follis
-sought ministerial permission to export the mosaic, but the legality of his
-ownership was questioned.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; Precisely when the mosaic left Italy is unknown.
-Four other panels from the mosaic (figs. 2–5), which had been clandestinely
-removed from the site and eventually recovered by Italian authorities, are now
-in the Museo Archeologico Nazionale in Naples.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure class=&#34;quire-figure&#34;&gt;
-  
-    &lt;img src=&#34;figures/fig02.jpg&#34; alt=&#34;Figure 2: Panel from Mosaic Floor with Bear Hunt&#34; /&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;figure class=&#34;quire-figure&#34;&gt;
-  
-    &lt;img src=&#34;figures/fig03.jpg&#34; alt=&#34;Figure 3: Panel from Mosaic Floor with Bear Hunt&#34; /&gt;
-  
-  
-&lt;/figure&gt;
-
-&lt;figure class=&#34;quire-figure&#34;&gt;
-  
-    &lt;img src=&#34;figures/fig04.jpg&#34; alt=&#34;Figure 4: Panel from Mosaic Floor with Bear Hunt&#34; /&gt;
-  
-  
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h3 id=&#34;commentary&#34;&gt;Commentary&lt;/h3&gt;
-
-&lt;p&gt;The center of the preserved portion of the mosaic depicts a bear hunt. From the
-left, three hunters wearing high boots, long-sleeved tunics, and short, belted
-garments draped diagonally from the left shoulder drive five bears into a large,
-semicircular net tied to a pair of trees. A fourth hunter appears on a panel now
-in the Museo Archeologico Nazionale in Naples (fig. 5).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; His outstretched
-left arm continues onto the left side of the Getty’s part of the mosaic (fig.
-6). The others stand in similar poses, with legs bent and arms extended forward.
-Three hold staffs in their right hands; three are beardless. Two of the figures
-are accompanied by inscriptions identifying them as Lucius and Minus. A cord in
-Minus’s left hand suggests that he is tying the net to a tree. The bears, like
-the hunters, move to the right across different levels of ground. All the bears
-have open mouths, and two have turned their heads back to the hunters, as if to
-snarl at them. In addition to the two tall trees that frame the scene, other,
-abbreviated landscape elements include darker tesserae representing the ground
-in the lower level and some small plants and clumps of grass above. Cursory
-shadows are also depicted, as are highlights and shading.&lt;/p&gt;
-
-&lt;p&gt;The figural scene is bordered by a colorful double &lt;em&gt;guilloche&lt;/em&gt; consisting of
-green, yellow, white, red, and black tesserae. Outside the &lt;em&gt;guilloche&lt;/em&gt;, at
-right, is a long, straight, vertical laurel festoon tied at center by a ribbon.
-A third, outermost border consists of an exuberant acanthus rinceau inhabited by
-fruit, armed cupids, and the protomes of real and imaginary animals, including a
-horse, a panther, and a griffin. The two preserved corners are adorned with
-large acanthus-enveloped faces (fig. 7), rather like personifications of the
-Seasons but undifferentiated. On one of the four panels in Naples, a third,
-smaller face emerges from the acanthus rinceau (fig. 2). This face was likely
-located beneath and to the left of the hunters, and its almost fully frontal
-orientation suggests that it may have originally marked the midpoint of the
-entire mosaic, which must have included at least one additional scene; for while
-the right side of the bear hunt terminates in a tree and the vertical festoon
-beyond the double &lt;em&gt;guilloche&lt;/em&gt; border, the left side evidently continued beyond
-the tree between Minus and Lucius. Other large hunt mosaics of the period, such
-as that from the Gardens of Licinius on the Esquiline Hill in Rome, also include
-the netting of animals as part of more complex compositions consisting of
-several different scenes.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Numerous ancient literary sources note the aristocratic taste for &lt;em&gt;venationes&lt;/em&gt;.
-The emperor Hadrian, who ruled from AD 117 to 138, is reported to have hunted
-bears in both Greece and Asia Minor, and he is depicted hunting on horseback in
-a roundel on the Arch of Constantine in Rome. The emperor even composed a poem,
-later inscribed in stone, celebrating his success as a hunter. Bears were found
-throughout the ancient Mediterranean world, however, and were captured to be
-trained as well as slaughtered. The second-century AD treatise on hunting,
-&lt;em&gt;Cynegetica&lt;/em&gt;, by Pseudo-Oppian, describes in detail one method of netting bears
-(although not the manner depicted in the Getty mosaic): driving them along a
-rope hung with colored ribbons and feathers. The letters of the late
-fourth-century AD consul Symmachus, among other sources, relate efforts to
-procure bears and various beasts for public entertainment.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt; Klaus Werner, who
-first recognized the Campanian origins of the Getty mosaic, and Maddalena Cima
-have argued that this theme was a particular favorite of emperors who sponsored
-spectacles with wild animals in the amphitheater.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;The findspot of the Getty Bear Hunt mosaic has yet to be fully investigated. It
-was discovered with a marble border and fragments of columns near the so-called
-Stufe di Nerone, in the Scalandrone neighborhood north of Baiae. These
-monumental architectural remains have been damaged by the construction of modern
-streets and overbuilding and, consequently, are not well understood.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; The
-early twentieth-century archaeologists who saw the Getty mosaic in situ made
-additional soundings and estimated its full length to be at least twelve
-meters.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt; The unusual shape of the mosaic, with extended corners, suggests
-that it may have occupied a space between two more or less oval rooms, such as
-those used for baths or audience halls.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:11&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:11&#34;&gt;11&lt;/a&gt;&lt;/sup&gt; The determination that this mosaic
-once decorated a rich senatorial villa or an imperial residence must await
-further investigation.&lt;/p&gt;
-
-&lt;h3 id=&#34;comparanda&#34;&gt;Comparanda&lt;/h3&gt;
-
-&lt;p&gt;Scenes of hunters forcing bears and other animals into nets and traps are
-depicted on mosaics throughout the Roman Empire, including examples from
-Carthage, El Kef, Hippo Regius and Utica in North Africa;
-Centcelles in Spain; Villelaure in France; and Rome (including one from the
-Esquiline Hill, noted above) and Ravenna in Italy.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:12&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:12&#34;&gt;12&lt;/a&gt;&lt;/sup&gt; In
-1973, Norman Neuerburg suggested a North African origin for the Getty mosaic,
-although he also noted comparanda for its iconography in mosaics from the city
-of Rome and elsewhere in Italy.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:13&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:13&#34;&gt;13&lt;/a&gt;&lt;/sup&gt; A decade later, David H. Ball published the
-mosaic, believing it to be of Tunisian origin and attributing it to a
-Carthaginian workshop. He proposed that it depicted bears being captured for
-display in the amphitheater, and he was particularly interested in the artists’
-treatment of space and the possible source of the imagery, which, he believed,
-derived from illustrated texts of Pseudo-Oppian’s &lt;em&gt;Cynegetica&lt;/em&gt;.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:14&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:14&#34;&gt;14&lt;/a&gt;&lt;/sup&gt; At about
-the same time as Ball’s study, Mario Pagano also published the mosaic, not
-knowing that the majority of it had been acquired by the J. Paul Getty
-Museum.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:15&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:15&#34;&gt;15&lt;/a&gt;&lt;/sup&gt; Working from early reports, archival documents (including a
-now-lost watercolor), and the four panels in Naples, Pagano compared its
-composition to that of two mosaics in Sicily—the small hunt mosaic at the imperial villa
-at Piazza Armerina and another from the Villa del Tellaro, near Heloros,
-—as well as to others in North Africa. He also cited parallels for the populated
-acanthus rinceau of the border on mosaics in Antioch (Turkey) and Argos
-(Greece). The signature of the mosaicist T. Senius Felix from Puteoli
-(present-day Pozzuoli, near Naples) on a large mosaic found at Lillebonne in
-Gaul, dating to the late third or early fourth century AD, suggests that Puteoli
-was home to workshops that drew upon designs of North African mosaics to
-decorate the many splendid villas overlooking the Bay of Naples that belonged to
-rich senatorial clients.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:16&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:16&#34;&gt;16&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;condition&#34;&gt;Condition&lt;/h3&gt;
-
-&lt;p&gt;The mosaic has been divided into multiple sections, all of which are backed with
-concrete. Twenty-three panels are in the J. Paul Getty Museum, and four are in
-the Museo Archeologico Nazionale in Naples. When the Getty panels were first
-lifted, in 1906 (a date confirmed by scraps of Italian newspaper still attached
-to two of them), they were backed with concrete reinforced by iron rebar.
-Correspondence between Jeannette Brun and Getty Museum officials in the early
-1970s indicates that restoration of the panels was a condition of the purchase.
-The restoration was completed in Zurich by mid-June 1972 with considerable
-difficulty because of the size and number of panels. The concrete backings were
-reinforced with additional rebar, which in some cases doubled the thickness of
-the panels. When the mosaic arrived in Los Angeles, museum officials complained
-to Brun about several aspects of this treatment, especially the lack of
-alignment among the panels.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:17&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:17&#34;&gt;17&lt;/a&gt;&lt;/sup&gt; The panels also seem to have been polished
-smooth prior to the mosaic’s arrival. The mortar between the tesserae of one of
-the corner panels depicting a face enveloped in acanthus (fig. 7) was
-subsequently partially removed.&lt;/p&gt;
-
-&lt;h3 id=&#34;bibliography&#34;&gt;Bibliography&lt;/h3&gt;
-
-&lt;p&gt;Gabrici 1901; Vermeule and Neuerburg 1973, 53–54, no. 113; Boriello and
-D’Ambrosio 1979, 44, no. 12, fig. 33; Pagano 1983–84, 179–87, figs. 28–33; Ball
-1984; Werner 1994, 293; Cima 1998, 436–38, fig. 8; Lapatin 2014; Pisapia 2014.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;Vermeule and Neuerburg 1973, 53; and Ball 1984.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;Gabrici 1901. See also Boriello and D’Ambrosio 1979, 44; Pagano 1983–84, 179; Werner 1994, 293; Cima 1998, 436–38; and Pisapia 2014.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;Gabrici 1901; and Pisapia 2014.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;Pagano 1983–84, 179–80; and Pisapia 2014. The John Marshall Archive, British School at Rome, id.no.642 (Marshall&amp;rsquo;s card file B.IV.21).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;Museo Archeologico Nazionale, Naples, inv. no. 11477.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34;&gt;Lavin 1963; Toynbee 1973; and Cima 1998.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:7&#34;&gt;&lt;em&gt;IG&lt;/em&gt; VII 1828; Scriptores Historiae Augustae, &lt;em&gt;Hadrian&lt;/em&gt; 20.13; Dio Cassius, &lt;em&gt;Historia Romana&lt;/em&gt; 69.10.2.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:8&#34;&gt;Werner 1994, 292–93; and Cima 1998, 436–38.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:9&#34;&gt;Gabrici 1901; Pagano 1983–84, 179n66; and Pisapia 2014, 113–14. No architectural plan or description of the layout of the building was published at the time the mosaic was unearthed.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:10&#34;&gt;Gabrici 1901.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:11&#34;&gt;Vermeule and Neuerburg 1973, 54.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:11&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:12&#34;&gt;Lavin 1963; and Toynbee 1973, 93–100.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:12&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:13&#34;&gt;Neuerburg mentions festoons in North Africa, subjects of bear (and other animal) driving in Rome, and peopled scrolls in all regions; see Vermeule and Neuerburg 1973, 53–54.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:13&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:14&#34;&gt;Ball 1984.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:14&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:15&#34;&gt;When Pagano published the mosaic, he believed it had been lost, known only from records. It seems that for a time both scholars were working independently on the mosaic, unaware that it was the same object.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:15&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:16&#34;&gt;Pagano 1983–84, 179–87.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:16&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:17&#34;&gt;Correspondence in the files of the antiquities department of the J. Paul Getty Museum; Lapatin 2014.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:17&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/3-koutsouflakis/</guid>
+      <description>“Thank God for Vesuvius; thank God for shipwrecks.” Bondo Wyszpolski’s comment1 on the exhibition Power and Pathos: Bronze Sculpture of the Hellenistic World at the Getty Museum accurately sums up an art-historical reality: bronze artwork of antiquity rarely survived the vicissitudes of history, except by mere chance. The contribution of Pompeii together with a handful of other sites is well known and recognized; the Villa dei Papiri at Herculaneum, for example, with its exquisite bronze portraiture “catapulted the study of bronzes from antiquarian pastime to art-historical discipline,”2 presenting an excellent archaeological context in which the Hellenistic art of portraiture could be well appreciated and understood.</description>
     </item>
     
     <item>
-      <title>Gaul</title>
-      <link>/catalogue/gaul/</link>
+      <title>A Royal Macedonian Portrait Head from the Sea off Kalymnos</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/4-palagia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/catalogue/gaul/</guid>
-      <description>&lt;p&gt;The province of Gallia Narbonensis, in the southern part of Gaul (present-day
-France), was one of the earliest regions of the Roman Empire to be affected by
-Greek and Roman culture. Even before the Roman conquest of the late second
-century BC, there was a significant Greek presence in the region, notably at
-Massalia (present-day Marseille), a Greek colony founded about 600 BC. The
-earliest examples of mosaics and other decorated floors in Gaul, dating to the
-first century BC, are found in this region, beginning with simple types related
-to the Italian &lt;em&gt;opus signinum&lt;/em&gt; and &lt;em&gt;terrazzo&lt;/em&gt;. Mosaics composed of tesserae
-became more prevalent in the late first and early second centuries AD, and it is
-likely that the technique was introduced by itinerant craftsmen, who established
-workshops in the region. The development of mosaic styles that followed this
-early period—specifically, the appearance of the black-and-white style mosaics
-that were widespread in Italy—reflects the rapidly expanding Roman presence in
-the region. Local craftsmen soon integrated their own designs and compositions,
-however, resulting in the distinctive Gallo-Roman style that was characteristic
-of the workshops operating in the Rhône valley.&lt;/p&gt;
-
-&lt;p&gt;The earliest mosaics of this Gallo-Roman type date to the middle of the second
-century AD. At that time, the main centers of mosaic production in Gaul were
-located in the upper Rhône valley at Lugdunum (present-day Lyon) and around
-Vienne, especially in its suburbs of Saint-Romain-en-Gal, and Sainte-Colombe,
-where workshops are thought to have continued production through the early third
-century AD. These workshops developed the so-called multiple decor design, with
-individual figures or scenes isolated in an elaborate grid-like framework
-resembling a coffered ceiling.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The &lt;em&gt;emblema&lt;/em&gt; of the Getty mosaic of Orpheus
-and the Animals (cat. 3) exemplifies the Gallic multiple decor style, with
-different figures from the myth of Orpheus inhabiting adjoining hexagons.
-Notably, however, the surrounding field of black-and-white geometric patterns
-continues to reflect the influence of Italian traditions (see fig. 8) for
-the mosaic with its complete border). Another mosaic, also from Vienne, with a
-central panel depicting the drunkenness of Herakles, displays a more developed form
-of multiple decor composition. The main scene is surrounded by square panels
-containing an extraordinary variety of designs that draw upon the extensive
-decorative repertory of the Rhône workshops.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:2&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:2&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; In addition to standard
-mythological subjects, scenes of contemporary Roman life are also characteristic
-of mosaics in the upper Rhône valley. A number of mosaics depict episodes from
-daily life, such as farming and hunting, as well as chariot races and other
-spectacles from the arena.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; Representations of these activities were adapted
-to the multiple decor design by filling in the compartments with figural groups,
-often acting in a series of related events.&lt;/p&gt;
-
-&lt;p&gt;While the main production centers in Gaul were in the upper Rhône valley, an
-active mosaic culture, dependent primarily on the workshops of
-Aix-en-Provence,also existed in the cities farther south.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:4&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:4&#34;&gt;4&lt;/a&gt;&lt;/sup&gt; The surviving
-evidence suggests that a more conservative stylistic tradition developed in the
-south; significantly, the multiple decor style is relatively infrequent there. A
-mosaic from the rue des Magnans in Aix-en-Provence is a notable exception, in
-which panels with various geometric patterns surround a scene of the boxing
-match between Dares and Entellus—the same image depicted on the Getty mosaic
-(cat. 4).&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:5&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:5&#34;&gt;5&lt;/a&gt;&lt;/sup&gt; The majority of the Aix-en-Provence mosaics, however, are
-monochrome pavements consisting of white floors outlined by simple black
-borders. Although fewer in number, examples of black-and-white geometric designs
-were also seen in this period, reflecting the Italian influence in this part of
-Gaul as well.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:6&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:6&#34;&gt;6&lt;/a&gt;&lt;/sup&gt; A few mosaics from this area, found almost exclusively in
-wealthy villas, include colorful central panels with detailed figural
-scenes.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:7&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:7&#34;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;While many mosaics from the upper Rhône valley depict scenes of Roman life,
-examples from Aix-en-Provence and its vicinity usually illustrate subjects from
-mythology or literature. Certain themes used in the mosaics from this area are
-highly original. The combat between Dares and Entellus depicted on the Getty
-mosaic is an episode from Virgil’s &lt;em&gt;Aeneid&lt;/em&gt; (5.362–482) that is relatively
-unknown outside of southern Gaul.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:8&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:8&#34;&gt;8&lt;/a&gt;&lt;/sup&gt; Likewise, a second mosaic from the same
-villa, now in the Los Angeles County Museum of Art, represents a specific scene
-from Ovid’s &lt;em&gt;Metamorphoses&lt;/em&gt; (2.401–530)—Diana discovering the pregnant
-Callisto—that has no counterpart in known Roman mosaics.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:9&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:9&#34;&gt;9&lt;/a&gt;&lt;/sup&gt; Both mosaics
-represent distinctly Roman versions of mythology, and their uncommon themes may
-indicate local preferences associated with this particular area of Gaul.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:10&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:10&#34;&gt;10&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;For a general discussion of the features of the Gallo-Roman style, see Lancha 1981, 14–16 (with inventory numbers) and a summary in Dunbabin 1999, 74–78. In addition to the multiple decor style, Lancha identifies two additional characteristics: the use of elaborate floral and vegetal elements, and the use of figural scenes and motifs not present in previous Gallic mosaics.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;Lancha 1981, 106–16, no. 306, plates 40–44, dates the mosaic (now in the Museé de la Civilisation Gallo-Romaine, Lyon) to the last quarter of the second century AD.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:2&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:3&#34;&gt;Lancha 1981, 15–16, lists statistics for common mythological themes, such as Orpheus, Dionysos, Herakles, the Seasons, and the Muses. For examples of farming scenes, see Lancha 1981, 208–25, no. 368, plates 107–23. For chariot races, see Lafaye 1909, nos. 712, 785, 1236. For events from the amphitheater, see Lafaye 1909, nos. 1072, 1295, 1611.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:4&#34;&gt;Aix has the greatest number of preserved mosaics in Gaul after Lugdunum and Vienne; see Lavagne 2000, 13–14: Aix (129 mosaics), Lyon (156 mosaics), Vienne, Saint-Romain-en-Gal (212 mosaics).
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:4&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:5&#34;&gt;Lavagne 1994, 203–15, dated to the mid-second century AD. The pavement lacks anything like the floral designs or the small figural motifs incorporated into examples from Vienne. Regarding the relationship between the rue des Magnans decoration and Vienne, Henri Lavagne asserts that the rue des Magnans mosaic anticipates the multiple decor style that is fully developed in the Vienne workshops; see Lavagne 2000, 17.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:5&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:6&#34;&gt;Lavagne 2000, 13–14, provides fifty-five examples of monochrome pavements and fourteen examples of black-and-white designs. Despite the high proportion of monochrome mosaic pavements in the region, expensive pavements in &lt;em&gt;opus sectile&lt;/em&gt; were the preferred form of decoration in the numerous luxury Roman villas in this area. Lavagne notes six examples in Aix that, according to him, were made by an Italian workshop, and fifty-five examples total from southeastern Gaul; see Lavagne 2000, 13–14.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:6&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:7&#34;&gt;Lavagne 2000, 13–14, records fourteen examples with figures, all from Aix.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:7&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:8&#34;&gt;Examples of the Dares and Entellus mosaic in Gaul are discussed in cat. 4, in the present volume.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:8&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:9&#34;&gt;Lavagne discusses the scene in the Diana and Callisto mosaic, citing two examples from wall paintings in Pompeii: the House of the Tragic Poet (VI, 8, 3.5) and the House of the Hanging Balcony (VII, 12, 26–27); see Lavagne 2000, 313, no. 916.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:9&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:10&#34;&gt;The mosaics from Villelaure (approx. twenty miles north of the modern town of Aix-en-Provence) were likely produced by the workshops of Aix-en-Provence. The early history of the discovery and excavation of the nearby site is summarized in “Villelaure: History of the Excavations,” in the present volume.
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:10&#34;&gt;↩&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/4-palagia/</guid>
+      <description>The fine bronze portrait head of a man wearing a kausia (figs. 4.1–3) which was on display in the exhibitions Power and Pathos in Florence, Los Angeles, and Washington, D.C., and Pergamon and the Hellenistic Kingdoms of the Ancient World at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.1 Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.</description>
     </item>
     
     <item>
-      <title>Bibliography</title>
-      <link>/bibliography/</link>
+      <title>The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization of the Archelaos Relief</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/5-butz/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/bibliography/</guid>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/5-butz/</guid>
+      <description>Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
+  Figure 5.1. Northwest corner of the Courtyard of Honor, Palazzo Te, Mantua, looking up at the gallery windows of the Acerbi Collection. Architect Giulio Romano (1524–1534). Photo: author  The bronze head of Arsinoë III is one of the most important pieces in the Giuseppe Acerbi Collection of the Museo Civico di Palazzo Te in Mantua, a collection assembled when Acerbi was the Austrian consul general in Alexandria between 1826 and 1834 and later given to his hometown of Mantua (fig.</description>
+    </item>
+    
+    <item>
+      <title>The Apollo from Salerno</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/6-pacifico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/6-pacifico/</guid>
+      <description>The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting and production, place of manufacture, and function of the work of art in antiquity.
+Laboratory analysis shows that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period.1 The presence of copper was higher in the oldest bronzes (84–92%).</description>
+    </item>
+    
+    <item>
+      <title>Tiberius from Herculaneum</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/7-risser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/7-risser/</guid>
+      <description>Introduction Building on a collaboration to conserve the bronze Apollo from Pompeii,1 the J. Paul Getty Museum partnered with the Museo Archeologico Nazionale di Napoli between 2012 and 2013 to return the larger-than-life-size portrait of Emperor Tiberius (42 BC‒AD 37) from Herculaneum for display (fig. 7.1).2 The statue, which measured 2.4 meters (8 feet) in height, had been off view for some twenty years, owing to weaknesses in the legs and base.</description>
+    </item>
+    
+    <item>
+      <title>When a Statue is Not a Statue</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/8-mattusch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/8-mattusch/</guid>
+      <description>The Piombino Apollo has recently undergone new studies of its production, measurements, alloy, and associated inscriptions (fig. 8.1, left). That statue and the similar Apollo from Pompeii (fig. 8.1, right) were installed side-by-side for the first time in the exhibition Power and Pathos, which made it possible to compare and contrast the two figures and to raise new questions about their similarities and differences.The Piombino Apollo was discovered underwater and sold at Livorno in 1832; in 1834 it was acquired by the Louvre.</description>
+    </item>
+    
+    <item>
+      <title>Second-Century Large Bronze Workshop at Gerasa (Jerash, Jordan)</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-khalil-seigne-weber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-khalil-seigne-weber/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>About this Book</title>
-      <link>/about/</link>
+      <title>Apoxyomenos</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-mesic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-mesic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Bronze Statue of Germanicus from Ameria (Amelia)</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-pollini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-pollini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Doryphoros in Bronze</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-schneider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-schneider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of Ancient Bronzes in Cuban Large-Scale Sculptures</title>
+      <link>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-toledo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/abstract-toledo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Artist</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More Than Holes!</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/9-adornato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/9-adornato/</guid>
+      <description>1. Defining the Severe-style Period The artistic revolution in Greek sculpture is generally associated with one fundamental historical event, the Persian Wars; with two of the most important sculptors of the late sixth–early fifth century BC, Kritios and Nesiotes; and with a sculptural group: the Tyrannicides. The chronological span between the end of the Persian Wars—marked by the destruction of the monuments on the Athenian Acropolis (480/79 BC)—and the beginning of the construction of the Parthenon (448/7 BC) is commonly labelled as the “Severe style period” in archaeological literature.</description>
+    </item>
+    
+    <item>
+      <title>Polykleitos at Work</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/10-haga-et-al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/10-haga-et-al/</guid>
+      <description>Introduction For more than a century, arguments have been made both for and against the identification of the Doryphoros with the “Canon” of Polykleitos without a definitive conclusion being reached. Although the most important information is Pliny’s famous phrase, it also is the cause of controversy. He writes: “Polyclitus &amp;hellip; et doryphorum viriliter puerum fecit. quem canona artifices vocant, liniamenta artis ex eo petentes veluti a lege quadam &amp;hellip;” [“Polykleitos made &amp;hellip; and a Doryphoros, a virile-looking boy.</description>
+    </item>
+    
+    <item>
+      <title>Looking at the Bronze of Lost Sculptures</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/11-falaschi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/11-falaschi/</guid>
+      <description>At the beginning of his writing On the Pythian Responses (De Pythiae oraculis), Plutarch dedicates several chapters (395b–396c) to the blue patina that characterized bronze Delphian votive offerings. Several studies have tried to give a scientific explanation for this patina and to identify it in artworks brought to light during excavations.1 This contribution focuses on a different aspect, strictly linked to the reception and perception of art in the Imperial age.</description>
+    </item>
+    
+    <item>
+      <title>Mobility and Migration</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/12-horne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/12-horne/</guid>
+      <description>Our understanding of the ancient sculptor’s profession, like so much of ancient sculpture itself, is fragmentary. The particulars of ephemeral facets such as training and organization come primarily from literary sources, supplemented by meager evidence found at sites of bronze and marble sculpture production. As a result, the clearest picture forms around the major figures of antiquity such as Praxiteles and Pheidias, who, according to ancient accounts, were sought out to complete major works across the Aegean.</description>
+    </item>
+    
+    <item>
+      <title>Praxiteles’ Bronze Sculpture at Delphi</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-artist/abstract-ajootian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-artist/abstract-ajootian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statuettes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assertions by the Portable</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/13-barr-sharrar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/13-barr-sharrar/</guid>
+      <description>Discussing Polykleitos’s Doryphoros in his landmark Masterpieces of Greek Sculpture (1895), Adolf Furtwängler included a few bronze statuettes pertinent to his subject. The largest and most important known to him was a statuette from Fins d’Annecy now in the Musée du Petit Palais in Paris (fig. 13.1).1 Suggestive of Roman marble copies of the Doryphoros with the movement of the arms reversed, Furtwängler said it had previously been identified by Adolf Michaelis and other late nineteenth-century scholars as a copy of the Hermes by Polykleitos mentioned by Pliny as “once in Lysimachea” (Naturalis historia 34.</description>
+    </item>
+    
+    <item>
+      <title>The Use of Inlays in Early Greek Bronzes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/14-hemingway-abramitis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/14-hemingway-abramitis/</guid>
+      <description>Ancient Greek bronze-smiths used a variety of techniques to enhance the appearance of their creations. Due to their often fragmentary state of preservation, the modern observer tends to think of early Greek bronzes as monochromatic, but it is clear that the practice of inlaying other materials into bronze started early in ancient Greece. This paper looks at the evidence for the Geometric (ca. 900–700 BC) and Archaic (ca. 700–480 BC) periods from many different regions, with particular reference to artworks in the collection of the Metropolitan Museum of Art, where a variety of nondestructive scientific analyses were conducted in the Museum’s conservation and scientific laboratories.</description>
+    </item>
+    
+    <item>
+      <title>The Poet as Artisan</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/15-mcgowan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/15-mcgowan/</guid>
+      <description>Figure 15.1   Figure 15.2   Figure 15.3   Bronze statuette of an artisan. New York, Metropolitan Museum of Art inv. 1972.11.1. Rogers Fund, 1972. Photo: OASC © The Metropolitan Museum of Art  Many of the papers in this volume deal with the technical aspects of bronze manufacture and analysis of fabric and technique. But what of the artisans themselves? A large, relatively well-preserved Hellenistic bronze statuette in the Metropolitan Museum of Art, said to have been found off the coast of North Africa, appears to be an image of an artisan (fig.</description>
+    </item>
+    
+    <item>
+      <title>The Paramythia Bronzes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/16-sharpe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/16-sharpe/</guid>
+      <description>Introduction This paper will focus on a hoard of bronze statuettes found near Paramythia (Epirus) at the end of the eighteenth century (fig. 16.1–14).1 It is appropriate to review these bronzes in light of recent scholarship on Roman Greece and current discussions regarding aspects of Roman identity.2 A reappraisal of the Paramythia material can contribute to recent deliberations concerning how material culture, in particular personal items, might reflect and reinforce the patron’s social and cultural identity.</description>
+    </item>
+    
+    <item>
+      <title>Roman Bronze Figurines of Deities in the National Archaeological Museum of the Marche (Ancona)</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/17-frapiccini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/17-frapiccini/</guid>
+      <description>The collection of Roman bronze statuettes in the National Archaeological Museum of the Marche at Ancona includes numerous representations of deities. The majority of these statuettes are probably from domestic lararia in the territory, which in ancient times belonged to the regiones of Umbria and Piceno. This paper analyzes some of the most interesting statuettes including the bronze figurines from Sentinum, where a foundry is known to have existed.</description>
+    </item>
+    
+    <item>
+      <title>Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/18-kaufmann/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/18-kaufmann/</guid>
+      <description>When we think of figural bronzes from the northwestern provinces of the Roman world, a considerable number of small statuettes and some impressive fragments of life-size statues come to mind. Medium-sized statuettes, between approximately 40 and 100 cm (16 to 39 in.) high, however, are less well documented, as they seem to have had less chance of surviving either intact, as did small bronzes, or as fragments, as did large statues.</description>
+    </item>
+    
+    <item>
+      <title>Through Celts and Romans</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/19-grossi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/19-grossi/</guid>
+      <description>Introduction The symbology characterizing the Roman world, as much as its artistic production, often manifests a beautiful syncretism: there are many cases in which a theme, a figure, or a meaning is re-arranged and presented in a different way, and it is often possible to see that their roots are planted far away. From this point of view the Celts were very important, because their myths, rites, and interpretations influenced Roman ones over a long span of time.</description>
+    </item>
+    
+    <item>
+      <title>Representations of Zeus/Jupiter in the Small-Scale Bronze</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/20-veseli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/20-veseli/</guid>
+      <description>Zeus/Jupiter was one of the most venerated gods in ancient Albania, a country situated on one of the crossroads of the Mediterranean. The area was heavily influenced culturally by the Graeco-Roman world. The eclectic religious life of this Graeco-Roman civilization ensured that the indigenous Illyrian pantheon was very similar to the Greek, and that most of the Olympian gods were venerated, as were Roman deities in a later era. Zeus/Jupiter, one of the most important gods, is represented in the small-scale bronze sculpture found in Albania, and in particular by the four examples discussed here.</description>
+    </item>
+    
+    <item>
+      <title>Roman-Age Casting Techniques of Small Bronzes from Marche</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/abstract-fazzini/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/abstract-fazzini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figural Bronze Statuettes in the Ashmolean Collection and the Aesthetics of Replication</title>
+      <link>https://gettypubs.github.io/artistryinbronze/statuettes/abstract-west/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/statuettes/abstract-west/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hellenistic East</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Influence of East and West on Bronze Objects Found in Central Anatolia</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/21-paterakis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/21-paterakis/</guid>
+      <description>Introduction This paper reviews the influences from the East and West on bronzes (copper-tin alloys) found in Anatolia while focusing on the archaeological finds from the site of Kaman-Kalehöyük. Given its location along ancient trade routes, Kaman-Kalehöyük may have served as a conduit for the intraregional exchange of materials and manufacturing technologies. We examine some of these influences and movements as they relate to ancient bronze technology in Anatolia.</description>
+    </item>
+    
+    <item>
+      <title>The Portrait of a Hellenistic Ruler in the National Museum of Iran</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/22-lindstroem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/22-lindstroem/</guid>
+      <description>Discovery in 1935 in Ancient Elymais The portrait head of a Hellenistic ruler (fig. 22.1) was discovered more than eighty years ago in Kal-e Chendar in the valley of Shami, north of Izeh in present-day Khuzistan (ancient Elymais). It is often stated that Sir Aurel Stein (1862–1943), the famous Hungaro-British explorer, excavated the portrait. In fact, it was found accidently in the course of construction work, shortly before Stein arrived at the site.</description>
+    </item>
+    
+    <item>
+      <title>The Influence of Bronze Working on Roman Provincial Stone Sculpture</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/23-albertson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/23-albertson/</guid>
+      <description>The prosperity experienced by the elite of the ancient Romano-Syrian city of Palmyra from the late first century BC through the middle of the third century AD is perhaps most visible in their monumental family tombs and the funerary sculpture associated within these tombs. Among the types included within the well-known repertoire of Palmyran funerary reliefs are the distinctive loculus plaques: rectangular limestone slabs covering the burial cavity, carved in high-relief with a bust depicting the individual interred and often accompanied by an Aramaic inscription denoting the occupant’s name, family lineage, and sometimes even the date of death.</description>
+    </item>
+    
+    <item>
+      <title>The Transformation of Bronze Sculpture in the Hellenistic East and the Iranian World</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/abstract-canepa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/abstract-canepa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hellenistic Heritage of Termez</title>
+      <link>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/abstract-mirzaev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/abstract-mirzaev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vessels</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Period</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/24-tarditi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/24-tarditi/</guid>
+      <description>In the study of Greek bronze vessels of the Archaic period, important comparisons are always offered by the fragments found during the excavations carried out on the Athenian Acropolis. Until now, these fragments were known mainly from some incomplete publications of the late nineteenth or early twentieth century.1 To fill this gap, we studied the bronze vessel fragments found on the Acropolis more systematically and completely. The results of this research2 make it possible to draw some conclusions about the extent and features of the Athenian bronze vessel production during the Archaic and Classical periods.</description>
+    </item>
+    
+    <item>
+      <title>Bronze Vessels and Related *Instrumenta* at Delphi</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/25-meirano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/25-meirano/</guid>
+      <description>The circumstances under which the École Française d’Athènes conducted the chief excavation of the sanctuary of Delphi are well known: the so-called Grande Fouille (Great Excavation) represents a foundational page in the history of archaeological excavations in Greece during the nineteenth century. Between 1892 and 1903, French archaeologists brought to light the major part of the site (fig. 25.1, unveiling the ruins of the celebrated monuments described in the literary texts and contributing to the understanding of one of the most famous sanctuaries of the ancient world.</description>
+    </item>
+    
+    <item>
+      <title>Toward the Derveni Krater</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/26-gaunt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/26-gaunt/</guid>
+      <description>Figure 26.1. Bronze volute-krater from Vix (Burgundy, France). Greek, Laconian, ca. 570 BC. Chatîllon sur Seine, Musée du Pays Chatîllonais, inv. nnn. Photo: TK   Figure 26.2. Volute-krater from Derveni. Bronze with silver and copper. Greek, early fourth century BC. Thessaloniki, Archaeological Museum, inv. B1. Photo: TK   A simple observation provides the point of departure for this paper. The decorative schemes of two Greek bronze volute kraters—the Archaic one found at Vix in Burgundy (fig.</description>
+    </item>
+    
+    <item>
+      <title>Iconography of the Sea World on Late Hellenistic Bronze Vessels</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/27-dedecker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/27-dedecker/</guid>
+      <description>The Mediterranean Sea has always captured the imagination of the Greeks, but at the end of the Hellenistic era, their artistic vision and technical knowledge were transferred to the Italian peninsula, where Roman craftsmen created artifacts that surpassed everything before. These craftsmen portrayed deities such as Poseidon, Amphitrite, Triton, Scylla, and Medusa, who lived in the sea, riding creatures like sea horses (hippocampi), sea wolves (ketos), dolphins, and other real and imaginary marine animals.</description>
+    </item>
+    
+    <item>
+      <title>An Anthropomorphic Vessel in the National Museum of Beirut</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/28-fani/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/28-fani/</guid>
+      <description>A bronze anthropomorphic vessel came onto the art market in Damascus in 1953. It was acquired by the late Émir Maurice Chéhab, then director-general of antiquities in Lebanon, who actively sought artifacts that had been excavated in his country and subsequently smuggled into Syria for sale. The vessel (inv. 25422) currently is on display at the National Museum of Beirut.
+The Beirut vessel has been discussed in the writings of Frances F.</description>
+    </item>
+    
+    <item>
+      <title>Hellenistic, Roman and Byzantine Influence in the Consolidation of Fatimid Metalware</title>
+      <link>https://gettypubs.github.io/artistryinbronze/vessels/29-lester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/vessels/29-lester/</guid>
+      <description>Introduction Until recently, the availability of Early Islamic metal vessels was limited to individual pieces in museums and private collections, and the scholarship were always generalized, with very limited information in regard to typology.1 Metal articles from the early centuries of Islam within the Syrian-Egyptian region are even less common, as Iran and Central Asia attracted the greater portion of attention from researchers.2
+The Fatimid dynasty3 is famous for its decorative arts, which have stimulated considerable scholarly interest, and several publications have been dedicated to the subject.</description>
+    </item>
+    
+    <item>
+      <title>Artifacts</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minoan Status Symbols</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/30-ferrence-giumlia-mair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/30-ferrence-giumlia-mair/</guid>
+      <description>Introduction For our project on Minoan metallurgy, many objects of various sizes, belonging to several classes, and made of different metals were analyzed by X-ray fluorescence (XRF). The items come from different sites in eastern Crete, one of which is the Minoan town of Gournia, which was excavated in the early twentieth century.1 With the support of the University of Pennsylvania Museum of Archaeology and Anthropology (hereafter, Penn Museum) in Philadelphia and private donors, Harriet Boyd Hawes and her collaborators, Richard Seager and Edith Hall, excavated the settlement of Gournia in three campaigns in 1901, 1903, and 1904 and published the discoveries in 1908.</description>
+    </item>
+    
+    <item>
+      <title>Bronze Trees from the Greek to the Roman World</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/31-castoldi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/31-castoldi/</guid>
+      <description>It is well known that trees, gardens, and landscapes are not commonly represented in Greek art until the Hellenistic period. In vase painting, the focus is on men, gods, and heroes; war, hunting, labor, rituals, weddings, death, and festivals offer the opportunity to represent humans, who are at the center of philosophy and art in ancient Greece. Nature and landscapes, by contrast, rarely appear in vase painting; floral patterns, tendrils, and leaves only appear as subsidiary decoration.</description>
+    </item>
+    
+    <item>
+      <title>Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/32-ignatiadou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/32-ignatiadou/</guid>
+      <description>Introduction Parexodos is the name ascribed in the Hippocratic Corpus to the portable medical case that a doctor must own, to facilitate work outside his premises. In it, he could store prepared medicaments and also his tools: “ἔστω δέ σοι ἑτέρη παρέξοδος ἡ λιτοτέρη πρὸς τὰς ἀποδημίας ἡ διὰ χειρῶν &amp;hellip; [Be sure to possess another portable case, simpler and hand-held for travels &amp;hellip;]” (De decente habitu 8.10–11).1
+We are familiar with the medical cases of the Roman period, which are rectangular boxes with sliding lids and rectangular compartments,2 but our knowledge of the medical cases of the Classical and Hellenistic periods remains limited.</description>
+    </item>
+    
+    <item>
+      <title>A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/33-gulyaeva/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/33-gulyaeva/</guid>
+      <description>The major part of Marquis Giovanni Pietro Campana’s famous collection came into the Department of Classical Antiquities at the Hermitage Museum in 1861. Among the items were three “shields.” There were no detailed descriptions of them, but they were included in a short list of the objects in a special catalogue.1
+Two of the three were similar: round basins with wide flat rims. The first one was described in Campana’s catalogue as “Scudo rotondo con figura di Arpia in mezzo di bello stile”;2 the second one was described as “Scudo rotondo con chimera a basso rilievo nel mezzo.</description>
+    </item>
+    
+    <item>
+      <title>Roman Silhouette Figures</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/34-franken/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/34-franken/</guid>
+      <description>The question of original function is of great importance in our attempts to understand any archaeological object. For many ancient bronzes, this question is not easy to answer. Technical features, context of the discovery, or figural parallels can often provide valuable information. First of all, however, one must search for comparable bronzes. Only when one expands one’s view from the individual object to all similar artifacts does it become possible to better understand and assess their shared characteristics.</description>
+    </item>
+    
+    <item>
+      <title>Balancing Artifacts</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-de-angelis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-de-angelis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Figures on Fire</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-bielfeldt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-bielfeldt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standspiegel, Figured Appliqués, and Other Bronze Items at Locri Epizefiri (Magna Graecia)</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-elia-meriano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-elia-meriano/</guid>
+      <description> Bibliography  Cameron 1979 Cameron, F. 1979. Greek Bronze Hand-Mirrors in South Italy. Oxford: British Archaeological Reports. Elia 2010 Elia, D. 2010. Locri Epizefiri 6. Alessandria: Edizioni dell’Orso. Meirano 2002 Meirano, V. 2002. “Utensil Stands da Locri Epizefiri.” In I bronzi antichi: produzione e tecnologia: Atti XV Congresso Internazionale sui Bronzi Antichi, ed. A. Giumlia-Mair, 117–26. Montagnac: Editions Monique Mergoil.  </description>
+    </item>
+    
+    <item>
+      <title>A Multidisciplinary Study of Hellenistic and Roman Bronze Mirrors from the Archaeological Collection of Ancient Messene, Greece</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-giannoulaki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-giannoulaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Gréau Mirror and the Phenomenon of Fakes in Nineteenth-Century Paris</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-lee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-lee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Ancient Chariot from Serbia</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-milanovic-ratkovic-petelin-colovic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-milanovic-ratkovic-petelin-colovic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bronze Warfare from the Hellenistic Period</title>
+      <link>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-tisseyre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/artifacts/abstract-tisseyre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation and Analysis</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sustainable Conservation of Bronze Artworks</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/35-casaletto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/35-casaletto/</guid>
+      <description>Introduction Conservation Science is a field that has been in continuous evolution since the late twentieth century. The study of ancient bronzes has long focused on archaeometry, addressing technological aspects and production concerns. Casting cores, alloys, joins, surface patinas, and corrosion products have been intensively investigated by various analytical techniques in order to improve our knowledge of the original materials, processes, manufacturing techniques, and degradation phenomena. Scientific results provided very useful information to archaeologists, art historians, and conservators about the artistry, craftsmanship, production, conservation, and restoration of ancient bronze artifacts.</description>
+    </item>
+    
+    <item>
+      <title>Investigating Ancient “Bronzes”</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/36-tykot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/36-tykot/</guid>
+      <description>X-Ray Fluorescence X-ray fluorescence (XRF) is one of many analytical methods used to determine the composition of copper-based metal objects. When used nondestructively, however, care must be taken to understand the principles of this method and thus the significance of the results. XRF analysis involves primary X-rays striking the sample and creating electron vacancies in an inner shell of the atoms; these vacancies are then filled by lower-energy electrons from an outer shell, while producing secondary X-rays.</description>
+    </item>
+    
+    <item>
+      <title>A Scientific Assessment of the Long-Term Protection of Incralac® Coatings on Ancient Bronze Collections in the National Archaeological Museum and the Epigraphic and Numismatic Museum, in Athens, Greece</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/37-boyatzis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/37-boyatzis/</guid>
+      <description>Introduction Among the main criteria for selecting a coating for cultural heritage metal artifacts are (1) long-term insulation of their surfaces from contaminants due to environmental pollutants and handling; (2) the filtration of light through absorption of radiation; (3) considerable adhesion to the metal surface and elasticity; and finally (4) chemical stability. Ease of application and reversibility are also among the highly sought requirements.
+Incralac® was introduced by INCRA (International Copper Research Association) in 1964 as a metal protective coating based on the acrylic resin Paraloid® B44 (an ethylacrylate –methylmethacrylate copolymer) with benzotriazole (BTA) as a main additive.</description>
+    </item>
+    
+    <item>
+      <title>New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/38-argyropoulos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/38-argyropoulos/</guid>
+      <description>Introduction Ancient bronzes often contain surface decoration in the corrosion layers or show evidence of tinning, niello, gilding, paint, or organic materials in the corrosion layers. Depending on the quantity of chlorides in their surfaces, traditional conservation methods to stabilize bronze disease are either (1) locally to treat the artifact with Ag2O particles or zinc dust; followed by complete immersion in sodium sesquicarbonate (pH 10) solutions with or without electrolysis to convert cupreous chloride to more stable corrosion product(s);1 and/or (2) the use of corrosion inhibitors, such as benzotriazole.</description>
+    </item>
+    
+    <item>
+      <title>Conservation Treatments and Archaeometallurgical Insights on the Medici Riccardi Horse Head</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/39-salvioli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/39-salvioli/</guid>
+      <description>History of the Artifact The equine bronze protome known as the Medici Riccardi horse head in the Museo Archeologico Nazionale of Florence is likely a surviving part of a Hellenistic life-size equestrian sculptural group, which has been dated around the second half of the fourth century BC.1 The sculpture entered the antiquarian collections of the Medici in the fifteenth century and was cited for the first time in 1495 as part of Lorenzo il Magnifico’s antiquarian collection,2 although it had certainly been found well before that.</description>
+    </item>
+    
+    <item>
+      <title>The Cleveland *Apollo*</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/40-northover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/40-northover/</guid>
+      <description>Introduction and Pre-accession Investigation The only life-size bronze version of the sculptural type traditionally known as Apollo Sauroktonos (Apollo the Lizard-Slayer), now re-named Apollo the Python-Slayer and attributed to Praxiteles, is part of the permanent collection of the Cleveland Museum of Art (inv. 2004.30; fig. 40.1a–d).1 There are approximately twenty other known sculptures of this type that exist, all in marble with one reduced-scale bronze copy.2
+ Figure 40.1a. Apollo the Python-Slayer, ca.</description>
+    </item>
+    
+    <item>
+      <title>The Getty Herm of Dionysos</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/41-maish/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/41-maish/</guid>
+      <description>Introduction Ancient Athenians are reported to have been the first to erect herms that served as boundary markers in both urban and rural settings and also stood in the entrances of private homes and temples; at one location herms became so numerous that one structure near the Agora was named the Stoa of the Herms. This proliferation and high demand perhaps led to the development of copying and serial reproduction methods, and the Getty Herm of Dionysos (J.</description>
+    </item>
+    
+    <item>
+      <title>A Technological Re-Examination of the Piombino Apollo</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/42-mille-descamps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/42-mille-descamps/</guid>
+      <description>Epigraphic and Stylistic Re-evaluation of the Piombino Apollo  Figure 42.1. Piombino Apollo, 120–100 BC. H. 115.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br2. Photo: © C2RMF, Anne Maigret  The Piombino Apollo (fig. 42.1) was among the statues gathered for the exhibition Power and Pathos: Bronze Sculpture of the Hellenistic World at the J. Paul Getty Museum and the accompanying symposium.1 It is an Archaizing work, as was already suggested by Jean Letronne in 1834, just two years after the bronze was discovered in the sea off the west coast of Piombino, Italy.</description>
+    </item>
+    
+    <item>
+      <title>New Results on the Alloys of the Croatian Apoxyomenos</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/43-vidovic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/43-vidovic/</guid>
+      <description>Introduction The statue of an Apoxyomenos (fig. 43.1), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).</description>
+    </item>
+    
+    <item>
+      <title>The Bronze Sculpture of Alexander the Great on Horseback</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/44-siano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/44-siano/</guid>
+      <description>The equestrian bronze group of Alexander on horseback in the National Archaeological Museum of Naples (inv. 4996), which is dated around the first century BC, was found in Herculaneum during the Bourbon excavation campaigns of the second half of the eighteenth century (fig. 44.1a–b). According to the sources, the statuette, whose restored height is 49 centimeters, was mostly excavated on October 22, 1761, within a tunnel at the Theater under the Casa dei Colli Mozzi.</description>
+    </item>
+    
+    <item>
+      <title>The Auloi from Meroë</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/45-gansicke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/45-gansicke/</guid>
+      <description>Discovery and Introduction In 1921, Harvard Egyptologist George A. Reisner excavated Pyramid N 6 (also called Beg. N. 6), the burial of Queen Amanishakheto, in Meroë, Sudan.1 This pyramid had been discovered in the early nineteenth century by the Italian physician and explorer Giuseppe Ferlini. While investigating the pyramid, much of which was destroyed during the process, Ferlini came upon a rich trove of gold jewelry.2
+A few objects however remained in the tomb, to be discovered only when excavations were undertaken in the stairway leading to the underground burial chamber.</description>
+    </item>
+    
+    <item>
+      <title>A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/46-kantarelou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/46-kantarelou/</guid>
+      <description>Introduction During the PROMET European FP6 project, a micro-XRF mobile spectrometer was transported to the National Museum of Damascus, Syria, where it was applied to and validated for the quantitative noninvasive analysis of unique museum metal collections across the Mediterranean region, successfully addressing archaeological and conservation questions. Given the value of these collections, transport of objects or sampling for analysis is generally not permitted. Thus, the development and validation of a reliable portable technology is critical for comparisons of analytical compositional results, especially for similar museum collections or objects housed around the world.</description>
+    </item>
+    
+    <item>
+      <title>Is There an Ultimate Authority in Authenticity?</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/47-anderson-eremin-lie-bewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/47-anderson-eremin-lie-bewer/</guid>
+      <description>On display in the Harvard Art Museums is a statuette of Alexander the Great, sometimes referred to as the Alexander Nelidow after its first known owner.1 The statuette first appeared in the Istanbul bazaar sometime before 1897.2 The original condition of the surface when excavated can only be guessed at: the surface had already been cleaned of any unsightly burial accretions by the time the first images appear.3 Alexander is depicted as a nude youth, standing with his left arm raised, probably to grasp a spear.</description>
+    </item>
+    
+    <item>
+      <title>The Riace Bronze Statues</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-angelini-et-al/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-angelini-et-al/</guid>
+      <description> Bibliography  Alpine Archaeocopper Project http://geo.geoscienze.unipd.it/aacp/welcome.html Arias 1986 Arias, P. E. 1986. “Analisi critica delle statue [The Critical Analysis of the Statues].” In Gli Eroi venuti dal mare, ed. L. M. Lombardi Satriani, et al. 39–64. Università della Calabria, Studi e Ricerche 19. Gangemi: Università della Calabria. BRETTSCAIFE.net http://brettscaife.net/lead/data/index.html OXALID http://oxalid.arch.ox.ac.uk/  </description>
+    </item>
+    
+    <item>
+      <title>Balancing Artifacts</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-azema-mille-descamps-lequime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-azema-mille-descamps-lequime/</guid>
+      <description>Bibliography  Boube-Piccot 1969 Boube-Piccot, C. 1969. Les bronzes antiques du Maroc. Vol. 1: La statuaire. Etudes et Travaux d’Archeologie Marocaine 4. Rabat: Royaume du Maroc. Hemingway 2015 Hemingway, S. “Statue of Eros Sleeping.” In Power and Pathos: Bronze Sculpture of the Hellenistic World, ed. J. M. Daehner and K. Lapatin, no. 20, 228–29. Los Angeles: J. Paul Getty Museum. Mattusch 1996 Mattusch, C. C. 1996. Classical Bronzes: The Art and Craft of Greek and Roman Statuary.</description>
+    </item>
+    
+    <item>
+      <title>Copper, War, and Art in Ancient Greece</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-diaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-diaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern and Ancient Metal Fakes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-giumlia-mair/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-giumlia-mair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Examination, Conservation, and Analysis of a Composed Egyptian Ibis Statue</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-mahmoud-matsuda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-mahmoud-matsuda/</guid>
+      <description> Bibliography  Janssens et al. 2000 Janssens, K., et al. 2000. “The Use of Microscopic XRF for Non-destructive Analysis in Art and Archaeometry.” X-Ray Spectrum 29: 73–91.  </description>
+    </item>
+    
+    <item>
+      <title>Technical Examinations on the Parthian Bronze Coffin from Chubtarash Archaeological Site, Khorramabad, Western Iran</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-oudbashi-hassari-hassanpour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-oudbashi-hassari-hassanpour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Material Interpretation of Ancient Large Bronzes</title>
+      <link>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-siano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/abstract-siano/</guid>
+      <description>Bibliography  Cygielman 2008 Cygielman, M., ed. 2008. La Minerva di Arezzo. Exh. cat. Florence, Soprintendenza per i Beni Archeologici della Toscana. Iozzo 1998 Iozzo M., ed. 1998 “&amp;hellip; qual era tutto rotto”: L’enigma dell’idolino di Pesaro: Indagini per un restauro. Exh. cat. Florence, Museo Archeologico Nazionale. Siano et al. 2012 Siano, S., M. Miccio, M. Giamello, S. Mugnaini, and J. Agresti. 2012. “Journey through the Material Layers of the Chimaera from Arezzo.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://gettypubs.github.io/artistryinbronze/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://gettypubs.github.io/artistryinbronze/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>sample-geojson.json</link>
+      <link>https://gettypubs.github.io/artistryinbronze/search.json</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>sample-geojson.json</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>search.json</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>search.json</guid>
+      <guid>https://gettypubs.github.io/artistryinbronze/search.json</guid>
       <description></description>
     </item>
     

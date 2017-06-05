@@ -1,15 +1,24 @@
 ---
 title: Contents
 weight: 2
-type: frontmatter
+type: page
+menu: true
 ---
 {{% quire-toc %}}
+
 - [Cover](/)
-- [Foreword]({{< ref "foreword.md" >}})
-- [Introduction]({{< ref "introduction.md" >}})
-- [Catalogue](/catalogue/)
-  - [Italy (1-2)]({{< ref "catalogue/italy.md" >}})
-  - [Gaul (3-4)]({{< ref "catalogue/gaul.md" >}})
-- [Bibliography]({{< ref "bibliography.md" >}})
+- [List of Previous Bronze Congresses, Proceedings, and Related Exhibitions]({{< ref "congresses.md" >}})
+- [Directors’ Foreword]({{< ref "foreword.md" >}}) — Timothy Potts and Tim Whalen
+- [Introduction]({{< ref "introduction.md" >}}) — Jens M. Daehner, Kenneth Lapatin, Ambra Spinelli
+
+1. [Large-Scale Bronzes](/large-scale-bronzes/)
+2. [The Artist](/the-artist/)
+3. [Statuettes](/statuettes/)
+4. [The Hellenistic East](/the-hellenistic-east/)
+5. [Vessels](/vessels/)
+6. [Artifacts](/artifacts/)
+7. [Conservation and Analysis](/conservation-and-analysis/)
+
 - [About]({{< ref "about.md" >}})
+
 {{% /quire-toc %}}
