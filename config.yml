@@ -32,3 +32,4 @@ params:
   imageLabelContentAfter: ". "
   tableLabelContentBefore: "Table "
   tableLabelContentAfter: ". "
+  primaryColor: "#ff0000"
