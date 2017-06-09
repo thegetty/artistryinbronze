@@ -6,7 +6,7 @@
   <div class="quire-page__content">
     <section class="quire-page__content__main">
       {{ .Content }}
-      {{ .Site.Data.publication.description | markdownify }}
+      {{ .Site.Data.publication.description.full | markdownify }}
       <section>
         <h2>Citation Information</h2>
         <h3>Chicago</h3>

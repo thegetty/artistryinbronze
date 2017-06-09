@@ -1,0 +1,15 @@
+  {{ if ne .Type "essay" -}}
+    <!-- Books and Integrated Book Parts/Chapters -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ .Site.Data.publication.url }}">
+    <meta name="twitter:title" content="{{ .Site.Data.publication.title }}">
+    <meta name="twitter:description" content="{{ if .Site.Data.publication.description.one_line }}{{ .Site.Data.publication.description.one_line }}{{ else }}{{ with .Site.Data.publication.description.full }}{{ . | truncate 100 }}{{ end }}{{ end }}">
+    <meta name="twitter:image" content="{{ .Site.Data.publication.cover_graphic }}">
+  {{ else -}}
+    <!-- Standalone Essays/Articles w/i Books  -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="{{ .Site.Data.publication.url }}{{ .URL }}">
+    <meta name="twitter:title" content="{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}: {{ . }}{{ end }}">
+    <meta name="twitter:description" content="{{ .Page.Params.abstract | truncate 100 }}">
+    <meta name="twitter:image" content="{{ .Site.Data.publication.cover_graphic }}">
+  {{ end -}}
