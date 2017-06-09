@@ -5,7 +5,7 @@
 
     <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}" id="{{ with .Get "id" }}{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
-        <img  src="/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
+        <img  src="/assets/img/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
         {{ end }}
@@ -25,7 +25,7 @@
         {{ if eq .media_type "inline-svg" }}
           {{ .src | safeHTML }}
         {{ else }}
-          <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+          <img  src="/assets/img/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
         {{ end }}
         {{ if $.Get "label" }}
 
@@ -63,7 +63,7 @@
         {{ if eq .media_type "inline-svg" }}
           {{ .src | safeHTML }}
         {{ else }}
-          <img  src="/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+          <img  src="/assets/img/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
         {{ end }}
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
