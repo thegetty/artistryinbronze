@@ -61,7 +61,7 @@ figure_list:
     caption: >
       Reconstruction of original position of the Athlete
     credit: >
-      After Benndorf 1906, 185, fig. 131
+      Drawing: After Benndorf 1906, 185, fig. 131
 
   - id: "1.8"
     src: fig_1.08_Plattner_Gschwantler_Vak.jpg
@@ -131,14 +131,14 @@ figure_list:
     caption: >
       Colossus of Rhodes, master model. Drawing based on picture by L. von Schwanthaler (base and workers), statue of Aias (body) and Rhodian coin (head)
     credit: >
-      Photo: © Ursula Vedder
+      Drawing: © Ursula Vedder
 
   - id: "2.2"
     src: fig_2.02_Vedder.jpg
     caption: >
       Ground plan of the platform for the pedestal of the Athena Promachos in Athens (drawing by T. Tanoulas, Palagia 2013, fig. 11)
     credit: >
-      Photo: © Tasos Tanoulas, Olga Palagia
+      Drawing: © Tasos Tanoulas, Olga Palagia
 
   - id: "2.3"
     src: fig_2.03_Vedder.jpg
@@ -152,7 +152,7 @@ figure_list:
     caption: >
       Buddha of Nara, reconstruction of the casting mold. (The drawing is a copy of Maeda et al. 1997, fig. 55, omitting Japanese characters and adding numbers and English text)
     credit: >
-      Photo: © Todaiji, Nara, Japan © Ursula Vedder
+      Drawing: © Todaiji, Nara, Japan © Ursula Vedder
 
   - id: "2.5"
     src: fig_2.05_Vedder.jpg
@@ -178,7 +178,7 @@ figure_list:
   - id: "2.8"
     src: fig_2.08_Vedder.jpg
     caption: >
-      Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (Google, Basarsoft, drawing added)
+      Rhodes, Sanctuary of Helios (said to be of Apollon Pythios) and the possible location of the Helios Colossus (drawing added)
     credit: >
       Map data: © 2017 Google and Basarsoft
 
@@ -751,7 +751,7 @@ figure_list:
     src: fig_15.05_McGowan.jpg
     caption: >
       Roman lamp disc with bust of Hephaistos. Athens, Agora L 5413.
-    credit:
+    credit: >
       Photo: Courtesy of American School of Classical Studies at Athens: Agora Excavations
 
   - id: "15.6"
