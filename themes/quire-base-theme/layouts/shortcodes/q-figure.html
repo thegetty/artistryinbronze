@@ -5,13 +5,13 @@
 
     <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}" id="{{ with .Get "id" }}{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
-        <img  src="/assets/img/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
+        <img  src="{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
         {{ end }}
       </div>
       {{ with .Get "caption" }}
-      <figcaption>{{ .  | markdownify }}</figcaption>
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
       {{ end }}
     </figure>
 
@@ -36,47 +36,50 @@
           <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}</span>
           {{ end }}
         {{ else }}
-            <span class="q-figure-label">{{ $.Get "label" | markdownify }}</span>
+          <span class="q-figure-label">{{ $.Get "label" | markdownify }}</span>
         {{ end }}
         {{ end }}
 
       </div>
-      {{ if $.Get "caption" }}
-        <figcaption>{{ $.Get "caption" }}</figcaption>
-      {{ else }}
-      {{ if .caption }}
-        <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
-      {{ end }}
+      {{ if or (or (or ($.Get "caption") ($.Get "credit")) (.caption) ) (.credit) }}
+        <figcaption>
+          {{ if $.Get "caption" }}
+            {{ $.Get "caption" }}
+          {{ else if .caption }}
+            <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}
+          {{ end }}
+          {{ if $.Get "credit" }}
+            <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>
+          {{ else if .credit }}
+            <span class="q-figure-credit">{{ .credit | markdownify }}</span>
+          {{ end }}
+        </figcaption>
       {{ end }}
     </figure>
     {{ end }}
 
   {{ end }}
 
-{{ else }}
-
-  {{ if .Get "src" }}
+{{ else if .Get "src" }}
   <!-- if the shortcode has a src, but no id, render the figure from the values given in the shortcode -->
 
     <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }}">
       <div class="q-figure__wrapper">
-        {{ if eq .media_type "inline-svg" }}
-          {{ .src | safeHTML }}
+        {{ if eq (.Get "media_type") "inline-svg" }}
+          {{ .Get "src" | safeHTML }}
         {{ else }}
-          <img  src="/assets/img/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
+          <img  src="{{ .Get "src" }}" alt="{{ if .Get "alt" }}{{ .Get "alt" }}{{ end }}" />
         {{ end }}
         {{ with .Get "label" }}
         <span class="q-figure-label">{{ . }}</span>
         {{ end }}
       </div>
       {{ with .Get "caption" }}
-      <figcaption>{{ .  | markdownify }}</figcaption>
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
       {{ end }}
     </figure>
 
-  {{ else }}
+{{ else }}
   <!-- if the shortcode has no id and no src, don't render anything -->
-
-  {{ end }}
 
 {{ end }}

@@ -16,15 +16,15 @@
       {{ end }}
     {{ end }}
   </div>
-    {{ if $.Get "caption" }}
+    {{ if or ($.Get "caption") ($.Get "credit") }}
     {{ else }}
-    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}</figcaption>
+    <figcaption><span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify }}{{ with .credit }} <span class="q-figure-credit">{{ . | markdownify }}</span>{{ end }}</figcaption>
     {{ end }}
   </figure>
   {{ end }}
 {{ end }}
-{{ with .Get "caption" }}
-<figcaption>{{ . | markdownify }}</figcaption>
+{{ if or (.Get "caption") (.Get "credit") }}
+<figcaption>{{ with .Get "caption" }}{{ . | markdownify }}{{ end }}{{ with .Get "credit" }} <span class="q-figure-credit">{{ . | markdownify }}</span>{{ end }}</figcaption>
 {{ end }}
 </figure>
 {{ end }}
