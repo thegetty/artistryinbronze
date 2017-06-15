@@ -1,6 +1,7 @@
 ---
 type: special
 layout: print
+pdf: false
 ---
 This file is a placeholder that allows you to generate a special page suitable
 for creating a print version of your entire website. Content in this file will
