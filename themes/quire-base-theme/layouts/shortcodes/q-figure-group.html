@@ -5,7 +5,7 @@
 {{ range $idlist }}
 {{ $x := . | string }}
   {{ range where $.Site.Data.figures.figure_list "id" "eq" $x }}
-  <figure class="q-figure__inner-figure" id="{{ .id }}" {{ with $.Get "grid" }}{{ end }}>
+  <figure class="q-figure__inner-figure" id="{{ .id }}" {{ with $.Get "grid" }}style="flex-basis: calc( (100% - {{ . }}rem) / {{ . }})"{{ end }}>
   <div class="q-figure__wrapper">
     <img  src="/assets/img/figures/{{ .src }}" alt="{{ if $.Get "alt" }}{{ $.Get "alt" }}{{ else }}{{ .alt }}{{ end }}" />
     {{ if eq ($.Get "label") "true" }}
