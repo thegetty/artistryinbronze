@@ -1229,6 +1229,7 @@ code {
     line-height: 1.6em; }
 
 .q-figure {
+  width: calc(100% - ($base-spacing * 6));
   margin-bottom: 1.5rem;
   margin-top: 1.5rem;
   margin-right: 3rem;
