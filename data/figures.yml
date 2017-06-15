@@ -470,7 +470,7 @@ figure_list:
     src: fig_8.05_Mattusch.jpg
     caption: >
       Statue of an ephebe (Idolino) from Pesaro. Florence, Museo Archeologico Nazionale, inv. 1637.
-    credit:
+    credit: >
       Image: Courtesy of Sailko
 
   - id: "8.6"
@@ -538,7 +538,7 @@ figure_list:
     src: fig_10.03_Sengoku_Haga.jpg
     caption: >
       3D shape comparison between the Doryphoros and the Diadoumenos and with the three Amazon types (the threshold is 4mm)
-    credit:
+    credit: >
       Image: By authors (Kyoko Sengoku-Haga, Sae Buseki, Min Lu, Shintaro Ono, Takeshi Oishi, Takeshi Masuda, Katsushi Ikeuchi)
 
   - id: "10.4"
@@ -2672,35 +2672,35 @@ figure_list:
     src: fig_45.04_Gansicke.jpg
     caption: >
       The end of a pipe’s slider mechanism carries a small three-dimensional sculpture of a dolphin holding a seashell in its snout. There are four such slider terminals in the collection
-    credit:
+    credit: >
       Image: © Museum of Fine Arts, Boston
 
   - id: "45.5"
     src: fig_45.05_Gansicke.jpg
     caption: >
       (above) Photo of Box 11 containing auloi fragments; (below) X-radiography of Box 11 in an (almost) identical arrangement
-    credit:
+    credit: >
       Image: © Museum of Fine Arts, Boston
 
   - id: "45.6"
     src: fig_45.06_Gansicke.jpg
     caption: >
       Photomicrograph taken in a scanning electron microscope showing a small section of an almost metallic, uncorroded surface of a bronze tube, which retains parallel lines caused by lathe turning
-    credit:
+    credit: >
       Image: © Museum of Fine Arts, Boston
 
   - id: "45.7"
     src: fig_45.07_Gansicke.jpg
     caption: >
       Rotating bronze sleeve with soldered-on bronze knob. The hole in the knob contains ancient flax twine
-    credit:
+    credit: >
       Image: © Museum of Fine Arts, Boston
 
   - id: "45.8"
     src: fig_45.08_Gansicke.jpg
     caption: >
       Three boxes containing two pairs of pipes each, as assembled in early November 2015
-    credit:
+    credit: >
       Image: © Museum of Fine Arts, Boston
 
   - id: "46.1a"
