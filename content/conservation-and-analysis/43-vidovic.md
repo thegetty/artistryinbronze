@@ -86,7 +86,7 @@ Before assembly, the casting core was removed from all parts of the statue. The 
 
 All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
-{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg. Archaeological drawings: K. J. Rončević, 2005 (HRZ)" >}}
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" >}}
 
 This re-examination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
