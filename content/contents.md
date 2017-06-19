@@ -7,7 +7,7 @@ menu: true
 {{% quire-toc %}}
 
 - [Cover](/)
-- [List of Previous Bronze Congresses, Proceedings, and Related Exhibitions]({{< ref "congresses.md" >}})
+- [International Bronze Congresses and Associated Publications and Exhibitions]({{< ref "congresses.md" >}})
 - [Directors’ Foreword]({{< ref "foreword.md" >}}) — Timothy Potts and Tim Whalen
 - [Introduction]({{< ref "introduction.md" >}}) — Jens M. Daehner, Kenneth Lapatin, Ambra Spinelli
 
