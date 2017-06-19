@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
+  </header>
+  <div class="quire-page__content">
+    <section class="quire-page__content__main">
+      {{ .Content }}
+      {{ .Site.Data.publication.description.full | markdownify }}
+      <section>
+        <h2>Citation Information</h2>
+        <h3>Chicago</h3>
+        <p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu/publications/artistryinbronze</p>
+        <h3>MLA</h3>
+        <p>Citation to come</p>
+        <h3>Permanent URL</h3>
+        <p>{{ .Site.BaseURL }}</p>
+      </section>
+      <section>
+        <h2>Revision History</h2>
+        <p>Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at <a href="{{ .Site.Data.publication.repository_url }}" target="_blank"> {{ .Site.Data.publication.repository_url }}</a>, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.</p>
+        {{ range .Site.Data.publication.revision_history }}
+          <h3>{{ dateFormat "January 2, 2006" .date }}</h3>
+          <ul>
+            {{ range .summary }}
+            <li>{{ . }}</li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </section>
+      <section>
+        <h2>Downloads</h2>
+        {{ with .Site.Data.publication.formats }}
+          <h3>Other Formats</h3>
+          {{ partial "link-list.html" . }}
+        {{ end }}
+        {{ with .Site.Data.publication.related_resources }}
+          <h3>Related Resources</h3>
+          {{ partial "link-list.html" . }}
+        {{ end }}
+      </section>
+      <section>
+        <h2>Copyright</h2>
+        <p>{{ .Site.Data.publication.copyright }}</p>
+        <img src="../assets/img/{{ .Site.Data.publication.license.icon }}">
+        <p>{{ if or .Site.Data.publication.license_exceptions.online .Site.Data.publication.license_exceptions.both }}Except as otherwise noted, this{{ else }}This{{ end }} work is licensed under a {{ .Site.Data.publication.license.name }}.</p>
+        {{ if .Site.Data.publication.license_exceptions.online }}
+          {{ range .Site.Data.publication.license_exceptions.online }}
+            <p>{{ . | markdownify }}</p>
+          {{ end }}
+        {{ end }}
+        {{ if .Site.Data.publication.license_exceptions.both }}
+          {{ range .Site.Data.publication.license_exceptions.online }}
+            <p>{{ . | markdownify }}</p>
+          {{ end }}
+        {{ end }}
+  </div>
+</div>
+{{ end }}
