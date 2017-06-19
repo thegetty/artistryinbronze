@@ -1207,8 +1207,8 @@ figure_list:
     caption: >
       State model of the head: profiles, front, and back view
     credit: >
-      Image: Th. Kersten and M. Lindstaedt, Photogrammetry & Laserscanning Lab, HafenCity University Hamburg
-
+      Image: TK
+      
   - id: "22.6"
     src: fig_22.06_Lindstroem.jpg
     caption: >
