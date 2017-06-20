@@ -91,7 +91,7 @@ Many thanks are due to S. Tassinari, S. Descamps, C. Pouzadoux, V. Sampaolo, A. 
 
 [^5]: Tassinari 1975, 167, fig. 3a (MANN, inv.69488).
 
-[^6]: e.g. Balty 1965, 52 no. 25; p. 54, no. 52, plates 6–7; Tassinari 1975, 169, fig. 4d (MANN, inv. 69489); Faider-Feytmans 1979, 177, no. 362; Tassinari 2002, 367, fig. 8; Ratković 2005, 74, no. 21 (MANN, inv. 115565 and 115570).
+[^6]: For example, Balty 1965, 52 no. 25; p. 54, no. 52, plates 6–7; Tassinari 1975, 169, fig. 4d (MANN, inv. 69489); Faider-Feytmans 1979, 177, no. 362; Tassinari 2002, 367, fig. 8; Ratković 2005, 74, no. 21 (MANN, inv. 115565 and 115570).
 
 [^7]: *LIMC* 8 (1997), 68–85, s.v. “Triton, Tritones” (Icard-Gianolio).
 

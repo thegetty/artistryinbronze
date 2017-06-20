@@ -104,7 +104,7 @@ By using this analytical procedure, we achieved a very consistent new set of res
 
 {{< q-figure id="43.6" >}}
 
-Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, i.e., some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
+Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, that is, some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
 
 {{< q-figure id="43.7" >}}
 

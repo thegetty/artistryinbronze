@@ -131,7 +131,7 @@ Future study sessions with the team members within the next year are anticipated
 
 [^12]: Hagel 2012a.
 
-[^13]: Most recently the instruments were included in an MFA Highlights book on musical instruments, see Kuronen 2004, 61. It should be noted that prior to the collaboration with the music archaeologists in 2015, small bone cones have been repeatedly misinterpreted as bells, i.e., bottoms of flutes, also by Bodley (1946, 235). See also Byrne 2002.
+[^13]: Most recently the instruments were included in an MFA Highlights book on musical instruments, see Kuronen 2004, 61. It should be noted that prior to the collaboration with the music archaeologists in 2015, small bone cones have been repeatedly misinterpreted as bells, that is, bottoms of flutes, also by Bodley (1946, 235). See also Byrne 2002.
 
 [^14]: The adhesive used in the treatment is Rohm+Haas Paraloid B 72 (a conservation grade ethyl-methacrylate copolymer). It can be prepared in a variety of concentrations in a number of solvents, remains reversible, and does not darken or prevent future treatment or reversal of joins.
 

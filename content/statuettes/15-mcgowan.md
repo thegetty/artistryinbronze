@@ -130,7 +130,7 @@ I am grateful to Kenneth Lapatin and Jens Daehner for the invitation to contribu
 
 [^28]: Frag. 12W, “*metrokoites*”, literally “mother-fucker” (Gerber 1999, 362–63), and possibly frag. 70W, 7–8, (Gerber 1999, 404–405). For Hipponax’s rivalry with Boupalos, see Hedreen 2016, 106–110.
 
-[^29]: E.g. frag. 15W, Gerber 1999, 354–55.
+[^29]: For example,  frag. 15W, Gerber 1999, 354–55.
 
 [^30]: On the rivalry between Hipponax and Boupalos as an early iteration of the *paragone* between poetry and the visual arts: Hedreen 2016, 103, 115–16.
 

@@ -9,7 +9,7 @@ contributor:
 abstract: |
     The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband, was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together though further study is needed before any conclusion can be reached.
 
-    Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, e.g. the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
+    Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, for example, the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth *diadem*, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale, portraying a Macedonian king.
 
     The Kalymnos head does not, strictly speaking, wear a royal *diadem* since its tail ends do not fall on his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a *diadem*. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
 
@@ -122,7 +122,7 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^34]: Sherwin-White 1978, 115–18; Kotsidu 2000, 240, cat. 158 (ca. 220 BC).
 
-[^35]: For coin portraits, see e.g. Mørkholm 1991, plate 10, nos. 172–73.
+[^35]: For coin portraits, see, for example, Mørkholm 1991, plate 10, nos. 172–73.
 
 [^36]: Mørkholm 1991, plate 39, no. 588.
 

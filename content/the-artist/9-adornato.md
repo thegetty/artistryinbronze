@@ -106,13 +106,13 @@ This paper is part of a wider project on a technical lexicon and art criticism i
 
 [^20]: Vlad Borrelli 1966.
 
-[^21]: E.g. Ridgway 1970. On the reception of Archaic style, Hallett 2012.
+[^21]: For example,  Ridgway 1970. On the reception of Archaic style, Hallett 2012.
 
 [^22]: Rolley 1994, 320: “C’est sous l’influence des auteurs latins, qui caractérisent les œuvres des sculpteurs de cette période par les qualificatifs *durus*, *rigidus*, *austerus*, que Winckelmann, dans son *Histoire de l’art antique* de 1764, qualifie de sévère (*streng*) la sculpture antérieure à Pheidias. . . . C’est l’étude fondamentale de V. Poulsen qui a imposé l’expression ‘style sévère’.” For Muller-Dufeu (2002, 171) “le style sévère, en référence à la noblesse d’attitude que les artistes donnent alors à leurs œuvres.”
 
 [^23]: Poulsen 1937; Bol 2004a; Germini 2008, 19, attributes the concept of *hardness* solely to Archaic artistic production, in clear contradiction with the literary sources analyzed. See Lapatin 2012.
 
-[^24]: E.g., Quintilian *Institutio oratoria* 11.3.76: staring eyes (*rigidi oculi*); 11.3.82: head held high, neither rigid nor bowed (*cervicem rectam oportet esse, non rigidam aut supinam*).
+[^24]: For example, Quintilian *Institutio oratoria* 11.3.76: staring eyes (*rigidi oculi*); 11.3.82: head held high, neither rigid nor bowed (*cervicem rectam oportet esse, non rigidam aut supinam*).
 
 [^25]: Winckelmann 1764, ch. 4, section 3, part I.C (Engl. trans., see Winckelmann 2006, 231–32); Donohue 1995; Strocka 2002, 120; Germini 2008, 17.
 

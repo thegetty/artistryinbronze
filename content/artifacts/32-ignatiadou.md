@@ -119,7 +119,7 @@ This notion of a writing substratum that is rolled around a pen case is known fr
 
 [^1]: Translated by the author. See also Bliquez 2015, 24.
 
-[^2]: E.g. Boyer, Bel, and Tranoy 1990.
+[^2]: For example, Boyer, Bel, and Tranoy 1990.
 
 [^3]: On the burial and the case, Archaeological Museum of Thessaloniki, inv. MTH 7437 see Romiopoulou 1973‒74; Romiopoulou 1989, 215‒6, no. 23, plate 57; Descamps-Lequime 2011, cat. 228 (D. Ignatiadou); Ignatiadou 2014a, cat. no. 384; Ignatiadou (forthcoming).
 

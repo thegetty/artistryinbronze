@@ -83,7 +83,7 @@ This brief overview has shown that the group of medium-sized statuettes might gr
 
 [^17]: Boucher 1972, 144–46, and accordingly Gury 2006, 110–11. A votive inscription from Geneva, now lost (*CIL* XII 2589), is still the only testimony known so far to mention Mars, Jupiter, and Mercury; see Bertrandy et al. 2005, 215–16, no. 824 (F. Wiblé).
 
-[^18]: As mentioned above, Roman sanctuaries usually housed all sorts of images besides the main cult statue; see, e.g., W. Van Andringa’s instructive case study on the inventories of various temples in the center of Pompeii (Van Andringa 2012).
+[^18]: As mentioned above, Roman sanctuaries usually housed all sorts of images besides the main cult statue; see, for example, W. Van Andringa’s instructive case study on the inventories of various temples in the center of Pompeii (Van Andringa 2012).
 
 [^19]: See Schäfer and Witteyer 2013; Scheid 2009; Scheid 2013.
 

@@ -121,7 +121,7 @@ Financial support from the pon03pe\_00214\_1 Project: “Nanotecnologie e nanoma
 
 [^8]: Skerry 1985; Turgoose 1985.
 
-[^9]: E.g. Madsen 1967; Greene 1971.
+[^9]: For example, Madsen 1967; Greene 1971.
 
 [^10]: Oddy 1974; Sease 1978; Pillard et al. 2001; Selwyn 2004.
 

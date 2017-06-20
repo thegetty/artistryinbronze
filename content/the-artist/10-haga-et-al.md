@@ -140,7 +140,7 @@ For generous permission and kind assistance during the scanning, I am particular
 
 [^16]: We scanned plaster casts in Munich.
 
-[^17]: E.g., Linfert 1990; Rolley 1999, 42–51.
+[^17]: For example, Linfert 1990; Rolley 1999, 42–51.
 
 [^18]: Admitting the strong influence of the Doryphoros, many scholars denied the relationship of the Diomedes sculptor to Polykleitos’ workshop, based on its departure from the Canon in its　structure. Stewart 1990, 168; Stewart 1995, 251–53; Linfert 1990, 289. See also n. 19 below.
 
