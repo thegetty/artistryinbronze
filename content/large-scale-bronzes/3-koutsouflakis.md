@@ -9,9 +9,9 @@ contributor:
    affiliation: Hellenic Ephorate of Underwater Antiquities
 abstract: |
 
-    Bronze artworks have seldom survived the whims of fortune on land. The Mediterranean Sea remains the richest reservoir of ancient bronzes lost in transit, and over the last 130 years the Aegean Sea has yielded some of the most spectacular and well-known masterpieces. The bronze pieces retrieved by salvage operations sponsored by the Greek state at Antikythera (1901) and Cape Artemision (1928) inaugurated a discussion about the exact nature of such cargos that continues well into the twenty-first century. Yet bronzes from known underwater contexts are far outnumbered by isolated finds unexpectedly brought to light by fishing activities. Extracted violently from their post-depositional environment, they offer little information about the circumstances of their transit, while the wreck sites from which they originate continue to resist discovery.
+    Bronze artworks have seldom survived the whims of fortune on land. The Mediterranean Sea remains the richest reservoir of ancient bronzes lost in transit, and over the last 130 years the Aegean Sea has yielded some of the most spectacular and well-known masterpieces. The bronze pieces retrieved by salvage operations sponsored by the Greek state at Antikythera (1901) and Cape Artemision (1928) inaugurated a discussion about the exact nature of such cargoes that continues well into the twenty-first century. Yet bronzes from known underwater contexts are far outnumbered by isolated finds unexpectedly brought to light by fishing activities. Extracted violently from their postdepositional environment, they offer little information about the circumstances of their transit, while the wreck sites from which they originate continue to resist discovery.
 
-    The aim of this paper is to examine the existing evidence of bronzes found in the Aegean Sea, highlighting less known material retrieved from the sea over the last twenty years or long forgotten in museum storerooms.
+    The aim of this paper is to examine the existing evidence of bronzes found in the Aegean Sea, highlighting less-known material retrieved from the sea over the last twenty years or long forgotten in museum storerooms.
 
 weight: 103
 ---
