@@ -24,7 +24,7 @@ type: page
 
 4. 1976 LYON
 
-    IVth International Congress on Ancient Bronzes, May 17–21, 1976. Lyons, France.
+    IVth International Congress on Ancient Bronzes, May 17–21, 1976. Lyon, France.
 
     Acta: S. Boucher, ed. 1977. “Actes du IVe colloque international sur les bronzes antiques 17–21 mai 1976.” *Annales de l'Université Jean Moulin* (Lyon): 5–236.
 
@@ -32,7 +32,7 @@ type: page
 
     Vth International Congress on Ancient Bronzes, May 8–13, 1978. Lausanne, Switzerland.
 
-    Acta: C. Bérard, P. Ducrey, and A. Altherr-Charon, eds. 1979. *Bronzes hellénistiques et romains: tradition et renouveau: Actes du Ve colloque international sur les bronzes antiques, Lausanne, 8–13 mai 1978*. Cahiers d'archéologie romande de la Bibliothèque historique vaudoise 17 (Lausanne).
+    Acta: C. Bérard, P. Ducrey, and A. Altherr-Charon, eds. 1979. *Bronzes hellénistiques et romains: Tradition et renouveau: Actes du Ve colloque international sur les bronzes antiques, Lausanne, 8–13 mai 1978*. Cahiers d'archéologie romande de la Bibliothèque historique vaudoise 17 (Lausanne).
 
 6. 1980 BERLIN
 
@@ -80,9 +80,9 @@ type: page
 
 12. 1992 NIJMEGEN
 
-    XIIth International Congress on Ancient Bronzes, June 1–4, 1992. Provincaal Museum G.M. Kam, Nijmegen, Netherlands.
+    XIIth International Congress on Ancient Bronzes, June 1–4, 1992. Provincaal Museum G. M. Kam, Nijmegen, Netherlands.
 
-    Acta: S. T. A. M. Mols et al., eds. 1995. *Acta of the 12th International Congress on Ancient Bronzes, Nijmegen*. Nederlandse Archeologische Rapporten 18. Nijmegen: Provincaal Museum G.M. Kam.
+    Acta: S. T. A. M. Mols et al., eds. 1995. *Acta of the 12th International Congress on Ancient Bronzes, Nijmegen*. Nederlandse Archeologische Rapporten 18. Nijmegen: Provincaal Museum G. M. Kam.
 
 13. 1996 CAMBRIDGE, MA
 
@@ -100,7 +100,7 @@ type: page
 
 15. 2001 GRADO-AQUILEIA
 
-    XVth International Congress on Ancient Bronzes, May 26–31, 2003. Università di Udine, Gorizia, Italy.
+    XVth International Congress on Ancient Bronzes, May 26–31, 2001. Università di Udine, Gorizia, Italy.
 
     Acta: A. Giumlia-Mair, ed. 2002. *I Bronzi Antichi: Produzione e Tecnologia: Atti del XV Congresso Internazionale sui Bronzi Antichi, organizzato dall’Università di Udine, sede di Gorizia, Grado-Aquileia*. Monographies instrumentum 21.
 
@@ -112,13 +112,13 @@ type: page
 
 17. 2011 IZMIR
 
-    XVIIth International Congress on Ancient Bronzes, May 20–26, 2011. Izmir, Turkey. Acta in press.
+    XVIIth International Congress on Ancient Bronzes, May 20–26, 2011. Izmir, Turkey. Acta: in press.
 
 18. 2013 ZÜRICH
 
-    XVIIIth International Congress on Ancient Bronzes, September 4–7, 2015. Zürich University, Swiss National Museum Zürich, and the Paul Scherrer Institute, Zürich, Switzerland.
+    XVIIIth International Congress on Ancient Bronzes, September 4–7, 2013. Zürich University, Swiss National Museum Zürich, and the Paul Scherrer Institute, Zürich, Switzerland.
 
-    Acta: P. Della Casa and E. Deschler-Erb, eds. 2015. *Acta of the XVIIIth International Congress on Ancient Bronzes, Zürich 2013*. Zurich Studies in Archaeology 10.
+    Acta: P. Della Casa and E. Deschler-Erb, eds. 2015. *Acta of the XVIIIth International Congress on Ancient Bronzes, Zürich 2013*. Zürich Studies in Archaeology 10.
 
     Catalogue: M. Bürge, E. Deschler-Erb, and A. Kaufmann-Heinimann, eds. 2013. *Göttlich menschlich: Römische Bronzen aus der Schweiz*. Exh. cat., Archäologisches Institut der Universität Zürich.
 
@@ -126,7 +126,7 @@ type: page
 
     XIX International Congress on Ancient Bronzes, October 13–17, 2015. The J. Paul Getty Museum, Los Angeles, CA, U.S.A.
 
-    Catalogue: J. M. Daehner and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh, cat., The J. Paul Getty Museum, Los Angeles.
+    Catalogue: J. M. Daehner and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh. cat., The J. Paul Getty Museum, Los Angeles.
 
 20. 2018 TÜBINGEN
 
