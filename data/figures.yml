@@ -15,7 +15,7 @@ figure_list:
     src: fig_1.01_Plattner_Gschwantler_Vak.jpg
     alt: "Bronze sculpture of standing nude male, short hair, looking down with his arms raised slightly in front of him and his hands poised as if in action."
     caption: >
-      Athlete of Ephesos. Kunsthistorisches Museum Vienna, inv. VI 3168.
+      Athlete of Ephesos, Kunsthistorisches Museum Vienna, inv. VI 3168.
     credit: >
       Image: KHM-Museumsverband
 
@@ -1208,7 +1208,7 @@ figure_list:
       State model of the head: profiles, front, and back view
     credit: >
       Image: TK
-      
+
   - id: "22.6"
     src: fig_22.06_Lindstroem.jpg
     caption: >
