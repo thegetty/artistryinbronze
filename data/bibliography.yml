@@ -281,7 +281,7 @@ biblio_list:
     reference_for: "2"
 
   - short: Lapatin 2001
-    full: "Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press"
+    full: "Lapatin, K. D. S. 2001. *Chryselephantine Statuary in the Ancient Mediterranean World*. Oxford: Oxford University Press."
     reference_for: "2"
 
   - short: Maeda et al. 1997
@@ -296,12 +296,12 @@ biblio_list:
     full: "Mattusch, C. C. 2014. *Enduring Bronze: Ancient Art, Modern Views*. Los Angeles: J. Paul Getty Museum."
     reference_for: "2"
 
-  - short: Pangkofer 1854
-    full: "Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. [http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4)."
-    reference_for: "2"
-
   - short: Palagia 2013
     full: "Palagia, O. 2013. “Not from the Spoils of Marathon: Pheidias’ Bronze Athena on the Acropolis.” In *Marathon the Day After: Symposium Proceedings, Delphi, July 2–4, 2010*, ed. K. Buraselis and E. Koulakiotis, 117–37. Athens: European Cultural Center of Delphi."
+    reference_for: "2"
+
+  - short: Pangkofer 1854
+    full: "Pangkofer, J. A. 1854. *Bavaria, Riesenstandbild aus Erz*. Munich: Georg Franz. [http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4](http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10384297-4)."
     reference_for: "2"
 
   - short: Rosenfield 2011
@@ -325,7 +325,7 @@ biblio_list:
     reference_for: "2"
 
   - short: Azoulay 2009
-    full: "Azoulay, V. 2009. “La gloire et l'outrage: Heurs et malheurs des statues honorifiques de Démétrios de Phalère.” *Annales. Histoire, Sciences Sociales* 64.2: 303–40; online: [http://www.cairn.info/revue-annales-2009-2-page-303.htm](http://www.cairn.info/revue-annales-2009-2-page-303.htm)."
+    full: "Azoulay, V. 2009. “La gloire et l'outrage: Heurs et malheurs des statues honorifiques de Démétrios de Phalère.” *Annales. Histoire, Sciences Sociales* 64.2: 303–40; [http://www.cairn.info/revue-annales-2009-2-page-303.htm](http://www.cairn.info/revue-annales-2009-2-page-303.htm)."
     reference_for: "3"
 
   - short: Bairamē 2014
@@ -333,11 +333,11 @@ biblio_list:
     reference_for: "3"
 
   - short: Bass 2011
-    full: "Bass, G. F. 2011. “The Development of Maritime Archaeology.” In *The Oxford Handbook of Maritime Archaeology*, eds. A. Catsabis, B. Ford, and D. I. Hamilton, 3–22. Oxford: Oxford University Press."
+    full: "Bass, G. F. 2011. “The Development of Maritime Archaeology.” In *The Oxford Handbook of Maritime Archaeology*, ed. A. Catsabis, B. Ford, and D. I. Hamilton, 3–22. Oxford: Oxford University Press."
     reference_for: "3"
 
   - short: Bass and Joliene 1968
-    full: "Bass, G. F., and L.T. Joliene 1968. “Problems in Deep Wreck Identification.” *Expedition* 11.1: 9–12."
+    full: "Bass, G. F., and L. T. Joliene 1968. “Problems in Deep Wreck Identification.” *Expedition* 11.1: 9–12."
     reference_for: "3"
 
   - short: Becatti 1939
@@ -401,7 +401,7 @@ biblio_list:
     reference_for: "3"
 
   - short: Hellenkemper Salies et al. 1994
-    full: "Hellenkemper Salies, G., H.-H. von Prittwitz und Gaffron, and G. Bauchhenss, eds. *Das Wrack: Der antike Schiffsfund von Mahdia*. Cologne: Rheinland Verlag."
+    full: "Hellenkemper Salies, G., H.-H. von Prittwitz und Gaffron, and G. Bauchhenss, ed. *Das Wrack: Der antike Schiffsfund von Mahdia*. Cologne: Rheinland Verlag."
     reference_for: "3"
 
   - short: Hemingway 2004
@@ -429,7 +429,7 @@ biblio_list:
     reference_for: "3"
 
   - short: Kaltsas, Vlachogianni, and Bouyia 2012
-    full: "Kaltsas, N., E. Vlachogianni and P. Bouyia, eds. 2012. *The Antikythera Shipwreck. The Ship, the Treasures, the Mechanism*. Athens: National Archaeological Museum."
+    full: "Kaltsas, N., E. Vlachogianni, and P. Bouyia, eds. 2012. *The Antikythera Shipwreck. The Ship, the Treasures, the Mechanism*. Athens: National Archaeological Museum."
     reference_for: "3"
 
   - short: Karouzos 1930–31
@@ -476,7 +476,7 @@ biblio_list:
     full: "Palagia, O. 2013. “Aspects of the Diffusion of Ptolemaic Portraiture Overseas.” In *The Ptolemies, the Sea and the Nile: Studies in Waterborne Trade*, ed. K. Buraselis, N. Stefanou, and D. J. Thompson, 143–59. Cambridge: Cambridge University Press."
     reference_for: "3"
 
-  - short: Palagia, O. 2017
+  - short: Palagia 2017
     full: "Palagia, O. 2017. “A Royal Macedonian Portrait Head from the Sea off Kalymnos.” Chapter 4 of the present volume."
     reference_for: "3"
 
@@ -493,10 +493,10 @@ biblio_list:
     reference_for: "3"
 
   - short: Proskynitopoulou 2004
-    full: "Proskynitopoulou, R. 2004. “Άγαλμα νεαρής ανδρικής μορφής.” In *Αγών*, ed. N. Kaltsas, 101–103. Exh. cat. Athens, National Archaeological Museum."
+    full: "Proskynitopoulou, R. 2004. “Άγαλμα νεαρής ανδρικής μορφής.” In *Αγών*, ed. N. Kaltsas, 101–3. Exh. cat. Athens: National Archaeological Museum."
     reference_for: "3"
 
-  - short: Rhomaios, K. 1924–25
+  - short: Rhomaios 1924–25
     full: "Rhomaios, K. 1924–25. “Ὁ ἔφηβος τοῦ Μαραθῶνος.” *ΑΔ* 9: 145–87."
     reference_for: "3"
 
@@ -525,11 +525,11 @@ biblio_list:
     reference_for: "3"
 
   - short: Throckmorton 1965a
-    full: "Throckmorton, P. 1965a. “The Antikythera Ship.” In *The Antikythera Shipwreck Reconsidered*, ed. G. D. Weinberg, V. R. Grace, G. R. Edwards, H. S. Robinson, P. Throckmorton, and E. K. Ralph, *TAPS* 55.3, 40–46."
+    full: "Throckmorton, P. 1965. “The Antikythera Ship.” In *The Antikythera Shipwreck Reconsidered*, ed. G. D. Weinberg, V. R. Grace, G. R. Edwards, H. S. Robinson, P. Throckmorton, and E. K. Ralph, *TAPS* 55.3, 40–46."
     reference_for: "3"
 
   - short: Throckmorton 1965b
-    full: "Throckmorton, P. 1965b, *The Lost Ships: An Adventure in Undersea Archaeology*. London: Jonathon Cape."
+    full: "Throckmorton, P. 1965, *The Lost Ships: An Adventure in Undersea Archaeology*. London: Jonathon Cape."
     reference_for: "3"
 
   - short: Touloupa 1986

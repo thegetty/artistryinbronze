@@ -56,7 +56,7 @@ As expected, the number of handles is large. Some are figured specimens with sty
 
 Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5–6](#25.5)).
 
-Among the *instrumenta*, lamps are attested especially in the late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.7](#25.7)).[^26]
+Among the *instrumenta*, lamps are attested especially in the Late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.7](#25.7)).[^26]
 
 <!-- {{< q-figure id="25.7" >}} -->
 
