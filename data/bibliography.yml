@@ -93,7 +93,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Gschwantler 2002
-    full: "Gschwantler, K. 2002. “Der Schaber von Ephesos: Bronzeguss: Zerstörung und Rekonstruktion,” 506–508. In *Die griechische Klassik: Idee oder Wirklichkeit*. Exh cat. Berlin, Martin-Gropius-Bau; Bonn Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: von Zabern."
+    full: "Gschwantler, K. 2002. “Der Schaber von Ephesos: Bronzeguss: Zerstörung und Rekonstruktion,” 506–8. In *Die griechische Klassik: Idee oder Wirklichkeit*. Exh cat. Berlin, Martin-Gropius-Bau; Bonn Kunst- und Ausstellungshalle der Bundesrepublik Deutschland. Mainz am Rhein: von Zabern."
     reference_for: "1"
 
   - short: Hartwig 1901
@@ -141,7 +141,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Liverani 1989
-    full: "Liverani, P. 1989. *L'Antiquarium di Villa Barberini a Castel Gandolfo*. Città del Vaticano: Libreria archeologico."
+    full: "Liverani, P. 1989. *L'Antiquarium di Villa Barberini a Castel Gandolfo*. Vatican City: Libreria archeologico."
     reference_for: "1"
 
   - short: Mansuelli 1958
@@ -217,7 +217,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Schneider 1901
-    full: "Schneider, R. v. 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen."
+    full: "Schneider, R. von 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen."
     reference_for: "1"
 
   - short: Sieveking 1926
@@ -549,7 +549,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Cribb 2007
-    full: "Cribb, J. 2007. “Money as a Maker of Cultural Continuity and Change in Central Asia.” In *After Alexander: Central Asia Before Islam*, ed. J. Cribb and G. Herrmann, 333–75. Oxford: Oxford University Press."
+    full: "Cribb, J. 2007. “Money as a Maker of Cultural Continuity and Change in Central Asia.” In *After Alexander: Central Asia before Islam*, ed. J. Cribb and G. Herrmann, 333–75. Oxford: Oxford University Press."
     reference_for: "4"
 
   - short: Daehner and Lapatin 2015
@@ -604,8 +604,8 @@ biblio_list:
     full: "Lichtenberger, A., K. Martin, H.-Helge Nieswandt, and D. Salzmann, eds. 2012. *Das Diadem der hellenistischen Herrscher.* Bonn: Habelt."
     reference_for: "4"
 
-  - short: Lorber, C. C. 2012
-    full: "Lorber 2012. “The Coinage of the Ptolemies.” In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. E. Metcalf, 211–34. Oxford: Oxford University Press."
+  - short: Lorber 2012
+    full: "Lorber, C. C. 2012. “The Coinage of the Ptolemies.” In *The Oxford Handbook of Greek and Roman Coinage*, ed. W. E. Metcalf, 211–34. Oxford: Oxford University Press."
     reference_for: "4"
 
   - short: Ma 2013
@@ -804,7 +804,7 @@ biblio_list:
     full: "Maiuri, A. 1942. Untitled note. *RendAccIt* 3: 10–12."
     reference_for: "6"
 
-  - short: Mustilli, D. 1937/38
+  - short: Mustilli 1937/38
     full: "Mustilli, D. 1937/38. “L’Apollo di Salerno.” *BdA*, ser. 3, 31: 136–46."
     reference_for: "6"
 
@@ -813,7 +813,7 @@ biblio_list:
     reference_for: "6"
 
   - short: Palmentieri 2011
-    full: "Palmentieri, A. 2011. “Testa di Apollo citaredo.” In *Dopo lo Tsunami: Salerno Antica*, ed. A. Campanelli, 103–105. Exh. cat. Salerno, Complesso monumentale si Santa Lucia. Naples: Art’m."
+    full: "Palmentieri, A. 2011. “Testa di Apollo citaredo.” In *Dopo lo Tsunami: Salerno Antica*, ed. A. Campanelli, 103–5. Exh. cat. Salerno, Complesso monumentale si Santa Lucia. Naples: Art’m."
     reference_for: "6"
 
   - short: Technau 1931
@@ -824,12 +824,12 @@ biblio_list:
     full: "Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109."
     reference_for: "7"
 
-  - short: Antichità 1771
+  - short: *Antichità* 1771
     full: "Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia."
     reference_for: "7"
 
   - short: Boschung 2002
-    full: "Boschung, D. 2002. *Gens Augusta: Untersuchungen zu Aufstellung, Wirkung und Bedeutung der Statuengruppen des julisch-claudischen Kaiserhauses*. Mainz am Rhein: Phillip von Zabern."
+    full: "Boschung, D. 2002. *Gens Augusta: Untersuchungen zu Aufstellung, Wirkung und Bedeutung der Statuengruppen des julisch-claudischen Kaiserhauses*. Mainz am Rhein: Philipp von Zabern."
     reference_for: "7"
 
   - short: Caianiello 1998
@@ -865,7 +865,7 @@ biblio_list:
     reference_for: "7"
 
   - short: Najbjerg 1997
-    full: "Najbjerg, T. 1997. “Public Painted and Sculptural Programs of the Early Roman Empire: A Case-Study of the So-Called Basilica in Herculaneum.” Ph.D. diss. University of Michigan, Ann Arbor."
+    full: "Najbjerg, T. 1997. “Public Painted and Sculptural Programs of the Early Roman Empire: A Case-Study of the So-Called Basilica in Herculaneum.” PhD diss., University of Michigan, Ann Arbor."
     reference_for: "7"
 
   - short: Najbjerg 2002

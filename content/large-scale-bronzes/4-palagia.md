@@ -16,13 +16,13 @@ abstract: |
 weight: 104
 ---
 
-The fine bronze portrait head of a man wearing a *kausia* ([figs. 4.1–3](#4.1)) which was on display in the exhibitions *Power and Pathos* in Florence, Los Angeles, and Washington, D.C., and *Pergamon and the Hellenistic Kingdoms of the Ancient World* at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.[^1] Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.[^2] A third monumental bronze from the same area is the cuirassed torso of a horseman,[^3] while a fourth is an even larger headless horseman,[^4] which may or may not belong together with the *kausia* head. It is sometimes assumed that this bronze head belonged to an equestrian statue, but this is by no means established.
+The fine bronze portrait head of a man wearing a *kausia* ([figs. 4.1–3](#4.1)), which was on display in the exhibitions *Power and Pathos* in Florence, Los Angeles, and Washington, DC, and *Pergamon and the Hellenistic Kingdoms of the Ancient World* at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.[^1] Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.[^2] A third monumental bronze from the same area is the cuirassed torso of a horseman,[^3] while a fourth is an even larger headless horseman,[^4] which may or may not belong together with the *kausia* head. It is sometimes assumed that this bronze head belonged to an equestrian statue, but this is by no means established.
 
 {{< q-figure-group id="4.1, 4.2, 4.3" grid="3" grid-align="top" >}}
 
 All four statues could conceivably come from the same shipwreck, but we do not have a verified excavation context. The works were recovered by fishermen, who specified different findspots for each before turning them over to the Greek government. No shipwrecks have been located so far and the bronzes are not yet fully published, even though two of them were found in the previous century: the female statue was found in 1994, the head with a *kausia* in 1997, the cuirassed torso in 2006, and the headless horseman in 2009.[^5] There is little doubt that all four statues are portraits. Their high quality and monumental size suggest that they are portraits of rulers or high officials of the Hellenistic period. In 2013 I published an article tentatively identifying the female portrait statue from the sea off Kalymnos with the Ptolemaic queen Arsinoë III, who reigned in the late third century BC, by comparison with the bronze head of Arsinoë in Mantua, which was also included in the exhibition *Power and Pathos*.[^6] I associated the statue with the island of Kos, where several portraits of the queen are attested and where a ruler cult of the Ptolemies was located. Kos is very close to Pserimos, where the bronze female allegedly came to light.
 
-The bronze head wearing a *kausia* (see [figs. 4.1–3](#4.1)) is slightly over life-size. It was created by an outstanding sculptor and is one of the finest bronzes to have come down to us from antiquity. He has a long, oval face, large ears, short hair, sideburns and a short beard. He wears a distinctive hat of mushroom shape, slightly pointed, ending in a sweatband around the scalp. It seems to imitate a leather cap, judging by its sharp edges, with a woolen sweatband. A similar hat is represented on the weapons frieze of the propylon of the sanctuary of Athena at Pergamon ([fig. 4.4](#4.4)), which dates from the reign of Eumenes II, probably from the 180s BC,[^7] The same hat is worn by Seleukos II on his bronze coins minted at Susa in 228 BC.[^8] Two Bactrian kings are also portrayed wearing this type of hat: Antimachos I on his coin portraits from around the first quarter of the second century BC ([fig. 4.5](#4.5));[^9] and Demetrios II on a clay seal from Seleukeia on the Tigris from the last quarter of the same century.[^10] Their hat may be interpreted as a version of the *kausia*, the Macedonian hat for elite men.[^11]
+The bronze head wearing a *kausia* (see [figs. 4.1–3](#4.1)) is slightly over life-size. It was created by an outstanding sculptor and is one of the finest bronzes to have come down to us from antiquity. He has a long, oval face, large ears, short hair, sideburns and a short beard. He wears a distinctive hat of mushroom shape, slightly pointed, ending in a sweatband around the scalp. It seems to imitate a leather cap, judging by its sharp edges, with a woolen sweatband. A similar hat is represented on the weapons frieze of the propylon of the sanctuary of Athena at Pergamon ([fig. 4.4](#4.4)), which dates from the reign of Eumenes II, probably from the 180s BC,[^7] The same hat is worn by Seleukos II on his bronze coins minted at Susa in 228 BC.[^8] Two Bactrian kings are also portrayed wearing this type of hat: Antimachos I on his coin portraits from around the first quarter of the second century BC ([fig. 4.5](#4.5));[^9] and Demetrios II on a clay seal from Seleukeia on the Tigris from the last quarter of the same century.[^10] Their hats may be interpreted as a version of the *kausia*, the Macedonian hat for elite men.[^11]
 
 {{< q-figure id="4.4" class="float-right" >}}
 
@@ -30,15 +30,15 @@ The bronze head wearing a *kausia* (see [figs. 4.1–3](#4.1)) is slightly over 
 
 The *kausia* is mentioned by the historians of Alexander the Great as having been worn by Alexander and his companions. After his conquest of Persia, Alexander introduced a new royal headgear by combining his *kausia* with a Persian diadem, which was originally a cloth ribbon worn at the royal court of the Achaemenids.[^12] It was tied around one’s head, with its ends falling on the neck. Alexander tied the diadem around his *kausia*, which became a *kausia diadematophoros* and henceforth a royal prerogative*.*[^13] Demetrios Poliorketes, king of Macedon from 306 to 283 BC, wore a *kausia* with a double diadem.[^14] This Macedonian royal headgear persisted until the time of (or was revived by) Cleopatra VII of Egypt. In 34 BC she presented her infant Ptolemy, son of Antony, at a public ceremony known as the Donations of Alexandria, wearing a *kausia* with diadem.[^15]
 
-After his return from the expedition to India, Alexander presented his friends with purple *kausias* as royal gifts.[^16] This gesture was later imitated by Eumenes, who distributed purple *kausias* to Alexander’s veterans.[^17] Plutarch tells us that Alexander’s friend, Krateros, wore a *kausia*,[^18] and the hat is still attested at the court of Demetrios’s great-grandson, Philip V, who reigned from 221 to 179 BC.[^19]
+After his return from the expedition to India, Alexander presented his friends with purple *kausias* as royal gifts.[^16] This gesture was later imitated by Eumenes, who distributed purple *kausias* to Alexander’s veterans.[^17] Plutarch tells us that Alexander’s friend Krateros wore a *kausia*,[^18] and the hat is still attested at the court of Demetrios’s great-grandson, Philip V, who reigned from 221 to 179 BC.[^19]
 
-An earlier version of the *kausia*, closer to Alexander the Great’s own time, is attested in the wall-paintings of Macedonian tombs from the late fourth and early third centuries BC. The hunting frieze on the façade of the so-called Tomb of Philip at Vergina shows two Macedonians in *kausias* hunting with Alexander the Great.[^20] More *kausias* are worn by royal pages and Macedonian bodyguards represented on the facade of the tomb of Agios Athanasios.[^21] One of Alexander’s Companions on the Alexander mosaic, a second-century BC copy of an early Hellenistic painting of the battle of Issos, wears a similar *kausia*.[^22] We have no contemporary representations of Alexander wearing a *kausia* with diadem, but he has been tentatively identified in a Roman copy of a Macedonian painting: a wall-painting from the Villa of Synistor at Boscoreale, dating from the mid-first century BC, shows a Macedonian sitting next to a Macedonian shield.[^23] The figure wears a *kausia* with a diadem tied around the head under the hat, its ends falling over the right ear. The identification with Alexander is based on the fact that the figure wears a Persian chiton.[^24] We know that Alexander adopted a mixed Persian and Macedonian dress after the death of Dareios III in 330 BC;[^25] he is therefore the only Macedonian king who ever wore both a Persian garment and a *kausia* with diadem, like the figure on the fresco from Boscoreale.
+An earlier version of the *kausia*, closer to Alexander the Great’s own time, is attested in the wall-paintings of Macedonian tombs from the late fourth and early third centuries BC. The hunting frieze on the facade of the so-called Tomb of Philip at Vergina shows two Macedonians in *kausias* hunting with Alexander the Great.[^20] More *kausias* are worn by royal pages and Macedonian bodyguards represented on the facade of the tomb of Agios Athanasios.[^21] One of Alexander’s companions on the Alexander mosaic, a second-century BC copy of an early Hellenistic painting of the battle of Issos, wears a similar *kausia*.[^22] We have no contemporary representations of Alexander wearing a *kausia* with diadem, but he has been tentatively identified in a Roman copy of a Macedonian painting: a wall-painting from the Villa of Synistor at Boscoreale, dating from the mid-first century BC, shows a Macedonian sitting next to a Macedonian shield.[^23] The figure wears a *kausia* with a diadem tied around the head under the hat, its ends falling over the right ear. The identification with Alexander is based on the fact that the figure wears a Persian chiton.[^24] We know that Alexander adopted a mixed Persian and Macedonian dress after the death of Dareios III in 330 BC;[^25] he is therefore the only Macedonian king who ever wore both a Persian garment and a *kausia* with diadem, like the figure on the fresco from Boscoreale.
 
 Alexander’s royal diadem was adopted by the Successors as a sign of royalty from 306 BC on. Plutarch, in his *Life of Demetrios* (18), provides a vivid description of the assumption of the diadem by Antigonos the One-Eyed and remarks that Ptolemy I and Lysimachos followed his example soon thereafter.[^26] Ptolemy I was the first to depict himself wearing a diadem on his coins.[^27] The diadem continued to serve as royal insignia until the end of the Hellenistic period.
 
 It is of course quite obvious that the bronze head (see [figs. 4.1–3](#4.1)) does not wear a royal diadem. Could he be a Macedonian king? Or is he one of the king’s friends, who were entitled to wear a *kausia* without a diadem? Equestrian bronze statues of high officials of the Macedonian kingdom voted by the Greek cities are attested as early as the late fourth century. For example, the Athenians honored Asandros with a statue in the Agora in 314/13 BC, while the Eritreans set up a statue of Timotheos in 309 BC.[^28]
 
-The head with *kausia* from near Kalymnos preserves no royal insignia. Could he still be a royal? The answer lies on Kos. A fragmentary portrait head in Parian marble ([figs. 4.6–7](#4.6)), showing almost certainly the same man and being of the same scale as the bronze head, comes from an unknown findspot on Kos.[^29] The marble head has the same oval-shaped face, large ears, drooping eyelids, sideburns, and short beard as the bronze head (see [figs. 4.1–3](#4.1)). It differs in having luxuriant locks over the ears, but these may either indicate a slight change of hairstyle or may be due to the fact that the hair is not constrained by a hat. The marble head differs in another crucial detail: it wears a royal diadem, visible on the right profile;[^30] it therefore portrays a Hellenistic king.
+The head with *kausia* from near Kalymnos preserves no royal insignia. Could he still be a royal? The answer lies on Kos. A fragmentary portrait head in Parian marble ([figs. 4.6–7](#4.6)), showing almost certainly the same man and being of the same scale as the bronze head, comes from an unknown findspot on Kos.[^29] The marble head has the same oval-shaped face, large ears, drooping eyelids, sideburns, and short beard as the bronze head (see [figs. 4.1–3](#4.1)). It differs in having luxuriant locks over the ears, but these may indicate a slight change of hairstyle or may be due to the fact that the hair is not constrained by a hat. The marble head differs in another crucial detail: it wears a royal diadem, visible on the right profile;[^30] it therefore portrays a Hellenistic king.
 
 {{< q-figure-group id="4.6, 4.7" grid="2" label="true" caption="Marble portrait head of Philip V (?) from Kos. Kos Museum, inv. 82." credit="Image: Olga Palagia" >}}
 
@@ -54,17 +54,17 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 ## Notes
 
-[^1]: Kalymnos Museum, inv. 3901. Tzalas 2007, 362, fig. 37; Koutsouflakis 2007, 46–47, fig. 6a–b; Koutsouflakis and Simosi 2015, 78; Daehner and Lapatin 2015, 194–95, no. 5 (Bairami); Picón and Hemingway 2016, 212–13, no. 138.
+[^1]: Kalymnos Museum, inv. 3901; Tzalas 2007, 362, fig. 37; Koutsouflakis 2007, 46–47, figs. 6a–b; Koutsouflakis and Simosi 2015, 78; Daehner and Lapatin 2015, 194–95, no. 5 (Bairami); Picón and Hemingway 2016, 212–13, no. 138.
 
-[^2]: Kalymnos Museum, inv. 3903. Tzalas 2007, 362, fig. 38; Palagia 2013, 154–56, figs. 9.7–8; Koutsouflakis and Simosi 2015, 74–75, fig. 5.1.
+[^2]: Kalymnos Museum, inv. 3903; Tzalas 2007, 362, fig. 38; Palagia 2013, 154–56, figs. 9.7–8; Koutsouflakis and Simosi 2015, 74–75, fig. 5.1.
 
-[^3]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2006/1. Koutsouflakis 2007, 42–45, figs. 1–2; Koutsouflakis and Simosi 2015, 75–76, fig. 5.4.
+[^3]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2006/1; Koutsouflakis 2007, 42–45, figs. 1–2; Koutsouflakis and Simosi 2015, 75–76, fig. 5.4.
 
-[^4]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2009/28. Koutsouflakis and Simosi 2015, 75–76, fig. 5.3.
+[^4]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2009/28; Koutsouflakis and Simosi 2015, 75–76, fig. 5.3.
 
 [^5]: Koutsouflakis and Simosi 2015. See this paper also for further bronzes recovered from the sea near Kalymnos.
 
-[^6]: Mantua, Museo Civico di Palazzo Te, inv. 96190279. Palagia 2013, 156, fig. 9.9; Daehner and Lapatin 2015, 200–201, no. 8 (E. Ghisellini).
+[^6]: Mantua, Museo Civico di Palazzo Te, inv. 96190279; Palagia 2013, 156, fig. 9.9; Daehner and Lapatin 2015, 200–201, no. 8 (E. Ghisellini).
 
 [^7]: Bohn 1885, 96, plate 45; Dintsis 1986, 309, cat. no. 293, plate 83.1; Schwarzmaier et al. 2012, 315.
 
@@ -72,9 +72,9 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^9]: Dintsis 1986, 310, cat. no. 295, plate 80.3; Cribb 2007, 340, fig. 23; Palagia 2012, 379, fig. 14.
 
-[^10]: Torino, Museo Civico d’Arte Antica, inv. S7-4058. Messina 2007, 50, cat. no. 26.
+[^10]: Torino, Museo Civico d’Arte Antica, inv. S7-4058; Messina 2007, 50, cat. no. 26.
 
-[^11]: On the *kausia*, see Dintsis 1986, 183–95; Saatsoglou-Paliadeli 1993, who argues that the *kausia* was made of leather.
+[^11]: On the *kausia*, see Dintsis 1986, 183–95; Saatsoglou-Paliadeli (1993) argues that the *kausia* was made of leather.
 
 [^12]: Xenophon *Cyropaedia* 8.3.13. See also Wiesehöfer 2012.
 
@@ -96,9 +96,9 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^21]: Tsimbidou-Avloniti 2005, plates 35–39.
 
-[^22]: Naples, National Museum, inv. 10020. Dintsis 1986, 305–306, cat. no. 284, plate 83.2; Saatsoglou-Paliadeli 1993, 136, fig. 4.
+[^22]: Naples, National Museum, inv. 10020; Dintsis 1986, 305–306, cat. no. 284, plate 83.2; Saatsoglou-Paliadeli 1993, 136, fig. 4.
 
-[^23]: Naples, National Museum, inv. 906. Dintsis 1986, 307, cat. no. 287, plate 80.4; Palagia 2014, 211–14, figs. 1 and 2.
+[^23]: Naples, National Museum, inv. 906; Dintsis 1986, 307, cat. no. 287, plate 80.4; Palagia 2014, 211–14, figs. 1 and 2.
 
 [^24]: Palagia 2014, 211–14. For the identification of this figure as Alexander, see also Torelli 2003, 245–46.
 
@@ -108,9 +108,9 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^27]: On his gold coins minted in the early third century BC: Lorber 2012, 213, fig. 12.4.
 
-[^28]: Asandros: *IG*^2^ 450, ll. 10–15;Wycherley 1957, 208, no. 278; Siedentopf 1968, 83, no. 1; Ma 2013, 129. Timotheos: Siedentopf 1968, 83, no. 2; Ma 2013, 129.
+[^28]: Asandros: *IG* 450, ll. 10–15; Wycherley 1957, 208, no. 278; Siedentopf 1968, 83, no. 1; Ma 2013, 129. Timotheos: Siedentopf 1968, 83, no. 2; Ma 2013, 129.
 
-[^29]: Kos Museum, inv. 82. Kabus-Preisshofen 1989, 102–105, 280–81, no. 79, plate 28.1–2.
+[^29]: Kos Museum, inv. 82; Kabus-Preisshofen 1989, 102–105, 280–81, no. 79, plate 28.1–2.
 
 [^30]: Kabus-Preisshofen 1989, plate 28.1.
 

@@ -126,28 +126,28 @@ The reassembly of the 234 bronze fragments was a great challenge for Sturm, who 
 
 As we know today, this mortar (containing magnesium salts) is extremely sensitive to moisture.[^53] In the nineteenth century, it was only used indoors, as a very durable and long-lasting material for floors. Crucial in Sturm´s decision to use this particular mortar were probably its limited weight, its superb adhesion and binding power, and its rapid setting time of 30–45 minutes. Also, it is easy to grind and highly polishable. Presumably, he was aware of the basic principles set forth at the first international congress of art history held in Vienna 1873.[^54] A full section was dedicated to restoration issues, proclaiming: “We demand conservation, not restoration!”
 
-Given Sturm’s interventions, is there is any chance we can find residues of the original surface? His cleaning was achieved by reduction: Sturm used diluted hydrochloric acid, neutralized in 1% potash solution and stabilized in repeatedly changing baths of distilled water. To remove harder crusts, he annealed the pieces “softly” in an iron pan filled with charcoal.[^55] In this context, “softly” probably means tempering the bronze fragments. The aim was to relax the inner structure of the metal and deliberately to soften the metal, making it easier to reshape the deformed fragments. Since there is evidence in the records that the surface color changed after this treatment,[^56] we must assume that there is little if any original surface left. We know for sure that Sturm mechanically removed the residues on the head and the hair with hammer and punches. The bronze surface was painted over with vinegar and later, to stop the oxidation, brushed with beeswax (wiping with neat’s-foot oil or olive oil was also very common[^57]) ([fig. 1.10](#1.10)).
+Given Sturm’s interventions, is there is any chance we can find residues of the original surface? His cleaning was achieved by reduction: Sturm used diluted hydrochloric acid, neutralized in 1% potash solution and stabilized in repeatedly changing baths of distilled water. To remove harder crusts, he annealed the pieces “softly” in an iron pan filled with charcoal.[^55] In this context, “softly” probably means tempering the bronze fragments. The aim was to relax the inner structure of the metal and deliberately soften the metal, making it easier to reshape the deformed fragments. Since there is evidence in the records that the surface color changed after this treatment,[^56] we must assume that there is little if any original surface left. We know for sure that Sturm mechanically removed the residues on the head and the hair with hammer and punches. The bronze surface was painted over with vinegar and later, to stop the oxidation, brushed with beeswax (wiping with neat’s-foot oil or olive oil was also very common[^57]) ([fig. 1.10](#1.10)).
 
 {{< q-figure id="1.10" >}}
 
-Shortly after the first exhibition of the freshly restored Athlete in the Theseus temple in 1901, the person in charge complained about efflorescence appearing on the bronze surface.[^58] Due to the fluctuating temperature and humidity from the outside, combined with the presence of a damp wine cellar below, the bronze had started to corrode. Ten years after the first exhibition, after repeated complaints and an expert opinion from Sturm Junior,[^59] the statue was removed, probably cleaned, and newly waxed or oiled.
+Shortly after the first exhibition of the freshly restored Athlete in the Theseus Temple in 1901, the person in charge complained about efflorescence appearing on the bronze surface.[^58] Due to the fluctuating temperature and humidity from the outside, combined with the presence of a damp wine cellar below, the bronze had started to corrode. Ten years after the first exhibition, after repeated complaints and an expert opinion from Wilhelm  Sturm Jr.,[^59] the statue was removed, probably cleaned, and newly waxed or oiled.
 
-Two further restorations or interventions are documented. First, in 1951, Karl Nieschlag,[^60] an academic sculptor and stage designer who held an Austrian state award for music, was commissioned to follow Fritz Eichler’s proposal to change the position of the right arm (see above).[^61] He removed the mortar of the upper arm, shortened the main iron rod by sawing off 1 centimeter (0.4 inches), and cut three brass straps.[^62] Using a short piece of iron, he welded the armature together again. Nieschlag completed the restoration with a new, pigmented mortar addition; we can see additional winding wire for fixing this mortar ([fig. 1.11](#1.11)). He also filled cracks that had developed during transport or earlier, and he finished the surface treatment with a new wax coating. Nevertheless, he could not avoid producing new cracks. Second, in 1976, Alois Heidl,[^63] an academic sculptor and student of Fritz Wotruba,[^64] executed the most recent restoration of the Athlete. He removed parts of the mortar on the right calf including bronze fragments and gave the surface a new shape. Heidl worked large parts of the surface, leaving Nieschlag’s supplement almost untouched. He covered the bigger areas of the old mortar filling, like the upper back, the stomach, and the thighs, by modeling a pigmented synthetic resin.
+Two further restorations or interventions are documented. First, in 1951, Karl Nieschlag,[^60] an academic sculptor and stage designer who held an Austrian state award for music, was commissioned to follow Fritz Eichler’s proposal to change the position of the right arm (see above).[^61] He removed the mortar of the upper arm, shortened the main iron rod by sawing off 1 centimeter (0.4 in.), and cut three brass straps.[^62] Using a short piece of iron, he welded the armature together again. Nieschlag completed the restoration with a new, pigmented mortar addition; we can see additional winding wire for fixing this mortar ([fig. 1.11](#1.11)). He also filled cracks that had developed during transport or earlier, and he finished the surface treatment with a new wax coating. Nevertheless, he could not avoid producing new cracks. Second, in 1976, Alois Heidl,[^63] an academic sculptor and student of Fritz Wotruba,[^64] executed the most recent restoration of the Athlete. He removed parts of the mortar on the right calf including bronze fragments and gave the surface a new shape. Heidl worked large parts of the surface, leaving Nieschlag’s supplement almost untouched. He covered the bigger areas of the old mortar filling, like the upper back, the stomach, and the thighs, by modeling a pigmented synthetic resin.
 
 {{< q-figure id="1.11" >}}
 
-When considering the transport of the Athlete from Vienna to California for the exhibition *Power and Pathos*,[^65] concerns arose about stability and strength of the internal framework and the mortar fill. Had the hygroscopic nature of the Sorel cement caused active corrosion on the inside of the ancient bronze as well as on the iron rod? Was the cement itself porous and inhomogeneous and was volume expansion a dangerous issue? In collaboration with the Getty Museum’s Department of Antiquities Conservation, samples of the Sorel cement were analyzed,[^66] confirming that the Vienna statue, despite its well-known instabilities, does not show evidence of current or past corrosion problems in the accessible areas.[^67] The mortar mixture is loaded with inert sand, and this highly porous mixture gives enough space for potential volume expansion. Inspection with a video borescope through one of the Athlete’s eyes showed no active corrosion on the inner surface of the neck.
+When considering the transport of the Athlete from Vienna to California for the exhibition *Power and Pathos*,[^65] concerns arose about stability and strength of the internal framework and the mortar fill. Had the hygroscopic nature of the Sorel cement caused active corrosion on the inside of the ancient bronze as well as on the iron rod? Was the cement itself porous and inhomogeneous, and was volume expansion a dangerous issue? In collaboration with the Getty Museum’s Department of Antiquities Conservation, samples of the Sorel cement were analyzed,[^66] confirming that the Vienna statue, despite its well-known instabilities, does not show evidence of current or past corrosion problems in the accessible areas.[^67] The mortar mixture is loaded with inert sand, and this highly porous mixture gives enough space for potential volume expansion. Inspection with a video borescope through one of the Athlete’s eyes showed no active corrosion on the inner surface of the neck.
 
 Since 1900 several investigations have been executed:
 
 > Bronze:
 >
-> - 1900[^68]: Fusing analysis: 89% Cu, 6% Sn, 4.8% Pb
-> - 2002[^69]: µ-RFA: polished surface: 84–88% Cu, 7–9% Sn, 4.5–7.7% Pb; corroded surface: 45–60% Cu, 7–14% Sn, 25–39% Pb
+> - 1900:[^68] Fusing analysis: 89% Cu, 6% Sn, 4.8% Pb
+> - 2002:[^69] µ-RFA: Polished surface: 84–88% Cu, 7–9% Sn, 4.5–7.7% Pb; corroded surface: 45–60% Cu, 7–14% Sn, 25–39% Pb
 >
 > Mortar:
 >
-> - 2001[^70]: Cement Testing Laboratory
+> - 2001:[^70]: Cement Testing Laboratory
 > - 2002, 2012, 2014: SEM
 > - 2012: X-ray spectrometry
 > - 2012: FTIR spectrometry
@@ -162,11 +162,11 @@ Since 1900 several investigations have been executed:
 > Surface:
 >
 > - 2013: IR spectroscopy
-> - 2013[^71]: Gas chromatography for organic coatings
+> - 2013:[^71] Gas chromatography for organic coatings
 
 {{< q-figure id="1.12" class="float-right">}}
 
-To complement the X-radiography studies of the BAM[^72] performed in Berlin 2001 ([fig. 1.12](#1.12)), the Austrian Technical Inspection Authority (TÜV) provided their portable X-ray apparatus. Radiography images, produced by selenium-isotope continuous radiation, yielded additional information about the porosity and the structural distribution of the Sorel cement. For this investigation, the radiation had to reach as far as 40 meters (44 yards), a difficult task to organize in the Neue Burg, the spacious building where the Athlete is on display in the Ephesos Museum.
+To complement the X-radiography studies of the BAM[^72] performed in Berlin 2001 ([fig. 1.12](#1.12)), the Austrian Technical Inspection Authority (TÜV) provided their portable X-ray apparatus. Radiography images, produced by selenium-isotope continuous radiation, yielded additional information about the porosity and the structural distribution of the Sorel cement. For this investigation, the radiation had to reach as far as 40 meters (44 yd.), a difficult task to organize in the Neue Burg, the spacious building where the Athlete is on display in the Ephesos Museum.
 
 Under X-radiation, the chest of the Athlete showed very high density with almost no detectable penetration, even after doubling the radiation’s intensity and prolonging the exposure time fourfold. A possible reason could be the high concentration of barite[^73] in the fill, but a conclusive explanation is still lacking.
 
@@ -180,11 +180,11 @@ New information enabled us to detect the traces of interventions ([fig. 1.13](#1
 
 {{< q-figure id="1.16" class="float-right" >}}
 
-In 2015, a three-dimensional model of the Athlete was generated to build the custom cage for transport.[^74] Our colleagues at the Getty Museum developed the aluminum structure ([fig. 1.16](#1.16)), which allowed the entire weight of the cage and the statue to be supported by the fillet of the base. An accurately fitting, two-piece counterpart made of epoxy resin was mechanically connected with the aluminum construction and the pallet. To keep the statue stable inside the cage, aluminum crossbeams were screwed onto the scaffolding. Customized designs were cut out of an inert foam and applied to the beams in order to supply soft but rigid and sufficient support to the Athlete.[^75] For vibration control, a pre-calculated amount of special shock-absorbing material was placed between the inner and the outer crate, absorbing fully 93% of shock, as confirmed by vibration measurements.
+In 2015, a three-dimensional model of the Athlete was generated to build the custom cage for transport.[^74] Our colleagues at the Getty Museum developed the aluminum structure ([fig. 1.16](#1.16)), which allowed the entire weight of the cage and the statue to be supported by the fillet of the base. An accurately fitted, two-piece counterpart made of epoxy resin was mechanically connected with the aluminum construction and the pallet. To keep the statue stable inside the cage, aluminum crossbeams were screwed onto the scaffolding. Customized designs were cut out of an inert foam and applied to the beams in order to supply soft but rigid and sufficient support to the Athlete.[^75] For vibration control, a precalculated amount of special shock-absorbing material was placed between the inner and the outer crate, absorbing fully 93% of shock, as confirmed by vibration measurements.
 
 ## Acknowledgments
 
-Bettina Vak wishes to give special thanks to Erik Risser for assistance and support in all respects as well as helping to install and de-install the fragile Athlete six times; and for designing and assembling the transport cage together with B J Farrar; to Rita Gomez for the control of vibration in the crate; to John Twilley for the extensive mortar analysis; to my colleagues Angelika Kathrein, Michael Loacker, Martina Griesser, and Václav Pitthard from the Kunsthistorisches Museum Vienna; and to the TÜV Austria for performing the X-radiography.
+Bettina Vak wishes to give special thanks to Erik Risser for assistance and support in all respects as well as helping to install and de-install the fragile Athlete six times; and for designing and assembling the transport cage together with B. J. Farrar; to Rita Gomez for the control of vibration in the crate; to John Twilley for the extensive mortar analysis; to her colleagues Angelika Kathrein, Michael Loacker, Martina Griesser, and Václav Pitthard from the Kunsthistorisches Museum, Vienna; and to the TÜV Austria for performing the X-radiography.
 
 ## Notes
 
@@ -202,9 +202,9 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^7]: Benndorf 1898, 65–66; Benndorf 1906, 184.
 
-[^8]: Wohlers-Scharf 1995, 87–88. 98–99; Oberleitner et al. 1978, 36; in return the Sultan received gifts of Lippizan horses and other precious items.
+[^8]: Wohlers-Scharf 1995, 87–88, 98–99; Oberleitner et al. 1978, 36; in return the sultan received gifts of Lipizzan horses and other precious items.
 
-[^9]: The annual report of the Collection of Greek and Roman Antiquities, former k.k. Münz- und Antikenkabinett, from 1897 contains a short report: “Die bedeutendste Schenkung an die Antikensammlung sind die von S.M. dem Sultan gewidmeten Ausgrabungen von Ephesus, welche die österreichische Expedition dort ergraben und nach Wien gebracht hat, darunter Teile einer überlebensgroßen bronzenen Athletenstatue, ein bronzenes Thymiaterion, Bruchstücke einer Bronzegruppe des Hercules mit den Kentauren, Säulenschäfte aus kostbarem Marmor, einige Skulpturen und eine große Menge von Fragmenten. Dieser Schenkung solle hier aus dem Grund gedacht werden, weil sie zu Beginn des Jahres 1897 nach Wien gelangt und die allerhöchste Annahme in diesem Jahr erfolgt ist. Die Zusammensetzung der Bruchstücke ist aber unterbrochen worden teils durch Abwarten, ob die im Herbst 1897 fortgesetzten Ausgrabungen noch fehlende Fragmente bringen möchten, teils durch das verzögerte Eintreffen eines Gipsabgusses der Florentiner Athletenstatue, die als Modell für die Zusammensetzung der Bruchstücke unseres bronzenen Athleten dienen soll. Die Marmorskulpturen scheinen der römischen Kaiserzeit anzugehören, während die Epoche der Entstehung der Bronzestatue noch einen Gegenstand der Erörterung in den Fachkreisen bildet.” (ZL AS 9, Jan. 28, 1898).
+[^9]: The annual report of the Collection of Greek and Roman Antiquities, former k.k. Münz- und Antikenkabinett, from 1897 contains a short report: “Die bedeutendste Schenkung an die Antikensammlung sind die von S.M. dem Sultan gewidmeten Ausgrabungen von Ephesus, welche die österreichische Expedition dort ergraben und nach Wien gebracht hat, darunter Teile einer überlebensgroßen bronzenen Athletenstatue, ein bronzenes Thymiaterion, Bruchstücke einer Bronzegruppe des Hercules mit den Kentauren, Säulenschäfte aus kostbarem Marmor, einige Skulpturen und eine große Menge von Fragmenten. Dieser Schenkung solle hier aus dem Grund gedacht werden, weil sie zu Beginn des Jahres 1897 nach Wien gelangt und die allerhöchste Annahme in diesem Jahr erfolgt ist. Die Zusammensetzung der Bruchstücke ist aber unterbrochen worden teils durch Abwarten, ob die im Herbst 1897 fortgesetzten Ausgrabungen noch fehlende Fragmente bringen möchten, teils durch das verzögerte Eintreffen eines Gipsabgusses der Florentiner Athletenstatue, die als Modell für die Zusammensetzung der Bruchstücke unseres bronzenen Athleten dienen soll. Die Marmorskulpturen scheinen der römischen Kaiserzeit anzugehören, während die Epoche der Entstehung der Bronzestatue noch einen Gegenstand der Erörterung in den Fachkreisen bildet” (ZL AS 9, Jan. 28, 1898).
 
 [^10]: Oberleitner et al. 1978, 7–10.
 
@@ -216,7 +216,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^14]: The cast is still kept in the collection of the Institute of Classical Archaeology, Vienna University; Pavese 1999 compares the different dimensions and proportions of the Viennese and Florentine statues, the result— extensive analogy—comes as no surprise knowing that Sturm used this copy.
 
-[^15]: For the first years of exhibition in the Theseus temple, a Roman *strigilis*, in the collection of the Kunsthistorisches Museum, was placed in the Athlete’s right hand to clarify his movement for visitors; see fig. 1.4.
+[^15]: For the first years of exhibition in the Theseus Temple, a Roman *strigilis*, in the collection of the Kunsthistorisches Museum, was placed in the Athlete’s right hand to clarify his movement for visitors; see fig. 1.4.
 
 [^16]: Hartwig 1901; Benndorf 1906, 195–97; Comstock and Vermeule 1976, 100–101, cat. 155.
 
@@ -242,7 +242,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^27]: Ladstätter 2002, 23–26.
 
-[^28]: George Niemann, architect and draftsman of the Austrian mission, reconstructed the *aedicula* from the few remaining parts.
+[^28]: George Niemann, architect and draftsman of the Austrian mission, reconstructed the aedicula from the few remaining parts.
 
 [^29]:
     Statues of the type Florence/Ephesos/Mali Lošinj (see also Daehner 2015, esp. 281):
@@ -251,33 +251,33 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
     2. Florence (Florence, Galleria degli Uffizi, inv. 1914/100, marble; existing already under Cosimo I, in the Gallery since 1740; Mansuelli 1958, 59–60, cat. 36)
     3. Lošinj (Museum of Apoxyomenos, Mali Lošinj, marble; Michelucci 2006)
     4. Frascati (Boston, Museum of Fine Arts, inv. 00.304, marble; small scale; Comstock and Vermeule 1976, 100–101, no. 155)
-    5. Rome, from Tivoli (Musei Vaticani, no.. 105, Braccio Nuovo, marble torso; Neudecker 1988, 236, no. 68.3 pl. 15.3)
+    5. Rome, from Tivoli (Musei Vaticani, no. 105, Braccio Nuovo, marble torso; Neudecker 1988, 236, no. 68.3, pl. 15.3)
     6. Rome (Musei Vaticani, Mus. Chiaramonti Braccio Nuovo 99, marble torso with head type Torino/Braccio Nuovo; Arnold 1969, 270, no. K7; Neudecker 1988, 236, no. 68.4, pl. 15.2)
     7. Castel Gandolfo (Villa Barberini/Castel Gandolfo, no. 36405, basanite; Liverani 1989, 59, no. 22)
-    8. Louvre (Musee du Louvre, statue Borghese, marble; Benndorf 1906, 200–201, fig. 153; Arnold 1969, 270, no. K8)
+    8. Louvre (Musée du Louvre, statue Borghese, marble; Benndorf 1906, 200–201, fig. 153; Arnold 1969, 270, no. K8)
 
 [^30]:
     Heads of the type Florence/Ephesos/Mali Lošinj:
 
-    1. Fort Worth, Kimbell Art Museum, AP 2000.03, bronze (since 2000, before Senator Bernardo Nani \[1712–1761\], Venice. Lucien Guiraud \[Hotel Drouot, Paris\] sale June 14–15, 1956, no. 106 (as 16th century); Hans Calmann \[1899–1982\], London and Somerset; auction, Sotheby’s, New York, June 14, 2000, no. 60; Gschwantler 1995, 293)
-    2. St. Petersburg, State Hermitage Museum, from Rome, marble (Benndorf 1906, 199, fig. 150-151; Arnold 1969, 269–207, no. K2)
+    1. Fort Worth, Kimbell Art Museum, AP 2000.03, bronze (since 2000, before Senator Bernardo Nani \[1712–1761\], Venice. Lucien Guiraud \[Hotel Drouot, Paris\] sale June 14–15, 1956, no. 106 [as 16th century]; Hans Calmann \[1899–1982\], London and Somerset; auction, Sotheby’s, New York, June 14, 2000, no. 60; Gschwantler 1995, 293)
+    2. St. Petersburg, State Hermitage Museum, from Rome, marble (Benndorf 1906, 199, fig. 150-51; Arnold 1969, 269–207, no. K2)
     3. Rome, Museo Torlonia, inv. 86, marble (Götze 1938, 226; Arnold 1969, 270, no. K4; Gasparri 1980, 166, no. 86)
     4. Rome, Musei Vaticani, marble (Amelung \[1903\] 1956, 114, no. 99)
     5. New York, Metropolitan Museum of Art, marble (head of statue; Richter 1954, 110)
-    6. Bruxelles, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185)
+    6. Brussels, Musée Royaux d’Art e d’Histoire, marble (Cumont 1913, 10, fig. 5 = Hartwig 1901, 158, fig. 185).
     The head in Dresden, no. Hm 132, is no longer thought to follow the same type as Dörig 1965, 40, proposed; see now Vorster 2011.
 
 [^31]:
     Small-scale bronze statuettes:
 
     1. Trier (Furtwängler 1898, 9–11, fig. 5; Benndorf 1906, 201, fig. 154)
-    2. Louvre (MND 1895, Charbonneaux 1941, 42, fig. 1; Arnold 1969, 166–67, plate 21b)
+    2. Louvre (MND 1895, Charbonneaux 1941, 42, fig. 1; Arnold 1969, 166–67, pl. 21b)
 
 [^32]: Hartwig 1903; Perry 1997, 42–45.
 
-[^33]: Furtwängler 1893, 470–71, fig. 78; Benndorf 1906, 198–99, fig. 148–49.
+[^33]: Furtwängler 1893, 470–71, fig. 78; Benndorf 1906, 198–99, figs. 148–49.
 
-[^34]: Walter 1923, 195–98, no. 401–401a.
+[^34]: Walter 1923, 195–98, nos. 401–401a.
 
 [^35]: Hauser 1902.
 
@@ -285,15 +285,15 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^37]: Moser von Filseck 1988, 111–20.
 
-[^38]: Arnold 1969, 155–56, 269, no. 1; also Linfert 1990 names the Ephesian Athlete in the group of Polykleitos’s school.
+[^38]: Arnold 1969, 155–56, 269, no. 1; Linfert 1990 names the Ephesian Athlete in the group of Polykleitos’s school.
 
 [^39]: Lattimore 1972; Stewart 1978.
 
-[^40]: Pochmarski 1988; Pochmarski 1999; as proof he mentions unevenness of the surface of the Ephesian Athlete going back to *tasselli*, repair patches of the statue copied in Rome; due to the state of the fragments when found and the massive physical treatment they underwent while undergoing restoration, this observation is unconvincing.
+[^40]: Pochmarski 1988; Pochmarski 1999; as proof, he mentions unevenness of the surface of the Ephesian Athlete going back to *tasselli*, repair patches of the statue copied in Rome; due to the state of the fragments when found and the massive physical treatment they underwent while undergoing restoration, this observation is unconvincing.
 
-[^41]: Sanader 1999; Michelucci 2006; see the contribution of Karniš Vidovič and Mille (ch. 43) in this volume..
+[^41]: Sanader 1999; Michelucci 2006; see the contribution of Karniš Vidovič and Mille (ch. 43) in this volume.
 
-[^42]: As the athletes are not strictly speaking scraping themselves but rather are cleaning their scrapers, they are not *Apoxyomenoi* but strigilis-cleaners; see Weber 1999.
+[^42]: As the athletes are not strictly speaking scraping themselves but rather are cleaning their scrapers, they are not *Apoxyomenoi* but *strigilis*-cleaners; see Weber 1999.
 
 [^43]: Mattusch 2015.
 
@@ -313,7 +313,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^51]: Benndorf 1906, 187–88.
 
-[^52]: Wilhelm Sturm Junior’s explanation for choosing this technique is mentioned in a letter, written by Robert von Schneider, director of the collection of Greek and Roman Antiquities, to the Austrian Emperor, Nov. 30, 1901; see archive ZL AS 26/1–4.
+[^52]: Wilhelm Sturm Jr.’s explanation for choosing this technique is mentioned in a letter, written by Robert von Schneider, director of the collection of Greek and Roman Antiquities, to the Austrian emperor, Nov. 30, 1901; see archive ZL AS 26/1–4.
 
 [^53]: Weber et al. 2012, 98–103.
 
