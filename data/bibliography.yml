@@ -1288,12 +1288,12 @@ biblio_list:
     full: "Pollitt, J. J. 1990. *The Art of Ancient Greece: Sources and Documents*. Cambridge: Cambridge University Press."
     reference_for: "10"
 
-  - short: Raubitschek 1949
-    full: "Raubitschek, A. E. 1949. *Dedications from the Athenian Akropolis: A Catalogue of the Inscriptions of the Sixth and Fifth Centuries B.C.* Cambridge (MA): Archaeological Institute of America."
-    reference_for: "10"
-
   - short: Raeder 1983
     full: "Raeder, J. 1983. *Die statuarische Ausstattung der Villa Hadriana bei Tivoli.* Frankfurt am Main and Bern: Peter Lang."
+    reference_for: "10"
+
+  - short: Raubitschek 1949
+    full: "Raubitschek, A. E. 1949. *Dedications from the Athenian Akropolis: A Catalogue of the Inscriptions of the Sixth and Fifth Centuries B.C.* Cambridge, MA: Archaeological Institute of America."
     reference_for: "10"
 
   - short: Richter and Smith 1984
@@ -1345,7 +1345,7 @@ biblio_list:
     reference_for: "11"
 
   - short: Craddock and Giumlia-Mair 1993a
-    full: "Craddock, P. T., and A. R. Giumlia-Mair. 1993a. “Beauty is Skin Deep: Evidence for the Original Appearance of Classical Statuary.” In *Metal Plating and Patination: Cultural, Technical and Historical Developments*, ed. S. La Niece and P. Craddock, 30–38. Oxford: Butterworth-Heinemann."
+    full: "Craddock, P. T., and A. R. Giumlia-Mair. 1993a. “Beauty Is Skin Deep: Evidence for the Original Appearance of Classical Statuary.” In *Metal Plating and Patination: Cultural, Technical and Historical Developments*, ed. S. La Niece and P. Craddock, 30–38. Oxford: Butterworth-Heinemann."
     reference_for: "11"
 
   - short: Craddock and Giumlia-Mair 1993b
@@ -1353,7 +1353,7 @@ biblio_list:
     reference_for: "11"
 
   - short: Falaschi 2015
-    full: "Falaschi, E. 2015. “BIOI POIKILOI: Le biografie dei pittori negli scritti di Plutarco.” Ph.D. diss., Scuola Normale Superiore, Pisa."
+    full: "Falaschi, E. 2015. “BIOI POIKILOI: Le biografie dei pittori negli scritti di Plutarco.” PhD diss., Scuola Normale Superiore, Pisa."
     reference_for: "11"
 
   - short: Flacelière 1964
@@ -1365,7 +1365,7 @@ biblio_list:
     reference_for: "11"
 
   - short: Giumlia-Mair 2001a
-    full: "Giumlia-Mair, A. R. 2001a. “Alchemy and Surface Treatments in Antiquity.” In *Surface Modification Technologies XIV: Proceedings of the 14th International Conference on Surface Modification Technologies (Paris, September 11–13, 2000)*, ed. T. S. Sudarshan and M. Jeandin, 404–11. Scarborough (ON): Emptek Publishing."
+    full: "Giumlia-Mair, A. R. 2001a. “Alchemy and Surface Treatments in Antiquity.” In *Surface Modification Technologies XIV: Proceedings of the 14th International Conference on Surface Modification Technologies (Paris, September 11–13, 2000)*, ed. T. S. Sudarshan and M. Jeandin, 404–11. Scarborough, Ontario: Emptek Publishing."
     reference_for: "11"
 
   - short: Giumlia-Mair 2001b
@@ -1381,7 +1381,7 @@ biblio_list:
     reference_for: "11"
 
   - short: Giumlia-Mair and Lehr 1998
-    full: "Giumlia-Mair, A. R., and M. Lehr. 1998. “Patinating Black Bronzes: Texts and Tests.” In *The 4th International Conference on the Beginning of the Use of Metal and Alloys (BUMA-IV): Kunibiki Messe, Matsue, Shimane, Japan. May 25–28, 1998*, 103–108. Aoba (Sendai): BUMA-IV Organizing Committee, Japan Institute of Metals."
+    full: "Giumlia-Mair, A. R., and M. Lehr. 1998. “Patinating Black Bronzes: Texts and Tests.” In *The 4th International Conference on the Beginning of the Use of Metal and Alloys (BUMA-IV): Kunibiki Messe, Matsue, Shimane, Japan. May 25–28, 1998*, 103–8. Aoba: BUMA-IV Organizing Committee, Japan Institute of Metals."
     reference_for: "11"
 
   - short: Giumlia-Mair et al. 2000
@@ -1413,7 +1413,7 @@ biblio_list:
     reference_for: "12"
 
   - short: Boren and Young 2013
-    full: "Boren, T., and C. Young. 2013. “Migration Dynamics of the ‘Creative Class:’ Evidence from a Study of Artists in Stockholm, Sweden.” *Annals of the Association of American Geographers* 103: 195–210."
+    full: "Boren, T., and C. Young. 2013. “Migration Dynamics of the ‘Creative Class’: Evidence from a Study of Artists in Stockholm, Sweden.” *Annals of the Association of American Geographers* 103: 195–210."
     reference_for: "12"
 
   - short: Burford 1974
@@ -1441,7 +1441,7 @@ biblio_list:
     reference_for: "12"
 
   - short: Kantzia 1989
-    full: "Kantzia, C. 1989 “Rhodische Kolosse: Eine hellenistische Bronzegusswerkstatt.” *AA*: 497–523."
+    full: "Kantzia, C. 1989. “Rhodische Kolosse: Eine hellenistische Bronzegusswerkstatt.” *AA*: 497–523."
     reference_for: "12"
 
   - short: Ma 2013
@@ -1457,11 +1457,11 @@ biblio_list:
     reference_for: "12"
 
   - short: Paton, Caskey, and Stevens 1927
-    full: "Paton, J., L. Caskey, and G. Stevens. 1927. *The Erechtheum*. Cambridge: Harvard University Press."
+    full: "Paton, J., L. Caskey, and G. Stevens. 1927. *The Erechtheum*. Cambridge, MA: Harvard University Press."
     reference_for: "12"
 
   - short: Randall 1953
-    full: "Randall Jr., R. 1953. “The Erechtheum Workmen.” *AJA* 57: 199–210."
+    full: "Randall, R., Jr. 1953. “The Erechtheum Workmen.” *AJA* 57: 199–210."
     reference_for: "12"
 
   - short: Rostovtzeff [1941] 1953
@@ -1485,11 +1485,11 @@ biblio_list:
     reference_for: "12"
 
   - short: White 1970
-    full: "White, H. 1970. *Chains of Opportunity*. Cambridge (MA): Harvard University Press."
+    full: "White, H. 1970. *Chains of Opportunity*. Cambridge, MA: Harvard University Press."
     reference_for: "12"
 
   - short: Zimmer 1990
-    full: "Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz am Rhein: Philipp von Zabern."
+    full: "Zimmer, G. 1990. *Griechische Bronzegusswerkstätten: Zur Technologieentwicklung eines antiken Kunsthandwerkes*. Mainz am Rhein: Philipp von Zabern."
     reference_for: "12"
 
   - short: Beck, Bol, and Bückling 1990
@@ -1581,7 +1581,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Andrews 1994
-    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” Ph.D. dissertation, Brandeis University."
+    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” PhD dissertation, Brandeis University."
     reference_for: "14"
 
   - short: Aruz, Graff, and Rakic 2014
@@ -2737,7 +2737,7 @@ biblio_list:
     reference_for: "20"
 
   - short: Quantin 1997
-    full: "Quantin, F. 1997. “La vie religieuse en Epire: sanctuaires, cultes et divinités d’Ambracie à Apollonia de la période archaïque à la conquête romaine.” Ph.D. diss., Université Lumière Lyon 2."
+    full: "Quantin, F. 1997. “La vie religieuse en Epire: sanctuaires, cultes et divinités d’Ambracie à Apollonia de la période archaïque à la conquête romaine.” PhD diss., Université Lumière Lyon 2."
     reference_for: "20"
 
   - short: Reinach 1904–1908
@@ -2777,7 +2777,7 @@ biblio_list:
     reference_for: "20"
 
   - short: Veseli 2014
-    full: "Veseli, S. 2014. “Les figurines et les vases en bronze de la période archaïque jusqu'à la période romaine retrouves en Albanie.” Ph.D. diss., Université Lumière Lyon 2."
+    full: "Veseli, S. 2014. “Les figurines et les vases en bronze de la période archaïque jusqu'à la période romaine retrouves en Albanie.” PhD diss., Université Lumière Lyon 2."
     reference_for: "20"
 
   - short: Zadoks-Josephus Jitta et al. 1967
@@ -2997,7 +2997,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Fischer 1970
-    full: "Fischer, T. 1970. “Untersuchungen zum Partherkrieg Antiochos’ VII.” Ph.D. diss. Eberhard Karls Universität Tübingen."
+    full: "Fischer, T. 1970. “Untersuchungen zum Partherkrieg Antiochos’ VII.” PhD diss. Eberhard Karls Universität Tübingen."
     reference_for: "22"
 
   - short: Fleischer 1991
@@ -3577,7 +3577,7 @@ biblio_list:
     reference_for: "26"
 
   - short: Gaunt 2002
-    full: "Gaunt, J. 2002. “The Attic Volute-krater.” Ph.D. diss. New York University, Institute of Fine Arts."
+    full: "Gaunt, J. 2002. “The Attic Volute-krater.” PhD diss. New York University, Institute of Fine Arts."
     reference_for: "26"
 
   - short: Gericke 1970
@@ -3729,7 +3729,7 @@ biblio_list:
     reference_for: "26"
 
   - short: Sowder 2009
-    full: "Sowder, A. A. 2009. “Greek Bronze Hydriai.” Ph.D. diss. Emory University."
+    full: "Sowder, A. A. 2009. “Greek Bronze Hydriai.” PhD diss. Emory University."
     reference_for: "26"
 
   - short: Sparkes and Talcott 1970
@@ -4169,7 +4169,7 @@ biblio_list:
     reference_for: "29"
 
   - short: Lester 2011
-    full: "Lester, A. 2011. “Typological and Stylistic Aspects of Metalware of the Fatimid Period” (Hebrew with an abstract in English). 2 vols. Ph.D. thesis. University of Haifa."
+    full: "Lester, A. 2011. “Typological and Stylistic Aspects of Metalware of the Fatimid Period” (Hebrew with an abstract in English). 2 vols. PhD thesis. University of Haifa."
     reference_for: "29"
 
   - short: Lester 2014
@@ -4870,7 +4870,7 @@ biblio_list:
     reference_for: "37"
 
   - short: Brostoff 2003
-    full: "Brostoff, B. L. 2003. “Coating Strategies for Protection of Outdoor Bronze Art and Ornamentation.” Ph.D. diss., Universiteit van Amsterdam."
+    full: "Brostoff, B. L. 2003. “Coating Strategies for Protection of Outdoor Bronze Art and Ornamentation.” PhD diss., Universiteit van Amsterdam."
     reference_for: "37"
 
   - short: Craine, Severson, and Merritt 1992
