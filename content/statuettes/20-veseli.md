@@ -8,9 +8,9 @@ contributor:
    last_name: Veseli
    affiliation: Institute of Archaeology, Center of Albanian Studies, Tirana
 abstract: |
-    Zeus and Jupiter were venerated gods in ancient Albania we can see from numerous attestations in inscriptions, coins, and marble sculpture. The presence of four bronze statuettes depicting Zeus/Jupiter is added evidence for his cult in this territory, which was situated on an important crossroads of the Mediterranean. The bronze statuettes representing Zeus with a Thunderbolt follow the canons of the Greek world and find many similarities with other statuettes that were used as votive offerings in various temples. The two Roman examples depicting Jupiter follow models widely used in the Roman Empire, mostly reproductions of the sculpture of the fourth century BC.
+    Zeus and Jupiter were venerated gods in ancient Albania, as we can see from numerous attestations in inscriptions, coins, and marble sculpture. The presence of four bronze statuettes depicting Zeus/Jupiter is added evidence for his cult in this territory, which was situated on an important crossroads of the Mediterranean. The bronze statuettes representing Zeus with a thunderbolt follow the canons of the Greek world and find many similarities with other statuettes that were used as votive offerings in various temples. The two Roman examples depicting Jupiter follow models widely used in the Roman Empire, mostly reproductions of the sculpture of the fourth century BC.
 
-    These bronze statuettes attest not only to the cult of Zeus/Jupiter in the territory of ancient Albania, but also to influences of style and bronze working techniques, and to similarities in religion shared with the rest of the Mediterranean world.
+    These bronze statuettes attest not only to the cult of Zeus/Jupiter in the territory of ancient Albania but also to influences of style and bronze-working techniques, and to similarities in religion shared with the rest of the Mediterranean world.
 weight: 308
 ---
 

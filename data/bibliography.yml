@@ -1509,7 +1509,7 @@ biblio_list:
     reference_for: "13"
 
   - short: Furtwängler [1895] 1964
-    full: "Furtwängler, A. 1964. *Masterpieces of Greek Sculpture*. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895)."
+    full: "Furtwängler, A. 1964. *Masterpieces of Greek Sculpture*. New and enlarged ed. by A. N. Oikonomides. Chicago: Argonaut. (Orig. ed., New York: Charles Scribner’s Sons, 1895.)"
     reference_for: "13"
 
   - short: Höckmann 1994
@@ -1529,16 +1529,17 @@ biblio_list:
     reference_for: "13"
 
   - short: Kreikenbom 1990
-    full: "Kreikenbom, D. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64."
-    reference_for: "13"
-
-  - short: Krystalli-Votsi 2014
-    full: "Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων (*The Ambelokipi Bronzes)*. Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
+    full: "Kreikenbom, D. 1990. Catalogue entries in Beck, Bol, and Bückling 1990, 519–64."
     reference_for: "13"
 
   - short: Krull 1985
     full: "Krull, D. 1985. *Der Herakles vom Typ Farnese*. Frankfurt am Main: P. Lang."
     reference_for: "13"
+
+  - short: Krystalli-Votsi 2014
+    full: "Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων* (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
+    reference_for: "13"
+
 
   - short: Leibundgut 1990
     full: "Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427."
@@ -1585,7 +1586,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Aruz, Graff, and Rakic 2014
-    full: "Aruz, J., S. Graff, and Y. Rakic, eds. 2014. *Assyria to Iberia at the Dawn of the Classical Age*. Exh. cat. New York, Metropolitan Museum of Art. New York: Metropolitan Museum of Art; and New Haven: Yale University Press."
+    full: "Aruz, J., S. Graff, and Y. Rakic, eds. 2014. *Assyria to Iberia at the Dawn of the Classical Age*. Exh. cat. New York, Metropolitan Museum of Art. New York: Metropolitan Museum of Art; New Haven: Yale University Press."
     reference_for: "14"
 
   - short: Betancourt 2007
@@ -1593,7 +1594,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Born 2010
-    full: "Born, H. 2010. “Des Kaisers neue Kleider: Restaurierung und Herstellungstechnik des Stična Brustpanzers aus Grabhügel.” In *Stična:Grabhügel aus der älteren Eisenzeit II/2*, ed S. Gabrovec and B. Terzan, 137–59. Ljubljana: Narodni Muzej."
+    full: "Born, H. 2010. “Des Kaisers neue Kleider: Restaurierung und Herstellungstechnik des Stična Brustpanzers aus Grabhügel.” In *Stična:Grabhügel aus der älteren Eisenzeit II/2*, ed. S. Gabrovec and B. Terzan, 137–59. Ljubljana: Narodni Muzej."
     reference_for: "14"
 
   - short: Bothmer 2000
@@ -1617,7 +1618,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Hemingway 2014
-    full: "Hemingway, S. 2014. “The Age of Bronze in Greece, Cyprus and the Near East.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 21–37. Cambridge (MA): Harvard Art Museums."
+    full: "Hemingway, S. 2014. “The Age of Bronze in Greece, Cyprus and the Near East.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 21–37. Cambridge, MA: Harvard Art Museums."
     reference_for: "14"
 
   - short: Karageorghis, Mertens, and Rose 2000
@@ -1645,7 +1646,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Padgett, M. 2004
-    full: "Padgett, M. 2004. *The Centaur’s Smile: The Human Animal in Early Greek Art*. Exh. cat. Princeton, Princeton University Art Museum. New Haven, and London: Yale University Press."
+    full: "Padgett, M. 2004. *The Centaur’s Smile: The Human Animal in Early Greek Art*. Exh. cat. Princeton, Princeton University Art Museum. New Haven and London: Yale University Press."
     reference_for: "14"
 
   - short: Paris, Sotari, and Giustozzi 2014
@@ -1793,7 +1794,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Marchant and Todd
-    full: "Marchant, E. C., and O. J. Todd, trans. 1923. *Xenophon*. Vol. 4: *Memorabilia, Oeconomicus, Symposium, Apology*. Cambridge (MA): Harvard University Press."
+    full: "Marchant, E. C., and O. J. Todd, trans. 1923. *Xenophon*. Vol. 4: *Memorabilia, Oeconomicus, Symposium, Apology*. Cambridge, MA: Harvard University Press."
     reference_for: "15"
 
   - short: Masséglia 2015
@@ -1861,7 +1862,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Trypanis 1978
-    full: "Trypanis, C. A., ed. 1978. *Callimachus: Aetia, Iambi, Hecale and Other Fragments*. Cambridge (MA): Harvard University Press."
+    full: "Trypanis, C. A., ed. 1978. *Callimachus: Aetia, Iambi, Hecale and Other Fragments*. Cambridge, MA: Harvard University Press."
     reference_for: "15"
 
   - short: West 1974
@@ -2817,7 +2818,7 @@ biblio_list:
     reference_for: "21"
 
   - short: Ebbinghaus 2014
-    full: "Ebbinghaus, S., ed. 2014. *Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes*. Cambridge (MA): Harvard Art Museums."
+    full: "Ebbinghaus, S., ed. 2014. *Ancient Bronzes through a Modern Lens: Introductory Essays on the Study of Ancient Mediterranean and Near Eastern Bronzes*. Cambridge, MA: Harvard Art Museums."
     reference_for: "21"
 
   - short: Eremin 2014
@@ -3561,7 +3562,7 @@ biblio_list:
     reference_for: "26"
 
   - short: Campbell 1988
-    full: "Campbell, D. A. 1988. *Greek Lyric*, vol. 2. Loeb Classical Library 476. Cambridge (MA): Harvard University Press."
+    full: "Campbell, D. A. 1988. *Greek Lyric*, vol. 2. Loeb Classical Library 476. Cambridge, MA: Harvard University Press."
     reference_for: "26"
 
   - short: Cohen 2006
@@ -4093,7 +4094,7 @@ biblio_list:
     reference_for: "29"
 
   - short: Brend 1991
-    full: "Brend, B. 1991. *Islamic Art*. Cambridge (MA): Harvard University Press."
+    full: "Brend, B. 1991. *Islamic Art*. Cambridge, MA: Harvard University Press."
     reference_for: "29"
 
   - short: Canard 1965
@@ -4349,7 +4350,7 @@ biblio_list:
     reference_for: "31"
 
   - short: Eichholz 1971
-    full: "Eichholz, D. E., ed. and trans. 1971. *Pliny, Natural History X: Libri XXXVI–XXXVII*. London: W. Heinemann Ltd.; Cambridge (MA): Harvard University Press."
+    full: "Eichholz, D. E., ed. and trans. 1971. *Pliny, Natural History X: Libri XXXVI–XXXVII*. London: W. Heinemann Ltd.; Cambridge, MA: Harvard University Press."
     reference_for: "31"
 
   - short: Forrer 1927
@@ -4413,7 +4414,7 @@ biblio_list:
     reference_for: "31"
 
   - short: Rouse 1902
-    full: "Rouse, W. H. D. 1902. *Greek Votive Offerings: An Essay in the History of Greek Religion*. Cambridge (MA): At the University Press."
+    full: "Rouse, W. H. D. 1902. *Greek Votive Offerings: An Essay in the History of Greek Religion*. Cambridge, MA: At the University Press."
     reference_for: "31"
 
   - short: Schaeffer 1927
@@ -5118,7 +5119,7 @@ biblio_list:
     reference_for: "41"
 
   - short: Mattusch 1996
-    full: "Mattusch, C. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections*. Cambridge (MA): Harvard University Art Museums."
+    full: "Mattusch, C. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections*. Cambridge, MA: Harvard University Art Museums."
     reference_for: "41"
 
   - short: Mattusch 2002
@@ -5526,7 +5527,7 @@ biblio_list:
     reference_for: "46"
 
   - short: "*Ancient Art* 1954"
-    full: "*Ancient Art in American Private Collections*. 1954. Exh. cat. Cambridge (MA): Fogg Art Museum."
+    full: "*Ancient Art in American Private Collections*. 1954. Exh. cat. Cambridge, MA: Fogg Art Museum."
     reference_for: "47"
 
   - short: Arndt and Amelung 1897
@@ -5538,7 +5539,7 @@ biblio_list:
     reference_for: "47"
 
   - short: Bewer and Lie 2014
-    full: "Bewer, F. G., and H. Lie. 2014. “Ex Aere Factum: Technical Notes on Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 38–63. Cambridge (MA): Harvard Art Museums."
+    full: "Bewer, F. G., and H. Lie. 2014. “Ex Aere Factum: Technical Notes on Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 38–63. Cambridge, MA: Harvard Art Museums."
     reference_for: "47"
 
   - short: Buitron 1973
@@ -5554,7 +5555,7 @@ biblio_list:
     reference_for: "47"
 
   - short: Eremin and Riederer 2014
-    full: "Eremin, K., with J. Riederer. 2014. “Analytical Approaches to Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 64–91. Cambridge (MA): Harvard Art Museums."
+    full: "Eremin, K., with J. Riederer. 2014. “Analytical Approaches to Ancient Bronzes.” In *Ancient Bronzes through a Modern Lens*, ed. S. Ebbinghaus, 64–91. Cambridge, MA: Harvard Art Museums."
     reference_for: "47"
 
   - short: Galerie Georges Petit 1911

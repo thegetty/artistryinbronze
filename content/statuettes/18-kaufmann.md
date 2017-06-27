@@ -7,7 +7,7 @@ contributor:
    last_name: Kaufmann-Heinimann
    affiliation: Universität Basel
 abstract: |
-    In contrast to life-size statues and small bronzes, medium-sized statuettes have rarely been the focus of scholarly interest. As to their function, it is often assumed that there must have been a clear distinction between purely decorative pieces and statuettes that were used as votive objects. The epigraphical and literary sources, however, contradict such a distinction and rather draw attention to their multi-purpose usage. With this broader approach in mind, some medium-sized statuettes from both secular and religious contexts of Rome’s northwestern provinces are discussed.[^1]
+    In contrast to life-size statues and small bronzes, medium-sized statuettes have rarely been the focus of scholarly interest. As to their function, it is often assumed that there must have been a clear distinction between purely decorative pieces and statuettes that were used as votive objects. The epigraphical and literary sources, however, contradict such a distinction and rather draw attention to their multipurpose usage. With this broader approach in mind, some medium-sized statuettes from both secular and religious contexts of Rome’s northwestern provinces are discussed.[^1]
 weight: 306
 ---
 
