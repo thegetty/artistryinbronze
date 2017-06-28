@@ -1762,7 +1762,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Hemingway 2016
-    full: "Hemingway, S. 2016. “Statuette of an Artisan.”In *Pergamon and the Hellenistic Kingdoms of the* *Ancient World*, ed. C. A. Picón and S. Hemingway, 161–62. New York: The Metropolitan Museum of Art."
+    full: "Hemingway, S. 2016. “Statuette of an Artisan.” In *Pergamon and the Hellenistic Kingdoms of the* *Ancient World*, ed. C. A. Picón and S. Hemingway, 161–62. New York: The Metropolitan Museum of Art."
     reference_for: "15"
 
   - short: Himmelmann 1981
@@ -1782,7 +1782,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Lee 2015
-    full: "Lee, M.M. 2015. *Body, Dress, and Identity in Ancient Greece*. Cambridge and New York: Cambridge University Press."
+    full: "Lee, M. M. 2015. *Body, Dress, and Identity in Ancient Greece*. Cambridge and New York: Cambridge University Press."
     reference_for: "15"
 
   - short: Lefkowitz 2012
@@ -1793,7 +1793,7 @@ biblio_list:
     full: "Lissarrague, F. 2000. “Aesop, Between Man and Beast: Ancient Portraits and Illustrations.” In *Not the Classical Ideal: Athens and the Construction of the Other in Greek Art*, ed. Beth Cohen, 132–49. Leiden and Boston, Cologne: Brill."
     reference_for: "15"
 
-  - short: Marchant and Todd
+  - short: Marchant and Todd 1923
     full: "Marchant, E. C., and O. J. Todd, trans. 1923. *Xenophon*. Vol. 4: *Memorabilia, Oeconomicus, Symposium, Apology*. Cambridge, MA: Harvard University Press."
     reference_for: "15"
 
@@ -1801,12 +1801,12 @@ biblio_list:
     full: "Masséglia, J. 2015. *Body Language in Hellenistic Art and Society*. Oxford and New York: Oxford University Press."
     reference_for: "15"
 
-  - short: Maurer 2015
-    full: "Maurer, M. F. 2015. “The Trouble with Pasiphaë: Engendering Myth in the Gonzaga Court.” In *Receptions of Antiquity, Constructions of Gender in European Art, 1300–1600*, ed. M. Rose, and A. C. Poe, 199–229. Leiden and Boston: Brill."
-    reference_for: "15"
-
   - short: Mattusch 1980
     full: "Mattusch, C. C. 1980. “The Berlin Foundry Cup: The Casting of Greek Bronze Statuary in the Early Fifth Century B.C.” *AJA* 84: 435–44."
+    reference_for: "15"
+
+  - short: Maurer 2015
+    full: "Maurer, M. F. 2015. “The Trouble with Pasiphaë: Engendering Myth in the Gonzaga Court.” In *Receptions of Antiquity, Constructions of Gender in European Art, 1300–1600*, ed. M. Rose and A. C. Poe, 199–229. Leiden and Boston: Brill."
     reference_for: "15"
 
   - short: Meyer 2009
@@ -1814,7 +1814,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Mollard-Besques 1963
-    full: "Mollard-Besques, S. 1963. *Musée du Louvre: Département des antiquités grecques et romaines:* *Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans*. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux."
+    full: "Mollard-Besques, S. 1963. *Musée du Louvre: Département des antiquités grecques et romaines: Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans*. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux."
     reference_for: "15"
 
   - short: Morel-Deledalle 2014
@@ -1822,7 +1822,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Neudecker 1992
-    full: "Neudecker, R. 1992. “Relief mit Daidalos und Ikaros.” *Forschungen zur Villa Albani: Katalog der antiken Bildwerke*. Vol. 3, 125–27, no. 296, plate 84. P. C. Bol, ed. Berlin: Gebr. Mann."
+    full: "Neudecker, R. 1992. “Relief mit Daidalos und Ikaros.” In *Forschungen zur Villa Albani: Katalog der antiken Bildwerke*. Vol. 3, 125–27, no. 296, plate 84. P. C. Bol, ed. Berlin: Gebr. Mann."
     reference_for: "15"
 
   - short: Panetta 2004
@@ -1898,7 +1898,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Burkhalter 1990
-    full: "Burkhalter, F. 1990. “Les statuettes en bronze d’Aphrodite en Égypte romaine d’après les document papyrologiques,” *Revue Archéologique* 1: 51–60."
+    full: "Burkhalter, F. 1990. “Les statuettes en bronze d’Aphrodite en Égypte romaine d’après les document papyrologiques.” *Revue Archéologique* 1: 51–60."
     reference_for: "16"
 
   - short: Cabanes 1997
@@ -1926,7 +1926,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Forsén 2009a
-    full: "Forsén, B., ed. *Thesprotia I: Towards a Regional History*. Helsinki: Foundation of the Finnish Institute at Athens."
+    full: "Forsén, B., ed. 2009. *Thesprotia I: Towards a Regional History*. Helsinki: Foundation of the Finnish Institute at Athens."
     reference_for: "16"
 
   - short: Forsén 2009b
@@ -1958,11 +1958,11 @@ biblio_list:
     reference_for: "16"
 
   - short: Hatzopoulos 1980
-    full: "Hatzopoulos, M. 1980. “Photice: Colonie romaine en Thesprotie et les destinées de la latinité epiroté,” *BalkSt* 21: 97–105."
+    full: "Hatzopoulos, M. 1980. “Photice: Colonie romaine en Thesprotie et les destinées de la latinité epiroté.” *BalkSt* 21: 97–105."
     reference_for: "16"
 
   - short: Hekler 1911
-    full: "Hekler, A. 1911. “Alexandrinische Aphroditestatuetten,” *ÖJh* 14: 112–20."
+    full: "Hekler, A. 1911. “Alexandrinische Aphroditestatuetten.” *ÖJh* 14: 112–20."
     reference_for: "16"
 
   - short: Hill 1979
@@ -2002,7 +2002,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Orr 1978
-    full: "Orr, D. G. 1978. “Roman Domestic Religion: The Evidence of the Household Shrines,” *ANRW* 16.2.2: 1557–91. Berlin: de Gruyter."
+    full: "Orr, D. G. 1978. “Roman Domestic Religion: The Evidence of the Household Shrines.” *ANRW* 16.2.2: 1557–91. Berlin: de Gruyter."
     reference_for: "16"
 
   - short: Petrochilos 1974
@@ -2014,11 +2014,11 @@ biblio_list:
     reference_for: "16"
 
   - short: Piot 1878
-    full: "Piot, E. 1878. “Vases peints athéniens,” *GazArch* 4: 55–59."
+    full: "Piot, E. 1878. “Vases peints athéniens/” *GazArch* 4: 55–59."
     reference_for: "16"
 
   - short: Ridder 1905
-    full: "Ridder, A. de 1905. *Collection de Clercq: catalogue méthodique et raisonné; antiquités assyriennes; cylindres orientaux, cachets, briques, bronzes, bas-reliefs, etc*. Vol. 3: *Les bronzes*. Paris: Leroux."
+    full: "Ridder, A. de. 1905. *Collection de Clercq: Catalogue méthodique et raisonné; antiquités assyriennes; cylindres orientaux, cachets, briques, bronzes, bas-reliefs, etc*. Vol. 3: *Les bronzes*. Paris: Leroux."
     reference_for: "16"
 
   - short: Rizakis 1996
@@ -2042,7 +2042,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Swaddling 1979
-    full: "Swaddling, J. 1979. “The British Museum Bronze Hoard from Paramythia, North Western Greece: Classical Trends Revived in the 2nd and 18th Centuries A.D.” In *Bronzes hellénistiques et romains: Tradition et renouveau, Acte du Ve Colloque international sur les bronzes antiques, Lausanne, 8–13 May 1978* (Cahiers d’Archéologie romande 17), ed. C. Bérard, P. Ducrey, and A. Altherr-Charon, 103–106. Lausanne: Bibliothèque historique vaudoise."
+    full: "Swaddling, J. 1979. “The British Museum Bronze Hoard from Paramythia, North Western Greece: Classical Trends Revived in the 2nd and 18th Centuries A.D.” In *Bronzes hellénistiques et romains: Tradition et renouveau, Acte du Ve Colloque international sur les bronzes antiques, Lausanne, 8–13 May 1978* (Cahiers d’Archéologie romande 17), ed. C. Bérard, P. Ducrey, and A. Altherr-Charon, 103–6. Lausanne: Bibliothèque historique vaudoise."
     reference_for: "16"
 
   - short: Swift 2006
@@ -2066,11 +2066,11 @@ biblio_list:
     reference_for: "16"
 
   - short: Wozniak 1987
-    full: "Wozniak, F. 1987. “Nikopolis and the Roman Defense of Epirus.” In *Nicopolis I: Proceedings of the First International Symposium on Nicopolis (23–29 September 1984)*, E. Chrysos, 263–67. Preveza: Municipality of Preveza."
+    full: "Wozniak, F. 1987. “Nikopolis and the Roman Defense of Epirus.” In *Nicopolis I: Proceedings of the First International Symposium on Nicopolis (23–29 September 1984)*, ed. E. Chrysos, 263–67. Preveza: Municipality of Preveza."
     reference_for: "16"
 
   - short: Adamo Muscettola 1984
-    full: "Adamo Muscettola, S. 1984. “Osservazioni sulla composizione dei *larari* con statuette in bronzo di Pompei ed Ercolano.” In *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen, Berlin, 13–17 Mai 1980*, ed. U. Gehrig. 87–94. Berlin: Staatliche Museen Preussischer Kulturbesitz, Antikenmuseum."
+    full: "Adamo Muscettola, S. 1984. “Osservazioni sulla composizione dei *larari* con statuette in bronzo di Pompei ed Ercolano.” In *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen, Berlin, 13–17 Mai 1980*, ed. U. Gehrig, 87–94. Berlin: Staatliche Museen Preussischer Kulturbesitz, Antikenmuseum."
     reference_for: "17"
 
   - short: Arbeid and Iozzo 2015
@@ -2090,7 +2090,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Beschi 1993
-    full: "Beschi, L. 1993. “Bronzetti classicistici policletei: alcune osservazioni.” In *Bronces y religión romana: Actas del XI Congreso Internacional de Bronces Antiguos*, ed. J. Arce and F. Burkhalter, 45–56. Madrid: Consejo Superior de Investigaciones Científicas."
+    full: "Beschi, L. 1993. “Bronzetti classicistici policletei: Alcune osservazioni.” In *Bronces y religión romana: Actas del XI Congreso Internacional de Bronces Antiguos*, ed. J. Arce and F. Burkhalter, 45–56. Madrid: Consejo Superior de Investigaciones Científicas."
     reference_for: "17"
 
   - short: Bolla 1997
@@ -2106,7 +2106,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Cadario 2015
-    full: "Cadario, M. 2015 “Le statuette in bronzo in contest tra culti, *ornamenta* e pezzi da collezione.” In Arbeid and Iozzo 2015, 53–59."
+    full: "Cadario, M. 2015. “Le statuette in bronzo in contest tra culti, *ornamenta* e pezzi da collezione.” In Arbeid and Iozzo 2015, 53–59."
     reference_for: "17"
 
   - short: Capriotti Vittozzi 1999
@@ -2142,7 +2142,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Fabbrini 1961
-    full: "Fabbrini, L. 1961. “Sentinum.” In *Atti del VII Congresso Internazionale di archeologia classica*, 315–23. Roma: L’Erma di Bretschneider."
+    full: "Fabbrini, L. 1961. “Sentinum.” In *Atti del VII Congresso Internazionale di archeologia classica*, 315–23. Rome: L’Erma di Bretschneider."
     reference_for: "17"
 
   - short: Franzoni 1973
@@ -2186,11 +2186,11 @@ biblio_list:
     reference_for: "17"
 
   - short: Invernizzi 1996
-    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45."
+    full: Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45.
     reference_for: "17"
 
   - short: Iozzo, M. 2015
-    full: "Iozzo, M. 2015. “Zeus”. In Arbeid and Iozzo 2015, 63–65."
+    full: "Iozzo, M. 2015. “Zeus.” In Arbeid and Iozzo 2015, 63–65."
     reference_for: "17"
 
   - short: Kaufmann-Heinimann 1977
@@ -2206,7 +2206,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Kaufmann-Heinimann 2004
-    full: "Kaufmann-Heinimann, A. 2004. “Götter im Keller, im Schiff und auf dem Berg: Alte und neue Statuettenfunde aus dem Imperium Romanum.” In *The Antique Bronzes: Typology, Chronology, Authenticity: The Acta of the 16th International Congress of Antique Bronzes, Organised by the Romanian National History Museum – Bucharest 2003*, ed. C. Muşeţeanu. 249–63. Bucharest: Cetatea de Scaun."
+    full: "Kaufmann-Heinimann, A. 2004. “Götter im Keller, im Schiff und auf dem Berg: Alte und neue Statuettenfunde aus dem Imperium Romanum.” In *The Antique Bronzes: Typology, Chronology, Authenticity: The Acta of the 16th International Congress of Antique Bronzes, Organised by the Romanian National History Museum – Bucharest 2003*, ed. C. Muşeţeanu, 249–63. Bucharest: Cetatea de Scaun."
     reference_for: "17"
 
   - short: Koortbojian 2015
@@ -2218,11 +2218,11 @@ biblio_list:
     reference_for: "17"
 
   - short: Leibundgut 1990
-    full: "Leibundgut, A. 1990. “Polykletische Elemente bei späthellenistischen und römischen Kleinbronzen: zur Wirkungsgeschichte Polyklets in der Kleinplastik.” In *Polyklet: Der Bildhauer der griechischen Klassik*, ed. P. C. Bol, 397–427. Mainz am Rhein: Philipp von Zabern."
+    full: "Leibundgut, A. 1990. “Polykletische Elemente bei späthellenistischen und römischen Kleinbronzen: Zur Wirkungsgeschichte Polyklets in der Kleinplastik.” In *Polyklet: Der Bildhauer der griechischen Klassik*, ed. P. C. Bol, 397–427. Mainz am Rhein: Philipp von Zabern."
     reference_for: "17"
 
   - short: Lombardi and Mazzarini 1995
-    full: "Lombardi, F. V., and Mazzarini A. 1995. “Le acque minerali.” In *Il Montefeltro*. Vol. 1: *Ambiente, storia, arte nelle alte valli del Foglia e del Conca*, ed. G. Allegretti and F. V. Lombardi, 67–90. Verucchio: Comunità Montana del Montefeltro."
+    full: "Lombardi, F. V., and A. Mazzarini 1995. “Le acque minerali.” In *Il Montefeltro*. Vol. 1: *Ambiente, storia, arte nelle alte valli del Foglia e del Conca*, ed. G. Allegretti and F. V. Lombardi, 67–90. Verucchio: Comunità Montana del Montefeltro."
     reference_for: "17"
 
   - short: Luni 1995
@@ -2230,7 +2230,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Luni 2003
-    full: "Luni, M. 2003. *Archeologia nelle Marche: dalla preistoria all’età tardoantica*. Florence: Nardini."
+    full: "Luni, M. 2003. *Archeologia nelle Marche: Dalla preistoria all’età tardoantica*. Florence: Nardini."
     reference_for: "17"
 
   - short: Luni and Mei 2013
@@ -2258,7 +2258,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Muscillo 2015
-    full: "Muscillo A. 2015. “Giove.” In Arbeid and Iozzo 2015, 66–67."
+    full: "Muscillo, A. 2015. “Giove.” In Arbeid and Iozzo 2015, 66–67."
     reference_for: "17"
 
   - short: Neugebauer 1935
@@ -2274,7 +2274,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Picciotti Giornetti 1979
-    full: "Picciotti Giornetti, V. 1979. “Statua ritratto di giovinetta: tipo Artemide.” In *Museo Nazionale Romano: Le sculture*, part 1, vol. 1, ed. A. Giuliano, 23–24. Rome: De Luca."
+    full: "Picciotti Giornetti, V. 1979. “Statua ritratto di giovinetta: Tipo Artemide.” In *Museo Nazionale Romano: Le sculture*, part 1, vol. 1, ed. A. Giuliano, 23–24. Rome: De Luca."
     reference_for: "17"
 
   - short: Walde Psenner 1983
