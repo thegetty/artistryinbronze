@@ -27,7 +27,7 @@ What struck me initially upon seeing the bronze head, first from photographs and
 
 {{< q-figure id="5.3a-b" >}}
 
-It was her son Ptolemy V Epiphanes, of course, who introduced the series, not the queen herself. In speaking about the Mantua head, which he identifies as “most likely” the queen, Smith surprisingly describes it as “stiff and lifeless and the hair merely engraved on top of the head rather than modeled” and “not the best Hellenistic bronze work.”[^9] A view of the top of the head shows the incised patterning to which he refers ([fig. 5.4](#5.4)). Ghisellini, while recognizing the restrained realism, asserts that the whole adds up a little differently:
+It was her son Ptolemy V Epiphanes, of course, who introduced the series, not the queen herself. In speaking about the Mantua head, which he identifies as “most likely” the queen, Smith surprisingly describes it as “stiff and lifeless and the hair merely engraved on top of the head rather than modeled” and “not the best Hellenistic bronze-work.”[^9] A view of the top of the head shows the incised patterning to which he refers ([fig. 5.4](#5.4)). Ghisellini, while recognizing the restrained realism, asserts that the whole adds up a little differently:
 
 > Classical principles dominate the structure of the head. The almost frontal view, the even contours, the harmonious proportions and the essentially symmetrical rendering of the features, and the simple elegant hairstyle are all classically inspired. However, this legacy does not diminish the portrait’s realism, but rather enhances it with a stately note. Indeed we can immediately perceive the divine nature of the queen who enjoyed immense popularity among all her subjects . . . .[^10]
 
