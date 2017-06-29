@@ -2886,7 +2886,7 @@ biblio_list:
     reference_for: "21"
 
   - short: Muscarella 1967
-    full: "Muscarella, O. W. 1967. “Phrygian Fibulae from Gordion.” *Colt Archaeological Institute Monograph Series* 4: 48–57*.* London: Bernard Quaritch Ltd."
+    full: "Muscarella, O. W. 1967. “Phrygian Fibulae from Gordion.” Colt Archaeological Institute Monograph Series 4: 48–57*.* London: Bernard Quaritch Ltd."
     reference_for: "21"
 
   - short: Muscarella 1988
@@ -2966,7 +2966,7 @@ biblio_list:
     reference_for: "21"
 
   - short: Berghe 1959
-    full: "Berghe, L. vanden 1959. *Archéologie de l’Iran ancien*. Leiden: E. J. Brill."
+    full: "Berghe, L. vanden. 1959. *Archéologie de l’Iran ancien*. Leiden: E. J. Brill."
     reference_for: "22"
 
   - short: Boyce and Grenet 1991
@@ -2994,7 +2994,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Eddy 1961
-    full: "Eddy, S. F. 1961. *The King is Dead: Studies in the Near Eastern Resistance to Hellenism, 334–31 B.C*. Lincoln: University of Nebraska Press."
+    full: "Eddy, S. F. 1961. *The King Is Dead: Studies in the Near Eastern Resistance to Hellenism, 334–31 B.C*. Lincoln: University of Nebraska Press."
     reference_for: "22"
 
   - short: Fischer 1970
@@ -3025,12 +3025,12 @@ biblio_list:
     full: "Ghirshman, R. 1976. *Les terrasses sacrées de Bard-è Néchandeh et Masjid-i Sulaiman: L’Iran du sud-ouest du VIIIe s. av. n. ère au Ve s. de n. ère*. Mémoires de la Délégation archéologique en Iran 45. Leiden and Paris: E. J. Brill."
     reference_for: "22"
 
-  - short: Godard 1962
-    full: "Godard, A. 1962. *L’art de l’Iran.* Paris: Arthaud."
-    reference_for: "22"
-
   - short: Godard 1937
     full: "Godard, A. 1937. “Les statues parthes de Shami.” *Athar-é Iran* 2: 285–305."
+    reference_for: "22"
+
+  - short: Godard 1962
+    full: "Godard, A. 1962. *L’art de l’Iran.* Paris: Arthaud."
     reference_for: "22"
 
   - short: Herrmann 1977
@@ -3074,7 +3074,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Picard 1939
-    full: "Picard, C. 1939. “Courrier de l’art antique.” *Gazette des beaux arts* (Avril 1939): 201–34."
+    full: "Picard, C. 1939. “Courrier de l’art antique.” *Gazette des beaux arts* (April): 201–34."
     reference_for: "22"
 
   - short: Porada 1962
@@ -3090,7 +3090,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Sarkosh Curtis and Pazooki 2004
-    full: "Sarkosh Curtis, V. and N. Pazooki. 2004. “Aurel Stein and Bahmna Karimi on Old Routes of Western Iran.” In *Sir Aurel Stein: Proceedings of the British Museum Study Day, 23 March 2002*, ed. H. Wang, 23–28. British Museum Occasional Paper 142. London: The Trustees of the British Museum."
+    full: "Sarkosh Curtis, V., and N. Pazooki. 2004. “Aurel Stein and Bahmna Karimi on Old Routes of Western Iran.” In *Sir Aurel Stein: Proceedings of the British Museum Study Day, 23 March 2002*, ed. H. Wang, 23–28. British Museum Occasional Paper 142. London: The Trustees of the British Museum."
     reference_for: "22"
 
   - short: Schippmann 1971
@@ -3134,7 +3134,7 @@ biblio_list:
     reference_for: "23"
 
   - short: Chabot 1897
-    full: "Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” *JA* 10: 308–55."
+    full: "Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” *JA* 10: 308–55."
     reference_for: "23"
 
   - short: Charles-Gaffiot et al. 2001
@@ -3150,7 +3150,7 @@ biblio_list:
     reference_for: "23"
 
   - short: Colledge 1976
-    full: "Colledge, M. A. R. 1976. *The Art of Palmyra*. Boulder (CO): Westview Press."
+    full: "Colledge, M. A. R. 1976. *The Art of Palmyra*. Boulder: Westview Press."
     reference_for: "23"
 
   - short: Daehner and Lapatin 2015
@@ -3214,7 +3214,7 @@ biblio_list:
     reference_for: "23"
 
   - short: Pollini 2001
-    full: "Pollini, J. 2001. “Two Bronze Portrait Busts of Slave-Boys from a Shrine of Cobannus in Roman Gaul.” In *Studia Varia from the J. Paul Getty Museum*, vol. 2, ed. M. True and M. Hart, 115–52. Occasional Papers on Antiquities of The J. Paul Getty Museum 10. Malibu: J. Paul Getty Museum."
+    full: "Pollini, J. 2001. “Two Bronze Portrait Busts of Slave-Boys from a Shrine of Cobannus in Roman Gaul.” In *Studia Varia from the J. Paul Getty Museum*, vol. 2, ed. M. True and M. Hart, 115–52. Occasional Papers on Antiquities of the J. Paul Getty Museum 10. Malibu: J. Paul Getty Museum."
     reference_for: "23"
 
   - short: Romano 1979
