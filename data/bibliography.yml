@@ -13,7 +13,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Bauer 1885
-    full: "Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: Gedruckter Vortrag."
+    full: "Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: printed lecture."
     reference_for: "1"
 
   - short: Benndorf 1898
@@ -824,7 +824,7 @@ biblio_list:
     full: "Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109."
     reference_for: "7"
 
-  - short: *Antichità* 1771
+  - short: <em>Antichità</em> 1771
     full: "Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia."
     reference_for: "7"
 
@@ -2186,7 +2186,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Invernizzi 1996
-    full: Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45.
+    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45."
     reference_for: "17"
 
   - short: Iozzo, M. 2015
@@ -2638,7 +2638,7 @@ biblio_list:
     reference_for: "20"
 
   - short: Dobruna-Salihu 2003–2004
-    full: "Dobruna-Salihu, E. 2003–2004. “Disa monumente sepulkrale dhe të kultit nga koha romake të gjetura me zbulime të rastit në Kosovë.” *Gjurmime Albanologjike* 33–34.
+    full: "Dobruna-Salihu, E. 2003–2004. “Disa monumente sepulkrale dhe të kultit nga koha romake të gjetura me zbulime të rastit në Kosovë.” *Gjurmime Albanologjike* 33–34."
     reference_for: "20"
 
   - short: Drini 2004
