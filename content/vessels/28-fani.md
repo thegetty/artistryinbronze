@@ -11,7 +11,7 @@ abstract: |
 weight: 505
 ---
 
-A bronze anthropomorphic vessel came onto the art market in Damascus in 1953. It was acquired by the late Émir Maurice Chéhab, then director-general of antiquities in Lebanon, who actively sought artifacts that had been excavated in his country and subsequently smuggled into Syria for sale. The vessel (inv. 25422) currently is on display at the National Museum of Beirut.
+A bronze anthropomorphic vessel came onto the art market in Damascus in 1953. It was acquired by the late Émir Maurice Chéhab, then director general of antiquities in Lebanon, who actively sought artifacts that had been excavated in his country and subsequently smuggled into Syria for sale. The vessel (inv. 25422) currently is on display at the National Museum of Beirut.
 
 The Beirut vessel has been discussed in the writings of Frances F. Jones and Valérie Marti-Clercx. Jones compares it to a bronze vessel that the Princeton University Museum acquired in the late 1980s. The bust is one of a group of Roman representations of young men, some of whom wear a *nebris* (fawn skin) over their shoulders and a few of whom wear a torque with a pendant around their necks.[^1] In her thesis, Marti-Clercx provides a typology of these vessels.[^2] The bust in the National Museum of Beirut was cast from the same mold as three others: one of unknown provenance conserved in the Princeton University Art Museum;[^3] one in the Louvre;[^4] and one in Sozopol, Bulgaria.[^5]
 
@@ -19,7 +19,7 @@ Since the object’s location was unknown to these scholars, neither of them had
 
 ## Description
 
-*The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#28.1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile and it is the same width as the nose. A gentle rounded curve constitutes the chin.
+*The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#28.1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained, and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile, and it is the same width as the nose. A gentle rounded curve constitutes the chin.
 
 <!-- {{< q-figure id="28.1" >}} -->
 
@@ -35,13 +35,13 @@ The shoulders and chest are roughly modeled, with the lower edge cut straight an
 
 The figure is draped in a *nebris*, the diagonal folds of which gather on the left shoulder, baring the right shoulder and nipple. One or two pairs of hooves fall across his chest and back, and rest near one another. The folds at front and back are almost identical and are decorated with hatching suggesting the texture of the fur. The right nipple is defined by an incised circle.
 
-*The Vessel*. The 1980s reproduction of a photo from the 1950s shows not only a circular pedestal foot, but also a spout affixed to the top the head. This hexagonal faceted spout has thick molding at the base and a curved rim decorated with a bead molding at the top ([fig. 28.5](#28.5)). A zoomorphic (lion?) handle was attached at the back. The pedestal foot and the spout are now detached from the bust and their present location is unknown. On the vessel currently displayed in the museum, there is no sign of an attachment for a handle; likewise the opening in the head shows no indication of hinges. The external black layer of the vessel is flaking and corrosion is present at the bottom.
+*The Vessel*. The 1980s reproduction of a photo from the 1950s shows not only a circular pedestal foot but also a spout affixed to the top of the head. This hexagonal faceted spout has thick molding at the base and a curved rim decorated with a bead molding at the top ([fig. 28.5](#28.5)). A zoomorphic (lion?) handle was attached at the back. The pedestal foot and the spout are now detached from the bust and their present location is unknown. On the vessel currently displayed in the museum, there is no sign of an attachment for a handle; likewise the opening in the head shows no indication of hinges. The external black layer of the vessel is flaking, and corrosion is present at the bottom.
 
 {{< q-figure id="28.5" >}}
 
 ## Making the Artifact
 
-*Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5–1 centimeter (1/4–3/8 in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#28.6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#28.8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 3/4 x 4 3/8 in.).
+*Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5 to 1 centimeter (1/4–3/8 in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#28.6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#28.8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working-model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 3/4 x 4 3/8 in.).
 
 {{< q-figure-group id="28.6, 28.7, 28.8" class="float-right" >}}
 
@@ -55,9 +55,9 @@ Antinous is also sometimes portrayed with an amulet suspended from a torque arou
 
 ## Eastern Connections?
 
-*Crescent Pendant*. The crescent is an ancient Near Eastern and, later, Hellenistic motif.[^15] It is the acknowledged symbol of two main deities: the Graeco-Roman Selene/Luna and the Anatolian god Men. In addition to the obvious lunar symbolism, the crescent may also represent the sky, especially when associated with a circular motif, which can be interpreted as the sun. It can also be considered a fertility symbol,[^16] or the symbol of the Phoenician Goddess Caelestis.[^17]
+*Crescent Pendant*. The crescent is an ancient Near Eastern and, later, Hellenistic motif.[^15] It is the acknowledged symbol of two main deities: the Graeco-Roman Selene/Luna and the Anatolian god Men. In addition to the obvious lunar symbolism, the crescent may also represent the sky, especially when associated with a circular motif, which can be interpreted as the sun. It can also be considered a fertility symbol[^16] or the symbol of the Phoenician goddess Caelestis.[^17]
 
-The crescent is attested in both the western and eastern parts of the Roman Empire. In Razgrad (Thrace), a female deity with possible connections to Atargatis or Dea Syria wears the lunar pendant.[^18] Examples have also been found in the Danube region dating to the second and third centuries AD,[^19] and in England in a second-century AD hoard.[^20] Further east, a goddess in Palmyra wears a prominent crescent;[^21] Nabatean deities and humans wear bead necklaces with lunar pendants;[^22] and crescents also feature on funerary stelae in South Syria.[^23] Crescents appear in the painted portraits of Roman Egypt, where the amulets have ball-shaped terminals like the one here.[^24]
+The crescent is attested in both the western and eastern parts of the Roman Empire. In Razgrad (Thrace), a female deity with possible connections to Atargatis or Dea Syria wears the lunar pendant.[^18] Examples have also been found in the Danube region dating to the second and third centuries AD,[^19] and in England in a second-century AD hoard.[^20] Farther east, a goddess in Palmyra wears a prominent crescent;[^21] Nabatean deities and humans wear bead necklaces with lunar pendants;[^22] and crescents also feature on funerary stelae in South Syria.[^23] Crescents appear in the painted portraits of Roman Egypt, where the amulets have ball-shaped terminals like the one here.[^24]
 
 In Lebanon, crescents with ball-shaped terminals have not yet been attested in jewelry, but some examples were discovered in a spring in the city of Baalbek/Heliopolis as votive standards.[^25] Children wearing torques with other amulets are known from the Beka’a plain.[^26]
 
@@ -65,7 +65,7 @@ Most of the anthropomorphic vessels like the one in the Beirut Museum have been 
 
 *Bead Molding*. The only other example of large bead molding occurring on anthropomorphic bronze vessels is a ewer with silver inlays. It depicts the head of a woman whose brow is adorned by two rows of beads; a third row is strung across her neck.[^28] It is part of the Esquiline treasure, consisting mainly of silver artifacts, found in Rome in 1793. The bulk of the treasure has been dated to the fourth or early fifth century AD. The ewer has not been given a precise date within the Roman period,[^29] but it seems that it cannot be older than the third century AD.
 
-Bead moldings appeared on silver vessels by the mid-third century AD[^30] and were common during the fourth to the fifth centuries AD.[^31] The punch-and-die technique used on these vessels was different from bronze casting.[^32] Silver vessels with cast beads have been found in Nubia, in Tomb 37 of Ballana. They were discovered with objects decorated with depictions of Venus and Isis, and they date from the third to the sixth century AD.[^33]
+Bead moldings appeared on silver vessels by the mid-third century AD[^30] and were common during the fourth to the fifth century AD.[^31] The punch-and-die technique used on these vessels was different from bronze casting.[^32] Silver vessels with cast beads have been found in Nubia, in Tomb 37 of Ballana. They were discovered with objects decorated with depictions of Venus and Isis, and they date from the third to the sixth century AD.[^33]
 
 The date of the Beirut vessel is probably no earlier than the third century AD, the earliest century in which cast bead molding is attested.
 
@@ -91,9 +91,9 @@ This anthropomorphic bronze vessel with its footed pedestal reminds us of Roman 
 
 [^8]: Radnóti 1938, plate 55, fig. 2; Jones 1987, 23; Marti 1996, 981–82, 988; Marti-Clercx 1999, 172, 192, 194; Marti-Clercx and Mille 2002, 385–86.
 
-[^9]: De Ridder 1905, 192, plate 45, no. 278. There are other numerous examples of plastic *oinochoai*; see De Ridder 1915, 131–32, plate 104, nos. 2955–56.
+[^9]: De Ridder 1905, 192, plate 45, no. 278. There are other numerous examples of plastic oinochoai; see De Ridder 1915, 131–32, plate 104, nos. 2955–56.
 
-[^10]: Mambella 2008, 150, 152, 159, 195, figs. 134–35, 139, 184; Sapelli Ragni 2012, 65. However, we cannot systematically identify the young men so depicted as Antinous. Rather, these are elements inspired by his portraits. See Jones 1987, 17; Nenova-Merdjanova 1995, 55; Marti 1996, 992; Marti-Clercx 1999, 62–64, 79–81, 190; Marti-Clercx and Mille 2002, 385; Mustata 2010, 52;
+[^10]: Mambella 2008, 150, 152, 159, 195, figs. 134–35, 139, 184; Sapelli Ragni 2012, 65. However, we cannot systematically identify the young man so depicted as Antinous. Rather, these are elements inspired by his portraits. See Jones 1987, 17; Nenova-Merdjanova 1995, 55; Marti 1996, 992; Marti-Clercx 1999, 62–64, 79–81, 190; Marti-Clercx and Mille 2002, 385; Mustata 2010, 52.
 
 [^11]: Mambella 2008, 181, figs. 41, 58, 75; Sapelli Ragni 2012, 69, 75, 116–18.
 
@@ -101,7 +101,7 @@ This anthropomorphic bronze vessel with its footed pedestal reminds us of Roman 
 
 [^13]: Williams and Ogden 1994, 137.
 
-[^14]: Tacheva-Hitova 1983, 253– 54, 257; Kazanski and Mastykova 2007, 22.
+[^14]: Tacheva-Hitova 1983, 253–54, 257; Kazanski and Mastykova 2007, 22.
 
 [^15]: Colledge 1976, 212–13; Bernier 1994; Elmasri et al. 2012, 162.
 
@@ -137,7 +137,7 @@ This anthropomorphic bronze vessel with its footed pedestal reminds us of Roman 
 
 [^31]: Painter 1977, 12–14; Cahn and Kaufmann-Heinimann 1984, 190–91, 283; Baratte et al. 2002, 20, 28.
 
-[^32]: Lang and Holmes 1983, 201–205.
+[^32]: Lang and Holmes 1983, 201–5.
 
 [^33]: Emery 1948, 33, 58–60, plates 44, 46.
 
