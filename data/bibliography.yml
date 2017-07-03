@@ -580,10 +580,6 @@ biblio_list:
     full: "Kabus-Preisshofen, R. 1989. *Die hellenistische Plastik der Insel Kos*, AM Beih. 14. Berlin: Mann."
     reference_for: "4"
 
-  - short: Katsikoudis 2005
-    full: "Katsikoudis, N. T. 2005. *Δωδώνη: Οι τιμητικοί ανδριάντες*. Ioannina: Hetaireia Epeirotikon Meleton."
-    reference_for: "4"
-
   - short: Kotsidu 2000
     full: "Kotsidu, H. 2000. *ΤΙΜΗ ΚΑΙ ΔΟΞΑ: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie."
     reference_for: "4"
@@ -613,7 +609,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Messina 2007
-    full: "Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama Museu civico d’arte antica. Silvana: Cinisello Balsamo."
+    full: "Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama. Museo Civico d’Arte Antica. Silvana: Cinisello Balsamo."
     reference_for: "4"
 
   - short: Mørkholm 1991
@@ -645,7 +641,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Saatsoglou-Paliadeli 2004
-    full: "Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens."
+    full: "Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens: Archaeological Society of Athens.
     reference_for: "4"
 
   - short: Schwarzmaier et al. 2012

@@ -7,11 +7,11 @@ contributor:
    last_name: Palagia
    affiliation: University of Athens
 abstract: |
-    The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband was found in the sea near Kalymnos in the 1990s. The cuirassed torso of an over-life-size horseman was recently found in the same area. They may well belong together, though further study is needed before any conclusion can be reached.
+    The over-life-size head of a bearded man wearing a *kausia*, the Macedonian elite hat, and a padded headband was found in the sea near Kalymnos in 1997.
 
     Representations of Macedonians wearing *kausias* in Macedonian wall-paintings, for example, the hunting frieze of Vergina Tomb II and the banquet frieze of the Tomb of Agios Athanasios, do not include headbands. Only Macedonian kings could wear the *kausia* with a cloth diadem, its ends falling down the back, according to a custom introduced by Alexander the Great. This headgear is documented by the ancient sources, by the coins of Seleukos II and of Antimachos I of Bactria, and by a wall-painting from Boscoreale portraying a Macedonian king.
 
-    The Kalymnos head does not, strictly speaking, wear a royal diadem since its tail ends do not fall down his back, and it has consequently been argued that it is not a royal portrait. The size of the statue, however, militates against a private portrait. The padded headband may indicate posthumous heroization by analogy with the posthumous coin portraits of Seleukos I and Philetairos, shown wearing a padded headband instead of a diadem. It is argued here that the Kalymnos head portrays a Macedonian king who was divinized after death, very likely Philip V, who was posthumously worshipped at Amphipolis.
+    The Kalymnos head does not, strictly speaking, wear a royal diadem since its tail ends do not fall down his back, and it has consequently been argued that it is not a royal portrait. However, the similarity of the bronze head to a marble head of the second century BC from Kos wearing a royal diadem indicates that he is a king. As both the Kalymnos and Kos heads resemble the coin portraits of Philip V of Macedon, it is suggested that they are portraits of this king.
 
 weight: 104
 ---
@@ -36,7 +36,7 @@ An earlier version of the *kausia*, closer to Alexander the Great’s own time, 
 
 Alexander’s royal diadem was adopted by the Successors as a sign of royalty from 306 BC on. Plutarch, in his *Life of Demetrios* (18), provides a vivid description of the assumption of the diadem by Antigonos the One-Eyed and remarks that Ptolemy I and Lysimachos followed his example soon thereafter.[^26] Ptolemy I was the first to depict himself wearing a diadem on his coins.[^27] The diadem continued to serve as royal insignia until the end of the Hellenistic period.
 
-It is of course quite obvious that the bronze head (see [figs. 4.1–3](#4.1)) does not wear a royal diadem. Could he be a Macedonian king? Or is he one of the king’s friends, who were entitled to wear a *kausia* without a diadem? Equestrian bronze statues of high officials of the Macedonian kingdom voted by the Greek cities are attested as early as the late fourth century. For example, the Athenians honored Asandros with a statue in the Agora in 314/13 BC, while the Eritreans set up a statue of Timotheos in 309 BC.[^28]
+It is of course quite obvious that the bronze head (see [figs. 4.1–3](#4.1)) does not wear a royal diadem. Could he be a Macedonian king? Or is he one of the king’s friends, who were entitled to wear a *kausia* without a diadem? Equestrian bronze statues of high officials of the Macedonian kingdom voted by the Greek cities are attested as early as the late fourth century. For example, the Athenians honored Asandros with a statue in the Agora in 314/13 BC, while the Eretrians set up a statue of Timotheos in 309 BC.[^28]
 
 The head with *kausia* from near Kalymnos preserves no royal insignia. Could he still be a royal? The answer lies on Kos. A fragmentary portrait head in Parian marble ([figs. 4.6–7](#4.6)), showing almost certainly the same man and being of the same scale as the bronze head, comes from an unknown findspot on Kos.[^29] The marble head has the same oval-shaped face, large ears, drooping eyelids, sideburns, and short beard as the bronze head (see [figs. 4.1–3](#4.1)). It differs in having luxuriant locks over the ears, but these may indicate a slight change of hairstyle or may be due to the fact that the hair is not constrained by a hat. The marble head differs in another crucial detail: it wears a royal diadem, visible on the right profile;[^30] it therefore portrays a Hellenistic king.
 
@@ -58,9 +58,9 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^2]: Kalymnos Museum, inv. 3903; Tzalas 2007, 362, fig. 38; Palagia 2013, 154–56, figs. 9.7–8; Koutsouflakis and Simosi 2015, 74–75, fig. 5.1.
 
-[^3]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2006/1; Koutsouflakis 2007, 42–45, figs. 1–2; Koutsouflakis and Simosi 2015, 75–76, fig. 5.4.
+[^3]: Athens, Ephorate of Underwater Antiquities, inv. BE 2006/1; Koutsouflakis 2007, 42–45, figs. 1–2; Koutsouflakis and Simosi 2015, 75–76, fig. 5.4.
 
-[^4]: Athens, Hellenic Ephorate of Underwater Antiquities, inv. BE 2009/28; Koutsouflakis and Simosi 2015, 75–76, fig. 5.3.
+[^4]: Athens, Ephorate of Underwater Antiquities, inv. BE 2009/28; Koutsouflakis and Simosi 2015, 75–76, fig. 5.3.
 
 [^5]: Koutsouflakis and Simosi 2015. See this paper also for further bronzes recovered from the sea near Kalymnos.
 
@@ -78,7 +78,7 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^12]: Xenophon *Cyropaedia* 8.3.13. See also Wiesehöfer 2012.
 
-[^13]: Ephippos ap. Athens 12.537e; Arrian *Anabasis* 7.22.2. See also Lane Fox 2007, 278; Dahmen 2012; Palagia 2014, 212–13.
+[^13]: Ephippos ap. Athenaios 12.537e; Arrian *Anabasis* 7.22.2. See also Lane Fox 2007, 278; Dahmen 2012; Palagia 2014, 212–13.
 
 [^14]: Plutarch *Demetrius* 41.4. For rulers wearing a *kausia* with a diadem, see [fig. 4.5](#4.5) and nn. 8–10 above.
 
@@ -108,7 +108,7 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^27]: On his gold coins minted in the early third century BC: Lorber 2012, 213, fig. 12.4.
 
-[^28]: Asandros: *IG* 450, ll. 10–15; Wycherley 1957, 208, no. 278; Siedentopf 1968, 83, no. 1; Ma 2013, 129. Timotheos: Siedentopf 1968, 83, no. 2; Ma 2013, 129.
+[^28]: Asandros: *IG*<sup>2</sup> 450, ll. 10–15; Wycherley 1957, 208, no. 278; Siedentopf 1968, 83, no. 1; Ma 2013, 129. Timotheos: Siedentopf 1968, 83, no. 2; Ma 2013, 129.
 
 [^29]: Kos Museum, inv. 82; Kabus-Preisshofen 1989, 102–105, 280–81, no. 79, plate 28.1–2.
 
