@@ -495,7 +495,6 @@ figure_list:
       Statue of an ephebe from the Bay of Marathon, detail of left hand. Athens, National Archaeological Museum, inv. 15.118.
     credit: >
 
-
   - id: "9.1"
     src: fig_9.01_Adornato.jpg
     caption: >
@@ -506,7 +505,7 @@ figure_list:
   - id: "9.2"
     src: fig_9.02_Adornato.jpg
     caption: >
-      Base of Hegelochos. Athens, Acropolis Museum, inv. 13206 (after Keesling 2003)
+      Base of Hegelochos. Athens, Acropolis Museum, inv. 13206
     credit: >
       Image: © Hellenic Ministry of Culture and Sports
 
@@ -515,7 +514,7 @@ figure_list:
     caption: >
       Base of [. . .]as and Ophsios. Athens, Acropolis Museum, inv. 13270.
     credit: >
-      Image: © Hellenic Ministry of Culture and Sports
+      Image: Socratis Mavrommatis © Acropolis Museum
 
   - id: "9.4"
     src: fig_9.04_Adornato.jpg
