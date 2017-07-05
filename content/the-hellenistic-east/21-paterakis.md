@@ -4,7 +4,7 @@ title: The Influence of East and West on Bronze Objects Found in Central Anatoli
 subtitle: Small Bronze Finds from Kaman-Kalehöyük
 type: essay
 contributor:
- - first_name: Salice Boccia
+ - first_name: Alice Boccia
    last_name: Paterakis
    affiliation: Japanese Institute of Anatolian Archaeology, Kaman
  - first_name: Sachihiro
