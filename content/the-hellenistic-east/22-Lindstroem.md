@@ -1,4 +1,4 @@
-idem ---
+---
 id: "22"
 title: The Portrait of a Hellenistic Ruler in the National Museum of Iran
 type: essay
@@ -73,7 +73,7 @@ This work was supported by the Fritz Thyssen Stiftung. My thanks go also to Dr. 
 
 [^1]: The account of the discovery follows the report by Stein 1938 and 1940.
 
-[^2]: Canepa 2015, 85–87, fig. 6.4.
+[^2]: Godard 1937, 285-305, fig 115-18; Stein 1940, 130-32, fig. 46-47; Ghirshman 1962, 89, fig. 99; Kawami 1987, 169, pl. 11; Canepa 2015, 85–87, fig. 6.4.
 
 [^3]: First reports are Stein 1936 and 1938. The final report is included in Stein 1940, 130–35, 141–58.
 
