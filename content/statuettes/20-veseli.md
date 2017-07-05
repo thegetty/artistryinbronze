@@ -1,7 +1,6 @@
 ---
 id: "20"
-title: Representations of Zeus/Jupiter in the Small-Scale Bronze
-subtitle: Sculptures of Albania
+title: Representations of Zeus/Jupiter in bronze statuettes from Albania
 type: essay
 contributor:
  - first_name: Sabina
