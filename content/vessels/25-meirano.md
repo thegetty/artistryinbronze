@@ -90,7 +90,7 @@ The research on metal vessels and related *instrumenta* at Delphi is conducted i
 
 [^10]: Luce 2008.
 
-[^11]: Meirano 2015–2016 and Meirano 2016.
+[^11]: Meirano, forthcoming (a), and Meirano 2016.
 
 [^12]: Tarditi 2016a; Tarditi 2016b; and her paper in this volume.
 
@@ -100,11 +100,11 @@ The research on metal vessels and related *instrumenta* at Delphi is conducted i
 
 [^15]: Meirano 2016.
 
-[^16]: The bronze objects are particularly fragmentary at Delphi; they are often badly preserved and in some cases in need of conservation. These circumstances do not facilitate the identification of the “minimum number of individuals”: see Meirano 2015–2016.
+[^16]: The bronze objects are particularly fragmentary at Delphi; they are often badly preserved and in some cases in need of conservation. These circumstances do not facilitate the identification of the “minimum number of individuals”: see Meirano, forthcoming (a).
 
 [^17]: See, for example, the remarks about the occurrence of various kinds of weapons in the sanctuary of Olympia—and their implications—recently made by Graells i Fabregat (2016, 149 and fig. 1).
 
-[^18]: Meirano, forthcoming.
+[^18]: Meirano, forthcoming (b).
 
 [^19]: For a review of the find contexts of embossed rim basins in Greece, with further bibliography, see Meirano 2004, 306; Meirano 2012, 96; Baitinger 2013, 251–52.
 
@@ -126,4 +126,4 @@ The research on metal vessels and related *instrumenta* at Delphi is conducted i
 
 [^28]: For the practice of selective or partial dedication of metal vessels in western Greek sacred contexts, see Meirano 2014, 34; see also Meirano 2016. Concerning the separated offering of cuirass breastplates and back-plates at Olympia and in other Greek sanctuaries, see Graells i Fabregat 2016, 152–53.
 
-[^29]: Frielinghaus 2007, 147. See Meirano 2015–2016 and Meirano 2016 for further bibliography on this practice, also regarding mirrors, vases, and other types of weapons in Greek sanctuaries of southern Italy. For the deliberate damage to bronze objects at Olympia, see Frielinghaus 2006; Frielinghaus 2011, 185–200; about this practice regarding bronze cuirasses at Olympia, the destruction steps, and possible meanings, see Graells i Fabregat 2016.
+[^29]: Frielinghaus 2007, 147. See Meirano, forthcoming (a) and Meirano 2016 for further bibliography on this practice, also regarding mirrors, vases, and other types of weapons in Greek sanctuaries of southern Italy. For the deliberate damage to bronze objects at Olympia, see Frielinghaus 2006; Frielinghaus 2011, 185–200; about this practice regarding bronze cuirasses at Olympia, the destruction steps, and possible meanings, see Graells i Fabregat 2016.
