@@ -16,13 +16,13 @@ The question of original function is of great importance in our attempts to unde
 
 The following examples provide a useful illustration of this methodological approach. Under consideration here are sheet-metal silhouette figures dating to the Hellenistic and Roman periods. The figures are cut from flat bronze sheets about 1 to 3 millimeters in thickness; internal details are incised. Sheet-metal silhouettes with similar features can also be found in the Archaic,[^1] Classical,[^2] and early medieval[^3] periods, but these sheets and all questionable pieces[^4] are only touched upon here for technical and aesthetic comparisons to the silhouettes of individual figures.
 
-I begin my analysis with the silhouette of a dancing warrior in Berlin’s Antikensammlung (cat. 1; [fig. 34.1](#34.1)). The helmeted warrior (H 10.5 cm) wears a short cloak slung around his waist, and appears to be holding a short knife in the right hand. Spread across his torso is a row of short, mostly parallel incisions, which, to judge from two similar examples, represents either a tightly fitting vest or body hair.[^5]
+I begin my analysis with the silhouette of a dancing warrior in Berlin’s Antikensammlung (cat. 1; [fig. 34.1](#34.1)). The helmeted warrior (H: 10.5 cm) wears a short cloak slung around his waist, and appears to be holding a short knife in the right hand. Spread across his torso is a row of short, mostly parallel incisions, which, to judge from two similar examples, represents either a tightly fitting vest or body hair.[^5]
 
 {{< q-figure id="34.1" >}}
 
-Also in Berlin is a long vine leaf sheet with richly incised detail (cat. 2). In the middle, one of two tendrils is framed by an Apollonian cult-statue (a Baitylos); on the edges of the leaf there are masks and ritual objects, including baskets and tympana.
+Also in Berlin is a long vine-leaf sheet with richly incised detail (cat. 2). In the middle, one of two tendrils is framed by an Apollonian cult-statue (a Baitylos); on the edges of the leaf there are masks and ritual objects, including baskets and tympana.
 
-For comparison, I cite nine individual silhouette figures and a group from Tajikistan. The nine are: a Mercury from Chur in Switzerland (cat. 3; [fig. 34.2](#34.2)); a dancing girl from the excavations in Tel Dor (Israel) (cat. 4; [fig. 34.3](#34.3)); an Apollo with kithara and griffin in Lyon (cat. 6; [fig. 34.4](#34.4)); a seated griffin facing right (H 3.9 cm) on the art market (cat. 13); a pantheistic goddess with torch and polos in Munich (so far the only silhouette figure with a border) (cat. 7; [fig. 34.5](#34.5)); a dwarf in Parma with very crudely incised interior drawing (cat. 8; [fig. 34.6](#34.6)); a Victoria originally shown inscribing a shield in Reggio Emilia (cat. 9; [fig. 34.7](#34.7)); a silhouette of a dancing satyr in the Santa Barbara Museum of Art (cat. 11); a satyr with wineskin and kantharos in the Museo Gregoriano Profano at the Vatican (cat. 10; [fig. 34.8](#34.8)); and an offering jug in Verona (cat. 12).
+For comparison, I cite nine individual silhouette figures and a group from Tajikistan. The nine are a Mercury from Chur in Switzerland (cat. 3; [fig. 34.2](#34.2)); a dancing girl from the excavations in Tel Dor (Israel) (cat. 4; [fig. 34.3](#34.3)); an Apollo with kithara and griffin in Lyon (cat. 6; [fig. 34.4](#34.4)); a seated griffin facing right (H: 3.9 cm) on the art market (cat. 13); a pantheistic goddess with torch and polos in Munich (so far the only silhouette figure with a border) (cat. 7; [fig. 34.5](#34.5)); a dwarf in Parma with very crudely incised interior drawing (cat. 8; [fig. 34.6](#34.6)); a Victoria originally shown inscribing a shield in Reggio Emilia (cat. 9; [fig. 34.7](#34.7)); a silhouette of a dancing satyr in the Santa Barbara Museum of Art (cat. 11); a satyr with wineskin and kantharos in the Museo Gregoriano Profano at the Vatican (cat. 10; [fig. 34.8](#34.8)); and an offering jug in Verona (cat. 12).
 
 {{< q-figure-group id="34.2, 34.3, 34.4, 34.5, 34.6, 34.7, 34.8" grid="2" >}}
 
@@ -34,7 +34,7 @@ So far as is known, the backs of the silhouette figures are all flat. We might t
 
 The most important features of the silhouette figures can be summarized as follows:
 
-1.  Silhouette figures on sheet metal that can be dated to the Late Hellenistic and Roman periods are extremely rare. Despite an extensive search, this catalog consists of only thirteen examples.
+1.  Silhouette figures on sheet metal that can be dated to the Late Hellenistic and Roman periods are extremely rare. Despite an extensive search, this catalogue consists of only thirteen examples.
 
 2.  The findspots reveal a wide geographic spread, from France (cat. 6) and Switzerland (cat. 3) to Israel (cat. 4) and Tajikistan (cat. 5). A cluster appears to be in northern Italy, as indicated by the silhouette figures in Reggio Emilia (cat. 9), Veleia (cat. 8), and Verona (cat. 12).
 
@@ -50,33 +50,33 @@ Both literary references and a few figural representations indicate that figural
 
 Of particular interest is a miniature bronze kithara, which the Akademisches Kunstmuseum of the University of Bonn purchased in 2009.[^8] The kithara, which originally must have been the attribute of a statuette of Apollo, preserves inlays in different metals on both sides, in imitation of intarsia. On the inner side is a theatrical mask and on the outer side there is a seated Eros. Similarly, we can propose that most of the silhouette-figures were used to adorn actual wooden musical instruments.
 
-## Catalog
+## Catalogue
 
-Cat. 1: Armed dancer. Berlin, Antikensammlung – Staatliche Museen zu Berlin, inv. 31631. H 10.5 cm. D 0.12 cm. Said to be from Etruria. Purchased ca. 1936/37 from the collection of Dr. Albert Figdor, Vienna. Published: Franken 2011 (31631). [fig. 34.1](#34.1).
+Cat. 1: Armed dancer. Berlin, Antikensammlung – Staatliche Museen zu Berlin, inv. 31631. H: 10.5 cm. D: 0.12 cm. Said to be from Etruria. Purchased ca. 1936/37 from the collection of Dr. Albert Figdor, Vienna. Published: Franken 2011 (31631). [Fig. 34.1](#34.1).
 
-Cat. 2. Vine leaf. Berlin, Antikensammlung – Staatliche Museen zu Berlin, inv. Fr. 1552 l. H 11.4 cm. W 9.8 cm. D 0.1–0.3 cm. Findspot unknown. Purchased in 1869 from the estate of Eduard Gerhard. Published: Friederichs 1871, 326, no. 1552 l; Franken 2011 (Fr. 1552 l).
+Cat. 2. Vine leaf. Berlin, Antikensammlung – Staatliche Museen zu Berlin, inv. Fr. 1552 l. H: 11.4 cm. W: 9.8 cm. D: 0.1–0.3 cm. Findspot unknown. Purchased in 1869 from the estate of Eduard Gerhard. Published: Friederichs 1871, 326, no. 1552 l; Franken 2011 (Fr. 1552 l).
 
-Cat. 3. Mercury, probably inlaid in wood. Chur, Rätisches Museum, inv. 67/112. H 6.5 cm. Found in 1967 during excavation of the marketplace in Chur. Published: Siegfried-Weiss 1991, 146, plate 55.1; 80.5. H 6.5 cm. Punched and cut decoration. Dated to the second or third century AD by stylistic similarity to a weapon with inlaid bronze and silver figures on an iron sword. [fig. 34.2](#34.2).
+Cat. 3. Mercury, probably inlaid in wood. Chur, Rätisches Museum, inv. 67/112. H: 6.5 cm. Found in 1967 during excavation of the marketplace in Chur. Published: Siegfried-Weiss 1991, 146, plate 55.1; 80.5. H: 6.5 cm. Punched and cut decoration. Dated to the second or third century AD by stylistic similarity to a weapon with inlaid bronze and silver figures on an iron sword. [Fig. 34.2](#34.2).
 
-Cat. 4. Female dancer. Dor, Tel Dor Archaeological Expedition. H 8.2 cm. Found in 1988 in the excavations of Area F at Del Dor. Published: Stern 1994, plate 6.1; Wolff 1994, 506, fig. 30. [fig. 34.3](#34.3).
+Cat. 4. Female dancer. Dor, Tel Dor Archaeological Expedition. H: 8.2 cm. Found in 1988 in the excavations of Area F at Tel Dor. Published: Stern 1994, plate 6.1; Wolff 1994, 506, fig. 30. [Fig. 34.3](#34.3).
 
-Cat. 5. Cupids. Dushanbe, National Museum of Antiquities of Tajikistan, inv. TS 264, 265, 269‒71, 807, 825, 846, 1250, 2158, 7926, o.Nr./1091. H 1.5–6.4 cm. W 1.5–5.3 cm. D 0.05–0.2 cm. From the Oxus Temple (Tajikistan). Published: Dushanbe 1985, 95, no. 225–32, fig. S. 81; Zürich 1989, 48, no. 19 with fig. (Eros; incorrectly described as gilded bronze, dated to first century AD); Rome 1993, 35‒36, no. 18 with ill. (Eros); Lindström 2009, 363, no. 258, with ill. (dated first–second century AD).
+Cat. 5. Cupids. Dushanbe, National Museum of Antiquities of Tajikistan, inv. TS 264, 265, 269‒71, 807, 825, 846, 1250, 2158, 7926, o.Nr./1091. H: 1.5–6.4 cm. W: 1.5–5.3 cm. D: 0.05–0.2 cm. From the Oxus Temple (Tajikistan). Published: Dushanbe 1985, 95, no. 225–32, fig. S. 81; Zürich 1989, 48, no. 19 with fig. (Eros; incorrectly described as gilded bronze, dated to first century AD); Rome 1993, 35‒36, no. 18 with ill. (Eros); Lindström 2009, 363, no. 258, with ill. (dated first–second century AD).
 
-Cat. 6. Apollo. Lyon, Musée gallo-romaine, inv. Br 26. H 8 cm. Said to be from Lyon, given to the museum in 1890. Published: Bazin 1891, 377, fig. 223; Reinach 1910, 50.2; Boucher 1976, 131; Boucher and Tassinari 1976, 34, no. 26, with ill. [fig. 34.4](#34.4).
+Cat. 6. Apollo. Lyon, Musée gallo-romaine, inv. Br 26. H: 8 cm. Said to be from Lyon, given to the museum in 1890. Published: Bazin 1891, 377, fig. 223; Reinach 1910, 50.2; Boucher 1976, 131; Boucher and Tassinari 1976, 34, no. 26, with ill. [Fig. 34.4](#34.4).
 
-Cat. 7. Goddess. Munich, Staatliche Antikensammlungen und Glyptothek, inv. NI 4536. H 11.1 cm. W 5.9 cm. D ca. 0.09 cm. Findspot unknown. Purchased in 2002 from the art market. Published: Kunstobjekte der Antike 2002, 64–65, no. 3314, fig. p. 6; Schmölder-Veit 2002, 291‒92 (with date in first century AD); Knauß 2002, 313, fig. 21.11; 585, cat. 380. [fig. 34.5](#34.5).
+Cat. 7. Goddess. Munich, Staatliche Antikensammlungen und Glyptothek, inv. NI 4536. H: 11.1 cm. W: 5.9 cm. D: ca. 0.09 cm. Findspot unknown. Purchased in 2002 from the art market. Published: *Kunstobjekte der Antike* 2002, 64–65, no. 3314, fig. p. 6; Schmölder-Veit 2002, 291‒92 (with date in first century AD); Knauß 2002, 313, fig. 21.11; 585, cat. 380. [Fig. 34.5](#34.5).
 
-Cat. 8. Dwarf. Parma, Museo d’Antichità, inv. B 416. H 8.3 cm. D 0.5 cm. From Veleia (inv. 1952, no. 345). Published: D’Andria 1970, 100, no. 156, plate 32. [fig. 34.6](#34.6).
+Cat. 8. Dwarf. Parma, Museo d’Antichità, inv. B 416. H: 8.3 cm. D: 0.5 cm. From Veleia (inv. 1952, no. 345). Published: D’Andria 1970, 100, no. 156, plate 32. [Fig. 34.6](#34.6).
 
-Cat. 9. Victoria. Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, inv. 15242. H 12.9 cm. From the surroundings of Reggio Emilia. Published: Bolla 2007/2011, 68–69, no. 46, with ill. [fig. 34.7](#34.7).
+Cat. 9. Victoria. Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, inv. 15242. H: 12.9 cm. From the surroundings of Reggio Emilia. Published: Bolla 2007/2011, 68–69, no. 46, with ill. [Fig. 34.7](#34.7).
 
-Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [fig. 34.8](#34.18).
+Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H: 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [Fig. 34.8](#34.18).
 
-Cat. 11. Dancing satyr. Santa Barbara, Santa Barbara Museum of Art, inv. 1981.64.18. H 18.4 cm. Findspot unknown. Unpublished.
+Cat. 11. Dancing satyr. Santa Barbara, Santa Barbara Museum of Art, inv. 1981.64.18. H: 18.4 cm. Findspot unknown. Unpublished.
 
-Cat. 12. Offering jug. Verona, Museo Archeologico, inv. 22124. H 11.6 cm. Found in 1891 in Verona on the banks of the Adige River. Published: Bolla 1999, 210, 230, fig. 54, plate 75.
+Cat. 12. Offering jug. Verona, Museo Archeologico, inv. 22124. H: 11.6 cm. Found in 1891 in Verona on the banks of the Adige River. Published: Bolla 1999, 210, 230, fig. 54, plate 75.
 
-Cat. 13. Seated griffin. Art market. H 3.9 cm. Findspot unknown. Published: *Antiken* 2011, 40, no. 1095, plate 74 (there incorrectly identified as Byzantine).
+Cat. 13. Seated griffin. Art market. H: 3.9 cm. Findspot unknown. Published: *Antiken* 2011, 40, no. 1095, plate 74 (there incorrectly identified as Byzantine).
 
 ## Acknowledgments
 
@@ -90,12 +90,12 @@ A lively discussion followed my presentation on October 17, 2015, at the 19th In
 
 [^3]: Fuchs 1940, 110–13, plates 13–16 (sheets serving as shield devices).
 
-[^4]: Among them is a victorious charioteer in a broad frame from Aquileia: Brusin 1934, 137, 139, no. 4, fig. 77; a pigeon on a globe from a tomb in Bavai: Faider-Feytmans 1957, 85, no. 163, plate 32; also a dolphin said to be incised on both sides in Bonn: Menzel 1986, 72, no. 166, plate 83.
+[^4]: Among them are a victorious charioteer in a broad frame from Aquileia: Brusin 1934, 137, 139, no. 4, fig. 77; a pigeon on a globe from a tomb in Bavai: Faider-Feytmans 1957, 85, no. 163, plate 32; also a dolphin said to be incised on both sides in Bonn: Menzel 1986, 72, no. 166, plate 83.
 
 [^5]: For instance on the silhouette figure of a griffin (cat. 13; art market).
 
-[^6]: Behn 1954, 85, plate 51, 117 b; Vendries 1999, 50–52, plate 1. A date in the second to third centuries AD, suggested by Vendries on the basis of style can in the case of the lyre’s secondary use provide only a *terminus post quem*.
+[^6]: Behn 1954, 85, plate 51, 117 b; Vendries 1999, 50–52, plate 1. A date in the second to third centuries AD, suggested by Vendries on the basis of style, can in the case of the lyre’s secondary use provide only a *terminus post quem*.
 
 [^7]: Vendries 1999, 88–95, plate 8c (other examples are at least in part the result of modern restorations).
 
-[^8]: Bonn, Akademisches Kunstmuseum. H 7.8 cm. W 6.2 cm: Ars Antiqua 1959, 35, no. 90, plate 43.
+[^8]: Bonn, Akademisches Kunstmuseum. H: 7.8 cm. W: 6.2 cm: Ars Antiqua 1959, 35, no. 90, plate 43.
