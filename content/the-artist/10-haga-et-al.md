@@ -1,6 +1,6 @@
 ---
 id: "10"
-title: Polykleitos at Work
+title: Polykleitos and His Followers at Work
 subtitle: How the Doryphoros Was Used
 type: essay
 contributor:
@@ -24,7 +24,7 @@ contributor:
    affiliation: National Institute of Advanced Industrial Science and Technology, Japan
  - first_name: Katsushi
    last_name: Ikeuchi
-   affiliation: Microsoft Research, Japan
+   affiliation: Microsoft Research Asia, Beijing
 abstract: |
     Our 3D shape comparison methods enable us to distinguish millimeter-sized differences between statues. They have shown that, at least in terms of facial and feet areas, “exact” marble Roman copies are actually quite precise. We have also demonstrated that the face shapes of the copies of the Doryphoros, the Diadumenos, and the Sosikles Amazon are almost identical. Adding to these previous results, it is newly demonstrated that the facial features of the Sciarra Amazon are close to those of the Pericles by Kresilas. The face shape of the statue of Diomedes, often attributed to Kresilas, does not match that of the Sciarra Amazon but is rather close to that of the Doryphoros. Through this method, it has been proven that the Sosikles Amazon was made by Polykleitos, the Sciarra Amazon by Kresilas, and the Diomedes statue by a disciple of Polykleitos.
 weight: 202
@@ -116,7 +116,7 @@ For generous permission and kind assistance during the scanning, I am particular
 
 [^4]: Franciosi 2003.
 
-[^5]: For technical details, see Zhang et al. 2013, 58–59. (The preliminary results regarding Polykleitos’s Amazon, on p. 60 of that paper, are to be corrected. See Sengoku-Haga 2015.)
+[^5]: For technical details, see Zhang et al. 2013, 58–59. (The preliminary results regarding Polykleitos’s Amazon, on p. 60 of that paper, are to be corrected. See Sengoku-Haga et al. 2015.)
 
 [^6]: Pfanner 1989.
 

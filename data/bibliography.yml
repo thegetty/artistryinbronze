@@ -13,7 +13,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Bauer 1885
-    full: "Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: Gedruckter Vortrag."
+    full: "Bauer, A. 1885. *Über die Reinigung der Monumente*. Vienna: printed lecture."
     reference_for: "1"
 
   - short: Benndorf 1898
@@ -580,10 +580,6 @@ biblio_list:
     full: "Kabus-Preisshofen, R. 1989. *Die hellenistische Plastik der Insel Kos*, AM Beih. 14. Berlin: Mann."
     reference_for: "4"
 
-  - short: Katsikoudis 2005
-    full: "Katsikoudis, N. T. 2005. *Δωδώνη: Οι τιμητικοί ανδριάντες*. Ioannina: Hetaireia Epeirotikon Meleton."
-    reference_for: "4"
-
   - short: Kotsidu 2000
     full: "Kotsidu, H. 2000. *ΤΙΜΗ ΚΑΙ ΔΟΞΑ: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie."
     reference_for: "4"
@@ -613,7 +609,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Messina 2007
-    full: "Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama Museu civico d’arte antica. Silvana: Cinisello Balsamo."
+    full: "Messina, V., ed. 2007. *Sulla via di Alessandro: da Seleucia al Gandhara*. Exh. cat. Turin, Palazzo Madama. Museo Civico d’Arte Antica. Silvana: Cinisello Balsamo."
     reference_for: "4"
 
   - short: Mørkholm 1991
@@ -645,7 +641,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Saatsoglou-Paliadeli 2004
-    full: "Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens."
+    full: "Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens: Archaeological Society of Athens."
     reference_for: "4"
 
   - short: Schwarzmaier et al. 2012
@@ -713,7 +709,7 @@ biblio_list:
     reference_for: "5"
 
   - short: Hölbl 2001
-    full: "Hölbl, G. 2001. *A History of the Ptolemaic Empire* Trans. T. Saavedra. London and New York: Routledge."
+    full: "Hölbl, G. 2001. *A History of the Ptolemaic Empire.* Trans. T. Saavedra. London and New York: Routledge."
     reference_for: "5"
 
   - short: Kyrieleis 1975
@@ -824,7 +820,7 @@ biblio_list:
     full: "Allroggen-Bedel, A. 1974. “Das sogenannte Forum von Herculaneum und die Borbonischen Grabungen von 1739.” *CronErcol* 4: 97–109."
     reference_for: "7"
 
-  - short: *Antichità* 1771
+  - short: <em>Antichità</em> 1771
     full: "Accademia ercolanese di archeologia, 1771. *De’ Bronzi di Ercolano e contorni: incisi con qualche spiegazione*. Delle antichità di Ercolano 6. Naples: Nella Regia stamperia."
     reference_for: "7"
 
@@ -1225,7 +1221,7 @@ biblio_list:
     reference_for: "9"
 
   - short: Vlad Borrelli 1966
-    full: "Vlad Borrelli, L. 1966. s.v. “Severo, Stile.” *Enciclopedia dell’arte antica* 7: 228–29. Rome: Istituto della Inciclopedia italiana."
+    full: "Vlad Borrelli, L. 1966. s.v. “Severo, Stile.” *Enciclopedia dell’arte antica* 7: 228–29. Rome: Istituto della Enciclopedia italiana."
     reference_for: "9"
 
   - short: Winckelmann 1764
@@ -1305,7 +1301,7 @@ biblio_list:
     reference_for: "10"
 
   - short: Sengoku-Haga et al. 2015
-    full: "Sengoku-Haga, K., Y. Zhang, M. Lu, S. Ono, T. Oishi, T. Masuda, and K. Ikeuchi. 2015. “Polykleitos’ Works ‘from One Model’: New Evidence Obtained from 3D Digital Shape Comparisons.” In *New Approaches to the Temple of Zeus at Olympia*, ed. A. Patay-Horváth, 201–22. Cambridge: Cambridge Scholars Publishing."
+    full: "Sengoku-Haga, K., Y. Zhang, M. Lu, S. Ono, T. Oishi, T. Masuda, and K. Ikeuchi. 2015. “Polykleitos’ Works ‘from One Model’: New Evidence Obtained from 3D Digital Shape Comparisons.” In *New Approaches to the Temple of Zeus at Olympia*, ed. A. Patay-Horváth, 201–22. Newcastle upon Tyne: Cambridge Scholars Publishing."
     reference_for: "10"
 
   - short: Stewart 1990
@@ -1986,7 +1982,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Leake 1835
-    full: "Leake, W. M. 1835. *Travels in Northern Greece*, vol. 1. London: J. Rodwell."
+    full: "Leake, W. M. 1835. *Travels in Northern Greece*, vol. 4. London: J. Rodwell."
     reference_for: "16"
 
   - short: McInerney 2014
@@ -2186,7 +2182,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Invernizzi 1996
-    full: Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45.
+    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45."
     reference_for: "17"
 
   - short: Iozzo, M. 2015
@@ -2638,7 +2634,7 @@ biblio_list:
     reference_for: "20"
 
   - short: Dobruna-Salihu 2003–2004
-    full: "Dobruna-Salihu, E. 2003–2004. “Disa monumente sepulkrale dhe të kultit nga koha romake të gjetura me zbulime të rastit në Kosovë.” *Gjurmime Albanologjike* 33–34.
+    full: "Dobruna-Salihu, E. 2003–2004. “Disa monumente sepulkrale dhe të kultit nga koha romake të gjetura me zbulime të rastit në Kosovë.” *Gjurmime Albanologjike* 33–34."
     reference_for: "20"
 
   - short: Drini 2004
@@ -3134,7 +3130,7 @@ biblio_list:
     reference_for: "23"
 
   - short: Chabot 1897
-    full: "Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” *JA* 10: 308–55."
+    full: "Chabot, J.-B. 1897. “Notes d'épigraphie et d'archéologie orientale.” <em>JA</em> 10: 308–55."
     reference_for: "23"
 
   - short: Charles-Gaffiot et al. 2001
@@ -3342,7 +3338,7 @@ biblio_list:
     reference_for: "24"
 
   - short: Treister 2010
-    full: "Treister, M. 2010. “Bronze and Silver Greek, Macedonian and Etruscan Vessels in Scythia.” *Bollettino di Archeologia On* *Line*, vol. speciale, 17th International Congress of Classical Archaeology (Rome, 2008): 9–26."
+    full: "Treister, M. 2010. “Bronze and Silver Greek, Macedonian and Etruscan Vessels in Scythia.” *Bollettino di Archeologia On Line*, vol. speciale, 17th International Congress of Classical Archaeology (Rome, 2008): 9–26."
     reference_for: "24"
 
   - short: Trofimova 2007
@@ -3457,15 +3453,15 @@ biblio_list:
     full: "Meirano, V. 2014. “Vasi, strumenti e altri oggetti: Offerte in metallo e pratiche rituali nei santuari greci della Calabria meridionale.” In *Le spose e gli eroi: Offerte in bronzo e in ferro dai santuari e dalle necropoli della Calabria greca*, ed. M. T. Iannelli and C. Sabbione, 32–38. Vibo Valentia: AdHoc Edizioni."
     reference_for: "25"
 
-  - short: Meirano 2015­–2016
-    full: "Meirano, V. 2015–2016. “Étude des vases en métal et des instruments apparentés de Delphes, du VIème s. av. n. è. à l’époque romaine: Rapport 2014–2015.” *BCH* 139–40.2."
-    reference_for: "25"
-
   - short: Meirano 2016
     full: "Meirano, V. 2016. “Bronze *phialai mesomphaloi* in Context: Some Recent and Older (Revisited) Case-studies.” In *Greek and Roman Bronzes from the Eastern Mediterranean:* *Acta of the XVIIth International Congress on Ancient Bronzes, Izmir (Turkey) 2016*, ed. A. Giumlia Mair and C. C. Mattusch, 79–86. Autun: Editions Mergoil."
     reference_for: "25"
 
-  - short: Meirano, forthcoming
+  - short: Meirano, forthcoming (a)
+    full: "Meirano, V. Forthcoming. “Étude des vases en métal et des instruments apparentés de Delphes, du VIème s. av. n. è. à l’époque romaine: Rapport 2014–2015.” *BCH* 139–40.2."
+    reference_for: "25"
+
+  - short: Meirano, forthcoming (b)
     full: "Meirano, V. Forthcoming. “Bassins à rebord perlé à Delphes.” In preparation."
     reference_for: "25"
 

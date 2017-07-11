@@ -36,7 +36,6 @@ Among the few preserved bronze statues from antiquity, the Athlete from Ephesos 
 
 Otto Benndorf (1838–1907), professor of Classical archaeology at the University of Vienna, began the Austrian excavations in Ephesos in 1895 with support from the Austrian emperor Franz Joseph. The focus in the early years was on major public buildings such as the Grand Theater and the so-called Harbor Baths, a spacious bath-gymnasium complex from the late first century AD.[^1] In 1896, the Austrian mission unearthed the *palaestra* of these baths, discovering a splendid marble hall with several sculptures and elements of architectural decoration.[^2] The southwest corner of the *palaestra* directly in front of this marble hall, although difficult to excavate due to the debris from the collapsed hall, turned out to be an important spot. It was the only section of the *palaestra* that remained untouched after the earthquake that was estimated to have taken place in the third century AD. In contrast, the main area of the *palaestra* was probably first looted and then, presumably in the fifth century AD, incorporated into the Late Antique town, as the surprisingly well-preserved wealthy houses unearthed recently demonstrate.[^3]
 
-Neither Benndorf nor English archaeologist John Turtle Wood excavated in this corner in the nineteenth century because the remnants of the roof and the building structures obstructed the ongoing work.[^4] Benndorf and his crew finally exposed the area in the early twentieth century and found a solid stone pedestal with bases and lower parts of pilasters, being part of a (mainly lost) aedicula ([fig. 1.2](#1.2)).
 
 {{< q-figure id="1.2" >}}
 
@@ -44,7 +43,7 @@ In front of this aedicula, 234 fragments of a life-size bronze sculpture were br
 
 {{< q-figure id="1.3" >}}
 
-Due to an *irade* (edict) of Sultan Abdul Hamid II, the Austrian ambassador, Freiherr von Calice, was allowed to choose some of the excavated finds, which were sent to Vienna as a gift from the sultan to Emperor  Joseph.[^8] The Austrian Lloyd shipping company transported the sculptures, architectural elements, and small finds to Vienna in seven transports between 1896 and 1906; the fragments of the bronze athlete came to Vienna in the 1897 transport.[^9] \(From 1907 onward, a new law concerning the legal framework of preservation of antiquities promoted by Osman Hamdi Bey, founder of the Istanbul Archaeological Museum, halted the export of archaeological heritage.) Today, most of the finds from Ephesos brought to Vienna are on display in the Ephesos Museum, which was opened in 1978 in the former Habsburg Imperial Palace in Vienna.[^10] We will discuss the reconstruction of the heavily damaged statue is greater detail below.
+Due to an *irade* (edict) of Sultan Abdul Hamid II, the Austrian ambassador, Freiherr von Calice, was allowed to choose some of the excavated finds, which were sent to Vienna as a gift from the sultan to Emperor  Joseph.[^8] The Austrian Lloyd shipping company transported the sculptures, architectural elements, and small finds to Vienna in seven transports between 1896 and 1906; the fragments of the bronze athlete came to Vienna in the 1897 transport.[^9] \(From 1907 onward, a new law concerning the legal framework of preservation of antiquities promoted by Osman Hamdi Bey, founder of the Istanbul Archaeological Museum, halted the export of archaeological heritage.) Today, most of the finds from Ephesos brought to Vienna are on display in the Ephesos Museum, which was opened in 1978 in the former Habsburg Imperial Palace in Vienna.[^10] We will discuss the reconstruction of the heavily damaged statue in greater detail below.
 
 After its restoration, the statue was immediately put on display, in the first exhibition of finds from Ephesos in the “Theseus Temple” in Vienna ([fig. 1.4](#1.4)).[^11] This “temple,” a reduced copy of the “Theseion” (Hephaisteion) in Athens, was built by Pietro di Nobile in Vienna in 1819–23 to house the famous sculpture *Theseus Fighting the Minotaur* by Antonio Canova. After this sculpture was moved to the main staircase of the Kunsthistorisches Museum in the 1880s, the Theseus Temple was ready to house the Ephesos exhibition, which was enthusiastically received.
 
@@ -90,7 +89,7 @@ Despite early speculation that the Ephesian Athlete was one of the two original 
 | Lattimore 1972  | early Hellenistic, Phanis |
 | Pochmarski 1988 | Lysippos 320 BC or classicizing/copy of a Roman (!) sculpture |
 | Moser von Filseck 1990  | classicizing, early Augustan |
-| Pochmarski 1999 | Flavian (copy of Roman sculpture |
+| Pochmarski 1999 | Flavian (copy of Roman sculpture) |
 | Willer 1996  | Roman copy |
 | Saladino 2006 | before 350 BC (Daidalos? Polycletos II?) |
 | Mattusch 2015 | *officina* of Lysippos/Roman copy? |
@@ -116,9 +115,9 @@ In the following eight decades, sculptors undertook two larger interventions. In
 
 This paper will present the remarkable reassembling of the bronze statue known as the Athlete of Ephesus at the end of the nineteenth century as well as the interventions in the twentieth century. The study of the different restoration treatments has revealed an interesting and complex history. Because of the diversity of materials involved, scientific investigations were necessary to evaluate the stability of the statue as it is preserved today. The first series of analyses was started fifteen years ago; recent research has focused on corrosion, the composition and quality of the filling mortar, and possible changes. In 2013, a collaborative project established between the Collection of Greek and Roman Antiquities of the Kunsthistorisches Museum Vienna and the J. Paul Getty Museum was launched to support this work as well as for the design and development of a novel transport cage.
 
-Archival photographs exist (see [fig. 1.2](#1.2)) that show us the condition of the head right after the discovery of the Athlete in 1896.[^47] We see hard incrustations of sand and soil especially in the hair and on the forehead. No heavy corrosion or weakness of the metal is visible. However, the entire statue was broken into fragments. The heavy marble block that fell on the legs and lower part of the back caused deformation and loss of several pieces.
+Archival photographs exist (see [fig. 1.3](#1.3)) that show us the condition of the head right after the discovery of the Athlete in 1896.[^47] We see hard incrustations of sand and soil especially in the hair and on the forehead. No heavy corrosion or weakness of the metal is visible. However, the entire statue was broken into fragments. The heavy marble block that fell on the legs and lower part of the back caused deformation and loss of several pieces.
 
-The reassembly of the 234 bronze fragments was a great challenge for Sturm, who was then head of the restoration studio of the antiquities department.[^48] Working together with his son, Sturm followed the then standard practice for the treatment of outdoor bronze objects. He did not solder the fragments together, as he would have done with sound material. Instead, he reassembled them mechanically. Using more than 1,800 small brass screws, he connected 300 brass straps to the reverse side of the 234 fragments.[^49] In this way, he managed to slot together the edges of the bronze as tightly as possible, with the reference statue from Florence in mind (see above).[^50] He completed the statue by mounting brass clasps to connect the two fragment assemblies to a tin-plated iron armature, giving them a rigid structure. The cleaned fragments weighed 85 kilograms (187 lb.) ([fig. 1.8](#1.8)). In order to fill the losses and to stabilize this very fragile framework, he filled the interior up to the cranium with a mortar mixture “of his own invention.”[^51] This was based upon magnesium chloride, also known as Sorel cement. According to Sturm’s son and assistant, there were several advantages to using this material:[^52] it was (1) lightweight; (2) believed to be free of hygroscopic properties; (3) absolutely stable; and (4) easy to model and to pigment to resemble bronze. Sturm remodeled the three missing fingers of the left hand, recasting them in bronze; only the thumb and ring finger are original ([fig. 1.9](#1.9)).
+The reassembly of the 234 bronze fragments was a great challenge for Sturm; his father was then head of the restoration studio of the antiquities department.[^48] Sturm followed the then standard practice for the treatment of outdoor bronze objects. He did not solder the fragments together, as he would have done with sound material. Instead, he reassembled them mechanically. Using more than 1,800 small brass screws, he connected 300 brass straps to the reverse side of the 234 fragments.[^49] In this way, he managed to slot together the edges of the bronze as tightly as possible, with the reference statue from Florence in mind (see above).[^50] He completed the statue by mounting brass clasps to connect the two fragment assemblies to a tin-plated iron armature, giving them a rigid structure. The cleaned fragments weighed 85 kilograms (187 lb.) ([fig. 1.8](#1.8)). In order to fill the losses and to stabilize this very fragile framework, he filled the interior up to the cranium with a mortar mixture “of his own invention.”[^51] This was based upon magnesium chloride, also known as Sorel cement. According to Sturm’s son and assistant, there were several advantages to using this material:[^52] it was (1) lightweight; (2) believed to be free of hygroscopic properties; (3) absolutely stable; and (4) easy to model and to pigment to resemble bronze. Sturm remodeled the three missing fingers of the left hand, recasting them in bronze; only the thumb and ring finger are original ([fig. 1.9](#1.9)).
 
 {{< q-figure id="1.8" >}}
 
@@ -181,6 +180,8 @@ New information enabled us to detect the traces of interventions ([fig. 1.13](#1
 {{< q-figure id="1.16" class="float-right" >}}
 
 In 2015, a three-dimensional model of the Athlete was generated to build the custom cage for transport.[^74] Our colleagues at the Getty Museum developed the aluminum structure ([fig. 1.16](#1.16)), which allowed the entire weight of the cage and the statue to be supported by the fillet of the base. An accurately fitted, two-piece counterpart made of epoxy resin was mechanically connected with the aluminum construction and the pallet. To keep the statue stable inside the cage, aluminum crossbeams were screwed onto the scaffolding. Customized designs were cut out of an inert foam and applied to the beams in order to supply soft but rigid and sufficient support to the Athlete.[^75] For vibration control, a precalculated amount of special shock-absorbing material was placed between the inner and the outer crate, absorbing fully 93% of shock, as confirmed by vibration measurements.
+
+<p class="attribution">—B. Vak</p>
 
 ## Acknowledgments
 
@@ -249,7 +250,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
     1. Ephesos (Vienna, Kunsthistorisches Museum/Ephesos Museum, inv. VI 3168, bronze)
     2. Florence (Florence, Galleria degli Uffizi, inv. 1914/100, marble; existing already under Cosimo I, in the Gallery since 1740; Mansuelli 1958, 59–60, cat. 36)
-    3. Lošinj (Museum of Apoxyomenos, Mali Lošinj, marble; Michelucci 2006)
+    3. Lošinj (Museum of Apoxyomenos, Mali Lošinj, bronze; Michelucci 2006)
     4. Frascati (Boston, Museum of Fine Arts, inv. 00.304, marble; small scale; Comstock and Vermeule 1976, 100–101, no. 155)
     5. Rome, from Tivoli (Musei Vaticani, no. 105, Braccio Nuovo, marble torso; Neudecker 1988, 236, no. 68.3, pl. 15.3)
     6. Rome (Musei Vaticani, Mus. Chiaramonti Braccio Nuovo 99, marble torso with head type Torino/Braccio Nuovo; Arnold 1969, 270, no. K7; Neudecker 1988, 236, no. 68.4, pl. 15.2)
@@ -291,7 +292,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^40]: Pochmarski 1988; Pochmarski 1999; as proof, he mentions unevenness of the surface of the Ephesian Athlete going back to *tasselli*, repair patches of the statue copied in Rome; due to the state of the fragments when found and the massive physical treatment they underwent while undergoing restoration, this observation is unconvincing.
 
-[^41]: Sanader 1999; Michelucci 2006; see the contribution of Karniš Vidovič and Mille (ch. 43) in this volume.
+[^41]: Sanader 1999; Michelucci 2006; see the contribution of Karniš Vidovič and Mille ([ch. 43](/conservation-and-analysis/43-vidovic/)) in this volume.
 
 [^42]: As the athletes are not strictly speaking scraping themselves but rather are cleaning their scrapers, they are not *Apoxyomenoi* but *strigilis*-cleaners; see Weber 1999.
 

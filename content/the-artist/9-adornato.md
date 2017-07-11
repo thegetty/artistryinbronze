@@ -82,11 +82,11 @@ This paper is part of a wider project on a technical lexicon and art criticism i
 
 [^8]: Raubitschek 1949, no. 161: the fragment found between 1877 and 1886 west of the Erechtheion contains too few letters to be included in this analysis. No. 161a is not included because the fragment was found in the Agora and contains just a few letters.
 
-[^9]: *IG* I3, 847 = DAA 120; Keesling 2003, 170–72.
+[^9]: *IG* I<sup>3</sup>, 847 = DAA 120; Keesling 2003, 170–72.
 
-[^10]: *IG* I3, 850 = DAA 121; Raubitschek 1949, 128; Keesling 2003, 186–90.
+[^10]: *IG* I<sup>3</sup>, 850 = DAA 121; Raubitschek 1949, 128; Keesling 2003, 186–90.
 
-[^11]: *IG* I3, 848 = DAA 160; Keesling 2000.
+[^11]: *IG* I<sup>3</sup>, 848 = DAA 160; Keesling 2000.
 
 [^12]: Athens, Acropolis Museum, inv. 631: Stewart 1990, 129; Taranto, National Archeological Museum, inv. 121327: Adornato 2010, 318–20; Berlin, Staatliche Museen, inv. Misc. 7470: Stewart 1990, 147.
 
