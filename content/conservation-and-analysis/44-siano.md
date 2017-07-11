@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Salvatore
    last_name: Siano
-   affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
  - first_name: Luigia
    last_name: Melillo
    affiliation: Museo Archeologico Nazionale di Napoli, Italy
@@ -15,9 +15,9 @@ contributor:
    affiliation: Soprintendenza per i Beni Archeologici della Toscana, Florence, Italy
  - first_name: J.
    last_name: Agresti
-   affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
 abstract: |
-    We report here the results of the archaeometallurgical study of the bronze equestrian statuette of Alexander the Great, which was found broken in many pieces during various phases of excavation carried out in Herculaneum around the end of 1761; it was subsequently reassembled in the Royal Foundry of Naples. This famous masterpiece, now in the National Archaeological Museum of Naples, recently underwent a thorough material characterization, which was carried out during a static consolidation treatment at the Restoration Laboratory of Tuscany’s Archaeological Superintendency. This investigation was aimed mainly at interpreting the original execution processes and modern restorations. Although the authenticity of the artifact is supported by its formal coherence and archival information referring to the two figures (Alexander and his horse Bucephalus) and the base, analytical insights were considered of interest in order to assess the material coherence of the many fragments (about fifteen) composing the statuette. The results provide objective material evidence of the antiquity of most of the fragments and shed light on its ancient execution and modern restoration processes.
+    We report here the results of the archaeometallurgical study of the bronze equestrian statuette of Alexander the Great, which was found broken in many pieces during various phases of excavation carried out in Herculaneum around the end of 1761; it was subsequently reassembled in the Royal Foundry of Naples. This famous masterpiece, now in the National Archaeological Museum of Naples, recently underwent a thorough material characterization, which was carried out during a static consolidation treatment at the restoration laboratory of Tuscany’s Archaeological Superintendency. This investigation was aimed mainly at interpreting the original execution processes and modern restorations. Although the authenticity of the artifact is supported by its formal coherence and archival information referring to the two figures (Alexander and his horse Bucephalus) and the base, analytical insights were considered of interest in order to assess the material coherence of the many fragments (about fifteen) composing the statuette. The results provide objective material evidence of the antiquity of most of the fragments and shed light on its ancient execution and modern restoration processes.
 weight: 710
 ---
 

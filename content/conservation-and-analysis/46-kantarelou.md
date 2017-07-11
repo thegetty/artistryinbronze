@@ -1,6 +1,6 @@
 ---
 id: "46"
-title: A Defined Protocol for *In-situ* Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria
+title: A Defined Protocol for In Situ Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria
 type: essay
 contributor:
  - first_name: V.
