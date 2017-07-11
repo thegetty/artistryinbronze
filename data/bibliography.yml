@@ -1686,7 +1686,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Bing 1993
-    full: "Bing, P. 1993. “The *Bios*-Tradition and Poets’ Lives in Hellenistic Poetry.” *Nomodeiktes: Greek Studies in Honor of Martin Oswald*, ed. R. M. Rosen and J. Farrell, 619–31. Ann Arbor: University of Michigan Press."
+    full: "Bing, P. 1993. “The *Bios*-Tradition and Poets’ Lives in Hellenistic Poetry.” In *Nomodeiktes: Greek Studies in Honor of Martin Oswald*, ed. R. M. Rosen and J. Farrell, 619–31. Ann Arbor: University of Michigan Press."
     reference_for: "15"
 
   - short: Boucher-Colozier 1965
@@ -1733,8 +1733,8 @@ biblio_list:
     full: "Frel, J. 1981. *Greek Portraits in the J. Paul Getty Museum*. Los Angeles: J. Paul Getty Museum."
     reference_for: "15"
 
-  - short: Gaultier et al. 2013
-    full: "Gaultier, F., et al. 2013. *Les Etrusques et la Méditerranée: La cité de Cerveteri*. Paris: Louvre Museum."
+  - short: Gaultier and LaCroix 2013
+    full: "Gaultier, F., and M. LaCroix  2013. *Les Etrusques et la Méditerranée: La cité de Cerveteri*. Paris: Louvre Museum."
     reference_for: "15"
 
   - short: Gerber 1999
@@ -1758,7 +1758,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Hemingway 2016
-    full: "Hemingway, S. 2016. “Statuette of an Artisan.” In *Pergamon and the Hellenistic Kingdoms of the* *Ancient World*, ed. C. A. Picón and S. Hemingway, 161–62. New York: The Metropolitan Museum of Art."
+    full: "Hemingway, S. 2016. “Statuette of an Artisan.” In Picón and Hemingway 2016, 161–62."
     reference_for: "15"
 
   - short: Himmelmann 1981
@@ -1810,7 +1810,7 @@ biblio_list:
     reference_for: "15"
 
   - short: Mollard-Besques 1963
-    full: "Mollard-Besques, S. 1963. *Musée du Louvre: Département des antiquités grecques et romaines: Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans*. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux."
+    full: "Mollard-Besques, S. 1963. <em>Musée du Louvre: Département des antiquités grecques et romaines: Catalogue raisonné des figurines et reliefs en terre-cuite grecs, étrusques, et romans</em>. Vol. 2: *Myrina*. Paris: Editions des Musées nationaux."
     reference_for: "15"
 
   - short: Morel-Deledalle 2014
