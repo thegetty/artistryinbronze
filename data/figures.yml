@@ -2233,13 +2233,13 @@ figure_list:
   - id: "40.6a"
     src: fig_40.06a_Northover_Pernicka_Snyder.jpg
     caption: >
-      Lead isotope ratios of the analyzed samples. In the lower right corner a cross indicates the 2σ uncertainties of measurements. The six samples in the lower left are isotopically indistinguishable. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      Lead-isotope ratios of the analyzed samples. In the lower right corner a cross indicates the 2σ uncertainties of measurements. The six samples in the lower left are isotopically indistinguishable. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
     credit: >
 
   - id: "40.6b"
     src: fig_40.06b_Northover_Pernicka_Snyder.jpg
     caption: >
-      Lead isotope ratios of the analyzed samples compared with lead ores from the Aegean and from Laurium in Attica. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      Lead-isotope ratios of the analyzed samples compared with lead ores from the Aegean and from Laurium in Attica. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
     credit: >
 
   - id: "41.1"
@@ -2727,7 +2727,7 @@ figure_list:
   - id: "47.6"
     src: fig_47.06_Anderson.jpg
     caption: >
-      Lead isotopes of statuettes of Alexander the Great (inv. 1956.20, and Demosthenes (inv. 2007.221), compared to lead ore sources used in antiquity.
+      Lead isotopes of statuettes of Alexander the Great (inv. 1956.20) and Demosthenes (inv. 2007.221), compared to lead ore sources used in antiquity.
     credit: >
       Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
 
@@ -2748,6 +2748,6 @@ figure_list:
   - id: "47.9"
     src: fig_47.09_Anderson.jpg
     caption: >
-      Detail of fig. 47.8 showing the area in which the Alexander value plots.
+      Detail of fig. 47.8, showing the area in which the Alexander value plots.
     credit: >
       Graph: Patrick Degryse and Katherine Eremin © Centre for Archaeological Sciences at KU Leuven and President and Fellows of Harvard College
