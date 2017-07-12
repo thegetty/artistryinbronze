@@ -5,14 +5,14 @@ type: essay
 contributor:
  - first_name: V.
    last_name: Kantarelou
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece
- - first_name: A. G. Karydas
+   affiliation: Institute of Nuclear and Particle Physics, NCSR Demokritos, Athens, Greece
+ - first_name: A. G.
    last_name: Karydas
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece
+   affiliation: Institute of Nuclear and Particle Physics, NCSR Demokritos, Athens, Greece
  - first_name: L.
    last_name: Mahfoud
    affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
- - first_name: A. Qurdab
+ - first_name: A.
    last_name: Qurdab
    affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
  - first_name: M.
@@ -30,7 +30,7 @@ weight: 712
 
 ## Introduction
 
-During the PROMET European FP6 project, a micro-XRF mobile spectrometer was transported to the National Museum of Damascus, Syria, where it was applied to and validated for the quantitative noninvasive analysis of unique museum metal collections across the Mediterranean region, successfully addressing archaeological and conservation questions. Given the value of these collections, transport of objects or sampling for analysis is generally not permitted. Thus, the development and validation of a reliable portable technology is critical for comparisons of analytical compositional results, especially for similar museum collections or objects housed around the world.
+During the PROMET European FP6 project, a micro-XRF mobile spectrometer was transported to the National Museum of Damascus, Syria, where it was applied and validated for the quantitative noninvasive analysis of unique museum metal collections across the Mediterranean region, successfully addressing archaeological and conservation questions. Given the value of these collections, transport of objects or sampling for analysis is generally not permitted. Thus, the development and validation of a reliable portable technology is critical for comparisons of analytical compositional results, especially for similar museum collections or objects housed around the world.
 
 The mobile micro-XRF spectrometer of NCSR “Demokritos” was utilized in campaigns at the Archaeological Museum of Ancient Messene (Peloponnese), the Palace Armoury Museum in Malta, the Umm Qais and Numismatic Museums in Jordan, and the National Museum of Damascus, Syria. These studies revealed important information about their metals collections concerning the manufacturing techniques and the condition of objects from various periods, but more importantly developed a standard approach for validating the precision and accuracy of compositional data for ancient and historic copper and iron alloys, as well as gilding techniques from various periods. At the Archaeological Museum of Ancient Messene, high-tin bronze mirrors dating from the second century BC were analyzed to identify the composition of the alloy and corrosion products, as well as to characterize the reflecting gray-silverish and black-colored surface finishes of the mirrors.[^1] The Palace Armoury campaign included the XRF analysis of steel armor elements with emphasis on manufacturing techniques such as surface gilding.[^2] At Yarmouk University in Jordan, Roman copper-alloy artifacts from the Umm Qais Museum were analyzed to characterize the metal composition and corrosion products,[^3] while gold coins from the collection of the Numismatic Museum were also analyzed in order to identify compositional differences and elucidate the use of raw materials and processing practices through different historical periods. At the National Museum of Damascus, gilded copper and gold artifacts of the third millennium BC and from about 1500 BC were studied. The micro-XRF analysis was used for the first time to investigate the composition of copper and gold alloys and their corrosion products, the thickness of the gold foil used for the gilding, and finally to assess their state of preservation.[^4]
 
