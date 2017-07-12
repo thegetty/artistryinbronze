@@ -4,23 +4,26 @@ title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using
 type: essay
 contributor:
  - first_name: Vasilike
-   last_name: Argyropoulos
-   affiliation: Technological Educational Institute of Athens
+   last_name: Argyropoulos<sup>*</sup>
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+ - first_name: Soussani
+   last_name: Mavroforaki
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
  - first_name: Maria
    last_name: Giannoulaki
-   affiliation: Technological Educational Institute of Athens
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
  - first_name: Stamatis C.
    last_name: Boyatzis
-   affiliation: Technological Educational Institute of Athens
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+ - first_name: Thanasis
+   last_name: Karabotsos
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
  - first_name: Aggeliki
    last_name: Zacharopoulou
-   affiliation: National Technical University of Athens
- - first_name: Giorgios
-   last_name: Moraitis
-   affiliation: EPCC Arc’Antique, Nantes
+   affiliation: Department of Materials Science and Engineering, School of Chemical Engineering, National Technical University of Athens, 9 Heroon Polytechniou, Zografou, Athens, Greece
  - first_name: Elodie
    last_name: Guilminot
-   affiliation: EPCC Arc’Antique, Nantes
+   affiliation: EPCC Arc’Antique, 26 rue de la Haute Forêt, 44300 Nantes, France
 abstract: |
     The goal of the research is to find an alternative approach to stabilize chloride-contaminated copper-alloy artifacts, while retaining information preserved in the patina layers. Local electrolysis and the use of an alternative corrosion inhibitor, L-cysteine, were applied to treat bronze disease at specific locations on marine copper-alloy artifacts, while trying to preserve evidence of tinning on their surfaces. Cysteine as a nontoxic corrosion inhibitor has recently been tested and was found to be effective, but like all corrosion inhibitors, color changes to the patina can occur. Its application to intentionally tinned bronze surfaces was further investigated and combined with the application of local electrolysis using sodium sesquicarbonate to stabilize the areas where the surfaces are not covered with tin. The new approach was tested on a marine thirteenth-century copper-alloy cooking vessel excavated from a shipwreck found in the sea off the port of Rhodes in Greece. The approach was successful at stabilizing the object and no signs of active corrosion were visible one year after treatment.
 weight: 704
@@ -28,7 +31,7 @@ weight: 704
 
 ## Introduction
 
-Ancient bronzes often contain surface decoration in the corrosion layers or show evidence of tinning, niello, gilding, paint, or organic materials in the corrosion layers. Depending on the quantity of chlorides in their surfaces, traditional conservation methods to stabilize bronze disease (1) are used locally to treat the artifact with Ag<sub>2</sub>O particles or zinc dust; followed by complete immersion in sodium sesquicarbonate (pH 10) solutions with or without electrolysis to convert cupreous chloride to more stable corrosion product(s);[^1] and/or (2) incorporate the use of corrosion inhibitors, such as benzotriazole.[^2] Our goal was to develop alternative conservation methods to treat such objects in order to preserve information by minimizing the overall changes that may occur to the patina surfaces with such treatments.
+Ancient bronzes often contain surface decoration in the corrosion layers or show evidence of tinning, niello, gilding, paint, or organic materials in the corrosion layers. Depending on the quantity of chlorides in their surfaces, traditional conservation methods to stabilize bronze disease are either used locally to treat the artifact with Ag<sub>2</sub>O particles or zinc dust, with complete immersion in sodium sesquicarbonate (pH 10) solutions with or without electrolysis to convert cupreous chloride to more stable corrosion product(s);[^1] and/or incorporate the use of corrosion inhibitors, such as benzotriazole.[^2] Our goal was to develop alternative conservation methods to treat such objects in order to preserve information by minimizing the overall changes that may occur to the patina surfaces with such treatments.
 
 The paper presents a novel treatment approach for a thirteenth-century Byzantine copper frying pan that was excavated from a shipwreck off of Rhodes and retains what appears to be intentional tinning on its surface. The paper examines the black surface to determine its nature and the condition of the artifact. It further discusses the treatment of the object with the aim of preserving this black layer, which serves as an archaeological record providing evidence of its use in food preparation. Traditional chloride removal methods for marine copper-alloy artifacts may result in unwanted removal of these types of compounds/corrosion products. Our treatment involved the application of local electrolysis with 1% (w/v) of sodium sesquicarbonate solution on areas with no evidence of tinning, and the application of L-cysteine as a nontoxic corrosion inhibitor to help preserve the artifact over the longterm.
 
@@ -38,7 +41,7 @@ The Metals Conservation Lab (TEI-A) in Egaleo, Greece, carried out research from
 
 L-cysteine has already been investigated in metals conservation as a replacement for benzotriazole (BTA) applied to corroded bronze coupons (with nantokite formation) by immersion in water at 0.15M for 24 hours;[^5] by immersion in ethanol at 0.01M for 24 hours;[^6] and during PEG400 treatments for a marine copper-alloy composite artifact with organic remains.[^7] Gravgaarda and van Lanschot (2012) also carried out tests on real bronze artifacts in comparing cysteine to BTA. All these studies found color changes to the corrosion layers (graying effect) with the cysteine application, which darkens to a black color with longer immersion exposures. With their electrochemical measurements, Abu-Baker et al. (2013) found that, with increasing amounts of tin in the bronze alloy, the strength of the inhibitor’s chemisorption on the surface of the alloy, or its corrosion inhibition efficiency, increases. Further research found that immersion in cysteine for copper alloys results in producing cystine from the oxidation of cysteine, where the presence of iron or copper ions serves as a catalyst in this reaction. This oxidation reaction results in reducing metal ions, which form a metal ion cystine complex on the surface of the material, and producing either a soluble or insoluble cysteine/cysteinate complex with metal ions and cystine precipitate respectively in the solutions.[^8] The graying effect is most likely a result of the metal ion cystine complex on the surface.
 
-## Scientific Investigation of a Marine Medieval Frying Pan
+## Scientific Investigation of a Marine Byzantine Frying Pan
 
 The frying pan was exposed to an open-sea environment as well as buried in the marine sediment for centuries. As a result, there has been substantial loss of metal with cracks and deformation to its shape. The pan was made from a copper sheet of approximately 98 wt.% copper and 1 wt.% tin (analyzed by scanning electron microscopy with energy dispersive X-ray analysis [SEM-EDAX]; see below), which was hammered into shape with a base diameter of around 19 to 21 cm as shown in [figure 38.1](#38.1). A riveted 10.5 cm handle also made of copper sheet metal was folded and hammered into a tube shape. Given the poor condition of the object, it is difficult to assess whether the sides of the pan were straight or angled; they have a preserved maximum height of 3.7 cm. The interior of the object is covered with a black surface (see [fig. 38.1](#38.1)), which is assumed to be evidence of intentional tinning. Copper cooking wares were always intentionally tinned, usually with a hot-tinning process in their interior, to prevent the copper from contaminating food during cooking.
 
