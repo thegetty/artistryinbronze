@@ -20,7 +20,7 @@ The statue of an Apoxyomenos ([fig. 43.1](#43.1)), raised from the Adriatic Sea 
 
 {{< q-figure-group id="43.1a, 43.1b, 43.1c" grid="3" >}}
 
-In 2012, during the exhibition of the statue at the Louvre, the HRZ established a cooperation with that institution leading in 2013 to new insights into the technology of the Croatian Apoxyomenos,[^1] and continuing in 2015 with a new campaign to analyze the alloys used to produce the statue.
+In 2012, during the exhibition of the statue at the Louvre, the HRZ established a collaboration with that institution, which led in 2013 to new insights into the technology of the Croatian Apoxyomenos,[^1] and continued in 2015 with a new campaign to analyze the alloys used to produce the statue.
 
 ## Alloy Investigation Prior to 2013
 
@@ -28,17 +28,17 @@ After the statue had been raised from the sea in 1999, and before its conservati
 
 The conservation treatments and research performed at the HRZ in Zagreb in cooperation with the Opificio delle Pietre Dure (OPD) lasted for six years until 2006.[^2]
 
-Already in 1999 more than a hundred different samples were collected from the interior and exterior of the statue. However, the amount of metal in these samples was very small and mostly included corrosion products.
+In 1999, more than a hundred different samples were collected from the interior and exterior of the statue. However, the amount of metal in these samples was very small and mostly included corrosion products.
 
 After a first and necessary desalination, several sampling and analytical campaigns were conducted between 1999 and 2003, by taking metal samples and by performing surface analyses during the conservation-restoration treatments. The aim was to provide information about the elemental composition of the alloys used for primary and secondary castings (including welding and repairs), soldering, patches, and inlays.
 
-In the first phase of sampling between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD (14 metal fragments, 9 solder and welding alloys samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze; [fig. 43.2](#43.2)).
+In the first phase of sampling, between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD: 14 metal fragments, 9 solder and welding alloy samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze ([fig. 43.2](#43.2)).
 
 {{< q-figure id="43.2" >}}
 
 The metal structure in the samples was found to be very heterogeneous and spongy, showing penetration of corrosion into the bronze wall on both sides (interior and exterior), especially on the rear of the statue that had been buried in sand on the seabed. Experts from the OPD performed several analyses to examine the samples, using stereomicroscopy, stratigraphic investigation under an optical microscope, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), and inductively coupled plasma atomic emission (ICP-AES).
 
-The most significant and interesting analyses and results were provided by ICP-AES and SEM-EDS, which were performed in parallel for some samples. For ICP-AES, the entire samples were dissolved in acid mixtures at the temperature of 350°C, meaning that they included “deteriorated” areas. The results showed that the bronze alloy is highly leaded.
+The most significant and interesting analyses and results were provided by ICP-AES and SEM-EDS, which were performed in parallel for some samples. For ICP-AES, the entire samples were dissolved in acid mixtures at a temperature of 350°C, meaning that they included “deteriorated” areas. The results showed that the bronze alloy is highly leaded.
 
 Since lead appears concentrated in globules of 50–200 μm and in surface areas, SEM-EDS was preferred, and only sound areas deep in the samples were investigated. Only very small areas (500 μm² or even only 100 μm²) were analyzed in the samples. SEM-EDS only gave results for major elements, but they showed a very different metal composition, with a low percentage of lead in the bronze alloy.[^3]
 
@@ -60,13 +60,13 @@ In addition to the analyses performed by the OPD before 2003, further analyses w
 
 In 2003, after the complete removal of the calcareous encrustations from the statue, a second campaign of investigation was carried out by the HRZ and the Ruđer Bošković Institute, applying three different analytical techniques based on X-ray: portable XRF spectrometry (70 points), external beam PIXE (same areas as XRF) and micro-PIXE using the Zagreb proton microprobe facility. These tests yielded elemental maps on cross sections obtained from two selected samples (head and right leg).
 
-The X-ray surface analysis proved to be not representative of the bulk alloy, showing a heavily corroded surface with large discrepancies in element concentrations, thus indicating that such measurements could not estimate the original metal composition. X-ray maps on cross sections showed a typical structure of high-lead bronzes, but also that corrosion deeply affected the metal walls on both sides, up to the depth of 600 μm.[^4]
+The X-ray surface analysis proved to be not representative of the bulk alloy, showing a heavily corroded surface with large discrepancies in element concentrations, thus indicating that such measurements could not estimate the original metal composition. X-ray maps on cross sections showed a typical structure of high-lead bronzes, but also that corrosion deeply affected the metal walls on both sides, up to a depth of 600 μm.[^4]
 
-In all of these prior investigation methods and procedures, the main problems preventing a correct determination of the elemental metal composition were metal heterogeneity, especially as regards the lead distribution, and the heavy corrosion of the statue. SEM-EDS analysis was unable to ascertain the lead level since only a volume of 0.5 mm^3^ (at the most) had been analyzed. Furthermore, SEM-EDS is not sensitive enough to detect trace elements. ICP-AES analysis was unfortunately performed on samples including “deteriorated” areas and at a very high temperature for sample digestion, leaving some doubt as to the obtained results. Given the thickness of the corroded bronze walls, surface analyses by XRF or PIXE never reached a sound metal composition. PIXE maps and other techniques based on metallographic sections required large samples, which could not be taken in significant numbers given the damage they cause to the statue.
+In all of these prior investigation methods and procedures, the main problems preventing a correct determination of the elemental metal composition were metal heterogeneity, especially regarding the lead distribution, and the heavy corrosion of the statue. SEM-EDS analysis was unable to ascertain the lead level since only a volume of 0.5 mm<sup>3</sup> (at the most) had been analyzed. Furthermore, SEM-EDS is not sensitive enough to detect trace elements. ICP-AES analysis was unfortunately performed on samples including “deteriorated” areas and at a very high temperature for sample digestion, leaving some doubt as to the obtained results. Given the thickness of the corroded bronze walls, surface analyses by XRF or PIXE never reached a sound metal composition. PIXE maps and other techniques based on metallographic sections required large samples, which could not be taken in significant numbers given the damage they cause to the statue.
 
-## Re-examination of the Manufacturing Techniques (2013)
+## Reexamination of the Manufacturing Techniques (2013)
 
-As noted above, we concluded that for an accurate determination of the metal composition, and especially the lead level, a “volumic” method was required. We also knew that great care had to be taken to avoid inclusion of corrosion products, which can strongly bias the results. But these conditions are not sufficient: before choosing appropriate locations for new samples, a comprehensive technological understanding of the statue was also needed. A re-examination of the manufacturing technique of the statue was therefore undertaken: How many separately cast sections (primary castings) are there? Where are the joins located? Were the sections soldered or welded? Where and how was the statue repaired?
+As noted above, we concluded that for an accurate determination of the metal composition, and especially the lead level, a “volumic” method was required. We also knew that great care had to be taken to avoid inclusion of corrosion products, which can strongly bias the results. But these conditions are not sufficient: before choosing appropriate locations for new samples, a comprehensive technological understanding of the statue was also needed. A reexamination of the manufacturing technique of the statue was therefore undertaken: How many separately cast sections (primary castings) are there? Where are the joins located? Were the sections soldered or welded? Where and how was the statue repaired?
 
 Our examination confirmed that the statue had been produced by an indirect lost-wax process. It is a hollow cast; that is, the casting core was removed and only minor traces of it remained. Hence the total weight of the statue is only about 125 kg, making it easily transportable.
 
@@ -84,15 +84,15 @@ The hands were joined to the arms by a wax-to-wax method. Some of the fingers we
 
 Before assembly, the casting core was removed from all parts of the statue. The statue was joined in five phases: (1) the arms to the torso; (2) the complex leg area (first the right leg, then the left); (3) the pubic area and genitals; (4) soldering the head onto the neck; and (5) soldering the feet onto the plinth. Joins 1–3 were performed using a flow fusion welding technique in basins for legs and arms (secondary castings of bronze). All welding areas had to be repaired with multiple patches.
 
-All joins and repairs are now easily followed thanks to γ-radiography, the archeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
+All joins and repairs are now easily followed thanks to γ-radiography, the archaeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
 {{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" >}}
 
-This re-examination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
+This reexamination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
 ## New Sampling Campaign (2013–2015)
 
-Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–c](#fig-43.5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–d](#fig-43.5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
 {{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" >}}
 
@@ -104,7 +104,7 @@ By using this analytical procedure, we achieved a very consistent new set of res
 
 {{< q-figure id="43.6" >}}
 
-Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)), and confirm that they are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, that is, some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
+Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)) and are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, that is, some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
 
 {{< q-figure id="43.7" >}}
 
