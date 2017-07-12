@@ -9,11 +9,7 @@ contributor:
    affiliation: The Cleveland Museum of Art
  - first_name: Ernst
    last_name: Pernicka
-<<<<<<< HEAD
-   affiliation: AGM Archeoanalisi, Merano, Italy
-=======
    affiliation: Curt-Engelhorn-Zentrum Archäometrie, Mannheim, Germany
->>>>>>> origin/first-pages
  - first_name: Peter
    last_name: Northover
    affiliation: Metallurgy and Archaeology, October House, Stonehill Lane, Southmoor, Abingdon, Oxfordshire, UK

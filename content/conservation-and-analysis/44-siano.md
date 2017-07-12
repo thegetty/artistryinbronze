@@ -12,11 +12,7 @@ contributor:
    affiliation: Museo Archeologico Nazionale di Napoli
  - first_name: Stefano
    last_name: Sarri
-<<<<<<< HEAD
-   affiliation: Soprintendenza per i Beni Archeologici della Toscana, Florence
-=======
    affiliation: Museo Archeologico Nazionale di Firenze, Italy
->>>>>>> origin/first-pages
  - first_name: J.
    last_name: Agresti
    affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
