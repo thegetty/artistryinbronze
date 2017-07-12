@@ -4,7 +4,7 @@ title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using
 type: essay
 contributor:
  - first_name: Vasilike
-   last_name: Argyropoulos<sup>*</sup>
+   last_name: Argyropoulos*
    affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
  - first_name: Soussani
    last_name: Mavroforaki
