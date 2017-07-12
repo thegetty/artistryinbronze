@@ -8,7 +8,7 @@ contributor:
    affiliation: Conservator, Florence, Italy
  - first_name: Stefano
    last_name: Sarri
-   affiliation: Soprintendenza per i Beni Archeologici della Toscana, Florence, Italy
+   affiliation: Museo Archeologico Nazionale di Firenze
  - first_name: Juri
    last_name: Agresti
    affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
@@ -41,7 +41,7 @@ Widespread calcareous growths were present on both the outer and inner surfaces.
 
 {{< q-figure-group id="39.2a, 39.2b" grid="2" >}}
 
-In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#39.3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#39.3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#39.3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
+In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive X-ray spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#39.3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#39.3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#39.3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
 
 {{< q-figure-group id="39.3a, 39.3b" grid="2" >}}
 
@@ -61,9 +61,10 @@ After preliminary material removal tests, which were carried out in order to opt
 
 {{< q-figure-group id="39.4a, 39.4b" grid="2" label="true" caption="Details of gilding residues during conservation treatments: (a) throat; (b) skinfolds" >}}
 
-5. Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.
-
-6. Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of [figs. 39.5–6](#39.5) show the significant improvement of legibility achieved.
+<ol start="5">
+   <li>Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.</li>
+   <li>Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of [figs. 39.5–6](#39.5) show the significant improvement of legibility achieved.</li>
+</ol>
 
 {{< q-figure-group id="39.5, 39.6" grid="2" >}}
 
@@ -77,7 +78,7 @@ The present restoration also provided the opportunity to create a new mechanical
 
 The treatment described above recovered some of the original expressive strength of the Medici Riccardi horse head, with its pronounced realism and minimal use of stylization. Such a precise naturalism is not observed in other ancient bronze horses.
 
-Unfortunately, despite the many studies of ancient horses, the surviving part of the original artwork does not allow us to determine the equine race of the horse or even whether it was pulling a chariot or mounted by a rider. We can only say that the horse was well proportioned, since the length of its head (65 cm from the forehead to the muzzle) relative to the neck (80.5 cm from the poll to the withers) is quite realistic. The right side of the protome shows the powerful, tense muscular structure of the neck terminating at the poll with a realistic muscle bulge, which makes more evident the link between the buzz-cut mane, the combed tuft, and the ears. The latter with their dense internal hairs are well proportioned and oriented in opposite directions: the right ear is directed forward at full attention, while the left is turned and tilted back, which suggests that the original sculptural was highly dynamic. Apart from the latter peculiar detail, the expressive tension of the subject and its formal solution recall the two small prancing horses of Herculaneum found in the area of the theater during the Bourbon excavations of the second half of the eighteenth century.[^8]
+Unfortunately, despite the many studies of ancient horses, the surviving part of the original artwork does not allow us to determine the equine race of the horse or even whether it was pulling a chariot or mounted by a rider. We can only say that the horse was well proportioned, since the length of its head (65 cm from the forehead to the muzzle) relative to the neck (80.5 cm from the poll to the withers) is quite realistic. The right side of the protome shows the powerful, tense muscular structure of the neck terminating at the poll with a realistic muscle bulge, which makes more evident the link between the buzz-cut mane, the combed tuft, and the ears. The latter with their dense internal hairs are well proportioned and oriented in opposite directions: the right ear is directed forward at full attention, while the left is turned and tilted back, which suggests that the original sculptural theme was highly dynamic. Apart from the latter peculiar detail, the expressive tension of the subject and its formal solution recall the two small prancing horses of Herculaneum found in the area of the theater during the Bourbon excavations of the second half of the eighteenth century.[^8]
 
 The structural equilibrium of the forehead, temples, and eyebrow arch was certainly useful in accentuating the eyes (which were likely made using nonmetallic materials) and the direction of the gaze, while the relatively thin nose—with nostril dilated by impetuous breath—reinforces the notion that the object was conceived as part of a very dynamic ensemble.
 
@@ -87,7 +88,7 @@ The open mouth and the retracted tongue allow us to see the short teeth, which a
 
 Various surface textures and chromatic features provide at first glance evidence of two different periods of the artwork’s life. Greenish mineralizations are observable all over the head and the upper part of the neck (those of the left side appear relatively irregular, due to interment conditions and previous invasive cleaning treatments), which shade toward the lower part of the neck; there, the modern integrations resulted in changes of color from red to brown to black. A number of losses were repaired with modern additions, including a large missing area at the left side, the entire collar (including its front banderole), which is partially superimposed on the ancient metal, and the upper part of the right ear. Furthermore, integrations are recognizable on the muzzle in the form of three recastings. Both ears were cropped in the past, and only the right one arrived to us restored, whereas the left only includes an internal uncorrelated repair. A number of intentional cuts, along with the extensive damage to the left side and the evident marks of weapons, indicate that the original sculpture likely was vandalized by being beheaded near the typical neck joint of bronze horses.
 
-The aforementioned integrations were executed mainly by means of recasting, which involved significant heating of the original part and then the formation of a significant amount of cuprite and tenorite redox reactions. Similarly, the subsequent cold smoothing of the patches and collar were extended to the adjacent original parts. However, the final result of this restoration remains technically rather far from the richness of detail and quality of the original, including precise casting and fine chasing of the whole surface. The ancient bronzesmiths lavished particular attention on the finishing of the mouth, the skinfolds, and the hair of the tuft and mane, which also include dense punch work between the two levels of locks achieved using a triangular punch.
+The aforementioned integrations were executed mainly by means of recasting, which involved significant heating of the original part and then the formation of a significant amount of cuprite and tenorite by redox reactions. Similarly, the subsequent cold smoothing of the patches and collar were extended to the adjacent original parts. However, the final result of this restoration remains technically rather far from the richness of detail and quality of the original, including precise casting and fine chasing of the whole surface. The ancient bronzesmiths lavished particular attention on the finishing of the mouth, the skinfolds, and the hair of the tuft and mane, which also include dense punch work between the two levels of locks achieved using a triangular punch.
 
 The repairs, as well as the two functional holes in proximity of the withers (see the dark spots in [fig. 39.1](#39.1)), which were likely needed to adapt the sculpture as a fountain, have to be attributed to the restoration by Bartolomeo Cennini in 1672.
 
