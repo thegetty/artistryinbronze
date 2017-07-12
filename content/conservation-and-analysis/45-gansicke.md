@@ -59,7 +59,7 @@ The wooden trays in which the fragmentary auloi had traveled the long distance f
 
 The interior bone resonators, bulbs, and reed holder fragments could now be handled fairly safely. Viewed against a cleaner background, many fragments now begged to be joined.[^14] The bone parts, especially, exhibit specific shapes, textures, and sometimes incised surface decorations, all of which greatly helped to identify joins. The green stain observed on many parts and of varying hues was caused by contact with copper tubes in burial, and not by an original dye, as previous researchers had assumed. Many of the bulbs carried decorative silver sleeves, now mineralized to a brown, warty appearance.
 
-The outer bronze sleeves and tubes were far more difficult to join. The thin walls of the heavily corroded, and sometimes also mineralized, metal have occasionally warped, complicating the reconstruction of the original forms. The thin-walled copper alloy tubes, however, also show distinctive patterns, related to the taphonomic micro-conditions that surrounded them. These features occasionally allow identification of pieces that belong to one tube, but may more often help corroborating hypotheses built on different grounds. Many pipes consisted of numerous short bronze tubes, joined with socket-and-tenon joins of the inner bone lining. In cases where the bone lining was separated from the metal tubes, joining of tube sections based on the material evidence alone was almost impossible.
+The outer bronze sleeves and tubes were far more difficult to join. The thin walls of the heavily corroded, and sometimes also mineralized, metal have occasionally warped, complicating the reconstruction of the original forms. The thin-walled copper alloy tubes, however, also show distinctive corrosion patterns, related to the burial environment and its variable micro-conditions. These features occasionally allow identification of pieces that belong to one tube, but may more often help corroborating hypotheses built on different grounds. Many pipes consisted of numerous short bronze tubes, joined with socket-and-tenon joins of the inner bone lining. In cases where the bone lining was separated from the metal tubes, joining of tube sections based on the material evidence alone was almost impossible.
 
 The wood is so fragile that for the time being any manipulation of it is avoided.
 
@@ -105,6 +105,10 @@ Numerous smaller stray bronze elements, mostly broken away from the external lay
 
 Future study sessions with the team members within the next year are anticipated. With the completion of reasonably accurate copies, the musical potential of such instruments could be rediscovered, adding immeasurably to our knowledge of music in the Roman period. A first trial by Stefan Hagel playing 3D-printed replicas of the “Wooden Pipes” took place in January 2016 in Paris during a conference focused on the making of ancient musical instruments, in part organized by the [Institut français d’archéologie orientale](http://www.ifao.egnet.net/) (IFAO).[^23]
 
+## Acknowledgments
+
+Thanks are due to Richard  Newman, Head of Scientific Research, and Michele Derrick, Schorr Family Associate Research Scientist, MFA, Boston, for the alloy analysis and examination of the cross section. Special thanks for contributions and support of the project are due to Damon Beale, Lawrence Berman, Michele Derrick, Denise Doxey, Rita Freed, Christine Kondoleon, Jayme Kurland, Darcy Kuronen, Meredith Montague, Richard Newman, Matthew Siegal, Joel Thompson at the Museum of Fine Arts, Boston, and to many other scholars including Raj Gupta, Peter Holmes, Deborah Schorsch, David A. Scott, Bradley Strauchen-Scherer, Olga Sutkowska, Michael Tarkanian, Frank Willer, Michael Zach.
+
 ## Notes
 
 [^1]: Excavation numbers 21-3-350, 21-3-702. Dunham 1957, 109, plate LIX A, B.
@@ -127,7 +131,7 @@ Future study sessions with the team members within the next year are anticipated
 
 [^10]: Bodley 1946, 217.
 
-[^11]: This project is funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe).
+[^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe).
 
 [^12]: Hagel 2012a.
 
