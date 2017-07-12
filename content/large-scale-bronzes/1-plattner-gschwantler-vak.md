@@ -3,7 +3,7 @@ id: "1"
 title: The Bronze Athlete from Ephesos
 type: essay
 contributor:
- - first_name: George A.
+ - first_name: Georg A.
    last_name: Plattner
    affiliation: Kunsthistorisches Museum, Vienna
  - first_name: Kurt
@@ -15,9 +15,9 @@ contributor:
 abstract: |
     In the second year of the Austrian excavation in Ephesos (1896), fragments of the Athlete of Ephesos were found in the ruins of the Harbor Baths. Vast parts of the marble architecture of the *palaestra* had been destroyed by earthquake and fire, but 234 statue fragments of various sizes, buried beneath the burnt roofing, were preserved. Most unusually, the base on which the statue was mounted was also preserved.
 
-    Due to an agreement between the Ottoman sultan and the Austrian emperor, the statue and base were taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned with the restoration of the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
+    Due to an agreement between the Ottoman sultan and the Austrian emperor, the statue and base were taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned to restore the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
 
-    Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from Late Classical/Early Hellenistic period, from the third and second centuries BC, while others argue for a Roman work of eclecticism.
+    Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from Late Classical/Early Hellenistic period from the third and second centuries BC, while others argue for a Roman work of eclecticism.
 
     Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
 

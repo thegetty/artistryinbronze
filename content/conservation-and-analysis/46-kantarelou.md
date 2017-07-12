@@ -5,22 +5,22 @@ type: essay
 contributor:
  - first_name: V.
    last_name: Kantarelou
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece
+   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens
  - first_name: A. G. Karydas
    last_name: Karydas
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens, Greece
+   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens
  - first_name: L.
    last_name: Mahfoud
-   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
+   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Damascus
  - first_name: A. Qurdab
    last_name: Qurdab
-   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
+   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Damascus
  - first_name: M.
    last_name: Al-Saadi
-   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
+   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Damascus
  - first_name: V.
    last_name: Argyropoulos
-   affiliation: Technological Educational Institute of Athens (TEI), Department of Conservation of Antiquities & Works of Art, Athens, Greece
+   affiliation: Technological Educational Institute of Athens (TEI), Department of Conservation of Antiquities & Works of Art, Athens
 abstract: |
     The use of portable and handheld XRF analyzers has been widely adopted in metal compositional studies by cultural heritage professionals. However, studies have shown that the lack of certified reference materials and standardized quantification approaches has contributed to rather poor reproducibility of quantitative results among end-users in the analysis of historic and ancient copper alloys. The limited depth resolution of XRF analysis can impose additional difficulties for proper interpretation of analytical data obtained for ancient metal alloys, due to stratified corrosion layers at the metal-corrosion interface.
 

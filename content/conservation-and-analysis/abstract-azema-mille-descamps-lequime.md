@@ -5,10 +5,10 @@ type: abstract
 contributor:
  - first_name: Aurélia
    last_name: Azema
-   affiliation: Laboratoire de Recherche des Monuments Historiques
+   affiliation: Laboratoire de Recherche des Monuments Historiques, Champes-sur-Maine
  - first_name: Benoît
    last_name: Mille
-   affiliation: Centre de Recherche et de Restauration des Musées de France (C2RMF)
+   affiliation: Centre de Recherche et de Restauration des Musées de France (C2RMF), Paris
  - first_name: Sophie
    last_name:  Descamps-Lequime
    affiliation: Musée du Louvre, Paris

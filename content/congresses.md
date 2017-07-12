@@ -8,7 +8,7 @@ type: page
 
     Ist International Congress on Ancient Bronzes, April 20–23, 1970. Rijksmuseum G. M. Kam, Nijmegen, Netherlands.
 
-    Acta: 1970. “Tagung über römische Bronzegefäße im Rijksmuseum G. M. Kam in Nijmegen von 20. bis einschließlich 23. April 1970.” *Hektogr. Niederschrift* (Nijmegen).
+    Acta: 1970. “Tagung über römische Bronzegefäße im Rijksmuseum G. M. Kam in Nijmegen vom 20. bis einschließlich 23. April 1970.” (Nijmegen).
 
 2. 1972 MAINZ
 
@@ -38,7 +38,7 @@ type: page
 
     VIth International Congress on Ancient Bronzes, May 13–17, 1980. Staatliche Museen Preußischer Kulturbesitz, Antikenmuseum, Berlin, Germany.
 
-    Acta: G.-M. Faider-Feytmans, ed. 1984. *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen 13–17 Mai 1980 in Berlin*. Berlin: Staatliche Museen Preußischer Kulturbesitz, Antikenmuseum.
+    Acta: G.-M. Faider-Feytmans, ed. 1984. *Toreutik und figürliche Bronzen römischer Zeit: Akten der 6. Tagung über antike Bronzen 13.–17. Mai 1980 in Berlin*. Berlin: Staatliche Museen Preußischer Kulturbesitz, Antikenmuseum.
 
 7. 1982 SZÉKESFEHÉRVÁR
 
@@ -66,15 +66,15 @@ type: page
 
     Xth International Congress on Ancient Bronzes, July 18–22, 1988. Freiburg, Germany.
 
-    Acta: J. Ronke, ed. 1994. *Akten der 10. Internationalen Tagung über antike Bronzen, Freiburg, 18–22 Juli 1988*. Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg 45.
+    Acta: J. Ronke, ed. 1994. *Akten der 10. Internationalen Tagung über antike Bronzen, Freiburg, 18.–22. Juli 1988*. Forschungen und Berichte zur Vor- und Frühgeschichte in Baden-Württemberg 45.
 
-    Catalogue: H. U. Nuber, ed. 1988. *Antike Bronzen aus Baden-Württemberg*. Exh. cat., Limesmuseums Aalen, Aalen (Germany).
+    Catalogue: H. U. Nuber, ed. 1988. *Antike Bronzen aus Baden-Württemberg*. Exh. cat., Limesmuseum Aalen, Aalen (Germany).
 
 11. 1990 MADRID
 
     XIth International Congress on Ancient Bronzes, May–June 1990. Madrid, Spain.
 
-    Acta: J. Arce and F. Burkhalter, eds. 1993. *Bronces y religion romana: Actas del X I congreso internacional de bronces antiguos, Madrid*. Madrid: Consejo Superior de Investigaciones Científicas.
+    Acta: J. Arce and F. Burkhalter, eds. 1993. *Bronces y religion romana: Actas del XI congreso internacional de bronces antiguos, Madrid*. Madrid: Consejo Superior de Investigaciones Científicas.
 
     Catalogue: P. de Velázquez, ed. 1990. *Los bronces romanos en España*. Exh. cat., Palacio de Velazquez, Madrid.
 
@@ -94,9 +94,9 @@ type: page
 
 14. 1999 Cologne
 
-    XIVth International Congress on Ancient Bronzes, September 21–24, 1999. Römisch-Germanischen Museums, Cologne, Germany.
+    XIVth International Congress on Ancient Bronzes, September 21–24, 1999. Römisch-Germanisches Museum, Cologne, Germany.
 
-    Acta: R. Thomas, ed. 2000. *Antike Bronzen: Werkstattkreise: Figuren und Geräte, 14. Internationaler Kongress, Römisch-Germanischen Museums, Köln*. Kölner Jahrbuch 33.
+    Acta: R. Thomas, ed. 2000. *Antike Bronzen: Werkstattkreise, Figuren und Geräte, 14. Internationaler Kongress, Römisch-Germanisches Museum, Köln*. Kölner Jahrbuch 33.
 
 15. 2001 GRADO-AQUILEIA
 
@@ -124,10 +124,10 @@ type: page
 
 19. 2015 LOS ANGELES
 
-    XIX International Congress on Ancient Bronzes, October 13–17, 2015. The J. Paul Getty Museum, Los Angeles, CA, U.S.A.
+    XIXth International Congress on Ancient Bronzes, October 13–17, 2015. The J. Paul Getty Museum, Los Angeles, CA, U.S.A.
 
     Catalogue: J. M. Daehner and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh. cat., The J. Paul Getty Museum, Los Angeles.
 
 20. 2018 TÜBINGEN
 
-    XX International Congress on Ancient Bronzes, April 17–21, 2018. University of Tübingen, Germany.
+    XXth International Congress on Ancient Bronzes, April 17–21, 2018. University of Tübingen, Germany.

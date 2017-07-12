@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Ayala
    last_name: Lester
-   affiliation: Israeli Antiquities Authority
+   affiliation: Israeli Antiquities Authority, Jerusalem
 abstract: |
     This paper, facilitated by the discovery of two large hoards of metal vessels, examines Fatimid metalware. The first hoard was found at Caesarea and included 136 metal articles, most of which were intact. The cache from Tiberias was found within a dwelling area and comprised 660 items hidden within three large pithoi. These discoveries enabled the study of a metal group previously little known. The paper traces the development of four groups of vessels through the Persian, Hellenistic, Roman, and Byzantine periods up to the Fatimid era (AD 969–1171). The study included lampstands, saucepans (which possibly served as measuring vessels based upon Islamic religious tradition), two types of braziers, and a group of feet and handles. The last group of minor articles underwent a fundamental morphological change into schematized shapes, exemplifying the consolidation of Islamic material culture.
 weight: 506

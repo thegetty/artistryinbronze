@@ -3,9 +3,9 @@ title: Bronze Warfare from the Hellenistic Period
 subtitle: A Study of the Acqualadroni Naval Ram
 type: abstract
 contributor:
- - first_name: Tisseyre
+ - first_name: Philippe
    last_name: Tisseyre
-   affiliation: Soprintendenza del Mare, Italy
+   affiliation: Soprintendenza del Mare, Palermo
 abstract: |
     A rostrum (*embolos* in ancient Greek, “naval ram” in English) was an offensive naval weapon mounted on the prow of a ship at the waterline and was used to damage enemy warships. The rostrum was probably a Greek invention dating back to the sixth century BC and was considered a formidable offensive weapon for centuries. Its use required an experienced captain and a disciplined crew. Other rostra have been found in the Mediterranean and are not to be confused with cutwaters, also used to damage enemy warships. The Hellenistic Athlit rostrum was found south of Haifa (Israel) in 1980 and was dated to 220 BC. Its archaeological and metallurgical analysis data, based on physico-chemical and metallographic analyses, provided unique information about bronze-casting and the construction of warships during the Hellenistic period.
 

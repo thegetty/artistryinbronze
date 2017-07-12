@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Jasper
    last_name: Gaunt
-   affiliation: Michael C. Carlos Museum, Emory University
+   affiliation: Michael C. Carlos Museum, Emory University, Atlanta
 abstract: |
     Evidence is presented suggesting that large bronze vessels with figural registers in relief, such as the Derveni krater, were extremely rare in Classical times. The most significant reason for this may not have been technical, since large pieces of armor were decorated using precisely the same techniques at the same time. Rather, this rarity may reflect the high cost of labor-intensive work.
 weight: 503

@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Gunvor
    last_name: Lindström
-   affiliation: Deutsches Archäeologisches Institut, Berlin
+   affiliation: Deutsches Archäologisches Institut, Berlin
 abstract: |
     The portrait of a Hellenistic ruler in the National Museum of Iran (inv. 2477) is the most prominent archaeological testimony of the Hellenistic presence in Iran. It shows the spread of Hellenistic large-scale sculpture in the regions east of the Tigris River, of which there is otherwise very little evidence. Furthermore, it is one of the few preserved original Hellenistic large-scale bronzes. Nevertheless, this extraordinary piece of art is rarely illustrated in handbooks on Hellenistic sculpture or ruler portraits, and only a few specialists are familiar with this bronze. The head represents a ruler, likely a king of the Seleucid dynasty, which ruled Iran in the third and second centuries BC. But due to the portrait’s intense deformation, the ruler represented could not be identified until now. In August 2015 a project was started with the aim of reconstructing the original facial features. Although this aim has not been achieved, the investigations at the National Museum of Iran have already yielded extraordinary results.
 weight: 402

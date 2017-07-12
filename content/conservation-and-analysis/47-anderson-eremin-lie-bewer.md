@@ -4,21 +4,21 @@ title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
 type: essay
 contributor:
- - first_name: Lisa Anderson
+ - first_name: Lisa
    last_name: Anderson
-   affiliation: Division of Asian and Mediterranean Art, Harvard Art Museums
+   affiliation: Division of Asian and Mediterranean Art, Harvard Art Museums, Cambridge, Massachusetts
  - first_name: Katherine
    last_name: Eremin
-   affiliation: Straus Center for Conservation and Technical Studies, Harvard Art Museums
+   affiliation: Straus Center for Conservation and Technical Studies, Harvard Art Museums, Cambridge, Massachusetts
  - first_name: Henry
    last_name: Lie
-   affiliation: Straus Center for Conservation and Technical Studies, Harvard Art Museums
+   affiliation: Straus Center for Conservation and Technical Studies, Harvard Art Museums, Cambridge, Massachusetts
  - first_name: Francesca
    last_name: Bewer
-   affiliation: Division of Academic and Public Programs, Harvard Art Museums
+   affiliation: Division of Academic and Public Programs, Harvard Art Museums, Cambridge, Massachusetts
  - first_name: Patrick
    last_name: Degryse
-   affiliation: Centre for Archaeological Sciences, Division of Geology, KU Leuven
+   affiliation: Centre for Archaeological Sciences, Division of Geology, KU Leuven, Belgium
 abstract: |
     Many different methods of analysis—art historical, technical, and scientific—must be considered at one time in order to determine the authenticity of an ancient metal artifact. But what should we do when multiple analytical methods are employed but no consensus can be reached? In this paper, we consider this question as applied to the Alexander Nelidow (inv. 1956.20), one of the most confounding and often questioned copper-alloy pieces in the collection of the Harvard Art Museums.
 

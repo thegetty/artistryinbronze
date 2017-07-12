@@ -5,7 +5,7 @@ type: abstract
 contributor:
  - first_name: Alessandra
    last_name: Giumlia-Mair
-   affiliation: AGM Archeoanalisi, Merano
+   affiliation: AGM Archeoanalisi, Merano, Italy
 abstract: |
     Since ancient times, the discovery of fakes has been a hot topic: in the course of our scientific research we quite often discover interesting examples of ancient imitations of valuable items or coins. They give us a glimpse into what was considered precious at the time in which they were produced, and represent a welcome addition to our knowledge.
 

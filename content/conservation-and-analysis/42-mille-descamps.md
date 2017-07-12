@@ -5,10 +5,10 @@ type: essay
 contributor:
  - first_name: Benoît
    last_name: Mille
-   affiliation: Centre de Recherche et de Restauration des Musées de France (C2RMF) & UMR7055 Préhistoire et Technologie, France
+   affiliation: Centre de Recherche et de Restauration des Musées de France (C2RMF) & UMR7055 Préhistoire et Technologie, Paris
  - first_name: Sophie
    last_name: Descamps-Lequime
-   affiliation: Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, Paris, France
+   affiliation: Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, Paris
 abstract: |
     Important advances have recently been made in the study of the Piombino Apollo, thanks to the rediscovery in 2010 of a fragmentary inscribed lead tablet with the partial names of two sculptors, initially found in the statue during the 1842 restoration ordered by the Louvre museum. The new results fully support the assumption of an Archaizing creation and moreover confirm the Rhodian origin of the statue. They allow us to propose a very narrow dating for its manufacture (120–100 BC) and to suggest that the statue was erected in the Rhodian sanctuary of Athena Lindia.
 

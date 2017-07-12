@@ -4,7 +4,7 @@ type: abstract
 contributor:
  - first_name: Mireille M.
    last_name: Lee
-   affiliation: Vanderbilt University, Nashville
+   affiliation: Vanderbilt University, Nashville, Tennessee
 abstract: |
     A fine caryatid mirror formerly in the collection of Julien Gréau was recently determined to be a pastiche of Greek and Etruscan, ancient and modern. It is well established that the corpus of bronze caryatid mirrors contains a large number of fakes. This paper analyzes the production of these objects within the social context of nineteenth-century Paris.
 

@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Susanne
    last_name: Gänsicke
-   affiliation: J. Paul Getty Museum
+   affiliation: J. Paul Getty Museum, Los Angeles
  - first_name: Stefan
    last_name: Hagel
    affiliation: Austrian Academy of Sciences, Vienna

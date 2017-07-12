@@ -14,7 +14,7 @@ abstract: |
 
     Inlays appear in a broad variety of bronze object types from weapons and armor to vessels and jewelry to relief-decorated objects and figural sculpture. Many of the finest early Greek bronzes were embellished with inlays that enlivened the sculptural forms and may have added symbolic or even magical qualities. Eyes were often given particular prominence with inlays.
 
-    Of special interest is a new technical analysis of a Late Geometric statuette of a man and a centaur (Metropolitan Museum of Art, inv. 17.190.2072), in which the eyes of the man were inlaid with silver to contrast with the eyes of the centaur, which appear to have an iron-rich inlay. Although the evidence is frequently incomplete, it is clear that a wide variety of colorful inlays such as gold, silver, iron, bone, ivory, and amber were utilized, and other materials, such as stone and shell, were certainly used as well.
+    Of special interest is a new technical analysis of a Late Geometric statuette of a man and a centaur (Metropolitan Museum of Art, inv. 17.190.2072) in which the eyes of the man were inlaid with silver to contrast with the eyes of the centaur, which appear to have an iron-rich inlay. Although the evidence is frequently incomplete, it is clear that a wide variety of colorful inlays such as gold, silver, iron, bone, ivory, and amber were utilized, and other materials, such as stone and shell, were certainly used as well.
 
     This paper looks at the evidence for the Geometric (900–700 BC) and Archaic (700–480 BC) periods with particular reference to artworks in the collection of the Metropolitan Museum of Art in New York.
 weight: 302

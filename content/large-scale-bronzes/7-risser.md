@@ -6,12 +6,12 @@ type: essay
 contributor:
  - first_name: Erik
    last_name: Risser
-   affiliation: The J. Paul Getty Museum
+   affiliation: J. Paul Getty Museum, Los Angeles
  - first_name: David
    last_name: Saunders
-   affiliation: The J. Paul Getty Museum
+   affiliation: J. Paul Getty Museum, Los Angeles
 abstract: |
-    Between 2012 and 2013, the J. Paul Getty Museum collaborated with the Museo Archeologico Nazionale di Napoli to return the bronze portrait of Tiberius from Herculaneum for display. The project provided an opportunity for a full investigation into the statue’s eighteenth-century restorations and its ancient manufacture.
+    Between 2012 and 2013, the J. Paul Getty Museum collaborated with the Museo Archeologico Nazionale di Napoli to return the bronze portrait of Tiberius from Herculaneum to display. The project provided an opportunity for a full investigation into the statue’s eighteenth-century restorations and its ancient manufacture.
 
     The restoration techniques proved typical of the Royal Foundry at Portici, as documented for other Herculaneum bronzes by Edilberto Formigli and Götz Lahusen. Rather less expected was the discovery that the monumental statue—erected in AD 37—had been assembled from a large number of individually cast pieces. This has valuable implications for our knowledge of Roman bronze-working, and in particular the techniques that were employed to simplify the production of a large, complex statue. The many drapery folds of the toga offered a way of subdividing the larger-than-life-size portrait into numerous smaller parts that could be cast separately. The multiplicity of cast pieces not only made their molding easier but also allowed for smaller, safer pours of molten bronze, required less lead in the alloy, and demanded fewer chaplets. Once cast, the individual pieces were then joined with simple and economical tack welds, which were able to sustain the great weight of the statue.
 weight: 107

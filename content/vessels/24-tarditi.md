@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Chiara
    last_name: Tarditi
-   affiliation: Università Cattolica, Brescia (Italy)
+   affiliation: Università Cattolica, Brescia, Italy
 abstract: |
     The study of a substantial quantity of bronze vessel fragments from the Athenian acropolis provides an opportunity to better define the characteristics, the chronology, and the diffusion of the Athenian bronze vessel production from the late sixth to the mid-fifth century BC.
 weight: 501

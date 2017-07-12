@@ -7,9 +7,9 @@ contributor:
  - first_name: Colleen
    last_name: Snyder
    affiliation: The Cleveland Museum of Art
- - first_name: Ernst Pernicka
+ - first_name: Ernst
    last_name: Pernicka
-   affiliation: AGM Archeoanalisi, Merano (BZ), Italy
+   affiliation: AGM Archeoanalisi, Merano, Italy
  - first_name: Peter
    last_name: Northover
    affiliation: October House, Southmoor, UK

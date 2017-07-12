@@ -4,7 +4,7 @@ type: abstract
 contributor:
  - first_name: Nicholas
    last_name: West
-   affiliation: University of Oxford
+   affiliation: Colgate University, Hamilton, New York
 abstract: |
     This paper presents recent research on the Hellenistic and Roman bronze statuettes in the collection of the Ashmolean Museum. A number of individual statuettes are analyzed for the information they provide regarding the repetitive use of figural types developed during the Classical and early Hellenistic periods in later, primarily Roman, contexts.
 

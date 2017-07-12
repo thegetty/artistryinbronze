@@ -17,7 +17,7 @@ contributor:
    affiliation: Istituto Superiore per la Conservazione ed il Restauro (ICR), Rome
  - first_name: Mario
    last_name: Micheli
-   affiliation: Università Roma Tre
+   affiliation: Università Roma Tre, Rome
 abstract: |
     Two exceptional Greek original bronze statues were discovered underwater at Riace Marina (Calabria, Italy), in 1972. The statues represent a pair of warriors or athletes and are commonly labeled Statue A and Statue B. On the basis of stylistic studies, many authors date Statue A to 470–460 BC, and Statue B to 440–430 BC (Arias 1986).
 

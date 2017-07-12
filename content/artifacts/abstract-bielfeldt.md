@@ -5,7 +5,7 @@ type: abstract
 contributor:
  - first_name: Ruth
    last_name: Bielfeldt
-   affiliation: Harvard University, Cambridge, MA
+   affiliation: Ludwig-Maximilians-Universität, Munich
 abstract: |
     A distinctive feature of Roman bronze devices is their figural idiosyncrasy: the sometimes charming, sometimes bizarre mixture of anthropomorphic, zoomorphic, and floral forms employed for stems, legs, handles, and bodies. Vitruvius famously criticized such fanciful visual language in the vegetabilized architectures of Roman wall-painting; what has been sidelined in the discussions on Vitruvius and the *monstra* is that the wall-paintings merely elaborated motifs long established in furniture. In scholarship on furnishings, their hybrid composition was first appreciated as delightful and later, under the verdict of twentieth-century aesthetics, dismissed as superfluous ornamentation (“kitsch”). But it was never studied for what it can tell us about the notions associated with banquet accessories, corporeality, skillfulness, movement, and, not least, the physical energy—heat and light—produced by them.
 

@@ -5,19 +5,19 @@ type: essay
 contributor:
  - first_name: Nicola
    last_name: Salvioli
-   affiliation: Conservator, Florence, Italy
+   affiliation: Conservator, Florence
  - first_name: Stefano
    last_name: Sarri
-   affiliation: Soprintendenza per i Beni Archeologici della Toscana, Florence, Italy
+   affiliation: Soprintendenza per i Beni Archeologici della Toscana, Florence
  - first_name: Juri
    last_name: Agresti
-   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
  - first_name: Iacopo
    last_name: Osticioli
-   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
  - first_name: Salvatore
    last_name: Siano
-   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
 abstract: |
     The large equine protome from the Museo Archeologico Nazionale of Florence, called the Medici Riccardi horse head, has recently undergone conservation treatment sponsored by the Friends of Florence. The work was aimed at removing localized accretions and altered waxy layers. Materials were studied using traditional techniques and portable analytical devices, which identified hexogen materials, permitted their removal, and determined the composition of the underlying copper alloys. This maintenance intervention also provided an opportunity to extend the archaeometallurgical study carried out in the 1990s. The removal of the stratifications allowed a more accurate identification of the ancient repairs and modern integrations. A number of previously unknown cold plugs have been recognized, along with widespread traces of gold leaf, whose analysis unequivocally demonstrates that the artifact was originally gilded. Three-dimensional models of the outer and inner surfaces allowed examination of the thicknesses of the metal walls and careful mapping of surface features. The present conservation intervention improved the legibility of the artwork while the analysis of the data collected allows a thorough interpretation of its historical and archaeometallurgical aspects.
 weight: 705

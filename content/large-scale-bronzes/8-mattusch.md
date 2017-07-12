@@ -5,7 +5,7 @@ type: essay
 contributor:
  - first_name: Carol C.
    last_name: Mattusch
-   affiliation: George Mason University
+   affiliation: George Mason University, Fairfax, Virginia
 abstract: |
     A number of large-scale bronzes that have been identified by scholars as being Archaic, Classical, or Hellenistic statues of kouroi, *mellephebes*, a very young Apollo, or Dionysos may need to be reclassified. Many of them are now assigned to the Hellenistic or Graeco-Roman period, the explanation being that wealthy Romans continued to enjoy earlier styles of statuary. Other evidence suggests a different interpretation. At least three of these figures originally recognized simply as statues were found together with fragments that were identified after reconstruction as elaborate supports for trays. At least one wall-painting depicts such a tray-bearer on a base in a triclinium, and literary testimonia also refer to such figures. Two of the figures previously identified as statues were in fact discovered in triclinia. So in what sense are they statues? One by one, these bronzes are being added to an ever-expanding genre of what might better be described as luxury furniture—tray-bearers and lamp-holders. It appears to be a genre that was very popular in wealthy homes of the Graeco-Roman world. Interestingly enough, no marble examples of this type have as yet been identified, and so far none of the bronzes can be securely dated before the Hellenistic period.
 

@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Robert H.
    last_name: Tykot
-   affiliation: University of South Florida
+   affiliation: University of South Florida, Tampa
 abstract: |
     Identification of the composition of “bronze” objects—many of which are
     not in fact bronze—is fundamental for studying the technology and

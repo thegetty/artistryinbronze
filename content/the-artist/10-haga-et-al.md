@@ -6,10 +6,10 @@ type: essay
 contributor:
  - first_name: Kyoko
    last_name: Sengoku-Haga
-   affiliation: Tohoku University
+   affiliation: Tohoku University, Honshu, Japan
  - first_name: Sae
    last_name: Buseki
-   affiliation: Tohoku University
+   affiliation: Tohoku University, Honshu, Japan
  - first_name: Min
    last_name: Lu
    affiliation: Tencent Technology Co. Ltd., Shenzhen

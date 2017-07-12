@@ -6,12 +6,12 @@ type: essay
 contributor:
  - first_name: Susan C.
    last_name: Ferrence
-   affiliation: INSTAP Academic Press, Philadelphia, PA
+   affiliation: INSTAP Academic Press, Philadelphia, Pennsylvania
  - first_name: Alessandra
    last_name: Giumlia-Mair
-   affiliation: AGM Archeoanalisi, Merano (BZ), Italy
+   affiliation: AGM Archeoanalisi, Merano, Italy
 abstract: |
-    For this project a large number of Minoan metal objects of various sizes, belonging to different classes, and made of different metals were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan (EM) I to Middle Minoan (MM) IIA periods, with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
+    For this project a large number of Minoan metal objects of various sizes, belonging to different classes, and made of different metals were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan I to Middle Minoan IIA periods, with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
 
     The equipment employed for the analyses consists of a transportable XRF source on a support with devices to control its position and stability, a transformer, a stabilizer, and a computer with dedicated software. The characteristics of the equipment and its various devices, the dedicated software, and a suitable number of standards (produced ad hoc by AGM Archeoanalisi) greatly enhanced the precision of the system.
 

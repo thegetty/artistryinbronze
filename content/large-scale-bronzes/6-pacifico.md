@@ -6,8 +6,8 @@ type: essay
 contributor:
  - first_name: Silvia
    last_name: Pacifico
-   affiliation: Museo Archeologico Provinciale di Salerno
-abstract: |
+   affiliation: Museo Archeologico Provinciale di Salerno, Italy
+abstract: 
     The bronze head of Apollo found in the waters of the Gulf of Salerno in 1930 still offers an opportunity to discuss the date, casting, production, place of manufacture, and function of the work of art in antiquity.
 
     Laboratory analyses show that the bronze has percentages of copper (81%), lead (11%), and tin (5.5%) that can be associated with alloys found in the Roman Imperial period. The presence of copper seems to have been more elevated in the oldest bronzes (84–92%). Further evidence confirms that during the Roman phase, for large-scale bronze statuary, the lead content reached 20 percent and the tin, 10 percent. In terms of manufacturing, the head was made with the indirect lost-wax technique: the top of the head was joined above the fillet, as were individual curls.
