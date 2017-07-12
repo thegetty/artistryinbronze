@@ -107,7 +107,9 @@ Future study sessions with the team members within the next year are anticipated
 
 ## Acknowledgments
 
-Thanks are due to Richard  Newman, Head of Scientific Research, and Michele Derrick, Schorr Family Associate Research Scientist, MFA, Boston, for the alloy analysis and examination of the cross section. Special thanks for contributions and support of the project are due to Damon Beale, Lawrence Berman, Michele Derrick, Denise Doxey, Rita Freed, Christine Kondoleon, Jayme Kurland, Darcy Kuronen, Meredith Montague, Richard Newman, Matthew Siegal, Joel Thompson at the Museum of Fine Arts, Boston, and to many other scholars including Raj Gupta, Peter Holmes, Deborah Schorsch, David A. Scott, Bradley Strauchen-Scherer, Olga Sutkowska, Michael Tarkanian, Frank Willer, Michael Zach.
+Special thanks for contributions and support of the project are due to Damon Beale, Lawrence Berman, Michele Derrick, Denise Doxey, Rita Freed, Christine Kondoleon, Jayme Kurland, Darcy Kuronen, Meredith Montague, Richard Newman, Matthew Siegal, Joel Thompson at the Museum of Fine Arts, Boston, and to many other scholars including Raj Gupta, Peter Holmes, Deborah Schorsch, David A. Scott, Bradley Strauchen-Scherer, Olga Sutkowska, Michael Tarkanian, Frank Willer, Michael Zach.
+
+Thanks are also due to Richard  Newman, Head of Scientific Research, and Michele Derrick, Schorr Family Associate Research Scientist, MFA, Boston, for the alloy analysis and examination of the cross section.
 
 ## Notes
 
