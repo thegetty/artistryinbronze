@@ -76,7 +76,7 @@ table_list:
       </table>
 
   - id: "35.1"
-    caption:
+    caption: "List of the most common copper corrosion products"
     media_type: html
     table: |
       <table>
@@ -84,18 +84,18 @@ table_list:
           <tr> <th scope="col">Chemical Compound</th> <th scope="col">Mineralogical Name</th> <th scope="col">Chemical Formula</th> <th scope="col">Color</th> </tr>
         </thead>
       	<tbody>
-      		<tr> <th rowspan="2" scope="row">Oxides</th> <td>Cuprite</td> <td>Cu<sub>2</sub>0</td> <td>Red/Orange</td> </tr>
+      		<tr> <th rowspan="2" scope="row">Oxides</th> <td>Cuprite</td> <td>Cu<sub>2</sub>O</td> <td>Red/Orange</td> </tr>
       		<tr>  <td>Tenorite</td> <td>CuO</td> <td>Black grey</td> </tr>
       		<tr> <th rowspan="3" scope="row">Carbonates</th> <td>Malachite</td> <td>CuCO<sub>3</sub> Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
-      		<tr>  <td>Azurite</td> <td>2 CuC0<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
-      		<tr>  <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuC0<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>0</td> <td>Green/Blue</td> </tr>
+      		<tr>  <td>Azurite</td> <td>2 CuCO<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
+      		<tr>  <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuCO<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>O</td> <td>Green/Blue</td> </tr>
       		<tr> <th scope="row">Chloride</th> <td>Nantokite</td> <td>CuCl</td> <td>green/White</td> </tr>
-      		<tr> <th rowspan="3" scope="row">Basic Chlorides</th> <td>Atacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Green</td> </tr>
-      		<tr>  <td>Paratacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
-      		<tr>  <td>Botallakite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
+      		<tr> <th rowspan="3" scope="row">*Basic Chlorides</th> <td>*Atacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Green</td> </tr>
+      		<tr>  <td>*Paratacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
+      		<tr>  <td>*Botallakite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
       		<tr> <th rowspan="2" scope="row">Sulphides</th> <td>Chalcocite</td> <td>Cu<sub>2</sub>S</td> <td>Black</td> </tr>
       		<tr>  <td>Covellite</td> <td>CuS</td> <td>Black</td> </tr>
-      		<tr> <th scope="row">Sulphate</th> <td>Brochantite</td> <td>CuS0<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
+      		<tr> <th scope="row">Sulphate</th> <td>Brochantite</td> <td>CuSO<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
       	</tbody>
       </table>
 

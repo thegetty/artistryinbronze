@@ -7,7 +7,7 @@ contributor:
  - first_name: Maria Pia
    last_name: Casaletto
    affiliation: Istituto per lo Studio dei Materiali Nanostrutturati, Consiglio Nazionale delle Ricerche (CNR-ISMN), Palermo
- - first_name: Wilma
+ - first_name: Vilma
    last_name: Basilissi
    affiliation: Istituto Superiore per la Conservazione ed il Restauro, Rome
 abstract: |
@@ -31,11 +31,13 @@ In some cases, corrosion effects on historic and artistic artifacts can be seen 
 
 Degradation processes occur as the object reacts to its archaeological burial and post-excavation environments (storage or exhibition). These reactions represent a big challenge for the conservation of metallic artworks, especially in the case of ancient bronzes. Copper-based artifacts may suffer from a pronounced electrochemical corrosion caused mainly by the presence of unstable species (chlorine) that could induce active cyclic copper corrosion, also known as “bronze disease.”
 
-In the framework of several international and national projects carried out in the last decade,[^2] we investigated the corrosion products of a large number of ancient bronze artifacts excavated in the Mediterranean Basin as a function of the chemical composition, the metallurgical features of the alloy, the archaeological context, and the post-burial degradation. The chemical, physical, morphological, and metallurgical characterization of bronzes sampled in different conservation conditions was performed by means of scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), and optical microscopy (OM). The results provided good insight into the corrosion layers and evidenced the nearly universal presence of chlorine as cuprous chloride (CuCl). A complex microchemical structure of the corrosion products, grown during the long archaeological burial, was frequently detected. The most common copper corrosion products are listed in [table 35.1](#table-35.1); the dangerous basic chlorides resulting from “bronze disease” are marked with asterisks.
+In the framework of several international and national projects carried out in the last decade,[^2] we investigated the corrosion products of a large number of ancient bronze artifacts excavated in the Mediterranean Basin as a function of the chemical composition, the metallurgical features of the alloy, the archaeological context, and the post-burial degradation. The chemical, physical, morphological, and metallurgical characterization of bronzes sampled in different conservation conditions was performed by means of scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), X-ray photoelectron spectroscopy (XPS), X-ray diffraction (XRD), and optical microscopy (OM). The results provided good insight into the corrosion layers and evidenced the nearly universal presence of chlorine as cuprous chloride (CuCl). A complex microchemical structure of the corrosion products, grown during the long archaeological burial, was frequently detected. The most common copper corrosion products are listed in [table 35.1](#table-35.1). The dangerous basic chlorides resulting from “bronze disease” are marked with asterisks.
 
 {{< q-table id="35.1" scale=".8" border="horizontal" >}}
 
-Long-term stability of Cu-based artworks is deeply affected by the cyclic copper (Cu) corrosion induced by air exposure (RH>35%) of the reactive cuprous chloride (CuCl) that is located at the interface between external corrosion products and the surviving core metal matrix ([fig. 35.1a](#35.1a)).[^3] Pitting corrosion attacks develop underneath the corrosion products, deep in internal areas of the alloy, with typical pinpoint forms (pits) or craters, and only later appear on the surface. At this point, the state of conservation of the artifacts is irremediably compromised ([fig. 35.1b](#35.1b)), and an appropriate stabilization intervention is necessary to prevent further damage.
+Long-term stability of Cu-based artworks is deeply affected by the cyclic copper (Cu) corrosion induced by air exposure (RH>35%) of the reactive cuprous chloride (CuCl) that is located at the interface between external corrosion products and the surviving core metal matrix.[^3] Pitting corrosion attacks develop underneath the corrosion products, deep in internal areas of the alloy, with typical pinpoint forms (pits) or craters, and only later appear on the surface. At this point, the state of conservation of the artifacts is irremediably compromised ([fig. 35.1](#35.1)), and an appropriate stabilization intervention is necessary to prevent further damage.
+
+{{< q-figure id="35.1" >}}
 
 Results of the XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from the surface of a pure bronze alloy and from various archaeological artifacts corroded by “bronze disease” are shown here ([fig. 35.2](#35.2a)). In a pure bronze alloy, the Cu 2p<sub>3/2</sub> photoelectron signal consists of a single component centered at a binding energy (BE) value around 932.0 eV, that is assigned to Cu<sup>0</sup>, Cu<sup>+1</sup> species on the surface (see [fig. 35.2a](#35.2a)). In corroded bronze samples, the presence of a second component located at BE = 934.5 eV in the XPS Cu 2p<sub>3/2</sub> spectrum clearly indicates a fraction of Cu<sup>+2</sup> species on the surface, whose relative quantity is related to the extent of corrosion suffered by the ancient bronzes (see [figs. 35.2b–c](fig. 35.2b)).
 
@@ -71,11 +73,11 @@ Reference and/or commercial bronze alloys were used as metallic substrates, afte
 
 ## Organic Corrosion Inhibitors
 
-In order to find a possible substitute for BTA, we synthesized different functionalized organic compounds with protective and/or inhibition properties for the conservation of archaeological bronzes.[^13] In the molecular design of a new organic compound, containing nitrogen and/or sulfur moieties ([fig. 35.4](#35.4)), there were certain requirements to be fulfilled for application as corrosion inhibitor. The ideal molecule should have high efficiency in the inhibition of bronze corrosion, low toxicity, environmentally friendly behavior, and long-term stability. Since this product is meant to be applied on real archaeological bronzes, other conservation requirements needed to be considered, such as the preservation of the aesthetic value, the ease of application, and long-term performance.
+In order to find a possible substitute for BTA, we synthesized different functionalized organic compounds with protective and/or inhibition properties for the conservation of archaeological bronzes.[^13] In the molecular design of a new organic compound, containing nitrogen and/or sulfur moieties ([fig. 35.4](#35.4)), there were certain requirements to be fulfilled for application as corrosion inhibitor. The ideal molecule should have high efficiency in the inhibition of bronze corrosion, low toxicity, environmentally friendly behavior, and long-term stability. Since this product is meant to be applied on real archaeological bronzes, other conservation requirements needed to be considered, such as the preservation of the aesthetic value, the ease of application, and the long-term performance.
 
 {{< q-figure id="35.4" >}}
 
-A large number of chemical compounds belonging to different classes of organic molecules (e.g., imidazoles, malonamides, oxalamides, aminoalcohols, aminopyrroles) were purposely synthesized for application in bronze conservation. Unfortunately, we encountered many failures, due to (1) synthetic problems (accessibility of reagents, difficult synthetic routes, low yield of the product), (2) low solubility, (3) the formation of a colored solution, (4) the toxicity of the molecule, and (5) the cost of the production. Since this strategy of chemical synthesis proved to be very time-consuming, with too many requirements to be fulfilled and, consequently, with a high risk of failures, we tried to follow a different approach by investigating natural compounds extracted from the seeds of endemic plants.
+A large number of chemical compounds belonging to different classes of organic molecules (e.g., imidazoles, malonamides, oxalamides, aminoalcohols, aminopyrroles) were purposely synthesized for application in bronze conservation. Unfortunately, we encountered many failures, due to to synthetic problems (accessibility of reagents, difficult synthetic routes, low yield of the product); low solubility; the formation of a colored solution; the toxicity of the molecule; and the cost of the production. Since this strategy of chemical synthesis proved to be very time-consuming, with too many requirements to be fulfilled and, consequently, with a high risk of failures, we tried to follow a different approach by investigating natural compounds extracted from the seeds of endemic plants.
 
 ## “Green” Corrosion Inhibitors
 
@@ -83,7 +85,7 @@ Using eco-friendly compounds derived from extracts as “green” corrosion inhi
 
 {{< q-figure id="35.5" >}}
 
-New formulations based on the oil extracted from the seed of *Opuntia ficus indica* and *Nigella sativa* seeds were investigated for bronze corrosion in a marine environment (3% NaCl solution).[^16] The *Opuntia ficus indica* formulation performed best, and the product was regularly licensed. Our good result allowed the application of this formulation, which is green in color, on some bronzes from the Roman collection of the Archaeological Museum of Rabat (Morocco), which are on display in the exhibition rooms in good conservation conditions.
+New formulations based on the oil extracted from the seeds of *Opuntia ficus indica* and the seeds of *Nigella sativa* were investigated for bronze corrosion in a marine environment (3% NaCl solution).[^16] The *Opuntia ficus indica* formulation performed best, and the product was regularly licensed. Our good result allowed the application of this “green” formulation on some bronzes from the Roman collection of the Archaeological Museum of Rabat (Morocco), which are on display in the exhibition rooms in good conservation conditions.
 
 ## Smart “Self-Healing” Coatings
 
@@ -101,7 +103,7 @@ The scientific literature on bronze corrosion inhibitors is huge, but the vast m
 
 ## Acknowledgments
 
-Financial support from the pon03pe\_00214\_1 Project: “Nanotecnologie e nanomateriali per i Beni Culturali,” TECLA, Distretto di Alta Tecnologia per l’Innovazione nel settore dei Beni Culturali della Regione Sicilia, is gratefully acknowledged.
+Financial support from the PON03PE\_00214\_1 Project: “Nanotecnologie e nanomateriali per i Beni Culturali,” TECLA, Distretto di Alta Tecnologia per l’Innovazione nel settore dei Beni Culturali della Regione Sicilia, is gratefully acknowledged.
 
 ## Notes
 

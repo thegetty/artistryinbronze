@@ -1825,14 +1825,8 @@ figure_list:
     credit: >
       Image: Musei Vaticani, Archivio Fotografico Neg. no. XXVII.15.146
 
-  - id: "35.1a"
-    src: fig_35.01a_Casaletto.jpg
-    caption: >
-      Corrosion of archaeological bronzes: detail of pitting corrosion on a bronze greave from the *panoplia* unearthed in Arquata del Tronto (AP), Italy.
-    credit: >
-
-  - id: "35.1b"
-    src: fig_35.01b_Casaletto.jpg
+  - id: "35.1"
+    src: fig_35.01_Casaletto.jpg
     caption: >
       Corrosion of archaeological bronzes: schematic illustration of “bronze disease”
     credit: >
