@@ -5,16 +5,6 @@ type: essay
 contributor:
  - first_name: V.
    last_name: Kantarelou
-<<<<<<< HEAD
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens
- - first_name: A. G. Karydas
-   last_name: Karydas
-   affiliation: Institute of Nuclear Physics, NCSR Demokritos, Athens
- - first_name: L.
-   last_name: Mahfoud
-   affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Damascus
- - first_name: A. Qurdab
-=======
    affiliation: Institute of Nuclear and Particle Physics, NCSR Demokritos, Athens, Greece
  - first_name: A. G.
    last_name: Karydas
@@ -23,7 +13,6 @@ contributor:
    last_name: Mahfoud
    affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Syria
  - first_name: A.
->>>>>>> origin/first-pages
    last_name: Qurdab
    affiliation: Ministry of Culture, Directorate General of Antiquities & Museums, Damascus
  - first_name: M.
