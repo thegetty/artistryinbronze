@@ -33,7 +33,7 @@ The second case of Type A was found in Derveni, near Thessaloniki, in Cist Grave
 
 {{< q-figure id="32.2a" >}}
 
-{{< q-figure-group id="32.2b, 32.2c" label="true" caption=" Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, restored case B 35" >}}
+{{< q-figure-group id="32.2b, 32.2c" grid="2" label="true" caption="Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, restored case B 35. Image: A. Thanos" >}}
 
 {{< q-figure id="32.2d" >}}
 
