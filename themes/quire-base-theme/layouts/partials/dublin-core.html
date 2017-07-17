@@ -1,5 +1,5 @@
 <link rel="schema.dcterms" href="http://purl.org/dc/terms/">
-    <meta name="dcterms.title" content="{{ .Site.Data.publication.title }}{{ with .Site.Data.publication.subtitle }}: {{ . }}{{ end }}{{ with .Site.Data.publication.reading_line }} ({{ . }}){{ end }}">
+    <meta name="dcterms.title" content="{{ partial "full-title.html" .Site.Data.publication }}">
     {{ range .Site.Data.publication.primary_contributor -}}
     <meta name="dcterms.creator" content="{{ .first_name }}{{ .last_name }}">
     {{ end -}}

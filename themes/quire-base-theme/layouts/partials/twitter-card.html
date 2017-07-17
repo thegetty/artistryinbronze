@@ -9,7 +9,7 @@
     <!-- Standalone Essays/Articles w/i Books  -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ .Site.Data.publication.url }}{{ .URL }}">
-    <meta name="twitter:title" content="{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}: {{ . }}{{ end }}">
+    <meta name="twitter:title" content="{{ partial "full-title.html" .Page.Params }}">
     <meta name="twitter:description" content="{{ .Page.Params.abstract | truncate 100 }}">
     <meta name="twitter:image" content="{{ .Site.Data.publication.cover_graphic }}">
   {{ end -}}
