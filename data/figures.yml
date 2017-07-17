@@ -414,7 +414,7 @@ figure_list:
   - id: "7.5"
     src: fig_7.05_Risser_Saunders.jpg
     caption: >
-      Schematic diagrams of (a) drapery in cross-section; (b) subdivision; (c) enclosure of subdivisions by vestiture. Illustration by E. Risser.
+      Schematic diagrams of (a) drapery in cross-section; (b) subdivision; (c\) enclosure of subdivisions by vestiture. Illustration by E. Risser.
     credit: >
 
   - id: "7.6"
@@ -1991,39 +1991,39 @@ figure_list:
   - id: "37.1"
     src: fig_37.01_Boyatzis.jpg
     caption: >
-      Chemical structures of materials studied, used and/or mentioned in this work. (a) Paraloid B44; (b) benzotriazole; (c) epoxidized soybean oil (ESO) basic functional structure; (d) Tinuvin 600 (aryl-substituted benzotriazole)
+      Chemical structures of materials studied, used and/or mentioned in this work. (a) Paraloid B44; (b) benzotriazole; (c\) epoxidized soybean oil (ESO) basic functional structure; (d) Tinuvin 600 (aryl-substituted benzotriazole)
     credit: >
 
   - id: "37.2"
     src: fig_37.02_Boyatzis.jpg
     caption: >
-      FTIR spectra of Incralac (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c) after Cycle 2. For ageing conditions, see Experimental Section
+      FTIR spectra of Incralac (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c\) after Cycle 2. For ageing conditions, see Experimental Section
     credit: >
 
   - id: "37.3"
     src: fig_37.03_Boyatzis.jpg
     caption: >
-      Objects from the National Archaeological Museum of Athens. Conservation Report: (a) jug, inv. Χ 7934; (b) statuette with goddess Isis, Χ 1974; (c) mirror, Χ 21039; (d) kyanthos, Χ 26175; (e) ring, Χ 25604; (f) spiral bracelet, Χ 17166; (g) strigil, Χ 8297; (h) sword, Π 7317. The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
+      Objects from the National Archaeological Museum of Athens. Conservation Report: (a) jug, inv. Χ 7934; (b) statuette with goddess Isis, Χ 1974; (c\) mirror, Χ 21039; (d) kyanthos, Χ 26175; (e) ring, Χ 25604; (f) spiral bracelet, Χ 17166; (g) strigil, Χ 8297; (h) sword, Π 7317. The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
     credit: >
       Image: Ministry of Culture and Sports – Archaeological Receipts Fund, and National Archaeological Museum
 
   - id: "37.4"
     src: fig_37.04_Boyatzis.jpg
     caption: >
-      FTIR spectra of coatings, for objects from the National Archaeological Museum of Athens. Inventory numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) X 7934 (1979; 28 years), (b) X 1974 (1985; 22 years), (c) X 21039 (1991; 16 years), (d) X 8297 (1997; 10 years), (e) X 26175 (1998–99; 8–9 years), (f) Π 7317 (2003; 4 years), (g) X 25604 (2000; 7 years), (h) X 17166 (1999; 8 years). The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
+      FTIR spectra of coatings, for objects from the National Archaeological Museum of Athens. Inventory numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) X 7934 (1979; 28 years), (b) X 1974 (1985; 22 years), (c\) X 21039 (1991; 16 years), (d) X 8297 (1997; 10 years), (e) X 26175 (1998–99; 8–9 years), (f) Π 7317 (2003; 4 years), (g) X 25604 (2000; 7 years), (h) X 17166 (1999; 8 years). The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
     credit: >
       Image: Ministry of Culture and Sports – Archaeological Receipts Fund, and National Archaeological Museum
 
   - id: "37.5"
     src: fig_37.05_Boyatzis.jpg
     caption: >
-      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm
+      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm
     credit: >
 
   - id: "37.6"
     src: fig_37.06_Boyatzis.jpg
     caption: >
-      FTIR spectra of coatings, from the Epigraphic and Numismatic Museum. Group numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) group A (2002; 5 years); (b) group B (1997; 10 years); (c) group C (1992; 15 years); (d) group D (1987; 20 years) and (e) group E (1982; 25 years)
+      FTIR spectra of coatings, from the Epigraphic and Numismatic Museum. Group numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) group A (2002; 5 years); (b) group B (1997; 10 years); (c\) group C (1992; 15 years); (d) group D (1987; 20 years) and (e) group E (1982; 25 years)
     credit: >
 
   - id: "38.1"
