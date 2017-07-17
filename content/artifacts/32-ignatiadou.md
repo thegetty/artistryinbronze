@@ -13,7 +13,7 @@ weight: 603
 
 ## Introduction
 
-*Parexodos* is the name ascribed in the Hippocratic Corpus to the portable medical case that a doctor must own to facilitate work outside his premises. In it, he could store prepared medicaments and also his tools: “ἔστω δέ σοι ἑτέρη παρέξοδος ἡ λιτοτέρη πρὸς τὰς ἀποδημίας ἡ διὰ χειρῶν . . . \[Be sure to possess another portable case, simpler and hand-held for travels . . .\]” (*De decente habitu* 8.10–11).[^1]
+*Parexodos* is the name ascribed in the Hippocratic Corpus to the portable medical case that a doctor must own to facilitate work outside his premises. In it, he could store prepared medicaments and also his tools: “ἔστω δέ σοι ἑτέρη παρέξοδος ἡ λιτοτέρη πρὸς τὰς ἀποδημίας ἡ διὰ χειρῶν … \[Be sure to possess another portable case, simpler and hand-held for travels … \]” (*De decente habitu* 8.10–11).[^1]
 
 We are familiar with the medical cases of the Roman period, which are rectangular boxes with sliding lids and rectangular compartments,[^2] but our knowledge of the medical cases of the Classical and Hellenistic periods remains limited. In Macedonia, older and recent finds illuminate an important production of multi- and single-compartment medical and writing cases of those periods.
 

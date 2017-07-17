@@ -101,7 +101,7 @@ For the opportunity to study the portrait of Tiberius, we are indebted to Luigia
 
 [^8]: *Antichità* 1771, pl. 80.
 
-[^9]: “. . . Intorno alli ristauri delli antichi metalli in tutto oggi deve essere compita la statua dell’omo velato, non rimarra altro nella settimana ventura di dargli la patena, cioè al novo, et accordarla intiera.<sup>te</sup>, qual fatica sara di un omo, e li altri daranno principio a quella della Donna, la quale e in moltiss<sup>mi</sup> pezzi. . .” (quoted in Scatozza Höricht 1982, 524–25).
+[^9]: “… Intorno alli ristauri delli antichi metalli in tutto oggi deve essere compita la statua dell’omo velato, non rimarra altro nella settimana ventura di dargli la patena, cioè al novo, et accordarla intiera.<sup>te</sup>, qual fatica sara di un omo, e li altri daranno principio a quella della Donna, la quale e in moltiss<sup>mi</sup> pezzi…” (quoted in Scatozza Höricht 1982, 524–25).
 
 [^10]: Lahusen and Formigli 2001; see also Mattusch and Lie 2005, 335–37; Represa Fernandez 1988, 21–25; Scatozza Höricht 1982; Caianiello 1998; and Prisco 2008.
 

@@ -34,7 +34,7 @@ On top of the base dedicated by Hegelochos, father and son of Ekphantos ([fig. 9
 
 {{< q-figure id="9.2" >}}
 
-The circular base dedicated by “\[ . . . \]as and Ophsios” ([fig. 9.3](#9.3)) presents two long dowel holes on the surface. The shape of the base is not common and it may be that one of the unfinished column drums of the older Parthenon was reused as a pedestal. The position of the dowel holes shows that the bronze statue, a lost bronze Athena,[^11] stood with its feet close together; the statue was standing and not in motion.
+The circular base dedicated by “\[ … \]as and Ophsios” ([fig. 9.3](#9.3)) presents two long dowel holes on the surface. The shape of the base is not common and it may be that one of the unfinished column drums of the older Parthenon was reused as a pedestal. The position of the dowel holes shows that the bronze statue, a lost bronze Athena,[^11] stood with its feet close together; the statue was standing and not in motion.
 
 {{< q-figure id="9.3" >}}
 
@@ -108,7 +108,7 @@ This paper is part of a wider project on a technical lexicon and art criticism i
 
 [^21]: For example,  Ridgway 1970. On the reception of Archaic style, Hallett 2012.
 
-[^22]: Rolley 1994, 320: “C’est sous l’influence des auteurs latins, qui caractérisent les œuvres des sculpteurs de cette période par les qualificatifs *durus*, *rigidus*, *austerus*, que Winckelmann, dans son *Histoire de l’art antique* de 1764, qualifie de sévère (*streng*) la sculpture antérieure à Pheidias. . . . C’est l’étude fondamentale de V. Poulsen qui a imposé l’expression ‘style sévère’.” For Muller-Dufeu (2002, 171): “le style sévère, en référence à la noblesse d’attitude que les artistes donnent alors à leurs œuvres.”
+[^22]: Rolley 1994, 320: “C’est sous l’influence des auteurs latins, qui caractérisent les œuvres des sculpteurs de cette période par les qualificatifs *durus*, *rigidus*, *austerus*, que Winckelmann, dans son *Histoire de l’art antique* de 1764, qualifie de sévère (*streng*) la sculpture antérieure à Pheidias…. C’est l’étude fondamentale de V. Poulsen qui a imposé l’expression ‘style sévère’.” For Muller-Dufeu (2002, 171): “le style sévère, en référence à la noblesse d’attitude que les artistes donnent alors à leurs œuvres.”
 
 [^23]: Poulsen 1937; Bol 2004a; Germini (2008, 19) attributes the concept of *hardness* solely to Archaic artistic production, in clear contradiction with the literary sources analyzed. See Lapatin 2012.
 
