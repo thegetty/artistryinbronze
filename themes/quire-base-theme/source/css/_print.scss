@@ -133,8 +133,9 @@ $print-page-number-size: 7.5pt;
     page: footer;
     page-break-before: always;
 
-    p + p {
-      text-indent: 2em;
+    p + p,
+    figure + p {
+      text-indent: 1.5em;
     }
 
     &__content__main,
