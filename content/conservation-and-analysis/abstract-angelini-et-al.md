@@ -1,7 +1,8 @@
 ---
 title: The Riace Bronze Statues
 subtitle: Chemical, Textural, and Isotopic Investigation of the Metals
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Ivana
    last_name: Angelini
@@ -25,6 +26,7 @@ abstract: |
 
     Chemical and textural investigation of the Cu-alloy samples was performed by SEM-EDS, EPMA, and metallographic analyses on polished cross sections. The data are discussed and compared with literature data available for coeval statues. Moreover, the lead isotopic compositions of selected samples were investigated by MC-ICP-MS. Comparison of the results with existing Pb-isotope databases (OXALID; BRETTSCAIFE.net; Alpine Archaeocopper Project) shows that the copper used for Statue A is compatible with western Mediterranean deposits, whereas the copper of Statue B fit with eastern Mediterranean ores. The isotopic signals of the welding samples from Statue B show a different provenance, possibly related to the age of the welding operations. The lead of the tenons of both statues has a very well defined isotopic signal compatible with a Greek source.
 weight: 714
+online: false
 ---
 
 ## Bibliography

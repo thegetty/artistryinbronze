@@ -1,7 +1,8 @@
 ---
 title: Standspiegel, Figured Appliqués, and Other Bronze Items at Locri Epizefiri (Magna Graecia)
 subtitle: "Morphology, Style, and Chronology between Local Production and External Influences (Sixth to Fourth Century BC): A Reappraisal"
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Diego
    last_name: Elia
@@ -16,6 +17,7 @@ abstract: |
 
     The analysis of the features of Locrian bronze objects allows for a reassessment of the local productive milieu between the sixth and the fourth centuries BC, a period that is characterized by traditionalism, external influences, and hybridism, as well as originality in the choice of iconographies and in the creation of specific items. The Locrian case study provided a unique opportunity to understand the eclectic re-elaboration of patterns and morphology, and the adoption of novelty elements coming from different traditions, aimed at satisfying the tastes of the local elite. Besides, the recent reexamination of find contexts—namely the funerary assemblages—offers the opportunity to define an autonomous chronological system to be integrated with considerations deriving from stylistic analysis.
 weight: 608
+online: false
 ---
 
 ## Bibliography

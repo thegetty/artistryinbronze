@@ -1,7 +1,8 @@
 ---
 title: Apoxyomenos
 subtitle: Discovery, Underwater Excavation, and Survey
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Jasen
    last_name: Mesić
@@ -13,4 +14,5 @@ abstract: |
 
     The research was international in character, with English, Belgian, and Croatian divers. They were driven by the same goal: to find other discoveries and possibly the underwater shipwreck. Unfortunately, despite detailed investigation with underwater metal detectors and waterpipes, the shipwreck has not been found. Does this mean that we will never find out how the Apoxyomenos ended up on the seabed? To answer this question, we will have to look more deeply into historical, geographic, climatic, and nautical contexts.
 weight: 110
+online: false
 ---

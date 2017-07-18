@@ -1,6 +1,7 @@
 ---
 title: The Hellenistic Heritage of Termez
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Djalalitdin
    last_name: Mirzaev
@@ -12,4 +13,5 @@ abstract: |
 
     The development of technology for clay sculptures on the basis of ancient, preexisting traditions received a powerful boost from the emergence of a new genre of art—painted clay sculptures—the style and iconography of which remained Greek. Thus, the composition of the products of Bactria in the third to first century BC in general corresponds to that in the Greek cities; the emergence of a variety of styles testifies to the intense processing of the imported traditions.
 weight: 404
+online: false
 ---

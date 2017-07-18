@@ -1,6 +1,7 @@
 ---
 title: Technical Examinations on the Parthian Bronze Coffin from Chubtarash Archaeological Site, Khorramabad, Western Iran
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Omid
    last_name: Oudbashi
@@ -18,4 +19,5 @@ abstract: |
 
     The results showed that the coffin’s body is made of binary copper-tin (bronze) alloy. Other elements such as arsenic, lead, zinc, and nickel are detected as minor/trace elements. The handles also are made of tin bronze alloy, but with a different amount of tin. The observations and microstructural examination of samples revealed that the tub-like body of the coffin was manufactured in one piece, and a cycle of mechanical working and heat treatment was applied in order to shape the coffin. The bronze handles were made by casting, and some work was done on them to finish the final shape. The technical examinations on this individual bronze coffin from Iran illuminated some aspects of archaeometallurgical activities in the Parthian period of Iran.
 weight: 719
+online: false
 ---

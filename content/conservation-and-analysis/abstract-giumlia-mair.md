@@ -1,7 +1,8 @@
 ---
 title: Modern and Ancient Metal Fakes
 subtitle: Composition, Patina, Production Technology, Technical Details
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Alessandra
    last_name: Giumlia-Mair
@@ -13,4 +14,5 @@ abstract: |
 
     Identification studies of fakes are just as different and variable as the multitude of objects that come under our eyes while studying museum collections. In this paper, some of the most skillful ways of aging freshly made objects, for example, by applying some kind of a fake patina, are presented; “wrong” technical details are described; and several examples of ancient and modern fakes are discussed by highlighting their peculiarities.
 weight: 717
+online: false
 ---

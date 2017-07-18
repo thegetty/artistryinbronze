@@ -1,6 +1,7 @@
 ---
 title: The Ancient Chariot from Serbia
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Dragan
    last_name: Milanović
@@ -21,4 +22,5 @@ abstract: |
 
     The remains of the chariot were restored in the Conservation Department of the National Museum in Belgrade, and a reconstruction model of this unique ancient chariot was simultaneously built.
 weight: 611
+online: false
 ---

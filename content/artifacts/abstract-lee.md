@@ -1,6 +1,7 @@
 ---
 title: The Gréau Mirror and the Phenomenon of Fakes in Nineteenth-Century Paris
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Mireille M.
    last_name: Lee
@@ -12,4 +13,5 @@ abstract: |
 
     Within the larger context of the antiquities market in late nineteenth-century Paris, I argue that bronzes were of special interest to collectors. On the one hand, metals were an essential aspect of industrialization, as symbolized most dramatically by the construction of *la tour Eiffel* for the 1889 *Exposition universelle*. In many ways, metals represented both a link with the past and a path to the future. Small-scale bronze sculptures were, like the terracotta Tanagras, easily replicable, affordable for a mass market, and conveniently displayed on a mantel or shelf. Finally, the caryatid mirror held special appeal on account of its functional familiarity, but also because the female figure provided a model for women just as the French feminist movement was redefining modern femininity.
 weight: 610
+online: false
 ---

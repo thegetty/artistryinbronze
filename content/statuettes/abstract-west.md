@@ -1,6 +1,7 @@
 ---
 title: Figural Bronze Statuettes in the Ashmolean Collection and the Aesthetics of Replication
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Nicholas
    last_name: West
@@ -10,4 +11,5 @@ abstract: |
 
     Two categories of iconography are investigated: types that appear to be dependent on large-scale Classical visual forms, such as the very commonly found standing Mercury motif, and types that were conceived in small-scale format, such as dwarfs and genre figures. The paper provides a brief analysis of the visual relationships that these types have with their earlier models and with images in other media to offer some preliminary conclusions and ask further questions about visual replication in the realm of small-scale bronzes.
 weight: 310
+online: false
 ---

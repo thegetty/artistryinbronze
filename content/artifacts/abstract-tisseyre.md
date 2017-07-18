@@ -1,7 +1,8 @@
 ---
 title: Bronze Warfare from the Hellenistic Period
 subtitle: A Study of the Acqualadroni Naval Ram
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Philippe
    last_name: Tisseyre
@@ -15,4 +16,5 @@ abstract: |
 
     <https://www.academia.edu/3782220/Il_Rostro_di_Acqualadroni_un_relitto_del_III_sec.a.C._in_Un_Mare_d_aMare_Palermo_2013>
 weight: 612
+online: false
 ---
