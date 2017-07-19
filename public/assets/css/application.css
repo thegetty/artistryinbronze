@@ -663,6 +663,34 @@
     }
   }
 @charset "UTF-8";
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../fonts/opensans-italic-webfont.eot);
+  src: url(../fonts/opensans-italic-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/opensans-italic-webfont.woff2) format("woff2"), url(../fonts/opensans-italic-webfont.woff) format("woff"), url(../fonts/opensans-italic-webfont.ttf) format("truetype");
+  font-weight: 400;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../fonts/opensans-light-webfont.eot);
+  src: url(../fonts/opensans-light-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/opensans-light-webfont.woff2) format("woff2"), url(../fonts/opensans-light-webfont.woff) format("woff"), url(../fonts/opensans-light-webfont.ttf) format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../fonts/opensans-lightitalic-webfont.eot);
+  src: url(../fonts/opensans-lightitalic-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/opensans-lightitalic-webfont.woff2) format("woff2"), url(../fonts/opensans-lightitalic-webfont.woff) format("woff"), url(../fonts/opensans-lightitalic-webfont.ttf) format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../fonts/opensans-regular-webfont.eot);
+  src: url(../fonts/opensans-regular-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/opensans-regular-webfont.woff2) format("woff2"), url(../fonts/opensans-regular-webfont.woff) format("woff"), url(../fonts/opensans-regular-webfont.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+
 html {
   color: #313131;
   font-family: "Open Sans", sans-serif;
@@ -1429,7 +1457,9 @@ code {
   .quire-nav,
   .quire-menu,
   .quire-search,
-  .quire-page__header__page-navigation {
+  .quire-page__header__page-navigation,
+  .quire-section-head .quire-page__section-list__link,
+  .quire-section-head .quire-page__section-list__abstract {
     display: none; }
   html {
     font-size: 9.5pt;
@@ -1439,11 +1469,27 @@ code {
     column-span: all;
     margin-bottom: 1em;
     margin-top: 1em; }
+  .quire-section-head .quire-page {
+    page: bleed;
+    width: 9in;
+    height: 11.5in;
+    margin-top: -.25in;
+    margin-left: -.25in;
+    background-size: 9in 11.5in;
+    background-color: #995326;
+    padding-top: 4.25in;
+    padding-bottom: -4.25in; }
+  .quire-section-head h1 {
+    color: #fff; }
+  .quire-section-head .quire-page__section-list,
+  .quire-section-head hr {
+    display: none; }
   .quire-page {
     page: footer;
     page-break-before: always; }
-    .quire-page p + p {
-      text-indent: 2em; }
+    .quire-page p + p,
+    .quire-page figure + p {
+      text-indent: 1.5em; }
     .quire-page__content__main, .quire-page__content__references {
       column-count: 2;
       column-gap: 0.25in; }
