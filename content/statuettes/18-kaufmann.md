@@ -65,11 +65,11 @@ This brief overview has shown that the group of medium-sized statuettes might gr
 
 [^8]: Reinach 1898; Oehmke 2004, 106, no. 51; Peltz and Schalles 2011, 92–94, fig. 9.
 
-[^9]: H: 67 cm (26 3/8 in.). Oehmke 2004, 102, no. 47; Peltz and Schalles 2011, 92–94, fig 10.
+[^9]: H: 67 cm (26 <sup>3</sup>⁄<sub>8</sub> in.). Oehmke 2004, 102, no. 47; Peltz and Schalles 2011, 92–94, fig 10.
 
-[^10]: H: 60 cm (23 5/8 in.). Billoret 1970, 281, fig. 3; Manfrini-Aragno 1987, 62–63, fig. 46; Kaufmann-Heinimann 1998, 243, GF22, fig. 195.
+[^10]: H: 60 cm (23 <sup>5</sup>⁄<sub>8</sub> in.). Billoret 1970, 281, fig. 3; Manfrini-Aragno 1987, 62–63, fig. 46; Kaufmann-Heinimann 1998, 243, GF22, fig. 195.
 
-[^11]: Jupiter: de Ridder 1913, no. 36, pl. 7; Menzel 1980; Lavagne 1989, 29–30, no. 6 (F. Beck). Minerva (h: 40.2 cm or 15 7/8 in.): de Ridder 1913, no. 1071, plate 63; Lavagne 1989, 28–29, no. 5 (F. Beck); Dövener 2010, 50–53, fig. 5. For the discovery and early excavations: Metzler and Zimmer 1978, 354–59, figs. 1–5.
+[^11]: Jupiter: de Ridder 1913, no. 36, pl. 7; Menzel 1980; Lavagne 1989, 29–30, no. 6 (F. Beck). Minerva (h: 40.2 cm or 15 <sup>7</sup>⁄<sub>8</sub> in.): de Ridder 1913, no. 1071, plate 63; Lavagne 1989, 28–29, no. 5 (F. Beck); Dövener 2010, 50–53, fig. 5. For the discovery and early excavations: Metzler and Zimmer 1978, 354–59, figs. 1–5.
 
 [^12]: Scheid 2007, 482. A complete but smaller bronze group of Jupiter, Juno, and Minerva (h: 29–33 cm or 11 1/2–13 in.) was part of a hoard connected to a rural sanctuary at Muri (Switzerland): Leibundgut 1980, nos. 6, 42–43, plates 11–13, 54–59; Kaufmann-Heinimann 1998, 283, GF80, fig. 245. For other representations of the Capitoline triad, see Costantini 1997.
 

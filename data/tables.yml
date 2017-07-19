@@ -185,12 +185,12 @@ table_list:
           <tr><th scope="col">Distributor</th> <th scope="col">Base acrylic resin</th> <th scope="col">Additives</th> </tr>
         </thead>
         <tbody>
-          <tr> <th scope="row">A</th> <td>Paraloid® B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">B</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">C</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">D</th> <td>Different resin, possibly Paraloid® B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">E</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">F</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">A</th> <td>Paraloid B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">B</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">C</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">D</th> <td>Different resin, possibly Paraloid B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">E</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">F</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
         </tbody>
       </table>
 
@@ -201,13 +201,13 @@ table_list:
       <table>
         <caption>Table 37.2. FTIR assignments of key materials</caption>
         <thead>
-          <tr> <th scope="col">Incralac® Absorption maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
+          <tr> <th scope="col">Incralac Absorption maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
         </thead>
         <tbody>
           <tr> <th scope="row"3444</th> <td>Carbonyl ester harmonic</td> </tr>
-          <tr> <th scope="row">2989, 2953, 2846(sh)</th> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid® B44) <sup>2</sup></td> </tr>
+          <tr> <th scope="row">2989, 2953, 2846(sh)</th> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid B44) <sup>2</sup></td> </tr>
           <tr> <th scope="row">2926</th> <td><em>v<sub>as </sub></em>CH<sub>2</sub> from oil, possibly ESO<sup>4</sup></td> </tr>
-          <tr> <th scope="row">2875</th> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid® B48N; found in one case, see text) <sup>2</sup></td> </tr>
+          <tr> <th scope="row">2875</th> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid B48N; found in one case, see text) <sup>2</sup></td> </tr>
           <tr> <th scope="row">1732</th> <td><em>v</em> C=O in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">1604</th> <td><em>v</em> C=C in aromatic ring of BTA<sup>3</sup></td> </tr>
           <tr> <th scope="row">1548</th> <td><em>δ</em> NH</td> </tr>

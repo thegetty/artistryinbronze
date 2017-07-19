@@ -310,7 +310,7 @@ figure_list:
   - id: "5.2"
     src: fig_5.02_Butz.jpg
     caption: >
-      Frontal view of the bronze head of Arsinoë III, 30 x 20 x 30 (11 3/4 x 7 5/8 x 11 3/4 in.). Mantua Museo Civico di Palazzo Te, Acerbi Collection, inv. no. 96190279.
+      Frontal view of the bronze head of Arsinoë III, 30 x 20 x 30 (11 3/4 x 7 <sup>5</sup>⁄<sub>8</sub> x 11 3/4 in.). Mantua Museo Civico di Palazzo Te, Acerbi Collection, inv. no. 96190279.
     credit: >
       Image: © Museo Civico di Palazzo Te, Mantua
 
@@ -351,7 +351,7 @@ figure_list:
   - id: "5.7"
     src: fig_5.07_Butz.jpg
     caption: >
-      An etching of the Archelaos Relief by Giovanni Battista Galestruzzi (1658) at the British Museum records the disposition of inscriptions with, however, several inaccuracies along the framework of the bottom register. The inscriptions are difficult to see in most photographs of the stone. For the epigraphy, see Newton et al. 1874, no. 1098. 449 x 325 mm (17 3/4 x 12 7/8 in.), British Museum. inv. 1874,0808.782.
+      An etching of the Archelaos Relief by Giovanni Battista Galestruzzi (1658) at the British Museum records the disposition of inscriptions with, however, several inaccuracies along the framework of the bottom register. The inscriptions are difficult to see in most photographs of the stone. For the epigraphy, see Newton et al. 1874, no. 1098. 449 x 325 mm (17 3/4 x 12 <sup>7</sup>⁄<sub>8</sub> in.), British Museum. inv. 1874,0808.782.
     credit: >
       Image: © Trustees of the British Museum
 
@@ -414,7 +414,7 @@ figure_list:
   - id: "7.5"
     src: fig_7.05_Risser_Saunders.jpg
     caption: >
-      Schematic diagrams of (a) drapery in cross-section; (b) subdivision; (c) enclosure of subdivisions by vestiture. Illustration by E. Risser.
+      Schematic diagrams of (a) drapery in cross-section; (b) subdivision; (c\) enclosure of subdivisions by vestiture. Illustration by E. Risser.
     credit: >
 
   - id: "7.6"
@@ -506,7 +506,7 @@ figure_list:
   - id: "9.3"
     src: fig_9.03_Adornato.jpg
     caption: >
-      Base of [. . .]as and Ophsios. Athens, Acropolis Museum, inv. 13270.
+      Base of […]as and Ophsios. Athens, Acropolis Museum, inv. 13270.
     credit: >
       Image: Socratis Mavrommatis © Acropolis Museum
 
@@ -625,7 +625,7 @@ figure_list:
   - id: "13.6"
     src: fig_13.06_Barr-Sharrar.jpg
     caption: >
-      Diadumenos, mid-first century AD. H: 14.3 cm (5 5/8 in.). Paris, Bibliothèque Nationale, Cabinet des Médailles, inv. 927.
+      Diadumenos, mid-first century AD. H: 14.3 cm (5 <sup>5</sup>⁄<sub>8</sub> in.). Paris, Bibliothèque Nationale, Cabinet des Médailles, inv. 927.
     credit: >
       Image: © Marie-Lan Nguyen / Wikimedia Commons
 
@@ -641,84 +641,84 @@ figure_list:
     caption: >
       Aphrodite, 150–100 BC. H: 51.8 cm (20 1/2 in.). New York, Metropolitan Museum of Art (Rogers Fund, 1912), inv. 12.173.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.1"
     src: fig_14.01_Hemingway_Abramitis.jpg
     caption: >
       Bronze statuette of man and centaur. Greek, mid-eighth century BC. X-radiograph illustrates hollows for inlays of centaur’s eyes. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Pierpont Morgan, 1917.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.2"
     src: fig_14.02_Hemingway_Abramitis.jpg
     caption: >
       Detail of centaur’s head, proper left profile. EDS image maps elemental distribution with iron shown in green. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Perpont Morgan, 1917.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.3"
     src: fig_14.03_Hemingway_Abramitis.jpg
     caption: >
       Bronze statuette of a horse. Greek, seventh century BC. X-radiograph (inset) illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org). EDS mapping by Department of Scientific Research.
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org). EDS mapping by Department of Scientific Research.
 
   - id: "14.4"
     src: fig_14.04_Hemingway_Abramitis.jpg
     caption: >
       Bronze head of a griffin. Greek, third quarter of seventh century BC. Metropolitan Museum of Art, New York, inv. 1972.118.54. Bequest of Walter C. Baker, 1971.
     credit: >
-      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.5"
     src: fig_14.05_Hemingway_Abramitis.jpg
     caption: >
       Bronze support in the form of a sphinx. Greek, ca. 600 BC. Metropolitan Museum of Art, New York, inv. 2000.660. Gift from the family of Howard J. Barnet, in his memory, 2000.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.6"
     src: fig_14.06_Hemingway_Abramitis.JPG
     caption: >
       Detail of bulbous center of diadem on the forehead of the sphinx in fig. 14.5. Gift from the family of Howard J. Barnet, in his memory, 2000.
     credit: >
-      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.7"
     src: fig_14.07_Hemingway_Abramitis.jpg
     caption: >
       Bronze spear-butt. Greek, ca. 500 BC. Metropolitan Museum of Art, New York, inv. 38.11.7. Fletcher Fund, 1938.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.8"
     src: fig_14.08_Hemingway_Abramitis.jpg
     caption: >
       Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7. Fletcher Fund, 1938.
     credit: >
-      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "15.1"
     src: fig_15.01_McGowan.jpg
     caption: >
       Bronze statuette of an artisan. New York, Metropolitan Museum of Art inv. 1972.11.1. Rogers Fund, 1972.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "15.2"
     src: fig_15.02_McGowan.jpg
     caption: >
       Bronze statuette of an artisan (see fig. 15.1), back view. Roger Fund, 1972.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "15.3"
     src: fig_15.03_McGowan.jpg
     caption: >
       Bronze statuette of an artisan (see fig. 15.1), left profile. Roger Fund, 1972.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "15.4"
     src: fig_15.04_McGowan.jpg
@@ -958,7 +958,7 @@ figure_list:
   - id: "18.1"
     src: fig_18.01_Kaufmann.jpg
     caption: >
-      Hermaphrodite from Pont-Sainte-Maxence. Present location unknown. Height without base 60 cm (23 5/8 in.). *RA* (1898), plate IX
+      Hermaphrodite from Pont-Sainte-Maxence. Present location unknown. Height without base 60 cm (23 <sup>5</sup>⁄<sub>8</sub> in.). *RA* (1898), plate IX
     credit: >
 
   - id: "18.2"
@@ -1022,7 +1022,7 @@ figure_list:
     caption: >
       Bronze rooster with enamel from Cirencester. Corinium Museum, Cirencester.
     credit: >
-      Image: © Cotswold District Council, courtesy of Corinium Museum, [www.coriniummuseum.org](www.coriniummuseum.org)
+      Image: © Cotswold District Council, courtesy of Corinium Museum, [www.coriniummuseum.org](http://www.coriniummuseum.org)
 
   - id: "19.3"
     src: fig_19.03_Grossi.jpg
@@ -1161,7 +1161,7 @@ figure_list:
     caption: >
       Urartian bronze belt, inv. 52.123. Metropolitan Museum of Art, New York.
     credit: >
-      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "22.1"
     src: fig_22.01_Lindstroem.jpg
@@ -1258,7 +1258,7 @@ figure_list:
     caption: >
       Limestone head of a woman, probably from a banquet relief, from Palmyra. Ca. AD 200–220. 10 3/4 × 7 × 5 in. (27.31 × 17.78 × 12.7 cm). Los Angeles, Los Angeles County Museum of Art inv. M.82.77.2.
     credit: >
-      Gift of Robert Blaugrund. Image: Courtesy Los Angeles County Museum of Art, [www.lacma.org](www.lacma.org)
+      Gift of Robert Blaugrund. Image: Courtesy Los Angeles County Museum of Art, [www.lacma.org](http://www.lacma.org)
 
   - id: "23.7"
     src: fig_23.07_Albertson.jpg
@@ -1400,7 +1400,7 @@ figure_list:
     caption: >
       Pointed neck-amphora with stand. Bronze. Greek, ca. 500–450 BC. New York, Metropolitan Museum of Art, inv. 2004.171a–b.
     credit: >
-      Image: © The Metropolitan Museum of Art, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "26.4"
     src: fig_26.04_Gaunt.jpg
@@ -1412,7 +1412,7 @@ figure_list:
   - id: "26.5"
     src: fig_26.05_Gaunt.jpg
     caption: >
-      Helmet from Metaponto. Greek, South Italian, Archaic Period, 525-500 BC. Bronze with ivory and Bronze restoration. 19 3/8 x 12 3/4 x 6 3/4 inches. Saint Louis Art Museum. Museum Purchase 282:1949.
+      Helmet from Metaponto. Greek, South Italian, Archaic Period, 525-500 BC. Bronze with ivory and Bronze restoration. 19 <sup>3</sup>⁄<sub>8</sub> x 12 3/4 x 6 3/4 inches. Saint Louis Art Museum. Museum Purchase 282:1949.
     credit: >
       Image: St. Louis Art Museum
 
@@ -1434,7 +1434,7 @@ figure_list:
     caption: >
       Attic red-figure cup with a woman carrying a bail-handled amphora, attributed to Douris, ca. 480 BC. New York, Metropolitan Museum of Art, inv. 1986.322.1. Gift of Norbert Schimmel.
     credit: >
-      Image: © The Metropolitan Museum of Art, [www.metmuseum.org](www.metmuseum.org)
+      Image: © The Metropolitan Museum of Art, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "27.1"
     src: fig_27.01_De_Decker.jpg
@@ -1724,6 +1724,13 @@ figure_list:
   - id: "32.2c"
     src: fig_32.02c_Ignatiadou.jpg
     caption: >
+      Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, restored case B 35
+    credit: >
+      Image: A. Thanos
+
+  - id: "32.2d"
+    src: fig_32.02d_Ignatiadou.jpg
+    caption: >
       Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, original case B 35 + B 90
     credit: >
       Image: D. Ignatiadou
@@ -1759,7 +1766,7 @@ figure_list:
   - id: "32.7"
     src: fig_32.07_Ignatiadou.jpg
     caption: >
-      Veroia. Bronze semi-cylindrical case and stone palette. Late fourth‒early third century BC. Archaeological Museum of Veroia.
+      Veroia. Bronze semi-cylindrical case. Probably third BC. Archaeological Museum of Veroia.
     credit: >
       Image: Courtesy of A. Koukouvou
 
@@ -1984,39 +1991,39 @@ figure_list:
   - id: "37.1"
     src: fig_37.01_Boyatzis.jpg
     caption: >
-      Chemical structures of materials studied, used and/or mentioned in this work. (a) Paraloid® B44; (b) benzotriazole; (c) epoxidized soybean oil (ESO) basic functional structure; (d) Tinuvin® 600 (aryl-substituted benzotriazole)
+      Chemical structures of materials studied, used and/or mentioned in this work. (a) Paraloid B44; (b) benzotriazole; (c\) epoxidized soybean oil (ESO) basic functional structure; (d) Tinuvin 600 (aryl-substituted benzotriazole)
     credit: >
 
   - id: "37.2"
     src: fig_37.02_Boyatzis.jpg
     caption: >
-      FTIR spectra of Incralac® (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c) after Cycle 2. For ageing conditions, see Experimental Section
+      FTIR spectra of Incralac (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c\) after Cycle 2. For ageing conditions, see Experimental Section
     credit: >
 
   - id: "37.3"
     src: fig_37.03_Boyatzis.jpg
     caption: >
-      Objects from the National Archaeological Museum of Athens. Conservation Report: (a) jug, inv. Χ 7934; (b) statuette with goddess Isis, Χ 1974; (c) mirror, Χ 21039; (d) kyanthos, Χ 26175; (e) ring, Χ 25604; (f) spiral bracelet, Χ 17166; (g) strigil, Χ 8297; (h) sword, Π 7317. The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
+      Objects from the National Archaeological Museum of Athens. Conservation Report: (a) jug, inv. Χ 7934; (b) statuette with goddess Isis, Χ 1974; (c\) mirror, Χ 21039; (d) kyanthos, Χ 26175; (e) ring, Χ 25604; (f) spiral bracelet, Χ 17166; (g) strigil, Χ 8297; (h) sword, Π 7317. The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
     credit: >
       Image: Ministry of Culture and Sports – Archaeological Receipts Fund, and National Archaeological Museum
 
   - id: "37.4"
     src: fig_37.04_Boyatzis.jpg
     caption: >
-      FTIR spectra of coatings, for objects from the National Archaeological Museum of Athens. Inventory numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) X 7934 (1979; 28 years), (b) X 1974 (1985; 22 years), (c) X 21039 (1991; 16 years), (d) X 8297 (1997; 10 years), (e) X 26175 (1998–99; 8–9 years), (f) Π 7317 (2003; 4 years), (g) X 25604 (2000; 7 years), (h) X 17166 (1999; 8 years). The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
+      FTIR spectra of coatings, for objects from the National Archaeological Museum of Athens. Inventory numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) X 7934 (1979; 28 years), (b) X 1974 (1985; 22 years), (c\) X 21039 (1991; 16 years), (d) X 8297 (1997; 10 years), (e) X 26175 (1998–99; 8–9 years), (f) Π 7317 (2003; 4 years), (g) X 25604 (2000; 7 years), (h) X 17166 (1999; 8 years). The copyright of the item(s) in illustration belongs to the Greek Ministry of Culture and Sports.
     credit: >
       Image: Ministry of Culture and Sports – Archaeological Receipts Fund, and National Archaeological Museum
 
   - id: "37.5"
     src: fig_37.05_Boyatzis.jpg
     caption: >
-      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm
+      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm
     credit: >
 
   - id: "37.6"
     src: fig_37.06_Boyatzis.jpg
     caption: >
-      FTIR spectra of coatings, from the Epigraphic and Numismatic Museum. Group numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) group A (2002; 5 years); (b) group B (1997; 10 years); (c) group C (1992; 15 years); (d) group D (1987; 20 years) and (e) group E (1982; 25 years)
+      FTIR spectra of coatings, from the Epigraphic and Numismatic Museum. Group numbers are followed by year of conservation, and age of coating application at time of analysis (in parentheses). (a) group A (2002; 5 years); (b) group B (1997; 10 years); (c\) group C (1992; 15 years); (d) group D (1987; 20 years) and (e) group E (1982; 25 years)
     credit: >
 
   - id: "38.1"

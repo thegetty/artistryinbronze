@@ -14,7 +14,7 @@
     {{ end -}}
   {{ else -}}
     <!-- Standalone Essays/Articles w/i Books  -->
-    <meta property="og:title" content="{{ .Page.Params.title }}{{ with .Page.Params.subtitle }}: {{ . }}{{ end }}" />
+    <meta property="og:title" content="{{ partial "full-title.html" .Page.Params }}" />
     <meta property="og:url" content="{{ .Site.Data.publication.url }}{{ .URL }}" />
     <meta property="og:image" content="{{ .Page.Params.cover }}" />
     <meta property="og:description" content="{{ with .Page.Params.abstract }}{{ . | truncate 100 }}{{ end }}" />

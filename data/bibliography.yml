@@ -793,7 +793,7 @@ biblio_list:
     reference_for: "6"
 
   - short: Horn 1937
-    full: "Horn, R. 1937. “Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien vom Oktober 1936 bis Oktober 1937.” *AA* 3/4: 348­–466."
+    full: "Horn, R. 1937. “Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien vom Oktober 1936 bis Oktober 1937.” *AA* 3<span>/</span>4: 348­–466."
     reference_for: "6"
 
   - short: Maiuri 1942
@@ -813,7 +813,7 @@ biblio_list:
     reference_for: "6"
 
   - short: Technau 1931
-    full: "Technau, W. 1931. “Bericht über Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien von Oktober 1930 bis Oktober 1931.” *AA* 3/4: 620–710."
+    full: "Technau, W. 1931. “Bericht über Archäologische Funde in Italien, Tripolitanien, der Kyrenaika und Albanien von Oktober 1930 bis Oktober 1931.” *AA* 3<span>/</span>4: 620–710."
     reference_for: "6"
 
   - short: Allroggen-Bedel 1974
@@ -945,7 +945,7 @@ biblio_list:
     reference_for: "8"
 
   - short: Iozzo 1998
-    full: "Iozzo, M. 1998. *“. . . qual era tutto rotto”: L’enigma dell’Idolino di Pesaro: Indagini per un restauro*. Exh. cat. Florence: Museo Archeologico Nazionale."
+    full: "Iozzo, M. 1998. *“… qual era tutto rotto”: L’enigma dell’Idolino di Pesaro: Indagini per un restauro*. Exh. cat. Florence: Museo Archeologico Nazionale."
     reference_for: "8"
 
   - short: Iozzo 2015
@@ -2094,7 +2094,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Bolla 1999
-    full: "Bolla, M. 1999. “Bronzetti figurati romani del territorio veronese.” *Rassegna di Studi del Civico Museo Archeologico e del Civico Gabinetto Numismatico di Milano* 43/44: 193–260."
+    full: "Bolla, M. 1999. “Bronzetti figurati romani del territorio veronese.” *Rassegna di Studi del Civico Museo Archeologico e del Civico Gabinetto Numismatico di Milano* 43<span>/</span>44: 193–260."
     reference_for: "17"
 
   - short: Boucher 1976
@@ -2322,7 +2322,7 @@ biblio_list:
     reference_for: "18"
 
   - short: Dövener 2010
-    full: "Dövener, F. 2010. “‘Auge um Auge’ . . . Ein seltenes Fundstück aus dem Tempelbezirk des römischen Vicus in Dalheim.” *Empreintes* 3: 48–53."
+    full: "Dövener, F. 2010. “‘Auge um Auge’ … Ein seltenes Fundstück aus dem Tempelbezirk des römischen Vicus in Dalheim.” *Empreintes* 3: 48–53."
     reference_for: "18"
 
   - short: Estienne 2010
