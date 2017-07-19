@@ -113,7 +113,9 @@ $print-page-number-size: 7.5pt;
   .quire-nav,
   .quire-menu,
   .quire-search,
-  .quire-page__header__page-navigation {
+  .quire-page__header__page-navigation,
+  .quire-section-head .quire-page__section-list__link,
+  .quire-section-head .quire-page__section-list__abstract {
     display: none;
   }
 
@@ -127,6 +129,25 @@ $print-page-number-size: 7.5pt;
     column-span: all;
     margin-bottom: 1em;
     margin-top: 1em;
+  }
+
+  .quire-section-head .quire-page {
+    page: bleed;
+    width: 9in;
+    height: 11.5in;
+    margin-top: -.25in;
+    margin-left: -.25in;
+    background-size: 9in 11.5in;
+    background-color: $primary-color;
+    padding-top: 4.25in;
+    padding-bottom: -4.25in;
+  }
+  .quire-section-head h1 {
+    color: #fff;
+  }
+  .quire-section-head .quire-page__section-list,
+  .quire-section-head hr {
+    display: none;
   }
 
   .quire-page {
