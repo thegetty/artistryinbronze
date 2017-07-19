@@ -110,7 +110,7 @@ Note: Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–S
 
 [^21]: Krystalli-Votsi 2014, 64–67, plate 14.
 
-[^22]: Museo Archeologico Nazionale d’Abruzzo, Chieti, inv. 4340. H with base: 39 cm (15 1/2 in.). Recent publications of the statuette, with bibliographies, are Daehner and Lapatin 2015, 218–19, no. 16 (K. Lapatin), and Picón and Hemingway 2016, 112–13, no. 14 (R. Tuteri).
+[^22]: Museo Archeologico Nazionale d’Abruzzo, Chieti, inv. 4340. H with base: 39 cm (15 ½ in.). Recent publications of the statuette, with bibliographies, are Daehner and Lapatin 2015, 218–19, no. 16 (K. Lapatin), and Picón and Hemingway 2016, 112–13, no. 14 (R. Tuteri).
 
 [^23]: Moreno 1995, no. 4.14.1, 104–6.
 

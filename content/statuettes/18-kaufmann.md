@@ -43,7 +43,7 @@ So far we have been looking at large statuettes stored away in isolation, withou
 
 Certainly the largest and most precious temple treasure including statuettes is the silver hoard found at Berthouville (Eure, France) in 1830.[^23] It is linked to the deposit from Dalheim insofar as, according to the excavation reports of the late nineteenth century, its findspot, too, was located within the area of a large sanctuary. All the objects, which were deposited together at one stage, are of silver, indicating a deliberate prior separation of materials; accordingly, it can be assumed that a much larger quantity of bronze votive objects once existed. The votive inscriptions mention the names of nineteen dedicants who donated their small or larger offerings to the Gallo-Roman god Mercurius Canetonnensis.[^24] As the bases of the two statuettes of Mercury are lost,[^25] we do not have any information about their donors. Both figures were made by combining hammered and cast parts, the same technique used for the Minerva from Kerguilly. The two solid-cast hands of the larger statuette seem disproportionately small compared with the dominant head, which originally was covered with a separately cast petasos. The smaller Mercury, found in fragments, was reassembled and completed by a nineteenth-century artist. Both statuettes, made presumably at the end of the second or the beginning of the third century AD, may have been offered as votive objects to Mercury; there is no evidence linking the larger one with the cult statue itself, as has been tentatively suggested.[^26]
 
-The last statuette in this series, too, served as a votive object. It belongs to a bronze hoard (some of which is kept at the Getty Villa), whose origin could be ascertained, thanks to epigraphic evidence, as the territory of the Haedui (modern Burgundy, near Vézelay).[^27] There are in fact three statuettes depicting the previously unknown Gallo-Roman god Cobannus, but the two smaller ones adopt the well-known type of a young naked Mars whereas the largest statuette (nearly 70 cm or 27 1/2 in. high) and artistically quite outstanding, presents an exceptional iconography.[^28] The god wears a Classical *chlamys*, normally worn by Mercury, over a long-sleeved tunic and long pants—a combination of garments also found in a few other statuettes of Gallo-Roman origin, such as those portraying Sucellus.[^29] His head, covered with a helmet of the “Niederbieber type” used by the Roman army in the second century AD, presents a sharp contrast to his peaceful outfit. We may safely assume that such an original creation could not have been bought ready-made but points to the initiative of its donor, L. Maccius Aeternus, himself a Roman citizen and magistrate, who made sure that he fulfilled his vow to this local god with an adequate gift.
+The last statuette in this series, too, served as a votive object. It belongs to a bronze hoard (some of which is kept at the Getty Villa), whose origin could be ascertained, thanks to epigraphic evidence, as the territory of the Haedui (modern Burgundy, near Vézelay).[^27] There are in fact three statuettes depicting the previously unknown Gallo-Roman god Cobannus, but the two smaller ones adopt the well-known type of a young naked Mars whereas the largest statuette (nearly 70 cm or 27 ½ in. high) and artistically quite outstanding, presents an exceptional iconography.[^28] The god wears a Classical *chlamys*, normally worn by Mercury, over a long-sleeved tunic and long pants—a combination of garments also found in a few other statuettes of Gallo-Roman origin, such as those portraying Sucellus.[^29] His head, covered with a helmet of the “Niederbieber type” used by the Roman army in the second century AD, presents a sharp contrast to his peaceful outfit. We may safely assume that such an original creation could not have been bought ready-made but points to the initiative of its donor, L. Maccius Aeternus, himself a Roman citizen and magistrate, who made sure that he fulfilled his vow to this local god with an adequate gift.
 
 This brief overview has shown that the group of medium-sized statuettes might greatly profit from more systematic research into their iconographic, technical, and functional aspects.
 
@@ -61,17 +61,17 @@ This brief overview has shown that the group of medium-sized statuettes might gr
 
 [^6]: Heilmeyer 1996, 40–45; Peltz and Schalles 2011, 88–92.
 
-[^7]: H: 144 cm (56 3/4 in.). Hiller 1994; Peltz and Schalles 2011.
+[^7]: H: 144 cm (56 ¾ in.). Hiller 1994; Peltz and Schalles 2011.
 
 [^8]: Reinach 1898; Oehmke 2004, 106, no. 51; Peltz and Schalles 2011, 92–94, fig. 9.
 
-[^9]: H: 67 cm (26 <sup>3</sup>⁄<sub>8</sub> in.). Oehmke 2004, 102, no. 47; Peltz and Schalles 2011, 92–94, fig 10.
+[^9]: H: 67 cm (26 ⅜ in.). Oehmke 2004, 102, no. 47; Peltz and Schalles 2011, 92–94, fig 10.
 
-[^10]: H: 60 cm (23 <sup>5</sup>⁄<sub>8</sub> in.). Billoret 1970, 281, fig. 3; Manfrini-Aragno 1987, 62–63, fig. 46; Kaufmann-Heinimann 1998, 243, GF22, fig. 195.
+[^10]: H: 60 cm (23 ⅝ in.). Billoret 1970, 281, fig. 3; Manfrini-Aragno 1987, 62–63, fig. 46; Kaufmann-Heinimann 1998, 243, GF22, fig. 195.
 
-[^11]: Jupiter: de Ridder 1913, no. 36, pl. 7; Menzel 1980; Lavagne 1989, 29–30, no. 6 (F. Beck). Minerva (h: 40.2 cm or 15 <sup>7</sup>⁄<sub>8</sub> in.): de Ridder 1913, no. 1071, plate 63; Lavagne 1989, 28–29, no. 5 (F. Beck); Dövener 2010, 50–53, fig. 5. For the discovery and early excavations: Metzler and Zimmer 1978, 354–59, figs. 1–5.
+[^11]: Jupiter: de Ridder 1913, no. 36, pl. 7; Menzel 1980; Lavagne 1989, 29–30, no. 6 (F. Beck). Minerva (h: 40.2 cm or 15 ⅞ in.): de Ridder 1913, no. 1071, plate 63; Lavagne 1989, 28–29, no. 5 (F. Beck); Dövener 2010, 50–53, fig. 5. For the discovery and early excavations: Metzler and Zimmer 1978, 354–59, figs. 1–5.
 
-[^12]: Scheid 2007, 482. A complete but smaller bronze group of Jupiter, Juno, and Minerva (h: 29–33 cm or 11 1/2–13 in.) was part of a hoard connected to a rural sanctuary at Muri (Switzerland): Leibundgut 1980, nos. 6, 42–43, plates 11–13, 54–59; Kaufmann-Heinimann 1998, 283, GF80, fig. 245. For other representations of the Capitoline triad, see Costantini 1997.
+[^12]: Scheid 2007, 482. A complete but smaller bronze group of Jupiter, Juno, and Minerva (h: 29–33 cm or 11 ½–13 in.) was part of a hoard connected to a rural sanctuary at Muri (Switzerland): Leibundgut 1980, nos. 6, 42–43, plates 11–13, 54–59; Kaufmann-Heinimann 1998, 283, GF80, fig. 245. For other representations of the Capitoline triad, see Costantini 1997.
 
 [^13]: The actual state of the epigraphical evidence at Dalheim is presented by Krier 2011.
 
@@ -97,12 +97,12 @@ This brief overview has shown that the group of medium-sized statuettes might gr
 
 [^24]: Nuber 1974; Deniaux 2006.
 
-[^25]: H: 56.3 and 40.5 cm (22 1/4 and 16 in.). Babelon 1916, pls. 1–4; Lapatin 2014, figs. 6–7.
+[^25]: H: 56.3 and 40.5 cm (22 ¼ and 16 in.). Babelon 1916, pls. 1–4; Lapatin 2014, figs. 6–7.
 
 [^26]: Baratte and Painter 1989, no. 27 (A. Kaufmann-Heinimann); Lapatin 2014, 17.
 
 [^27]: Pollini 2002; Rolley 2002, 281–87; Dondin-Payre and Kaufmann-Heinimann 2009. There are still some open questions concerning the original size and provenance of the hoard.
 
-[^28]: H: 67.5, 51.5, and 16 cm (36 1/2, 20 1/4, and 6 1/4 in.). Pollini 2002, 7–12, nos. 4–6, figs. 27–54.
+[^28]: H: 67.5, 51.5, and 16 cm (36 ½, 20 ¼, and 6 ¼ in.). Pollini 2002, 7–12, nos. 4–6, figs. 27–54.
 
 [^29]: Kaufmann-Heinimann 2012, 5–18, figs. 3, 6–9, 12–13.
