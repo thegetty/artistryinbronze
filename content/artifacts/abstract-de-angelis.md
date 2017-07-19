@@ -1,7 +1,8 @@
 ---
 title: Balancing Artifacts
 subtitle: Incense-Burners and Ponderation in Etruria
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Francesco
    last_name: De Angelis
@@ -11,4 +12,5 @@ abstract: |
 
     This paper will argue that such aspects can be related to the actual functions of the incense-burners. They thereby serve as self-conscious visual commentaries on the perceived nature of these implements. At the same time, their analysis can also shed light on the multifaceted ways in which Greek ponderation was received and understood in Etruria.
 weight: 606
+online: false
 ---

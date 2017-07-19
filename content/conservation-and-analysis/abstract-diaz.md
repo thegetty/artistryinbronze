@@ -1,6 +1,7 @@
 ---
 title: Copper, War, and Art in Ancient Greece
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Soledad
    last_name: Díaz
@@ -10,4 +11,5 @@ abstract: |
 
     The study is made by comparing pieces from various Spanish state museums, which have been analyzed and have undergone restoration and conservation during recent years by the Subdirectory of the Spanish Historical Heritage Institute.
 weight: 716
+online: false
 ---

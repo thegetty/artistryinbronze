@@ -1,6 +1,7 @@
 ---
 title: The Transformation of Bronze Sculpture in the Hellenistic East and the Iranian World
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Matthew P.
    last_name: Canepa
@@ -10,4 +11,5 @@ abstract: |
 
     This paper examines the dynamic intersection between medium, style, and political and religious power in the dissolution of the Seleucid Empire and rise of the new Iranian political and visual cultures of power under such dynasties as the Arsakids, Orontids, and Mithradatids.
 weight: 403
+online: false
 ---

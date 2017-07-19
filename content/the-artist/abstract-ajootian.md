@@ -1,6 +1,7 @@
 ---
 title: Praxiteles’s Bronze Sculpture at Delphi
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Aileen
    last_name: Ajootian
@@ -10,4 +11,5 @@ abstract: |
 
     A reevaluation of the inscribed text, an examination of the old arguments for the attribution to Praxiteles’s hypothetical grandson, and a new look at the stone itself suggest that it should be assigned instead to the famous fourth-century sculptor himself. Furthermore, this base, with another now in the Thebes Museum, provides secure evidence for Praxiteles’s production of bronze statues. Overall, the five fourth-century bases from mainland Greece bearing his name all attest to Praxiteles’s work as a portrait artist. Delphi 3951, the only surviving Praxitelean votive commissioned by a city instead of a private individual, documents the sculptor’s work in bronze at the panhellenic site. Ancient literary sources emphasized Praxiteles’s mythological statues, especially his famous marble Aphrodite, but analysis of the archaeological record—fourth-century statue bases bearing his “signature”—reveals a different facet of his artistic profile. The inscribed base for a bronze statue at Delphi sheds new light on Praxiteles.
 weight: 205
+online: false
 ---

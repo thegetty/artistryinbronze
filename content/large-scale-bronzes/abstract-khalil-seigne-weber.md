@@ -1,7 +1,8 @@
 ---
 title: Second-Century Large Bronze Workshop at Gerasa (Jerash, Jordan)
 subtitle: Jordanian-European Cultural Heritage Conservation Program at Jerash 2012
-type: abstract
+type: esssay
+layout: abstract-only
 contributor:
  - first_name: Lutfi
    last_name: Khalil
@@ -17,4 +18,5 @@ abstract: |
 
     The bronze-workshop was located on the lower terrace of the Zeus sanctuary. At the moment, its remains include four large mold pits, with traces of large copper-alloy cast objects at the bottom (two circular, two rectangular in plan). Some three thousand pieces of the smashed mold mantle (consisting of baked earth), along with numerous fragments of the furnaces and other installations, had been dumped into these pits when the casting process was finished. The negative impression on the interiors of the mold fragments led to the conclusion that large-sized draped statuary, as well as other objects (cultic instruments?), was fabricated in this workshop by the lost-wax procedure.
 weight: 109
+online: false
 ---

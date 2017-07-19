@@ -6,6 +6,7 @@
       "@type": "Article",
       "name": "{{ partial "full-title.html" .Page.Params }}",
       "url": "{{ .Site.Data.publication.url }}{{ .URL }}",
+      {{ if .Page.Params.contributor -}}
       "author": [
         {{ $len := len .Page.Params.contributor -}}
         {{ range $index, $element := .Page.Params.contributor -}}
@@ -15,6 +16,7 @@
         }{{ if ne $index (sub $len 1) }},{{ else }}{{ end }}
         {{ end -}}
       ],
+      {{ end -}}
       "description": "{{ replaceRE "\n" "" .Page.Params.abstract }}",
       "isPartOf": {
       {{ end -}}

@@ -1,7 +1,8 @@
 ---
 title: The Material Interpretation of Ancient Large Bronzes
 subtitle: The Case of the Florentine Masterpieces
-type: abstract
+type: essay
+layout: abstract-only
 contributor:
  - first_name: Salvatore
    last_name: Siano
@@ -13,6 +14,7 @@ abstract: |
 
     Within this framework, the large bronzes of the Medici collections, exhibited at Florence’s National Museum of Archaeology, offer noteworthy examples of the methodological variability and of hitherto unknown peculiarities of ancient production, which significantly broaden the interpretational perspective. The Idolino from Pesaro (Iozzo 1998), the Minerva (Cygielman 2008) and the Chimaera of Arezzo (Siano et al. 2012; Siano 2013), the Arringatore (discovered in the environs of Lake Trasimeno), and the Horse’s Head (see essay 39 of this volume) have been thoroughly investigated during the last two decades. The present contribution discusses the main aspects of these studies along with their general implications in terms of methodological approach and knowledge of the ancient art foundry.
 weight: 720
+online: false
 ---
 
 ## Bibliography
