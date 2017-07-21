@@ -19,7 +19,7 @@ weight: 401
 
 This paper reviews the influences from the East and West on bronzes (copper-tin alloys) found in Anatolia while focusing on the archaeological finds from the site of Kaman-Kalehöyük. Given its location along ancient trade routes, Kaman-Kalehöyük may have served as a conduit for the intraregional exchange of materials and manufacturing technologies. We examine some of these influences and movements as they relate to ancient bronze technology in Anatolia.
 
-Kaman-Kalehöyük consists of a tell, or mound, 280 meters in diameter and 16 meters high (918 x 52 ft.). It was a rural settlement situated 100 kilometers (62 mi.) southeast of Ankara and 3 kilometers (1 1/4 mi.) east of Kaman in Kırşehir Province, in Central Anatolia ([fig. 21.1](#21.1)). Since excavation commenced in 1986, cultural levels have been traced from the Early Bronze Age (EBA) through the Ottoman period.[^1] The Japanese Institute of Anatolian Archaeology (JIAA) was established near Kaman in 1998 by the Middle Eastern Culture Center in Tokyo. Two new excavations were initiated in 2009: Buklukale to the northwest and Yassihoyuk to the east.[^2]
+Kaman-Kalehöyük consists of a tell, or mound, 280 meters in diameter and 16 meters high (918 x 52 ft.). It was a rural settlement situated 100 kilometers (62 mi.) southeast of Ankara and 3 kilometers (1 ¼ mi.) east of Kaman in Kırşehir Province, in Central Anatolia ([fig. 21.1](#21.1)). Since excavation commenced in 1986, cultural levels have been traced from the Early Bronze Age (EBA) through the Ottoman period.[^1] The Japanese Institute of Anatolian Archaeology (JIAA) was established near Kaman in 1998 by the Middle Eastern Culture Center in Tokyo. Two new excavations were initiated in 2009: Buklukale to the northwest and Yassihoyuk to the east.[^2]
 
 {{< q-figure id="21.1" >}}
 
@@ -79,7 +79,7 @@ Urartian bronze objects are found in Gordion and in many areas of Greece. Trade 
 
 {{< q-figure id="21.6" >}}
 
-A bronze belt or strap showing strong Urartian characteristics (KL12000010) was found in thirty-four pieces and was reconstructed to a length of 45 centimeters (17 3/4 in.; [fig. 21.7a](#21.7a)).[^39] Double rows of decoration delineating horizontal bands of human and animal figures were a common motif on Urartian belts.[^40] In raking light, it is possible to distinguish four-legged creatures on the Kaman belt, similar to those on an Urartian belt fragment in the Metropolitan Museum of Art ([fig. 21.7b](#21.7b)).[^41] Extensive corrosion of the Urartian bronzes found at Kaman-Kalehöyük impedes a more precise iconographical interpretation.
+A bronze belt or strap showing strong Urartian characteristics (KL12000010) was found in thirty-four pieces and was reconstructed to a length of 45 centimeters (17 ¾ in.; [fig. 21.7a](#21.7a)).[^39] Double rows of decoration delineating horizontal bands of human and animal figures were a common motif on Urartian belts.[^40] In raking light, it is possible to distinguish four-legged creatures on the Kaman belt, similar to those on an Urartian belt fragment in the Metropolitan Museum of Art ([fig. 21.7b](#21.7b)).[^41] Extensive corrosion of the Urartian bronzes found at Kaman-Kalehöyük impedes a more precise iconographical interpretation.
 
 {{< q-figure id="21.7a" >}}
 

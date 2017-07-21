@@ -95,9 +95,9 @@ In 2015 I published a proposal for the possible location of the Colossus’s bas
 
 [^4]: Zimmer 1990, 17 n. 646.
 
-[^5]: Zimmer and Bairamē 2008.
+[^5]: Zimmer and Bairamē 2008.
 
-[^6]: Zimmer and Bairamē 2008, 38–51, figs. 1–10.
+[^6]: Zimmer and Bairamē 2008, 38–51, figs. 1–10.
 
 [^7]: Haynes 1992, 121–22.
 
@@ -123,6 +123,6 @@ In 2015 I published a proposal for the possible location of the Colossus’s bas
 
 [^18]: Compare Giumlia-Mair 2012, 17.
 
-[^19]: See the rectangular foundry in Zimmer and Bairamē 2008, 73–77.
+[^19]: See the rectangular foundry in Zimmer and Bairamē 2008, 73–77.
 
 [^20]: The sanctuary is wrongly attributed to Apollon Pythios, Vedder 2015, 57–68.
