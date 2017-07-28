@@ -8,9 +8,11 @@
 import L from 'leaflet'
 import _ from 'lodash/core'
 import debounce from 'lodash.debounce'
+import findIndex from 'lodash.findIndex'
 import Map from './map.js'
 import Search from './search.js'
 import DeepZoom from './deepzoom.js'
+import lightBox from './lightbox.js'
 
 class QuireUI {
   constructor() {
@@ -30,8 +32,18 @@ class QuireUI {
     let $searchButton = $('#js-search')
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
+    let $figures = $('.q-figure img')
 
     this.anchorScroll(window.location.hash)
+
+    $figures.click((e) => {
+      let figs = document.querySelectorAll('.q-figure')
+      let target = findIndex(figs, function(f) {
+        return f.id === e.target.parentNode.id
+      })
+
+      lightBox(target)
+    })
 
     // Event Listeners
     window.onkeydown = (e) => { this.keyboardControls(e) }
@@ -203,6 +215,36 @@ class QuireUI {
       item.href = result.url
       container.appendChild(clone)
     })
+  }
+
+  lightBoxSetup() {
+    let $figures = $('.q-figure img')
+
+    if ($figures.length > 0) {
+      $figures.on('click', function(e) {
+        let figs = document.querySelectorAll('.q-figure')
+        let target = findIndex(figs, function(f) {
+          return f.id === e.target.parentNode.id
+        })
+
+        console.log(target)
+        lightBox(target)
+      })
+    }
+
+
+    // if ($(".q-figure")) {
+      // $figures = $(".q-figure img")
+      // $figures.on("click", function(e) {
+        // var figs = document.querySelectorAll(".q-figure")
+        // var target = _.findIndex(figs, function(figure) {
+          // return figure.id == e.target.parentNode.id
+        // })
+
+        // console.log(target)
+        // lightBox(target)
+      // })
+    // }
   }
 }
 
