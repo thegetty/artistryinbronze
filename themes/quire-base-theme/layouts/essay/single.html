@@ -22,9 +22,9 @@
     <nav class="quire-page__header__page-navigation" role="navigation" aria-label="page"><ul><li>Jump to: <a href="#essay-text">Main Text</a></li> <li><a href="#notes">Notes</a></li>{{ if $pagebiblio }} <li><a href="#bibliography">Bibliography</a></li>{{ end }}</ul></nav>
   </header>
   <div class="quire-page__content">
-    <section>
+    <section class="quire-page__content__abstract">
       <h2>Abstract</h2>
-      <div class="quire-page__content__abstract">
+      <div>
       {{ .Params.abstract | markdownify }}
       </div>
       <hr />

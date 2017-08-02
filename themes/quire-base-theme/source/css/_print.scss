@@ -18,9 +18,9 @@ $print-outer-margin: 0.75in;
 $print-inner-width: $print-width - ($print-inner-margin + $print-outer-margin);
 $print-inner-height: $print-height - ($print-top-margin + $print-bottom-margin);
 
-$print-base-font-size: 10pt;
+$print-base-font-size: 9pt;
 $print-base-spacing: 0.125in;
-$print-base-line-height: 1.3;
+$print-base-line-height: 1.4;
 $print-paragraph-indent: 0.25in;
 
 $print-background-color: #fff;
@@ -120,15 +120,29 @@ $print-page-number-size: 7.5pt;
   }
 
   html {
-    font-size: 9.5pt;
+    font-size: $print-base-font-size;
     font-weight: 400;
-    line-height: 1.3em;
+    line-height: $print-base-line-height;
   }
 
   table {
     column-span: all;
     margin-bottom: 1em;
     margin-top: 1em;
+  }
+
+  hr {
+    margin: 1em auto;
+  }
+  h2 {
+    line-height: 1.2em;
+    prince-bookmark-level: none;
+  }
+  h3 {
+    prince-bookmark-level: none;
+  }
+  strong {
+    font-weight: 700;
   }
 
   .quire-section-head .quire-page {
@@ -159,23 +173,117 @@ $print-page-number-size: 7.5pt;
       text-indent: 1.5em;
     }
 
-    &__content__main,
-    &__content__references {
-      column-count: 2;
-      column-gap: 0.25in;
+    &__header__number {
+      font-size: 14pt;
     }
 
-    &__content__main { font-size: 9.5pt; }
-    &__content__references { font-size: 8pt; }
-    .footnotes { font-size: 8pt; }
+    &__header__contributor {
+        margin-left: 0;
+        padding-left: 0;
+      }
+
+    &__content {
+      column-count: 2;
+      column-gap: 0.25in;
+      margin-top: .75in;
+
+      &__main,
+      &__references {
+        column-count: 1;
+      }
+
+      &__main {
+        blockquote {
+          margin-left: 1.5em;
+          margin-right: 1.5em;
+          p,
+          p + p {
+            text-indent: 0;
+            margin-bottom: 6pt;
+          }
+        }
+        ul {
+          margin-left: 1.5em;
+        }
+        .q-contributors__list__item {
+          margin-left: 0;
+          padding-left: 0;
+          p {
+            text-indent: 0;
+          }
+        }
+      }
+
+      &__references {
+        font-size: 8pt;
+        line-height: .8rem;
+        dt {
+          margin-top: 0;
+        }
+        dd {
+          margin-bottom: 6pt;
+        }
+      }
+
+      &__abstract {
+        column-span: all;
+        font-size: 8pt;
+        line-height: .8rem;
+        width: 5in;
+        margin: 0 auto;
+        h2 {
+          display: none;
+        }
+        hr {
+          margin-bottom: 2em;
+        }
+      }
+
+    }
+    .footnotes {
+      font-size: 8pt;
+      line-height: .8rem;
+      ol {
+        margin-left: 1.5em;
+      }
+    }
+  }
+
+  .visually-hidden {
+    display: none;
+  }
+
+  figure {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .q-figure-credit {
+    font-size: 6.5pt;
+    line-height: 1.35em;
   }
 
   .q-figure {
-    margin: 1em;
+    margin: 1em 0;
+
+    &.q-float-left {
+      margin-right: 10pt;
+    }
+    &.q-float-right {
+      margin-left: 6pt;
+    }
 
     figcaption {
-      font-size: 8.5pt;
       margin-top: 0.5em;
     }
   }
+
+  .q-contributors__list {
+    margin-left: 0;
+    padding-left: 0;
+  }
+
+  #contents .quire-page__content {
+    column-count: 1;
+  }
+
 }
