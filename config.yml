@@ -33,3 +33,5 @@ params:
   tableLabelContentBefore: "Table "
   tableLabelContentAfter: ". "
   primaryColor: "#995326"
+  tocType: "short"
+  menuType:  "short"

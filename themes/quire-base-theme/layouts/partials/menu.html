@@ -7,36 +7,32 @@
     <div class="quire-menu__inner">
       <header class="quire-menu__inner__header">
         <h2>
-          <div class="quire-title">{{ if ne .Type "cover"}}<a href="{{ .Site.BaseURL }}">{{ end }}<span class="visually-hidden">Publication Info: </span>{{ .Site.Data.publication.title | markdownify }}{{ if .Site.Data.publication.subtitle }}: <span class="quire-subtitle">{{ .Site.Data.publication.subtitle | markdownify }}{{ end }}{{ if ne .Type "cover"}}</a>{{ end }} </span><div class="quire-reading-line">{{ if .Site.Data.publication.reading_line }}{{ .Site.Data.publication.reading_line | markdownify }}{{ end }}</div></div>
-          <div class="quire-contributors">
-          {{- if .Site.Data.publication.contributor_as_it_appears -}}
-            {{ range .Site.Data.publication.contributor_as_it_appears }}
-             <span class="quire-contributors__contributors-as-they-appear">{{ . }}</span>
-            {{ end }}
-          {{ else }}
-            <span class="visually-hidden">Contributors: </span>
-            {{ range .Site.Data.publication.primary_contributor }}
-              {{ .first_name }} {{ .last_name }},
-            {{ end }}
-          {{- end -}}</div>
+          <div class="quire-title">
+            {{ if ne .Type "cover"}}<a href="{{ .Site.BaseURL }}">{{ end }}
+              <span class="visually-hidden">Publication Info: </span>
+              {{ .Site.Data.publication.title | markdownify -}}
+              {{- if .Site.Data.publication.subtitle -}}
+                <br /><span class="quire-title__subtitle">{{ .Site.Data.publication.subtitle | markdownify }}
+              {{ end }}
+            {{ if ne .Type "cover"}}</a>{{ end }} </span>
+            <span class="quire-title__reading-line">{{ if .Site.Data.publication.reading_line }}{{ .Site.Data.publication.reading_line | markdownify }}{{ end }}</span>
+          </div>
+          <div class="quire-title__contributors">
+            {{- if .Site.Data.publication.contributor_as_it_appears -}}
+              {{ .Site.Data.publication.contributor_as_it_appears }}
+            {{ else if .Site.Data.publication.primary_contributor }}
+              <span class="visually-hidden">Contributors: </span>
+              {{ partial "contributor-list.html" (dict "contributorRange" .Site.Data.publication.primary_contributor) }}
+            {{ else }}
+            {{- end -}}
+          </div>
         </h2>
       </header>
       <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
         <h3 class="visually-hidden">Contents</h3>
-        <ul class="quire-contents">
-          {{ range .Site.Pages }}
-            {{ if .Section }}
-            {{ if ne .Type "section-head" }}
-            {{ else }}
-            <li class="quire-contents__section"><a href="{{ .Permalink }}">{{ .Params.id }}. {{ .Title | markdownify }}</a></li>
-            {{ end }}
-            {{ else }}
-            {{ if eq .Params.menu true }}
-            <li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
-            {{ end }}
-            {{ end }}
-          {{ end }}
-        </ul>
+
+        {{ partial "contents.html" (dict "contentsScope" .Site "contentsType" .Site.Params.menuType "contentsLocation" "menu" ) }}
+
       </nav>
       {{ with .Site.Data.publication.formats }}
       <section class="quire-menu__inner__links" role="complementary">
