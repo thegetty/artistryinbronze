@@ -18,7 +18,7 @@
     <li>
       <a href="{{ .Site.BaseURL }}">
         <span class="visually-hidden">Home Page: </span>
-        {{ if .Site.Data.publication.short_title | markdownify }}
+        {{ if .Site.Data.publication.short_title }}
           {{ .Site.Data.publication.short_title | markdownify }}
         {{ else }}
           {{ .Site.Data.publication.title | markdownify }}
