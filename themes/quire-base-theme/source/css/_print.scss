@@ -20,7 +20,7 @@ $print-inner-height: $print-height - ($print-top-margin + $print-bottom-margin);
 
 $print-base-font-size: 9pt;
 $print-base-spacing: 0.125in;
-$print-base-line-height: 1.4;
+$print-base-line-height: 13pt;
 $print-paragraph-indent: 0.25in;
 
 $print-background-color: #fff;
@@ -46,12 +46,23 @@ $print-page-number-size: 7.5pt;
   margin-top: $print-top-margin;
 
   @bottom-left {
-    //content: counter(page) "\2003" string(doctitle);
+    // content: counter(page) " — " string(sectiontitle);
     content: counter(page);
     font-family: $text-font-family;
     font-size: $print-page-number-size;
   }
+  @bottom-right {
+    content: string(sectiontitle);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+  }
 }
+
+// @page footer:left:first {
+//   @bottom-right { content: none; }
+// }
 
 @page footer:right {
   margin-bottom: $print-bottom-margin;
@@ -60,10 +71,21 @@ $print-page-number-size: 7.5pt;
   margin-top: $print-top-margin;
 
   @bottom-right {
+    // content: string(papertitle) " — " counter(page);
     content: counter(page);
     font-family: $text-font-family;
     font-size: $print-page-number-size;
   }
+  @bottom-left {
+    content: string(papertitle);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+    font-style: italic;
+  }
+}
+
+@page footer:right:first {
+  @bottom-left { content: none; }
 }
 
 @page bleed {
@@ -133,12 +155,17 @@ $print-page-number-size: 7.5pt;
 
   hr {
     margin: 1em auto;
+    letter-spacing: 6pt;
   }
-  h2 {
-    line-height: 1.2em;
-    prince-bookmark-level: none;
+
+  .quire-pdf__title {
+    string-set: papertitle content();
   }
-  h3 {
+  .quire-pdf__section {
+    string-set: sectiontitle content();
+  }
+
+  h2, h3, h4, h5, h6 {
     prince-bookmark-level: none;
   }
   strong {
@@ -173,14 +200,19 @@ $print-page-number-size: 7.5pt;
       text-indent: 1.5em;
     }
 
-    &__header__number {
-      font-size: 14pt;
-    }
-
-    &__header__contributor {
-        margin-left: 0;
-        padding-left: 0;
+    &__header {
+      &__number {
+        font-size: 14pt;
       }
+      &__title {
+        line-height: 32pt;
+      }
+      &__contributor {
+          margin-top: 1em;
+          margin-left: 0;
+          padding-left: 0;
+        }
+    }
 
     &__content {
       column-count: 2;
@@ -189,10 +221,16 @@ $print-page-number-size: 7.5pt;
 
       &__main,
       &__references {
-        column-count: 1;
+        // column-count: 1;
       }
 
       &__main {
+        h2 {
+          font-size: 12pt;
+          line-height: 17.5pt;
+          margin-top: 12pt;
+          margin-bottom: 4pt;
+        }
         blockquote {
           margin-left: 1.5em;
           margin-right: 1.5em;
@@ -212,15 +250,28 @@ $print-page-number-size: 7.5pt;
             text-indent: 0;
           }
         }
+        .attribution {
+          margin-top: .75em;
+          margin-right: .75em;
+          text-indent: 0;
+        }
       }
 
       &__references {
-        font-size: 8pt;
-        line-height: .8rem;
+        h2 {
+          font-size: 12pt;
+          line-height: 17.5pt;
+          margin-top: 12pt;
+          margin-bottom: 4pt;
+        }
         dt {
+          font-size: 8pt;
+          line-height: 11.5pt;
           margin-top: 0;
         }
         dd {
+          font-size: 8pt;
+          line-height: 11.5pt;
           margin-bottom: 6pt;
         }
       }
@@ -228,7 +279,7 @@ $print-page-number-size: 7.5pt;
       &__abstract {
         column-span: all;
         font-size: 8pt;
-        line-height: .8rem;
+        line-height: 11.5pt;
         width: 5in;
         margin: 0 auto;
         h2 {
@@ -240,11 +291,22 @@ $print-page-number-size: 7.5pt;
       }
 
     }
+
+    .footnote-ref {
+      font-size: 6.5pt;
+      font-weight: bold;
+      position: relative;
+      top: 2pt;
+    }
+
     .footnotes {
       font-size: 8pt;
-      line-height: .8rem;
+      line-height: 11.5pt;
       ol {
-        margin-left: 1.5em;
+        margin-left: 18pt;
+        li ol {
+          margin-left: 6pt;
+        }
       }
     }
   }
@@ -265,11 +327,19 @@ $print-page-number-size: 7.5pt;
   .q-figure {
     margin: 1em 0;
 
+    &__inner-figure {
+      margin-bottom: 1.25em;
+    }
+
+    &__inner-figure:last-child {
+      margin-bottom: 0;
+    }
+
     &.q-float-left {
-      margin-right: 10pt;
+      margin-right: 12pt;
     }
     &.q-float-right {
-      margin-left: 6pt;
+      margin-left: 10pt;
     }
 
     figcaption {
@@ -282,8 +352,25 @@ $print-page-number-size: 7.5pt;
     padding-left: 0;
   }
 
-  #contents .quire-page__content {
-    column-count: 1;
+  // #contents .quire-page__content {
+  //   column-count: 1;
+  // }
+
+  .quire-contents {
+    column-span: all;
+    a {
+      display: block;
+    }
+    a::after {
+      content: leader(dotted) ' ' target-counter(attr(href, url), page);
+    }
+    .quire-contents__page__separator {
+      display: none;
+    }
+    &__section {
+      padding-left: 18pt;
+      font-weight: bold;
+    }
   }
 
 }

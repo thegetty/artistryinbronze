@@ -1,0 +1,33 @@
+@media print {
+
+  #international-bronze-congresses-and-associated-publications-and-exhibitions .quire-page__content {
+    column-count: 1;
+  }
+
+  #international-bronze-congresses-and-associated-publications-and-exhibitions ol {
+    margin-left: 18pt;
+  }
+
+  #international-bronze-congresses-and-associated-publications-and-exhibitions ol li {
+    margin-bottom: 9pt;
+    font-weight: bold;
+  }
+
+  #international-bronze-congresses-and-associated-publications-and-exhibitions ol li p:nth-child(2),
+  #international-bronze-congresses-and-associated-publications-and-exhibitions ol li p:nth-child(3),
+  #international-bronze-congresses-and-associated-publications-and-exhibitions ol li p:nth-child(4) {
+    font-weight: normal;
+    margin-top: 2pt;
+  }
+
+  #directors-foreword .quire-page__content {
+    column-count: 1;
+    margin-left: .875in;
+    margin-right: .625in;
+  }
+
+  #directors-foreword .quire-page__content .quire-page__content__contributor li {
+    margin-top: 6pt;
+    margin-right: 18pt;
+  }
+}
