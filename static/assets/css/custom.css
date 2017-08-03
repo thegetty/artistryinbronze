@@ -1,4 +1,23 @@
+table#table-23-appendix {
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+}
+
+table#table-23-appendix td {
+  vertical-align: top;
+}
+
+table#table-23-appendix thead tr th:first-child {
+  width: 8em;
+}
+
+
 @media print {
+
+  table#table-23-appendix {
+    column-span: none;
+  }
 
   #international-bronze-congresses-and-associated-publications-and-exhibitions .quire-page__content {
     column-count: 1;

@@ -147,10 +147,15 @@ $print-page-number-size: 7.5pt;
     line-height: $print-base-line-height;
   }
 
-  table {
+  .q-figure__table-wrapper {
     column-span: all;
     margin-bottom: 1em;
     margin-top: 1em;
+    font-size: 8pt;
+  }
+
+  .q-figure__table-wrapper + figcaption {
+    column-span: all;
   }
 
   hr {
