@@ -30,14 +30,14 @@
     <li class="quire-nav__section-link">
       <a href="/{{ .Section }}/">
         <span class="visually-hidden">Section: </span>
-        {{ .Section | humanize | title }}
+        <span class="quire-pdf__section">{{ .Section | humanize | title }}</span>
       </a>
     </li>
     {{ end }}
     {{ end }}
     <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
-      <em>{{ .Title | markdownify | truncate 40 }}</em>
+      <span class="quire-pdf__title"><em>{{ if .Params.short_title }}{{ .Params.short_title }} {{ else }}{{ .Title | markdownify | truncate 40 }}{{ end }}</em></span>
     </li>
     {{ end }}
 
