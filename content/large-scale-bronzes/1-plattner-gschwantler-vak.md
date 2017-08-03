@@ -361,4 +361,4 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^74]: The scan was provided by Christian Kurtze, Austrian Archeological Institute.
 
-[^75]: A video clip of staff assembling the cage around the statue is available at: [http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/?back=%2Ferfahren%2Fforschung%2Fforschungsprojekte%2F&open=2157&cHash=b3133a4fdf0462f6e4c50ec678406735](http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/?back=%2Ferfahren%2Fforschung%2Fforschungsprojekte%2F&open=2157&cHash=b3133a4fdf0462f6e4c50ec678406735).
+[^75]: A video clip of staff assembling the cage around the statue is available at: [http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/](http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/).
