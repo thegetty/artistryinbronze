@@ -147,11 +147,19 @@ $print-page-number-size: 7.5pt;
     line-height: $print-base-line-height;
   }
 
+  table {
+    margin-bottom: 1em;
+    margin-top: 1em;
+  }
+
   .q-figure__table-wrapper {
     column-span: all;
     margin-bottom: 1em;
     margin-top: 1em;
     font-size: 8pt;
+    table {
+      margin: 0;
+    }
   }
 
   .q-figure__table-wrapper + figcaption {
@@ -345,6 +353,29 @@ $print-page-number-size: 7.5pt;
     }
     &.q-float-right {
       margin-left: 10pt;
+    }
+
+    &.q-pdf-half-column-right {
+      float: right;
+      width: 45%;
+      margin-left: 10pt;
+    }
+
+    &.q-pdf-half-column-left {
+      float: left;
+      width: 45%;
+      margin-right: 12pt;
+    }
+
+    &.q-pdf-one-column {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+    }
+
+    &.q-pdf-two-column {
+      column-span: all;
     }
 
     figcaption {
