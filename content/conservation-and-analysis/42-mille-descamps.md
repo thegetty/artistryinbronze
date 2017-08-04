@@ -16,9 +16,9 @@ abstract: |
 weight: 708
 ---
 
-## Epigraphic and Stylistic Reevaluation of the Piombino Apollo
+{{< q-figure id="42.1" class="float-right" pdf="one-column" >}}
 
-{{< q-figure id="42.1" class="float-right" >}}
+## Epigraphic and Stylistic Reevaluation of the Piombino Apollo
 
 The Piombino Apollo ([fig. 42.1](#42.1)) was among the statues gathered for the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World* at the J. Paul Getty Museum and the accompanying symposium.[^1] It is an Archaizing work, as was already suggested by Jean Letronne in 1834, just two years after the bronze was discovered in the sea off the west coast of Piombino, Italy. Letronne’s interpretation was not accepted at the time, as the debate was then focused on the question of whether it was an Archaic or an Archaistic work. Later scholars moved on to another question: was it an Archaistic work from the fifth century BC or from the Hellenistic period? Even after Brunilde Sismondo Ridgway published a fundamental study of the statue in 1967, in which she convincingly argued in favor of a date at the end of the Hellenistic period, there were still those who doubted her conclusions. This was particularly so because a subsidiary question remained without an answer. This question was linked with the loss, more than a century before, of a fragmentary inscribed lead strip, said to have been found within the statue, on which the names of two Hellenistic sculptors were said to have been engraved. Because that lost inscription had been declared a fake—and this assertion could no longer be verified—Ridgway’s dating was not accepted as proved. A further step supporting a Late Hellenistic date was the discovery in 1977 of another bronze Apollo[^2] at Pompeii, in the House of Gaius Julius Polybius, that appeared to be so close in attitude and style that the two statues were declared virtual twins, possibly elaborated from the same master molds.[^3]
 

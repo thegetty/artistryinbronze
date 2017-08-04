@@ -41,7 +41,7 @@ The existence of master models in antiquity is proven by the monumental chrysele
 
 Pheidias, the master of the Parthenos, also made the Athena Promachos, which stood on the Acropolis near the Parthenon. The statue was made of cast bronze, and its height is believed to have been between 9 and 15 meters (29–49 ft.).[^13] It is notable that the ground plan of the statue’s base again has a hole in the center ([fig. 2.2](#2.2)). Following the arguments of Palagia, the statue was cast in the same period as the Parthenos was manufactured. The Promachos was dedicated to the main deity of the polis of Athens and stood in her sanctuary. Thus the Promachos is a real predecessor of the Colossus of Rhodes. Pheidias built a scaffold in the location of the bronze statue in order to make the master model for the Promachos. Afterward the statue was cast in pieces on the south side of the Acropolis. The finished parts were brought up to the Acropolis and assembled on the base in place of on the master model. Thus for colossal statues with a height up to 15 meters, we have not only archaeological remains of casting pits but also references concerning the master model.
 
-{{< q-figure id="2.2" class="float-left" >}}
+{{< q-figure id="2.2" class="float-left" pdf="one-column" >}}
 
 Philo does not mention the master model of the Colossus. But the master model of the Colossus commissioned by Nero for his *Domus Aurea* in Rome is probably the subject of a half sentence in Pliny (*Naturalis historia* 34.45–46). The statue was indeed constructed and cast imitating the Rhodian prototype.[^14]
 

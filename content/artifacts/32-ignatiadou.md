@@ -31,11 +31,7 @@ The Stavroupolis case was interpreted as a writing case until recently, when the
 
 The second case of Type A was found in Derveni, near Thessaloniki, in Cist Grave B with a burial of around 320 BC ([fig. 32.2a‒d](#32.2a)).[^4] This burial contained the cremated remains of a man and another individual inside the spectacular Derveni krater. Among the numerous accompanying grave goods was a bronze case (B 35) that still preserved its contents and was interpreted as a cosmetics container. The existence of a second individual in this grave, perhaps a woman, has puzzled researchers because there were no grave goods that could be associated with a woman. In fact, the case presented here was thought to be the main indication for the cremation of a female consort. The find was displayed for more than fifty years with the lid permanently half closed. It is made of high-tin bronze and is divided in three compartments with a flat ledge and a rod fastened on the ledge with copper nails. The lid is made of a single flat sheet, fastened at its extremities with a lengthwise wire rod, and decorated with incised lines along its edges. On the front middle of the lid is an arched handle of ordinary bronze, attached by means of two strips penetrating the sheet and bent underneath. Flanking the handle are two elongated latch holes. One hole and two dents along the right edge of the lid have been patched from behind with a bronze strip. It is 13 centimeters long and 4.9 centimeters wide. Its height when closed is 2.1 centimeters. The lid measures 12.5 by 4.7 by 0.1 centimeter, and the handle is 1.7 by 2.5 centimeters.
 
-{{< q-figure id="32.2a" >}}
-
-{{< q-figure-group id="32.2b, 32.2c" grid="2" label="true" caption="Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, restored case B 35. Image: A. Thanos" >}}
-
-{{< q-figure id="32.2d" >}}
+{{< q-figure-group id="32.2a, 32.2b, 32.2c" class="float-right" pdf="one-column" label="true" caption="Derveni, near Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. B 35, B 90, restored case B 35. Image: A. Thanos" >}}
 
 Inside the compartments the original contents are preserved: three masses of “clay.” The left and the middle bits appear to have been pinched with naked fingers while the right one had been originally pressed inside a miniature pyxis. On the middle one, a mass of cellulose fibers remains. The inorganic and mineral composition of the three cakes is similar but not identical, and it seems that each one was a deliberate preparation, to be used as medication. Their main constituents are quartz, mica, and chlorite (41‒44 percent), plus 16‒31 percent of amorphous materials. Fifty-three (53) organic fatty acids were determined in traces, for the moment only chemically, and our efforts continue toward determining their origin in particular herbs, oils/fats, or condiments. The finger impressions on the two cakes show that the healer was taking small amounts to administer in the form of pills.[^5]
 
@@ -48,6 +44,8 @@ Other bronze and copper parts related to the Derveni case were retrieved from th
 - The bronze top of B 90c ([fig. 32.2d](#32.2d), bottom right) is flat and perforated, decorated with incised lines. It was probably fitted with a small cylinder made of a single flat sheet fastened with a bronze nail; this is evidently the lid of an inbuilt inkwell. It is 5.1 centimeters long and 4.9 centimeters wide, with a sheet thickness of 0.1 centimeter. The diameter of the perforation is 1.4 centimeters.
 
 - Case B 43 has two miniature, undecorated, semi-spherical bowls of hammered copper. They contained remains of a dark cake, of a nature similar to that of the “clays” in Case B 35. The dimensions of the bowls (4.4 cm in diameter, height 2.1 cm) permit the hypothesis that they could originally have fit inside the compartments of the case.
+
+{{< q-figure id="32.2d" >}}
 
 Differences in surface preservation resulted when some were mechanically cleaned, some chemically cleaned, while others are still untreated. Nevertheless, all of these non-assembled parts probably belong to the same original case as the restored Case B 35. The long lid of Case B 90a indicates the full length of the complete case, which probably looked similar to the Stavroupolis one. The wear and repairs show that it had been used for a long time before the interment, around 320 BC, and we can therefore date the manufacture of the find to the first half of the fourth century BC. It is further possible that the complete case was modified so that the now restored part had become detachable; it might then be used independently by the healer, who may have inherited it from his father in continuation of a family tradition.
 
@@ -75,7 +73,7 @@ The lid (Py 683, [fig. 32.3](# 32.3), top) consists of a single flat sheet with 
 
 Case B is also a bronze semi-cylindrical (Py 692), preserved at the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki. It too comes from Pydna, from the same tomb as Case A ([fig. 32.4](#32.4)).
 
-{{< q-figure id="32.4" class="float-right" >}}
+{{< q-figure id="32.4" class="float-right" pdf="one-column" >}}
 
 Case B is a semi-cylindrical case with three compartments, but it is shorter than Case A. Only the body is preserved, with visible marks on the places where the compartment dividers once were. It is also possible that some of the top parts attributed to Case A belong to this case instead.
 
@@ -83,7 +81,7 @@ The body consists of one nearly complete semi-cylindrical curved sheet, mended b
 
 A third case from the Pydna tomb, Case C, is once again a bronze semi-cylindrical case with a perforated top. It is preserved in the Archaeological Ephorate of Pieria/Archaeological Museum of Thessaloniki (inv. Py 644, Py 645, Py 687, Py 689, Py 690; [fig. 32.5](# 32.5)).
 
-{{< q-figure id="32.5" class="float-right" >}}
+{{< q-figure id="32.5" class="float-right" pdf="one-column" >}}
 
 Case C is a single compartment case with a recessed top with a square perforation. In the recess fits a bronze “palette” that can slide to cover or uncover the perforation. A lid slightly larger than the top and with a similar perforation was probably fitted on it.
 
