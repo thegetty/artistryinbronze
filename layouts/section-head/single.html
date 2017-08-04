@@ -14,7 +14,7 @@
   <ul class="quire-page__section-list">
     {{ $thissection := .Section }}
     {{ range (where (where .Site.Pages "Section" $thissection) "Type" "essay") }}
-    {{ if ne .Params.layout "abstract-only" }}
+    {{ if and (ne .Params.layout "abstract-only") (ne .Params.online false) }}
     <li class="quire-page__section-list__item">
       <h2 class="quire-page__section-list__item__title"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></h2>
       <ul class="quire-page__section-list__item__contributor">
