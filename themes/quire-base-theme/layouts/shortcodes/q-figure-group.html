@@ -1,5 +1,5 @@
 {{ if .Get "id" }}
-<figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "grid" }}q-figure-grid{{ end }}{{ with .Get "grid-align" }} q-grid-{{ . }}{{ end }}">
+<figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "grid" }}q-figure-grid{{ end }}{{ with .Get "grid-align" }} q-grid-{{ . }}{{ end }} {{ with .Get "pdf" }} q-pdf-{{ . }}{{ end }}">
 {{ $idstring := replace (.Get "id") " " "" }}
 {{ $idlist := split $idstring "," }}
 {{ range $idlist }}
