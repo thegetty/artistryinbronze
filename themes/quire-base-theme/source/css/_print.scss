@@ -359,12 +359,14 @@ $print-page-number-size: 7.5pt;
       float: right;
       width: 45%;
       margin-left: 10pt;
+      margin-right: 0;
     }
 
     &.q-pdf-half-column-left {
       float: left;
       width: 45%;
       margin-right: 12pt;
+      margin-left: 0;
     }
 
     &.q-pdf-one-column {
