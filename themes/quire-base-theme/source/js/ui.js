@@ -32,14 +32,19 @@ class QuireUI {
     let $searchButton = $('#js-search')
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
-    let $figures = $('.q-figure img')
+    let $figures = $('.q-figure__wrapper')
 
     this.anchorScroll(window.location.hash)
 
     $figures.click((e) => {
-      let figs = document.querySelectorAll('.q-figure')
+      let figID = e.target.parentNode.parentNode.id
+      console.log(figID)
+
+      let figs = document.querySelectorAll('.q-figure__wrapper')
+      console.log(figs)
+
       let target = findIndex(figs, function(f) {
-        return f.id === e.target.parentNode.id
+        return f.parentNode.id === figID
       })
 
       lightBox(target)
