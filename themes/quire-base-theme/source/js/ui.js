@@ -116,6 +116,8 @@ class QuireUI {
     let $next = $('#js-next')
     let $curtain = $('#js-curtain')
     let $searchResults = $('#js-search-results')
+
+    if (this.lightBoxVisible()) { return false }
     switch (e.which) {
       case 27: // Escape key
         if ($searchResults.hasClass('is-visible')) { this.searchToggle() }
@@ -231,25 +233,18 @@ class QuireUI {
         let target = findIndex(figs, function(f) {
           return f.id === e.target.parentNode.id
         })
-
-        console.log(target)
         lightBox(target)
       })
     }
+  }
 
-
-    // if ($(".q-figure")) {
-      // $figures = $(".q-figure img")
-      // $figures.on("click", function(e) {
-        // var figs = document.querySelectorAll(".q-figure")
-        // var target = _.findIndex(figs, function(figure) {
-          // return figure.id == e.target.parentNode.id
-        // })
-
-        // console.log(target)
-        // lightBox(target)
-      // })
-    // }
+  lightBoxVisible() {
+    let pswpElement = document.querySelectorAll(".pswp")[0]
+    if (pswpElement.classList.contains('pswp--visible')) {
+      return true
+    } else {
+      return false
+    }
   }
 }
 
