@@ -14,6 +14,7 @@ import Search from './search.js'
 import DeepZoom from './deepzoom.js'
 import lightBox from './lightbox.js'
 
+
 class QuireUI {
   constructor() {
     this.searchInstance = null
@@ -32,18 +33,14 @@ class QuireUI {
     let $searchButton = $('#js-search')
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
-    let $figures = $('.q-figure__wrapper')
+    let $figures = $('.q-figure__wrapper, .q-figure__table-wrapper')
 
     this.anchorScroll(window.location.hash)
 
     $figures.click((e) => {
-      let figID = e.target.parentNode.parentNode.id
-      console.log(figID)
-
-      let figs = document.querySelectorAll('.q-figure__wrapper')
-      console.log(figs)
-
-      let target = findIndex(figs, function(f) {
+      let figID = e.currentTarget.parentNode.id
+      let figWrappers = document.querySelectorAll('.q-figure__wrapper, .q-figure__table-wrapper')
+      let target = findIndex(figWrappers, function(f) {
         return f.parentNode.id === figID
       })
 

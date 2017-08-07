@@ -21,22 +21,31 @@ export default function lightBox(index) {
     }
   }
 
+  function isHtmlElement(figure) {
+    return figure.classList.contains('q-figure__table-wrapper')
+  }
+
   var pswpElement = document.querySelectorAll(".pswp")[0];
 
   // build items array
   var slides  = [];
-  var figures = document.querySelectorAll('.q-figure__wrapper');
+  var figures = document.querySelectorAll('.q-figure__wrapper, .q-figure__table-wrapper');
   var options = { index: index };
 
   // document query selector returns an HTMLCollection, not a true array
   // So we need to proxy a true Array object to get forEach
   [].forEach.call(figures, function(figure) {
     var slide   = {};
-    slide.src   = figure.querySelector("img").src;
-    slide.w     = figure.querySelector("img").naturalWidth;
-    slide.h     = figure.querySelector("img").naturalHeight;
-    slide.title = findCaption(figure)
 
+    if (isHtmlElement(figure)) {
+      slide.html  = '<div class="q-figure__table-wrapper--pswp">' + figure.innerHTML + '</div>'
+    } else {
+      slide.src   = figure.querySelector("img").src;
+      slide.w     = figure.querySelector("img").naturalWidth;
+      slide.h     = figure.querySelector("img").naturalHeight;
+    }
+
+    slide.title = findCaption(figure)
     slides.push(slide);
   });
 
