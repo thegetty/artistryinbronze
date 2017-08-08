@@ -31,6 +31,8 @@
     "leaflet-iiif": "^1.0.1",
     "lodash": "^4.17.4",
     "lodash.debounce": "^4.0.8",
-    "lunr": "^0.7.2"
+    "lodash.findindex": "^4.6.0",
+    "lunr": "^0.7.2",
+    "photoswipe": "^4.1.2"
   }
 }
