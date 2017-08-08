@@ -79,7 +79,9 @@ These three-dimensional images, appointments for the luxury household, recall th
 
 An elegantly posed bronze ephebe was netted by fishermen in 1925 near the beach in the Bay of Marathon, with no other finds and no trace of a shipwreck ([fig. 8.7](#8.7)).[^25] The figure was nearly intact, missing only the front of the right foot, which had been separately cast, and a piece of the left heel. Ever since, scholars have argued over what the youth once held on the flattened palm of his left hand, at which he is looking so intently. The Marathon Boy’s right hand is raised, the wrist bent, the thumb and forefinger touching each other, again as if he is holding something. But what was it? Was he pouring liquid into a bowl? Picking fruit and putting it in a bowl? Holding a child, or perhaps a tortoiseshell lyre? Was he holding a box from which he was taking a ribbon? A top? Or was he snapping the fingers of his right hand? Who is he? Is he a young Hermes? Or does the fillet with the leaflike tab at the middle identify him as an athlete?
 
-{{< q-figure-group id="8.7, 8.8" class="float-right" >}}
+{{< q-figure id="8.7" class="float-right" >}}
+
+{{< q-figure id="8.8" class="float-right" >}}
 
 Some have imagined that the arms had broken off and were restored in Roman times, when he was turned into a lamp-bearer.[^26] But there is no evidence to support this conjecture. The statue was nearly intact when found, with his arms, legs, and head in place. The only point upon which scholars generally agree is that the style is Praxitelean, late fourth century, or perhaps Early Hellenistic. Was he actually made at that time, or was he a later production, made in the ever-popular Classical style?
 
