@@ -260,17 +260,3 @@
 
   }
 }
-
-// Styles for tables when displayed in PhotoSwipe
-.q-figure__table-wrapper--pswp {
-  align-items: center;
-  background-color: #fff;
-  display: flex;
-  height: 100vh;
-  padding: $base-spacing;
-
-  table {
-    max-height: 80vh;
-    overflow: scroll;
-  }
-}
