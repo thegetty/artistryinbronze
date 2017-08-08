@@ -339,6 +339,12 @@ $print-page-number-size: 7.5pt;
 
   .q-figure {
     margin: 1em 0;
+    width: 100%;
+
+    &.q-figure-grid {
+      clear: both;
+      width: 100%;
+    }
 
     &__inner-figure {
       margin-bottom: 1.25em;
@@ -378,6 +384,7 @@ $print-page-number-size: 7.5pt;
 
     &.q-pdf-two-column {
       column-span: all;
+      display: block;
     }
 
     figcaption {

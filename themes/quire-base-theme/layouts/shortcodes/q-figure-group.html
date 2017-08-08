@@ -5,7 +5,7 @@
 {{ range $idlist }}
 {{ $x := . | string }}
   {{ range where $.Site.Data.figures.figure_list "id" "eq" $x }}
-  <figure class="q-figure__inner-figure" id="{{ .id }}" {{ with $.Get "grid" }}style="flex-basis: calc( (100% - {{.}}rem) / {{.}})"{{ end }}>
+  <figure class="q-figure__inner-figure {{ with $.Get "grid" }}q-grid-{{ . }}{{ end }}" id="{{ .id }}">
     {{ if or (eq .media_type "youtube") (eq .media_type "vimeo") }}
       <div class="q-figure__wrapper q-figure__wrapper__video{{ if .aspect_ratio }}--{{ .aspect_ratio }}{{ else }}--widescreen{{ end }}">
        {{ if eq .media_type "youtube" }}

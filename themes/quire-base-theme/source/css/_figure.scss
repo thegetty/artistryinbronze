@@ -15,6 +15,7 @@
     font-weight: 300;
     margin-top: $base-spacing * .5;
     width: 100%;
+    clear: both;
   }
 
   &.q-float-left {
@@ -46,30 +47,125 @@
   }
 
   &.q-figure-grid {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    flex-wrap: wrap;
 
-    &.q-grid-center {
-      align-items: center;
-    }
-
-    &.q-grid-bottom {
-      align-items: flex-end;
-    }
+    display: inline-block;
+    clear: both;
 
     .q-figure__inner-figure {
-      margin-left: $base-spacing * .5;
-      margin-right: $base-spacing * .5;
+
+      float: left;
+      margin-left: 0;
+      margin-right: 0;
+
+      &.q-grid-2 {
+        width: 48.5%;
+        margin-right: 3%;
+        &:nth-child(2n) {
+          margin-right: 0;
+          + .q-figure__inner-figure {
+            clear: left;
+          }
+        }
+      }
+
+      &.q-grid-3 {
+        width: 31.33%;
+        margin-right: 3%;
+        &:nth-child(3n) {
+          margin-right: 0;
+          + .q-figure__inner-figure {
+            clear: left;
+          }
+        }
+      }
+
+      &.q-grid-4 {
+        width: 20.75%;
+        margin-right: 3%;
+        &:nth-child(4n) {
+          margin-right: 0;
+          + .q-figure__inner-figure {
+            clear: left;
+          }
+        }
+      }
+
+      &.q-grid-5 {
+        width: 17.6%;
+        margin-right: 3%;
+        &:nth-child(5n) {
+          margin-right: 0;
+          + .q-figure__inner-figure {
+            clear: left;
+          }
+        }
+      }
+
     }
 
     .q-figure__inner-figure + figcaption {
       margin-top: $base-spacing * -.4;
-      margin-left: $base-spacing * .5;
-      margin-right: $base-spacing * .5;
     }
 
+  }
+
+  @supports (display: flex) {
+
+    &.q-figure-grid {
+      display: flex;
+      justify-content: flex-start;
+      align-items: flex-start;
+      flex-wrap: wrap;
+
+      &.q-grid-center {
+        align-items: center;
+      }
+
+      &.q-grid-bottom {
+        align-items: flex-end;
+      }
+
+      .q-figure__inner-figure {
+
+        display: block;
+        margin-left: 0;
+
+        &.q-grid-2 {
+          margin-right: $base-spacing;
+          flex-basis: calc( (100% - 1rem) / 2 );
+        }
+        &.q-grid-2:nth-child(2n) {
+          margin-right: 0;
+        }
+        &.q-grid-3 {
+          margin-right: $base-spacing;
+          flex-basis: calc( (100% - 2rem) / 3 );
+        }
+        &.q-grid-3:nth-child(3n) {
+          margin-right: 0;
+        }
+        &.q-grid-4 {
+          margin-right: $base-spacing;
+          flex-basis: calc( (100% - 3rem) / 4 );
+        }
+        &.q-grid-4:nth-child(4n) {
+          margin-right: 0;
+        }
+        &.q-grid-5 {
+          margin-right: $base-spacing;
+          flex-basis: calc( (100% - 4rem) / 5 );
+        }
+        &.q-grid-5:nth-child(5n) {
+          margin-right: 0;
+        }
+
+      }
+
+      .q-figure__inner-figure + figcaption {
+        margin-top: $base-spacing * -.4;
+      }
+
+    }
   }
 
   &__inner-figure {
@@ -259,6 +355,7 @@
     }
 
   }
+
 }
 
 /* Video Figure */
