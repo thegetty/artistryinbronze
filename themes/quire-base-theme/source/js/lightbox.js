@@ -29,7 +29,7 @@ export default function lightBox(index) {
 
   // build items array
   var slides  = [];
-  var figures = document.querySelectorAll('.q-figure__wrapper, .q-figure__table-wrapper');
+  var figures = document.querySelectorAll('.q-figure__wrapper');
   var options = { index: index };
 
   // document query selector returns an HTMLCollection, not a true array

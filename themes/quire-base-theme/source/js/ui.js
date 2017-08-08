@@ -33,13 +33,13 @@ class QuireUI {
     let $searchButton = $('#js-search')
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
-    let $figures = $('.q-figure__wrapper, .q-figure__table-wrapper')
+    let $figures = $('.q-figure__wrapper')
 
     this.anchorScroll(window.location.hash)
 
     $figures.click((e) => {
       let figID = e.currentTarget.parentNode.id
-      let figWrappers = document.querySelectorAll('.q-figure__wrapper, .q-figure__table-wrapper')
+      let figWrappers = document.querySelectorAll('.q-figure__wrapper')
       let target = findIndex(figWrappers, function(f) {
         return f.parentNode.id === figID
       })
