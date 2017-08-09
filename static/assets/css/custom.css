@@ -15,6 +15,11 @@ table#table-23-appendix thead tr th:first-child {
 
 @media print {
 
+  .q-pdf-two-column.q-figure-grid .q-figure__inner-figure.q-grid-2 {
+    width: 3.25in;
+    margin-right: .25in;
+  }
+
   table#table-23-appendix {
     column-span: none;
   }
