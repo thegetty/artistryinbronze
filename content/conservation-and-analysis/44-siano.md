@@ -23,7 +23,7 @@ weight: 710
 
 The equestrian bronze group of Alexander on horseback in the National Archaeological Museum of Naples (inv. 4996), which is dated around the first century BC, was found in Herculaneum during the Bourbon excavation campaigns of the second half of the eighteenth century ([fig. 44.1a–b](#44.1a)). According to the sources, the statuette, whose restored height is 49 centimeters, was mostly excavated on October 22, 1761, within a tunnel at the Theater under the Casa dei Colli Mozzi. Upon discovery, the legs and tail of the horse, as well as the legs and right arm of the rider, were missing. Subsequently, between October 24 and November 21, 1761, these were brought to light.[^1]
 
-{{< q-figure-group id="44.1a, 44.1b" grid="2" >}}
+{{< q-figure-group id="44.1a, 44.1b" grid="2" pdf="two-column" >}}
 
 The eyes of the horse and rider, the rosette that holds the mantle (on the right shoulder rather than on the left, as indicated in the excavation report), and the mask that decorates the horse’s breastplate were described as inlaid in silver.
 
@@ -59,7 +59,11 @@ The saddlecloth, girth, harness, and reins are fashioned from perfectly shaped t
 
 Several radiographic images were taken in order to identify each of the independent pieces composing the sculpture and to interpret its execution and repair history.
 
-{{< q-figure-group id="44.4a, 44.4b, 44.5" class="float-left" >}}
+{{< q-figure id="44.4a" class="float-left" >}}
+
+{{< q-figure id="44.4b" class="float-left" >}}
+
+{{< q-figure id="44.5" class="float-left" >}}
 
 *Base:* In addition to a detailed assessment of features that were already evident to the naked eye, the radiography of the base provided crucial information regarding its authenticity. The base has a variable thickness and moderate porosity. As shown in [figure 44.4a](#44.4a), the two large plugs mentioned above are very thin and present the typical perimetric housing. The white metal decorations were achieved via a heat process: after creating suitable recesses and cutting the decorative motives from a silver foil,[^13] the latter were soldered by first immersing them in a tin-lead bath (see the round porosities in [fig. 44.4b](#44.4b)), and then hammering them into place. Thus, the damascening of the base was not achieved simply by mechanical inlay but rather through a more elaborate decorative process, in order to increase the durability of the artwork. The authenticity of this decoration and thus of the entire base is also supported by the random consumption of the silver foils and the total loss of some details (see the different radio-opacity of the petals in [fig. 44.4b](#44.4b)).
 

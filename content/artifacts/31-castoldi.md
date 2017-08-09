@@ -39,7 +39,9 @@ Of course, gardens like the one in Alexandria were artificial: the exuberance of
 
 The taste for ornamental plants spread in the arts and crafts of Early Imperial Rome. They evoked the spirit of the Alexandrian gardens and the tree-shaped artworks and precious monumental anathemata in the Greek temples and sanctuaries (i.e., laurel trees, palms, and grapevines in bronze or gold) that were still visible in Roman times.
 
-{{< q-figure-group id="31.2, 31.3" class="float-left" >}}
+{{< q-figure id="31.2" class="float-left" >}}
+
+{{< q-figure id="31.3" class="float-left" >}}
 
 Candelabra in the form of trees, more or less naturalistic, were widespread. The most common were certainly lampstands with slender shafts *a canna* (cane-like), representing bamboo or lopped branches, surmounted by a disk to hold a single lamp ([fig. 31.2](#31.2)).[^20] This type was most likely produced in central Italy and was manufactured in a small, tabletop version, and in a larger version, to be placed on the floor.[^21]
 

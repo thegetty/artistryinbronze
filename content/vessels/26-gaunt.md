@@ -12,7 +12,9 @@ abstract: |
 weight: 503
 ---
 
-{{< q-figure-group id="26.1, 26.2" class="float-right" >}}
+{{< q-figure id="26.1" class="float-right" pdf="one-column" >}}
+
+{{< q-figure id="26.2" class="float-right" >}}
 
 A simple observation provides the point of departure for this paper. The decorative schemes of two Greek bronze volute-kraters—the Archaic one found at Vix in Burgundy ([fig. 26.1](#26.1)) and the Late Classical one from Derveni near Thessaloniki ([fig. 26.2](#26.2))—differ radically.[^1] The critical distinction lies in the prominent Dionysian frieze in high relief on the body of the latter. It is most unusual to find figural decoration at a large scale on the bodies of substantial Greek bronze vessels of the Archaic and Classical periods. The figural decoration on the body of the Derveni krater, too, was well outside the usual canon even at the time of manufacture, far removed from the generally austere appearance of Archaic and Classical bronze vessels. even when taking into account some important fifth-century developments in surface treatments, notably reeding. The restrained decoration of most Greek bronze vessels was a deliberate aesthetic choice, as suggested by comparison with contemporary pieces of armor: these are often much more elaborately embellished. Contemporary representations of these objects show that this difference is not simply a function of chance survival. This comparison inspires a generalizing rule: plain vessels, but elaborate armor. The contrast, I propose, goes back to the Homeric poems, which clearly articulate such a distinction. The underlying reasons for these profound differences, I will argue, may well have been economic.
 

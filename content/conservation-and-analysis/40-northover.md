@@ -22,7 +22,7 @@ weight: 706
 
 The only life-size bronze version of the sculptural type traditionally known as *Apollo Sauroktonos* (*Apollo the Lizard-Slayer*), now renamed *Apollo the Python-Slayer* and attributed to Praxiteles, is part of the permanent collection of the Cleveland Museum of Art (inv. 2004.30; [fig. 40.1a–d](#40.1a)).[^1] There are approximately twenty other known sculptures of this type that exist, all in marble with one reduced-scale bronze copy.[^2]
 
-{{< q-figure-group id="40.1a, 40.1b" grid="2" >}}
+{{< q-figure-group id="40.1a, 40.1b" grid="2" pdf="two-column" >}}
 
 {{< q-figure-group id="40.1c, 40.1d" grid="2" >}}
 
