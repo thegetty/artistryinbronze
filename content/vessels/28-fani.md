@@ -43,7 +43,11 @@ The figure is draped in a *nebris*, the diagonal folds of which gather on the le
 
 *Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5 to 1 centimeter (¼–⅜ in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#28.6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#28.8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working-model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 ¾ x 4 ⅜ in.).
 
-{{< q-figure-group id="28.6, 28.7, 28.8" class="float-right" >}}
+{{< q-figure id="28.6" class="float-right" >}}
+
+{{< q-figure id="28.7" class="float-right" >}}
+
+{{< q-figure id="28.8" class="float-right" >}}
 
 The hatching technique employed to define the eyebrows and the fur, as well as the whitish coloration left in the eyes, are cold work.[^6]
 

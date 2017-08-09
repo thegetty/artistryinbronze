@@ -22,7 +22,7 @@ weight: 706
 
 The only life-size bronze version of the sculptural type traditionally known as *Apollo Sauroktonos* (*Apollo the Lizard-Slayer*), now renamed *Apollo the Python-Slayer* and attributed to Praxiteles, is part of the permanent collection of the Cleveland Museum of Art (inv. 2004.30; [fig. 40.1a–d](#40.1a)).[^1] There are approximately twenty other known sculptures of this type that exist, all in marble with one reduced-scale bronze copy.[^2]
 
-{{< q-figure-group id="40.1a, 40.1b" grid="2" >}}
+{{< q-figure-group id="40.1a, 40.1b" grid="2" pdf="two-column" >}}
 
 {{< q-figure-group id="40.1c, 40.1d" grid="2" >}}
 
@@ -38,11 +38,7 @@ In 2004, two of the authors, Peter Northover and Ernst Pernicka, were invited to
 
 The compositional analysis of the five samples showed the torso and python belonged together, but the base had a different history. The corrosion products on the figure were consistent with an object that was buried for an extended time and then re-exposed to atmospheric corrosion and precipitation. Interestingly, analysis indicated that early in its history the figure was exposed to extreme heat, while the base did not show evidence of having been in a fire. The two halves of the python seemed to have been cast from the same melt, with some differences in composition due to segregation of lead. The alloy was found to be a low- to medium-tin bronze with 6.7–7.6% tin and 8.6–16.3% lead and was related to the main figure, which had similar tin and lead contents. At that time, it was not possible to determine whether the hand was related, with only one extensively corroded sample having been examined.
 
-<<<<<<< HEAD
-Pernicka tested four samples of lead solder in order to determine how the baseplate might relate to the figure: three from the proper right foot that was separately cast and one sample from the body of the figure. They were analyzed by energy dispersive x-ray fluorescence (EDXRF), and the sample from the figure was additionally analyzed by neutron activation analysis, essentially confirming the electron microprobe analyses. Two solder samples were tested for a radioactive signal of <sup>210</sup>Pb (see below for test description). One sample did not yield a usable result and was inconclusive. Another showed measurable radioactivity, which would indicate that the lead and tin were produced within the last hundred years.
-=======
 Pernicka tested four samples of lead solder in order to determine how the baseplate might relate to the figure: three from the proper right foot that was separately cast and one sample from the body of the figure. They were analyzed by energy dispersive x-ray fluorescence (EDXRF), and the sample from the figure was additionally analyzed by neutron activation analysis, essentially confirming the electron microprobe analyses. Two solder samples were tested for a radioactive signal of <sup>210</sup>Pb (see below for test description.). One sample did not yield a usable result and was inconclusive. Another showed measurable radioactivity, which would indicate that the lead and/or the tin were produced within the last hundred years.
->>>>>>> origin/first-pages
 
 ## Recent Testing: Bronze Compositional Analyses
 

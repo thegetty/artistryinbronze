@@ -2,6 +2,7 @@
 title: International Bronze Congresses and Associated Publications and Exhibitions
 weight: 3
 type: page
+menu: false
 ---
 
 1. 1970 NIJMEGEN

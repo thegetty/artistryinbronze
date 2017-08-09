@@ -45,9 +45,9 @@ Even if the retrieval of the pipes left much to be desired, the excavators at le
 
 Our initial assessment indicated that the project would access a group of elements consisting of cylindrical wooden or bone resonators, encased in thin bronze tubing, and supplemented with non-encased bone bulbs and encased reed inserts, similar to ones known from Pompeii.[^12] Furthermore there appeared to be a variety of types, not only based on their different diameters as already stated by Reisner, but also in terms of the numbers and density of finger holes, the length of sections, the shapes, and the types of mechanics ([figs. 45.3–4](#45.3)).[^13]
 
-{{< q-figure-group id="45.3" >}}
+{{< q-figure id="45.3" >}}
 
-{{< q-figure-group id="45.4" >}}
+{{< q-figure id="45.4" >}}
 
 ## Rehousing
 
@@ -133,11 +133,7 @@ Thanks are also due to Richard  Newman, Head of Scientific Research, and Michele
 
 [^10]: Bodley 1946, 217.
 
-<<<<<<< HEAD
-[^11]: This project is funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe)
-=======
 [^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe).
->>>>>>> origin/first-pages
 
 [^12]: Hagel 2012a.
 

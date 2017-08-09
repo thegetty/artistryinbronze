@@ -41,7 +41,7 @@ Long-term stability of Cu-based artworks is deeply affected by the cyclic copper
 
 Results of the XPS curve-fitting of the Cu 2p<sub>3/2</sub> photoelectron peak from the surface of a pure bronze alloy and from various archaeological artifacts corroded by “bronze disease” are shown here ([fig. 35.2](#35.2a)). In a pure bronze alloy, the Cu 2p<sub>3/2</sub> photoelectron signal consists of a single component centered at a binding energy (BE) value around 932.0 eV, that is assigned to Cu<sup>0</sup>, Cu<sup>+1</sup> species on the surface (see [fig. 35.2a](#35.2a)). In corroded bronze samples, the presence of a second component located at BE = 934.5 eV in the XPS Cu 2p<sub>3/2</sub> spectrum clearly indicates a fraction of Cu<sup>+2</sup> species on the surface, whose relative quantity is related to the extent of corrosion suffered by the ancient bronzes (see [figs. 35.2b–c](fig. 35.2b)).
 
-{{< q-figure-group id="35.2a, 35.2b, 35.2c" grid="3" >}}
+{{< q-figure-group id="35.2a, 35.2b, 35.2c" grid="3" pdf="two-column" >}}
 
 ## Conservation Requirements
 

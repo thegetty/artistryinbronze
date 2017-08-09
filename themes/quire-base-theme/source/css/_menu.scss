@@ -49,36 +49,20 @@
         a {
           font-weight: 700;
         }
-      }
-      .quire-subtitle,
-      .quire-reading-line {
-        display: block;
-        font-weight: 400;
-      }
-      .quire-reading-line {
-        color: $mid-neutral;
-      }
-      .quire-contributors {
-        margin-top: $base-spacing;
-        font-size: 1rem;
-        line-height: 1.6em;
-        color: $dark-neutral;
-        &__contributors-as-they-appear:after {
-          content: ",";
-        }
-        &__contributors-as-they-appear:first-of-type:after,
-        &__contributors-as-they-appear:last-of-type:after {
-            content: "";
-        }
-        &__contributors-as-they-appear:last-of-type:before {
-          content: "and ";
-        }
-        &__contributors-as-they-appear:first-of-type {
+        &__subtitle {
+          display: block;
           font-weight: 400;
-          display: block;
         }
-        &__contributors-as-they-appear:last-of-type {
+        &__reading-line {
           display: block;
+          font-weight: 400;
+          color: $mid-neutral;
+        }
+        &__contributors {
+          margin-top: $base-spacing;
+          font-size: 1rem;
+          line-height: 1.6em;
+          color: $dark-neutral;
         }
       }
     }

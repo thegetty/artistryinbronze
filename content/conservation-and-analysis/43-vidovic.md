@@ -18,7 +18,7 @@ weight: 709
 
 The statue of an Apoxyomenos ([fig. 43.1](#43.1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
 
-{{< q-figure-group id="43.1a, 43.1b, 43.1c" grid="3" >}}
+{{< q-figure-group id="43.1a, 43.1b, 43.1c" grid="3" pdf="two-column" >}}
 
 In 2012, during the exhibition of the statue at the Louvre, the HRZ established a collaboration with that institution, which led in 2013 to new insights into the technology of the Croatian Apoxyomenos,[^1] and continued in 2015 with a new campaign to analyze the alloys used to produce the statue.
 

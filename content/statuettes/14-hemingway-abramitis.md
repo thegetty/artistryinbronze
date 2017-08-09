@@ -24,7 +24,9 @@ Ancient Greek bronzesmiths used a variety of techniques to enhance the appearanc
 
 Turning now to the Geometric period, of special interest is the statuette of a man and centaur ([fig. 14.1](#14.1)), said to be from Olympia, which came into the Met’s collection in 1917 as the gift of J. P. Morgan.[^4] This rare figural composition of a man and a centaur locked in mortal combat likely represents a Greek myth such as the battle between the centaur Nessos and the hero Herakles. It is among the finest Greek Geometric bronze sculptures preserved today. It has long been known that the male figure has hollowed-out eyes in which considerable traces of the gray-black inlay are still preserved, especially in the right eye. The remains of the inlay in the man’s eye were identified as silver through X-ray fluorescence (XRF) analysis.
 
-{{< q-figure-group id="14.1, 14.2" class="float-right" >}}
+{{< q-figure id="14.1" class="float-right" pdf="one-column" >}}
+
+{{< q-figure id="14.2" class="float-right" pdf="one-column" >}}
 
 In 2013, while preparing the statuette for loan to an exhibition in Rome at the Palazzo Massimo (Paris et al. 2014), the statuette was X-rayed (see [fig. 14.1](#14.1), inset) and an important discovery was made. The centaur also clearly has cavities for inlays in the eyes, inlays that are still in situ. Examination of the eyes under magnification revealed a difference in color and texture in these areas, as can be seen in a detail image of the left eye ([fig. 14.2](#14.2), left). Analysis using XRF detected a significantly higher amount of iron than found elsewhere on the object, suggesting an iron-rich inlay in both eyes.
 
@@ -46,7 +48,9 @@ One of the largest and most splendid griffin protomes to survive from antiquity 
 
 Since it is clear that the Met’s griffin had inlaid eyes, the relevant areas were examined under magnification and using XRF, in case any physical evidence remained. Unfortunately, as expected, none was found. However, a difference in the alloy of the beading that surrounds the edge of the neck (see [fig. 14.4](#14.4)) was identified. The main metal alloy, including that surrounding the eyes, is made of copper, tin, and lead with significant traces of numerous other elements. By contrast, the beaded rim and rivets that attach it to the neck are made of an alloy that is mostly copper with trace amounts of tin and lead. The dramatic differences between the bronze alloy of the main sculpture and the copper beading would have produced a noticeable chromatic variation.
 
-{{< q-figure-group id="14.5, 14.6" class="float-right" >}}
+{{< q-figure id="14.5" class="float-right" >}}
+
+{{< q-figure id="14.6" class="float-right" >}}
 
 A massive Archaic Greek bronze support in the form of a sphinx ([fig. 14.5](fig. 14,5)) was gifted to the Metropolitan Museum in 2000.[^17] Small hollows in the center of its eyes most likely served to secure inlaid pupils of another material. Visual examination of the eyes revealed small bits of iron. However, analysis turned up silica and a copper alloy similar to other areas analyzed, such as the chest. Thus it appears that the cavities in the center of the eyes contain the remains of soil that mask any clearer signals. Because there is a massive lead fill on the back of the bronze, X-radiography was not a useful tool. Interestingly, the pronounced bulbous center of the diadem crowning the sphinx’s head ([fig. 14.6](fig. 14,6)) was found to differ from the general copper alloy used in the sculpture, having a higher level of silver, bismuth, and arsenic. Conceivably, this area may have had a silver overlay that enriched the surface but is no longer preserved. The ears of the sphinx are pierced and quite likely would have originally had earrings made of another material, which would have enhanced the polychrome effect.
 
@@ -56,7 +60,9 @@ The finest Archaic Greek armor and weapons were also frequently embellished with
 
 A Late Archaic spear butt ([fig. 14.7](fig. 14,7)) in the Metropolitan Museum’s collection exhibits evidence of a decorative inlay at the end of the shaft.[^21] Narrow bands are inset on either side of an ivy motif ([fig. 14.8](fig. 14,8)). The spear butt bears an inscription identifying it as a dedication at a sanctuary. Analysis of the inscription shows no indication of inlay. However, XRF analysis of the bands and the ivy inlay show compositional differences in their corrosion products, although not the elements that one would expect from a different metal inlay such as silver, gold, or lead. Evidence of a higher content of copper and zinc and a lower content of tin when compared to the main corroded alloy of the spear butt may indicate a different copper alloy used as an inlay, or possibly an organic filling. A Corinthian helmet excavated at Olympia (dated to ca. 650–545 BC) in the collection of the Olympia Archaeological Museum also exhibits carefully executed bands of inlay along its outer edge; most of the silver inlay is preserved in situ.[^22]
 
-{{< q-figure-group id="14.7, 14.8" >}}
+{{< q-figure id="14.7" >}}
+
+{{< q-figure id="14.8" >}}
 
 One of the best preserved and most important Archaic bronzes in the Metropolitan Museum of Art’s collection is the chariot from the tomb of an Etruscan noble discovered in 1902 in Monteleone.[^23] The chariot was reexamined in great detail in preparation for installation in its newly restored form in 2007. A major study of the object by Adriana Emiliozzi was published in 2011 in the *MMA Journal*, incorporating a great deal of technical and scientific analysis undertaken in collaboration with the Met’s team of conservators and research scientists.[^24] In her article, Emiliozzi makes a strong case for identifying the chariot as the work of an East Greek artisan; she also elucidated how this spectacular chariot features a large number of inlays especially of ivory, from both elephant and hippopotamus. The eyes of many of the figures on the chariot are hollowed out to receive inlay, including the figures on the main panel,[^25] the eagle’s head that caps the chariot pole, and the boar’s head that was part of the attachment between the pole and the chariot carriage. The boar’s tusks are made of hippopotamus ivory and are quite well preserved.[^26]
 

@@ -48,9 +48,13 @@ A few pieces attest to the presence of small forms like *pyxides*, *bombylioi*, 
 
 Large closed shapes, which can be recognized as *hydriai*, *olpai*, and *oinochoai*, are mainly documented by fragments or miniature versions, with some exceptions. One is the known *hydria* dating to the mid-fifth century BC, which served as a cinerary urn in a tomb unearthed during the excavations for the building of the new museum.[^23] Another example is a small, refined trefoil *oinochoe*, which can be compared with Macedonian specimens of the fourth century BC.[^24]
 
-<!-- {{< q-figure id="25.4" class="float-right" >}} -->
+{{< q-figure id="25.4" class="float-right" >}}
 
-{{< q-figure-group id="25.4, 25.5, 25.6, 25.7" class="float-right" >}}
+{{< q-figure id="25.5" class="float-right" >}}
+
+{{< q-figure id="25.6" class="float-right" >}}
+
+{{< q-figure id="25.7" class="float-right" >}}
 
 As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphological forms ([fig. 25.4](#25.4)).
 

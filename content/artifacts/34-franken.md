@@ -24,7 +24,13 @@ Also in Berlin is a long vine-leaf sheet with richly incised detail (cat. 2). In
 
 For comparison, I cite nine individual silhouette figures and a group from Tajikistan. The nine are a Mercury from Chur in Switzerland (cat. 3; [fig. 34.2](#34.2)); a dancing girl from the excavations in Tel Dor (Israel) (cat. 4; [fig. 34.3](#34.3)); an Apollo with kithara and griffin in Lyon (cat. 6; [fig. 34.4](#34.4)); a seated griffin facing right (H: 3.9 cm) on the art market (cat. 13); a pantheistic goddess with torch and polos in Munich (so far the only silhouette figure with a border) (cat. 7; [fig. 34.5](#34.5)); a dwarf in Parma with very crudely incised interior drawing (cat. 8; [fig. 34.6](#34.6)); a Victoria originally shown inscribing a shield in Reggio Emilia (cat. 9; [fig. 34.7](#34.7)); a silhouette of a dancing satyr in the Santa Barbara Museum of Art (cat. 11); a satyr with wineskin and kantharos in the Museo Gregoriano Profano at the Vatican (cat. 10; [fig. 34.8](#34.8)); and an offering jug in Verona (cat. 12).
 
-{{< q-figure-group id="34.2, 34.3, 34.4, 34.5, 34.6, 34.7, 34.8" grid="2" >}}
+{{< q-figure-group id="34.2, 34.3" grid="2" >}}
+
+{{< q-figure-group id="34.4, 34.5" grid="2" >}}
+
+{{< q-figure-group id="34.6, 34.7" grid="2" >}}
+
+{{< q-figure-group id="34.8" grid="2" >}}
 
 Of particular interest is a group of silhouette figures from the so-called Oxus Temple in Tajikistan: they show Cupid with grapes, with a kithara, with Psyche, with birds, and so on (cat. 5).
 

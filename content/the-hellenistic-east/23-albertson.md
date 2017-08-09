@@ -58,21 +58,7 @@ The study of Palmyran portraiture shows clearly that there was a continuous proc
 
 Items are in chronological order; all are *loculus* plaques depicting males unless otherwise noted.
 
-| Date (AD) | Example |
-| ------------- | ------------- |
-| 150 | |
-| 157 | Istanbul, Archaeological Museum, inv. 3840T (Ingholt 1928, 34–35 PS 11, plate 4; *CIS*, 476 no. 4616, plate 47) |
-| 160 | Once Berlin, collection von Hahn (Ingholt 1928, 119 PS 252; *CIS*, 462–63 no. 4573); Istanbul, Archaeological Museum, inv. 3837T (Ingholt 1928, 117 PS 237; *CIS*, 363 no. 4299, plate 48) |
-| 170 | Paris, Louvre, inv. AO 28381 (Dentzer-Feydy and Teixidor 1993, 244 no. 237); Palmyra, Palmyra Museum, inv. B2729/9166: statue (Charles-Gaffiot et al. 2001, 320 no. 26, fig. on 190); Palmyra, Palmyra Museum, inv. 1951/7043 (Sadurska and Bounni 1994, 51–52 no. 59, fig. 114) |
-| 180 | Palmyra, Palmyra Museum, inv. 1955/7047 (Sadurska and Bounni 1994, 53–54 no. 63, fig. 92); New York, Sotheby’s (Sotheby’s 2007, lot 31)|
-| 187 | New Haven, Yale University Art Gallery, inv. 1954.30.3 (*CIS*, 454 no. 4549, plate 61) |
-| 189 | St. Petersburg, Hermitage inv. 8840 (*CIS*, 360 no. 4292, plate 52) |
-| 190 | London, British Museum 125032 (Ingholt 1928, 112 PS 201; *CIS*, 362–63 no. 4297, plate 52); Toronto, Royal Ontario Museum, inv. 953x94.4 (Ingholt 1928, 113 n.1 PS 203); Gaziantep, Archaeological Museum, inv. 211 (Parlasca 2005, 143, 148 fig. 4); Damascus, National Museum, from Hypogeum of Yarḥai (Tanabe 1986, plate 280, fig. 249); Jerusalem, Church of St. Anne, Museum, inv. PB 2670: double bust (Ingholt 1928, 110 PS 183; *CIS*, 374–75 no. 4329, plate 54); Minneapolis, Minneapolis Institute of Art acc. 2008.28.2 (*CIS*, 393 no. 4379; Sotheby’s 2002, lot 119); Oslo, Museum of Cultural History inv. C42235 (Ingholt 1928, 114 PS 217; *CIS*, 369 no. 4314, plate 53) |
-| 200 | Copenhagen, Ny Carlsberg Glyptotek, inv. 1043 (Ploug 1995, 174–76 no. 70); New York, Metropolitan Museum of Art acc. 02.29.2 (Ingholt 1928, 109 PS 171); London, British Museum 125020 (Ingholt 1928, 119 PS 246; *CIS*, 372 no. 4323, plate 38); Copenhagen, NCG, inv. 1145: head (Ploug 1995, 222–23 no. 92); Palmyra, Palmyra Museum, inv. 8522/2321 (Charles-Gaffiot et al. 2001, 347 no. 163, fig. on 271); Palmyra, Southeast Necropolis, Tomb H (Taibbôl), relief of Yarḥai; London, Christie’s (Christie’s 2012, lot 190) |
-| 210 | New York, Metropolitan Museum of Art inv. 98.19.3 (Ingholt 1928, 122 PS 282; *CIS*, 374 no. 4327, plate 36); Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237); Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42) |
-| 230 | Palmyra, Palmyra Museum, inv. 457/1660: head (Colledge 1976, fig. 142; Tanabe 1986, plate 486 fig. 460); Damascus, National Museum, inv. C18: plaster head (Tanabe 1986, plate 484 fig. 458; Charles-Gaffiot et al. 2001, 336 no. 99, fig. on 236); Berlin, Staatliche Museen inv. VA 50 (Ingholt 1928, 122 PS 279; *CIS*, 395 no. 4385, plate 45) |
-| 236–37 | Beirut, American University Museum, inv. 32.35 (Ingholt 1934, 36–38, plate 9.1); Middlebury (VT), Middlebury College Museum of Art inv. 2009.002 (Sotheby’s 2008, lot 68) |
-| 250 | |
+{{< q-table id="23-appendix" border="none" caption="" class="plate" label="none" >}}
 
 ## Notes
 

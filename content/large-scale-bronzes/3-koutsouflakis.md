@@ -46,7 +46,7 @@ There is no official record indicating that anyone saw the wreck site again, and
 
 The statue of the horse and jockey was reassembled, and after extensive restoration went on display at the National Museum of Athens.[^15] The original artist and the circumstances under which the work was created are unknown. Seán Hemingway has suggested that it may have been plundered from Corinth in 146 BC by the Roman general Mumius during the Achaean War and given to Attalus as a share of the booty, but lost while in transit to Pergamon.[^16] Christos Piteros connected the wreck with the plundering of Chalkis by Mithridates’s general Archelaos after the defeat of their coalition by Sulla in 86 BC and his escape back to Pergamon.[^17]
 
-{{< q-figure id="3.2" class="float-right" >}}
+{{< q-figure id="3.2" class="float-right" pdf="one-column" >}}
 
 After the delivery of the last part of the Artemision assemblage, almost half a century passed without any significant new finds in Greece. The only exception was the confiscation by the port police of a bronze statuette depicting Artemis, raised during illegal operations in 1959 from the sea off Mykonos ([fig. 3.2](#3.2)).[^18] According to the statue’s drapery and style, it should be dated in the Early Hellenistic period.
 
@@ -82,7 +82,7 @@ Concerning the conditions of transport and loss of the statues retrieved from th
 
 Among the late finds originating from the Aegean there is also a life-size bronze statue of a nude male, raised in 2004 from a depth of almost 450 meters (1,475 ft.) in the area west of Kythnos in the Cyclades.[^41] The entire head, the right arm from the shoulder, the right leg from the knee down, and part of the back are missing. The nudity, the equipoise, and the musculature of the body suggest a robust athlete, perhaps a discus thrower. The dating of the bronze is still very uncertain and depends on its potential relationship with a shipwreck found in the same area, loaded with a mixed cargo that contained, among other items, Chian amphorae of the late fourth or early third century BC.[^42]
 
-{{< q-figure id="3.6" class="float-right">}}
+{{< q-figure id="3.6" class="float-right" pdf="one-column">}}
 
 The latest accession in this long series of bronzes found underwater is a head of a young male figure that was delivered to the department by a spear-fisherman in late summer 2015 ([fig. 3.6](#3.6)).[^43] It was collected in shallow waters in front of the village of Agia Pelagia in the island of Kythera, south of Peloponnese; according to the existing evidence, it is not connected to any shipwreck remains. The rendering of the hair in shallow relief might indicate a Late Hellenistic, if not Early Roman, variation of an earlier prototype.
 

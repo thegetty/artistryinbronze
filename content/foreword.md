@@ -12,6 +12,7 @@ contributor:
     title: Director
     affiliation: Getty Conservation Institute
 contributor_byline: bottom
+menu: false
 ---
 
 The Getty has long been committed to the appreciation, study, and conservation of ancient bronzes. Much like Cicero and others who valued these works for their history, beauty, and craftsmanship, J. Paul Getty himself greatly admired bronze sculpture. Among the early purchases that pleased him most were statuettes of gods and heroes. When he passed away in 1976, he was negotiating for the purchase of the rare life-size image of a victorious athlete that has come to be known as the Getty Bronze. Subsequently acquired by the museum that bears J. Paul Getty’s name, that statue was the inspiration for the award-winning international loan exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World*, a project that brought together an exceptional group of ancient bronzes from around the world. The exhibition opened at Palazzo Strozzi in Florence in spring 2015, was seen by more than 165,000 people at the Getty Center in the summer and autumn of that year, and closed at the National Gallery of Art in Washington, DC, in spring 2016.
