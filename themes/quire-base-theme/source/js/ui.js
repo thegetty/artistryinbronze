@@ -34,6 +34,7 @@ class QuireUI {
     let $searchCloseButton = $('#js-search-close')
     let $searchInput = $('#js-search-input')
     let $figures = $('.q-figure__wrapper')
+    let $tables = $('.js-figure-table')
 
     this.anchorScroll(window.location.hash)
 
@@ -58,6 +59,7 @@ class QuireUI {
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
     $('a').on('click', (e) => { this.footnoteScroll(e) })
+    $tables.click(e => this.tableToggle(e))
 
     // Page-specific setup
     if ($mapEl.length) { new Map() }
@@ -243,6 +245,21 @@ class QuireUI {
       return false
     }
   }
+
+  tableToggle(e) {
+    let $target = $(e.target)
+    let $table = $target.closest('.js-figure-table')
+    let $curtain = $table.prev('.js-figure-curtain')
+
+    if ($table.hasClass('is-expanded')) {
+      $table.removeClass('is-expanded')
+      $curtain.removeClass('is-expanded')
+    } else {
+      $table.addClass('is-expanded')
+      $curtain.addClass('is-expanded')
+    }
+  }
+
 }
 
 export default QuireUI
