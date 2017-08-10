@@ -66,9 +66,9 @@ It is crucial to investigate the actual formulations of the materials available 
 
 It has been previously suggested that Incralac formulations, at least at the acrylic resin level, may vary from supplier to supplier.[^7] In our investigations, a number of Incralac batches were analyzed with KBr-FTIR and results confirm this suggestion. Figure 37.2a shows the recorded spectra of Incralac products acquired from various distributors in Greece ([table 37.1](#table-37.1)). It can be seen that the basic formulation is similar in most cases, with Paraloid B44 being the base acrylic resin, with main absorptions at 2989, 2953, and 2846 cm<sup>–1</sup> (antisymmetric stretching of CH<sub>3</sub> and CH<sub>2</sub> and symmetric stretching of CH<sub>2</sub>, correspondingly); 1732 cm<sup>–1</sup> (ester carbonyl stretching); 1474, 1449, and 1387 cm<sup>–1</sup> (CH<sub>2</sub> and CH<sub>3</sub> bending); and 1238, 1177, and 1147 (C-O-C stretching).
 
-{{< q-table id="37.1" scale=".8" border="horizontal" >}}
+{{< q-table id="37.1" scale=".8" border="all" >}}
 
-{{< q-table id="37.2" scale=".8" border="horizontal" >}}
+{{< q-table id="37.2" scale=".8" border="all" >}}
 
 Added quantities of BTA (possibly an aryl-substituted derivative as evidenced by the peaks at 1604, 1548, and 1494 cm<sup>–1</sup>) and of an epoxy-oil compound (possibly epoxidized soybean oil, based on distributors’ data sheets and the literature, and evidenced by the 2926 and 1265 cm<sup>–1</sup> peaks) are also detected. (For FTIR peak assignments, see [table 37.2](#table-37.2).) In one specific case (distributor A), lower amounts of additives were detected through FTIR analysis than for the other distributors, while in another (distributor D), a different base polymer seems to have been used or added, possibly Paraloid B48N (based on its 2961, 2876 C-H stretching absorption peaks pattern).[^8] On this basis, it may be hypothesized that some manufacturers or distributors formulate their own Incralac-type products by employing primarily Paraloid B44 (and in one case a different resin) and adding substituted BTA and/or epoxidized soybean oil (ESO); also, addition of other unspecified additive(s) in small quantities cannot be ruled out.
 

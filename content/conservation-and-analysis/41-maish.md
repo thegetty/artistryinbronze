@@ -26,7 +26,7 @@ Studies of the Getty herm ([fig. 41.1](#41.1)) have characterized the alloy and 
 
 *Copper Alloy Analysis:* The most recent analysis of interior samples (1 and 2) shows compositions consistent with ancient lead-tin bronze alloys ([table 41.1](#table-41.1)).[^7] Lead concentrations range from 14 to 22% with tin concentrations ranging approximately from 8 to 14%. Cobalt levels were determined to be less than 0.005 weight percent in the internal lead deposit (sample 3) while present in higher concentration in the bronze alloy itself (at 0.15 and 0.20 weight percent).
 
-{{< q-table id="41.1" scale=".6" border="horizontal" >}}
+{{< q-table id="41.1" scale=".6" border="all" >}}
 
 *Lead Isotopes:* Lead-isotope studies provided both lead sourcing (<sup>206</sup>Pb, <sup>207</sup>Pb, <sup>208</sup>Pb) and smelting information (<sup>210</sup>Pb).[^8] Isotopic ratios suggest different lead sources for the alloy lead and a lead deposit on the herm interior. While the alloy falls within the Aegean field, the purer lead lies outside this grouping. Lead 210 (<sup>210</sup>Pb) was also evaluated in the three samples (two alloy, one lead) to better understand the smelting history of the bronze. If present in sufficient amounts, <sup>210</sup>Pb, with a half-life of 22.2 years, could indicate smelting in the last 75–100 years. The study concluded there was negligible <sup>210</sup>Pb in the bronze alloy, and none was detected in the sample of purer lead.
 

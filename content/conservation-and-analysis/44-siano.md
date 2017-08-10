@@ -89,11 +89,11 @@ The results of the examinations described above allow us to identify most of the
 
 The results are summarized in tables 44.1–2, where the main alloys and those of plausible independent castings are grouped. The average composition of the horse ([table 44.1](#table-44.1)) is 11.7 ± 0.7 wt% tin and 3.6 ± 0.7 wt% lead. The lead content of the limbs and tail is significantly higher, thus supporting their probable independent casting, although the only clear evidence of an ancient join is that of the left foreleg ([fig. 44.5](#44.5), far right). The saddlecloth, breastplate, and reins were crafted in pure copper (impurities <1%).
 
-{{< q-table id="44.1" scale=".8" border="horizontal" >}}
+{{< q-table id="44.1" scale=".8" border="all" >}}
 
 The rider ([table 44.2](#table-44.2)) has an average tin weight fraction similar to that of the horse and a higher lead content: 11.0 ± 0.9 wt% tin, 10.4 ± 1.5 wt% lead. The right arm and the lower part of the sword, which is an integral part of the hand, is the only piece with a slightly different composition: 7.3 wt% tin, 7.6 wt% lead. Finally, the base has an intermediate composition between rider and horse—12.0 ± 0.2 wt% tin, 7.6 ± 0.5 wt% lead—while that of the rudder is similar to the main alloy of the horse.
 
-{{< q-table id="44.2" scale=".8" border="horizontal" >}}
+{{< q-table id="44.2" scale=".8" border="all" >}}
 
 The areas where traces of silver decorations were found using XRF are: pupil, sword pommel, phalerae, and pendant of the rider; right phalera of the breastplate and pupil of the horse. The presence of silver was confirmed for most of the base decoration, while in areas where the foil was consumed or completely lost, tin-lead alloys were detected.
 

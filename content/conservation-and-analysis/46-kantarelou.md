@@ -82,7 +82,7 @@ The scientific examination of the bronze figurines was carried out by a portable
 
 *The Problem of Heterogeneity:* The microscale heterogeneity of CH metals was validated during the PROMET campaign and was reported in the book *The Preservation of Metal Museum Collections from the Mediterranean Region: The PROMET Approach*.[^18] In this study, the examination of ancient copper alloys highlights the necessity of area mapping to deduce mean values of elemental intensities compared to single-spot micro-XRF analysis. It is very characteristic that the homogeneity of the SRM BCR-691 copper alloys is ensured only for a beam-spot size at the order of 5 mm due to their microscale heterogeneity. Typical copper alloys were analyzed by performing micro-XRF mapping in small (\~0.5 x 0.5 mm<sup>2</sup>) and large (\~5 x 5 mm<sup>2</sup>) areas. [Table 46.1](#table-46.1) reports the systematic area scans performed for the copper BCR-691Α alloy. The elemental intensities deduced from each area scan were averaged and the respective standard deviations (STDMV %) are presented. In addition, the table gives the standard deviation (%) of the mean value determined by averaging the individual mean values of all the area scans for a specific elemental intensity.
 
-{{< q-table id="46.1" scale=".6" border="horizontal" >}}
+{{< q-table id="46.1" scale=".6" border="all" >}}
 
 Given these results, what would be an appropriate measurement methodology that would generate representative results of the metal alloy bulk composition? The following practical guidelines should be taken into account:
 
