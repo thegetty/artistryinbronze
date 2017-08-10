@@ -468,7 +468,7 @@ table_list:
           <tr> <th scope="row">FG 050587<br> (lead)</td> <td>0.7</td> <td>39</td> <td>60</td> <td>0.3</td> <td>&lt;0.01</td> <td>&lt;0.01</td> <td>&lt;0.1</td> <td>&lt;0.5</td> <td>&lt;0.01</td> <td>0.02</td> <td>0.02</td> <td>&lt;0.1</td> <td>0.03</td> <td>0.02</td> </tr>
         </tbody>
         <tfoot>
-          <tr><td colspan="14">Results after Schwab et al. 2008.</td></tr>
+          <tr><td colspan="15">Results after Schwab et al. 2008.</td></tr>
         </tfoot>
       </table>
 
