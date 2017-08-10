@@ -1,0 +1,15 @@
+<div class="quire-copyright">
+{{ if .Site.Data.publication.copyright }}
+  <p>{{ .Site.Data.publication.copyright }}.</p>
+{{ end }}
+
+{{- if .Site.Data.publication.license.icon -}}
+  <img src="assets/img/{{ .Site.Data.publication.license.icon }}" alt="logo for {{ .Site.Data.publication.license.name }}" />
+{{- end -}}
+
+<p>Published {{ if .Site.Data.publication.publisher }}by <span>{{ range .Site.Data.publication.publisher }}<span class="quire-publisher">{{ .name }}</span>{{ end }}</span>{{ end }}{{- if .Site.Data.publication.pub_date -}}<time datetime="{{ .Site.Data.publication.pub_date }}">{{ .Site.Data.publication.pub_date | dateFormat "January 2006" }}</time>{{- end -}}
+{{- if .Site.Data.publication.license -}}
+  , and licensed under a <a rel="license" href="{{ .Site.Data.publication.license.url }}">{{ .Site.Data.publication.license.name }}</a>. To view a copy of this license, visit {{ .Site.Data.publication.license.url }} or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042
+{{- end -}}
+.</p>
+</div>
