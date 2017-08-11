@@ -88,6 +88,51 @@ $print-page-number-size: 7.5pt;
   @bottom-left { content: none; }
 }
 
+@page rotated:left {
+  prince-rotate-body: 270deg;
+  prince-shrink-to-fit: auto;
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-outer-margin;
+  margin-right: $print-inner-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-left {
+    // content: counter(page) " — " string(sectiontitle);
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+  @bottom-right {
+    content: string(sectiontitle);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+    text-transform: uppercase;
+    letter-spacing: 1pt;
+  }
+}
+
+@page rotated:right {
+  prince-rotate-body: 270deg;
+  prince-shrink-to-fit: auto;
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-inner-margin;
+  margin-right: $print-outer-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-right {
+    // content: string(papertitle) " — " counter(page);
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+  @bottom-left {
+    content: string(papertitle);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+    font-style: italic;
+  }
+}
+
 @page bleed {
   margin: 0;
   @bottom-left { content: none; }

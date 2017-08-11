@@ -15,6 +15,47 @@ table#table-23-appendix thead tr th:first-child {
 
 @media print {
 
+
+  #table-37-3,
+  #table-37-4,
+  #table-42-1,
+  #table-42-2,
+  #table-43-1 {
+    page: rotated;
+  }
+
+  #table-36-2 th:nth-child(1) {
+    width: .75in;
+  }
+
+  #table-36-2 th:nth-child(2) {
+    width: 2in;
+  }
+
+  #table-40-1 th:nth-child(n+4) {
+    width: .25in;
+    text-align: center;
+  }
+
+  #table-40-1 td {
+    text-align: center;
+  }
+
+  #table-42-1 figcaption {
+    margin-bottom: .5in;
+  }
+
+  #table-40-1 .q-figure__table-wrapper,
+  #table-42-1 .q-figure__table-wrapper,
+  #table-42-2 .q-figure__table-wrapper,
+  #table-43-1 .q-figure__table-wrapper {
+    font-size: 5.5pt;
+  }
+
+  th, td {
+    padding: .25em;
+  }
+
   .q-pdf-two-column.q-figure-grid .q-figure__inner-figure.q-grid-2 {
     width: 3.25in;
     margin-right: .25in;
