@@ -1,7 +1,7 @@
 {{ $x := .Get "id" | string }}
 {{ range where .Site.Data.tables.table_list "id" "eq" $x }}
 <div class="js-figure-curtain"></div>
-<figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }} js-figure-table"{{ with $.Get "id" }} id="table-{{ . }}"{{ end }}>
+<figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }} js-figure-table"{{ with $.Get "id" }} id="table-{{ replace . "." "-" }}"{{ end }}>
   {{ $borderstring := replace ($.Get "border") " " "" }}
   {{ $borderlist := split $borderstring "," }}
   {{ $centertextstring := replace ($.Get "center-text") " " "" }}
