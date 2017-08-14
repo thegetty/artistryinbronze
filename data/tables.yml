@@ -645,8 +645,8 @@ table_list:
           <tr> <th scope="col">Cu</th> <th scope="col">Sn</th> </tr>
         </thead>
         <tbody>
-          <tr> <td></td> <td>2a</td> <td>89.2 ± 1.0</td> <td>9.82 ± 0.5</td> </tr>
-          <tr> <td></td> <td>2b</td> <td>92.5 ± 1.0</td> <td>6.32 ± 0.3</td> </tr>
-          <tr> <td></td> <td>2c</td> <td>81.9 ± 1.0</td> <td>16.4 ± 0.8</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02a_Kantarelou_Table_2a.jpg" alt="" /></td> <td>2a</td> <td>89.2 ± 1.0</td> <td>9.82 ± 0.5</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02b_Kantarelou_Table_2b.jpg" alt="" /></td> <td>2b</td> <td>92.5 ± 1.0</td> <td>6.32 ± 0.3</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02c_Kantarelou_Table_2c.jpg" alt="" /></td> <td>2c</td> <td>81.9 ± 1.0</td> <td>16.4 ± 0.8</td> </tr>
         </tbody>
-      <table>
+      </table>

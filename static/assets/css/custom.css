@@ -12,6 +12,10 @@ table#table-23-appendix thead tr th:first-child {
   width: 8em;
 }
 
+#table-46-2 img {
+  max-width: 360px;
+}
+
 
 @media print {
 
