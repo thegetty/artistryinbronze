@@ -56,6 +56,29 @@ table#table-23-appendix thead tr th:first-child {
     font-size: 5.5pt;
   }
 
+  #table-42-1 th:nth-child(-n+2) {
+    width: .375in;
+  }
+  #table-42-1 th:nth-child(3) {
+    width: .3125in;
+  }
+  #table-42-1 th:nth-child(4) {
+    width: .125in;
+  }
+  #table-42-1 tr:first-child th:nth-child(n+14){
+    width: .1875in;
+  }
+
+  #table-43-1 th:nth-child(-n+2) {
+    width: .53125in;
+  }
+  #table-43-1 th:nth-child(3) {
+    width: .125in;
+  }
+  #table-43-1 tr:first-child th:nth-child(n+13){
+    width: .1875in;
+  }
+
   th, td {
     padding: .25em;
   }
