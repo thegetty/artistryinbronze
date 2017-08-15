@@ -98,7 +98,7 @@ Taking into consideration the previous metal analyses and our better understandi
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in [table 43.1](#table-43.1).
 
-{{< q-table id="43.1" scale=".3" border="horizontal" center-text="all" >}}
+{{< q-table id="43.1" scale=".3" border="all" center-text="all" >}}
 
 By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth ([fig. 43.6](#43.6)). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
 

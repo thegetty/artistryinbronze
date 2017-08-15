@@ -12,8 +12,76 @@ table#table-23-appendix thead tr th:first-child {
   width: 8em;
 }
 
+#table-46-2 img {
+  max-width: 360px;
+}
+
 
 @media print {
+
+
+  #table-37-3,
+  #table-37-4,
+  #table-42-1,
+  #table-42-2,
+  #table-43-1 {
+    page: rotated;
+  }
+
+  #table-36-2 th:nth-child(1) {
+    width: .75in;
+  }
+
+  #table-36-2 th:nth-child(2) {
+    width: 2in;
+  }
+
+  #table-40-1 th:nth-child(n+4) {
+    width: .25in;
+    text-align: center;
+  }
+
+  #table-40-1 td {
+    text-align: center;
+  }
+
+  #table-42-1 figcaption {
+    margin-bottom: .5in;
+  }
+
+  #table-40-1 .q-figure__table-wrapper,
+  #table-42-1 .q-figure__table-wrapper,
+  #table-42-2 .q-figure__table-wrapper,
+  #table-43-1 .q-figure__table-wrapper {
+    font-size: 5.5pt;
+  }
+
+  #table-42-1 th:nth-child(-n+2) {
+    width: .375in;
+  }
+  #table-42-1 th:nth-child(3) {
+    width: .3125in;
+  }
+  #table-42-1 th:nth-child(4) {
+    width: .125in;
+  }
+  #table-42-1 tr:first-child th:nth-child(n+14){
+    width: .1875in;
+  }
+
+  #table-43-1 th:nth-child(-n+2) {
+    width: .53125in;
+  }
+  #table-43-1 th:nth-child(3) {
+    width: .125in;
+  }
+  #table-43-1 tr:first-child th:nth-child(n+13){
+    width: .1875in;
+  }
+
+  th, td {
+    padding: .25em;
+  }
 
   .q-pdf-two-column.q-figure-grid .q-figure__inner-figure.q-grid-2 {
     width: 3.25in;

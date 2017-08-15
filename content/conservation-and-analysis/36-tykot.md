@@ -73,7 +73,7 @@ By the Viking Age, both bronze and brass were widely used. Non-destructive analy
 
 {{< q-figure id="36.4" >}}
 
-{{< q-table id="36.1" scale=".8" border="horizontal" >}}
+{{< q-table id="36.1" scale=".8" border="all" >}}
 
 ## On-site Analysis in Calabria Using pXRF
 

@@ -44,7 +44,7 @@ Pernicka tested four samples of lead solder in order to determine how the basepl
 
 In 2013 a Cleveland Museum of Art focus exhibition on *Apollo* provided an opportunity to continue analysis of the sculpture, and Northover and Pernicka traveled to Cleveland for study and sampling. Additional cross-sections were taken from numerous areas of the figure, the detached forearm and hand, and the python. Seventeen samples in all were carefully selected for location and accessibility, with the goal of obtaining as much information from as few samples as possible, and these were mechanically removed from the bronze. As many as 11 areas on every sample (30 x 50 µm) were analyzed with wavelength dispersive spectrometry and electron probe microanalysis, and 16 elements were recorded as individual compositions of each sample in weight percent. Electron probe microanalysis of the samples verified that the figure was composed of a high-lead, low-tin bronze, as found in earlier analyses (see [table 40.1](#table-40.1) for percentages).[^4] After analysis the mounted samples were studied in both polished and etched states. The results of the metallographic analysis are consistent with the figure, hand, and python being ancient, as they all have thick corrosion crusts and deep penetration that developed during burial and subsequent outdoor exposure. In fact, some samples were too corroded to be etched and could only be examined as polished.
 
-{{< q-table id="40.1" scale=".4" border="horizontal" >}}
+{{< q-table id="40.1" scale=".4" border="all" >}}
 
 In order to ascertain whether parts of the figure derived from the same casting or the same raw metal source, multiple small samples from locations throughout the figure were obtained with a steel drill bit to be analyzed with inductively-coupled plasma mass spectrometry (ICP-MS) and EDXRF. This combination of analyses confirmed that the bronze samples had a uniform composition with the exception of the baseplate, which had more lead and less tin than the rest of the figure.[^5] The uniformity of the figure, the left hand, the forearm, and the python was further confirmed by lead-isotope ratios, with only the lead solder on the baseplate having a clearly different lead isotope signature.
 
@@ -76,7 +76,7 @@ However, most unexpected of all was the finding that the stable lead-isotope rat
 
 Lead-isotope ratios can also be used to determine the provenance of the lead in the alloy, because much data are available for lead deposits in the Aegean region, in southeastern Europe, and in the eastern Mediterranean.[^12] The lead-isotope ratios of both the statue and the solder exclude a geological provenance of the lead from the Aegean and therefore Laurium, the largest source of Aegean lead in antiquity. There are not many lead ore deposits that would match the *Apollo*. The Cevennes in France and the Balkans are two possibilities ([table 40.2](#table-40.2)).[^13]
 
-{{< q-table id="40.2" scale=".6" border="horizontal">}}
+{{< q-table id="40.2" scale=".6" border="all">}}
 
 ## Interpretation of Results and Conclusion
 
