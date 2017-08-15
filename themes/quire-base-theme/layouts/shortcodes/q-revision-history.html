@@ -1,0 +1,23 @@
+<div class="quire-revision-history">
+{{ if eq ($.Get "format") "short" }}
+{{ $len := len .Site.Data.publication.revision_history -}}
+{{ range $index, $element := .Site.Data.publication.revision_history -}}
+  {{ if eq $index 0 }}
+    <p>First edition, {{ dateFormat "2006" .date }}</p>
+  {{ end }}
+  {{ if and (gt $len 1) (ne $index (sub $len 1)) }}
+    <p>Last updated, {{ dateFormat "January 2, 2006" .date }}</p>
+  {{ end }}
+{{ end -}}
+<p><a href="{{ .Site.Data.publication.repository_url }}" target="_blank">{{ .Site.Data.publication.repository_url }}</a></p>
+{{ else }}
+{{ range .Site.Data.publication.revision_history }}
+  <h3>{{ dateFormat "January 2, 2006" .date }}</h3>
+  <ul>
+    {{ range .summary }}
+    <li>{{ . }}</li>
+    {{ end }}
+  </ul>
+{{ end }}
+{{ end }}
+</div>

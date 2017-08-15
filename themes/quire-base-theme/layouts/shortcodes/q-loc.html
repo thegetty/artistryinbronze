@@ -1,0 +1,8 @@
+<div class="quire-loc-cip">
+<p>Library of Congress Cataloging-in-Publication Data</p>
+<ul>
+{{ range .Site.Data.publication.library_of_congress_cip_data }}
+  <li>{{ safeHTML . }}</li>
+{{ end }}
+</ul>
+</div>

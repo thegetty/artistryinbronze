@@ -264,3 +264,65 @@
     }
   }
 }
+#copyright,
+#about {
+
+  // a {
+  //   word-break: break-all;
+  //   overflow-wrap: break-word;
+  //   word-wrap: break-word;
+  // }
+
+  p, ul {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-indent: 0;
+  }
+
+  .quire-copyright {
+    margin-bottom: 1em;
+    p {
+      margin-bottom: 0;
+    }
+    img {
+      width: 6em;
+      padding: .25em 0 0;
+    }
+  }
+
+  .quire-revision-history {
+    margin-bottom: 1em;
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .quire-publisher-team {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    li {
+      margin: 0;
+    }
+    &__role {
+      font-style: italic;
+    }
+  }
+
+  .quire-loc-cip {
+    p {
+      margin-bottom: 0;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+      margin-left: 0;
+    }
+    li {
+      margin: 0;
+      padding-left: 1.5em;
+      text-indent: -1.5em;
+    }
+
+  }
+}
