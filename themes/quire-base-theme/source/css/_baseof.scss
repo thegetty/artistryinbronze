@@ -1,20 +1,11 @@
-// html {
-//   font-size: calc(1em + 1vw);
-// }
-
 html {
-  font-size: 110%;
-  // font-size: calc(1em + .1vw);
+  // font-size: 110%;
+  color: $black;
   font-family: $text-font-family;
+  font-size: $base-font-size;
   font-weight: 300;
   line-height: 1.6em;
-  color: $black;
 
-  @media print {
-    font-weight: 400;
-    font-size: 10pt;
-    line-height: 1.3em;
-  }
 }
 
 body {
@@ -28,8 +19,8 @@ strong {
 
 a {
   color: $primary-color;
-  text-decoration: none;
   font-weight: 400;
+  text-decoration: none;
 
   &:active,
   &:focus,
@@ -38,7 +29,8 @@ a {
   }
 }
 
-sup, sub {
+sup,
+sub {
   line-height: 0;
 }
 
@@ -58,10 +50,15 @@ h2 + p {
   text-indent: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $heading-font-family;
   font-weight: 700;
-  line-height: 1.5em
+  line-height: 1.5em;
 }
 
 h2 {
@@ -70,35 +67,34 @@ h2 {
 
 hr {
   border: 0;
-  text-align: center;
   margin: 2rem 0;
-}
+  text-align: center;
 
-hr:after {
-  content: '✦ ✦ ✦';
-  color: $dark-neutral;
-  letter-spacing: $base-spacing * .8;
+  &::after {
+    color: $dark-neutral;
+    content: "✦ ✦ ✦";
+    letter-spacing: $base-spacing * 0.8;
+  }
 }
 
 table {
-  width: 100%;
-  line-height: $small-font-line-height;
   border-collapse: collapse;
+  line-height: $small-font-line-height;
   margin: $base-spacing 0;
   table-layout: fixed;
+  width: 100%;
 
   caption {
     font-weight: 700;
-    margin-bottom: $base-spacing * .5;
+    margin-bottom: $base-spacing * 0.5;
   }
 
   ul {
     list-style-type: none;
     margin: 0;
     padding-left: 0;
-    li {
-      margin-bottom: $base-spacing * .25;
-    }
+
+    li { margin-bottom: $base-spacing * 0.25; }
   }
 
 }
@@ -151,88 +147,85 @@ sup {
 }
 
 .quire-baseof {
+  @media screen {
+    // The .visually-hidden css is from Heydon Pickering’s book Inclusive Design
+    // Patterns, and is devised to visually hide the elelment without it becoming
+    // silenced in screen readers
 
-  /* The .visually-hidden css is from Heydon Pickering’s book Inclusive Design Patterns, and is devised to visually hide the elelment without it becoming silenced in screen readers */
-  .visually-hidden {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    clip: rect(1px, 1px, 1px, 1px);
-  }
-
-  .skip-link {
-    position: absolute;
-    right: 100%;
-    font-size: 1rem * $small-font-scale;
-    font-weight: 400;
-  }
-
-  .skip-link:focus {
-    z-index: 1000;
-    position: fixed;
-    left: $base-spacing * 4;
-    top: $base-spacing * .8;
-    width: 10em;
-    &.no-js {
-      left: $base-spacing;
+    .visually-hidden {
+      clip: rect(1px, 1px, 1px, 1px);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      width: 1px;
     }
-  }
 
-  .quire-nav-group {
-    position: fixed;
-    top: 0;
-    width: 100%;
-    font-family: $heading-font-family;
-    background-color: $white;
-    &.no-js {
-      width: 70%;
-      right: 0;
+    .skip-link {
+      font-size: 1rem * $small-font-scale;
+      font-weight: 400;
+      position: absolute;
+      right: 100%;
     }
-  }
 
-  main {
-    &.no-js {
-      float: right;
-      width: 70%;
+    .skip-link:focus {
+      left: $base-spacing * 4;
+      position: fixed;
+      top: $base-spacing * 0.8;
+      width: 10em;
+      z-index: 1000;
+
+      &.no-js { left: $base-spacing; }
     }
-  }
 
-  &.quire-cover {
     .quire-nav-group {
-      background-color: transparent;
+      background-color: $white;
+      font-family: $heading-font-family;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 9999;
+
       &.no-js {
-        width: 100%;
+        right: 0;
+        width: 70%;
       }
     }
+
     main {
       &.no-js {
-        width: 100%;
+        float: right;
+        width: 70%;
       }
     }
-    .quire-menu.no-js {
-      display: none;
+
+    &.quire-cover {
+      .quire-nav-group {
+        background-color: transparent;
+
+        &.no-js { width: 100%; }
+      }
+
+      main {
+        &.no-js { width: 100%; }
+      }
+
+      .quire-menu.no-js { display: none;}
     }
   }
-
 }
 
 
 // The following is just used for the temporary Figures Documentation page.
 
-h4 {
-  margin-bottom: 0;
-}
-h4 + pre {
-  margin-top: 0;
-}
+h4 { margin-bottom: 0; }
+h4 + pre { margin-top: 0; }
+
 pre {
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
-code {
-  color: $primary-color;
-}
+
+code { color: $primary-color; }

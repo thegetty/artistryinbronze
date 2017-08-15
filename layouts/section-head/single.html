@@ -1,0 +1,57 @@
+{{ define "main" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span> {{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
+    <ul class="quire-page__header__contributor">
+    {{ range .Params.contributor }}
+    <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
+    {{ end }}
+    </ul>
+  </header>
+  <div class="quire-page__content">
+    {{ .Content }}
+  </div>
+  <ul class="quire-page__section-list">
+    {{ $thissection := .Section }}
+    {{ range (where (where .Site.Pages "Section" $thissection) "Type" "essay") }}
+    {{ if and (ne .Params.layout "abstract-only") (ne .Params.online false) }}
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__title"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></h2>
+      <ul class="quire-page__section-list__item__contributor">
+      {{ range .Params.contributor }}
+      <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+      {{ with .Params.abstract }}
+        <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract</button></h3>
+        <div class="quire-page__section-list__abstract">
+        {{ . | markdownify }}
+        </div>
+      {{ end }}
+      <h3 class="quire-page__section-list__link"><a href="{{ .Permalink }}">
+        <span class="visually-hidden">Link to </span>Paper
+        <svg width="1em" height="1em"><switch><use xlink:href="#link-icon"></use><foreignObject><img src="path/to/link-icon.png" alt="" /></foreignObject><switch></svg>
+      </a></h3>
+    </li>
+    {{ end }}
+    {{ end }}
+  </ul>
+  <hr />
+  <ul class="quire-page__section-list">
+    {{ range (where (where .Site.Pages "Section" $thissection) "Layout" "abstract-only" ) }}
+    <li class="quire-page__section-list__item">
+      <h2 class="quire-page__section-list__item__abstract-only-title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h2>
+      <ul class="quire-page__section-list__item__contributor">
+      {{ range .Params.contributor }}
+      <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+      <h3 class="quire-page__section-list__link"><button class="heading-expander no-js">Abstract Only</button></h3>
+      <div class="quire-page__section-list__abstract">
+      {{ .Params.abstract | markdownify }}
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}

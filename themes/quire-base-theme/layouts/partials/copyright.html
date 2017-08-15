@@ -1,0 +1,20 @@
+<div class="quire-copyright">
+{{ if .Site.Data.publication.copyright }}
+  <p>{{ .Site.Data.publication.copyright }}.</p>
+{{ end }}
+
+{{- if .Site.Data.publication.license.icon -}}
+  <img src="../assets/img/{{ .Site.Data.publication.license.icon }}" alt="logo for {{ .Site.Data.publication.license.name }}" />
+{{- end -}}
+
+<p>
+  {{ if or .Site.Data.publication.license.exceptions.pdf_ebook .Site.Data.publication.license.exceptions.all }}
+    Except where otherwise noted, this work is licensed under a <a rel="license" href="{{ .Site.Data.publication.license.url }}">{{ .Site.Data.publication.license.name }}</a>.
+  {{ else }}
+    This work is licensed under a <a rel="license" href="{{ .Site.Data.publication.license.url }}">{{ .Site.Data.publication.license.name }}</a>.
+  {{ end }}
+    To view a copy of this license, visit {{ .Site.Data.publication.license.url }} or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042.
+</p>
+
+
+</div>

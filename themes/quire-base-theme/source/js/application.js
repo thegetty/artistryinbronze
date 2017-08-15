@@ -15,7 +15,9 @@
 //
 import 'leaflet/dist/leaflet.css'
 import 'leaflet-fullscreen/dist/leaflet.fullscreen.css'
+import 'photoswipe/dist/photoswipe.css'
 import '../css/application.scss'
+
 
 // JS Libraries (add them to package.json with `npm install [library]`)
 //

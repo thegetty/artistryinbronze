@@ -5,19 +5,19 @@ type: essay
 contributor:
  - first_name: Nicola
    last_name: Salvioli
-   affiliation: Conservator, Florence, Italy
+   affiliation: Conservator, Florence
  - first_name: Stefano
    last_name: Sarri
-   affiliation: Soprintendenza per I Beni Archeologici della Toscana, Florence, Italy
+   affiliation: Museo Archeologico Nazionale di Firenze
  - first_name: Juri
    last_name: Agresti
-   affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
  - first_name: Iacopo
    last_name: Osticioli
-   affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
  - first_name: Salvatore
    last_name: Siano
-   affiliation: Istituto di Fisica Applicata “N. Carrara”, Consiglio Nazionale delle Ricerche, Florence, Italy
+   affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
 abstract: |
     The large equine protome from the Museo Archeologico Nazionale of Florence, called the Medici Riccardi horse head, has recently undergone conservation treatment sponsored by the Friends of Florence. The work was aimed at removing localized accretions and altered waxy layers. Materials were studied using traditional techniques and portable analytical devices, which identified hexogen materials, permitted their removal, and determined the composition of the underlying copper alloys. This maintenance intervention also provided an opportunity to extend the archaeometallurgical study carried out in the 1990s. The removal of the stratifications allowed a more accurate identification of the ancient repairs and modern integrations. A number of previously unknown cold plugs have been recognized, along with widespread traces of gold leaf, whose analysis unequivocally demonstrates that the artifact was originally gilded. Three-dimensional models of the outer and inner surfaces allowed examination of the thicknesses of the metal walls and careful mapping of surface features. The present conservation intervention improved the legibility of the artwork while the analysis of the data collected allows a thorough interpretation of its historical and archaeometallurgical aspects.
 weight: 705
@@ -29,7 +29,7 @@ The equine bronze protome known as the Medici Riccardi horse head in the Museo A
 
 The head is also cited in the Confiscation Decree by the Republican Government as being among the artifacts of the garden of the Palazzo Medici. Between 1495 and 1512 it was in Palazzo Vecchio (perhaps in the Cortile della Dogana); then it returned to the aforementioned garden,[^3] where it was admired by Lorenzo Bernini in 1665.[^4] In 1672 the artwork was restored and adapted as a fountain mouth by Bartolomeo Cennini.[^5]
 
-After being moved to Palermo in 1800 in order to avoid confiscation by Napoleon,[^6] the head returned to Florence in 1815, when it was displayed the Galleria degli Uffizi.[^7] Finally, in 1890, it was transferred to the Regio Museo Archeologico, now the Museo Archeologico Nazionale of Florence.
+After being moved to Palermo in 1800 in order to avoid confiscation by Napoleon,[^6] the head returned to Florence in 1815, when it was displayed at the Galleria degli Uffizi.[^7] Finally, in 1890, it was transferred to the Regio Museo Archeologico, now the Museo Archeologico Nazionale of Florence.
 
 ## State of Conservation
 
@@ -37,11 +37,11 @@ Before the recent cleaning treatments, the sculpture appeared rather dark and ma
 
 {{< q-figure id="39.1" >}}
 
-Widespread calcareous growths were present on both the outer and inner surfaces. On the inside, these growths descended behind the eyes and the forehead just below the tuft ([fig. 39.2a](#39.2a)), which likely hosted the fountain pipe. Accumulations on the outer surface were mainly concentrated on the frontal part and skinfolds ([fig. 39.2a](#39.2a)), while a smaller amount was present on the neck. However, before the sculpture entered museum collections, the outer calcareous encrustations were probably roughly removed using mechanical tools and just a small amount of residue was left flattened on the metal surface. Tool marks and deep scratches associated with this cleaning are evident, along with marks of sharp blades, rhomboidal tips of darts, or arrows—concentrated on the head but also present elsewhere (see for example [fig. 39.2b](#39.2b))—which can be linked to the ancient vicissitudes of the artwork.
+Widespread calcareous growths were present on both the outer and inner surfaces. On the inside, these growths descended behind the eyes and the forehead just below the tuft ([fig. 39.2a](#39.2a)), which likely hosted the fountain pipe. Accumulations on the outer surface were mainly concentrated on the frontal part and skinfolds ([fig. 39.2](#39.2a)), while a smaller amount was present on the neck. However, before the sculpture entered museum collections, the outer calcareous encrustations were probably roughly removed using mechanical tools and just a small amount of residue was left flattened on the metal surface. Tool marks and deep scratches associated with this cleaning are evident, along with marks of sharp blades, rhomboidal tips of darts, or arrows—concentrated on the head but also present elsewhere (see for example [fig. 39.2b](#39.2b))—which can be linked to the ancient vicissitudes of the artwork.
 
 {{< q-figure-group id="39.2a, 39.2b" grid="2" >}}
 
-In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#39.3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#39.3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#39.3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
+In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive X-ray spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#39.3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#39.3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#39.3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
 
 {{< q-figure-group id="39.3a, 39.3b" grid="2" >}}
 
@@ -50,19 +50,21 @@ In various areas, traces of gilding were found. Analysis by scanning electron mi
 The recent restoration was mainly aimed at removing aggressive exogenous substances and recovering the complete legibility of the object. The intervention was carried out in a dedicated room of the archaeological museum between January and March 2015. Visitors had the opportunity to see most of the intervention, though the use of dangerous substances and noisy tools was restricted to closed periods.
 
 After preliminary material removal tests, which were carried out in order to optimize the treatment, the following operational sequence was performed on the outer surface, leaving the interior untouched.
+
 1. Removal of powder and of the outer layer of the aged protective organic materials by washing the surface using cotton pads soaked in a solvent blend of petroleum ether (80–120°C) and methyl ethyl ketone (75/25 volume ratio).
 
 2. Application of agar gel supporting an aqueous solution of sodium bicarbonate with pH8. The application time was 4–7 minutes, which was sufficient for softening and saponification of the oleo-waxy superposition.
 
-3. Removal of the agar gel and softened materials using soaked pads as in 1.
+3. Removal of the agar gel and softened materials using soaked pads as in step 1.
 
 4. Repetition of the washing treatment reinforced with a blend of cyclohexane and butyl acetate using a volume fraction of 55/45, respectively. This made it possible to safely expose the oxidized bronze surface and residual calcareous spots by safeguarding the traces of gilding ([fig. 39.4a–b](#39.4a)).
 
 {{< q-figure-group id="39.4a, 39.4b" grid="2" label="true" caption="Details of gilding residues during conservation treatments: (a) throat; (b) skinfolds" >}}
 
-5. Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.
-
-6. Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of [figs. 39.5–6](#39.5) show the significant improvement of legibility achieved.
+<ol start="5">
+   <li>Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.</li>
+   <li>Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of [figs. 39.5–6](#39.5) show the significant improvement of legibility achieved.</li>
+</ol>
 
 {{< q-figure-group id="39.5, 39.6" grid="2" >}}
 
@@ -76,22 +78,22 @@ The present restoration also provided the opportunity to create a new mechanical
 
 The treatment described above recovered some of the original expressive strength of the Medici Riccardi horse head, with its pronounced realism and minimal use of stylization. Such a precise naturalism is not observed in other ancient bronze horses.
 
-Unfortunately, despite the many studies of ancient horses, the surviving part of the original artwork does not allow us to determine the equine race of the horse or even whether it was pulling a chariot or mounted by a rider. We can only say that the horse was well proportioned, since the length of its head (65 cm from the forehead to the muzzle) relative to the neck (80.5 cm from the poll to the withers) is quite realistic. The right side of the protome shows the powerful, tense muscular structure of the neck terminating at the poll with a realistic muscle bulge, which makes more evident the link between the buzz-cut mane, the combed tuft, and the ears. The latter with their dense internal hairs are well proportioned and oriented in opposite directions: the right ear is directed forward at full attention, while the left is turned and tilted to back, which suggests that the original sculptural was highly dynamic. Apart from the latter peculiar detail, the expressive tension of the subject and its formal solution recall the two small prancing horses of Herculaneum found in the area of the theater during the Bourbon excavations of the second half of the eighteenth century.[^8]
+Unfortunately, despite the many studies of ancient horses, the surviving part of the original artwork does not allow us to determine the equine race of the horse or even whether it was pulling a chariot or mounted by a rider. We can only say that the horse was well proportioned, since the length of its head (65 cm from the forehead to the muzzle) relative to the neck (80.5 cm from the poll to the withers) is quite realistic. The right side of the protome shows the powerful, tense muscular structure of the neck terminating at the poll with a realistic muscle bulge, which makes more evident the link between the buzz-cut mane, the combed tuft, and the ears. The latter with their dense internal hairs are well proportioned and oriented in opposite directions: the right ear is directed forward at full attention, while the left is turned and tilted back, which suggests that the original sculptural theme was highly dynamic. Apart from the latter peculiar detail, the expressive tension of the subject and its formal solution recall the two small prancing horses of Herculaneum found in the area of the theater during the Bourbon excavations of the second half of the eighteenth century.[^8]
 
 The structural equilibrium of the forehead, temples, and eyebrow arch was certainly useful in accentuating the eyes (which were likely made using nonmetallic materials) and the direction of the gaze, while the relatively thin nose—with nostril dilated by impetuous breath—reinforces the notion that the object was conceived as part of a very dynamic ensemble.
 
-The open mouth and the retracted tongue allows us to see the short teeth, which are typical of a young horse at the height of its strength. The energy that the animal holds back is also evidenced by the veins bulging all over the muzzle and the tense head. The head and neck are turning to left, where there are more skin folds on the throat and lips than on the corresponding right side. Thus the reins could have been stretched from the left side at the height of the withers or around the middle zone of the neck, which corresponds to the typical position of a rider’s hands.
+The open mouth and the retracted tongue allow us to see the short teeth, which are typical of a young horse at the height of its strength. The energy that the animal holds back is also evidenced by the veins bulging all over the muzzle and the tense head. The head and neck are turning to the left, where there are more skinfolds on the throat and lips than on the corresponding right side. Thus the reins could have been stretched from the left side at the height of the withers or around the middle zone of the neck, which corresponds to the typical position of a rider’s hands.
 
 ## Technical Examination
 
 Various surface textures and chromatic features provide at first glance evidence of two different periods of the artwork’s life. Greenish mineralizations are observable all over the head and the upper part of the neck (those of the left side appear relatively irregular, due to interment conditions and previous invasive cleaning treatments), which shade toward the lower part of the neck; there, the modern integrations resulted in changes of color from red to brown to black. A number of losses were repaired with modern additions, including a large missing area at the left side, the entire collar (including its front banderole), which is partially superimposed on the ancient metal, and the upper part of the right ear. Furthermore, integrations are recognizable on the muzzle in the form of three recastings. Both ears were cropped in the past, and only the right one arrived to us restored, whereas the left only includes an internal uncorrelated repair. A number of intentional cuts, along with the extensive damage to the left side and the evident marks of weapons, indicate that the original sculpture likely was vandalized by being beheaded near the typical neck joint of bronze horses.
 
-The aforementioned integrations were executed mainly by means of recasting, which involved significant heating of the original part and then the formation of a significant amount of cuprite and tenorite redox reactions. Similarly, the subsequent cold smoothing of the patches and collar were extended to the adjacent original parts. However, the final result of this restoration remains technically rather far from the richness of detail and quality of the original, including precise casting and fine chasing of the whole surface. The ancient bronze smiths lavished particular attention on the finishing of the mouth, the skinfolds, and the hair of the tuft and mane, which also include dense punch work between the two levels of locks achieved using a triangular punch.
+The aforementioned integrations were executed mainly by means of recasting, which involved significant heating of the original part and then the formation of a significant amount of cuprite and tenorite by redox reactions. Similarly, the subsequent cold smoothing of the patches and collar were extended to the adjacent original parts. However, the final result of this restoration remains technically rather far from the richness of detail and quality of the original, including precise casting and fine chasing of the whole surface. The ancient bronzesmiths lavished particular attention on the finishing of the mouth, the skinfolds, and the hair of the tuft and mane, which also include dense punch work between the two levels of locks achieved using a triangular punch.
 
 The repairs, as well as the two functional holes in proximity of the withers (see the dark spots in [fig. 39.1](#39.1)), which were likely needed to adapt the sculpture as a fountain, have to be attributed to the restoration by Bartolomeo Cennini in 1672.
 
 The crownpiece, eyes, upper terminal of the tuft, and reins are missing. The former likely included nine phalerae whose position is evident from the set of large plugs and surface abrasions corresponding to the holes where the ancient anchoring elements of the phalerae were secured. There is also evidence of soft soldering along a linear stretch of the left cheek.
-''
+
 All the relevant technical features were precisely mapped on the 3D model of the outer surface, which was achieved using a range camera (Artec Eva) and suitable software. As shown in [fig. 39.7](#39.7), the contours of the modern integrations of the protome, including a number of plugs, were recognized. Most of them are randomly distributed, whereas the nine associated with the phalerae are arranged regularly along the missing metal strips of the crownpiece.
 
 {{< q-figure id="39.7" >}}
@@ -110,17 +112,17 @@ For the sake of completeness, let us also observe that the radiographic images c
 
 ## Chemical Analysis of the Alloys
 
-The alloy compositions were thoroughly investigated using laser induced plasma (or breakdown) spectroscopy (LIPS or LIBS). In this noninvasive technique, short laser pulses are focused on the material of interest and its elemental weight fractions are derived through the spectral analysis of the bright plasma plumes generated at the laser focus.[^12] In some details a compositional depth profile is collected along typical depths of several hundred microns; then the bulk composition is derived by averaging the concentrations of the deeper part of this profile. (This innovative approach has also been exploited to study the Chimaera of Arezzo.[^13]) The measurement points are mapped in [fig. 39.7](#39.7) (white numbers and dots), and the corresponding results are listed in [table 39.1](#table-39.1). Two distinct type of bronze alloys were measured using LIPS, with the following average compositions: (1) tin 11 wt%, lead 1.0 wt%, trace of iron for the main casting (most of the protome); (2) tin 4.3 wt%, lead 2.4 wt%, nickel 1.5 wt%, traces of zinc and iron for repairs already preliminarily attributed to the Cennini restoration, including the integration of the left side (main recasting), the collar, and the plugs closing the anchoring holes of the phalerae (measured sites: 14, 19, and 27). By contrast, the plugs corresponding to sites 24 and 25 have an alloy similar to the main one and are hence interpretable as ancient repairs.
+The alloy compositions were thoroughly investigated using laser induced plasma (or breakdown) spectroscopy (LIPS or LIBS). In this noninvasive technique, short laser pulses are focused on the material of interest, and its elemental weight fractions are derived through the spectral analysis of the bright plasma plumes generated at the laser focus.[^12] In some details a compositional depth profile is collected along typical depths of several hundred microns; then the bulk composition is derived by averaging the concentrations of the deeper part of this profile. (This innovative approach has also been exploited to study the Chimaera of Arezzo.[^13]) The measurement points are mapped in [fig. 39.7](#39.7) (white numbers and dots), and the corresponding results are listed in [table 39.1](#table-39.1). Two distinct type of bronze alloys were measured using LIPS, with the following average compositions: (1) tin 11 wt%, lead 1.0 wt%, trace of iron for the main casting (most of the protome); (2) tin 4.3 wt%, lead 2.4 wt%, nickel 1.5 wt%, traces of zinc and iron for repairs already preliminarily attributed to the Cennini restoration, including the integration of the left side (main recasting), the collar, and the plugs closing the anchoring holes of the phalerae (measured sites: 14, 19, and 27). By contrast, the plugs corresponding to sites 24 and 25 have an alloy similar to the main one and are hence interpretable as ancient repairs.
 
 {{< q-table id="39.1" scale=".6" border="all" >}}
 
-The coherence of the modern integration and plugs is very strong: besides having a similar amount of tin and lead, the relatively high nickel content and the frequent traces of zinc are very significant. These data are in substantial agreement with those reported by De Marinis.
+The coherence of the modern integration and plugs is very strong: besides having a similar amount of tin and lead, the relatively high nickel content and the frequent traces of zinc are very significant. These data are in substantial agreement with those reported by De Marinis (1998).
 
 ## Conclusions
 
 The present conservation treatments carried out on the Medici Riccardi horse head recovered the realism and dynamism of the original part of the sculpture and allowed to us to uncover and safeguard minute traces of gilding all over the artwork. These elements were previously obscured by waxy patinations, calcareous growths, and deposits. The formal features and the details of the protome are now more legible, while the modern repairs have been made more evident than before.
 
-The gilding traces uncovered are much greater than expected. The widespread presence of gold-leaf microfragments among the skinfolds, on the throat, mane, and tongue, in the ears, and elsewhere, along with the lack of a mordant, prove that the head was gilded in ancient times. The former presence of a crownpiece with phalerae is also evident. Thus, we believe the reconstruction of [fig. 39.10](#39.10) is reliably supported by the present data. Most of the gold leaf was lost due to the burial conditions, the use of the sculpture as a fountain, and the aggressive mechanical and chemical cleaning treatments, which eroded the surface.
+The gilding traces uncovered are much greater than expected. The widespread presence of gold-leaf microfragments among the skinfolds; on the throat, mane, and tongue; in the ears; and elsewhere, along with the lack of a mordant, prove that the head was gilded in ancient times. The former presence of a crownpiece with phalerae is also evident. Thus, we believe the reconstruction of [fig. 39.10](#39.10) is reliably supported by the present data. Most of the gold leaf was lost due to the burial conditions, the use of the sculpture as a fountain, and the aggressive mechanical and chemical cleaning treatments, which eroded the surface.
 
 {{< q-figure id="39.10" >}}
 
@@ -134,11 +136,11 @@ The conservation project and archaeometallurgical investigation of the Medici Ri
 
 [^1]: Cianferoni 2015; Borrelli 1992, 67; Coarelli 1981, 246 n. 88.
 
-[^2]: Borrelli 1992, 67: “la cosiddetta testa Medici-Riccardi, che figura già fra i beni confiscati a Piero de’ Medici nel 1495, e quindi dovette appartenere a Lorenzo il Magnifico. . . .”
+[^2]: Borrelli 1992, 67: “la cosiddetta testa Medici-Riccardi, che figura già fra i beni confiscati a Piero de’ Medici nel 1495, e quindi dovette appartenere a Lorenzo il Magnifico….”
 
 [^3]: Cianferoni 2015.
 
-[^4]: Baldinucci 1812, 91: “. . . oltre alla meravigliosa testa, e collo di bronzo del cavallo, che per comun parere, e dicesi anche per sentenza dello stesso Bernino, è della stessa mano di quegli, che fece il famoso cavallo di Campidoglio, . . .”
+[^4]: Baldinucci 1812, 91: “… oltre alla meravigliosa testa, e collo di bronzo del cavallo, che per comun parere, e dicesi anche per sentenza dello stesso Bernino, è della stessa mano di quegli, che fece il famoso cavallo di Campidoglio …”
 
 [^5]: De Marinis 1998, 283.
 
@@ -146,7 +148,7 @@ The conservation project and archaeometallurgical investigation of the Medici Ri
 
 [^7]: Pasquinelli 2008.
 
-[^8]: In particular the riderless horse with the head turned to left: Naples, Museo Archeologico Nazionale inv. 4894.
+[^8]: In particular the riderless horse with the head turned to left: Naples, Museo Archeologico Nazionale, inv. 4894.
 
 [^9]: De Marinis 1998, 288–94.
 

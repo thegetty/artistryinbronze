@@ -54,7 +54,7 @@ module.exports = {
       },
       {
         // Image Files
-        test: /\.(png|jpg)$/,
+        test: /\.(png|jpg|gif)$/,
         loader: 'file',
         query: {
           name: 'img/[name].[ext]',

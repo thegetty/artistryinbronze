@@ -1,95 +1,86 @@
 .quire-page {
-
   margin-bottom: $base-spacing * 10;
 
-  @media print {
-    page: footer;
-    page-break-before: always;
-  }
-
   &__header {
-    text-align: center;
     margin-bottom: $base-spacing * 6;
     margin-top: $base-spacing * 8;
     padding: 0 ($base-spacing * 3);
+    text-align: center;
 
     &__number {
-      display: block;
-      font-size: 1.5rem;
       color: $mid-neutral;
+      display: block;
       font-family: $heading-font-family;
+      font-size: 1.5rem;
     }
 
     &__title {
-      max-width: 52rem;
-      margin: auto;
       color: $primary-color;
       font-size: 2.5rem;
+      margin: auto;
       margin-bottom: $base-spacing;
+      max-width: 52rem;
     }
 
     &__contributor {
-      list-style-type: none;
-      padding: 0;
-      margin-top: 0;
+      color: $mid-neutral;
       font-family: $heading-font-family;
       font-style: italic;
-      color: $mid-neutral;
+      list-style-type: none;
+      margin-top: 0;
+      padding: 0;
     }
 
     &__page-navigation {
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
       text-indent: 0;
+
       ul {
         display: inline-block;
         list-style-type: none;
-        padding-left: 0;
         margin-top: 0;
-        li {
-          float: left;
-          margin-left: $base-spacing * .25;
-        }
-        li:first-child {
+        padding-left: 0;
+      }
+
+      ul li {
+        float: left;
+        margin-left: $base-spacing * 0.25;
+
+        &:first-child {
           margin-left: 0;
-          a {
-            margin-left: $base-spacing * .25;
-          }
+
+          a { margin-left: $base-spacing * 0.25; }
         }
-        li:before {
-          padding-right: $base-spacing * .25;
-          content: "|"
+
+        &::before {
+          content: "|";
+          padding-right: $base-spacing * 0.25;
         }
-        li:first-child:before {
-          padding-right: 0;
+
+        &:first-child::before {
           content: "";
+          padding-right: 0;
         }
       }
     }
-
   }
 
   &__content,
   &__section-list {
-    max-width: 40rem;
     margin: 0 auto;
+    max-width: 40rem;
   }
 
   &__content {
-
     &__main {
-
-      @media print {
-        column-count: 2;
-        column-gap: 0.25in;
-        font-size: 10pt;
-      }
-
       margin-bottom: $base-spacing;
+
       p {
-        text-indent: $base-spacing;
         margin-bottom: 0;
+        text-indent: $base-spacing;
       }
+
       h2 + p,
       h3 + p,
       h4 + p,
@@ -103,59 +94,79 @@
         text-indent: 0;
       }
 
-      ol, ul {
-        li {
-          margin-bottom: $base-spacing * .5;
-          p {
-            text-indent: 0;
-            margin-bottom: $base-spacing * .25;
-          }
+      ol li,
+      ul li {
+        margin-bottom: $base-spacing * 0.5;
+
+        p {
+          margin-bottom: $base-spacing * 0.25;
+          text-indent: 0;
         }
       }
 
       .attribution {
         font-style: italic;
+        margin-right: $base-spacing;
         margin-top: $base-spacing;
         text-align: right;
-        margin-right: $base-spacing;
       }
+
       .footnotes {
         font-size: 1rem * $small-font-scale;
         line-height: $small-font-line-height;
+
         p {
-          text-indent: 0;
           margin-bottom: $base-spacing * .25;
+          text-indent: 0;
         }
+
         ol {
-          padding-left: 0;
           margin-left: $base-spacing * 1.6;
+          padding-left: 0;
         }
+
         li > ol {
           padding-left: 1em;
-          li {
-            margin-bottom: 0;
-          }
+
+          li { margin-bottom: 0; }
         }
-        li {
-          margin-bottom: $base-spacing * .5;
-        }
-        hr {
-          display: none;
-        }
+
+        li { margin-bottom: $base-spacing * .5; }
+        hr { display: none; }
       }
 
+      .quire-contents {
+        list-style-type: none;
+        padding-left: 0;
+        color: #b2b2b2;
+        font-weight: 400;
+        li {
+          margin-top: 1em;
+        }
+        li ul {
+          list-style-type: none;
+          padding-left: none;
+          margin-top: .5em;
+        }
+        .quire-contents__section {
+          text-transform: uppercase;
+        }
+        .quire-contents__section .quire-contents__page {
+          text-transform: none;
+        }
+      }
     }
 
     &__references dt {
       font-size: 1rem * $small-font-scale;
-      line-height: $small-font-line-height;
       font-weight: bold;
+      line-height: $small-font-line-height;
     }
 
     &__references dd {
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
-      margin-bottom: $base-spacing * .5;
+      margin-bottom: $base-spacing * 0.5;
       margin-left: 0;
     }
 
@@ -176,74 +187,73 @@
       list-style-type: none;
       margin-top: $base-spacing * 3;
       padding-left: $base-spacing;
+
       li {
         float: left;
-        margin-right: $base-spacing * 2;
         margin-bottom: $base-spacing;
+        margin-right: $base-spacing * 2;
       }
     }
-
   }
 
   &__section-list {
-
     &__item {
-      margin-bottom: $base-spacing * 2;
       list-style-type: none;
+      margin-bottom: $base-spacing * 2;
 
       &__title {
         font-size: 1rem;
         margin-bottom: 0;
-        a {
-          font-weight: 700;
-        }
+
+        a { font-weight: 700; }
       }
 
       &__abstract-only-title {
-        font-size: 1rem;
-        margin-bottom: 0;
         color: $dark-neutral;
+        font-size: 1rem;
         font-weight: 400;
+        margin-bottom: 0;
       }
 
       &__contributor {
-        list-style-type: none;
-        padding-left: 0;
+        color: $mid-neutral;
         font-family: $heading-font-family;
         font-style: italic;
         font-weight: 400;
-        color: $mid-neutral;
+        list-style-type: none;
+        padding-left: 0;
       }
     }
 
     &__link {
       display: inline-block;
       font-size: 1rem * $small-font-scale;
-      display: inline-block;
-      margin: ($base-spacing * .5) 0 0;
+      margin: ($base-spacing * 0.5) 0 0;
 
       svg {
+        fill: $primary-color;
         height: 1em;
         width: 1em;
-        fill: $primary-color;
       }
+
       button {
-        border-radius: .25em;
-        padding: ($base-spacing * .35) ($base-spacing * .7);
-        margin: $base-spacing * .25;
-        cursor: pointer;
         background-color: $light-neutral;
-        border: none;
+        border: 0;
+        border-radius: 0.25em;
         color: $primary-color;
+        cursor: pointer;
         font-size: 1rem * $small-font-scale;
+        margin: $base-spacing * 0.25;
+        padding: ($base-spacing * 0.35) ($base-spacing * 0.7);
+
         &.no-js {
-          cursor: inherit;
           background-color: transparent;
-          padding: 0;
-          margin-left: 0;
-          border: none;
+          border: 0;
           color: inherit;
+          cursor: inherit;
           font-size: 1rem * $small-font-scale;
+          margin-left: 0;
+          padding: 0;
         }
       }
     }
@@ -252,7 +262,67 @@
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
     }
+  }
+}
+#copyright,
+#about {
 
+  // a {
+  //   word-break: break-all;
+  //   overflow-wrap: break-word;
+  //   word-wrap: break-word;
+  // }
+
+  p, ul {
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-indent: 0;
   }
 
+  .quire-copyright {
+    margin-bottom: 1em;
+    p {
+      margin-bottom: 0;
+    }
+    img {
+      width: 6em;
+      padding: .25em 0 0;
+    }
+  }
+
+  .quire-revision-history {
+    margin-bottom: 1em;
+    p {
+      margin-bottom: 0;
+    }
+  }
+
+  .quire-publisher-team {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    li {
+      margin: 0;
+    }
+    &__role {
+      font-style: italic;
+    }
+  }
+
+  .quire-loc-cip {
+    p {
+      margin-bottom: 0;
+    }
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+      margin-left: 0;
+    }
+    li {
+      margin: 0;
+      padding-left: 1.5em;
+      text-indent: -1.5em;
+    }
+
+  }
 }

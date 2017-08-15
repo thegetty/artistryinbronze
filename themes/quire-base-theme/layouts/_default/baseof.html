@@ -4,12 +4,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    {{ .Hugo.Generator }}
     <title>{{ .Title }} || {{ .Site.Data.publication.title }}</title>
     {{ partial "metadata.html" . }}
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Open+Sans:300,300i,400,400i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/custom.css">
   </head>
-  <body class="quire-baseof quire-{{ .Type }}">
+  <body class="quire-baseof quire-{{ .Type }}" id="{{ .Title | urlize }}">
     {{ partial "icons.html" . }}
     <div class="quire-nav-group no-js">
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
@@ -23,6 +25,7 @@
       {{ block "main" . }}
       {{ end }}
     </main>
+    {{ partial "photoswipe.html" }}
     <script src="{{ .Site.BaseURL }}/assets/js/application.js"></script>
     <script>
       (function() {

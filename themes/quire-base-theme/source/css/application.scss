@@ -27,7 +27,9 @@
 // // Layouts
 // @import 'layouts/page';
 
+@import 'vendor/photoswipe/default-skin.css';
 
+@import 'font-opensans';
 
 @import 'variables';
 @import 'baseof';
@@ -38,5 +40,6 @@
 @import 'cover';
 @import 'page';
 @import 'figure';
+@import 'contributor-list';
 
 @import "print";

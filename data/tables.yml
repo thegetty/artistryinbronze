@@ -47,6 +47,28 @@ table_list:
       	</tfoot>
       </table>
 
+  - id: "23-appendix"
+    media_type: html
+    table: |
+      <table id="table-23-appendix">
+      <thead>
+        <tr> <th>Date (AD)</th> <th>Example</th> </tr>
+      </thead>
+      <tbody>
+        <tr> <td>157</td> <td><ul><li>Istanbul, Archaeological Museum, inv. 3840T (Ingholt 1928, 34–35 PS 11, plate 4; <em>CIS</em>, 476 no. 4616, plate 47)</li></ul></td> </tr>
+        <tr> <td>160</td> <td><ul><li>Once Berlin, collection von Hahn (Ingholt 1928, 119 PS 252; <em>CIS</em>, 462–63 no. 4573)</li><li>Istanbul, Archaeological Museum, inv. 3837T (Ingholt 1928, 117 PS 237; <em>CIS</em>, 363 no. 4299, plate 48)</li></ul></td> </tr>
+        <tr> <td>170</td> <td><ul><li>Paris, Louvre, inv. AO 28381 (Dentzer-Feydy and Teixidor 1993, 244 no. 237)</li><li>Palmyra, Palmyra Museum, inv. B2729/9166: statue (Charles-Gaffiot et al. 2001, 320 no. 26, fig. on 190)</li><li>Palmyra, Palmyra Museum, inv. 1951/7043 (Sadurska and Bounni 1994, 51–52 no. 59, fig. 114)</li></ul></td> </tr>
+        <tr> <td>180</td> <td><ul><li>Palmyra, Palmyra Museum, inv. 1955/7047 (Sadurska and Bounni 1994, 53–54 no. 63, fig. 92)</li><li>New York, Sotheby’s (Sotheby’s 2007, lot 31)</li></ul></td> </tr>
+        <tr> <td>187</td> <td><ul><li>New Haven, Yale University Art Gallery, inv. 1954.30.3 (<em>CIS</em>, 454 no. 4549, plate 61)</li></ul></td> </tr>
+        <tr> <td>189</td> <td><ul><li>St. Petersburg, Hermitage inv. 8840 (<em>CIS</em>, 360 no. 4292, plate 52)</li></ul></td> </tr>
+        <tr> <td>190</td> <td><ul><li>London, British Museum 125032 (Ingholt 1928, 112 PS 201; <em>CIS</em>, 362–63 no. 4297, plate 52)</li><li>Toronto, Royal Ontario Museum, inv. 953x94.4 (Ingholt 1928, 113 n.1 PS 203); Gaziantep, Archaeological Museum, inv. 211 (Parlasca 2005, 143, 148 fig. 4)</li><li>Damascus, National Museum, from Hypogeum of Yarḥai (Tanabe 1986, plate 280, fig. 249)</li><li>Jerusalem, Church of St. Anne, Museum, inv. PB 2670: double bust (Ingholt 1928, 110 PS 183; <em>CIS</em>, 374–75 no. 4329, plate 54)</li><li>Minneapolis, Minneapolis Institute of Art acc. 2008.28.2 (<em>CIS</em>, 393 no. 4379; Sotheby’s 2002, lot 119)</li><li>Oslo, Museum of Cultural History inv. C42235 (Ingholt 1928, 114 PS 217; <em>CIS</em>, 369 no. 4314, plate 53)</li></ul></td> </tr>
+        <tr> <td>200</td> <td><ul><li>Copenhagen, Ny Carlsberg Glyptotek, inv. 1043 (Ploug 1995, 174–76 no. 70)</li><li>New York, Metropolitan Museum of Art acc. 02.29.2 (Ingholt 1928, 109 PS 171)</li><li>London, British Museum 125020 (Ingholt 1928, 119 PS 246; <em>CIS</em>, 372 no. 4323, plate 38)</li><li>Copenhagen, NCG, inv. 1145: head (Ploug 1995, 222–23 no. 92)</li><li>Palmyra, Palmyra Museum, inv. 8522/2321 (Charles-Gaffiot et al. 2001, 347 no. 163, fig. on 271)</li><li>Palmyra, Southeast Necropolis, Tomb H (Taibbôl), relief of Yarḥai</li><li>London, Christie’s (Christie’s 2012, lot 190)</li></ul></td> </tr>
+        <tr> <td>210</td> <td><ul><li>New York, Metropolitan Museum of Art inv. 98.19.3 (Ingholt 1928, 122 PS 282; <em>CIS</em>, 374 no. 4327, plate 36)</li><li>Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237)</li><li>Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42)</li></ul></td> </tr>
+        <tr> <td>230</td> <td><ul><li>Palmyra, Palmyra Museum, inv. 457/1660: head (Colledge 1976, fig. 142; Tanabe 1986, plate 486 fig. 460)</li><li>Damascus, National Museum, inv. C18: plaster head (Tanabe 1986, plate 484 fig. 458; Charles-Gaffiot et al. 2001, 336 no. 99, fig. on 236)</li><li>Berlin, Staatliche Museen inv. VA 50 (Ingholt 1928, 122 PS 279; <em>CIS</em>, 395 no. 4385, plate 45)</li></ul></td> </tr>
+        <tr> <td>236–37</td> <td><ul><li>Beirut, American University Museum, inv. 32.35 (Ingholt 1934, 36–38, plate 9.1)</li><li>Middlebury (VT), Middlebury College Museum of Art inv. 2009.002 (Sotheby’s 2008, lot 68)</li></ul></td> </tr>
+      </tbody>
+      </table>
+
   - id: "30.1"
     caption: Results of XRF Analyses on Metal Objects from Gournia
     media_type: html
@@ -76,7 +98,7 @@ table_list:
       </table>
 
   - id: "35.1"
-    caption:
+    caption: "List of the most common copper corrosion products"
     media_type: html
     table: |
       <table>
@@ -84,18 +106,18 @@ table_list:
           <tr> <th scope="col">Chemical Compound</th> <th scope="col">Mineralogical Name</th> <th scope="col">Chemical Formula</th> <th scope="col">Color</th> </tr>
         </thead>
       	<tbody>
-      		<tr> <th rowspan="2" scope="row">Oxides</th> <td>Cuprite</td> <td>Cu<sub>2</sub>0</td> <td>Red/Orange</td> </tr>
+      		<tr> <th rowspan="2" scope="row">Oxides</th> <td>Cuprite</td> <td>Cu<sub>2</sub>O</td> <td>Red/Orange</td> </tr>
       		<tr>  <td>Tenorite</td> <td>CuO</td> <td>Black grey</td> </tr>
       		<tr> <th rowspan="3" scope="row">Carbonates</th> <td>Malachite</td> <td>CuCO<sub>3</sub> Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
-      		<tr>  <td>Azurite</td> <td>2 CuC0<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
-      		<tr>  <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuC0<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>0</td> <td>Green/Blue</td> </tr>
+      		<tr>  <td>Azurite</td> <td>2 CuCO<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
+      		<tr>  <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuCO<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>O</td> <td>Green/Blue</td> </tr>
       		<tr> <th scope="row">Chloride</th> <td>Nantokite</td> <td>CuCl</td> <td>green/White</td> </tr>
-      		<tr> <th rowspan="3" scope="row">Basic Chlorides</th> <td>Atacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Green</td> </tr>
-      		<tr>  <td>Paratacamite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
-      		<tr>  <td>Botallakite</td> <td>Cu<sub>2</sub>(0H)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
+      		<tr> <th rowspan="3" scope="row">*Basic Chlorides</th> <td>*Atacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Green</td> </tr>
+      		<tr>  <td>*Paratacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
+      		<tr>  <td>*Botallakite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
       		<tr> <th rowspan="2" scope="row">Sulphides</th> <td>Chalcocite</td> <td>Cu<sub>2</sub>S</td> <td>Black</td> </tr>
       		<tr>  <td>Covellite</td> <td>CuS</td> <td>Black</td> </tr>
-      		<tr> <th scope="row">Sulphate</th> <td>Brochantite</td> <td>CuS0<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
+      		<tr> <th scope="row">Sulphate</th> <td>Brochantite</td> <td>CuSO<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
       	</tbody>
       </table>
 
@@ -185,12 +207,12 @@ table_list:
           <tr><th scope="col">Distributor</th> <th scope="col">Base acrylic resin</th> <th scope="col">Additives</th> </tr>
         </thead>
         <tbody>
-          <tr> <th scope="row">A</th> <td>Paraloid® B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">B</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">C</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">D</th> <td>Different resin, possibly Paraloid® B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">E</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
-          <tr> <th scope="row">F</th> <td>Paraloid® B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">A</th> <td>Paraloid B44</td> <td>Very low amounts of substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">B</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">C</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">D</th> <td>Different resin, possibly Paraloid B48N</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">E</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
+          <tr> <th scope="row">F</th> <td>Paraloid B44</td> <td>Substituted benzotriazole, epoxidized soybean oil</td> </tr>
         </tbody>
       </table>
 
@@ -201,13 +223,13 @@ table_list:
       <table>
         <caption>Table 37.2. FTIR assignments of key materials</caption>
         <thead>
-          <tr> <th scope="col">Incralac® Absorption maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
+          <tr> <th scope="col">Incralac Absorption maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
         </thead>
         <tbody>
           <tr> <th scope="row"3444</th> <td>Carbonyl ester harmonic</td> </tr>
-          <tr> <th scope="row">2989, 2953, 2846(sh)</th> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid® B44) <sup>2</sup></td> </tr>
+          <tr> <th scope="row">2989, 2953, 2846(sh)</th> <td><em>v<sub>as </sub></em>CH<sub>3</sub>, <em>v<sub>as</sub></em>CH<sub>2</sub>, <em>v<sub>s</sub></em>CH<sub>2</sub> in base acrylic resin (Paraloid B44) <sup>2</sup></td> </tr>
           <tr> <th scope="row">2926</th> <td><em>v<sub>as </sub></em>CH<sub>2</sub> from oil, possibly ESO<sup>4</sup></td> </tr>
-          <tr> <th scope="row">2875</th> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid® B48N; found in one case, see text) <sup>2</sup></td> </tr>
+          <tr> <th scope="row">2875</th> <td><em>v<sub>s </sub></em>CH<sub>3</sub> (due to presence of t–butyl methacrylate in Paraloid B48N; found in one case, see text) <sup>2</sup></td> </tr>
           <tr> <th scope="row">1732</th> <td><em>v</em> C=O in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">1604</th> <td><em>v</em> C=C in aromatic ring of BTA<sup>3</sup></td> </tr>
           <tr> <th scope="row">1548</th> <td><em>δ</em> NH</td> </tr>
@@ -333,7 +355,7 @@ table_list:
             <tr> <th scope="row">25 Plug (r)</th> <td>11.7 ± 1.1</td> <td>0.6 ± 0.3</td> <td>-</td> <td>-</td> <td>-</td> </tr>
             <tr> <th scope="row">14 Phalerae plug (l)</th> <td>4.5 ± 0.6</td> <td>2.6 ± 0.4</td> <td>-</td> <td>1.6 ± 0.2</td> <td>-</td> <td rowspan="3">Plugs corresponding to the anchoring holes of the Phalera</td> </tr>
             <tr> <th scope="row">19 Phalerae plug (r)</th> <td>3.5 ± 0.5</td> <td>2.6 ± 0.5</td> <td>0.5 ± 0.2</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
-            <tr> <th scope="row">19 Phalerae plug (r)</th> <td>3.6 ± 0.3</td> <td>1.7 ± 0.2</td> <td>-</td> <td>1.2 ± 0.1</td> <td>-</td> </tr>
+            <tr> <th scope="row">27 Phalerae plug (r)</th> <td>3.6 ± 0.3</td> <td>1.7 ± 0.2</td> <td>-</td> <td>1.2 ± 0.1</td> <td>-</td> </tr>
           </tbody>
         </table>
 
@@ -446,7 +468,7 @@ table_list:
           <tr> <th scope="row">FG 050587<br> (lead)</td> <td>0.7</td> <td>39</td> <td>60</td> <td>0.3</td> <td>&lt;0.01</td> <td>&lt;0.01</td> <td>&lt;0.1</td> <td>&lt;0.5</td> <td>&lt;0.01</td> <td>0.02</td> <td>0.02</td> <td>&lt;0.1</td> <td>0.03</td> <td>0.02</td> </tr>
         </tbody>
         <tfoot>
-          <tr><td colspan="14">Results after Schwab et al. 2008.</td></tr>
+          <tr><td colspan="15">Results after Schwab et al. 2008.</td></tr>
         </tfoot>
       </table>
 
@@ -456,7 +478,8 @@ table_list:
     table: |
       <table>
         <thead>
-          <tr> <th scope="col">Analysis_No.</th> <th scope="col">Sample location</th> <th scope="col">Casting type</th> <th scope="col">Cu</th> <th scope="col">Sn (wt.%)</th> <th scope="col">Pb (wt.%)</th> <th scope="col">Ag (wt.%)</th> <th scope="col">As (wt.%)</th> <th scope="col">Fe (wt.%)</th> <th scope="col">Ni (wt.%)</th> <th scope="col">S (wt.%)</th> <th scope="col">Sb (wt.%)</th> <th scope="col">Zn (wt.%)</th> <th scope="col">Au (wt. ppm)</th> <th scope="col">Ba (wt. ppm)</th> <th scope="col">Bi (wt. ppm)</th> <th scope="col">Cd (wt. ppm)</th> <th scope="col">Co (wt. ppm)</th> <th scope="col">Cr (wt. ppm)</th> <th scope="col">Ge (wt. ppm)</th> <th scope="col">Hg (wt. ppm)</th> <th scope="col">In (wt. ppm)</th> <th scope="col">Mg (wt. ppm)</th> <th scope="col">Mn (wt. ppm)</th> <th scope="col">Mo (wt. ppm)</th> <th scope="col">P (wt. ppm)</th> <th scope="col">Se (wt. ppm)</th> <th scope="col">Te (wt. ppm)</th> <th scope="col">Ti (wt. ppm)</th> <th scope="col">U (wt. ppm)</th> <th scope="col">V (wt. ppm)</th> <th scope="col">W (wt. ppm)</th> </tr>
+          <tr> <th rowspan="2" scope="col">Analysis No.</th> <th rowspan="2" scope="col">Sample location</th> <th rowspan="2" scope="col">Casting type</th> <th rowspan="2" scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">Pb</th> <th scope="col">Ag</th> <th scope="col">As</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">S</th> <th scope="col">Sb</th> <th scope="col">Zn</th> <th scope="col">Au</th> <th scope="col">Ba</th> <th scope="col">Bi</th> <th scope="col">Cd</th> <th scope="col">Co</th> <th scope="col">Cr</th> <th scope="col">Ge</th> <th scope="col">Hg</th> <th scope="col">In</th> <th scope="col">Mg</th> <th scope="col">Mn</th> <th scope="col">Mo</th> <th scope="col">P</th> <th scope="col">Se</th> <th scope="col">Te</th> <th scope="col">Ti</th> <th scope="col">U</th> <th scope="col">V</th> <th scope="col">W</th> </tr>
+          <tr><th colspan="9">( in wt. %)</th><th colspan="19">( in wt. ppm)</th></tr>
         </thead>
         <tbody>
           <tr> <th scope="row">FZ20669-a</th> <td>Head (curl)</td> <td>PC</td> <td>X</td> <td>6.3 ±0.6</td> <td>21 ±2</td> <td>0.046 ±0.005</td> <td>0.16 ±0.02</td> <td>0.045 ±0.005</td> <td>0.075 ±0.008</td> <td>0.15 ±0.01</td> <td>0.059 ±0.006</td> <td>nd &lt;0.00069</td> <td>55 ±5</td> <td>nd &lt;0.2</td> <td>140 ±14</td> <td>nd &lt;0.2</td> <td>228 ±23</td> <td>nd &lt;0.9</td> <td>nd &lt;3.3</td> <td>4.1 ±0.4</td> <td>10 ±4</td> <td>nd &lt;3.1</td> <td>nd &lt;0.0</td> <td>2.6° &lt;8.4</td> <td>nd <24 &gt;2.5</td> <td>12 ±2</td> <td>27 ±5</td> <td>nd &lt;0.3</td> <td>nd &lt;9.3</td> <td>nd &lt;0.2</td> <td>nd &lt;2.2</td> </tr>
@@ -505,7 +528,8 @@ table_list:
     table: |
       <table>
         <thead>
-          <tr> <th scope="col">Analysis No.</th> <th scope="col">Sample location</th> <th scope="col">Cu</th> <th scope="col">Sn (wt.%)</th> <th scope="col">Pb (wt.%)</th> <th scope="col">Ag (wt.%)</th> <th scope="col">As (wt.%)</th> <th scope="col">Fe (wt.%)</th> <th scope="col">Ni (wt.%)</th> <th scope="col">S (wt.%)</th> <th scope="col">Sb (wt.%)</th> <th scope="col">Zn (wt.%)</th> <th scope="col">Au (wt. ppm)</th> <th scope="col">Ba (wt. ppm)</th> <th scope="col">Bi (wt. ppm)</th> <th scope="col">Cd (wt. ppm)</th> <th scope="col">Co (wt. ppm)</th> <th scope="col">Cr (wt. ppm)</th> <th scope="col">Ge (wt. ppm)</th> <th scope="col">Hg (wt. ppm)</th> <th scope="col">In (wt. ppm)</th> <th scope="col">Mg (wt. ppm)</th> <th scope="col">Mn (wt. ppm)</th> <th scope="col">Mo (wt. ppm)</th> <th scope="col">P  (wt. ppm)</th> <th scope="col">Se (wt. ppm)</th> <th scope="col">Te (wt. ppm)</th> <th scope="col">Ti (wt. ppm)</th> <th scope="col">U (wt. ppm)</th> <th scope="col">V (wt. ppm)</th> <th scope="col">W (wt. ppm)</th> </tr>
+          <tr> <th rowspan="2" scope="col">Analysis No.</th> <th rowspan="2" scope="col">Sample location</th> <th rowspan="2" scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">Pb</th> <th scope="col">Ag</th> <th scope="col">As</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">S</th> <th scope="col">Sb</th> <th scope="col">Zn</th> <th scope="col">Au</th> <th scope="col">Ba</th> <th scope="col">Bi</th> <th scope="col">Cd</th> <th scope="col">Co</th> <th scope="col">Cr</th> <th scope="col">Ge</th> <th scope="col">Hg</th> <th scope="col">In</th> <th scope="col">Mg</th> <th scope="col">Mn</th> <th scope="col">Mo</th> <th scope="col">P </th> <th scope="col">Se</th> <th scope="col">Te</th> <th scope="col">Ti</th> <th scope="col">U</th> <th scope="col">V</th> <th scope="col">W</th> </tr>
+          <tr><th colspan="9">( in wt. %)</th><th colspan="19">( in wt. ppm)</th></tr>
         </thead>
         <tbody>
           <tr> <th scope="row">C2RMF72247-1</th> <td>Head: under the chin (in the platform)</td> <td>X</td> <td>7.1 ±0.7</td> <td>18 ±2</td> <td>0.056 ±0.006</td> <td>0.1 ±0.010</td> <td>0.16 ±0.02</td> <td>0.04 ±0.004</td> <td>0.071 ±0.007</td> <td>0.11±0.01</td> <td>0.23 ±0.02</td> <td>42 ±4</td> <td>nd &lt;0.2</td> <td>77 ±8</td> <td>nd &lt;0.2</td> <td>67 ±7</td> <td>nd &lt;0.9</td> <td>nd &lt;3.4</td> <td>4.1 ±0.4</td> <td>6.4 <7.0 >2.1</td> <td>nd &lt;3.1</td> <td>nd &lt;0.0</td> <td>nd &lt;2.5</td> <td>nd &lt;24</td> <td>32 ±3</td> <td>23 ±3</td> <td>nd &lt;0.3</td> <td>nd &lt;9.3</td> <td>nd &lt;0.2</td> <td>nd &lt;2.2</td> </tr>
@@ -623,8 +647,8 @@ table_list:
           <tr> <th scope="col">Cu</th> <th scope="col">Sn</th> </tr>
         </thead>
         <tbody>
-          <tr> <td></td> <td>2a</td> <td>89.2 ± 1.0</td> <td>9.82 ± 0.5</td> </tr>
-          <tr> <td></td> <td>2b</td> <td>92.5 ± 1.0</td> <td>6.32 ± 0.3</td> </tr>
-          <tr> <td></td> <td>2c</td> <td>81.9 ± 1.0</td> <td>16.4 ± 0.8</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02a_Kantarelou_Table_2a.jpg" alt="" /></td> <td>2a</td> <td>89.2 ± 1.0</td> <td>9.82 ± 0.5</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02b_Kantarelou_Table_2b.jpg" alt="" /></td> <td>2b</td> <td>92.5 ± 1.0</td> <td>6.32 ± 0.3</td> </tr>
+          <tr> <td><img src="../../assets/img/figures/fig_46.02c_Kantarelou_Table_2c.jpg" alt="" /></td> <td>2c</td> <td>81.9 ± 1.0</td> <td>16.4 ± 0.8</td> </tr>
         </tbody>
-      <table>
+      </table>
