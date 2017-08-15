@@ -1,6 +1,6 @@
 ---
 title: Directors’ Foreword
-weight: 4
+weight: 6
 type: page
 contributor:
   - first_name: Timothy

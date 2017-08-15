@@ -1,6 +1,6 @@
 ---
 title: International Bronze Congresses and Associated Publications and Exhibitions
-weight: 3
+weight: 5
 type: page
 menu: false
 ---
