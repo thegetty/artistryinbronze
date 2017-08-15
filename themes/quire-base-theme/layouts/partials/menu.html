@@ -48,7 +48,8 @@
       {{ end }}
       <footer role="contentinfo" class="quire-menu__inner__footer">
         <h3 class="visually-hidden">About</h3>
-        {{ partial "footer.html" . }}
+        {{ partial "copyright.html" . }}
+        {{ partial "link-list.html" .Site.Data.publication.footer_links }}
       </footer>
     </div>
   </div>
