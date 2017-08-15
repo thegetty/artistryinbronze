@@ -1,3 +1,23 @@
+.quire-baseof.quire-cover .quire-nav-group {
+  background-color: #542E15;
+}
+
+.quire-baseof.quire-cover .quire-nav-group .quire-nav a {
+  color: #eaeaea;
+}
+
+.quire-baseof.quire-cover .quire-nav-group svg {
+  fill: #eaeaea;
+}
+
+.quire-baseof.quire-cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
+  fill: #995326;
+}
+
+.quire-cover__footer {
+  background-color: #eaeaea;
+}
+
 table#table-23-appendix {
   margin-left: 0;
   margin-right: 0;
