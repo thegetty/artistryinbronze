@@ -36,6 +36,13 @@ table#table-23-appendix thead tr th:first-child {
   max-width: 360px;
 }
 
+#international-bronze-congresses-and-associated-publications-and-exhibitions ol li {
+  font-weight: 400;
+}
+
+#international-bronze-congresses-and-associated-publications-and-exhibitions ol li p:nth-child(n+2) {
+  font-weight: 300;
+}
 
 @media print {
 
