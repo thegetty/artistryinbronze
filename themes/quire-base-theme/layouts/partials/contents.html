@@ -52,7 +52,7 @@
 
 
 {{ define "contents-list-item-toc" }}
-    <li class="quire-contents__page"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a>{{ if .Params.contributor }}<span class="quire-contents__page__separator"> — </span>{{ partial "contributor-list.html" (dict "contributorRange" .Params.contributor) }}{{ end }}</li>
+    <li class="quire-contents__page {{ if eq .Params.pdf false }}quire-noprint{{ end }}"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a>{{ if .Params.contributor }}<span class="quire-contents__page__separator"> — </span>{{ partial "contributor-list.html" (dict "contributorRange" .Params.contributor) }}{{ end }}</li>
 {{ end }}
 
 {{ define "contents-list-item-menu" }}

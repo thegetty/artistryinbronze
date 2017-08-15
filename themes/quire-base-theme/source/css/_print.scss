@@ -176,6 +176,7 @@ $print-page-number-size: 7.5pt;
 // scss-lint:enable PropertySpelling
 
 @media print {
+  .quire-noprint,
   .quire-nav-group,
   .quire-nav,
   .quire-menu,
