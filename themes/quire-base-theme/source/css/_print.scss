@@ -181,6 +181,8 @@ $print-page-number-size: 7.5pt;
   .quire-nav,
   .quire-menu,
   .quire-search,
+  .quire-cover__content,
+  .quire-cover__footer,
   .quire-page__header__page-navigation,
   .quire-section-head .quire-page__section-list__link,
   .quire-section-head .quire-page__section-list__abstract {
@@ -191,6 +193,27 @@ $print-page-number-size: 7.5pt;
     font-size: $print-base-font-size;
     font-weight: 400;
     line-height: $print-base-line-height;
+  }
+
+  #cover {
+    page: bleed;
+    .quire-cover__background {
+      background-image: none;
+      background-position: 75% 50%;
+      margin-left: -.25in;
+      margin-top: -.25in;
+      width: 9in;
+      height: 11.5in;
+    }
+    .quire-cover__inner{
+      padding-left: .25in;
+      padding-top: 4in;
+      &__reading-line {
+        color: #727272;
+      }
+    }
+
+
   }
 
   #copyright {
