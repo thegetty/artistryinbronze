@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/custom.css">
   </head>
-  <body class="quire-baseof quire-{{ .Type }}" id="{{ .Title | urlize }}">
+  <body class="quire-baseof quire-{{ .Type }}" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
     {{ partial "icons.html" . }}
     <div class="quire-nav-group no-js">
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
