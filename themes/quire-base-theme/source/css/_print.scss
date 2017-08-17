@@ -178,6 +178,7 @@ $print-page-number-size: 7.5pt;
 @media print {
   .quire-noprint,
   .quire-nav-group,
+  .skip-link,
   .quire-nav,
   .quire-menu,
   .quire-search,
@@ -196,7 +197,19 @@ $print-page-number-size: 7.5pt;
   }
 
   #cover {
-    page: bleed;
+    page: no-footer;
+    .quire-nav-group,
+    .quire-nav {
+      background-color: inherit;
+      display: block;
+      color: $primary-color;
+      text-align: right;
+      font-size: 14pt;
+      margin-top: 4in;
+      a {
+        color: $primary-color;
+      }
+    }
     .quire-cover__background {
       background-image: none;
       background-position: 75% 50%;
@@ -204,10 +217,12 @@ $print-page-number-size: 7.5pt;
       margin-top: -.25in;
       width: 9in;
       height: 11.5in;
+      display: block;
     }
-    .quire-cover__inner{
-      padding-left: .25in;
-      padding-top: 4in;
+    .quire-cover__inner {
+      width: 5in;
+      padding-left: .5in;
+      padding-top: 2in;
       &__reading-line {
         color: #727272;
       }
