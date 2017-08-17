@@ -1,16 +1,16 @@
-.quire-body.quire-cover .quire-nav-group {
+.quire-body.quire-body-type--cover .quire-nav-group {
   background-color: #542E15;
 }
 
-.quire-body.quire-cover .quire-nav-group .quire-nav a {
+.quire-body.quire-body-type--cover .quire-nav-group .quire-nav a {
   color: #eaeaea;
 }
 
-.quire-body.quire-cover .quire-nav-group svg {
+.quire-body.quire-body-type--cover .quire-nav-group svg {
   fill: #eaeaea;
 }
 
-.quire-body.quire-cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
+.quire-body.quire-body-type--cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
   fill: #995326;
 }
 

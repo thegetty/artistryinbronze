@@ -185,8 +185,8 @@ $print-page-number-size: 7.5pt;
   .quire-cover__content,
   .quire-cover__footer,
   .quire-page__header__page-navigation,
-  .quire-section-head .quire-page__section-list__link,
-  .quire-section-head .quire-page__section-list__abstract {
+  .quire-body-type--section-head .quire-page__section-list__link,
+  .quire-body-type--section-head .quire-page__section-list__abstract {
     display: none;
   }
 
@@ -196,7 +196,7 @@ $print-page-number-size: 7.5pt;
     line-height: $print-base-line-height;
   }
 
-  #cover {
+  .quire-body-type--cover {
     page: no-footer;
     .quire-nav-group,
     .quire-nav {
@@ -313,7 +313,7 @@ $print-page-number-size: 7.5pt;
     font-weight: 700;
   }
 
-  .quire-section-head .quire-page {
+  .quire-body-type--section-head .quire-page {
     page: bleed;
     width: 9in;
     height: 11.5in;
@@ -324,11 +324,11 @@ $print-page-number-size: 7.5pt;
     padding-top: 4.25in;
     padding-bottom: -4.25in;
   }
-  .quire-section-head h1 {
+  .quire-body-type--section-head h1 {
     color: #fff;
   }
-  .quire-section-head .quire-page__section-list,
-  .quire-section-head hr {
+  .quire-body-type--section-head .quire-page__section-list,
+  .quire-body-type--section-head hr {
     display: none;
   }
 
