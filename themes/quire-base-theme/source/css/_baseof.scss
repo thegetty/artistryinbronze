@@ -142,6 +142,10 @@ th {
   content: ' and ';
 }
 
+.quire-publisher:last-child:after {
+  content: '';
+}
+
 sup {
   line-height: 0;
 }

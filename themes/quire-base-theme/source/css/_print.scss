@@ -144,7 +144,11 @@ $print-page-number-size: 7.5pt;
   margin-left: $print-outer-margin;
   margin-right: $print-inner-margin;
   margin-top: $print-top-margin;
-  @bottom-left { content: counter(page, lower-roman); }
+  @bottom-left {
+    content: counter(page, lower-roman);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
 }
 
 @page frontmatter:right {
@@ -152,7 +156,11 @@ $print-page-number-size: 7.5pt;
   margin-left: $print-inner-margin;
   margin-right: $print-outer-margin;
   margin-top: $print-top-margin;
-  @bottom-right { content: counter(page, lower-roman); }
+  @bottom-right {
+    content: counter(page, lower-roman);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
 }
 
 @page no-footer:left {
@@ -176,7 +184,9 @@ $print-page-number-size: 7.5pt;
 // scss-lint:enable PropertySpelling
 
 @media print {
+
   .quire-noprint,
+  .visually-hidden,
   .quire-nav-group,
   .skip-link,
   .quire-nav,
@@ -190,115 +200,6 @@ $print-page-number-size: 7.5pt;
     display: none;
   }
 
-  html {
-    font-size: $print-base-font-size;
-    font-weight: 400;
-    line-height: $print-base-line-height;
-  }
-
-  .quire-body-type--cover {
-    page: no-footer;
-    .quire-nav-group,
-    .quire-nav {
-      background-color: inherit;
-      display: block;
-      color: $primary-color;
-      text-align: right;
-      font-size: 14pt;
-      margin-top: 4in;
-      a {
-        color: $primary-color;
-      }
-    }
-    .quire-cover__background {
-      background-image: none;
-      background-position: 75% 50%;
-      margin-left: -.25in;
-      margin-top: -.25in;
-      width: 9in;
-      height: 11.5in;
-      display: block;
-    }
-    .quire-cover__inner {
-      width: 5in;
-      padding-left: .5in;
-      padding-top: 2in;
-      &__reading-line {
-        color: #727272;
-      }
-    }
-
-
-  }
-
-  #copyright {
-    font-size: 8pt;
-    line-height: 11.5pt;
-
-    .quire-page__header {
-      display: none;
-    }
-
-    .quire-page__content {
-      column-count: 1;
-      margin-right: 2in;
-
-      // p, ul {
-      //   margin-top: 0;
-      //   margin-bottom: 1em;
-      //   text-indent: 0;
-      // }
-      //
-      // .quire-copyright {
-      //   margin-bottom: 1em;
-      //   p {
-      //     margin-bottom: 0;
-      //   }
-      //   img {
-      //     width: .625in;
-      //   }
-      // }
-      //
-      // .quire-publisher-team {
-      //   list-style-type: none;
-      //   padding-left: 0;
-      //   margin-left: 0;
-      //   li {
-      //     margin: 0;
-      //   }
-      //   &__role {
-      //     font-style: italic;
-      //   }
-      // }
-
-    }
-
-  }
-
-  table {
-    margin-bottom: 1em;
-    margin-top: 1em;
-  }
-
-  .q-figure__table-wrapper {
-    column-span: all;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    font-size: 8pt;
-    table {
-      margin: 0;
-    }
-  }
-
-  .q-figure__table-wrapper + figcaption {
-    column-span: all;
-  }
-
-  hr {
-    margin: 1em auto;
-    letter-spacing: 6pt;
-  }
-
   .quire-pdf__title {
     string-set: papertitle content();
   }
@@ -306,30 +207,32 @@ $print-page-number-size: 7.5pt;
     string-set: sectiontitle content();
   }
 
+  html {
+    font-size: $print-base-font-size;
+    font-weight: 400;
+    line-height: $print-base-line-height;
+  }
+
+  p {
+    widows: 2;
+    orphans: 2;
+  }
+
+  table {
+    margin-bottom: 1em;
+    margin-top: 1em;
+  }
+
+  hr {
+    margin: 1em auto;
+    letter-spacing: 6pt;
+  }
+
   h2, h3, h4, h5, h6 {
     prince-bookmark-level: none;
   }
   strong {
     font-weight: 700;
-  }
-
-  .quire-body-type--section-head .quire-page {
-    page: bleed;
-    width: 9in;
-    height: 11.5in;
-    margin-top: -.25in;
-    margin-left: -.25in;
-    background-size: 9in 11.5in;
-    background-color: $primary-color;
-    padding-top: 4.25in;
-    padding-bottom: -4.25in;
-  }
-  .quire-body-type--section-head h1 {
-    color: #fff;
-  }
-  .quire-body-type--section-head .quire-page__section-list,
-  .quire-body-type--section-head hr {
-    display: none;
   }
 
   .quire-page {
@@ -342,13 +245,18 @@ $print-page-number-size: 7.5pt;
     }
 
     &__header {
+      margin-top: 1.5in;
+      margin-bottom: .75in;
       &__number {
-        font-size: 14pt;
+        font-size: 13pt;
       }
       &__title {
-        line-height: 32pt;
+        font-size: 20pt;
+        line-height: 30pt;
       }
       &__contributor {
+          font-size: 10pt;
+          line-height: 14.25pt;
           margin-top: 1em;
           margin-left: 0;
           padding-left: 0;
@@ -358,12 +266,7 @@ $print-page-number-size: 7.5pt;
     &__content {
       column-count: 2;
       column-gap: 0.25in;
-      margin-top: .75in;
-
-      &__main,
-      &__references {
-        // column-count: 1;
-      }
+      // margin-top: .75in;
 
       &__main {
         h2 {
@@ -450,11 +353,124 @@ $print-page-number-size: 7.5pt;
         }
       }
     }
+
+    .q-contributors__list {
+      margin-left: 0;
+      padding-left: 0;
+    }
   }
 
-  .visually-hidden {
+  // ---- SECTION HEADS ---- //
+
+  .quire-body-type--section-head .quire-page {
+    page: bleed;
+    width: 9in;
+    height: 11.5in;
+    margin-top: -.25in;
+    margin-left: -.25in;
+    background-size: 9in 11.5in;
+    background-color: $primary-color;
+    padding-top: 2.5in;
+    padding-bottom: -2.5in;
+  }
+  .quire-body-type--section-head h1 {
+    color: #fff;
+  }
+  .quire-body-type--section-head .quire-page__section-list,
+  .quire-body-type--section-head hr {
     display: none;
   }
+
+  // ---- COVER ---- //
+
+  .quire-body-type--cover {
+    page: no-footer;
+    .quire-nav-group,
+    .quire-nav {
+      page-break-after: always;
+      background-color: transparent;
+      display: block;
+      color: $primary-color;
+      text-align: right;
+      font-size: 13pt;
+      margin-top: 4.125in;
+      font-weight: 400;
+      a {
+        color: $primary-color;
+      }
+    }
+    .quire-cover__background {
+      background-image: none;
+    }
+    .quire-cover__inner {
+      page-break-before: right;
+      margin: 0;
+      padding-left: .5in;
+      padding-top: 1.65in;
+      &__title {
+        width: 5in;
+      }
+      &__reading-line {
+        color: #727272;
+      }
+      &__contributor {
+        margin-top: .25in;
+        font-size: 13pt;
+        line-height: 21pt;
+      }
+      &__publisher {
+        margin-top: 3in;
+        font-size: 13pt;
+        line-height: 21pt;
+        color: $dark-neutral;
+      }
+    }
+  }
+
+  // ---- FRONTMATTER PAGES ---- //
+
+  .quire-body-class--frontmatter {
+    .quire-page {
+      page: frontmatter;
+      margin-left: .625in;
+      margin-right: .625in;
+      &__content {
+        column-count: 1;
+      }
+    }
+  }
+
+  .quire-contents {
+    font-size: 10pt;
+    line-height: 14.25pt;
+    margin-left: 0;
+    padding-left: 0;
+
+    &__page,
+    &__section {
+      a {
+        display: block;
+      }
+      a::after {
+        content: leader(dotted) ' ' target-counter(attr(href, url), page);
+      }
+      &--frontmatter {
+        a::after {
+          content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+        }
+      }
+    }
+
+    .quire-contents__page__separator {
+      display: none;
+    }
+    &__section {
+      padding-left: 18pt;
+      font-weight: bold;
+    }
+  }
+
+  // ---- FIGURES ---- //
 
   figure {
     page-break-inside: avoid;
@@ -515,34 +531,22 @@ $print-page-number-size: 7.5pt;
       display: block;
     }
 
+    &__table-wrapper {
+      column-span: all;
+      margin-bottom: 1em;
+      margin-top: 1em;
+      font-size: 8pt;
+      table {
+        margin: 0;
+      }
+    }
+
+    &__table-wrapper + figcaption {
+      column-span: all;
+    }
+
     figcaption {
       margin-top: 0.5em;
-    }
-  }
-
-  .q-contributors__list {
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  // #contents .quire-page__content {
-  //   column-count: 1;
-  // }
-
-  .quire-contents {
-    column-span: all;
-    a {
-      display: block;
-    }
-    a::after {
-      content: leader(dotted) ' ' target-counter(attr(href, url), page);
-    }
-    .quire-contents__page__separator {
-      display: none;
-    }
-    &__section {
-      padding-left: 18pt;
-      font-weight: bold;
     }
   }
 
