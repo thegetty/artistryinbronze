@@ -2,6 +2,7 @@
 title: Directors’ Foreword
 weight: 6
 type: page
+class: frontmatter
 contributor:
   - first_name: Timothy
     last_name: Potts

@@ -176,7 +176,7 @@ footer_links:
   - name: About
     media_type:
     link_relation: about
-    url: http://www.getty.edu/publications/artistryinbronze/about/
+    url: ../about/index.html
     identifier:
     file_size_mb:
     icon:
