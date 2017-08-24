@@ -1,5 +1,6 @@
 ---
 title: International Bronze Congresses and Associated Publications and Exhibitions
+short-title: International Bronze Congresses
 weight: 5
 type: page
 menu: false
@@ -101,7 +102,7 @@ menu: false
 
 15. 2001 GRADO-AQUILEIA
 
-    XVth International Congress on Ancient Bronzes, May 26–31, 2001. Università di Udine, Gorizia, Italy.
+    XVth International Congress on Ancient Bronzes, May 22–26, 2001. Università di Udine, Gorizia, Italy.
 
     Acta: A. Giumlia-Mair, ed. 2002. *I Bronzi Antichi: Produzione e Tecnologia: Atti del XV Congresso Internazionale sui Bronzi Antichi, organizzato dall’Università di Udine, sede di Gorizia, Grado-Aquileia*. Monographies instrumentum 21.
 
