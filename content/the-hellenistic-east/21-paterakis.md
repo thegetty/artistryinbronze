@@ -127,7 +127,7 @@ An in-depth study of copper- and bronze-working is needed at Kaman-Kalehöyük, 
 
 [^11]: Hemingway 2014, 31.
 
-[^12]: Pulak 1998
+[^12]: Pulak 1998.
 
 [^13]: Boehmer 1979, 62, plate 38, no. 3849a–e.
 
