@@ -28,7 +28,7 @@ In terms of manufacture, the bronze head under discussion was made by the indire
 
 {{< q-figure id="6.1" >}}
 
-The features that might suggest Italian production—combining tradition and innovation—have yet to be evaluated and analyzed in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as, even more broadly, from Magna Graecia, may also be present.
+The features that might suggest Italian production—combining tradition and innovation—have yet to be evaluated and analyzed in depth. Influences from both the cosmopolitan Hellenistic world and the Vesuvian region as well as from, even more broadly, Magna Graecia, may also be present.
 
 This Hellenistic matrix in the Apolline iconography is discoverable also in the Roman coins of Campania, which were widely diffused throughout the territory. Starting from the third century BC, the stater from Sessa Aurunca, an inland Campanian town, reveals a new image of Apollo. On this coin, his mane of hair reaches the shoulders; his head is crowned with a laurel wreath; and the rings of the neck are very pronounced, as in the Apollo from Salerno.
 
