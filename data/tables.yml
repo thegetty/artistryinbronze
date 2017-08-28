@@ -70,13 +70,12 @@ table_list:
       </table>
 
   - id: "30.1"
-    caption: Results of XRF Analyses on Metal Objects from Gournia
+    caption: Results of XRF analyses on metal objects from Gournia
     media_type: html
     table: |
       <table>
-        <caption>Results of XRF Analyses on Metal Objects from Gournia</caption>
         <thead>
-          <tr> <th scope="col">Object Type</th> <th scope="col">Museum Inv. No.</th> <th scope="col">Part</th> <th scope="col">CU</th> <th scope="col">SN</th> <th scope="col">Pb</th> <th scope="col">As</th> <th scope="col">Sb</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">Ag</th> <th scope="col">Zn</th> <th scope="col">Co</th> <th scope="col">Mn</th> <th scope="col">Au</th> </tr>
+          <tr> <th scope="col">Object Type</th> <th scope="col">Museum Inv. No.</th> <th scope="col">Part</th> <th scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">Pb</th> <th scope="col">As</th> <th scope="col">Sb</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">Ag</th> <th scope="col">Zn</th> <th scope="col">Co</th> <th scope="col">Mn</th> <th scope="col">Au</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">Scraper</th> <th scope="row">MS4190</th> <th scope="row">Blade</th> <td>93.2</td> <td>0.9</td> <td></td> <td></td> <td></td> <td>1.3</td> <td></td> <td>Tr.</td> <td>4.6</td> <td></td> <td></td> <td></td> </tr>
@@ -93,7 +92,7 @@ table_list:
           <tr> <th scope="row">Hook</th> <th scope="row">MS4740</th> <td></td> <td>93.6</td> <td>3.8</td> <td></td> <td>Tr.</td> <td>Tr.</td> <td>2.2</td> <td></td> <td>0.2</td> <td></td> <td></td> <td></td> <td>Tr.</td> </tr>
         </tbody>
         <tfoot>
-          <tr> <td colspan="15"> MS = Mediterranean Section, Penn Museum, Philadelphia, PA.<br /> Tr. = trace amount.<br /> Frg. = fragment.</td> </tr>
+          <tr> <td colspan="15"> MS = Mediterranean Section, Penn Museum, Philadelphia, PA<br /> Tr. = trace amount<br /> Frg. = fragment</td> </tr>
         </tfoot>
       </table>
 
