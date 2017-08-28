@@ -6,7 +6,7 @@ table_list:
     table: |
       <table>
       	<thead>
-      		<tr><th scope="col">Name</th><th scope="col">Carpenter</th><th scope="col">Joiner</th><th scope="col">Laborer</th><th scope="col">Mason</th><th scope="col">Modeller in Wax</th><th scope="col">Sculptor</th><th scope="col">Woodcarver</th></tr>
+      		<tr><th scope="col">Name</th><th scope="col">Carpenter</th><th scope="col">Joiner</th><th scope="col">Laborer</th><th scope="col">Mason</th><th scope="col">Modeler in Wax</th><th scope="col">Sculptor</th><th scope="col">Woodcarver</th></tr>
       	</thead>
       	<tbody>
       		<tr><th scope="row">Aganthor - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td></td></tr>
@@ -19,7 +19,7 @@ table_list:
       		<tr><th scope="row">Theodotos - citizen</th><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr>
       	</tbody>
       	<tfoot>
-      		<tr><td colspan="8">Numbers denote the frequency of working a specific trade</td></tr>
+      		<tr><td colspan="8">Numbers denote the frequency of working a specific trade.</td></tr>
       	</tfoot>
       </table>
 
@@ -29,21 +29,21 @@ table_list:
     table: |
       <table>
       	<thead>
-      		<tr><th scope="col"></th><th scope="col">Citizens</th><th scope="col">Metrics</th><th scope="col">Slaves</th><th scope="col">Unknown</th><th scope="col">Total</th></tr>
+      		<tr><th scope="col"></th><th scope="col">Citizens</th><th scope="col">Metics</th><th scope="col">Slaves</th><th scope="col">Unknown</th><th scope="col">Total</th></tr>
       	</thead>
       	<tbody>
       		<tr><th scope="row">Architects</th><td>2</td><td></td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Under-Secretary</th><td>1</td><td></td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Mason</th><td>9</td><td>12</td><td>16</td><td>7</td><td>44</td></tr>
       		<tr><th scope="row">Sculptors</th><td>3</td><td>5</td><td></td><td>1</td><td>9</td></tr>
-      		<tr><th scope="row">Wax Modellers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
+      		<tr><th scope="row">Wax Modelers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Woodcarvers</th><td>1</td><td>5</td><td></td><td>1</td><td>7</td></tr>
       		<tr><th scope="row">Carpenters</th><td>5</td><td>7</td><td>4</td><td>3</td><td>19</td></tr>
       		<tr><th scope="row">Painters</th><td></td><td>2</td><td></td><td>1</td><td>3</td></tr>
       		<tr><th scope="row">Laborers</th><td>1</td><td>5</td><td></td><td>3</td><td>9</td></tr>
       	</tbody>
       	<tfoot>
-      		<tr><th scope="row">Totals</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
+      		<tr><th scope="row">Total</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
       	</tfoot>
       </table>
 

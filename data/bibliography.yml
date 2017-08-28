@@ -1537,9 +1537,8 @@ biblio_list:
     reference_for: "13"
 
   - short: Krystalli-Votsi 2014
-    full: "Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων* (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
+    full: "Krystalli-Votsi, P. 2014. <em>Τα Χαλκά των Αμπελοκήπων</em> (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
     reference_for: "13"
-
 
   - short: Leibundgut 1990
     full: "Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427."
@@ -1582,7 +1581,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Andrews 1994
-    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” PhD dissertation, Brandeis University."
+    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” PhD diss., Brandeis University."
     reference_for: "14"
 
   - short: Aruz, Graff, and Rakic 2014
@@ -2014,7 +2013,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Piot 1878
-    full: "Piot, E. 1878. “Vases peints athéniens/” *GazArch* 4: 55–59."
+    full: "Piot, E. 1878. “Vases peints athéniens.” *GazArch* 4: 55–59."
     reference_for: "16"
 
   - short: Ridder 1905
@@ -2186,7 +2185,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Invernizzi 1996
-    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45."
+    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” <em>Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano</em> 58: 29–45."
     reference_for: "17"
 
   - short: Iozzo, M. 2015
