@@ -109,7 +109,7 @@ Financial support from the PON03PE\_00214\_1 Project: “Nanotecnologie e nanoma
 
 [^1]: Basilissi and Marabelli 2008.
 
-[^2]: Ingo 2007, ATENA Project final report; Casaletto et al. 2007, 20–25; Degrigny et al. 2007, 31–37.
+[^2]: Ingo et al. 2007, ATENA Project final report; Casaletto et al. 2007, 20–25; Degrigny et al. 2007, 31–37.
 
 [^3]: Angelucci et al. 1978.
 

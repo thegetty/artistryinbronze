@@ -136,11 +136,11 @@ The conservation project and archaeometallurgical investigation of the Medici Ri
 
 [^1]: Cianferoni 2015; Borrelli 1992, 67; Coarelli 1981, 246 n. 88.
 
-[^2]: Borrelli 1992, 67: “la cosiddetta testa Medici-Riccardi, che figura già fra i beni confiscati a Piero de’ Medici nel 1495, e quindi dovette appartenere a Lorenzo il Magnifico….”
+[^2]: Borrelli 1992, 67: “la cosiddetta testa Medici-Riccardi, che figura già fra i beni confiscati a Piero de’ Medici nel 1495, e quindi dovette appartenere a Lorenzo il Magnifico.”
 
 [^3]: Cianferoni 2015.
 
-[^4]: Baldinucci 1812, 91: “… oltre alla meravigliosa testa, e collo di bronzo del cavallo, che per comun parere, e dicesi anche per sentenza dello stesso Bernino, è della stessa mano di quegli, che fece il famoso cavallo di Campidoglio …”
+[^4]: Baldinucci 1812, 91: “… oltre alla meravigliosa testa, e collo di bronzo del cavallo, che per comun parere, e dicesi anche per sentenza dello stesso Bernino, è della stessa mano di quegli, che fece il famoso cavallo di Campidoglio”
 
 [^5]: De Marinis 1998, 283.
 
