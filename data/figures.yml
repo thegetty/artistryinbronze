@@ -1427,7 +1427,7 @@ figure_list:
     caption: >
       Marble dinoid volute-krater. Greek, neo-Attic, first century BC–first century AD. Private collection.
     credit: >
-      Image: Courtesy of Sotheby's, Inc. © 2017
+      Image: Courtesy of Sotheby's, Inc. ©&#160;2017
 
   - id: "26.8"
     src: fig_26.08_Gaunt.jpg
@@ -1821,7 +1821,7 @@ figure_list:
   - id: "34.7"
     src: fig_34.07_Franken.jpg
     caption: >
-      Victoria. H: 12.9 cm. Reggio Emilia, Museo “Gaetano Chierici,” inv. 15242
+      Victoria. H:&#160;12.9 cm. Reggio Emilia, Museo “Gaetano Chierici,” inv. 15242
     credit: >
       Image: Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, Archivio Fotografico
 

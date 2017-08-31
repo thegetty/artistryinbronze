@@ -63,7 +63,8 @@ After preliminary material removal tests, which were carried out in order to opt
 
 <ol start="5">
    <li>Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.</li>
-   <li>Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of [figs. 39.5–6](#39.5) show the significant improvement of legibility achieved.</li>
+   <li>Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of fig. 39.1b–c and the details of
+   <a href="#39.5">figs. 39.5–6</a> show the significant improvement of legibility achieved.</li>
 </ol>
 
 {{< q-figure-group id="39.5, 39.6" grid="2" >}}
