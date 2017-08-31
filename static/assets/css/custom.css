@@ -136,15 +136,12 @@ table#table-23-appendix thead tr th:first-child {
   #congresses ol li p:nth-child(3),
   #congresses ol li p:nth-child(4) {
     font-weight: normal;
-    margin-top: 2pt;
+    margin-top: 3pt;
   }
 
   #foreword .quire-page__content .quire-page__content__contributor li {
     margin-top: 6pt;
     margin-right: 18pt;
-  }
-  #foreword .quire-page__content .quire-page__content__contributor li:last-child  {
-    page-break-after: right;
   }
 
   .quire-page__content__main .quire-page__section-list,
@@ -154,8 +151,8 @@ table#table-23-appendix thead tr th:first-child {
   }
 
   #abstracts .quire-page__section-list__abstract {
-    font-size: 8pt;
-    line-height: 11.5pt;
+    font-size: 7.5pt;
+    line-height: 11pt;
   }
 
   #abstracts .quire-page__section-list__abstract p {
@@ -201,6 +198,10 @@ table#table-23-appendix thead tr th:first-child {
     /*page-break-before: right;*/
   }
 
+  .quire-body#introduction .quire-page {
+    page: intro;
+  }
+
   .quire-contents .quire-contents__page:first-child {
     display: none;
   }
@@ -211,6 +212,20 @@ table#table-23-appendix thead tr th:first-child {
 
   .quire-body-type--cover .quire-nav-group .quire-nav a {
     color: #995326;
+  }
+
+  #frontmatter-break .quire-page {
+    page: bleed;
+    width: 9in;
+    height: 11.25in;
+    margin-top: -.25in;
+    margin-left: -.25in;
+    margin-bottom: -.25in;
+    padding-top: .25in;
+    background-image: url("../img/figures/fig_23.03_Albertson.jpg");
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
 }

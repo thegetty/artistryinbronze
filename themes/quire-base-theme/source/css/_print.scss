@@ -18,7 +18,7 @@ $print-outer-margin: 0.75in;
 $print-inner-width: $print-width - ($print-inner-margin + $print-outer-margin);
 $print-inner-height: $print-height - ($print-top-margin + $print-bottom-margin);
 
-$print-base-font-size: 9pt;
+$print-base-font-size: 8.5pt;
 $print-base-spacing: 0.125in;
 $print-base-line-height: 13pt;
 $print-paragraph-indent: 0.25in;
@@ -160,6 +160,41 @@ $print-page-number-size: 7.5pt;
     content: counter(page, lower-roman);
     font-family: $text-font-family;
     font-size: $print-page-number-size;
+  }
+}
+
+@page intro:left {
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-outer-margin;
+  margin-right: $print-inner-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-left {
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+}
+
+@page intro:right {
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-inner-margin;
+  margin-right: $print-outer-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-right {
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+}
+
+@page intro:blank {
+  @bottom-left {
+    content: normal;
+  }
+  @bottom-right {
+    content: normal;
   }
 }
 
@@ -309,21 +344,21 @@ $print-page-number-size: 7.5pt;
           margin-bottom: 4pt;
         }
         dt {
-          font-size: 8pt;
-          line-height: 11.5pt;
+          font-size: 7.5pt;
+          line-height: 11pt;
           margin-top: 0;
         }
         dd {
-          font-size: 8pt;
-          line-height: 11.5pt;
+          font-size: 7.5pt;
+          line-height: 11pt;
           margin-bottom: 6pt;
         }
       }
 
       &__abstract {
         column-span: all;
-        font-size: 8pt;
-        line-height: 11.5pt;
+        font-size: 7.5pt;
+        line-height: 11pt;
         width: 5in;
         margin: 0 auto;
         h2 {
@@ -344,8 +379,8 @@ $print-page-number-size: 7.5pt;
     }
 
     .footnotes {
-      font-size: 8pt;
-      line-height: 11.5pt;
+      font-size: 7.5pt;
+      line-height: 11pt;
       ol {
         margin-left: 18pt;
         li ol {
@@ -365,14 +400,20 @@ $print-page-number-size: 7.5pt;
   .quire-body-type--section-head .quire-page {
     page: bleed;
     width: 9in;
-    height: 11.5in;
+    height: 11.25in;
     margin-top: -.25in;
     margin-left: -.25in;
-    background-size: 9in 11.5in;
+    margin-bottom: -.25in;
     background-color: $primary-color;
-    padding-top: 2.5in;
-    padding-bottom: -2.5in;
+    padding-top: .25in;
+    // padding-top: 2.5in;
+    // padding-bottom: -2.5in;
   }
+
+  .quire-body-type--section-head .quire-page__header {
+    margin-top: 3.25in;
+  }
+
   .quire-body-type--section-head h1 {
     color: #fff;
   }
@@ -535,7 +576,7 @@ $print-page-number-size: 7.5pt;
       column-span: all;
       margin-bottom: 1em;
       margin-top: 1em;
-      font-size: 8pt;
+      font-size: 7.5pt;
       table {
         margin: 0;
       }

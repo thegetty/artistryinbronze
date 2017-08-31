@@ -12,7 +12,7 @@ contributor:
  - first_name: Ambra
    last_name: Spinelli
    affiliation: University of Southern California, Los Angeles
-weight: 7
+weight: 8
 ---
 
 Building on a distinguished tradition, the XIXth International Congress on Ancient Bronzes convened in Los Angeles between October 13 and 17, 2015. Organized by the J. Paul Getty Museum in conjunction with the Getty Conservation Institute, this meeting of more than 150 attendees was held at the Getty Center in Brentwood and the Getty Villa in Malibu. Over 5 days, 116 presenters from 24 countries participated in 11 sessions, delivering 49 papers, 3 keynote addresses, and 1 public lecture, as well as 19 posters discussing diverse aspects of ancient bronze production and its modern reception. Contributors included archaeologists, art historians, historians, curators, conservators, scientists, philologists, and experts in cultural heritage.
