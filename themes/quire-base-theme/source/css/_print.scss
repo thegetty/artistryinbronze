@@ -278,7 +278,8 @@ $print-page-number-size: 7.5pt;
     page-break-before: always;
 
     p + p,
-    figure + p {
+    figure + p,
+    table + p {
       text-indent: 1.5em;
     }
 
@@ -312,6 +313,11 @@ $print-page-number-size: 7.5pt;
           line-height: 17.5pt;
           margin-top: 12pt;
           margin-bottom: 4pt;
+        }
+        h3 {
+          font-size: 10pt;
+          line-height: 14.25pt;
+          margin-bottom: 0;
         }
         blockquote {
           margin-left: 1.5em;

@@ -46,12 +46,12 @@ table#table-23-appendix thead tr th:first-child {
 
 @media print {
 
-  h2#note-to-the-reader,
+  /*h2#note-to-the-reader,
   h2#acknowledgments,
   h2#notes,
   #bibliography h2 {
     font-weight: 400;
-  }
+  }*/
 
   #introduction .quire-page__content {
     column-fill: auto;
@@ -240,6 +240,11 @@ table#table-23-appendix thead tr th:first-child {
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+
+  #statuettes-13-barr-sharrar #fig-13-5 {
+    width: 90%;
   }
 
 }
