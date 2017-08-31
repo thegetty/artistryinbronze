@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title">{{ partial "full-title.html" .Page.Params }}</h1>
+    {{ if or (eq .Params.contributor_byline "top") ( eq .Params.contributor_byline nil) }}
+      <ul class="quire-page__header__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+  </header>
+  <div class="quire-page__content">
+    <section class="quire-page__content__main">
+      {{ .Content }}
+    <section>
+    {{ if eq .Params.contributor_byline "bottom" }}
+      <ul class="quire-page__content__contributor">
+      {{ range .Params.contributor }}
+        <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+      {{ end }}
+      </ul>
+    {{ end }}
+    {{ with .Params.reader_note }}
+    <section class="quire-page__content__reader-note">
+      <hr />
+      <h2 id="#note-to-the-reader">Note to the Reader</h2>
+      {{ . | markdownify }}
+    <section>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
