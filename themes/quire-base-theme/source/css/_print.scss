@@ -54,7 +54,8 @@ $print-page-number-size: 7.5pt;
   @bottom-right {
     content: string(sectiontitle);
     font-family: $text-font-family;
-    font-size: $print-page-number-size;
+    // font-size: $print-page-number-size;
+    font-size: 6.5pt;
     text-transform: uppercase;
     letter-spacing: 1pt;
   }
@@ -105,7 +106,8 @@ $print-page-number-size: 7.5pt;
   @bottom-right {
     content: string(sectiontitle);
     font-family: $text-font-family;
-    font-size: $print-page-number-size;
+    // font-size: $print-page-number-size;
+    font-size: 6.5pt;
     text-transform: uppercase;
     letter-spacing: 1pt;
   }
@@ -261,6 +263,7 @@ $print-page-number-size: 7.5pt;
   hr {
     margin: 1em auto;
     letter-spacing: 6pt;
+    font-size: 7.5pt;
   }
 
   h2, h3, h4, h5, h6 {
@@ -449,7 +452,9 @@ $print-page-number-size: 7.5pt;
       padding-left: .5in;
       padding-top: 1.65in;
       &__title {
-        width: 5in;
+        font-size: 30pt;
+        line-height: 40pt;
+        width: 5.5in;
       }
       &__reading-line {
         color: #727272;
@@ -461,7 +466,7 @@ $print-page-number-size: 7.5pt;
       }
       &__publisher {
         margin-top: 3in;
-        font-size: 13pt;
+        font-size: 12pt;
         line-height: 21pt;
         color: $dark-neutral;
       }
@@ -519,7 +524,8 @@ $print-page-number-size: 7.5pt;
   }
   .q-figure-credit {
     font-size: 6.5pt;
-    line-height: 1.35em;
+    line-height: 11pt;
+    margin-top: 1.5pt;
   }
 
   .q-figure {
@@ -588,6 +594,9 @@ $print-page-number-size: 7.5pt;
 
     figcaption {
       margin-top: 0.5em;
+      font-size: 7.5pt;
+      line-height: 11pt;
+      font-weight: 400;
     }
   }
 
