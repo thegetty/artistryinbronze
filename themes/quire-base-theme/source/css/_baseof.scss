@@ -150,6 +150,9 @@ sup {
   line-height: 0;
 }
 
+.no-break {
+  white-space: pre;
+}
 
 .quire-body {
   @media screen {
