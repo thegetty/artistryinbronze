@@ -16,7 +16,7 @@ menu: false
 
     IInd International Congress on Ancient Bronzes, May 23–26, 1972. Mainz, Germany.
 
-    Acta: H. Menzel, ed. 1973. “Bericht über die Tagung 'Römische Toreutik’ vom 23–26. Mai 1972 in Mainz.” *JRGZM* 20: 258–82.
+    Acta: H. Menzel, ed. 1973. “Bericht über die Tagung 'Römische Toreutik’ vom 23.–26. Mai 1972 in Mainz.” *JRGZM* 20: 258–82.
 
 3.  1974 BRUSSELS-MARIEMONT
 
@@ -46,7 +46,7 @@ menu: false
 
     VIIth International Congress on Ancient Bronzes, May 5–10, 1982. István Király Muzeum, Székesfehérvár, Hungary.
 
-    Acta: Jenö Fitz, ed. 1984. “Bronzes romains figurés et appliqués et leurs problèmes techniques: Actes du VIIe colloque international sur les bronzes antiques, Székesfehérvár, 1982.” *Alba Regia* 21: 5–136.
+    Acta: J. Fitz, ed. 1984. “Bronzes romains figurés et appliqués et leurs problèmes techniques: Actes du VIIe colloque international sur les bronzes antiques, Székesfehérvár, 1982.” *Alba Regia* 21: 5–136.
 
 8. 1984 STARA ZAGORA
 
@@ -94,7 +94,7 @@ menu: false
 
     Catalogue: C. C. Mattusch, H. Lie, et al., eds. 1996. *The Fire of Hephaistos: Large Classical Bronzes from North American Collections*. Exh. cat., Harvard University Art Museums, Cambridge, MA.
 
-14. 1999 Cologne
+14. 1999 COLOGNE
 
     XIVth International Congress on Ancient Bronzes, September 21–24, 1999. Römisch-Germanisches Museum, Cologne, Germany.
 
@@ -104,7 +104,7 @@ menu: false
 
     XVth International Congress on Ancient Bronzes, May 22–26, 2001. Università di Udine, Gorizia, Italy.
 
-    Acta: A. Giumlia-Mair, ed. 2002. *I Bronzi Antichi: Produzione e Tecnologia: Atti del XV Congresso Internazionale sui Bronzi Antichi, organizzato dall’Università di Udine, sede di Gorizia, Grado-Aquileia*. Monographies instrumentum 21.
+    Acta: A. Giumlia-Mair, ed. 2002. *I Bronzi Antichi: Produzione e Tecnologia: Atti del XV Congresso Internazionale sui Bronzi Antichi, organizzato dall’Università di Udine, sede di Gorizia, Grado-Aquileia*. Monographies instrumentum 21. Montagnac: Mergoil.
 
 16. 2003 BUCHAREST
 
@@ -114,13 +114,15 @@ menu: false
 
 17. 2011 IZMIR
 
-    XVIIth International Congress on Ancient Bronzes, May 20–26, 2011. Izmir, Turkey. Acta: in press.
+    XVIIth International Congress on Ancient Bronzes, May 20–26, 2011. Sebanci Cultural Palace, Dokuz Eylül University, Izmir, Turkey.
 
-18. 2013 ZÜRICH
+    Acta: A. Giumlia-Mair and C. C. Mattusch, eds. 2016. *Proceedings of the XVIIth International Congress on Ancient Bronzes, Izmir.* Monographies instrumentum 52. Autun: Mergoil.
 
-    XVIIIth International Congress on Ancient Bronzes, September 4–7, 2013. Zürich University, Swiss National Museum Zürich, and the Paul Scherrer Institute, Zürich, Switzerland.
+18. 2013 ZURICH
 
-    Acta: P. Della Casa and E. Deschler-Erb, eds. 2015. *Acta of the XVIIIth International Congress on Ancient Bronzes, Zürich 2013*. Zürich Studies in Archaeology 10.
+    XVIIIth International Congress on Ancient Bronzes, September 4–7, 2013. University of Zürich, Swiss National Museum Zurich, and the Paul Scherrer Institute, Zurich, Switzerland.
+
+    Acta: P. Della Casa and E. Deschler-Erb, eds. 2015. *New Research on Ancient Bronzes: Acta of the XVIIIth International Congress on Ancient Bronzes, Zurich 2013*. Zurich Studies in Archaeology 10.
 
     Catalogue: M. Bürge, E. Deschler-Erb, and A. Kaufmann-Heinimann, eds. 2013. *Göttlich menschlich: Römische Bronzen aus der Schweiz*. Exh. cat., Archäologisches Institut der Universität Zürich.
 

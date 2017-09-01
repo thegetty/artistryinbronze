@@ -73,7 +73,7 @@ The XRF analyses have demonstrated that the copper-based objects from Gournia pr
 
 ## Acknowledgments
 
-We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration
+We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration.
 
 ## Notes
 
@@ -97,7 +97,7 @@ We thank the Penn Museum for permission to study, analyze, and publish the metal
 
 [^10]: Branigan 1974; Soles and Davaras 2010.
 
-[^11]: Soles and Davaras 2010, 1–3.
+[^11]: Soles 2016, 249, pls. LXXX–LXXXIII.
 
 [^12]: Evans 1930, 46–57, plates XVI, XVII.
 
