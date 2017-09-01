@@ -71,7 +71,7 @@ The production of this digital volume—the first in the history of the Bronze C
 September 2017</p>
 
 ## Note to the Reader
-Bibliographic abbreviations follow those employed by the *American Journal of Archaeology*. See [https://www.ajaoline.org/submissions/abbreviations](https://www.ajaoline.org/submissions/abbreviations).
+Bibliographic abbreviations follow those employed by the *American Journal of Archaeology*. See [https://www.ajaoline.org/submissions/abbreviations](https://www.ajaoline.org/submissions/abbreviations). Spelling and style of Greek and other foreign terms follow the guidelines set forth in the *Chicago Manual of Style*.
 
 [^1]: The original program can be found in the book of abstracts
     distributed at the time of the meeting and remains available online:

@@ -69,7 +69,7 @@ It seems that these braziers continue a tradition that originated in Etruria and
 
 The square brazier was far more popular and, as mentioned above, was used during social events such as outings. The round brazier was used for slow cooking; since it remained in the home, it does not appear in contemporary documents.
 
-Both types are still in use today. The square brazier, made of simple hammered tin, is very popular for outdoor events in the Middle East. A subtype of the large brazier is found in traditional Eastern cooking. Today it is made of stainless steel and is heated by a gas canister sufficient for the long slow cooking of fava beans. This was probably the function of the large brazier originating from Caesarea. The smaller ones were to cook beans, rice, and sauces.
+Both types are still in use today. The square brazier, made of simple hammered tin, is very popular for outdoor events in the Middle East. A subtype of the large brazier is found in traditional Eastern cooking. Today it is made of stainless steel and is heated by a gas canister sufficient for the long slow cooking of fava beans. This was probably the function of the large brazier originating from Caesarea. The smaller ones were used to cook beans, rice, and sauces.
 
 ## Feet and Handles
 
