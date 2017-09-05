@@ -10,7 +10,10 @@ table_list:
       	</thead>
       	<tbody>
       		<tr><th scope="row">Aganthor - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td></td></tr>
+          <tr><th scope="row">Gerys - slave (Philokles)</th><td>2</td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Kephisodoros - <em>metic</em></th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+          <tr><th scope="row">Kerdon - slave</th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+          <tr><th scope="row">Kroisos - slave</th><td>3</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Manis - <em>metic</em></th><td>2</td><td>2</td><td>2</td><td></td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Mikion - <em>metic</em></th><td>3</td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Sindron - slave</th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
@@ -34,13 +37,19 @@ table_list:
       	<tbody>
       		<tr><th scope="row">Architects</th><td>2</td><td></td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Under-Secretary</th><td>1</td><td></td><td></td><td></td><td>1</td></tr>
+          <tr><th scope="row">Guard</th><td></td><td></td><td></td><td>1</td><td>1</td></tr>
       		<tr><th scope="row">Mason</th><td>9</td><td>12</td><td>16</td><td>7</td><td>44</td></tr>
       		<tr><th scope="row">Sculptors</th><td>3</td><td>5</td><td></td><td>1</td><td>9</td></tr>
       		<tr><th scope="row">Wax Modelers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Woodcarvers</th><td>1</td><td>5</td><td></td><td>1</td><td>7</td></tr>
       		<tr><th scope="row">Carpenters</th><td>5</td><td>7</td><td>4</td><td>3</td><td>19</td></tr>
+          <tr><th scope="row">Sawyers</th><td></td><td>1</td><td></td><td>1</td><td>2</td></tr>
+          <tr><th scope="row">Joiner</th><td></td><td>1</td><td></td><td></td><td>1</td></tr>
+          <tr><th scope="row">Lathe Worker</th><td></td><td></td><td></td><td>1</td><td>1</td></tr>
       		<tr><th scope="row">Painters</th><td></td><td>2</td><td></td><td>1</td><td>3</td></tr>
+          <tr><th scope="row">Gilder</th><td></td><td>1</td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Laborers</th><td>1</td><td>5</td><td></td><td>3</td><td>9</td></tr>
+          <tr><th scope="row">Unknown Trade</th><td>2</td><td>3</td><td></td><td>2</td><td>7</td></tr>
       	</tbody>
       	<tfoot>
       		<tr><th scope="row">Total</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
