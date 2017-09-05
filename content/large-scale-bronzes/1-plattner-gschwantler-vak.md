@@ -17,7 +17,7 @@ abstract: |
 
     Due to an agreement between the Ottoman sultan and the Austrian emperor, the statue and base were taken to Vienna as a gift to the imperial collections. In Vienna, sculptor Wilhelm Sturm was commissioned to restore the statue. Recognizing the similarity of the statuary type, Sturm based the arrangement and composition of the athlete on the Apoxyomenos in the Uffizi in Florence. The Athlete of Ephesos was put on display immediately, in the first show of finds from Ephesos in Vienna in 1901. Since 1978, it has been part of the Ephesos Museum in the former Austrian Imperial Palace in Vienna.
 
-    Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from Late Classical/Early Hellenistic period from the third and second centuries BC, while others argue for a Roman work of eclecticism.
+    Since the first publication of the statue in 1906, dating and art historical classification of the athlete have been disputed. While it is widely accepted that the cast itself is Roman, some authors cite Greek models from the Late Classical/Early Hellenistic period from the third and second centuries BC, while others argue for a Roman work of eclecticism.
 
     Sturm realized the reconstruction of the statue in 1897–98. He built an internal armature scaffold of tinned iron, brass bars, and screws to mount the preserved fragments. These original parts underwent several mechanical and chemical treatments, as was common at that time. Sturm used a magnesium-chloride mortar as a filler and stabilizer. Even in the first exhibition, this hygroscopic material caused problems of efflorescence due to temperature and humidity fluctuations.
 
@@ -126,7 +126,7 @@ The reassembly of the 234 bronze fragments was a great challenge for Sturm; his 
 
 {{< q-figure id="1.9" >}}
 
-As we know today, this mortar (containing magnesium salts) is extremely sensitive to moisture.[^53] In the nineteenth century, it was only used indoors, as a very durable and long-lasting material for floors. Crucial in Sturm´s decision to use this particular mortar were probably its limited weight, its superb adhesion and binding power, and its rapid setting time of 30–45 minutes. Also, it is easy to grind and highly polishable. Presumably, he was aware of the basic principles set forth at the first international congress of art history held in Vienna 1873.[^54] A full section was dedicated to restoration issues, proclaiming: “We demand conservation, not restoration!”
+As we know today, this mortar (containing magnesium salts) is extremely sensitive to moisture.[^53] In the nineteenth century, it was only used indoors, as a very durable and long-lasting material for floors. Crucial in Sturm’s decision to use this particular mortar were probably its limited weight, its superb adhesion and binding power, and its rapid setting time of 30–45 minutes. Also, it is easy to grind and highly polishable. Presumably, he was aware of the basic principles set forth at the first international congress of art history held in Vienna 1873.[^54] A full section was dedicated to restoration issues, proclaiming: “We demand conservation, not restoration!”
 
 Given Sturm’s interventions, is there is any chance we can find residues of the original surface? His cleaning was achieved by reduction: Sturm used diluted hydrochloric acid, neutralized in 1% potash solution and stabilized in repeatedly changing baths of distilled water. To remove harder crusts, he annealed the pieces “softly” in an iron pan filled with charcoal.[^55] In this context, “softly” probably means tempering the bronze fragments. The aim was to relax the inner structure of the metal and deliberately soften the metal, making it easier to reshape the deformed fragments. Since there is evidence in the records that the surface color changed after this treatment,[^56] we must assume that there is little if any original surface left. We know for sure that Sturm mechanically removed the residues on the head and the hair with hammer and punches. The bronze surface was painted over with vinegar and later, to stop the oxidation, brushed with beeswax (wiping with neat’s-foot oil or olive oil was also very common[^57]) ([fig. 1.10](#1.10)).
 
@@ -149,7 +149,7 @@ Since 1900 several investigations have been executed:
 >
 > Mortar:
 >
-> - 2001:[^70]: Cement Testing Laboratory
+> - 2001:[^70] Cement Testing Laboratory
 > - 2002, 2012, 2014: SEM
 > - 2012: X-ray spectrometry
 > - 2012: FTIR spectrometry
@@ -232,7 +232,7 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^20]: Benndorf 1906, 185, fig. 131.
 
-[^21]: Kunsthistorisches Museum, Vienna, Antikensammlung, inv. V 1895, see Hartwig 1903; for the type, see Perry 1997, 42–45 with further examples.
+[^21]: Kunsthistorisches Museum, Vienna, Antikensammlung, inv. V 1895, see Hartwig 1903; for the type, see Perry 1997, 42–45, with further examples.
 
 [^22]: Kunsthistorisches Museum, Antikensammlung, inv. III 1087; Engelmann et al. 1980, 89, no. 1128.
 

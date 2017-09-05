@@ -6,7 +6,7 @@ table_list:
     table: |
       <table>
       	<thead>
-      		<tr><th scope="col">Name</th><th scope="col">Carpenter</th><th scope="col">Joiner</th><th scope="col">Laborer</th><th scope="col">Mason</th><th scope="col">Modeller in Wax</th><th scope="col">Sculptor</th><th scope="col">Woodcarver</th></tr>
+      		<tr><th scope="col">Name</th><th scope="col">Carpenter</th><th scope="col">Joiner</th><th scope="col">Laborer</th><th scope="col">Mason</th><th scope="col">Modeler in Wax</th><th scope="col">Sculptor</th><th scope="col">Woodcarver</th></tr>
       	</thead>
       	<tbody>
       		<tr><th scope="row">Aganthor - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td></td></tr>
@@ -19,7 +19,7 @@ table_list:
       		<tr><th scope="row">Theodotos - citizen</th><td>1</td><td></td><td></td><td></td><td></td><td></td><td>1</td></tr>
       	</tbody>
       	<tfoot>
-      		<tr><td colspan="8">Numbers denote the frequency of working a specific trade</td></tr>
+      		<tr><td colspan="8">Numbers denote the frequency of working a specific trade.</td></tr>
       	</tfoot>
       </table>
 
@@ -29,21 +29,21 @@ table_list:
     table: |
       <table>
       	<thead>
-      		<tr><th scope="col"></th><th scope="col">Citizens</th><th scope="col">Metrics</th><th scope="col">Slaves</th><th scope="col">Unknown</th><th scope="col">Total</th></tr>
+      		<tr><th scope="col"></th><th scope="col">Citizens</th><th scope="col">Metics</th><th scope="col">Slaves</th><th scope="col">Unknown</th><th scope="col">Total</th></tr>
       	</thead>
       	<tbody>
       		<tr><th scope="row">Architects</th><td>2</td><td></td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Under-Secretary</th><td>1</td><td></td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Mason</th><td>9</td><td>12</td><td>16</td><td>7</td><td>44</td></tr>
       		<tr><th scope="row">Sculptors</th><td>3</td><td>5</td><td></td><td>1</td><td>9</td></tr>
-      		<tr><th scope="row">Wax Modellers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
+      		<tr><th scope="row">Wax Modelers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Woodcarvers</th><td>1</td><td>5</td><td></td><td>1</td><td>7</td></tr>
       		<tr><th scope="row">Carpenters</th><td>5</td><td>7</td><td>4</td><td>3</td><td>19</td></tr>
       		<tr><th scope="row">Painters</th><td></td><td>2</td><td></td><td>1</td><td>3</td></tr>
       		<tr><th scope="row">Laborers</th><td>1</td><td>5</td><td></td><td>3</td><td>9</td></tr>
       	</tbody>
       	<tfoot>
-      		<tr><th scope="row">Totals</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
+      		<tr><th scope="row">Total</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
       	</tfoot>
       </table>
 
@@ -63,20 +63,19 @@ table_list:
         <tr> <td>189</td> <td><ul><li>St. Petersburg, Hermitage inv. 8840 (<em>CIS</em>, 360 no. 4292, plate 52)</li></ul></td> </tr>
         <tr> <td>190</td> <td><ul><li>London, British Museum 125032 (Ingholt 1928, 112 PS 201; <em>CIS</em>, 362–63 no. 4297, plate 52)</li><li>Toronto, Royal Ontario Museum, inv. 953x94.4 (Ingholt 1928, 113 n.1 PS 203); Gaziantep, Archaeological Museum, inv. 211 (Parlasca 2005, 143, 148 fig. 4)</li><li>Damascus, National Museum, from Hypogeum of Yarḥai (Tanabe 1986, plate 280, fig. 249)</li><li>Jerusalem, Church of St. Anne, Museum, inv. PB 2670: double bust (Ingholt 1928, 110 PS 183; <em>CIS</em>, 374–75 no. 4329, plate 54)</li><li>Minneapolis, Minneapolis Institute of Art acc. 2008.28.2 (<em>CIS</em>, 393 no. 4379; Sotheby’s 2002, lot 119)</li><li>Oslo, Museum of Cultural History inv. C42235 (Ingholt 1928, 114 PS 217; <em>CIS</em>, 369 no. 4314, plate 53)</li></ul></td> </tr>
         <tr> <td>200</td> <td><ul><li>Copenhagen, Ny Carlsberg Glyptotek, inv. 1043 (Ploug 1995, 174–76 no. 70)</li><li>New York, Metropolitan Museum of Art acc. 02.29.2 (Ingholt 1928, 109 PS 171)</li><li>London, British Museum 125020 (Ingholt 1928, 119 PS 246; <em>CIS</em>, 372 no. 4323, plate 38)</li><li>Copenhagen, NCG, inv. 1145: head (Ploug 1995, 222–23 no. 92)</li><li>Palmyra, Palmyra Museum, inv. 8522/2321 (Charles-Gaffiot et al. 2001, 347 no. 163, fig. on 271)</li><li>Palmyra, Southeast Necropolis, Tomb H (Taibbôl), relief of Yarḥai</li><li>London, Christie’s (Christie’s 2012, lot 190)</li></ul></td> </tr>
-        <tr> <td>210</td> <td><ul><li>New York, Metropolitan Museum of Art inv. 98.19.3 (Ingholt 1928, 122 PS 282; <em>CIS</em>, 374 no. 4327, plate 36)</li><li>Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237)</li><li>Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42)</li></ul></td> </tr>
+        <tr> <td>210</td> <td><ul><li>New York, Metropolitan Museum of Art, inv. 98.19.3 (Ingholt 1928, 122 PS 282; <em>CIS</em>, 374 no. 4327, plate 36)</li><li>Istanbul, Archaeological Museum (Ingholt 1928, 117 PS 237)</li><li>Once New York, private collection (Ingholt 1928, 112 PS 197; Ingholt 1934, 36 n. 42)</li></ul></td> </tr>
         <tr> <td>230</td> <td><ul><li>Palmyra, Palmyra Museum, inv. 457/1660: head (Colledge 1976, fig. 142; Tanabe 1986, plate 486 fig. 460)</li><li>Damascus, National Museum, inv. C18: plaster head (Tanabe 1986, plate 484 fig. 458; Charles-Gaffiot et al. 2001, 336 no. 99, fig. on 236)</li><li>Berlin, Staatliche Museen inv. VA 50 (Ingholt 1928, 122 PS 279; <em>CIS</em>, 395 no. 4385, plate 45)</li></ul></td> </tr>
         <tr> <td>236–37</td> <td><ul><li>Beirut, American University Museum, inv. 32.35 (Ingholt 1934, 36–38, plate 9.1)</li><li>Middlebury (VT), Middlebury College Museum of Art inv. 2009.002 (Sotheby’s 2008, lot 68)</li></ul></td> </tr>
       </tbody>
       </table>
 
   - id: "30.1"
-    caption: Results of XRF Analyses on Metal Objects from Gournia
+    caption: Results of XRF analyses on metal objects from Gournia
     media_type: html
     table: |
       <table>
-        <caption>Results of XRF Analyses on Metal Objects from Gournia</caption>
         <thead>
-          <tr> <th scope="col">Object Type</th> <th scope="col">Museum Inv. No.</th> <th scope="col">Part</th> <th scope="col">CU</th> <th scope="col">SN</th> <th scope="col">Pb</th> <th scope="col">As</th> <th scope="col">Sb</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">Ag</th> <th scope="col">Zn</th> <th scope="col">Co</th> <th scope="col">Mn</th> <th scope="col">Au</th> </tr>
+          <tr> <th scope="col">Object Type</th> <th scope="col">Museum Inv. No.</th> <th scope="col">Part</th> <th scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">Pb</th> <th scope="col">As</th> <th scope="col">Sb</th> <th scope="col">Fe</th> <th scope="col">Ni</th> <th scope="col">Ag</th> <th scope="col">Zn</th> <th scope="col">Co</th> <th scope="col">Mn</th> <th scope="col">Au</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">Scraper</th> <th scope="row">MS4190</th> <th scope="row">Blade</th> <td>93.2</td> <td>0.9</td> <td></td> <td></td> <td></td> <td>1.3</td> <td></td> <td>Tr.</td> <td>4.6</td> <td></td> <td></td> <td></td> </tr>
@@ -93,7 +92,7 @@ table_list:
           <tr> <th scope="row">Hook</th> <th scope="row">MS4740</th> <td></td> <td>93.6</td> <td>3.8</td> <td></td> <td>Tr.</td> <td>Tr.</td> <td>2.2</td> <td></td> <td>0.2</td> <td></td> <td></td> <td></td> <td>Tr.</td> </tr>
         </tbody>
         <tfoot>
-          <tr> <td colspan="15"> MS = Mediterranean Section, Penn Museum, Philadelphia, PA.<br /> Tr. = trace amount.<br /> Frg. = fragment.</td> </tr>
+          <tr> <td colspan="15"> MS = Mediterranean Section, Penn Museum, Philadelphia, PA<br /> Tr. = trace amount<br /> Frg. = fragment</td> </tr>
         </tfoot>
       </table>
 
@@ -107,14 +106,14 @@ table_list:
         </thead>
       	<tbody>
       		<tr> <th rowspan="2" scope="row">Oxides</th> <td>Cuprite</td> <td>Cu<sub>2</sub>O</td> <td>Red/Orange</td> </tr>
-      		<tr>  <td>Tenorite</td> <td>CuO</td> <td>Black grey</td> </tr>
+      		<tr>  <td>Tenorite</td> <td>CuO</td> <td>Black Gray</td> </tr>
       		<tr> <th rowspan="3" scope="row">Carbonates</th> <td>Malachite</td> <td>CuCO<sub>3</sub> Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
       		<tr>  <td>Azurite</td> <td>2 CuCO<sub>3</sub>Cu(OH)<sub>2</sub></td> <td>Blue</td> </tr>
       		<tr>  <td>Chalconatronite</td> <td>Na<sub>2</sub>(CuCO<sub>3</sub>)<sub>2</sub> 3 H<sub>2</sub>O</td> <td>Green/Blue</td> </tr>
-      		<tr> <th scope="row">Chloride</th> <td>Nantokite</td> <td>CuCl</td> <td>green/White</td> </tr>
+      		<tr> <th scope="row">Chloride</th> <td>Nantokite</td> <td>CuCl</td> <td>Green/White</td> </tr>
       		<tr> <th rowspan="3" scope="row">*Basic Chlorides</th> <td>*Atacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Green</td> </tr>
-      		<tr>  <td>*Paratacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green</td> </tr>
-      		<tr>  <td>*Botallakite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green/blue</td> </tr>
+      		<tr>  <td>*Paratacamite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale Green</td> </tr>
+      		<tr>  <td>*Botallakite</td> <td>Cu<sub>2</sub>(OH)<sub>3</sub>Cl</td> <td>Pale green/Blue</td> </tr>
       		<tr> <th rowspan="2" scope="row">Sulphides</th> <td>Chalcocite</td> <td>Cu<sub>2</sub>S</td> <td>Black</td> </tr>
       		<tr>  <td>Covellite</td> <td>CuS</td> <td>Black</td> </tr>
       		<tr> <th scope="row">Sulphate</th> <td>Brochantite</td> <td>CuSO<sub>4</sub> 2 Cu(OH)<sub>2</sub></td> <td>Green</td> </tr>
@@ -130,7 +129,7 @@ table_list:
       	<tr> <th scope="col">Sample</th> <th scope="col">Cu</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Pb</th> <th scope="col">Sn</th> <th scope="col">Fe</th> </tr>
       	</thead>
       	<tbody>
-      		<tr> <th scope="row">Cruciform broach</td> <td>89.9</td> <td>0.1</td> <td>0.0</td> <td>0.5</td> <td>9.4</td> <td>0.0</td> </tr>
+      		<tr> <th scope="row">Cruciform brooch</td> <td>89.9</td> <td>0.1</td> <td>0.0</td> <td>0.5</td> <td>9.4</td> <td>0.0</td> </tr>
       		<tr> <th scope="row">S411</th> <td>73.6</td> <td>24.3</td> <td>0.2</td> <td>0.9</td> <td>0.5</td> <td>0.0</td> </tr>
       		<tr> <th scope="row">S826-1</th> <td>88.1</td> <td>9.1</td> <td>0.1</td> <td>0.9</td> <td>1.2</td> <td>0.1</td> </tr>
       		<tr> <th scope="row">S826-2</th> <td>80.0</td> <td>16.8</td> <td>0.1</td> <td>0.9</td> <td>1.6</td> <td>0.1</td> </tr>
@@ -167,33 +166,33 @@ table_list:
     table: |
       <table>
       	<thead>
-      		<tr> <th scope="col">OMA no.</th> <th scope="col">Object Description</th> <th scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">As</th> <th scope="col">Pb</th> <th scope="col">Ag</th> <th scope="col">Au</th> <th scope="col">Fe</th> <th scope="col">Zn</th> <th scope="col">Ca</th> </tr>
+      		<tr> <th scope="col">OMA No.</th> <th scope="col">Object Description</th> <th scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">As</th> <th scope="col">Pb</th> <th scope="col">Ag</th> <th scope="col">Au</th> <th scope="col">Fe</th> <th scope="col">Zn</th> <th scope="col">Ca</th> </tr>
       	</thead>
       	<tbody>
-      		<tr> <th scope="row">2002.018</th> <td>Botanical Frog Bead, AD 700-1000, Moche. Gold</td> <td>13.2</td> <td></td> <td></td> <td></td> <td>14.6</td> <td>72.3</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2002.057</th> <td>Teeth Design Mouthpiece, AD 300-700, Moche. Gold</td> <td>27.8</td> <td></td> <td></td> <td></td> <td>17.0</td> <td>55.2</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2003.078.1</th> <td>Plume, AD 300-700, Nasca. Gold</td> <td>1.9</td> <td></td> <td></td> <td></td> <td>29.8</td> <td>68.3</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2003.078.2</th> <td>Plume, AD 300-700, Nasca. Gold</td> <td>4.5</td> <td></td> <td></td> <td></td> <td>23.0</td> <td>72.6</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.029</th> <td>Ornament, AD 100-300, Chimu. Copper</td> <td>93.0</td> <td></td> <td>4.1</td> <td></td> <td></td> <td></td> <td>3.0</td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.03</th> <td>Ring with two birds, AD 1100-1400, Chimu.</td> <td>97.4</td> <td>2.6</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.032</th> <td>Crocodile tumi, AD 1100-1400, Chimu. Copper/tumbaga</td> <td>97.7</td> <td>2.3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.052</th> <td>Tumi, AD 1100-1400, Lambayeque/Chimu. Copper</td> <td>90.4</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td>2.0</td> <td></td> <td>1.9</td> </tr>
-      		<tr> <th scope="row">2004.053</th> <td>Tumi, AD 200-700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.054</th> <td>Tumi, AD 200-700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.5</td> <td></td> <td>1.5</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.071</th> <td>Spoon, AD 200-500</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.074</th> <td>Top of knife, AD 450-550, Moche. Copper</td> <td>46.4</td> <td></td> <td></td> <td>1.7</td> <td></td> <td></td> <td>8.0</td> <td>35.2</td> <td>8.7</td> </tr>
-      		<tr> <th scope="row">2004.080.1</th> <td>Ear Spools, AD 1100-1400, Moche? Copper</td> <td>60.4</td> <td></td> <td>1.0</td> <td></td> <td>38.5</td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.080.2</th> <td>Ear Spools, AD 1100-1400, Moche? Copper</td> <td>42.7</td> <td></td> <td>0.7</td> <td></td> <td>56.6</td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.096</th> <td>Vessel of a figure, AD 200-400, Nasca</td> <td>2.4</td> <td></td> <td></td> <td></td> <td>31.2</td> <td>66.4</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.097</th> <td>Tweezers, AD 500-800, Nasca. Gold</td> <td>3.7</td> <td></td> <td></td> <td></td> <td>24.9</td> <td>71.4</td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.104.1</th> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>92.6</td> <td></td> <td>7.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.104.2</th> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.104.3</th> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.104.4</th> <td>Metal Needle, AD 1000-1500, Chancay</td> <td>94.3</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.112.1</th> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>97.2</td> <td></td> <td>2.8</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.112.2</th> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>94.6</td> <td></td> <td>5.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.112.3</th> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>97.0</td> <td></td> <td>3.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
-      		<tr> <th scope="row">2004.112.4</th> <td>Bird bead, AD 1100-1400, Chimu. Metal</td> <td>86.4</td> <td></td> <td></td> <td></td> <td>11.7</td> <td></td> <td>1.8</td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2002.018</th> <td>Botanical frog bead, AD 700–1000, Moche. Gold</td> <td>13.2</td> <td></td> <td></td> <td></td> <td>14.6</td> <td>72.3</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2002.057</th> <td>Teeth design mouthpiece, AD 300–700, Moche. Gold</td> <td>27.8</td> <td></td> <td></td> <td></td> <td>17.0</td> <td>55.2</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2003.078.1</th> <td>Plume, AD 300–700, Nasca. Gold</td> <td>1.9</td> <td></td> <td></td> <td></td> <td>29.8</td> <td>68.3</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2003.078.2</th> <td>Plume, AD 300–700, Nasca. Gold</td> <td>4.5</td> <td></td> <td></td> <td></td> <td>23.0</td> <td>72.6</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.029</th> <td>Ornament, AD 100–300, Chimu. Copper</td> <td>93.0</td> <td></td> <td>4.1</td> <td></td> <td></td> <td></td> <td>3.0</td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.03</th> <td>Ring with two birds, AD 1100–1400, Chimu.</td> <td>97.4</td> <td>2.6</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.032</th> <td>Crocodile tumi, AD 1100–1400, Chimu. Copper/tumbaga</td> <td>97.7</td> <td>2.3</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.052</th> <td>Tumi, AD 1100–1400, Lambayeque/Chimu. Copper</td> <td>90.4</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td>2.0</td> <td></td> <td>1.9</td> </tr>
+      		<tr> <th scope="row">2004.053</th> <td>Tumi, AD 200–700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.054</th> <td>Tumi, AD 200–700, Lambayeque/Chimu. Copper/tumbaga</td> <td>98.5</td> <td></td> <td>1.5</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.071</th> <td>Spoon, AD 200–500</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.074</th> <td>Top of knife, AD 450–550, Moche. Copper</td> <td>46.4</td> <td></td> <td></td> <td>1.7</td> <td></td> <td></td> <td>8.0</td> <td>35.2</td> <td>8.7</td> </tr>
+      		<tr> <th scope="row">2004.080.1</th> <td>Ear spools, AD 1100–1400, Moche? Copper</td> <td>60.4</td> <td></td> <td>1.0</td> <td></td> <td>38.5</td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.080.2</th> <td>Ear spools, AD 1100–1400, Moche? Copper</td> <td>42.7</td> <td></td> <td>0.7</td> <td></td> <td>56.6</td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.096</th> <td>Vessel of a figure, AD 200–400, Nasca</td> <td>2.4</td> <td></td> <td></td> <td></td> <td>31.2</td> <td>66.4</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.097</th> <td>Tweezers, AD 500–800, Nasca. Gold</td> <td>3.7</td> <td></td> <td></td> <td></td> <td>24.9</td> <td>71.4</td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.104.1</th> <td>Metal needle, AD 1000–1500, Chancay</td> <td>92.6</td> <td></td> <td>7.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.104.2</th> <td>Metal needle, AD 1000–1500, Chancay</td> <td>98.1</td> <td></td> <td>1.9</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.104.3</th> <td>Metal needle, AD 1000–1500, Chancay</td> <td>95.0</td> <td></td> <td>5.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.104.4</th> <td>Metal needle, AD 1000–1500, Chancay</td> <td>94.3</td> <td></td> <td>5.7</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.112.1</th> <td>Bird bead, AD 1100–1400, Chimu. Metal</td> <td>97.2</td> <td></td> <td>2.8</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.112.2</th> <td>Bird bead, AD 1100–1400, Chimu. Metal</td> <td>94.6</td> <td></td> <td>5.4</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.112.3</th> <td>Bird bead, AD 1100–1400, Chimu. Metal</td> <td>97.0</td> <td></td> <td>3.0</td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> </tr>
+      		<tr> <th scope="row">2004.112.4</th> <td>Bird bead, AD 1100–1400, Chimu. Metal</td> <td>86.4</td> <td></td> <td></td> <td></td> <td>11.7</td> <td></td> <td>1.8</td> <td></td> <td></td> </tr>
       	</tbody>
       </table>
 
@@ -202,7 +201,6 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Incralac formulations based on FTIR analysis</caption>
         <thead>
           <tr><th scope="col">Distributor</th> <th scope="col">Base acrylic resin</th> <th scope="col">Additives</th> </tr>
         </thead>
@@ -221,9 +219,8 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Table 37.2. FTIR assignments of key materials</caption>
         <thead>
-          <tr> <th scope="col">Incralac Absorption maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
+          <tr> <th scope="col">Incralac Absorption Maxima (cm<sup>–1</sup>)</th> <th scope="col">Assignment<sup>1</sup></th></tr>
         </thead>
         <tbody>
           <tr> <th scope="row"3444</th> <td>Carbonyl ester harmonic</td> </tr>
@@ -237,13 +234,13 @@ table_list:
           <tr> <th scope="row">1474</th> <td><em>δ</em> CH<sub>2</sub> main chain in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">1449</th> <td><em>δ</em> CH<sub>3</sub>-CH<sub>2</sub>-O side chain + <em>δ<sub>as</sub></em> CH<sub>3</sub> in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">1387</th> <td><em>δ<sub>s </sub></em>CH<sub>3</sub> side chain in base acrylic resin<sup>2</sup></td> </tr>
-          <tr> <th scope="row">1265</th> <td><em>v</em> C-O in epoxy-ring in ESO<sup>5</sup></td> </tr>
+          <tr> <th scope="row">1265</th> <td><em>v</em> C-O in epoxy ring in ESO<sup>5</sup></td> </tr>
           <tr> <th scope="row">1238, 1177, 1147</th> <td><em>v</em> C-O-C in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">1027</th> <td><em>v</em> C-C-O in base acrylic resin<sup>2</sup></td> </tr>
           <tr> <th scope="row">990</th> <td><em>δ</em> Η-C-Η, <em>τ</em> CH<sub>3</sub> in base acrylic resin</td> </tr>
           <tr> <th scope="row">875</th> <td><em>δ<sub>oop </sub></em>C-H in substituted aryl ring in BTA<sup>3</sup></td> </tr>
           <tr> <th scope="row">848</th> <td><em>δ</em> C-C-CH<sub>3</sub> (α-CH3 of EMA in base acrylic resin)<sup>2</sup></td> </tr>
-          <tr> <th scope="row">824</th> <td><em>δ</em> (CCO) in epoxy-ring in ESO<sup>5</sup></td> </tr>
+          <tr> <th scope="row">824</th> <td><em>δ</em> (CCO) in epoxy ring in ESO<sup>5</sup></td> </tr>
           <tr> <th scope="row">753</th> <td><em>δ<sub>oop</sub></em> C-C=O</td> </tr>
           <tr> <th scope="row">688</th> <td>Aromatic ring vibration in BTA<sup>3</sup></td> </tr>
           <tr> <th scope="row">606</th> <td>Triazole ring vibration in BTA<sup>3</sup></td> </tr>
@@ -251,7 +248,7 @@ table_list:
         <tfoot>
           <tr><td colspan="2">
           <ul>
-            <li><sup>1</sup> Abbreviations: BTA: benzotriazole; ESO: epoxidized soybean oil; v: stretching vibration; δ: bending vibration; s: symmetric; as: anti-symmetric; oop: out-of-plane; ip: in-plane.li>
+            <li><sup>1</sup> Abbreviations: BTA: benzotriazole; ESO: epoxidized soybean oil; v: stretching vibration; δ: bending vibration; s: symmetric; as: anti-symmetric; oop: out-of-plane; ip: in-plane.</li>
             <li><sup>2</sup> Lazzari and Chiantore 2000.</li>
             <li><sup>3</sup> Brostoff 2003.</li>
             <li><sup>4</sup> Ioakimoglou et al. 1999, Boyatzis et al. 2002.</li>
@@ -266,26 +263,25 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Condition of coatings on objects from the National Archaeological Museum as investigated through FTIR spectroscopy</caption>
         <thead>
           <tr> <th rowspan="2" scope="col">Registry #</th> <th rowspan="2" scope="col">Description</th> <th rowspan="2" scope="col">Region and Historical Period</th> <th rowspan="2" scope="col">Year of Conservation</th> <th colspan="3" scope="col">Pre-treatment</th> <th colspan="6" scope="col">Application of Coating</th> <th colspan="2" scope="col">Arbitrary grading</th> </tr>
-          <tr> <th scope="col">Mechanical</th> <th scope="col">Chemical</th> <th scope="col">Stabilization</th> <th scope="col">Incralac solvent</th> <th scope="col">Incralac Concentration (%)</th> <th scope="col">Matting Agent</th> <th scope="col">Distributor</th> <th scope="col">SEM analysis<sup>1</sup></th> <th scope="col">FTIR analysis of corrosion products<sup>1</sup></th> <th scope="col">FTIR analysis of coating</th> <th scope="col">Degradation grading<sup>2</sup></th> </tr>
+          <tr> <th scope="col">Mechanical</th> <th scope="col">Chemical</th> <th scope="col">Stabilization</th> <th scope="col">Incralac Solvent</th> <th scope="col">Incralac Concentration (%)</th> <th scope="col">Matting Agent</th> <th scope="col">Distributor</th> <th scope="col">SEM Analysis<sup>1</sup></th> <th scope="col">FTIR Analysis of Corrosion Products<sup>1</sup></th> <th scope="col">FTIR Analysis of Coating</th> <th scope="col">Degradation Grading<sup>2</sup></th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">X 7934</th> <th scope="row">Jug</th> <td>Greece, 5th c. BC</td> <td>1979</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>Yes</td> <td>E or F</td> <td>Cu, Al, Si, Fe, Mg, Ca, S</td> <td>Calcite, silicates, copper oxides</td> <td>Low levels of degradation: mainly hydrolytic and depolymerization</td> <td>4</td> </tr>
           <tr> <th scope="row">X 1974</th> <th scope="row">Statuette, Isis with Horus</th> <td>Egypt, 26th–30th Dynasty (600–300 BC)</td> <td>1985</td> <td>Yes</td> <td>Yes</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>No</td> <td>E or F</td> <td>Cu, Sn, Pb, Al, Ca, Cl</td> <td>Copper oxides and hydroxides, traces of organic coating, moisture</td> <td>No sign of degradation</td> <td>0</td> </tr>
           <tr> <th scope="row">Χ 21039</th> <th scope="row">Mirror</th> <td>?</td> <td>1991</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>No</td> <td>E or F</td> <td>Cu, Pb, Al, Si, Fe, Ca </td> <td>Copper oxides, malachite</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
-          <tr> <th scope="row">Χ 26175</th> <th scope="row">kyathos</th> <td>Greece, end of 7th – beginning of 6th c. BC</td> <td>1998</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>A</td> <td>N.A.</td> <td>N.A.</td> <td>Low levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>4</td> </tr>
-          <tr> <th scope="row">Χ 25604</th> <th scope="row">ring</th> <td>?</td> <td>2000</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>High levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>5</td> </tr>
-          <tr> <th scope="row">Χ 17166</th> <th scope="row">kringle</th> <td>Greece, possibly Geometric period</td> <td>1999</td> <td>No</td> <td>Yes</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>Significantly high levels of degradation: mainly hydrolytic and depolymerization</td> <td>9</td> </tr>
-          <tr> <th scope="row">Χ 8297</th> <th scope="row">strigil</th> <td>Greece, 5th c BC</td> <td>1997</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>Yes</td> <td>E</td> <td>Cu, Sn, Al, Ca , S, P, Si</td> <td>Malachite, organic coating residue</td> <td>Very low levels of degradation</td> <td>[BLANK]</td> </tr>
-          <tr> <th scope="row">Π 7317</th> <th scope="row">sword</th> <td>end of 15th–beginning of 14th c. BC </td> <td>2003</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>No</td> <td>A</td> <td>Cu, Sn  Al, Si, Fe, Ca, As, S, P</td> <td>Malachite</td> <td>Low levels of degradation</td> <td>3</td> </tr>
+          <tr> <th scope="row">Χ 26175</th> <th scope="row">Kyathos</th> <td>Greece, end of 7th – beginning of 6th c. BC</td> <td>1998</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>A</td> <td>N.A.</td> <td>N.A.</td> <td>Low levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>4</td> </tr>
+          <tr> <th scope="row">Χ 25604</th> <th scope="row">Ring</th> <td>?</td> <td>2000</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>High levels of degradation: mainly hydrolytic and depolymerization; also signs of bio-degradation (formation of nitrates)</td> <td>5</td> </tr>
+          <tr> <th scope="row">Χ 17166</th> <th scope="row">Kringle</th> <td>Greece, possibly Geometric period</td> <td>1999</td> <td>No</td> <td>Yes</td> <td>No</td> <td>Toluene</td> <td>8–10%</td> <td>Yes</td> <td>E</td> <td>N.A.</td> <td>N.A.</td> <td>Significantly high levels of degradation: mainly hydrolytic and depolymerization</td> <td>9</td> </tr>
+          <tr> <th scope="row">Χ 8297</th> <th scope="row">Strigil</th> <td>Greece, 5th c. BC</td> <td>1997</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>Toluene</td> <td>?</td> <td>Yes</td> <td>E</td> <td>Cu, Sn, Al, Ca , S, P, Si</td> <td>Malachite, organic coating residue</td> <td>Very low levels of degradation</td> <td>[BLANK]</td> </tr>
+          <tr> <th scope="row">Π 7317</th> <th scope="row">Sword</th> <td>end of 15th–beginning of 14th c. BC </td> <td>2003</td> <td>Yes</td> <td>No</td> <td>No</td> <td>Toluene</td> <td>8–10</td> <td>No</td> <td>A</td> <td>Cu, Sn  Al, Si, Fe, Ca, As, S, P</td> <td>Malachite</td> <td>Low levels of degradation</td> <td>3</td> </tr>
         </tbody>
         <tfoot>
           <tr> <td colspan="15">
             <ul>
               <li><sup>1</sup> Corrosion products were analyzed when detaching powder particles from the objects’ surface was feasible.</li>
-              <li><sup>2</sup> Arbitrary scale, based on the absorption of C=C at approx. 1646 cm–1 as a marker for oxidative degradation (see main text).</li>
+              <li><sup>2</sup> Arbitrary scale, based on the absorption of C=C at approx. 1646 cm<sup>–1</sup> as a marker for oxidative degradation (see main text).</li>
             </ul>
           </td></tr>
         </tfoot>
@@ -296,10 +292,9 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Condition of coatings on objects from the Epigraphic and Numismatic Museum as investigated through FTIR spectroscopy</caption>s
         <thead>
           <tr> <th rowspan="2" scope="col">Group</th> <th rowspan="2" scope="col">Description</th> <th rowspan="2" scope="col">Region/Historical Period</th> <th rowspan="2" scope="col">Year of Conservation</th> <th colspan="3" scope="col">Pre-treatment</th> <th colspan="6" scope="col">Application of Coating</th> <th colspan="2" scope="col">Arbitrary grading</th> </tr>
-          <tr> <th scope="col">Mechanical</th> <th scope="col">Chemical</th> <th scope="col">Stabilization</th> <th scope="col">Coating thickness (μm)</th> <th scope="col">Coating layers</th> <th scope="col">Incralac solvent</th> <th scope="col">Incralac Concentration (%)</th> <th scope="col">Matting Agent</th> <th scope="col">Distributor</th> <th scope="col">FTIR results</th> <th scope="col">Degradation grading<sup>2</sup></th> </tr>
+          <tr> <th scope="col">Mechanical</th> <th scope="col">Chemical</th> <th scope="col">Stabilization</th> <th scope="col">Coating Thickness (μm)</th> <th scope="col">Coating Layers</th> <th scope="col">Incralac Solvent</th> <th scope="col">Incralac Concentration (%)</th> <th scope="col">Matting Agent</th> <th scope="col">Distributor</th> <th scope="col">FTIR Results</th> <th scope="col">Degradation Grading<sup>2</sup></th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">A</th> <th scope="row">coin</th> <th scope="row">Byzantine</th> <td>2002</td> <td>Yes</td> <td>No</td> <td>BTA</td> <td>1.5</td> <td>2</td> <td>Toluene</td> <td>10–15</td> <td>Second layer, only</td> <td>D</td> <td>Very low levels of degradation</td> <td>1</td> </tr>
@@ -313,15 +308,15 @@ table_list:
       </table>
 
   - id: "39.1"
-    caption: "Chemical analysis of the alloys as measured using LIPS (see maps in fig. 39.7). r: right. l: left. f: front. Note that the collar belongs to the main recasting and at the left side it is superimposed to the ancient metal wall along most of the right side and for a shorter stretch of the left side in proximity of the withers."
+    caption: "Chemical analysis of the alloys as measured using LIPS (see maps in fig. 39.7). r: right. l: left. f: front. Note that the collar belongs to the main recasting, and at the left side it is superimposed to the ancient metal wall along most of the right side and for a shorter stretch of the left side in proximity of the withers."
     media_type: html
     table: |
         <table>
           <thead>
-            <tr> <th scope="col">Site</th> <th scope="col">Sn (wt%)</th> <th scope="col">Pb (wt%)</th> <th scope="col">Zn (wt%)</th> <th scope="col">Ni (wt%)</th> <th scope="col">Fe (wt%)</th> <th scope="col">Comment</th> </tr>
+            <tr> <th scope="col">Site</th> <th scope="col">Sn (wt%)</th> <th scope="col">Pb (wt%)</th> <th scope="col">Zn (wt%)</th> <th scope="col">Ni (wt%)</th> <th scope="col">Fe (wt%)</th> <th scope="col">Comments</th> </tr>
           </thead>
           <tbody>
-            <tr> <th scope="row">1 Throat (f)</th> <td>11.8 ± 1.0</td> <td>0.5 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan="14">Main Alloy</td> </tr>
+            <tr> <th scope="row">1 Throat (f)</th> <td>11.8 ± 1.0</td> <td>0.5 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan="14">Main alloy</td> </tr>
             <tr> <th scope="row">5 Neck (l)</th> <td>11.8 ± 1.0</td> <td>0.6 ± 0.2</td> <td>-</td> <td>-</td> <td>-</td> </tr>
             <tr> <th scope="row">13 Cheek (l)</th> <td>10.8 ± 1.3</td> <td>1.1 ± 0.4</td> <td>-</td> <td>-</td> <td>0.1 ± 0.05</td> </tr>
             <tr> <th scope="row">15 Muzzle (l)</th> <td>10.9 ± 1.3</td> <td>1.6 ± 0.4</td> <td>-</td> <td>-</td> <td>0.13 ± 0.04</td> </tr>
@@ -353,7 +348,7 @@ table_list:
             <tr> <th scope="row">34 Collar (outer l)</th> <td>4.6 ± 0.4</td> <td>2.8 ± 0.4</td> <td>-</td> <td>1.7 ± 0.2</td> <td>-</td> </tr>
             <tr> <th scope="row">24 Plug (r)</th> <td>10.6 ± 1.1</td> <td>0.9 ± 0.3</td> <td>-</td> <td>-</td> <td>-</td> <td rowspan="2">Ancient plugs</td> </tr>
             <tr> <th scope="row">25 Plug (r)</th> <td>11.7 ± 1.1</td> <td>0.6 ± 0.3</td> <td>-</td> <td>-</td> <td>-</td> </tr>
-            <tr> <th scope="row">14 Phalerae plug (l)</th> <td>4.5 ± 0.6</td> <td>2.6 ± 0.4</td> <td>-</td> <td>1.6 ± 0.2</td> <td>-</td> <td rowspan="3">Plugs corresponding to the anchoring holes of the Phalera</td> </tr>
+            <tr> <th scope="row">14 Phalerae plug (l)</th> <td>4.5 ± 0.6</td> <td>2.6 ± 0.4</td> <td>-</td> <td>1.6 ± 0.2</td> <td>-</td> <td rowspan="3">Plugs corresponding to the anchoring holes of the phalera</td> </tr>
             <tr> <th scope="row">19 Phalerae plug (r)</th> <td>3.5 ± 0.5</td> <td>2.6 ± 0.5</td> <td>0.5 ± 0.2</td> <td>1.5 ± 0.2</td> <td>-</td> </tr>
             <tr> <th scope="row">27 Phalerae plug (r)</th> <td>3.6 ± 0.3</td> <td>1.7 ± 0.2</td> <td>-</td> <td>1.2 ± 0.1</td> <td>-</td> </tr>
           </tbody>
@@ -364,7 +359,6 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Compositional analysis of bronze samples.</caption>
         <thead>
           <tr> <th scope="col">Sample</th> <th scope="col">Object</th> <th scope="col">Part</th> <th scope="col">Fe (wt%)</th> <th scope="col">Co</th> <th scope="col">Ni</th> <th scope="col">Cu</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Sb</th> <th scope="col">Sn</th> <th scope="col">Ag</th> <th scope="col">Bi</th> <th scope="col">Pb</th> <th scope="col">Au</th> <th scope="col">Cd</th> <th scope="col">S</th> <th scope="col">Al</th> <th scope="col">Si</th> <th scope="col">Mn</th> </tr>
         </thead>
@@ -435,12 +429,12 @@ table_list:
       </table>
 
   - id: "40.2"
-    caption: "Lead isotope ratios of the investigated samples. Uncertainties are about ± 0.05% for <sup>208</sup>Pb/<sup>204</sup>Pb and better than 0.03% for the other two ratios."
+    caption: "Lead-isotope ratios of the investigated samples. Uncertainties are about ± 0.05% for <sup>208</sup>Pb/<sup>204</sup>Pb and better than 0.03% for the other two ratios."
     media_type: html
     table: |
       <table>
         <thead>
-          <tr> <th scope="col"> Lab no. </th> <th scope="col"> <sup>206</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>207</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>208</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>208</sup>Pb/<sup>206</sup>Pb </th> <th scope="col"> <sup>207</sup>Pb/<sup>206</sup>Pb </th> </tr>
+          <tr> <th scope="col"> Lab No. </th> <th scope="col"> <sup>206</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>207</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>208</sup>Pb/<sup>204</sup>Pb </th> <th scope="col"> <sup>208</sup>Pb/<sup>206</sup>Pb </th> <th scope="col"> <sup>207</sup>Pb/<sup>206</sup>Pb </th> </tr>
         </thead>
       	<tbody>
       		<tr> <th scope="row"> MA-141326 </th> <td> 18.379 </td> <td> 15.636 </td> <td> 38.479 </td> <td> 2.0937 </td> <td> 0.85077 </td> </tr>
@@ -459,9 +453,8 @@ table_list:
     media_type: html
     table: |
       <table>
-        <caption>Elemental analysis of Getty herm (ICP-MS weight percent)</caption>
         <thead>
-          <tr> <th scope="col">Sample no.</th> <th scope="col">CU</th> <th scope="col">SN</th> <th scope="col">Pb</th> <th scope="col">Fe</th> <th scope="col">Co</th> <th scope="col">Ni</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Se</th> <th scope="col">Sb</th> <th scope="col">Te</th> <th scope="col">Bi</th> <th scope="col">Ag</th> <th scope="col">Sb</th> </tr>
+          <tr> <th scope="col">Sample No.</th> <th scope="col">CU</th> <th scope="col">SN</th> <th scope="col">Pb</th> <th scope="col">Fe</th> <th scope="col">Co</th> <th scope="col">Ni</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Se</th> <th scope="col">Sb</th> <th scope="col">Te</th> <th scope="col">Bi</th> <th scope="col">Ag</th> <th scope="col">Sb</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">FG 050587<br> (alloy)</td> <td>74</td> <td>8.8</td> <td>17</td> <td>0.26</td> <td>0.16</td> <td>0.04</td> <td>0.1</td> <td>0.22</td> <td>0.01</td> <td>0.164</td> <td>&lt;0.005</td> <td>0.02</td> <td>0.039</td> <td>0.164</td> </tr>
@@ -543,13 +536,12 @@ table_list:
       </table>
 
   - id: "44.1"
-    caption: LIPS chemical analyses of the horse.
+    caption: LIPS chemical analyses of the horse
     media_type: html
     table: |
       <table>
-        <caption>LIPS chemical analyses of the horse.</caption>
         <thead>
-          <tr><th scope="col">Meas. no./site</th> <th scope="col">Sn (wt %)</th> <th scope="col">Pb (wt %)</th> <th scope="col">Comment</th> </tr>
+          <tr><th scope="col">Meas. no./site</th> <th scope="col">Sn (wt %)</th> <th scope="col">Pb (wt %)</th> <th scope="col">Comments</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">1 Right ribs</th> <td>12.0 ± 1.2</td> <td>3.3 ± 0.4</td> <td rowspan="7">Main alloy</td> </tr>
@@ -577,20 +569,19 @@ table_list:
       </table>
 
   - id: "44.2"
-    caption: "LIPS chemical analyses of rider and base."
+    caption: "LIPS chemical analyses of rider and base"
     media_type: html
     table: |
       <table>
-        <caption>LIPS chemical analyses of rider and base.</caption>
         <thead>
-          <tr><th scope="col">Meas. no./site</th> <th scope="col">Sn (wt %)</th> <th scope="col">Pb (wt %)</th> <th scope="col">Comment</th> </tr>
+          <tr><th scope="col">Meas. no./site</th> <th scope="col">Sn (wt %)</th> <th scope="col">Pb (wt %)</th> <th scope="col">Comments</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">17 Head</th> <td>9.8 ± 0.7</td> <td>10.9 ± 0.8</td> <td rowspan="4">Main alloy of the rider</td> </tr>
           <tr> <th scope="row">20 Skirt (broken part)</th> <td>10.9 ± 0.7</td> <td>11.4 ± 1.1</td> </tr>
           <tr> <th scope="row">33 Mantle</th> <td>10.7 ± 0.6</td> <td>11.4 ± 1.0</td> </tr>
           <tr> <th scope="row">19 Left forearm</th> <td>10.5 ± 0.9</td> <td>9.4 ± 1.1</td> </tr>
-          <tr> <th scope="row">15 Right calf</th> <td>10.5 ± 1.1</td> <td>11.3 ± 1.0</td> <td rowspan="3">Although the legs could have been cast independently their composition is similar to that of the main alloy</td> </tr>
+          <tr> <th scope="row">15 Right calf</th> <td>10.5 ± 1.1</td> <td>11.3 ± 1.0</td> <td rowspan="3">Although the legs could have been cast independently, their composition is similar to that of the main alloy</td> </tr>
           <tr> <th scope="row">16 Left foot</th> <td>10.4 ± 1.0</td> <td>9.7 ± 0.9</td> </tr>
           <tr> <th scope="row">18 Left calf</th> <td>14.1 ± 0.8</td> <td>10.0 ± 0.5</td> </tr>
           <tr> <th scope="row">13 Scabbard</th> <td>10.7 ± 0.8</td> <td>9.9 ± 0.9</td> <td>Independent with the same composition</td> </tr>
@@ -607,7 +598,7 @@ table_list:
       </table>
 
   - id: "46.1"
-    caption: "Results from micro-XRF area scans on standard reference bronze alloys BCR-A-691 with Cu: 78.73%, Zn: 6.02%, Sn: 7.16%, Pb: 7.9%, As: 0.194%. STDMV (%) represents the standard deviation of the mean value of the elemental intensities measured from an area scan. The highlighted values estimate the standard deviation (%) of the mean values  obtained from the respective individual area scans"
+    caption: "Results from micro-XRF area scans on standard reference bronze alloys BCR-A-691 with Cu: 78.73%, Zn: 6.02%, Sn: 7.16%, Pb: 7.9%, As: 0.194%. STDMV (%) represents the standard deviation of the mean value of the elemental intensities measured from an area scan. The highlighted values estimate the standard deviation (%) of the mean values  obtained from the respective individual area scans."
     media_type: html
     table: |
       <table>

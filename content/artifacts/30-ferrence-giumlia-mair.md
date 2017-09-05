@@ -11,7 +11,7 @@ contributor:
    last_name: Giumlia-Mair
    affiliation: AGM Archeoanalisi, Merano, Italy
 abstract: |
-    For this project a large number of Minoan metal objects of various sizes, belonging to different classes, and made of different metals were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan I to Middle Minoan IIA periods, with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
+    For this project a large number of Minoan metal objects of various sizes, belonging to different classes and made of different metals, were analyzed by XRF. The items come from different sites in eastern Crete, one of which, Gournia, was excavated in the early twentieth century. The objects are mostly dated to the Early Minoan I to Middle Minoan IIA periods, with several pieces also coming from Late Minoan I contexts. The exact findspots from the older excavations were seldom recorded, so a few artifacts may be slightly earlier or later.
 
     The equipment employed for the analyses consists of a transportable XRF source on a support with devices to control its position and stability, a transformer, a stabilizer, and a computer with dedicated software. The characteristics of the equipment and its various devices, the dedicated software, and a suitable number of standards (produced ad hoc by AGM Archeoanalisi) greatly enhanced the precision of the system.
 
@@ -73,7 +73,7 @@ The XRF analyses have demonstrated that the copper-based objects from Gournia pr
 
 ## Acknowledgments
 
-We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration
+We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration.
 
 ## Notes
 
@@ -97,7 +97,7 @@ We thank the Penn Museum for permission to study, analyze, and publish the metal
 
 [^10]: Branigan 1974; Soles and Davaras 2010.
 
-[^11]: Soles and Davaras 2010, 1–3.
+[^11]: Soles 2016, 249, pls. LXXX–LXXXIII.
 
 [^12]: Evans 1930, 46–57, plates XVI, XVII.
 

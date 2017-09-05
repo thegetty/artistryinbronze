@@ -65,16 +65,16 @@ figure_list:
   - id: "1.8"
     src: fig_1.08_Plattner_Gschwantler_Vak.jpg
     caption: >
-      Black-and-white image from 1897 without the filling mortar.
+      Black-and-white images from 1897 without the filling mortar.
     credit: >
-      Image: KHM-Museumsverband
+      Images: KHM-Museumsverband
 
   - id: "1.9"
     src: fig_1.09_Plattner_Gschwantler_Vak.jpg
     caption: >
       Top: Left hand with the original thumb and ring finger. Bottom: Index, middle, and little fingers are recast bronze additions.
     credit: >
-      Image: KHM-Museumsverband
+      Images: KHM-Museumsverband
 
   - id: "1.10"
     src: fig_1.10_Plattner_Gschwantler_Vak.jpg
@@ -310,7 +310,7 @@ figure_list:
   - id: "5.2"
     src: fig_5.02_Butz.jpg
     caption: >
-      Frontal view of the bronze head of Arsinoë III, 30 x 20 x 30 (11 ¾ x 7 ⅝ x 11 ¾ in.). Mantua Museo Civico di Palazzo Te, Acerbi Collection, inv. no. 96190279.
+      Frontal view of the bronze head of Arsinoë III, 30 x 20 x 30 cm (11 ¾ x 7 ⅝ x 11 ¾ in.). Mantua Museo Civico di Palazzo Te, Acerbi Collection, inv. no. 96190279.
     credit: >
       Image: © Museo Civico di Palazzo Te, Mantua
 
@@ -331,7 +331,7 @@ figure_list:
   - id: "5.5"
     src: fig_5.05_Butz.jpg
     caption: >
-      The Archelaos Relief (“Apotheosis of Homer”), approx. 121ca x 76 cm (47 ¾ x 30 in.). London, British Museum, inv. 1819,0812.1.
+      The Archelaos Relief (“Apotheosis of Homer”), approx. 121 x 76 cm (47 ¾ x 30 in.). London, British Museum, inv. 1819,0812.1.
     credit: >
       Image: Courtesy of John Pollini
 
@@ -340,13 +340,14 @@ figure_list:
     caption: >
       Portraits of Ptolemy IV, Arsinoë III, and Homer from the Archelaos Relief viewed from side angle
     credit: >
+    Image: Courtesy of John Pollini
 
   - id: "5.6b"
     src: fig_5.06b_Butz.jpg
     caption: >
       Detail from the bottom register of the Archelaos Relief of the royal couple, Ptolemy IV and Arsinoë III, crowning Homer.
     credit: >
-      Image: Courtesy of John Pollini
+      Image: P. Butz
 
   - id: "5.7"
     src: fig_5.07_Butz.jpg
@@ -461,8 +462,9 @@ figure_list:
   - id: "8.4"
     src: fig_8.04_Mattusch.jpg
     caption: >
-      *Left.* Piombino Apollo. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br. 2. *Right.* Statue of Apollo/kouros, from the triclinium of the House of Gaius Julius Polybius in Pompeii (IX 13.1–13). Pompeii, Soprintendenza Speciale per i Beni archeologici di Pompei, Ercolano e Stabia, inv. 22924
+      Statue of young Bacchus, from the House of M. Fabius Rufus in Pompeii (VII 16.22). Pompeii, Soprintendenza Speciale per i Beni archeologici di Pompei, Ercolano e Stabia, inv. 13112
     credit: >
+      Image: By author
 
   - id: "8.5"
     src: fig_8.05_Mattusch.jpg
@@ -513,7 +515,7 @@ figure_list:
   - id: "9.4"
     src: fig_9.04_Adornato.jpg
     caption: >
-      Drawing of the base of Kyniskos. Olympia, Museum of the History of the Olympic Games, inv. 526. Dittenberger-Purgold 1896, no. 149
+      Drawing of the base of Kyniskos. Olympia, Museum of the History of the Olympic Games, inv. 526 Dittenberger-Purgold 1896, no. 149
     credit: >
 
   - id: "10.1"
@@ -575,19 +577,19 @@ figure_list:
   - id: "12.1"
     src: fig_12.01_Horne.jpg
     caption: >
-      Fragment of the Erechtheion construction record of the Athenian Building Commission, ca. 409–405 BC. Paton, J. 1927. Erechtheum. Cambridge: Harvard University Press
+      Fragment of the Erechtheion construction record of the Athenian Building Commission, ca. 409–405 BC. After Paton, Caskey, and Stevens 1927
     credit: >
 
   - id: "12.2"
     src: fig_12.04_Horne.jpg
     caption: >
-      Sculptors/ ethnics (citizenship) on statue bases of Hellenistic Rhodes. Goodlett, V. 1991. “Rhodian Sculptural Workshops.” *AJA* 95: 669–681
+      Sculptor’s ethnics (citizenship) on statue bases of Hellenistic Rhodes. After Goodlett 1991
     credit: >
 
   - id: "12.3"
     src: fig_12.05_Horne.jpg
     caption: >
-      Sculpture production in Hellenistic Rhodes (350 BC–AD 50). Goodlett, V. 1991. “Rhodian Sculptural Workshops.” *AJA* 95: 669–681
+      Sculpture production in Hellenistic Rhodes (350 BC–AD 50). After Goodlett 1991
     credit: >
 
   - id: "13.1"
@@ -904,21 +906,21 @@ figure_list:
     caption: >
       Jupiter from Piandimeleto (PU). H: 11.6 cm (4 ½ in.). Museo Archeologico Nazionale delle Marche, Ancona, inv. 186.
     credit: >
-      Image: By the author, Nicoletta Frapiccini
+      Image: Nicoletta Frapiccini
 
   - id: "17.2"
     src: fig_17.02_Frapiccini.jpg
     caption: >
       Jupiter. H: 11 cm (4 ¼ in.). Museo Archeologico Nazionale delle Marche, Ancona, inv. 563.
     credit: >
-      Image: By the author, Nicoletta Frapiccini
+      Image: Nicoletta Frapiccini
 
   - id: "17.3"
     src: fig_17.03_Frapiccini.jpg
     caption: >
       Mercury. H: 11 cm (4 ¼ in.), including base. Museo Archeologico Nazionale delle Marche, Ancona, inv. 525.
     credit: >
-      Image: By the author, Nicoletta Frapiccini
+      Image: Nicoletta Frapiccini
 
   - id: "17.4"
     src: fig_17.04_Frapiccini.JPG
@@ -1222,19 +1224,19 @@ figure_list:
     caption: >
       Limestone *loculus* plaque of Repabôl, son of Rustic’â, (son of) Šaddai, from Palmyra. Ca. AD 180–200. Minneapolis, Minneapolis Institute of Arts, MN, USA. Gift of the Miller Family in memory of Dulcy B. Miller, inv. 2008.28.2.
     credit: >
-      Image: Minneapolis Institute of Art
+      Image: Minneapolis Institute of Arts
 
   - id: "23.2"
     src: fig_23.02_Albertson.jpg
     caption: >
       Detail of fig. 23.1. Gift of the Miller Family in memory of Dulcy B. Miller.
     credit: >
-      Image: Minneapolis Institute of Art
+      Image: Minneapolis Institute of Arts
 
   - id: "23.3"
     src: fig_23.03_Albertson.jpg
     caption: >
-      Bronze bust of a young male, from Roman Gaul. Ca. AD 50–80. Malibu, J. Paul Getty Museum, Villa Collection inv. 89.AB.67.2.
+      Bronze bust of a young male, from Roman Gaul. Ca. AD 50–80. Malibu, J. Paul Getty Museum, Villa Collection, inv. 89.AB.67.2.
     credit: >
       Image: Courtesy of the J. Paul Getty Museum
 
@@ -1248,21 +1250,21 @@ figure_list:
   - id: "23.5"
     src: fig_23.05_Albertson.jpg
     caption: >
-      Limestone *loculus* plaque, “The Beauty of Palmyra,” from Palmyra. Ca. AD 200–210. Copenhagen, Ny Carlsberg Glyptotek inv. 2795.
+      Limestone *loculus* plaque, “The Beauty of Palmyra,” from Palmyra. Ca. AD 200–210. Copenhagen, Ny Carlsberg Glyptotek, inv. 2795.
     credit: >
       Image: Pictures from History / Bridgeman Images
 
   - id: "23.6"
     src: fig_23.06_Albertson.jpg
     caption: >
-      Limestone head of a woman, probably from a banquet relief, from Palmyra. Ca. AD 200–220. 10 ¾ × 7 × 5 in. (27.31 × 17.78 × 12.7 cm). Los Angeles, Los Angeles County Museum of Art inv. M.82.77.2.
+      Limestone head of a woman, probably from a banquet relief, from Palmyra. Ca. AD 200–220. 10 ¾ × 7 × 5 in. (27.31 × 17.78 × 12.7 cm). Los Angeles, Los Angeles County Museum of Art, inv. M.82.77.2.
     credit: >
       Gift of Robert Blaugrund. Image: Courtesy Los Angeles County Museum of Art, [www.lacma.org](http://www.lacma.org)
 
   - id: "23.7"
     src: fig_23.07_Albertson.jpg
     caption: >
-      Bronze head of Marcus Aurelius, found near Brackley, Northamptonshire (England). Ca. AD 170. Oxford, Ashmolean Museum inv. AN 2011.46.
+      Bronze head of Marcus Aurelius, found near Brackley, Northamptonshire (England). Ca. AD 170. Oxford, Ashmolean Museum, inv. AN 2011.46.
     credit: >
       Image: Ashmolean Museum, University of Oxford, UK/Bridgeman Images
 
@@ -1426,7 +1428,7 @@ figure_list:
     caption: >
       Marble dinoid volute-krater. Greek, neo-Attic, first century BC–first century AD. Private collection.
     credit: >
-      Image: Courtesy of Sotheby's, Inc. © 2017
+      Image: Courtesy of Sotheby's, Inc. ©&#160;2017
 
   - id: "26.8"
     src: fig_26.08_Gaunt.jpg
@@ -1495,28 +1497,28 @@ figure_list:
     caption: >
       Present condition of the anthropomorphic vessel. National Museum of Beirut, inv. 25494.
     credit: >
-      Image: © Ministry of Culture/Directorate General of Antiquities-National Museum of Beirut
+      Image: © Ministry of Culture / Directorate General of Antiquities-National Museum of Beirut
 
   - id: "28.2"
     src: fig_28.02_Fani.jpg
     caption: >
       Left profile. National Museum of Beirut, inv. 25494.
     credit: >
-      Image: © Ministry of Culture/Directorate General of Antiquities-National Museum of Beirut
+      Image: © Ministry of Culture / Directorate General of Antiquities-National Museum of Beirut
 
   - id: "28.3"
     src: fig_28.03_Fani.jpg
     caption: >
       Right profile. National Museum of Beirut, inv. 25494.
     credit: >
-      Image: © Ministry of Culture/Directorate General of Antiquities-National Museum of Beirut
+      Image: © Ministry of Culture / Directorate General of Antiquities-National Museum of Beirut
 
   - id: "28.4"
     src: fig_28.04_Fani.jpg
     caption: >
       Back of vessel. National Museum of Beirut, inv. 25494.
     credit: >
-      Image: © Ministry of Culture/Directorate General of Antiquities-National Museum of Beirut
+      Image: © Ministry of Culture / Directorate General of Antiquities-National Museum of Beirut
 
   - id: "28.5"
     src: fig_28.05_Fani.jpg
@@ -1593,7 +1595,7 @@ figure_list:
   - id: "29.6"
     src: fig_29.06_Lester.jpg
     caption: >
-      A saucepan from Pompeii. Before AD 79.
+      A foot with a recess to support a tray or a bucket, from Caesarea, eleventh century AD. IAA reg. no. 1996-372. 
     credit: >
       Image: Courtesy of the IAA
 
@@ -1765,7 +1767,7 @@ figure_list:
   - id: "32.7"
     src: fig_32.07_Ignatiadou.jpg
     caption: >
-      Veroia. Bronze semi-cylindrical case. Probably third BC. Archaeological Museum of Veroia.
+      Veroia. Bronze semi-cylindrical case. Probably late third century BC. Archaeological Museum of Veroia.
     credit: >
       Image: Courtesy of A. Koukouvou
 
@@ -1820,7 +1822,7 @@ figure_list:
   - id: "34.7"
     src: fig_34.07_Franken.jpg
     caption: >
-      Victoria. H: 12.9 cm. Reggio Emilia, Museo “Gaetano Chierici,” inv. 15242
+      Victoria. H:&#160;12.9 cm. Reggio Emilia, Museo “Gaetano Chierici,” inv. 15242
     credit: >
       Image: Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, Archivio Fotografico
 
@@ -1996,7 +1998,7 @@ figure_list:
   - id: "37.2"
     src: fig_37.02_Boyatzis.jpg
     caption: >
-      FTIR spectra of Incralac (distributor B) after two consecutive artificial ageing cycles, focusing on the range 1847–512 cm<sup>–1</sup>). Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c\) after Cycle 2. For ageing conditions, see Experimental Section
+      FTIR spectra of Incralac (distributor B) after two consecutive artificial aging cycles, focusing on the range 1847–512 cm<sup>–1</sup>. Curves indicate different stages of the material: (a) initial stage; (b) after Cycle 1; and (c\) after Cycle 2. For aging conditions, see Experimental Section
     credit: >
 
   - id: "37.3"
@@ -2016,7 +2018,7 @@ figure_list:
   - id: "37.5"
     src: fig_37.05_Boyatzis.jpg
     caption: >
-      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm
+      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm.
     credit: >
 
   - id: "37.6"
@@ -2285,7 +2287,7 @@ figure_list:
   - id: "41.6"
     src: fig_41.06_Maish.jpg
     caption: >
-      Cold working marks from probable repairs, top of head.
+      Cold-working marks from probable repairs, top of head.
     credit: >
       Image: J. Maish
 
@@ -2313,7 +2315,7 @@ figure_list:
   - id: "42.1"
     src: fig_42.01_Mille-Descamps.jpg
     caption: >
-      Piombino Apollo, 120–100 BC. H. 115.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br2.
+      Piombino Apollo, 120–100 BC. H: 115.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br2.
     credit: >
       Image: © C2RMF, Anne Maigret
 
@@ -2376,7 +2378,7 @@ figure_list:
   - id: "42.9"
     src: fig_42.09_Mille-Descamps.jpg
     caption: >
-      *Eros and Psyche*. Roman, possible Rhodian production. H. 72.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br4105.
+      *Eros and Psyche*. Roman, possible Rhodian production. H: 72.5 cm. Paris, Musée du Louvre, Département des Antiquités grecques, étrusques et romaines, inv. Br4105.
     credit: >
       Image: © RMN-Grand Palais (musée du Louvre) / Hervé Lewandowski
 
@@ -2485,63 +2487,63 @@ figure_list:
     caption: >
       Alexander the Great battling on horseback: lateral view showing fine sculptural quality, rich decorations, and dynamism of the group. Bronze. First century BC. National Archaeological Museum of Naples, inv. 4996. H: 49 cm; W: 47 cm; D: 29 cm
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.1b"
     src: fig_44.01b_Siano_Melillo.jpg
     caption: >
       Alexander the Great battling on horseback: front detail showing  fine sculptural quality, rich decorations, and dynamism of the group. Bronze. First century BC. National Archaeological Museum of Naples, inv. 4996. H: 49 cm; W: 47 cm; D: 29 cm
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.2a"
     src: fig_44.02a_Siano_Melillo.jpg
     caption: >
       Repair zones of the horse highlighted with arrows.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.2b"
     src: fig_44.02b_Siano_Melillo.jpg
     caption: >
       Repair zones of the rider highlighted with arrows.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.3a"
     src: fig_44.03a_Siano_Melillo.jpg
     caption: >
       Detail of the saddlecloth and mane.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.3b"
     src: fig_44.03b_Siano_Melillo.jpg
     caption: >
       Detail of the skirt fitting to the withers.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.4a"
     src: fig_44.04a_Siano_Melillo.jpg
     caption: >
       Radiographic images of the base, showing round porosities beneath the silver foils and various degrees of consumption of the flower petals.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.4b"
     src: fig_44.04b_Siano_Melillo.jpg
     caption: >
       Radiographic images of a detail of the silver decoration, showing round porosities beneath the silver foils and various degrees of consumption of the flower petals.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.5"
     src: fig_44.05_Siano_Melillo.jpg
     caption: >
       Two adjacent X-ray plates of the horse and two detail images (upper left) of the joining zone of the neck. The joints identified are highlighted by arrows.
     credit: >
-      Image: Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy
+      Image: Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy
 
   - id: "44.6a"
     src: fig_44.06a_Siano_Melillo.jpg
@@ -2651,13 +2653,13 @@ figure_list:
   - id: "46.1a"
     src: fig_46.01a_Kantarelou.jpg
     caption: >
-      Statuette representing the El god, principal god of Ugarit. The figure was originally gilded bronze but many gold parts are missing and the exposed areas are covered by a thick green corrosion layer. H. 13.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. RS23
+      Statuette representing the El god, principal god of Ugarit. The figure was originally gilded bronze but many gold parts are missing and the exposed areas are covered by a thick green corrosion layer. H: 13.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. RS23
     credit: >
 
   - id: "46.1b"
     src: fig_46.01b_Kantarelou.jpg
     caption: >
-      Statuette of the weather god Baal. The figurine was originally gilded bronze but only a few gold parts are preserved in the head area. H. 12.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. 3572
+      Statuette of the weather god Baal. The figurine was originally gilded bronze but only a few gold parts are preserved in the head area. H: 12.5cm, Late Bronze Age (fourteenth century BC). National Museum of Damascus, inv. 3572
     credit: >
 
   - id: "46.2"
