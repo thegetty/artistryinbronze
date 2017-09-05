@@ -4,26 +4,26 @@ title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using
 type: essay
 contributor:
  - first_name: Vasilike
-   last_name: Argyropoulos*
-   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+   last_name: Argyropoulos
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities and Works of Art
  - first_name: Soussani
    last_name: Mavroforaki
-   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities and Works of Art
  - first_name: Maria
    last_name: Giannoulaki
-   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities and Works of Art
  - first_name: Stamatis C.
    last_name: Boyatzis
-   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities and Works of Art
  - first_name: Thanasis
    last_name: Karabotsos
-   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities & Works of Art, Ag. Spyridonos, Egaleo 12210, Greece, bessie@teiath.gr, 30-2105385459
+   affiliation: Technological Educational Institute of Athens, Department of Conservation of Antiquities and Works of Art
  - first_name: Aggeliki
    last_name: Zacharopoulou
-   affiliation: Department of Materials Science and Engineering, School of Chemical Engineering, National Technical University of Athens, 9 Heroon Polytechniou, Zografou, Athens, Greece
+   affiliation: Department of Materials Science and Engineering, School of Chemical Engineering, National Technical University of Athens
  - first_name: Elodie
    last_name: Guilminot
-   affiliation: EPCC Arc’Antique, 26 rue de la Haute Forêt, 44300 Nantes, France
+   affiliation: EPCC Arc’Antique, Nantes, France
 abstract: |
     The goal of the research is to find an alternative approach to stabilize chloride-contaminated copper-alloy artifacts, while retaining information preserved in the patina layers. Local electrolysis and the use of an alternative corrosion inhibitor, L-cysteine, were applied to treat bronze disease at specific locations on marine copper-alloy artifacts, while trying to preserve evidence of tinning on their surfaces. Cysteine as a nontoxic corrosion inhibitor has recently been tested and was found to be effective, but like all corrosion inhibitors, color changes to the patina can occur. Its application to intentionally tinned bronze surfaces was further investigated and combined with the application of local electrolysis using sodium sesquicarbonate to stabilize the areas where the surfaces are not covered with tin. The new approach was tested on a marine thirteenth-century copper-alloy cooking vessel excavated from a shipwreck found in the sea off the port of Rhodes in Greece. The approach was successful at stabilizing the object and no signs of active corrosion were visible one year after treatment.
 weight: 704
@@ -33,7 +33,7 @@ weight: 704
 
 Ancient bronzes often contain surface decoration in the corrosion layers or show evidence of tinning, niello, gilding, paint, or organic materials in the corrosion layers. Depending on the quantity of chlorides in their surfaces, traditional conservation methods to stabilize bronze disease are either used locally to treat the artifact with Ag<sub>2</sub>O particles or zinc dust, with complete immersion in sodium sesquicarbonate (pH 10) solutions with or without electrolysis to convert cupreous chloride to more stable corrosion product(s);[^1] and/or incorporate the use of corrosion inhibitors, such as benzotriazole.[^2] Our goal was to develop alternative conservation methods to treat such objects in order to preserve information by minimizing the overall changes that may occur to the patina surfaces with such treatments.
 
-The paper presents a novel treatment approach for a thirteenth-century Byzantine copper frying pan that was excavated from a shipwreck off of Rhodes and retains what appears to be intentional tinning on its surface. The paper examines the black surface to determine its nature and the condition of the artifact. It further discusses the treatment of the object with the aim of preserving this black layer, which serves as an archaeological record providing evidence of its use in food preparation. Traditional chloride removal methods for marine copper-alloy artifacts may result in unwanted removal of these types of compounds/corrosion products. Our treatment involved the application of local electrolysis with 1% (w/v) of sodium sesquicarbonate solution on areas with no evidence of tinning, and the application of L-cysteine as a nontoxic corrosion inhibitor to help preserve the artifact over the longterm.
+The paper presents a novel treatment approach for a thirteenth-century Byzantine copper frying pan that was excavated from a shipwreck off of Rhodes and retains what appears to be intentional tinning on its surface. The paper examines the black surface to determine its nature and the condition of the artifact. It further discusses the treatment of the object with the aim of preserving this black layer, which serves as an archaeological record providing evidence of its use in food preparation. Traditional chloride removal methods for marine copper-alloy artifacts may result in unwanted removal of these types of compounds/corrosion products. Our treatment involved the application of local electrolysis with 1% (w/v) of sodium sesquicarbonate solution on areas with no evidence of tinning, and the application of L-cysteine as a nontoxic corrosion inhibitor to help preserve the artifact over the long term.
 
 ## Local Electrolysis and L-Cysteine as a Corrosion Inhibitor for Ancient Copper Alloys
 

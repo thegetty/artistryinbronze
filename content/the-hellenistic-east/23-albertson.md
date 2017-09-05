@@ -122,7 +122,7 @@ Items are in chronological order; all are *loculus* plaques depicting males unle
 
 [^30]: The last in the sequence, ca. AD 220, is the relief in Berlin, Staatliche Museen inv. VA 48 (Ingholt 1928, 149 PS 494).
 
-[^31]: The other two would be the relief in Minneapolis (see n. 7 above), combining incised outlining of the lips and herringbone eyebrows, and a plaster head in Damascus, National Museum, inv. C18 (see above n. 26), with herringbone eyebrows and glass-paste eyes.
+[^31]: The other two would be the relief in Minneapolis (see n. 7), combining incised outlining of the lips and herringbone eyebrows, and a plaster head in Damascus, National Museum, inv. C18 (see above n. 26), with herringbone eyebrows and glass-paste eyes.
 
 [^32]: Kropp and Raja 2014, 403; Albertson 2016, 153.
 

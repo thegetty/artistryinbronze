@@ -1,6 +1,7 @@
 ---
 id: "2"
 title: Was the Colossus of Rhodes Cast in Courses or in Large Sections?
+short-title: Colossus of Rhodes
 type: essay
 contributor:
  - first_name: Ursula
@@ -39,7 +40,7 @@ The *Bavaria* and the Buddha both had a master model consisting of a wooden scaf
 
 The existence of master models in antiquity is proven by the monumental chryselephantine statues of the fifth century BC. Consider, for example, the Athena Parthenos, 26 cubits (ca. 13 m) high, which was in effect a master model covered with precious materials. Traces of her base are preserved in the Parthenon. In its naos, a hole still is visible where the central mast of her scaffold was affixed. Thus its construction was similar to that of the Buddha in Nara.[^12]
 
-Pheidias, the master of the Parthenos, also made the Athena Promachos, which stood on the Acropolis near the Parthenon. The statue was made of cast bronze, and its height is believed to have been between 9 and 15 meters (29–49 ft.).[^13] It is notable that the ground plan of the statue’s base again has a hole in the center ([fig. 2.2](#2.2)). Following the arguments of Palagia, the statue was cast in the same period as the Parthenos was manufactured. The Promachos was dedicated to the main deity of the polis of Athens and stood in her sanctuary. Thus the Promachos is a real predecessor of the Colossus of Rhodes. Pheidias built a scaffold in the location of the bronze statue in order to make the master model for the Promachos. Afterward the statue was cast in pieces on the south side of the Acropolis. The finished parts were brought up to the Acropolis and assembled on the base in place of on the master model. Thus for colossal statues with a height up to 15 meters, we have not only archaeological remains of casting pits but also references concerning the master model.
+Pheidias, the master of the Parthenos, also made the Athena Promachos, which stood on the Acropolis near the Parthenon. The statue was made of cast bronze, and its height is believed to have been between 9 and 15 meters (29–49 ft.).[^13] It is notable that the ground plan of the statue’s base again has a hole in the center ([fig. 2.2](#2.2)). Following the arguments of Palagia, the statue was cast in the same period as the Parthenos was manufactured. The Promachos was dedicated to the main deity of the polis of Athens and stood in her sanctuary. Thus the Promachos is a real predecessor of the Colossus of Rhodes. Pheidias built a scaffold in the location of the bronze statue in order to make the master model for the Promachos. Afterward the statue was cast in pieces on the south side of the Acropolis. The finished parts were brought up to the Acropolis and assembled on the base in place of the master model. Thus for colossal statues with a height up to 15 meters, we have not only archaeological remains of casting pits but also references concerning the master model.
 
 {{< q-figure id="2.2" class="float-left" pdf="one-column" >}}
 

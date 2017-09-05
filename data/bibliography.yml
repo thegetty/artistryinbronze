@@ -37,7 +37,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Cumont 1913
-    full: "Cumont, F. 1913. *Musée royaux du cinquantenaire: Catalogue des sculptures & inscriptions antiques (monuments lapidaires) des Musées Royaux du Cinquantenaire*. Bruxelles: Vromant."
+    full: "Cumont, F. 1913. *Musée royaux du cinquantenaire: Catalogue des sculptures & inscriptions antiques (monuments lapidaires) des Musées Royaux du Cinquantenaire*. Brussels: Vromant."
     reference_for: "1"
 
   - short: Daehner 2015
@@ -217,7 +217,7 @@ biblio_list:
     reference_for: "1"
 
   - short: Schneider 1901
-    full: "Schneider, R. von 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen."
+    full: "Schneider, R. von. 1901. *Ausstellung von Fundstücken aus Ephesos im Griechischen Tempel im Volksgarten*. Vienna: Holzhausen."
     reference_for: "1"
 
   - short: Sieveking 1926
@@ -697,7 +697,7 @@ biblio_list:
     reference_for: "5"
 
   - short: Butz, fortchoming
-    full: "Butz, P. A. Forthcoming. “The Ptolemaic Dedication of Archepolis in the Bibliotheca Alexandrina: Materiality and text.” In The Proceedings of the International Congress of Egyptologists XI held in Florence, Italy, 2015. Archaeopress Publishing Ltd."
+    full: "Butz, P. A. Forthcoming. “The Ptolemaic Dedication of Archepolis in the Bibliotheca Alexandrina: Materiality and Text.” In *The Proceedings of the International Congress of Egyptologists XI held in Florence, Italy, 2015*. Archaeopress Publishing Ltd."
     reference_for: "5"
 
   - short: Donatelli 1995
@@ -1537,9 +1537,8 @@ biblio_list:
     reference_for: "13"
 
   - short: Krystalli-Votsi 2014
-    full: "Krystalli-Votsi, P. 2014. *Τα Χαλκά των Αμπελοκήπων* (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
+    full: "Krystalli-Votsi, P. 2014. <em>Τα Χαλκά των Αμπελοκήπων</em> (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
     reference_for: "13"
-
 
   - short: Leibundgut 1990
     full: "Leibundgut, A. 1990. “Polykleitische Elemente bei späthellenistischen und römischen Kleinbronzen.” In Beck, Bol, and Bückling 1990, 397–427."
@@ -1582,7 +1581,7 @@ biblio_list:
     reference_for: "14"
 
   - short: Andrews 1994
-    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” PhD dissertation, Brandeis University."
+    full: "Andrews, T. K. 1994. “Bronzecasting at Geometric period Olympia and Early Greek Metal Sources.” PhD diss., Brandeis University."
     reference_for: "14"
 
   - short: Aruz, Graff, and Rakic 2014
@@ -2014,7 +2013,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Piot 1878
-    full: "Piot, E. 1878. “Vases peints athéniens/” *GazArch* 4: 55–59."
+    full: "Piot, E. 1878. “Vases peints athéniens.” *GazArch* 4: 55–59."
     reference_for: "16"
 
   - short: Ridder 1905
@@ -2186,7 +2185,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Invernizzi 1996
-    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” *Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano* 58: 29–45."
+    full: "Invernizzi, R. 1996. “Bronzetti figurati e instrumentum bronzeo da uno scavo a Casteggio.” <em>Notizie dal chiostro del Monastero maggiore: Rassegna di studi del Civico museo archeologico e del Civico gabinetto numismatico di Milano</em> 58: 29–45."
     reference_for: "17"
 
   - short: Iozzo, M. 2015
@@ -2278,7 +2277,7 @@ biblio_list:
     reference_for: "17"
 
   - short: Walde Psenner 1983
-    full: "Walde Psenner, E. 1983. *I bronzetti figurato antichi del Trentino*. Patrimonio storico e artistico del Trentino 7. Trento: Assessorato alle attività culturali della Provincia Autonoma di Trento."
+    full: "Walde Psenner, E. 1983. *I bronzetti figurati antichi del Trentino*. Patrimonio storico e artistico del Trentino 7. Trento: Assessorato alle attività culturali della Provincia Autonoma di Trento."
     reference_for: "17"
 
   - short: Azéma et al. 2012
@@ -2998,7 +2997,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Fischer 1970
-    full: "Fischer, T. 1970. “Untersuchungen zum Partherkrieg Antiochos’ VII.” PhD diss. Eberhard Karls Universität Tübingen."
+    full: "Fischer, T. 1970. “Untersuchungen zum Partherkrieg Antiochos’ VII.” PhD diss., Eberhard Karls Universität Tübingen."
     reference_for: "22"
 
   - short: Fleischer 1991
@@ -3578,7 +3577,7 @@ biblio_list:
     reference_for: "26"
 
   - short: Gaunt 2002
-    full: "Gaunt, J. 2002. “The Attic Volute-krater.” PhD diss, New York University, Institute of Fine Arts."
+    full: "Gaunt, J. 2002. “The Attic Volute-krater.” PhD diss., New York University, Institute of Fine Arts."
     reference_for: "26"
 
   - short: Gericke 1970
@@ -3730,7 +3729,7 @@ biblio_list:
     reference_for: "26"
 
   - short: Sowder 2009
-    full: "Sowder, A. A. 2009. “Greek Bronze Hydriai.” PhD diss, Emory University."
+    full: "Sowder, A. A. 2009. “Greek Bronze Hydriai.” PhD diss., Emory University."
     reference_for: "26"
 
   - short: Sparkes and Talcott 1970
@@ -3874,7 +3873,7 @@ biblio_list:
     reference_for: "27"
 
   - short: Stefani 2005
-    full: "Stefani, G. 2005. *Cibi e sapori a Pompei e dintorni*. Exh. cat. Pompeii, Antiquarium di Boscoreale. Pompei: Edizioni Flavius."
+    full: "Stefani, G. 2005. *Cibi e sapori a Pompei e dintorni*. Exh. cat. Pompeii, Antiquarium di Boscoreale. Pompeii: Edizioni Flavius."
     reference_for: "27"
 
   - short: Tassinari 1975
@@ -4058,7 +4057,7 @@ biblio_list:
     reference_for: "28"
 
   - short: Ainé 1870
-    full: "Ainé, H. R. 1870. *Herculanum et Pompéi: Recueil général des peitures, bronzes, mosaiques, etc*. Vol. 12. Paris: Librairie de Firmin-Didot."
+    full: "Ainé, H. R. 1870. *Herculanum et Pompéi: Recueil général des peintures, bronzes, mosaiques, etc*. Vol. 12. Paris: Librairie de Firmin-Didot."
     reference_for: "29"
 
   - short: Allan 1985
@@ -4250,7 +4249,7 @@ biblio_list:
     reference_for: "30"
 
   - short: Giumlia-Mair, Ferrence, and Betancourt 2015
-    full: Giumlia-Mair, A., S. C. Ferrence, and P. P. Betancourt. 2015. “Metallurgy of the Copper-based Objects from Gournia, East Crete.” In *Archaeometallurgy in Europe III. Proceedings of the 3rd International Conference, Deutsches Bergbau-Museum Bochum, June 29–July 1, 2011 (Der Anschnitt 26)*, ed. A. Hauptmann and D. Modarressi-Tehrani, 145–153. Bochum.
+    full: Giumlia-Mair, A., S. C. Ferrence, and P. P. Betancourt. 2015. “Metallurgy of the Copper-Based Objects from Gournia, East Crete.” In *Archaeometallurgy in Europe III: Proceedings of the 3rd International Conference, Deutsches Bergbau-Museum Bochum, June 29–July 1, 2011 (Der Anschnitt 26)*, ed. A. Hauptmann and D. Modarressi-Tehrani, 145–153. Bochum.
     reference_for: "30"
 
   - short: Hahn-Weinheimer, Hirner, and Weber-Diefenbach 1995
@@ -4261,8 +4260,8 @@ biblio_list:
     full: "Lutz, J., and E. Pernicka. 1996. “EDXRF Analysis of Ancient Copper Alloys.” *Archaeometry* 38.2: 313–23."
     reference_for: "30"
 
-  - short: Soles and Davaras 2010
-    full: "Soles, J. S., and C. Davaras. 2010. “2010 Greek-American Excavations at Mochlos.” *Kentro: The Newsletter of the INSTAP Study Center for East Crete* 13: 1–3."
+  - short: Soles 2016
+    full: "Soles, J. S. 2016. “Hero, Goddess, Priestess: New Evidence for Minoan Religion and Social Organization.” In *Metaphysis: Ritual, Myth, and Symbolism in the Aegean Bronze Age. Proceedings of the 15th International Aegean Conference, Vienna, Institute for Oriental and European Archaeology, Aegean and Anatolia Department, Austrian Academy of Sciences and Institute of Classical Archaeology, University of Vienna, 22–25 April 2014* (Aegaeum 39), ed. E. Alram-Stern, F. Blakolmer, S. Deger-Jalkotzy, R. Laffineur, and J. Weilhartner, 247–53. Leuven and Liege: Peeters.
     reference_for: "30"
 
   - short: Vlachopoulos and Georma 2012
@@ -4330,7 +4329,7 @@ biblio_list:
     reference_for: "31"
 
   - short: Castoldi 2005
-    full: "Castoldi, M. 2005. “Cremona e l’*ager cremonensis*: elementi d’arredo in bronzo.” In Slavazzi 2005, 187–204."
+    full: "Castoldi, M. 2005. “Cremona e l’*ager cremonensis*: Elementi d’arredo in bronzo.” In Slavazzi 2005, 187–204."
     reference_for: "31"
 
   - short: Castoldi 2010
@@ -4865,13 +4864,12 @@ biblio_list:
     full: "Bierwagen, G. P., T. J. Shedlosky, and K. Stanek. 2002. “Developing and Testing a New Generation of Protective Coatings for Outdoor Bronze Sculpture.” In *Proceedings 28: 2002 Athens Conference on Coatings Science and Technology*, July 1–5, 2002, Vouliagmeni (Greece), 289–96. Athens: Institute of Materials Science."
     reference_for: "37"
 
-
   - short: Boyatzis, Ioakimoglou, and Argitis 2002
-    full: "Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” *Journal of Applied Polymer Science* 84(5): 936–49."
+    full: "Boyatzis, S., E. Ioakimoglou, and P. Argitis. 2002. “UV Exposure and Temperature Effects on Curing Mechanisms in Thin Linseed Oil Films: Spectroscopic and Chromatographic Studies.” <em>Journal of Applied Polymer Science</em> 84(5): 936–49."
     reference_for: "37"
 
   - short: Boyatzis et al. 2012
-    full: "Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” *Applied Spectroscopy* 66(5): 580–90."
+    full: "Boyatzis, S. C., A. M. Douvas, V. Argyropoulos, A. Siatou, and M. Vlachopoulou. 2012. “Characterization of a Water-Dispersible Metal Protective Coating with Fourier Transform Infrared Spectroscopy, Modulated Differential Scanning Calorimetry, and Ellipsometry.” <em>Applied Spectroscopy</em> 66(5): 580–90."
     reference_for: "37"
 
   - short: Brostoff 2003
@@ -4895,7 +4893,7 @@ biblio_list:
     reference_for: "37"
 
   - short: Gotoh et al. 2000
-    full: "Gotoh, Y., R. Igarashi, Y. Ohkoshi, M. Nagura, K. Akamatsu, and S. Deki. 2000. “Preparation and Structure of Copper Nanoparticle/Poly(acrylic acid) Composite Films.” *Journal of Materials Chemistry* 10(11): 2548–52."
+    full: "Gotoh, Y., R. Igarashi, Y. Ohkoshi, M. Nagura, K. Akamatsu, and S. Deki. 2000. “Preparation and Structure of Copper Nanoparticle/Poly(acrylic acid) Composite Films.” <em>Journal of Materials Chemistry</em> 10(11): 2548–52."
     reference_for: "37"
 
   - short: Griffiths and de Haseth 2007
@@ -4911,7 +4909,7 @@ biblio_list:
     reference_for: "37"
 
   - short: Lazzari and Chiantore 2000
-    full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” *Polymer* 41(17): 6447–55."
+    full: "Lazzari, M., and O. Chiantore. 2000. “Thermal-Ageing of Paraloid Acrylic Protective Polymers.” <em>Polymer</em> 41(17): 6447–55."
     reference_for: "37"
 
   - short: Madsen 1971
@@ -5207,7 +5205,7 @@ biblio_list:
     reference_for: "42"
 
   - short: Daehner and Lapatin 2015
-    full: "Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh. cat. Los Angeles, The J. Paul Getty Museum. Florence: Giunti; Los Angeles: J. Paul Getty Museum."
+    full: "Daehner, J. M., and K. Lapatin, eds. 2015. *Power and Pathos: Bronze Sculpture of the Hellenistic World*. Exh. cat. Los Angeles, J. Paul Getty Museum. Florence: Giunti; Los Angeles: J. Paul Getty Museum."
     reference_for: "42"
 
   - short: Descamps-Lequime 2015
@@ -5267,7 +5265,7 @@ biblio_list:
     reference_for: "42"
 
   - short: Mille et al. 2012
-    full: "Mille, B., L. Rossetti, and C. Rolley. 2012. “Les deux statues d’enfant en bronze (Cap d’Adge): Étude iconographique et technique.” In *Bronzes grecs et romains: Recherches récentes: Hommage à Claude Rolley (Actes de colloque, INHA, 16–17 juin 2009)*, ed. M. Denoyelle, S. Descamps, B. Mille, and S. Verger. [http://inha.revues.org/3949](http://inha.revues.org/3949)."
+    full: "Mille, B., L. Rossetti, and C. Rolley. 2012. “Les deux statues d’enfant en bronze (Cap d’Adge): Étude iconographique et technique.” In *Bronzes grecs et romains: Recherches récentes: Hommage à Claude Rolley (Actes de colloque, INHA, 16–17 juin 2009)*, ed. M. Denoyelle, S. Descamps, B. Mille, and S. Verger. [http://inha.revues.org/3949](http://inha.revues.org/3949)"
     reference_for: "42"
 
   - short: Queyrel 2012
