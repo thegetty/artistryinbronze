@@ -224,8 +224,12 @@ table#table-23-appendix thead tr th:first-child {
     page: intro;
   }
 
-  .quire-contents .quire-contents__page:first-child {
-    display: none;
+  .quire-contents__section a::after {
+    content: none;
+  }
+
+  .quire-contents__section ul a::after {
+    content: leader(dotted) ' ' target-counter(attr(href, url), page);
   }
 
   .quire-body.quire-body-type--cover .quire-nav-group {
