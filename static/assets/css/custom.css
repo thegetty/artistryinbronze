@@ -18,6 +18,10 @@
   background-color: #eaeaea;
 }
 
+ul.quire-contents .quire-contents__page--abstract-list {
+  display: none;
+}
+
 table#table-23-appendix {
   margin-left: 0;
   margin-right: 0;
@@ -52,6 +56,10 @@ table#table-23-appendix thead tr th:first-child {
   #bibliography h2 {
     font-weight: 400;
   }*/
+
+  ul.quire-contents .quire-contents__page--abstract-list {
+    display: inherit;
+  }
 
   #introduction .quire-page__content {
     column-fill: auto;

@@ -12,6 +12,8 @@
 
 {{ else }}
 
+{{ $pages := where .contentsScope.Pages "Params.online" "!=" "false" }}
+
 <ul class="quire-contents">
   {{ range .contentsScope.Pages }}
     {{ if .Section }}
@@ -52,7 +54,7 @@
 
 
 {{ define "contents-list-item-toc" }}
-    <li class="quire-contents__page{{ if eq .Params.pdf false }} quire-noprint{{ end }}{{ with .Params.class }} quire-contents__page--{{ . }}{{ end }}"><a href="{{ .Permalink }}index.html">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a>{{ if .Params.contributor }}<span class="quire-contents__page__separator"> — </span>{{ partial "contributor-list.html" (dict "contributorRange" .Params.contributor) }}{{ end }}</li>
+    <li class="quire-contents__page{{ if eq .Params.pdf false }} quire-noprint{{ end }}{{ with .Params.class }} quire-contents__page--{{ . }}{{ end }}{{ with .Params.layout }} quire-contents__page--{{ . }}{{ end }}"><a href="{{ .Permalink }}index.html">{{ with .Params.id }}{{ . }}. {{ end }}{{ partial "full-title.html" .Params }}</a>{{ if .Params.contributor }}<span class="quire-contents__page__separator"> — </span>{{ partial "contributor-list.html" (dict "contributorRange" .Params.contributor) }}{{ end }}</li>
 {{ end }}
 
 {{ define "contents-list-item-menu" }}
