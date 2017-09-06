@@ -16,11 +16,11 @@ abstract: |
 weight: 708
 ---
 
-{{< q-figure id="42.1" class="float-right" pdf="one-column" >}}
-
 ## Epigraphic and Stylistic Reevaluation of the Piombino Apollo
 
 The Piombino Apollo ([fig. 42.1](#42.1)) was among the statues gathered for the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World* at the J. Paul Getty Museum and the accompanying symposium.[^1] It is an Archaizing work, as was already suggested by Jean Letronne in 1834, just two years after the bronze was discovered in the sea off the west coast of Piombino, Italy. Letronne’s interpretation was not accepted at the time, as the debate was then focused on the question of whether it was an Archaic or an Archaistic work. Later scholars moved on to another question: was it an Archaistic work from the fifth century BC or from the Hellenistic period? Even after Brunilde Sismondo Ridgway published a fundamental study of the statue in 1967, in which she convincingly argued in favor of a date at the end of the Hellenistic period, there were still those who doubted her conclusions. This was particularly so because a subsidiary question remained without an answer. This question was linked with the loss, more than a century before, of a fragmentary inscribed lead strip, said to have been found within the statue, on which the names of two Hellenistic sculptors were said to have been engraved. Because that lost inscription had been declared a fake—and this assertion could no longer be verified—Ridgway’s dating was not accepted as proved. A further step supporting a Late Hellenistic date was the discovery in 1977 of another bronze Apollo[^2] at Pompeii, in the House of Gaius Julius Polybius, that appeared to be so close in attitude and style that the two statues were declared virtual twins, possibly elaborated from the same master molds.[^3]
+
+{{< q-figure id="42.1" class="float-right" pdf="one-column" >}}
 
 One of the opportunities afforded by the exhibition *Power and Pathos* was to accommodate close comparisons between similar statues put on display together. For the first time, the two Apollos were shown in the same room, and it appeared that, even if they obviously hark back to the same prototype and both are associated with the same Late Hellenistic and Early Imperial retrospective trend, their differences are as important as their similarities. The Piombino Apollo is squatter and less slender, while the Pompeian Apollo is taller. Unearthed with bronze tendrils, the latter was originally conceived as a *trapezophoros lychnouchos*, a decorative tray-bearer for adorning and lighting a triclinium.[^4] The tendrils, when fixed in the statue’s hands, were intended to support a *ferculum* (a table top) on which to place lamps or other items for the banquet. No traces in the hands of the Piombino Apollo indicate that he too would have been a *lychnouchos* by original intent.
 
@@ -54,7 +54,7 @@ When we look at the main impurities in the metal, the first thing to notice is t
 
 {{< q-figure id="42.4a" >}}
 
-{{< q-figure id="42.4b" >}}
+{{< q-figure id="42.4b" pdf="two-column" >}}
 
 The pattern observed for the fourth toe is very different, with high levels of arsenic, bismuth, antimony, and zinc, confirming the hypothesis of a later repair. Interesting is the fact that the weld join of the right arm, which shows a peculiar alloy, is also distinctive for its impurities, and quite close to the pattern of the fourth toe. This may suggest that the restoration was not limited to the replacement of the fourth toe, but that the statue underwent a major intervention.
 

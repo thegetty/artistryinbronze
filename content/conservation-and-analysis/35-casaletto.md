@@ -83,7 +83,7 @@ A large number of chemical compounds belonging to different classes of organic m
 
 Using eco-friendly compounds derived from extracts as “green” corrosion inhibitors represents a very up-to-date trend.[^14] They are readily available, usually environmentally friendly, and also biocompatible. Unfortunately, they have a complex chemical nature that, together with the complexity of the heritage bronzes, makes it difficult to understand the mechanisms of protection and/or inhibition or the reasons for their failure. In this field of scientific research, a fundamental screening of literature data should be performed according to what part of the natural species is considered. Essential oils or extracts from the seeds or from leaves yield different chemical compositions which in turn result in different performances and properties. In our laboratories we focused on new formulation based on oil extracted from the seeds of plants widely available in the Mediterranean Basin ([fig. 35.5](fig.e 35.5)).[^15]
 
-{{< q-figure id="35.5" >}}
+{{< q-figure id="35.5" pdf="two-column" >}}
 
 New formulations based on the oil extracted from the seeds of *Opuntia ficus indica* and the seeds of *Nigella sativa* were investigated for bronze corrosion in a marine environment (3% NaCl solution).[^16] The *Opuntia ficus indica* formulation performed best, and the product was regularly licensed. Our good result allowed the application of this “green” formulation on some bronzes from the Roman collection of the Archaeological Museum of Rabat (Morocco), which are on display in the exhibition rooms in good conservation conditions.
 

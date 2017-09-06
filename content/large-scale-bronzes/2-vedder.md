@@ -1,7 +1,7 @@
 ---
 id: "2"
 title: Was the Colossus of Rhodes Cast in Courses or in Large Sections?
-short-title: Colossus of Rhodes
+short_title: Colossus of Rhodes
 type: essay
 contributor:
  - first_name: Ursula

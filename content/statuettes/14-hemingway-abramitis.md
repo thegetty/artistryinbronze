@@ -26,9 +26,9 @@ Turning now to the Geometric period, of special interest is the statuette of a m
 
 {{< q-figure id="14.1" class="float-right" pdf="one-column" >}}
 
-{{< q-figure id="14.2" class="float-right" pdf="one-column" >}}
-
 In 2013, while preparing the statuette for loan to an exhibition in Rome at the Palazzo Massimo (Paris et al. 2014), the statuette was X-rayed (see [fig. 14.1](#14.1), inset) and an important discovery was made. The centaur also clearly has cavities for inlays in the eyes, inlays that are still in situ. Examination of the eyes under magnification revealed a difference in color and texture in these areas, as can be seen in a detail image of the left eye ([fig. 14.2](#14.2), left). Analysis using XRF detected a significantly higher amount of iron than found elsewhere on the object, suggesting an iron-rich inlay in both eyes.
+
+{{< q-figure id="14.2" class="float-right" pdf="one-column" >}}
 
 To confirm the XRF results of the material of the centaur’s eyes, energy dispersive spectroscopy (EDS) was undertaken in the scanning electron microscope. Due to the geometry of the instrument and the figures, only the area of the proper left eye of the centaur could be examined. EDS confirmed the XRF results of iron; [figure 14.2](#14.2) maps elemental distribution, with iron shown in green. It is notable that imaging turned up neither aluminum nor silicon, which one would have expected to see if the iron derived from ochre, or even simply from soil embedded in the cavity. Given the way the iron fills the cavity of both eyes completely, it seems more probable to us that it was used as an inlay itself and was not merely the remains of an iron pin used to hold another material, such as bone or ivory. Iron is not a common inlay with bronze but does occur elsewhere, such as on Thracian cuirasses of the sixth century BC.[^5] The use of silver for the man’s eyes, versus the iron for the centaur’s eyes, would have created a dramatic contrast between the two figures.
 

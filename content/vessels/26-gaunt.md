@@ -32,7 +32,11 @@ The restrained decoration accorded Archaic and Classical Greek bronze vessels st
 
 The objection may be raised that, because so few Greek bronze vessels survive, any observations concerning their appearance are largely speculative. To counter this objection, we turn to traditions of representations of these vessels in four different media: coins, gems, terracottas, and back- and red-figure vases. Of these four, two—coins and gems—are interrelated, while images on terracottas and black- and red-figure vases stand apart. All four types, however, suggest independently that metal vessels with major figural decoration were extremely uncommon. Furthermore, the ceramic dinoid krater in the J. Paul Getty Museum ([fig. 26.6](#26.6)) demonstrates that surviving examples do indeed correspond closely with their representations.[^18] Just this sort of vessel is depicted on contemporary volute-krater fragments near the Pronomos and Talos Painters, now in Würzburg, while a neo-Attic marble version in a private collection evidently derives from the very same models ([fig. 26.7](#26.7)).[^19]
 
-{{< q-figure-group id="26.6, 26.7" grid="2">}}
+<!-- {{< q-figure-group id="26.6, 26.7" grid="2">}} -->
+
+{{< q-figure id="26.6" >}}
+
+{{< q-figure id="26.7" >}}
 
 On coins and gems, scale alone does not explain why figural decoration on vessels is not shown: these same objects record minute details of ornate hoplite equipment, particularly in the wake of Pheidias’s chryselephantine Athena Parthenos.[^20] Perhaps the most detailed glyptic example is the rather later intaglio in Rome signed by Aspasios that conscientiously reproduces the helmet of the Parthenos, but similar detail occurs on an earlier carnelian cameo of Perseus of Macedon, now in Paris, in which a centauromachy decorates his helmet.[^21] On coins, helmets with elaborate figural decoration first appear on late fifth-century staters of Heraclea (continuing through the fourth century), and on gold twenty-litra coins of Camarina; and, through the fourth century, on staters of Thurium, distaters of Metapontum, and later didrachms of Hyele.[^22] Representations of shield devices are encountered on staters minted in late fourth-century Taranto (depicting Pegasos) and Opuntian Locris (griffin); and on didrachms in early third-century Epirus under Pyrrhus (Gorgoneion).[^23]
 

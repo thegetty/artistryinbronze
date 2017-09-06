@@ -36,6 +36,10 @@ table#table-23-appendix thead tr th:first-child {
   width: 8em;
 }
 
+#table-30-1 th:nth-child(-n+2) {
+  width: 4em;
+}
+
 #table-46-2 img {
   max-width: 360px;
 }
@@ -77,6 +81,14 @@ table#table-23-appendix thead tr th:first-child {
     page: rotated;
   }
 
+  #table-30-1 th:nth-child(-n+2) {
+    width: auto;
+  }
+
+  #table-30-1 th:nth-child(n+4) {
+    width: .34375in;
+  }
+
   #table-36-2 th:nth-child(1) {
     width: .75in;
   }
@@ -94,10 +106,17 @@ table#table-23-appendix thead tr th:first-child {
     text-align: center;
   }
 
+  #table-37-3 figcaption,
   #table-42-1 figcaption {
     margin-bottom: .5in;
   }
 
+  #table-41-1 figcaption {
+    page-break-after: always;
+  }
+
+  #table-37-3 .q-figure__table-wrapper,
+  #table-37-4 .q-figure__table-wrapper,
   #table-40-1 .q-figure__table-wrapper,
   #table-42-1 .q-figure__table-wrapper,
   #table-42-2 .q-figure__table-wrapper,
@@ -257,6 +276,43 @@ table#table-23-appendix thead tr th:first-child {
 
   #statuettes-13-barr-sharrar #fig-13-5 {
     width: 90%;
+  }
+
+  #large-scale-bronzes-5-butz #fig-5-7 {
+    width: 80%;
+  }
+
+  #large-scale-bronzes-5-butz #fig-5-1,
+  #conservation-and-analysis-36-tykot #fig-36-2,
+  #conservation-and-analysis-36-tykot #fig-36-6 {
+    width: 70%;
+  }
+
+  /*#conservation-and-analysis-46-kantarelou #fig-46-2 {
+    width: 70%;
+  }*/
+
+  #artifacts-34-franken #fig-34-1 {
+    width: 50%;
+  }
+
+  #statuettes-16-sharpe #fig-16-15,
+  #statuettes-19-grossi #fig-19-7,
+  #vessels-24-tarditi #fig-24-8,
+  #conservation-and-analysis-35-casaletto #table-35-1 figcaption,
+  #conservation-and-analysis-35-casaletto #fig-35-2c,
+  #conservation-and-analysis-35-casaletto #fig-35-5,
+  #conservation-and-analysis-42-mille-descamps #fig-42-4b,
+  #conservation-and-analysis-43-vidovic #fig-43-4c + figcaption,
+  #conservation-and-analysis-44-siano #fig-44-3b,
+  #conservation-and-analysis-46-kantarelou #fig-46-4c,
+  #conservation-and-analysis-46-kantarelou #table-46-2 figcaption,
+  #conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-9 {
+    page-break-after: always;
+  }
+
+  #vessels-27-dedecker .quire-page__content__main p + ol {
+    column-break-before: always;
   }
 
 }

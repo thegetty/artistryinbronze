@@ -60,9 +60,9 @@ FTIR spectra of corrosion products from museum objects were recorded from detach
 
 It is crucial to investigate the actual formulations of the materials available in the market, as well as their behavior under simulated aging conditions, before any further analysis is conducted on actual artifacts in order to ensure that results do not vary due to different formulations. Incralac has been formulated as a coating containing acrylic resin (Paraloid B44) as its base component and additives such as BTA or an aryl-substituted derivative. A few other materials are frequently added, such as ESO and Tinuvin 292 (T). Chemical structures of involved materials are shown ([fig. 37.1](#37.1)); FTIR spectra of studied Incralac formulations are shown in [fig. 37.2a](#37.2); FTIR peak assignments are given in [table 37.2](#table-37.2).
 
-{{< q-figure id="37.1" >}}
+{{< q-figure id="37.1" pdf="two-column" >}}
 
-{{< q-figure id="37.2" >}}
+{{< q-figure id="37.2" pdf="two-column" >}}
 
 It has been previously suggested that Incralac formulations, at least at the acrylic resin level, may vary from supplier to supplier.[^7] In our investigations, a number of Incralac batches were analyzed with KBr-FTIR and results confirm this suggestion. Figure 37.2a shows the recorded spectra of Incralac products acquired from various distributors in Greece ([table 37.1](#table-37.1)). It can be seen that the basic formulation is similar in most cases, with Paraloid B44 being the base acrylic resin, with main absorptions at 2989, 2953, and 2846 cm<sup>–1</sup> (antisymmetric stretching of CH<sub>3</sub> and CH<sub>2</sub> and symmetric stretching of CH<sub>2</sub>, correspondingly); 1732 cm<sup>–1</sup> (ester carbonyl stretching); 1474, 1449, and 1387 cm<sup>–1</sup> (CH<sub>2</sub> and CH<sub>3</sub> bending); and 1238, 1177, and 1147 (C-O-C stretching).
 
@@ -82,7 +82,7 @@ The performance of various Incralac formulations was evaluated through artificia
 
 FTIR spectra were recorded from acetone-extracted coating samples (see Experimental Section). As shown in [figure 37.4](fig. 37.4), no BTA could be detected in all cases in the coating, as no characteristic peaks of the component were present; this may be due either to decrease or removal of the additive in a manner similar to that of artificial aging of coated bronze coupons (see above), or to the limited or ineffective extraction of this particular component through the selected solvent during sample collection. In addition, in some cases (objects X 1974, X 21039, and X 8297) the condition of coatings was found to be only slightly changed or totally unchanged compared to the initial condition of the base acrylic resin. However, in other cases (objects Χ 26175, Χ 17166, and Χ 25604), significant formation of hydroxyl absorptions (broad features at 3500–3200 cm<sup>–1</sup>) indicate oxidation and/or hydrolytic degradation of esters. The latter can be ruled out, as absorption of polyacrylate copper salts at the 1600–1550 cm<sup>–1</sup> range[^10] is not evident. The newly formed band at ca. 1646 cm<sup>–1</sup>, which was particularly intense in the case of object Χ 17166 (conserved in 1998–99 using Incralac material from distributor E), was assigned to C=C absorptions due to oxidation-induced unsaturation in the acrylic resin backbone; additionally, the dark reddish appearance of this object’s coated surface (see [fig. 37.3f](fig. 37.3)) supports this assignment. Relatively high degradation levels were also detected in objects Χ 25604 and X 25175, which were attributed to the same factors. In accordance with the conservation records, it can be assumed that the poor coating performance resulted from the failure to stabilize the object with corrosion inhibitor BTA, rather than being an effect of the coating itself, as material from the same distributor performed better in other cases. This assumption contradicts another study,[^11] but that study was on test panels and not on real archaeological bronzes as in our case. Stabilization of bronzes using corrosion inhibitor BTA is routinely carried out in Greece prior to Incralac application, and the combined use of BTA and Incralac is highly recommended by conservators in Greece for its effectiveness.
 
-{{< q-figure id="37.4" >}}
+{{< q-figure id="37.4" pdf="two-column" >}}
 
 {{< q-table id="37.3" scale=".4" border="all" center-text="all" >}}
 
@@ -92,7 +92,7 @@ FTIR spectra were recorded from acetone-extracted coating samples (see Experimen
 
 {{< q-figure id="37.5" >}}
 
-{{< q-figure id="37.6" >}}
+{{< q-figure id="37.6" pdf="two-column" >}}
 
 ## Conclusions
 

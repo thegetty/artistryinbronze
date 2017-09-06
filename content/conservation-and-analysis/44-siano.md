@@ -45,13 +45,13 @@ Floral and geometrical decorations made with white metal are visible on the uppe
 
 *Horse:* The body of the horse appears rather well preserved, while its limbs and tail include very obvious joins. These were executed using various anchoring techniques: small copper-alloy inserts, rivets, and soft soldering.[^10] The use of a small metal insert is particularly evident on the left hind leg ([fig. 44.2a](#44.2a)).[^11] This restoration technique is also attested in other objects from the Vesuvian area, such as the famous Tripod with Sphinxes from Herculaneum preserved in the Naples Archaeological Museum.[^12]
 
-{{< q-figure-group id="44.2a, 44.2b" grid="2" >}}
+{{< q-figure-group id="44.2a, 44.2b" grid="2" pdf="two-column" >}}
 
 The saddlecloth, girth, harness, and reins are fashioned from perfectly shaped thin copper foils and strips, soldered onto the body of the horse with tin-lead alloys ([fig. 44.3](#44.3a)). However, the breastplate up to its lateral soft-soldered phalerae seems more refined than the saddlecloth and girth and presents a clear join at the right point of the shoulder. There are objective clues suggesting that the saddlecloth was likely added during the eighteenth-century restoration. As shown in [figure 44.3a](#44.3a), it is shaped from two copper laminae and then carefully cut out and filed along the back and the contour of the terminal part of the mane at the withers.
 
 [Figure 44.3](#44.3a) also evidences another crucial feature. The locks of the mane were suitably cut and smoothed ([fig. 44.3a](#44.3a)) in order to better fit the rider’s skirt ([fig. 44.3b](#44.3b)).
 
-{{< q-figure-group id="44.3a, 44.3b" grid="2" >}}
+{{< q-figure-group id="44.3a, 44.3b" grid="2" pdf="two-column" >}}
 
 *Rider:* Examination of the rider indicates that its limbs were anchored to the body by molten copper alloys poured from the inner side, while two damaged zones of the skirt were fixed using a copper foil, which was soft-soldered to the inner side of the skirt (see the left side-arrows in [fig. 44.2b](#44.2b)). The thighs with the integrated stretches of the skirt perfectly fit the curvatures of the garment and of the ribs at the inner and outer sides, respectively. The limbs were likely originally cast separately and then joined to the trunk of the figure.
 
@@ -59,7 +59,7 @@ The saddlecloth, girth, harness, and reins are fashioned from perfectly shaped t
 
 Several radiographic images were taken in order to identify each of the independent pieces composing the sculpture and to interpret its execution and repair history.
 
-{{< q-figure id="44.4a" class="float-left" >}}
+{{< q-figure id="44.4a" class="float-left" pdf="one-column" >}}
 
 {{< q-figure id="44.4b" class="float-left" >}}
 
@@ -85,7 +85,7 @@ The wall thicknesses of the body vary considerably. In particular, thickenings a
 
 The results of the examinations described above allow us to identify most of the individual pieces composing the present sculptural group. These are rendered in different colors in [figure 44.8](#44.8), where the sites of the compositional characterization are also marked. The latter was carried out using laser induced plasma spectroscopy (LIPS or LIBS). In this noninvasive technique, short laser pulses are focused on the material of interest and its elemental weight fractions are derived through spectral analysis of the bright plasma plumes generated at the laser focus. Several spectra are usually collected at the measurement point, which allows for an elemental depth profile within several hundred microns, thus providing information on corrosion processes and bulk composition.[^14] In addition to LIPS, X-ray fluorescence (XRF) was used for quick qualitative assays of the silver decorations.
 
-{{< q-figure-group id="44.8a, 44.8b" grid="2" >}}
+{{< q-figure-group id="44.8a, 44.8b" grid="2" pdf="two-column" >}}
 
 The results are summarized in tables 44.1–2, where the main alloys and those of plausible independent castings are grouped. The average composition of the horse ([table 44.1](#table-44.1)) is 11.7 ± 0.7 wt% tin and 3.6 ± 0.7 wt% lead. The lead content of the limbs and tail is significantly higher, thus supporting their probable independent casting, although the only clear evidence of an ancient join is that of the left foreleg ([fig. 44.5](#44.5), far right). The saddlecloth, breastplate, and reins were crafted in pure copper (impurities <1%).
 

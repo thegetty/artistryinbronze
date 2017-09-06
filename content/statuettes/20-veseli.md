@@ -19,9 +19,9 @@ Zeus/Jupiter was one of the most venerated gods in ancient Albania, a country si
 
 This statuette of Zeus ([figs. 20.1a–c](#20.1a)), which originates from Apollonia, is shown in full heroic nudity. His left arm and foot are thrust dynamically forward in the direction of his foes, while his right leg is straight; the arm is raised and slightly bent, implying movement. His weight falls on his left forward leg, but the figure is balanced and poised. His left arm is held straight before his body. He may have held an eagle on his missing left hand, while his right arm is bent at a right angle to throw the thunderbolt, which is also missing.
 
-{{< q-figure-group id="20.1a, 20.1c" grid="2" >}}
+{{< q-figure-group id="20.1a, 20.1b" grid="2" >}}
 
-{{< q-figure id="20.1b" >}}
+{{< q-figure id="20.1c" >}}
 
 This statuette, which is meant to be seen in profile, demonstrates a high-quality execution of anatomy, as can be seen through the intense expression on the face and the variegated transitions between the muscles. The statuette seems to be in motion.
 

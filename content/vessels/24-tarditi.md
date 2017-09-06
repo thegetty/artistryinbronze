@@ -65,7 +65,7 @@ The production of high-quality bronze vessels continued into the fourth century 
 
 Athenian bronze vessels were fairly numerous in some Greek sanctuaries, mainly in the Peloponnese: the greatest quantity comes from Olympia (26 pieces), but they are also well attested in finds from Perachora (17). There were far fewer in Argos (5) and Isthmia (4), which is surprising given their location on the road linking the Peloponnese to Attica ([fig. 24.8](#24.8)).[^34]
 
-{{< q-figure id="24.8" >}}
+{{< q-figure id="24.8" pdf="two-column" >}}
 
 Athenian bronze vessels have a relatively small spread in mainland Greece, with the exception of the sanctuary of Dodona (8 pieces). Given the close relation between Athens and Delphi in the Archaic period, the lack of finds from this sanctuary is quite unexpected. However, the study of the bronze vessels fragments is still ongoing and it is possible that some change will occur.
 

@@ -48,21 +48,17 @@ A few pieces attest to the presence of small forms like pyxides, *bombylioi*, bo
 
 Large closed shapes, which can be recognized as hydriai, olpai, and oinochoai, are mainly documented by fragments or miniature versions, with some exceptions. One is the known hydria dating to the mid-fifth century BC, which served as a cinerary urn in a tomb unearthed during the excavations for the building of the new museum.[^23] Another example is a small, refined trefoil oinochoe, which can be compared with Macedonian specimens of the fourth century BC.[^24]
 
-{{< q-figure id="25.4" class="float-right" >}}
-
-{{< q-figure id="25.5" class="float-right" >}}
-
-{{< q-figure id="25.6" class="float-right" >}}
-
-{{< q-figure id="25.7" class="float-right" >}}
-
 As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphological forms ([fig. 25.4](#25.4)).
 
-Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5–6](#25.5)).
+Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5a-b](#25.5a)).
 
-Among the *instrumenta*, lamps are attested especially in the Late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.7](#25.7)).[^26]
+Among the *instrumenta*, lamps are attested especially in the Late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.6](#25.6)).[^26]
 
-<!-- {{< q-figure id="25.7" >}} -->
+{{< q-figure id="25.4" >}}
+
+{{< q-figure-group id="25.5a, 25.5b" grid="2" label="true" caption="**Figure 25.5.** Small tripod stand. Side (a) and top (b) view. Archaeological Museum of Delphi, inv. 8404." credit="Image: V. Meirano" >}}
+
+{{< q-figure id="25.6" >}}
 
 Finally, we find a group of “vertical” instruments, namely candelabra, *kottaboi*, and other such articles. Some pieces—in particular a few curved arms with decorated finials showing serpent heads or floral motifs—are probably to be interpreted as parts of utensil stands, a rare class that is better known in western Greece, thanks to some specimens from Epizephyrian Lokroi (Locri, in Calabria).[^27]
 

@@ -61,11 +61,11 @@ One example is a small bronze head (inv. 1984.6) in the collections of Emory Uni
 
 {{< q-figure id="36.2" >}}
 
+{{< q-figure id="36.3" pdf="two-column" >}}
+
 ## Bronze Age Sicily
 
 Copper-based artifacts have been infrequently found at Copper-Bronze Age sites in Sicily, whether as tools, weapons, or ornaments, and little if any study has been done on their actual composition. Permission was obtained to conduct non-destructive pXRF analysis on the large collection in the Paolo Orsi Museum in Siracusa, and others in Sicily. Two bowls from the site of Caldare (inv. 16290, 16291) were tested on multiple spots on the inside, outside, and separately attached handles ([fig. 36.3](#36.3)). The heavy patina could not be avoided, and the readings for tin on each ranged from 0.7 to 5.7%, and 1.8 to 9.6%. One of the handles had notably more lead (3.0%) and arsenic (0.9%), suggesting a separate initial production process, perhaps with copper from a different source. For a dagger (Caldare inv. 16292), the tin ranges from 1.0 to 7.9% for six spots tested, including a rivet at the base. One spot had a measurable amount of zinc (1.6%), suggesting the use of a preservative. These examples illustrate the limitations of conducting surface analysis on bronzes with heavy patination and/or conservation treatment. Nevertheless, the preliminary results on more than one hundred artifacts analyzed show a great variation in the amount of tin used in the original alloys, which may be explained by tin’s irregular availability in a place so far from any source, and/or the absence of larger-scale production centers and standardized alloying practices.
-
-{{< q-figure id="36.3" >}}
 
 ## Viking Age Norway
 
@@ -93,19 +93,20 @@ Most of the Greek, Roman, Latin American, and other metal artifacts on display i
 
 In the Tampa Museum, two northern Greek bracelets (TMA 1996.024.001/2) have consistent values with about 8% tin and 1% lead, which was common in the Iron Age ([fig. 36.7b](#36.7b)). A Roman “bronze” strigil (TMA 1982.022) has no tin but more than 20% zinc, so it is actually brass ([fig. 36.7a](#36.7a)). Retesting is planned to check if the zinc may be from a conservation treatment prior to its donation to the museum, but the lack of tin would make it unusual for first-century AD Roman finds. Each of the seven pieces of the chatelaine (TMA 1986.204a‒g), also assigned to about 100 AD, has a substantially different tin composition, and thus may be interpreted as a compilation of separately made items ([fig. 36.7c–d](fig, 36.7c)). All have high copper and tin, while one has especially high lead content (1986.204e). A “bronze” crossbow fibula (TMA 1993.004.010), assigned to the fourth century AD western Roman Empire at least needs much better labeling, as it includes zinc, gold, mercury, and silver, but no tin ([fig. 36.8](#36.8))!
 
-{{< q-figure-group id="36.7a, 36.7b" grid="2" >}}
+{{< q-figure-group id="36.7a, 36.7b" grid="2" pdf="two-column" >}}
 
-{{< q-figure-group id="36.7c, 36.7d" grid="2" >}}
+{{< q-figure-group id="36.7c, 36.7d" grid="2" pdf="two-column" >}}
 
-{{< q-figure id="36.8" >}}
+{{< q-figure id="36.8" pdf="two-column" >}}
 
 The Orlando Museum has many metal objects labeled as “gold” but analyses by pXRF show that most are actually alloys, with high percentages of silver and copper as well (OMA 2003.078.1-2) ([fig. 36.9a](#36.9a)). Many others are listed as tumbaga (Cu-Ag-Au alloy), but contain no gold or silver ([table 36.2](#table-36.2)). Starting in pre-Inca times, depletion gilding—involving acid treatment and oxidation of the surface—was used to make the immediate surface mostly gold, so XRF analyses result in varying concentrations depending on depth. Many other objects in the museum were simply labeled as “copper” or “metal,” with analyses revealing many that are arsenical copper (OMA 2004.104.1-4), [fig. 36.9b](#36.9b)), and just a few that are bronze (with just 2–3% Sn) (OMA 2004.032) ([fig. 36.9a](#36.9c). One artifact, a knife (OMA 2004.074), has a high percentage of zinc, which was not used in Moche (pre-Columbian) times in the Americas, and thus is not authentic ([fig. 36.9d](#36.9d)).
+
+{{< q-table id="36.2" scale=".4" border="all" >}}
 
 {{< q-figure-group id="36.9a, 36.9b" grid="2" >}}
 
 {{< q-figure-group id="36.9c, 36.9d" grid="2" >}}
 
-{{< q-table id="36.2" scale=".4" border="all" >}}
 
 ## Etruscan Bronze Mirrors in the Southeast United States
 

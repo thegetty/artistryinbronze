@@ -1,6 +1,6 @@
 ---
 title: International Bronze Congresses and Associated Publications and Exhibitions
-short-title: International Bronze Congresses
+short_title: International Bronze Congresses
 weight: 5
 type: page
 class: frontmatter

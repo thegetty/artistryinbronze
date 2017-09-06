@@ -30,9 +30,9 @@ Presently we know of nine bronze enameled statuettes of roosters, all of them co
 
 Looking at these objects, we can define common elements that lead us to discover subgroups among them. First of all, the mechanisms differ. Most seem to have been made the same way: with a pedestal, a body in a single piece, a tail that slots into the back, and a removable spine. Second, the decoration differs. One type has colorful chest patterns like a slanting checkerboard; if we also consider the shape of neck and eyes and the similarities among beaks and combs, we have three samples probably coming from the same production (Cologne, Buchten, and Cirencester). In a second group, the chest pattern shows many little triangles with rounded angles, which probably points to a different place of production; three samples (Cople, Lancashire, Tongeren) belong to this group ([figs. 19.4–5](#19.4)). The three last specimens cannot be ascribed to either group: the one from Ezinge ([fig. 19.6](#19.6)) is far too corroded to recognize its pattern; the one from Staffordshire ([fig. 19.7](#19.7)) has lost its head; and the one from London has a different structure entirely. It seems that its body was made by the union of an upper and lower part and its decoration was based on moon crescents on chest and back.
 
-{{< q-figure-group id="19.4, 19.5"  grid="2" >}}
+{{< q-figure-group id="19.4, 19.5"  grid="2" pdf="two-column" >}}
 
-{{< q-figure-group id="19.6, 19.7"  grid="2" >}}
+{{< q-figure-group id="19.6, 19.7"  grid="2" pdf="two-column" >}}
 
 ## A Celtic Technique?
 

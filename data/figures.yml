@@ -1067,13 +1067,13 @@ figure_list:
       Zeus, Apollonia: front
     credit: >
 
-  - id: "20.1b"
+  - id: "20.1c"
     src: fig_20.01b_Veseli.jpg
     caption: >
       Zeus, Apollonia: detail of face
     credit: >
 
-  - id: "20.1c"
+  - id: "20.1b"
     src: fig_20.01c_Veseli.jpg
     caption: >
       Zeus, Apollonia: rear
@@ -1361,21 +1361,23 @@ figure_list:
     credit: >
       Image: V. Meirano
 
-  - id: "25.5"
+  - id: "25.5a"
     src: fig_25.05_Meirano.jpg
+    label: "a"
+    caption: >
+      Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
+    credit: >
+      Image: V. Meirano
+
+  - id: "25.5b"
+    src: fig_25.06_Meirano.jpg
+    label: "b"
     caption: >
       Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
     credit: >
       Image: V. Meirano
 
   - id: "25.6"
-    src: fig_25.06_Meirano.jpg
-    caption: >
-      Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
-    credit: >
-      Image: V. Meirano
-
-  - id: "25.7"
     src: fig_25.07_Meirano.jpg
     caption: >
       Figured bronze lamp. Archaeological Museum of Delphi, inv. 1160.
@@ -1595,7 +1597,7 @@ figure_list:
   - id: "29.6"
     src: fig_29.06_Lester.jpg
     caption: >
-      A foot with a recess to support a tray or a bucket, from Caesarea, eleventh century AD. IAA reg. no. 1996-372. 
+      A foot with a recess to support a tray or a bucket, from Caesarea, eleventh century AD. IAA reg. no. 1996-372.
     credit: >
       Image: Courtesy of the IAA
 

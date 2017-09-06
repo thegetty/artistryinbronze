@@ -40,9 +40,9 @@ Neapolis (modern Naples), a few kilometers away from Salernum, was an active cen
 
 The cult of Apollo has very ancient manifestations, especially along the Ionic and Campanian coasts, which were rejuvenated during the time of Sulla[^3] and even more strongly during the Pax Augustea. Apollo, a bright deity, was a fitting emblem for the political program of renewal and purification pursued by Octavian-Apollo. The building of the temple of Palatine Apollo in Rome and the renewal of the surrounding area were among the key points in the thoughtful and global project of cultural propaganda planned by Octavian during the years of his rise to power and its reinforcement after the victory at Actium. Apollo represented the official protector of Octavian/Augustus or, according to a well-planned line of propaganda, his divine parent.
 
-We can also assume that the Apolline allegory, shown through the detailed style and the formal magnificence of our Apollo, is a symbolic expression of the power of a restricted elite ([fig. 6.2](#6.2)). Outside the confines of Rome, the forms of communication of the central power and its modalities of reception by the local elites found their expression in a complex game of interactions. The ties between Rome and Campania were strengthened and most fully expressed during the Augustan age through the creation of *regio I*.
-
 {{< q-figure id="6.2" >}}
+
+We can also assume that the Apolline allegory, shown through the detailed style and the formal magnificence of our Apollo, is a symbolic expression of the power of a restricted elite ([fig. 6.2](#6.2)). Outside the confines of Rome, the forms of communication of the central power and its modalities of reception by the local elites found their expression in a complex game of interactions. The ties between Rome and Campania were strengthened and most fully expressed during the Augustan age through the creation of *regio I*.
 
 To the Romans, Campania is the ideal place to heal the disagreement between *luxuria* and *mos maiorum* through the experience of *otium*. The collecting of and taste for art, the luxurious furniture and decorations, the practice of the thermal baths, and the theater experienced in the villas of Campania became paradigmatic of the golden age as promoted by Augustan propaganda.
 

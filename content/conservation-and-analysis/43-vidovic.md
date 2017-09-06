@@ -34,7 +34,7 @@ After a first and necessary desalination, several sampling and analytical campai
 
 In the first phase of sampling, between 1999 and 2002, during the initial conservation treatment, some 43 samples were analyzed at the Scientific Laboratory of the OPD: 14 metal fragments, 9 solder and welding alloy samples, 20 samples of corrosion products and crystals on the internal and external surface of the bronze ([fig. 43.2](#43.2)).
 
-{{< q-figure id="43.2" >}}
+{{< q-figure id="43.2" pdf="two-column" >}}
 
 The metal structure in the samples was found to be very heterogeneous and spongy, showing penetration of corrosion into the bronze wall on both sides (interior and exterior), especially on the rear of the statue that had been buried in sand on the seabed. Experts from the OPD performed several analyses to examine the samples, using stereomicroscopy, stratigraphic investigation under an optical microscope, Fourier transform infrared spectroscopy (FTIR), X-ray diffraction (XRD), scanning electron microscopy coupled with energy dispersive spectrometry (SEM-EDS), and inductively coupled plasma atomic emission (ICP-AES).
 
@@ -86,9 +86,9 @@ Before assembly, the casting core was removed from all parts of the statue. The 
 
 All joins and repairs are now easily followed thanks to γ-radiography, the archaeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
-{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" >}}
-
 This reexamination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
+
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" pdf="two-column" >}}
 
 ## New Sampling Campaign (2013–2015)
 
@@ -102,11 +102,11 @@ Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken 
 
 By using this analytical procedure, we achieved a very consistent new set of results. Regarding major elements, we observed that the same alloy has been used for the primary castings of all parts of the statue, including the undecorated rear face of the plinth ([fig. 43.6](#43.6)). It appears that the alloy of the Croatian Apoxyomenos is a highly leaded bronze (Sn 6.7 ± 1.9%; Pb 18.0 ± 4.0%); this alloy was also used for welding. A noticeable exception is the decorated side of the plinth, showing higher tin contents and lower lead (Sn 9.5%; Pb 11.0%).
 
-{{< q-figure id="43.6" >}}
-
 Furthermore, all high-lead bronze parts share the same trace-elements pattern ([fig. 43.7](#43.7)) and are made from the same copper: a typical 0.1% level of silver, arsenic, and antimony and about 0.03 % nickel. One notable discrepancy is in the iron and zinc levels. As these two elements are very easily oxidized from bronze in the liquid state, a possible explanation could be a delayed casting for some parts of the statue, that is, some liquid metal was left at high temperature for too long, thus leading to some oxidation of the metal batch.
 
-{{< q-figure id="43.7" >}}
+{{< q-figure id="43.6" pdf="two-column" >}}
+
+{{< q-figure id="43.7" pdf="two-column" >}}
 
 Very interesting is the fact that the corresponding impurities pattern is not only consistent for all parts of the statue itself, but also for the undecorated side of the plinth. We can therefore deduce that this part of the plinth was cast at the same time as the rest of the statue.
 

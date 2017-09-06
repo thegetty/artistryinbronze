@@ -16,9 +16,9 @@ The question of original function is of great importance in our attempts to unde
 
 The following examples provide a useful illustration of this methodological approach. Under consideration here are sheet-metal silhouette figures dating to the Hellenistic and Roman periods. The figures are cut from flat bronze sheets about 1 to 3 millimeters in thickness; internal details are incised. Sheet-metal silhouettes with similar features can also be found in the Archaic,[^1] Classical,[^2] and early medieval[^3] periods, but these sheets and all questionable pieces[^4] are only touched upon here for technical and aesthetic comparisons to the silhouettes of individual figures.
 
-I begin my analysis with the silhouette of a dancing warrior in Berlin’s Antikensammlung (cat. 1; [fig. 34.1](#34.1)). The helmeted warrior (H: 10.5 cm) wears a short cloak slung around his waist, and appears to be holding a short knife in the right hand. Spread across his torso is a row of short, mostly parallel incisions, which, to judge from two similar examples, represents either a tightly fitting vest or body hair.[^5]
-
 {{< q-figure id="34.1" >}}
+
+I begin my analysis with the silhouette of a dancing warrior in Berlin’s Antikensammlung (cat. 1; [fig. 34.1](#34.1)). The helmeted warrior (H: 10.5 cm) wears a short cloak slung around his waist, and appears to be holding a short knife in the right hand. Spread across his torso is a row of short, mostly parallel incisions, which, to judge from two similar examples, represents either a tightly fitting vest or body hair.[^5]
 
 Also in Berlin is a long vine-leaf sheet with richly incised detail (cat. 2). In the middle, one of two tendrils is framed by an Apollonian cult-statue (a Baitylos); on the edges of the leaf there are masks and ritual objects, including baskets and tympana.
 
