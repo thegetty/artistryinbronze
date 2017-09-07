@@ -32,6 +32,10 @@ table#table-23-appendix td {
   vertical-align: top;
 }
 
+table#table-23-appendix th {
+  color: #5e5e5e;
+}
+
 table#table-23-appendix thead tr th:first-child,
 table#table-23-appendix tbody tr td:first-child {
   width: 6em;
@@ -333,6 +337,11 @@ table#table-23-appendix ul {
   #the-hellenistic-east-23-albertson .quire-page__content__main__backmatter {
     page-break-before: always;
     column-span: all;
+  }
+
+  #the-hellenistic-east-23-albertson .quire-page__content__main__backmatter th {
+    font-weight: 600;
+    color: #5e5e5e;
   }
 
 }
