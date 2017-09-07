@@ -1,6 +1,7 @@
 ---
 id: "32"
 title: Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia
+short_title: Bronze Medical and Writing Cases
 type: essay
 contributor:
  - first_name: Despina

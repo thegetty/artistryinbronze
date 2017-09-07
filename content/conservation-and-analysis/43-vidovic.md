@@ -1,6 +1,7 @@
 ---
 id: "43"
 title: New Results on the Alloys of the Croatian Apoxyomenos
+short_title: The Croation Apoxyomenos
 type: essay
 contributor:
  - first_name: Iskra

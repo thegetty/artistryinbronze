@@ -2,6 +2,7 @@
 id: "35"
 title: Sustainable Conservation of Bronze Artworks
 subtitle: Advanced Research in Materials Science
+short_title: Sustainable Conservation of Bronze
 type: essay
 contributor:
  - first_name: Maria Pia

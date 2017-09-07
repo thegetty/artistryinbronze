@@ -1,6 +1,7 @@
 ---
 id: "38"
 title: New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas
+short_title: Stabilizing Chloride-Contaminated Ancient Bronzes
 type: essay
 contributor:
  - first_name: Vasilike

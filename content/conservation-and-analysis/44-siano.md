@@ -2,6 +2,7 @@
 id: "44"
 title: The Bronze Sculpture of Alexander the Great on Horseback
 subtitle: An Archaeometallurgical Study
+short_title: Alexander the Great on Horseback
 type: essay
 contributor:
  - first_name: Salvatore

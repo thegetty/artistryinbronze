@@ -1,6 +1,7 @@
 ---
 id: "31"
 title: Bronze Trees from the Greek to the Roman World
+short_title: Bronze Trees
 type: essay
 contributor:
  - first_name: Marina

@@ -1,6 +1,7 @@
 ---
 id: "17"
 title: Roman Bronze Figurines of Deities in the National Archaeological Museum of the Marche (Ancona)
+short_title: Roman Bronze Figurines of Deities
 type: essay
 contributor:
  - first_name: Nicoletta

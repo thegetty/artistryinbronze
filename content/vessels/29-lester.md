@@ -1,6 +1,7 @@
 ---
 id: "29"
 title: Hellenistic, Roman, and Byzantine Influence in the Consolidation of Fatimid Metalware
+short_title: Fatimid Metalware
 type: essay
 contributor:
  - first_name: Ayala

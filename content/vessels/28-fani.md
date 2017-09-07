@@ -1,6 +1,7 @@
 ---
 id: "28"
 title: An Anthropomorphic Vessel in the National Museum of Beirut
+short_title: An Anthropomorphic Vessel
 type: essay
 contributor:
  - first_name: Zeina

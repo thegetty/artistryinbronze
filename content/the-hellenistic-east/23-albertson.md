@@ -2,6 +2,7 @@
 id: "23"
 title: The Influence of Bronze-Working on Roman Provincial Stone Sculpture
 subtitle: The Case of Palmyra
+short_title: The Influence of Bronze-Working
 type: essay
 contributor:
  - first_name: Fred C.

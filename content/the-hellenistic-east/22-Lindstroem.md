@@ -1,6 +1,7 @@
 ---
 id: "22"
 title: The Portrait of a Hellenistic Ruler in the National Museum of Iran
+short_title: The Portrait of a Hellenistic Ruler
 type: essay
 contributor:
  - first_name: Gunvor

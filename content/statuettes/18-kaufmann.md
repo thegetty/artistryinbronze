@@ -1,6 +1,7 @@
 ---
 id: "18"
 title: Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces
+short_title: Function and Use
 type: essay
 contributor:
  - first_name: Annemarie

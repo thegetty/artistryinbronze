@@ -2,6 +2,7 @@
 id: "21"
 title: The Influence of East and West on Bronze Objects Found in Central Anatolia
 subtitle: Small Bronze Finds from Kaman-Kalehöyük
+short_title: The Influence of East and West
 type: essay
 contributor:
  - first_name: Alice Boccia

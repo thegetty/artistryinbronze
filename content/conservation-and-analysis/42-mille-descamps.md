@@ -1,6 +1,7 @@
 ---
 id: "42"
 title: A Technological Reexamination of the Piombino Apollo
+short_title: The Piombino Apollo
 type: essay
 contributor:
  - first_name: Benoît

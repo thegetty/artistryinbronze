@@ -2,6 +2,7 @@
 id: "47"
 title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
+short_title: Testing and Retesting Alexander the Great
 type: essay
 contributor:
  - first_name: Lisa

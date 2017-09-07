@@ -1,6 +1,7 @@
 ---
 id: "33"
 title: A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration
+short_title: The Campana Collection
 type: essay
 contributor:
  - first_name: Nadežda P.

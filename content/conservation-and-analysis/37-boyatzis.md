@@ -1,6 +1,7 @@
 ---
 id: "37"
 title: A Scientific Assessment of the Long-Term Protection of Incralac Coatings on Ancient Bronze Collections in the National Archaeological Museum and the Epigraphic and Numismatic Museum, in Athens, Greece
+short_title: Protection of Incralac Coatings
 type: essay
 contributor:
  - first_name: Stamatis C.

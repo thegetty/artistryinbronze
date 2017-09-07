@@ -1,6 +1,7 @@
 ---
 id: "39"
 title: Conservation Treatments and Archaeometallurgical Insights on the Medici Riccardi Horse Head
+short_title: The Medici Riccardi Horse Head
 type: essay
 contributor:
  - first_name: Nicola

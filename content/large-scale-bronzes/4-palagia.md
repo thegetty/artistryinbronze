@@ -1,6 +1,7 @@
 ---
 id: "4"
 title: A Royal Macedonian Portrait Head from the Sea off Kalymnos
+short_title: A Royal Macedonian Portrait Head
 type: essay
 contributor:
  - first_name: Olga

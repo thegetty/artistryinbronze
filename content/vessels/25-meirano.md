@@ -2,6 +2,7 @@
 id: "25"
 title: Bronze Vessels and Related *Instrumenta* at Delphi
 subtitle: Remarks on Morphology, Provenance, and Chronology
+short_title: Bronze Vessels and Related *Instrumenta*
 type: essay
 contributor:
  - first_name: Valeria

@@ -1,6 +1,7 @@
 ---
 id: "27"
 title: Iconography of the Sea World on Late Hellenistic Bronze Vessels
+short_title: Iconography of the Sea World
 type: essay
 contributor:
  - first_name: Klara

@@ -1,6 +1,7 @@
 ---
 id: "24"
 title: Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Periods
+short_title: Bronze Vessels from the Acropolis
 type: essay
 contributor:
  - first_name: Chiara

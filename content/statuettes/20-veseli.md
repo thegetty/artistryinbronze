@@ -1,6 +1,7 @@
 ---
 id: "20"
 title: Representations of Zeus/Jupiter in Bronze Statuettes from Albania
+short_title: Representations of Zeus/Jupiter
 type: essay
 contributor:
  - first_name: Sabina
