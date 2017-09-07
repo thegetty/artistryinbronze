@@ -60,9 +60,15 @@ This analysis brings me to conclude that significant changes in Greek sculpture 
 
 This notwithstanding, the notion of a “Severe style period” need not be expunged from handbooks, but we must be aware that we use it as a modern, conventional art historical label, somewhat misleading yet nonetheless useful. Reading ancient sources is very instructive on the perception of aesthetic evaluation and judgments of ancient art and artists and the modern reception of it in the construction of an art historical system. In epigram 62 by Poseidippos of Pella, for instance, there is no distinction between the Late Archaic and Classical periods, between Late Archaic and Classical artists. To him, what happened before Lysippos’s activity is considered as an indistinct entity.[^32] According to Latin literary sources,[^33] the art of bronze sculpture proceeds through formal steps and advancement, adopting the scale of hardness and beauty: from the most rigid statues by Late Archaic artists to the less rigid statues by Kalamis, to the beautiful ones by Myron and those more beautiful still by Polykleitos. In this frame of progress and continuity, it must be clear that to the ancients the Severe style as a chronological and stylistic category never existed.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 This paper is part of a wider project on a technical lexicon and art criticism in ancient sources: thanks to a National Research Fund (PRIN 2012), as Principal Investigator I am currently working on a new edition of and commentary on Pliny the Elder’s Books of Art. I am grateful to Jens Daehner for his invaluable comments on the manuscript.
+
+{{< /backmatter >}}
 
 ## Notes
 

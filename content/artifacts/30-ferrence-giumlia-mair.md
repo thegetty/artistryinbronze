@@ -71,9 +71,15 @@ Moreover, as the smiths gained empirical metallurgical experience over time, the
 
 The XRF analyses have demonstrated that the copper-based objects from Gournia presented here were actually prestige items because the alloys contain certain metals in particular quantities (one of which is a precious metal) to convey the color and status of silver and gold. These alloys used for personal ornaments and jewelry are refined to a higher degree and contain more alloying elements, such as tin and arsenic, than the copper-based alloys usually used for simple utilitarian tools. Additionally, the hook-shaped pins, tweezers, and cosmetic scrapers were manufactured with high-quality alloys comparable to those used in jewelry pieces. These small personal items therefore were not simple tools but were highly valued in Minoan society. The owners would have worn them as decorative accessories for their garments and hairstyles as an indication of their social status.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration.
+
+{{< backmatter >}}
 
 ## Notes
 

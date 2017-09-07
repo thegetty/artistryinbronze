@@ -78,6 +78,8 @@ The date of the Beirut vessel is probably no earlier than the third century AD, 
 
 This anthropomorphic bronze vessel with its footed pedestal reminds us of Roman portrait busts similarly placed.[^34] The production of this type of bronze vessel is concentrated in Germania, Bulgaria, and Egypt.[^35] It is plausible that this particular vessel was cast in Egypt because of the cast bead molding and the numerous crescent-shaped pendants depicted there, albeit in portraits. However, I would like to propose an alternative hypothesis, namely that it was cast in a Lebanese workshop. Numerous inscriptions found in a bronze-workshop active for many generations in Rhodes indicate that it was founded by a family from Tyre.[^36] During the Roman period, the legate of Syria, Petronius, is known to have ordered a bronze portrait of Caligula from a Sidonian workshop.[^37] The site of another workshop has been excavated in Beirut.[^38] Thus it is quite possible for a local artisan to have cast this vessel, especially if a mold was available. The artisan of the Beirut vessel appears to have been unfamiliar with some aspects of his subject: for example, the fawn’s hooves are not sculpted accurately. He stressed the eyes by outlining the lid, a feature characteristic of Syro-Lebanese portraits.[^39] Finally, the young man’s locks of hair can be compared to a bust of Helios found near Sidon.[^40]
 
+---
+
 ## Notes
 
 [^1]: Jones 1987.

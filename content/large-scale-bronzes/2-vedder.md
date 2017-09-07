@@ -86,6 +86,8 @@ In 2015 I published a proposal for the possible location of the Colossus’s bas
 
 {{< q-figure id="2.8" >}}
 
+---
+
 ## Notes
 
 [^1]: This paper summarizes Vedder 2015, 40–56, figs. 23–55, 60–65.

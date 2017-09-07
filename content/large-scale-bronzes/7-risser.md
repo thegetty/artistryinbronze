@@ -79,9 +79,15 @@ The techniques used to produce the portrait of Tiberius, from its conception in 
 
 Even though many of the other large Herculaneum bronzes are imperial portraits, Najbjerg has proposed that the Tiberius was initially conceived of in isolation.[^17] This could account for its complexity: the status of the commission may have warranted a more advanced level of production. More superficially, the richness of the drapery could be the reason for the quantity of pieces; simply put, the portrait of Tiberius is a more elaborate composition than the other large bronzes cited above. Or perhaps equating sixty-two parts with “complexity” is to miss the point. For though it involved substantial forethought and labor, separating the wax working-model into so many pieces increased the likelihood that the finished product would have been a success. Firstly, casting the pieces would have been easier, as they would have been smaller and simpler to handle, and the risk of flaws reduced. Secondly, because the subdivisions of the wax working-model had been carefully planned, the bronze-workers could assemble the cast pieces in sections, using just a few focused points for fusion welding. Finally, because many of the divisions between the parts run along recesses of the drapery folds, their open seams could be hidden. So while sixty-two parts may at first betoken a complex production process, this is better understood as a means of guaranteeing a successful outcome: multiplicity translates into simplicity. In this light, our Tiberius of many parts offers a valuable lesson in Roman risk-reduction.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 For the opportunity to study the portrait of Tiberius, we are indebted to Luigia Melillo, Teresa Elena Cinquantaquattro, and Valeria Sanpaolo, together with their colleagues at the Soprintendenza per i beni archeologici di Napoli e Pompeii. At the Getty, David Bomford, Timothy Potts, Jerry Podany, and Claire Lyons enthusiastically supported the project, to which the museum’s Villa Council contributed with great generosity. For assistance with technical analyses, we thank Arlen Heginbotham, Lynn Lee, and Vanessa Muros. We owe particular thanks to Jens Daehner, Kenneth Lapatin, Jeffrey Maish, and Ambra Spinelli for their insights into ancient bronze-working and guidance as we prepared this paper for the conference and its subsequent publication. Finally, we are indebted to Tina Najbjerg for sharing a manuscript draft of her book, *Locus Augustalibus et civibus: Reconstructing the Great Porticus in Herculaneum*, and for discussing the Tiberius’s findspot with us.
+
+{{< /backmatter >}}
 
 ## Notes
 

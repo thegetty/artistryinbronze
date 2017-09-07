@@ -102,9 +102,15 @@ Adopting the indirect lost-wax casting technique, probably from the beginning, P
 
 Since we have proved the reuse of the Doryphoros’s face model and the shrinkage in size of the faces in only a few samples, our conclusion is still preliminary. Nevertheless, we are at least certain of the great potential of the method of the 3D shape comparison in the study of ancient sculpture.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 For generous permission and kind assistance during the scanning, I am particularly grateful to Dr. Ingeborg Kader, museum management and chief keeper of the Museum für Abgüsse Klassischer Bildwerke München; Dr. Teresa Elena Cinquantaquattro, then superintendent of the Soprintendenza Speciale per i Beni Archeologici di Napoli e Pompei; and Dr. Valeria Sampaolo, then director of the Museo Archeologico Nazionale di Napoli. I am also deeply grateful to my colleague Todd Enslen for revising my manuscript. This work is supported by JSPS KAKENHI Grant Numbers 23320040, 16K02262, and Microsoft Research CORE 12 Project.
+
+{{< /backmatter >}}
 
 ## Notes
 

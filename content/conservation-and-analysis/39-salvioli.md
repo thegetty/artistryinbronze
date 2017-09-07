@@ -130,9 +130,15 @@ The gilding traces uncovered are much greater than expected. The widespread pres
 
 The archaeometallurgical study also allowed us to identify all the additions introduced during the seventeenth-century restoration by Bartolomeo Cennini. The data show the main alloy is very close to the conventional 90–10 (here Sn 11 wt% and Pb 1 wt%) traditionally used for large bronzes from the Classical period and up to the Roman Republican period. Examination of the metal wall thicknesses through the virtual sectioning of the double surface-3D model provided important evidence about the wax model for casting and definitively demonstrated indirect casting.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 The conservation project and archaeometallurgical investigation of the Medici Riccardi horse head was funded by the Friends of Florence, a U.S. 501(c\)(3) nonprofit organization supported by individuals who are dedicated to preserving and enhancing the cultural and historical integrity of the arts in the city and surrounding area of Florence, Italy.
+
+{{< /backmatter >}}
 
 ## Notes
 

@@ -42,9 +42,15 @@ According to Goodlett’s calculations, the height of Rhodes’s sculptural prod
 
 The full reality of the ancient sculptors’ trade is difficult to discern from the meager evidence left to us. Scholars have wrestled with literary testimony, visual documentation, and physical evidence associated with the constructive process. In many cases, it has proven invaluable to our understanding of physical materials, yet the greater challenge remains in explaining the ephemeral facets of the trade. By adopting new approaches such as migration dynamics and analyzing ancillary data at sites of production, we can begin to reconstitute the working lives of sculptors and their mobility through their environment. These *un-patroned* individuals certainly constitute a larger proportion of the workforce than those we know from literary accounts. After all, it was the *un-patroned* sculptors and technicians whose assistance was required in the creation of Pliny’s masterworks.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I would like to thank the organizers of the 19th International Bronze Congress for the opportunity to present my initial thoughts on the subject. The helpful comments provided by various individuals greatly aided subsequent thought on the subject, notably the earliest discussions with Carol Mattusch.
+
+{{< /backmatter >}}
 
 ## Notes
 

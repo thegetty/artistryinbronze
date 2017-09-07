@@ -66,9 +66,15 @@ Archaic and Classical bronze vessels circulated in an intellectual climate in wh
 
 The impression that the sheer opulence of the Derveni krater is in some ways conceptually un-Greek may be refined by considering the findspots of the most elaborately decorated bronze vessels of the time. The Berlin krater with maenads was found in the northern Caucasus as part of the “Maikop Treasure.” The Athenian red-figure vases with relief were made largely for export to the Black Sea or Italy; the situlae for the most part come from northern Greece and Thrace, the new neck-amphora came from the Troad, while the Derveni krater itself was inscribed for one Aristouneios who came from Larisa. Common to these regions is a greater depth of wealth than one would find in Greece itself. In such places, the resources could be found to expend enormous, irrevocable sums on tableware for the purpose of display.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 My warmest thanks to the congress organizers, Jens Daehner, Kenneth Lapatin, and Ambra Spinelli, as well as Jeffrey Spier and Paige-Marie Ketner. For valuable discussions, I thank Günter Kopcke and Andrew Stewart.
+
+{{< /backmatter >}}
 
 ## Notes
 

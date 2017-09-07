@@ -105,11 +105,17 @@ Numerous smaller stray bronze elements, mostly broken away from the external lay
 
 Future study sessions with the team members within the next year are anticipated. With the completion of reasonably accurate copies, the musical potential of such instruments could be rediscovered, adding immeasurably to our knowledge of music in the Roman period. A first trial by Stefan Hagel playing 3D-printed replicas of the “Wooden Pipes” took place in January 2016 in Paris during a conference focused on the making of ancient musical instruments, in part organized by the [Institut français d’archéologie orientale](http://www.ifao.egnet.net/) (IFAO).[^23]
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 Special thanks for contributions and support of the project are due to Damon Beale, Lawrence Berman, Michele Derrick, Denise Doxey, Rita Freed, Christine Kondoleon, Jayme Kurland, Darcy Kuronen, Meredith Montague, Richard Newman, Matthew Siegal, Joel Thompson at the Museum of Fine Arts, Boston, and to many other scholars including Raj Gupta, Peter Holmes, Deborah Schorsch, David A. Scott, Bradley Strauchen-Scherer, Olga Sutkowska, Michael Tarkanian, Frank Willer, Michael Zach.
 
 Thanks are also due to Richard  Newman, head of scientific research, and Michele Derrick, Schorr Family Associate Research Scientist, MFA, Boston, for the alloy analysis and examination of the cross section.
+
+{{< /backmatter >}}
 
 ## Notes
 

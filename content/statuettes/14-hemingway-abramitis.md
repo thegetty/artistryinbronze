@@ -70,9 +70,15 @@ The main relief panel of the chariot was singled out for particular embellishmen
 
 In conclusion, it is apparent that inlays were used on Greek bronzes from very early on and many of the types of inlay that exist in later periods are already evident by the Archaic period. Special prominence was given to inlaying eyes. In this paper alone, we have seen the inlaying of eyes belonging to humans, deities, mythical creatures, animals, and birds. Often the inlays are no longer preserved, but scientific analysis can sometimes help determine the nature of inlays that appear missing to the naked eye. Figural sculpture and decorative elements of vessels, armor, weapons, and a variety of bronze reliefs were sometimes richly inlaid with various materials of contrasting colors to enhance their appearance. It is evident that inlaying was a favored technique, in addition to careful modeling and incised details, for embellishing the finest Archaic bronzes. Further chromatic variations were sometimes made by the overlaying of contrasting metals such as silver or copper. This paper presents a small sample focusing on examples from the collection of the Metropolitan Museum of Art, but future investigations combining careful archaeological research with scientific examination of other existing collections promise to further our knowledge of this interesting aspect of ancient bronze-work.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 This kind of collaborative research among curators, conservators, and research scientists involves the support of many individuals. We wish to thank in particular Thomas P. Campbell, director; Carrie Rebora Barratt, deputy director; Carlos A. Picón, curator in charge of the Department of Greek and Roman Art; Lisa Pilosi, head of the Department of Objects Conservation; Marco Leona, head of the Department of Scientific Research; and Federico Caro, Elena Basso, and Mark Wypyski, research scientists, for their assistance with the scientific analyses, as well as Michael Baran and Lillian Bartlett Stoner, all of the Metropolitan Museum of Art, New York.
+
+{{< /backmatter >}}
 
 ## Notes
 

@@ -66,9 +66,15 @@ The preserved bronze fragments represent less than twenty percent of the statue.
 
 Trudy S. Kawami (1987) noted that “the presence of such an important work so far from a major city is difficult to explain.”[^26] However, judging from the first results of the Iranian-Italian excavations at Kal-e Chendar, the sculpture was erected at one of the most important religious places of ancient Elymais. From a Mediterranean point of view, the quality and “Greekness” of the reassembled statue may cause surprise, especially given its discovery in Iran. However, this just points out our limited knowledge of Hellenism in the regions east of the Tigris River.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 This work was supported by the Fritz Thyssen Stiftung. My thanks go also to Dr. Jebrael Nokandeh, the director of the National Museum of Iran, who enabled the investigations, and to the entire museum staff, especially Firouzeh Sepidnameh (head of the Exhibition Department) and Masoumeh Ahmadi (International Affairs). Further thanks go to Ursula Sims-Williams, who drew my attention to the material of the Stein archives in the British Museum.
+
+{{< /backmatter >}}
 
 ## Notes
 

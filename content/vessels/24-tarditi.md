@@ -82,6 +82,8 @@ The trade route from the Ionian Gulf to the interior of Basilicata is well attes
 
 Fewer examples are found along the Tyrrhenian coast of southern Italy and Sicily, from which we have just a few pieces of relatively modest quality: some *paterae* with handles in the shape of kouroi; a handful of precious pieces, such as the krater from Agrigento[^46] and from Locri;[^47] and the *podanipter* handle in the shape of lions attacking an animal, a fragment of which was found in Locri.[^48] We may suppose that here, too, the Etruscans exercised a “monopoly” on fine bronze production, especially from the end of the sixth century, when we can observe the interruption of the spread of Laconian and Corinthian bronze vessels, well attested for the middle decades of the sixth century, and the lack of Athenian production, just starting to assert itself. The distribution of Athenian pieces in southern Italy seems to stop altogether in the second half of the fifth century, probably reflecting a change in trade routes, when exports of Athenian bronze vessels reached the northern Aegean and Black Sea area, following in the wake of Athenian military and colonial activity and the onset of business relationships that could also ensure vital supplies of grain to Athens.
 
+---
+
 ## Notes
 
 [^1]: De Ridder 1896; Keramopoullos 1915; more recently Gauer 1981; Stibbe 2008.

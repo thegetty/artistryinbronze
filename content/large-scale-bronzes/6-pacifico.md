@@ -50,6 +50,8 @@ Mostly probably, the bronze Apollo is proof of how the most influential Campania
 
 We still have to evaluate and analyze the aspects of the head that indicate the characteristic features of this Italian production. The artisans’ ability to meld tradition and innovation reflects both the cosmopolitan heritage of the Hellenic universe and a parallel elaboration of Vesuvian and, on a larger scale, Magna Grecian influences, played out at that particular moment of transition from the tumultuous Republican period to the florid Augustan peace of whom Apollo is the tutelary deity.
 
+---
+
 ## Notes
 
 [^1]: Giorgetti et al. 1991.

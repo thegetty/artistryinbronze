@@ -55,11 +55,17 @@ Surviving examples thus suggest that the borrowing from bronze statuary was not 
 
 The study of Palmyran portraiture shows clearly that there was a continuous process of selection by the artist from a prescribed corpus of forms, perhaps due to the nature of the sculptural environment in which these reliefs were displayed and an emphasis on conveying the identity of the deceased, both as an individual and as a member of a larger community. What perhaps makes Palmyran portraiture so distinct is the fact that this repertoire of forms is constantly being augmented, with new forms drawn externally from Graeco-Roman art, including forms, as shown here, created in imitation of contemporary sculpture cast in bronze.
 
+---
+
+{{< backmatter >}}
+
 ## Appendix 1: Palmyran Reliefs with Incised Herringbone Eyebrows
 
 Items are in chronological order; all are *loculus* plaques depicting males unless otherwise noted.
 
 {{< q-table id="23-appendix" border="none" caption="" class="plate" label="none" >}}
+
+{{< /backmatter >}}
 
 ## Notes
 

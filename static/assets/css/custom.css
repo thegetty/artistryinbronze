@@ -32,8 +32,15 @@ table#table-23-appendix td {
   vertical-align: top;
 }
 
-table#table-23-appendix thead tr th:first-child {
-  width: 8em;
+table#table-23-appendix thead tr th:first-child,
+table#table-23-appendix tbody tr td:first-child {
+  width: 6em;
+}
+
+table#table-23-appendix ul {
+  padding-left: 0;
+  margin-left: 0;
+  text-indent: 0;
 }
 
 #table-30-1 th:nth-child(-n+2) {
@@ -274,7 +281,10 @@ table#table-23-appendix thead tr th:first-child {
   }
 
 
-  #statuettes-13-barr-sharrar #fig-13-5 {
+  #statuettes-13-barr-sharrar #fig-13-5,
+  #the-hellenistic-east-23-albertson #fig-23-5,
+  #the-hellenistic-east-23-albertson #fig-23-6,
+  #the-hellenistic-east-23-albertson #fig-23-7 {
     width: 90%;
   }
 
@@ -311,8 +321,18 @@ table#table-23-appendix thead tr th:first-child {
     page-break-after: always;
   }
 
+  #the-artist-10-haga-et-al h2#notes,
   #vessels-27-dedecker .quire-page__content__main p + ol {
     column-break-before: always;
+  }
+
+  #the-hellenistic-east-23-albertson .quire-page__content__main hr:first-of-type {
+    display: none;
+  }
+
+  #the-hellenistic-east-23-albertson .quire-page__content__main__backmatter {
+    page-break-before: always;
+    column-span: all;
   }
 
 }

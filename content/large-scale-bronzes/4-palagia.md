@@ -51,9 +51,15 @@ The coin portraits of Philip V ([fig. 4.8](#4.8))[^36] betray a lot of similarit
 
 In sum, the bronze head appears to represent a king of Macedonia of the late third century BC, very likely Philip V, and deserves pride of place among extant portraits of Hellenistic rulers. In addition, this is the only original over-life-size bronze portrait of a Macedonian king known to date, thus enriching our appreciation of the sculpture of Macedonia.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Meadows for the photo in [fig. 4.5](#4.5); and Ute Wartenberg Kagan for the photo in [fig. 4.8](#4.8). Thanks also to George Koutsouflakis and Despoina Ignatiadou for advice and suggestions.
+
+{{< /backmatter >}}
 
 ## Notes
 

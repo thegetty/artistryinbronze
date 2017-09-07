@@ -44,12 +44,11 @@ It is plain that the iconographic scheme of all our statuettes, while often disp
 
 Finally, an exceptional discovery is the group of bronze figurines from Sentinum (Sassoferrato, Ancona).[^38] Among these is a statuette of Minerva, found in the excavations in the northwest quarter of Sentinum in 1960, close to a room identified as a foundry ([fig. 17.7](#17.7)). This excavation uncovered a large number of Imperial-age pottery fragments in the same context, supporting the dating of the statuette to the second century AD.[^39] In the nearby room of the foundry, numerous finds in bronze had already been uncovered in 1954, among which were a large number of utensils ([fig. 17.8](#17.8)). There were numerous small spatulas, 109 scrapers, 66 pieces of slag, 102 rods and portions of sprues, 4 dowels, 4 rods for dowels, 9 portions of wire, and 4 pairs of pliers. Inside the foundry, finds included many fragments of bronze objects, plaques, waste pieces of cut bronze foil, little fragments of a gilded-bronze horse’s head, a finger of a statue, fragments of garments from statues, and unfinished objects.
 
-
-
 {{< q-figure id="17.8" >}}
 
-
 In 1997–98 Giuliano de Marinis conducted new excavations to clarify the nature and use of this building. The exploration, though only partial, highlighted a complex stratigraphic sequence, from the Late Antique to the Late Republican age.[^40] The identification of probable traces of wooden stairs on the southern wall of a room argues for the existence of an underground level. The excavation was unfortunately interrupted, and a comprehensive layout of the building, which was located in an area dedicated to artisan activities, has yet to be completed.[^41] Therefore, although these rooms are now almost certainly identifiable as belonging to a foundry, its size and layout have yet to be outlined. This information would be useful to determine whether its function was to create large statues during the Roman age, as Giuliano de Marinis supposed,[^42] or just small votive and other bronze objects up to the Late Antique period. The fact that metallurgy was widely practiced in Sentinum and its territory is also confirmed by the much older finds of bronze figurines from archaic sanctuaries, which are associated with local workshops.[^43] These, located in Sassoferrato and the nearby San Fortunato di Genga, testify to the existence of a strong tradition of small-scale bronze sculpture in the area, with roots dating back to an era long before Romanization.
+
+---
 
 ## Notes
 

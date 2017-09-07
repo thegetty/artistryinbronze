@@ -118,9 +118,15 @@ Shiny bronze mirrors were widely produced by the Etruscans, and many have been f
 
 The use of non-destructive analytical techniques provides many opportunities for studying bronze and other objects in museums and other places around the world. The examples presented here illustrate some of the specific questions that knowledge of the composition of copper-based materials can answer. The user and readers of their reports, however, must realize that while the precision and accuracy of pXRF instrumental results are high, there remain limitations in the interpretation of the values taken from copper alloys with patinated and degraded surfaces.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I appreciate very much the assistance of Robert Bowers on creating copper-based metal calibration curves; colleagues Nancy de Grummond, Martin Guggisberg, Mads Ravn, Renee Stein, and Andrea Vianello for their roles in the case studies presented in this article; and the many officials and museum staff involved in providing permission and access to the objects for these non-destructive analyses. Funding for some of this research comes from Emory University, Florida State University, and the University of South Florida.
+
+{{< /backmatter >}}
 
 ## Notes
 

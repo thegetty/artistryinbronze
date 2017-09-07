@@ -104,6 +104,8 @@ Considerable evidence of copper and bronze refining and manufacture has been dis
 
 An in-depth study of copper- and bronze-working is needed at Kaman-Kalehöyük, to examine the relationship between slag, crucibles, molds, copper and bronze artifacts, and related architectural remains. Such study will elucidate the contribution of this site to the development of the metallurgical industry in Central Anatolia during the Bronze and Iron Ages.
 
+---
+
 ## Notes
 
 [^1]: Omura 2011.

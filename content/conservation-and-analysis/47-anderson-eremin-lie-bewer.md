@@ -89,6 +89,8 @@ In the end, this unusual lead-isotope analysis result is not enough to condemn t
 
 This paper has given a very brief overview of a large trove of data in order to explore issues of authenticity in relation to copper-alloy objects generally, and to revisit earlier doubts concerning the antiquity of the Alexander Nelidow in particular. Research into the style, method of manufacture, surface corrosion, alloy, and lead isotopes produces no definitive evidence that this statuette is other than ancient. While a copper-alloy artifact can never be completely vindicated once questions have been raised about its authenticity, the systematic collaboration between curators, conservators, and material scientists can significantly elucidate and clarify our understanding of the piece. But it is important that these professionals work closely together, understanding each other’s methodologies, aims, and conclusions.[^45] More careful examination of objects under microscopes, more sampling, and more research and analysis by such interdisciplinary teams can vastly improve knowledge of our collections.
 
+---
+
 ## Notes
 
 [^1]: Aleksandr Nelidov/Nelidow (1838–1910), a Russian ambassador, had a substantial collection of ancient art; see Pollak 1903 and Galerie Georges Petit 1911.

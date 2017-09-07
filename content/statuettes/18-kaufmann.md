@@ -48,6 +48,8 @@ The last statuette in this series, too, served as a votive object. It belongs to
 
 This brief overview has shown that the group of medium-sized statuettes might greatly profit from more systematic research into their iconographic, technical, and functional aspects.
 
+---
+
 ## Notes
 
 [^1]: In memory of Kenneth Painter († 13th May 2016). For a number of years I have been able to rely on him as an extremely kind and knowledgeable colleague who was very generous with his time. His demise has left us all bereft.

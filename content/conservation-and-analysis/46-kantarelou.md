@@ -113,9 +113,15 @@ An area map was performed at the back of the El god figurine (see [fig. 46.1a](#
 
 Within the PROMET project, a portable micro-XRF spectrometer, based on an industrial prototype but with custom-selected hardware components and measurement head, was utilized on two bronze figurines housed at the National Museum of Damascus. Optimized analysis protocols were developed with the aim of achieving an accurate and precise compositional analysis of the Cu alloys, overcoming spectral interferences that arise due to the polycrystalline nature of the alloy’s surface. Filters for the detection of bronze alloys should first be tested and the minimum representative area of analysis should be examined and specified on reference bronze alloys. Finally, the quantification procedure should only be used on corrosion-free areas in order to produce reliable analytical results. This paper outlined this methodological approach to carry out verifiable and reproducible compositional analysis.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 We would like to thank Mr. Eythimios Bistekos for his technical assistance during the in situ campaign in Damascus, Syria, and Dr. Demetrios Anglos for providing us with the reference bronze standards. We are also grateful to Dr. Maamoun Abdulkarim, Mr. Maher Azar, the staff of the Ministry of Culture of Syria, and the curators of the National Museum of Damascus for granting us the permission to study the unique gilded bronze figurines, for their hospitality, and for overall assistance during our campaign.
+
+{{< /backmatter >}}
 
 ## Notes
 

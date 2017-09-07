@@ -65,9 +65,15 @@ In contrast to the Archelaos Relief but also prompting analysis of the real and 
 
 The head of Arsinoë III in Mantua, however, is the key to understanding her subtle, two-sided portraiture and exploring the phenomenon of the Greek interaction with Egypt under the Ptolemies. The specific dynamic between this representation and that of the queen on the Archelaos Relief calls for a reinterpretation of her portrait type. The survival of these works is fortuitous: the bronze for its material in the heroic sense and the marble relief for the divine personification of the queen as Oikoumene. Both masterfully mix realism and divinity. The head in Mantua may be argued to show the queen at her most beautiful: the perfect balance between realistic and idealized parts, whether analyzed from the front, sides, or any other viewpoint. The relief, on the other hand, shows her leading the action not only on the bottom register but in the narrative as a whole: the overwhelming feminine presence, the sheer number of Muses and female personifications needs to be taken into account. It is she who bestows the crown and hence births the deification of the epic embodiment of Greek cultural memory. The role of Hellenistic Alexandria, her home base, is acknowledged very soundly as the place of genesis, if not origin, for the ideology embodied in both the bronze head and the marble relief. It is the necessary catalyst for motivating two such sophisticated responses within the type.[^44]
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I foremost acknowledge Chiara Pisani, conservator of the Museo Civico di Palazzo Te in Mantua, for her generous permission to study the head of Arsinoë III in September 2015 and for our ensuing dialogue. My sincere appreciation also goes to Daniela Saccenti, librarian at the Palazzo Te, for discussing the Acerbi Collection in detail and inspiring me to come back and work more on this material. Special thanks are owed to the organizers of the XIX International Congress on Ancient Bronzes at the J. Paul Getty Museum, who coordinated the rich program and schedule of events with the *Power and Pathos* exhibition; and especially Jens Daehner, Kenneth Lapatin, and Ambra Spinelli for their work in ensuring the excellence of the proceedings.
+
+{{< /backmatter >}}
 
 ## Notes
 

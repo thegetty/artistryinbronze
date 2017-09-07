@@ -80,9 +80,15 @@ Cysteine was tested on another fragment of a tinned copper-alloy artifact from t
 
 The paper presented a case study in which local electrolysis and the use of L-cysteine, an alternative corrosion inhibitor to BTA, can successfully be applied to stabilize a marine copper-alloy artifact with evidence of a tinned surface. Such a treatment approach can be applied to marine copper-alloy artifacts when the aim is to preserve information in the patina of such objects, which may traditionally be sacrificed during conservation treatment in order to stabilize the artifact. The treatment approach was successful at stabilizing a thirteenth-century marine copper-alloy frying pan with evidence of tinning.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 The authors would like to thank P. Manti for her useful comments regarding the analyses of the tinned surface. We also thank G. Koutsoflakis from the Ephorate of Underwater Antiquities for his support of our work. The authors would also like to acknowledge that this conservation work was supported by the MERMAID research project that was operated under the THALES action and coordinated by the TEI-A. The research on cysteine and local electrolysis has been co-financed by the European Union (European Social Fund – ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF) - Research Funding Program: ARCHIMEDES III: Investing in the knowledge society through the European Social Fund.
+
+{{< /backmatter >}}
 
 ## Notes
 

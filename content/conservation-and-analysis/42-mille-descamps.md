@@ -107,6 +107,8 @@ Very detailed comparative studies are still required before a distinct Rhodian b
 
 {{< q-figure id="42.9" >}}
 
+---
+
 ## Notes
 
 [^1]: Descamps-Lequime 2015, no. 47, with related bibliography.

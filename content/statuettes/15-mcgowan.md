@@ -66,9 +66,15 @@ Kallimachos’s ennobling of the poet does not come out of the blue, however. M.
 
 Hipponax’s revival in Alexandria by Kallimachos in the third century BC, and his appreciation by Hellenistic poets, scholars, and erudite patrons in the hothouse atmosphere provided by the Great Library itself, may have inspired the imaginative portrait seen in the statuette: a figure who, although imperfect in form, is strong, with a thoughtful countenance; whose extraordinary intellectual and creative powers shine through silver eyes, and with a wax tablet to record those extraordinary thoughts. In combining an artisan’s body with a poet’s means of expression, an actual Hellenistic sculptor refigured in the bronze statuette of Hipponax a personification of the struggle between the poet and his archnemesis, the sculptor Boupalos, revealing the *paragone* between poetry and the visual arts at the heart of Hipponax’s poetry. The statue is reputed to have come from the sea off North Africa, which might suggest Alexandria as its place of manufacture. Wherever this statuette stood originally, many must have sought inspiration from it, for the bald forehead has been worn and rubbed smooth by touch, no doubt by those who sought luck and inspiration, or even protection, from the poet’s aura.[^60]
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I am grateful to Kenneth Lapatin and Jens Daehner for the invitation to contribute a paper to the 19th International Congress on Ancient Bronzes. Thanks are due as well to Gianfranco Adornato, Ruth Bielfeldt, Kenneth Lapatin, and John Pollini for valuable questions and discussion of the paper. I am most indebted to Guy Hedreen, whose chapter on Hipponax in *The Image of the Artist in Archaic and Classical Greece: Art, Poetry, and Subjectivity* (2016) introduced me to the biographical tradition surrounding the poet, and for selflessly standing as sounding board for many of the ideas presented here. For photographs, thanks are due to Maria Chidiroglou at the National Archaeological Museum in Athens; Liz Kurtulik Mercuri at Art Resource; Craig Mauzy at the Athenian Agora; Dr. Ramona Messerig, Dr. Ellen Riemer, and Ursula Rudischer at the Landesmuseum Mainz; and Marie-Lan Nguyen of Wikimedia Commons. The photographs of the “Bronze Artisan” himself are from the Metropolitan Museum Collections website and are used here thanks to OASC at www.metmuseum.org.
+
+{{< /backmatter >}}
 
 ## Notes
 

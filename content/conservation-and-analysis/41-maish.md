@@ -78,6 +78,8 @@ As concluded in previous studies, the Getty herm with slightly undercut detail s
 
 Previously published analytical results for the herm (isotopic and alloy composition) are consistent with ancient production and, although the lead-tin bronze composition is broadly similar to that of the Mahdia herm, it does not present the same alloy composition. Isotopic results suggest an Aegean origin for lead in the bronze alloy, although the origin of the separate lead deposit is different and perhaps associated with the installation locality. The cobalt concentration in the bronze is higher than in the lead, possibly associating the cobalt with the copper ore and a more specific copper source, possibly Anatolian. Considered in combination with stylistic Aphrodisian and Pergamene parallels and a signature by Boethos of Calkedon (on the Mahdia herm), more consideration should be given to possible workshop origins in the eastern Mediterranean for both figures.
 
+---
+
 ## Notes
 
 [^1]: Scott and Podany 1989.

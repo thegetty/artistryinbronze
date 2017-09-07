@@ -104,6 +104,8 @@ Shipwrecks transporting bronzes remain elusive no matter the time, means, and fu
 
 Defining an archaeological context remains today the most crucial issue for the majority of bronzes retrieved underwater. Bronzes without context can still serve the history of art, but our understanding of the conditions of transit are relegated to the sphere of assumption. A subsequent need to relocate and investigate anew historic wrecks of the past is slowly being fulfilled. The painstaking documentation of the remains of the Antikythera shipwreck, now under excavation, will partly address that. The relocation of the remnants of the Artemision wreck is evoking a reconsideration of the date and circumstances of the ship’s transit. Experience has shown that only fully excavated shipwrecks and detailed study of all of the material on board can provide the kind of information that will allow scholars to link those wrecks to specific historical episodes.
 
+---
+
 ## Notes
 
 [^1]: [www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world](www.easyreadernews.com/108987/power-and-pathos-bronze-sculpture-of-the-hellenistic-world).

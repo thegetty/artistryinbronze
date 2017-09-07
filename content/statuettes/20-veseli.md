@@ -86,6 +86,8 @@ The bronze statuettes examined here follow the canons of the Greek world for the
 
 These bronze statuettes bear close similarities with their counterparts in large-scale bronze sculpture of the Greek and Roman periods, testifying to influences of styles and bronze-working methods, and also similarities in religion across the Mediterranean world.
 
+---
+
 ## Notes
 
 [^1]: Perdrizet 1911, 702, fig. 4219; Carapanos 1878, plate XII, no. 4; De Ridder 1894, 140, fig. 805; Langlotz 1927, plate 30, nos. 1–2, and plate 37; Karouzos 1930–31, 55–67; Elderkin 1940, 225–33; Mylonas 1944; Mitten and Doeringer 1968, 89, fig. 85; Ognenova-Marinova 1975, 58–61, no. 51, fig. 51; Mattusch 1988, 151–53, fig. 6.10.

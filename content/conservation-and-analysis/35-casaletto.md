@@ -102,6 +102,8 @@ Halloysite clay (Al<sub>2</sub>Si<sub>2</sub>O<sub>5</sub>(OH)4·*nH<sub>2</sub>
 
 The scientific literature on bronze corrosion inhibitors is huge, but the vast majority of studies deal with fundamental aspects of corrosion inhibition or industrial applications. Recently, there is an open field of studies in continuous evolution, based on the problem of bronze stabilization by means of eco-compatible and safe new products. In most cases, research is still confined to experimental context and to model surfaces. Usually the inhibitors are applied to pure standard bronze alloys, even though in heritage conservation they would be applied on real ancient surfaces, often over pre-existing corrosion products (or patinas) that have to be preserved with a specific conservation protocol. Advancements are required in the investigation of other properties of the coating, including long-term stability, and in the testing on artificially corroded bronze surfaces, in order to mimic the real behavior of archaeological bronze artifacts. The final validation of these products should be made by the conservator using a specific methodology adapted to the particular needs and conditions of their use on precious ancient bronzes.
 
+---
+
 ## Acknowledgments
 
 Financial support from the PON03PE\_00214\_1 Project: “Nanotecnologie e nanomateriali per i Beni Culturali,” TECLA, Distretto di Alta Tecnologia per l’Innovazione nel settore dei Beni Culturali della Regione Sicilia, is gratefully acknowledged.

@@ -50,6 +50,8 @@ A throne of the same form was found at the Lippi necropolis near Verucchio.[^10]
 
 As a result of our research, it became clear that the items are not entirely fake as was assumed before. Two similar objects in the form of shields most likely are parts of Etruscan paterae or large bowls. It is highly probable that the hemispheres detached from a shield may have been decorations on a wooden item, such as an Etruscan chair.
 
+---
+
 ## Notes
 
 [^1]: Guédéonow 1861, 41.

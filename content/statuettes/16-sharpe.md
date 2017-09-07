@@ -52,6 +52,10 @@ Earlier scholars have often referred to the gods represented in the Paramythia h
 
 Although discovered over two hundred years ago, the Paramythia bronzes still have much to reveal not only about the character of Roman domestic cult practices in Roman Epirus but also as evidence for how Romans may have maintained a sense of Roman identity while living abroad. There are very few signs that Greeks living under Roman rule were interested in adopting Roman domestic cult practices, so the display of bronze statuettes in *lararia* must have been a remarkable sight in Roman Greece, one that immediately proclaimed the status and identity of the owner. While recent archaeological work has added to our knowledge of major Roman sites in Epirus (e.g., Butrint and Nikopolis) with some attention directed to determining the extent of the Roman cultural stamp placed on these cities, it is worth considering the personal experience of an expatriate Roman family and the measures it took to maintain and promote a Roman identity. During a period of unrest and insecurity—perhaps the Herulian invasion of Greece in AD 267—the owner of these bronze statuettes took great pains to safeguard them. They were not just objects of great monetary value but important symbols of status and identity. Today, they are worthy of reexamination as they add immensely to our understanding of the interrelationships between Romans and Greeks, both artistically and culturally, in Roman Epirus.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 I wish to thank the Trustees of the British Museum for allowing me to work on this material, and I am especially appreciative to the staff in the Department of Greece and Rome (in particular Judith Swaddling) for their kind assistance. I also wish to convey my gratitude to the Office of Sponsored Research at West Chester University for generously funding this research project.
@@ -109,6 +113,8 @@ In the collection of the British Museum, with current acquisition and catalogue 
 ### Owner/Location Unknown
 
 20. Hercules
+
+{{< /backmatter >}}
 
 ## Notes
 

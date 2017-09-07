@@ -118,6 +118,8 @@ The semi-cylinder is an awkward and unstable shape, unless it is associated with
 
 This notion of a writing substratum that is rolled around a pen case is known from historical finds. Such a writing case was in the possession of J. W. Goethe and is exhibited in his Weimar house. A similar case in gold-decorated red leather belonged to Napoleon, who gave it as a gift to his friend Marshal Lannes.[^15] The case proper accommodates pens in the middle, while its two metal ends are an inkwell and an ink-powder container. Like our Classical finds, it is a portable case, but used by army officers for writing letters and orders during military campaigns rather than for medical purposes.
 
+---
+
 ## Notes
 
 [^1]: Translated by the author. See also Bliquez 2015, 24.

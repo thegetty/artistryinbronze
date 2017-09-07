@@ -65,9 +65,15 @@ Finally, we find a group of “vertical” instruments, namely candelabra, *kott
 
 Research on Delphic bronze vessels and instruments also seeks to record and explain the detectable traces of actions made during the sacred rituals and the consecrations of offerings, in order to better understand the behaviors performed by devotees and priests in the sacred precinct. The “partial” offering of metal objects has already been demonstrated in various Greek sacred contexts, especially regarding vases and weapons.[^28] Modifications of and deliberate damage to bronze objects by breaking, bending, piercing, mutilating, and so on are known at many necropoleis and sanctuaries, including Delphi, where this practice is attested on some helmet cheek-pieces.[^29]
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 The research on metal vessels and related *instrumenta* at Delphi is conducted in the frame of the Contrat Quinquennal of the École Française d’Athènes under the auspices of the local Ephoria. I would also like to acknowledge the Alexander S. Onassis Public Benefit Foundation in Athens and the Scuola Archeologica Italiana di Atene for their support and the research facilities provided.
+
+{{< /backmatter >}}
 
 ## Notes
 

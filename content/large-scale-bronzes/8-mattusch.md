@@ -89,6 +89,8 @@ Was the Marathon Boy on a ship bound for Italy? Nothing else was found nearby. W
 
 We might ask ourselves what deserves consideration as a statue. If the Marathon Boy were a tray-bearer, could he not also be a statue? As we look at these once-gleaming bronze ephebes with outstretched arms, we might remember that the well-made “golden boys” are first brought to our attention by Homer in the Palace of Alkinoos, and that the genre enjoyed great popularity in sumptuous Roman homes.
 
+---
+
 ## Notes
 
 [^1]: Louvre inv. Br. 2. H. 115 cm (3 ft. 9 in.).

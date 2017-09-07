@@ -78,9 +78,15 @@ It seems hardly coincidental that the sea world that artistically inspired the v
 
 Finally, vessels produced during the last quarter of the first century AD feature a union between Triton and Dionysos. In doing so, the Triton Masters take this deity to his next transformation.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 Many thanks are due to S. Tassinari, S. Descamps, C. Pouzadoux, V. Sampaolo, A. Villone, F. Miele, A. Milanesi, G. Albano, D. Salzmann, R. Dylka, and J. Chamay.
+
+{{< /backmatter >}}
 
 ## Notes
 

@@ -56,6 +56,10 @@ Both literary references and a few figural representations indicate that figural
 
 Of particular interest is a miniature bronze kithara, which the Akademisches Kunstmuseum of the University of Bonn purchased in 2009.[^8] The kithara, which originally must have been the attribute of a statuette of Apollo, preserves inlays in different metals on both sides, in imitation of intarsia. On the inner side is a theatrical mask and on the outer side there is a seated Eros. Similarly, we can propose that most of the silhouette-figures were used to adorn actual wooden musical instruments.
 
+---
+
+{{< backmatter >}}
+
 ## Catalogue
 
 Cat. 1: Armed dancer. Berlin, Antikensammlung – Staatliche Museen zu Berlin, inv. 31631. H: 10.5 cm. D: 0.12 cm. Said to be from Etruria. Purchased ca. 1936/37 from the collection of Dr. Albert Figdor, Vienna. Published: Franken 2011 (31631). [Fig. 34.1](#34.1).
@@ -87,6 +91,8 @@ Cat. 13. Seated griffin. Art market. H: 3.9 cm. Findspot unknown. Published: *An
 ## Acknowledgments
 
 A lively discussion followed my presentation on October 17, 2015, at the 19th International Congress on Ancient Bronzes at the Getty Center, Los Angeles. For suggestions and references, I am grateful to J. Daehner, N. Gulyaeva, D. Ignatiadou, C. Mattusch, and J. Pollini. For images, permissions, and additional information I should also like to thank R. Aleotti (Reggio Emilia), M. Bernabò Brea (Parma), M. Bolla (Verona), S. Culpepper Stroup (Washington), W. Geominy (Bonn), L. Hagel (Santa Barbara), F. Knauß (Munich), G. Lindström (Berlin), R. Macellari (Reggio Emilia), A. Paolucci (Rome), J. Rageth (Chur), M. Sannibale (Rome), E. Stern (Tel Dor Excavation), D. Tisserand (Lyon), and A. Viani (Reggio Emilia).
+
+{{< /backmatter >}}
 
 ## Notes
 

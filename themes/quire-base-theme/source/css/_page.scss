@@ -26,6 +26,7 @@
       color: $mid-neutral;
       font-family: $heading-font-family;
       font-style: italic;
+      font-weight: 400;
       list-style-type: none;
       margin-top: 0;
       padding: 0;
@@ -155,12 +156,54 @@
           text-transform: none;
         }
       }
+
+      &__backmatter {
+        font-size: 1rem * $small-font-scale;
+        line-height: $small-font-line-height;
+
+        h2 {
+          font-size: 1.25rem;
+          color: $dark-neutral;
+        }
+        h3 {
+          color: $dark-neutral;
+        }
+      }
+
+      h2#notes {
+        font-size: 1.25rem;
+        color: $dark-neutral;
+      }
+
+      h2#notes + p {
+        font-size: 1rem * $small-font-scale;
+        line-height: $small-font-line-height;
+      }
+
+    }
+
+    &__reader-note {
+      font-size: 1rem * $small-font-scale;
+      line-height: $small-font-line-height;
+      h2 {
+        font-size: 1.25rem;
+        color: $dark-neutral;
+      }
+    }
+
+    &__references {
+      h2 {
+        font-size: 1.25rem;
+        color: $dark-neutral;
+      }
     }
 
     &__references dt {
       font-size: 1rem * $small-font-scale;
-      font-weight: bold;
+      font-weight: 400;
       line-height: $small-font-line-height;
+      // color: $dark-neutral;
+      color: #5e5e5e;
     }
 
     &__references dd {

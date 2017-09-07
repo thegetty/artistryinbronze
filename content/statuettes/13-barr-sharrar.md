@@ -66,7 +66,13 @@ When a small-scale bronze version reiterates a marble prototype, the potential f
 
 Artists who built bronze casting models from pliable wax on what may well have been flexible armatures could design freer and more open gestures of the arms and hands, which was not so easily achieved in marble without struts or supports. A bronze statuette like the Aphrodite follows the general *schema* of its prototype and is unquestionably indicative of the original statue’s great fame and a moving testament to Praxiteles’s genius. But whatever its artist’s intention might have been, we must consider the statuette an inventive response by an artist who was inspired and motivated by some familiarity with the original marble type, not a copy.
 
-Note: Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.
+---
+
+{{< backmatter >}}
+
+*Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.*
+
+{{< /backmatter >}}
 
 ## Notes
 

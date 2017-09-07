@@ -48,6 +48,8 @@ Plutarch’s reference to marble and the use of the article *ὁ* encourages us 
 
 In conclusion, Plutarch’s description of Lysander’s monuments in Delphi reveals a use of the material—bronze or marble—first of all to distinguish between two different statues. In the case of the group of the Admirals, the deterioration of the bronze and the formation of the blue patina became a means of interpreting the monument in light of the event it celebrated and of its connection with the sea. Moreover, the discussion of the origin of the patina, which is due to the Delphic air, introduces the philosophical nature of the writing and represents the first step in the theological reflection that Plutarch intends to develop. Therefore, the bronze and its patina also assumes a philosophical and religious value: it is peculiar to the sanctuary of Delphi and strictly linked to Apollo. In Plutarch’s view, the bronze becomes more than bronze and a bronze statue more than just the sum of its technique and aesthetic appearance. The material assumes both a historical and a philosophical value and becomes the key of Plutarch’s interpretation of the Monument of the Admirals.
 
+---
+
 ## Notes
 
 [^1]: Jouanna 1975; Pouilloux 1986; Craddock and Giumlia-Mair 1993a, 1993b; Giumlia-Mair and Craddock 1993, 15–17; Giumlia-Mair and Lehr 1998; Giumlia-Mair et al. 2000; Giumlia-Mair 2001a, 2001b; Giumlia-Mair 2008, 269–73; Franke and Mircea 2005.

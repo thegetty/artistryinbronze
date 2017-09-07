@@ -108,6 +108,8 @@ The equestrian group of Alexander the Great is composed of four authentic ancien
 
 None of the three sculptural pieces of the group presents traces of slush casting of the waxes, and the rider exhibits clues of direct shaping (i.e., it seems an original model). Further investigations are needed in order to assess whether the rider and horse belong together. In particular, we suggest that future studies include the other prancing horse found in the same area of Herculaneum in order to gain further insights.
 
+---
+
 ## Notes
 
 [^1]: Excavation daybook notes for the relevant dates are as follows: October 24, 1761: “part of the sword.” October 31, 1761: “the metal base and a fragment of the embellishments of the horse.” November 3, 1761: “the right leg of the rider.” November 19, 1761: “a hoof of the horse.” November 21, 1761: “the right hoof, two feet of the horse, sword, right arm, right leg and left leg of the rider.”

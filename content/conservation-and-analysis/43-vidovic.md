@@ -113,6 +113,8 @@ Very interesting is the fact that the corresponding impurities pattern is not on
 
 Given the distinct alloy of the decorated plinth face and its lower impurities pattern (Ag/Bi/Sb only), it is very likely that the decorated parts of the plinth were manufactured in a later phase. It seems possible that a major restoration and/or modification of the plinth occurred already during the ancient life of the statue.
 
+---
+
 ## Notes
 
 [^1]: Karniš Vidovič and Mille 2015.
