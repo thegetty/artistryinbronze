@@ -25,7 +25,7 @@
     <section class="quire-page__content__reader-note">
       <hr />
       <h2 id="#note-to-the-reader">Note to the Reader</h2>
-      {{ . | markdownify }}
+      {{ . | safeHTML }}
     <section>
     {{ end }}
   </div>

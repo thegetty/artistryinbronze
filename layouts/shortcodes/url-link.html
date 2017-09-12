@@ -1,0 +1,3 @@
+{{ $linkstep1 := replace .Inner "/" "/<wbr>"  }}
+{{ $link := replace $linkstep1 "/<wbr>/<wbr>" "//"}}
+<a href="{{ .Inner }}">{{ $link | safeHTML }}</a>

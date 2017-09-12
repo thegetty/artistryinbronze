@@ -93,7 +93,7 @@ For the opportunity to study the portrait of Tiberius, we are indebted to Luigia
 
 [^1]: See most recently Risser and Saunders 2015.
 
-[^2]: Museo Archeologico Nazionale di Napoli, inv. 5615; Lahusen and Formigli 2007, 40–42 with bibliography, to which add Boschung 2002, 120, no. 42.8 and Najbjerg 1997, 235–36 (S13). For more on the project, see the blog posts: [http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/](http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/); [http://blogs.getty.edu/iris/rediscovering-tiberius/](http://blogs.getty.edu/iris/rediscovering-tiberius/); [http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/](http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/).
+[^2]: Museo Archeologico Nazionale di Napoli, inv. 5615; Lahusen and Formigli 2007, 40–42 with bibliography, to which add Boschung 2002, 120, no. 42.8 and Najbjerg 1997, 235–36 (S13). For more on the project, see the blog posts: {{< url-link >}}http://blogs.getty.edu/iris/a-roman-emperor-sojourns-at-the-getty-villa/{{< /url-link >}}; {{< url-link >}}http://blogs.getty.edu/iris/rediscovering-tiberius/{{< /url-link >}}; {{< url-link >}}http://blogs.getty.edu/iris/has-history-got-roman-emperor-tiberius-all-wrong/{{< /url-link >}}.
 
 [^3]: *CIL* X 1414. Bardet’s excavation report (quoted in Panutti 1983, 210) testifies to the association, but the authors of *Antichità* 1771 rejected any connection between the portrait and the inscription (312, n. 6). Given the inscription’s substantial width, Boschung (2002, 123, n. 691), has also sought to disassociate the two.
 

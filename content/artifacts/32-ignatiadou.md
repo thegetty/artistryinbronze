@@ -150,4 +150,4 @@ This notion of a writing substratum that is rolled around a pen case is known fr
 
 [^14]: Pöhlmann 2013, 12‒4, plate I 8b.
 
-[^15]: Dated 1804–09. 33.2 x 6.3 cm. Fondation Napoléon, Paris. [http://www.napoleon.org/en/collectors_corner/object/files/486393.asp](http://www.napoleon.org/en/collectors_corner/object/files/486393.asp) (accessed 4-10-2015).
+[^15]: Dated 1804–09. 33.2 x 6.3 cm. Fondation Napoléon, Paris. {{< url-link >}}http://www.napoleon.org/en/collectors_corner/object/files/486393.asp{{< /url-link >}} (accessed 4-10-2015).

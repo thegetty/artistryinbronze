@@ -119,7 +119,7 @@ See also the author's forthcoming article, “The Ptolemaic Dedication of Archep
 
 [^20]: Fraser (\[1972\] 2001, 2: 862) gives the text for the epigram (P.Cair. 65445) including the vocative address, εὐαὶων Πτολεμαῖε. In a disappointing assessment, Fraser seemingly disassociates the Archelaos Relief not only from Ptolemy IV and Arsinoë but from Alexandria itself. The reasons given are not clear. Mention is made of a “later date.”
 
-[^21]:See [http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22](http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22).
+[^21]:See {{< url-link >}}http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22{{< /url-link >}}.
 
 [^22]: Thompson 2012, 108–9; Bagnall and Rathbone 2004, 100–101, especially fig. 3.4.6.
 

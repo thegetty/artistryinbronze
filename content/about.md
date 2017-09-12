@@ -24,7 +24,7 @@ http://www.getty.edu/publications/artistryinbronze
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at [http://www.github.com/gettypubs/artistryinbronze](http://www.github.com/gettypubs/artistryinbronze), where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at {{< url-link >}}http://www.github.com/gettypubs/artistryinbronze{{< /url-link >}}, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
 {{< q-revision-history >}}
 

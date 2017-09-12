@@ -139,7 +139,7 @@ Thanks are also due to Richard  Newman, head of scientific research, and Michele
 
 [^10]: Bodley 1946, 217.
 
-[^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. [http://www.mfa.org/collections/conservation/feature_auloiofmeroe](http://www.mfa.org/collections/conservation/feature_auloiofmeroe).
+[^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. {{< url-link >}}http://www.mfa.org/collections/conservation/feature_auloiofmeroe{{< /url-link >}}.
 
 [^12]: Hagel 2012a.
 
