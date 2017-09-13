@@ -525,6 +525,10 @@ $print-page-number-size: 7.5pt;
     margin-left: 0;
     padding-left: 0;
 
+    &__page {
+      page-break-inside: avoid;
+    }
+
     &__page,
     &__section {
       a {

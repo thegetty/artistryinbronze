@@ -344,4 +344,13 @@ table#table-23-appendix ul {
     color: #5e5e5e;
   }
 
+  #contents .toc-break::before {
+    content: "\A";
+    white-space: pre;
+  }
+
+  .quire-contents li.quire-contents__section:nth-of-type(6) {
+    page-break-before: always;
+  }
+
 }

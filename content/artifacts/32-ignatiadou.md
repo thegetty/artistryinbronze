@@ -1,6 +1,6 @@
 ---
 id: "32"
-title: Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia
+title: Bronze Medical and Writing Cases in Classical and <span class="toc-break">Hellenistic Macedonia<span>
 short_title: Bronze Medical and Writing Cases
 type: essay
 contributor:
