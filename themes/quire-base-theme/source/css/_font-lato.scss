@@ -1,21 +1,43 @@
 @font-face {
   font-family: 'Lato';
-  src: url('../fonts/lato-regular-webfont.eot');
-  src: url('../fonts/lato-regular-webfont.eot?#iefix') format('embedded-opentype'),
-       url('../fonts/lato-regular-webfont.woff2') format('woff2'),
-       url('../fonts/lato-regular-webfont.woff') format('woff'),
-       url('../fonts/lato-regular-webfont.ttf') format('truetype');
+  src: url('../fonts/Lato-Light.eot');
+  src: url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Lato-Light.woff2') format('woff2'),
+       url('../fonts/Lato-Light.woff') format('woff'),
+       url('../fonts/Lato-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../fonts/Lato-LightItalic.eot');
+    src: url('../fonts/Lato-LightItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Lato-LightItalic.woff2') format('woff2'),
+         url('../fonts/Lato-LightItalic.woff') format('woff'),
+         url('../fonts/Lato-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato-Regular.eot');
+  src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+       url('../fonts/Lato-Regular.woff2') format('woff2'),
+       url('../fonts/Lato-Regular.woff') format('woff'),
+       url('../fonts/Lato-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'Lato';
-    src: url('../fonts/lato-italic-webfont.eot');
-    src: url('../fonts/lato-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/lato-italic-webfont.woff2') format('woff2'),
-         url('../fonts/lato-italic-webfont.woff') format('woff'),
-         url('../fonts/lato-italic-webfont.ttf') format('truetype');
+    src: url('../fonts/Lato-Italic.eot');
+    src: url('../fonts/Lato-Italic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Lato-Italic.woff2') format('woff2'),
+         url('../fonts/Lato-Italic.woff') format('woff'),
+         url('../fonts/Lato-Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
 }
