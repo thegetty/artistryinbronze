@@ -321,7 +321,7 @@ biblio_list:
     reference_for: "2"
 
   - short: Zimmer and Bairamē 2008
-    full: "Zimmer, G., and Bairamē, K. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund."
+    full: "Zimmer, G., and Bairamē, K. 2008. *<span lang='grc'>Ροδιακά εργαστήρια χαλκοπλαστικής</span>*. Athens: Ministry of Culture, Archaeological Resources and Receipts Fund."
     reference_for: "2"
 
   - short: Azoulay 2009
@@ -345,7 +345,7 @@ biblio_list:
     reference_for: "3"
 
   - short: Bouyia 2011
-    full: "Bouyia, P. 2011. “Σπένδουσα Άρτεμις.” In *Μύθος και Νόμισμα, Παραστάσεις, Συμβολισμός και Ερμηνείες από την Ελληνική Μυθολογία*, exh. cat., 76, n. 153. Athens: National Archaeological Museum."
+    full: "Bouyia, P. 2011. “<span lang='grc'>Σπένδουσα Άρτεμις</span>.” In *<span lang='grc'>Μύθος και Νόμισμα, Παραστάσεις, Συμβολισμός και Ερμηνείες από την Ελληνική Μυθολογία</span>*, exh. cat., 76, n. 153. Athens: National Archaeological Museum."
     reference_for: "3"
 
   - short: Daehner 2007
@@ -357,15 +357,15 @@ biblio_list:
     reference_for: "3"
 
   - short: Dellaporta and Dimitriadou 1999
-    full: "Dellaporta, K., and T. Dimitriadou, 1999. “Παραδόσεις.” *AΔ* 54, Χρονικά B΄2: 1030–32."
+    full: "Dellaporta, K., and T. Dimitriadou, 1999. “<span lang='grc'>Παραδόσεις</span>.” *<span lang='grc'>AΔ</span>* 54, <span lang='grc'>Χρονικά</span> B΄2: 1030–32."
     reference_for: "3"
 
   - short: Dellaporta 2001–2004
-    full: "Dellaporta, K. P. 2001–2004. *ΑΔ* 56–59, Χρονικά Β΄ 6: 591–92."
+    full: "Dellaporta, K. P. 2001–2004. *<span lang='grc'>ΑΔ</span>* 56–59, <span lang='grc'>Χρονικά</span> Β΄6: 591–92."
     reference_for: "3"
 
   - short: Dellaporta 2006
-    full: "Dellaporta, K. P. 2006. *ΑΔ* 61, Χρονικά Β΄ 2: 1409."
+    full: "Dellaporta, K. P. 2006. *<span lang='grc'>ΑΔ</span>* 61, <span lang='grc'>Χρονικά</span> Β΄2: 1409."
     reference_for: "3"
 
   - short: Dellaporta 2014
@@ -373,7 +373,7 @@ biblio_list:
     reference_for: "3"
 
   - short: Dellaporta, Kourkoumelis, and Micha 2005
-    full: "Dellaporta, A., D. Kourkoumelis, and P. Micha. 2005. *ΑΔ* 60, Χρονικά Β΄2: 1246–48."
+    full: "Dellaporta, A., D. Kourkoumelis, and P. Micha. 2005. *<span lang='grc'>ΑΔ</span>* 60, <span lang='grc'>Χρονικά</span> Β΄2: 1246–48."
     reference_for: "3"
 
   - short: Eiseman and Ridgway 1987
@@ -385,7 +385,7 @@ biblio_list:
     reference_for: "3"
 
   - short: Filios 1899
-    full: "Filios, D. 1899. “Χάλκινον ἄγαλμα Ποσειδῶνος ἐκ Βοιωτίας.” *Ἀρχ. Ἐφ.*, 58–74."
+    full: "Filios, D. 1899. “<span lang='grc'>Χάλκινον ἄγαλμα Ποσειδῶνος ἐκ Βοιωτίας</span>.” *<span lang='grc'>Ἀρχ. Ἐφ.</span>*, 58–74."
     reference_for: "3"
 
   - short: Frost 1963
@@ -433,27 +433,27 @@ biblio_list:
     reference_for: "3"
 
   - short: Karouzos 1930–31
-    full: "Karouzos, C. 1930–31. “Ὁ Ποσειδῶν τοῦ Ἀρτεμησίου.” *ΑΔ* 13: 41–104."
+    full: "Karouzos, C. 1930–31. “<span lang='grc'>Ὁ Ποσειδῶν τοῦ Ἀρτεμησίου</span>.” *<span lang='grc'>ΑΔ</span>* 13: 41–104."
     reference_for: "3"
 
   - short: Kazianis 1994
-    full: "Kazianis, D. 1994. *ΑΔ* 49, Χρονικά Β΄2: 856, pl. 265."
+    full: "Kazianis, D. 1994. *<span lang='grc'>ΑΔ</span>* 49, <span lang='grc'>Χρονικά</span> Β΄2: 856, pl. 265."
     reference_for: "3"
 
   - short: Kazianis 1997
-    full: "Kazianis, D. 1997. *ΑΔ* 52, Χρονικά Β΄3: 1201."
+    full: "Kazianis, D. 1997. *<span lang='grc'>ΑΔ</span>* 52, <span lang='grc'>Χρονικά</span> Β΄3: 1201."
     reference_for: "3"
 
   - short: Koutsouflakis 2007
-    full: "Koutsouflakis, G. 2007. “Χάλκινος κορμός ιππέα από την θαλάσσια περιοχή της Καλύμνου.” *Ενάλια* 10: 42–57."
+    full: "Koutsouflakis, G. 2007. “<span lang='grc'>Χάλκινος κορμός ιππέα από την θαλάσσια περιοχή της Καλύμνου</span>.” *<span lang='grc'>Ενάλια</span>* 10: 42–57."
     reference_for: "3"
 
   - short: Koutsouflakis, forthcoming
-    full: "Koutsouflakis, G. Forthcoming. “Ναυάγιο Ύστερης Ελληνιστικής Περιόδου στο Ακρωτήριο Ρέθι της Nήσου Στύρα.” *ΑΔ* 2010."
+    full: "Koutsouflakis, G. Forthcoming. “<span lang='grc'>Ναυάγιο Ύστερης Ελληνιστικής Περιόδου στο Ακρωτήριο Ρέθι της Nήσου Στύρα</span>.” *<span lang='grc'>ΑΔ</span>* 2010."
     reference_for: "3"
 
   - short: Koutsouflakis et al. 2012
-    full: "Koutsouflakis, G., X. Argyri, Chr. Papadopoulou, and J. Sapountzis. 2012. “Υποβρύχια Αναγνωριστική Έρευνα στο Νότιο Ευβοϊκό (2006–2008).” *Enalia* 11: 40–69."
+    full: "Koutsouflakis, G., X. Argyri, Chr. Papadopoulou, and J. Sapountzis. 2012. “<span lang='grc'>Υποβρύχια Αναγνωριστική Έρευνα στο Νότιο Ευβοϊκό</span> (2006–2008).” *Enalia* 11: 40–69."
     reference_for: "3"
 
   - short: Koutsouflakis and Simosi 2015
@@ -489,15 +489,15 @@ biblio_list:
     reference_for: "3"
 
   - short: Piteros 2001
-    full: "Piteros, C. 2001. “Ο Δίας του Αρτεμισίου και ο Ποσειδώνας του Ισθμού της Κορίνθου. ” In *Άγαλμα. Μελέτες για την αρχαία πλαστική προς τιμήν του Γιώργου Δεσπίνη*, 99–121. Thessaloniki."
+    full: "Piteros, C. 2001. “<span lang='grc'>Ο Δίας του Αρτεμισίου και ο Ποσειδώνας του Ισθμού της Κορίνθου</span>.” In *<span lang='grc'>Άγαλμα. Μελέτες για την αρχαία πλαστική προς τιμήν του Γιώργου Δεσπίνη</span>*, 99–121. Thessaloniki."
     reference_for: "3"
 
   - short: Proskynitopoulou 2004
-    full: "Proskynitopoulou, R. 2004. “Άγαλμα νεαρής ανδρικής μορφής.” In *Αγών*, ed. N. Kaltsas, 101–3. Exh. cat. Athens: National Archaeological Museum."
+    full: "Proskynitopoulou, R. 2004. “<span lang='grc'>Άγαλμα νεαρής ανδρικής μορφής</span>.” In *<span lang='grc'>Αγών</span>*, ed. N. Kaltsas, 101–3. Exh. cat. Athens: National Archaeological Museum."
     reference_for: "3"
 
   - short: Rhomaios 1924–25
-    full: "Rhomaios, K. 1924–25. “Ὁ ἔφηβος τοῦ Μαραθῶνος.” *ΑΔ* 9: 145–87."
+    full: "Rhomaios, K. 1924–25. “<span lang='grc'>Ὁ ἔφηβος τοῦ Μαραθῶνος</span>.” *<span lang='grc'>ΑΔ</span>* 9: 145–87."
     reference_for: "3"
 
   - short: Ridgway 1967
@@ -537,11 +537,11 @@ biblio_list:
     reference_for: "3"
 
   - short: Tzalas 2007
-    full: "Tzalas, C. Ε. 2007. “Χάλκινα αγάλματα από τα βάθη της θάλασσας.” In *Μεγάλες Στιγμές της Eλληνικής Aρχαιολογίας*, ed. P. Valavanis, 342–63. Athens: Kapon."
+    full: "Tzalas, C. Ε. 2007. “<span lang='grc'>Χάλκινα αγάλματα από τα βάθη της θάλασσας</span>.” In *<span lang='grc'>Μεγάλες Στιγμές της Eλληνικής Aρχαιολογίας</span>*, ed. P. Valavanis, 342–63. Athens: Kapon."
     reference_for: "3"
 
   - short: Vertos 1929
-    full: "Vertos, N. 1929. “Περί τῆς ἐξερευνήσεως τοῦ βυθοῦ τῆς θαλάσσης Ἀρτεμισίου.” *ΑΔ* 10: 87–95."
+    full: "Vertos, N. 1929. “<span lang='grc'>Περί τῆς ἐξερευνήσεως τοῦ βυθοῦ τῆς θαλάσσης Ἀρτεμισίου</span>.” *<span lang='grc'>ΑΔ</span>* 10: 87–95."
     reference_for: "3"
 
   - short: Bohn 1885
@@ -581,11 +581,11 @@ biblio_list:
     reference_for: "4"
 
   - short: Kotsidu 2000
-    full: "Kotsidu, H. 2000. *ΤΙΜΗ ΚΑΙ ΔΟΞΑ: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie."
+    full: "Kotsidu, H. 2000. *<span lang='grc'>ΤΙΜΗ ΚΑΙ ΔΟΞΑ</span>: Ehrungen für hellenistiche Herrscher im griechischen Mutterland und in Kleinasien unter besonderer Berücksichtigung der archäologischen Denkmäler*. Berlin: Akademie."
     reference_for: "4"
 
   - short: Koutsouflakis 2007
-    full: "Koutsouflakis, G. 2007. “Χάλκινος κορμός ιππέα από τη θαλάσσια περιοχή της Καλύμνου.” *Enalia* 10: 42–56."
+    full: "Koutsouflakis, G. 2007. “<span lang='grc'>Χάλκινος κορμός ιππέα από τη θαλάσσια περιοχή της Καλύμνου.</span> *Enalia* 10: 42–56."
     reference_for: "4"
 
   - short: Koutsouflakis and Simosi 2015
@@ -641,7 +641,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Saatsoglou-Paliadeli 2004
-    full: "Saatsoglou-Paliadeli, C. 2004. *Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι.* Athens: Archaeological Society of Athens."
+    full: "Saatsoglou-Paliadeli, C. 2004. *<span lang='grc'>Βεργίνα: Ο Τάφος του Φιλίππου: Η τοιχογραφία με το κυνήγι</span>.* Athens: Archaeological Society of Athens."
     reference_for: "4"
 
   - short: Schwarzmaier et al. 2012
@@ -661,7 +661,7 @@ biblio_list:
     reference_for: "4"
 
   - short: Tsimbidou-Avloniti 2005
-    full: "Tsimbidou-Avloniti, M. 2005. *Μακεδονικοί τάφοι στον Φοίνικα και στον Άγιο Αθανάσιο Θεσσαλονίκης*. Athens."
+    full: "Tsimbidou-Avloniti, M. 2005. *<span lang='grc'>Μακεδονικοί τάφοι στον Φοίνικα και στον Άγιο Αθανάσιο Θεσσαλονίκης</span>*. Athens."
     reference_for: "4"
 
   - short: Tzalas 2007
@@ -1021,7 +1021,7 @@ biblio_list:
     reference_for: "8"
 
   - short: Adornato 2008
-    full: "Adornato, G. 2008. “Delphic Enigmas? The Γέλας ἀνάσσων, Polyzalos and the Charioteer statue.” *AJA* 112: 29–55."
+    full: "Adornato, G. 2008. “Delphic Enigmas? The <span lang='grc'>Γέλας ἀνάσσων</span>, Polyzalos and the Charioteer statue.” *AJA* 112: 29–55."
     reference_for: "9"
 
   - short: Adornato 2010
@@ -1537,7 +1537,7 @@ biblio_list:
     reference_for: "13"
 
   - short: Krystalli-Votsi 2014
-    full: "Krystalli-Votsi, P. 2014. <em>Τα Χαλκά των Αμπελοκήπων</em> (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
+    full: "Krystalli-Votsi, P. 2014. <span lang='grc'><em>Τα Χαλκά των Αμπελοκήπων</em></span> (The Ambelokipi Bronzes). Athens: Hypourgeio Politismou kai Athlētismou, Tameio Archailogikōn Porōn kai Apallotriōseōn."
     reference_for: "13"
 
   - short: Leibundgut 1990
@@ -2025,7 +2025,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Samsaris 1994
-    full: "Samsaris, D. K. 1994. *Η ρωμαἴκη αποικία* *τησ Φωτικής στη Θεσπρωτία της Ηπείπου*. Ioannina: n.p."
+    full: "Samsaris, D. K. 1994. *<span lang='grc'>Η ρωμαἴκη αποικία* *τησ Φωτικής στη Θεσπρωτία της Ηπείπου</span>*. Ioannina: n.p."
     reference_for: "16"
 
   - short: Sharpe 2014
@@ -2053,7 +2053,7 @@ biblio_list:
     reference_for: "16"
 
   - short: Tsouvara-Souli 1987
-    full: "Tsouvara-Souli, C. 1987. “Λατρείς στη Νικόπολη.” In *Nicopolis I: Proceedings of the First International Symposium on Nicopolis (23–29 September 1984)*, ed. E. Chrysos, 169–96. Preveza: Municipality of Preveza."
+    full: "Tsouvara-Souli, C. 1987. “<span lang='grc'>Λατρείς στη Νικόπολη</span>.” In *Nicopolis I: Proceedings of the First International Symposium on Nicopolis (23–29 September 1984)*, ed. E. Chrysos, 169–96. Preveza: Municipality of Preveza."
     reference_for: "16"
 
   - short: Walters 1899
@@ -3069,7 +3069,7 @@ biblio_list:
     reference_for: "22"
 
   - short: Parlasca 1991
-    full: "Parlasca, K. 1991. “Zur hellenistischen Plastik im Vorderen Orient.“ In [*O ελληνισμóς στην Aνατoλή: Πρακτικά A’ Διεθνoύς Aρχαιoλoγικoύ Συνεδρίoυ, Δελφoί 6–9 Noεμβρίoυ 1986*](http://aldai.ub.hu-berlin.de:80/F/B4HCU4BQYUQL1IN4YS5N3DGGE5KC218M994FD46424N4XYFY9R-02145?func=direct&local_base=DAI01&doc_number=000296044), 453–65. Athens: European Cultural Center Delphi."
+    full: "Parlasca, K. 1991. “Zur hellenistischen Plastik im Vorderen Orient.“ In [*<span lang='grc'>O ελληνισμóς στην Aνατoλή: Πρακτικά A’ Διεθνoύς Aρχαιoλoγικoύ Συνεδρίoυ, Δελφoί 6–9 Noεμβρίoυ</span> 1986*](http://aldai.ub.hu-berlin.de:80/F/B4HCU4BQYUQL1IN4YS5N3DGGE5KC218M994FD46424N4XYFY9R-02145?func=direct&local_base=DAI01&doc_number=000296044), 453–65. Athens: European Cultural Center Delphi."
     reference_for: "22"
 
   - short: Picard 1939
@@ -3293,7 +3293,7 @@ biblio_list:
     reference_for: "24"
 
   - short: Keramopoullos 1915
-    full: "Keramopoullos, A. 1915. “Μουσεῖα.” *ArchDelt* 1: 19–34."
+    full: "Keramopoullos, A. 1915. “<span lang='grc'>Μουσεῖα</span>.” *ArchDelt* 1: 19–34."
     reference_for: "24"
 
   - short: Marchiandi 2012
@@ -3357,7 +3357,7 @@ biblio_list:
     reference_for: "24"
 
   - short: Vokotopoulou 1997
-    full: "Vokotopoulou, I. 1997. *Αργυρά και χάλκινα έργα τέχνης*. Athens: Ekdotikē Athenōn."
+    full: "Vokotopoulou, I. 1997. *<span lang='grc'>Αργυρά και χάλκινα έργα τέχνης</span>*. Athens: Ekdotikē Athenōn."
     reference_for: "24"
 
   - short: Vulić 1930
@@ -4505,7 +4505,7 @@ biblio_list:
     reference_for: "32"
 
   - short: Romiopoulou 1989
-    full: "Romiopoulou, K. 1989. “Closed Burial Contexts of the Late Classical Period from Thessaloniki.” In *Φίλια Έπη εις Γεώργιον Ε. Μυλωνάν* (Festschrift to George Mylonas), 3: 194‒218, plates 45‒58. Athens: Archaeologiki Etaireia (in Greek)."
+    full: "Romiopoulou, K. 1989. “Closed Burial Contexts of the Late Classical Period from Thessaloniki.” In *<span lang='grc'>Φίλια Έπη εις Γεώργιον Ε. Μυλωνάν</span>* (Festschrift to George Mylonas), 3: 194‒218, plates 45‒58. Athens: Archaeologiki Etaireia (in Greek)."
     reference_for: "32"
 
   - short: Themelis and Touratsoglou 1997
@@ -5281,7 +5281,7 @@ biblio_list:
     reference_for: "42"
 
   - short: Zimmer and Bairami 2008
-    full: "Zimmer, G., and K. Bairami. 2008. *Ροδιακά εργαστήρια χαλκοπλαστικής* (Rhodian Bronze Workshops). Athens: TAPA."
+    full: "Zimmer, G., and K. Bairami. 2008. *<span lang='grc'>Ροδιακά εργαστήρια χαλκοπλαστικής</span>* (Rhodian Bronze Workshops). Athens: TAPA."
     reference_for: "42"
 
   - short: Bourgarit and Mille 2003

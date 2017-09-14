@@ -11,7 +11,7 @@ abstract: The paper proposes the bronze head of Queen Arsinoë III from the coll
 weight: 105
 ---
 
-> Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου
+> <span lang="grc">Ὑπὲρ Πτολεμαίου ἐμοῦ τοῦ Ἐπιφανεστάτου</span>
 
 The bronze head of Arsinoë III is one of the most important pieces in the Giuseppe Acerbi Collection of the Museo Civico di Palazzo Te in Mantua, a collection assembled when Acerbi was the Austrian consul general in Alexandria between 1826 and 1834 and later given to his hometown of Mantua ([fig. 5.1](#fig-5-1)). Even compared with the exceptional quality of the overall collection, which is particularly strong in Late Period, Ptolemaic, and Roman material, this representation of Arsinoë III is singular. It is the only major bronze Acerbi acquired, and it is a rare embodiment in that material of Hellenistic royal portraiture in the Greek tradition. The head ([fig. 5.2](#fig-5-2)) connects strongly with other significant portraits displayed in the same room at the Palazzo Te. One is possibly a portrait of Psammetichus I, who took the throne of Egypt in the seventh century BC with the help of Greek mercenaries and who, by formally authorizing the Greek settlement at Naukratis (southeast of Alexandria), opened the intercultural contact that would culminate in the Ptolemaic period.[^1] One of the portraits of a Ptolemaic king is also nearby, rendered in the Egyptian style and identified as perhaps Ptolemy II Philadelphus,[^2] who would have been the queen’s grandfather.
 
@@ -43,7 +43,7 @@ There is one Hellenistic relief that I claim relates directly to the Mantua head
 
 {{< q-figure id="5.6a" class="float-right" pdf="one-column" >}}
 
->Πτολεμαῖος ὁ Φιλοπάτωρ κατασκευάσας Ὁμήρῳ νέων, αὑτὸν μὲν καλὸν καλῶς ἐκάθισε, κύκλῳ δὲ τὰς πόλεις περιέστησε τοῦ ἀγάλματος, ὅσαι ἀντιποιοῦνται τοῦ Ὁμήρου. Γαλάτων δέ ὁ ζωγράφος ἔγαψε τὸν μὲν Ὅμηρον ἀυτὸν ἐμοῦντα, τοὺς δὲ ἄλλους ποιητὰς τὰ ἑμημεσμένα ἀρυτομένους.[^21]
+> <span lang="grc">Πτολεμαῖος ὁ Φιλοπάτωρ κατασκευάσας Ὁμήρῳ νέων, αὑτὸν μὲν καλὸν καλῶς ἐκάθισε, κύκλῳ δὲ τὰς πόλεις περιέστησε τοῦ ἀγάλματος, ὅσαι ἀντιποιοῦνται τοῦ Ὁμήρου. Γαλάτων δέ ὁ ζωγράφος ἔγαψε τὸν μὲν Ὅμηρον ἀυτὸν ἐμοῦντα, τοὺς δὲ ἄλλους ποιητὰς τὰ ἑμημεσμένα ἀρυτομένους.</span>[^21]
 
 This description brings to mind the circle of poets, part of the dromos installation at the Sarapieion of Saqqara, the statuary of which may well be dated to the reign of Ptolemy IV.[^22] Homer was among the subjects of that elite circle of statues, if not the focal point. This has led me to a tentative theory that what is depicted on the Archelaos Relief may also be related to the larger installation, firmly connecting Alexandria to Memphis.[^23] The Archelaos Relief depicts at least two distinct environments. The first is the theatrical ambience of the bottom register with its backdrop of columns joined by a draped curtain attached just below the abacus of each column. The result is a shallow, contained space dominated by Homer and the royal couple to the left. In front of Homer, just off-center, is a circular altar, with a magnificent, Apis-like horned bull looming over it. Two small figures, kneeling and flanking Homer’s throne, are personifications of the bard’s epic creations, as the inscriptions below tell the viewer. Facing Homer on the other side of the altar are the genres of literature and intellect that acknowledge his inspiration and will ultimately carry it forward. The *rhythmos* of the scene is interesting. There is a processional quality to the repetitious, fixed contrapposto position of many of the figures on the right, with everyone gesturing toward Homer. The votive effect has been noted by several scholars.[^24] The second environment of the relief is the mountain-like ascent of the upper registers combining some architectonic elements, such as the cave-like archway or grotto sheltering Apollo and the curving, graded stairway connecting the third register to the top. Neer has associated these details with a shrine to the Muses overlooking the Great Library at Alexandria,[^25] but it is very possible that we could be looking at some part or parts of the Homereion itself. The figure on the statue base is positioned directly below the staircase between the third and fourth registers. Mnemosyne, the mother of the Muses, stands in contrapposto on an outcropping of rock to the left of the stairway, looking upward toward a reclining Zeus. Her imposing figure breaks down the division between the third and fourth registers. Their offspring, the Muses, are the major occupants of the registers below. Zahra Newby traces what would have been the orchestration of the eye contact between these figures, many now missing their actual heads.[^26] Space and the transmission of knowledge are definitely handled differently in the upper three registers.
 
@@ -117,7 +117,7 @@ See also the author's forthcoming article, “The Ptolemaic Dedication of Archep
 
 [^19]: McKenzie 2007, 64; Fraser \[1972\] 2001, 1: 611. Fraser discusses the association of the poems in P.Cair. 65445 dealing with the Homereion and the Fountain of Arsinoë with Ptolemy IV Philopator and Arsinoë III. While McKenzie references the Homereion, she does not bring in the Archelaos Relief or its architectural implications.
 
-[^20]: Fraser (\[1972\] 2001, 2: 862) gives the text for the epigram (P.Cair. 65445) including the vocative address, εὐαὶων Πτολεμαῖε. In a disappointing assessment, Fraser seemingly disassociates the Archelaos Relief not only from Ptolemy IV and Arsinoë but from Alexandria itself. The reasons given are not clear. Mention is made of a “later date.”
+[^20]: Fraser (\[1972\] 2001, 2: 862) gives the text for the epigram (P.Cair. 65445) including the vocative address, <span lang="grc">εὐαὶων Πτολεμαῖε</span>. In a disappointing assessment, Fraser seemingly disassociates the Archelaos Relief not only from Ptolemy IV and Arsinoë but from Alexandria itself. The reasons given are not clear. Mention is made of a “later date.”
 
 [^21]:See {{< url-link >}}http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22{{< /url-link >}}.
 
@@ -133,9 +133,9 @@ See also the author's forthcoming article, “The Ptolemaic Dedication of Archep
 
 [^27]: Stewart 1990, 1: 217. Newby (2007, 158, 165) takes exception with the word “didactic” and to some degree with the allegorical identification, arguing that allegory lies not in the personifications of Homer’s worshippers per se but in the literal differentiation between the bottom section of the object (where the inscriptions are) and the votive relief above. Ridgway (2000, 207) considers the didactic nature of the relief its raison d’être, as opposed to connections with a votive offering, arguing for its pragmatic, educational use in Italy. My response is that the bona fide allegory begins with Oikoumene and Khronos on the far left because they really are Arsinoë and Ptolemy. Homer is ultimately going to be dwelling in more than one “inhabited world” and “time zone,” and that is worth teaching.
 
-[^28]: *LSJ*<sup>9</sup>, s.v. “οἱκουμένη, ἡ.”
+[^28]: *LSJ*<sup>9</sup>, s.v. “<span lang="grc">οἱκουμένη, ἡ.</span>”
 
-[^29]: *LSJ*<sup>9</sup>, s.v. “πόλος, ὁ.”
+[^29]: *LSJ*<sup>9</sup>, s.v. “<span lang="grc">πόλος, ὁ.</span>”
 
 [^30]: See the detail of the relief already cited in Richter (see n. 17 above), which matches Ptolemy IV’s profile.
 

@@ -147,7 +147,7 @@ Very detailed comparative studies are still required before a distinct Rhodian b
 
 [^18]: Goodlett 1991, 673.
 
-[^19]: Dow 1941, 358: the author proposed that the two names were those of the restorers who repaired the statue. If so, this would have meant that the eye sockets were already empty at the time of the restoration. More probably and as usual, the verb form “ἐποίῃσαν” was used to designate the sculptors who conceived the statue.
+[^19]: Dow 1941, 358: the author proposed that the two names were those of the restorers who repaired the statue. If so, this would have meant that the eye sockets were already empty at the time of the restoration. More probably and as usual, the verb form “<span lang="grc">ἐποίῃσαν</span>” was used to designate the sculptors who conceived the statue.
 
 [^20]: Ridgway 1996, 129.
 
