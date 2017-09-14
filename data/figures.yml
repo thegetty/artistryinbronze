@@ -1958,13 +1958,13 @@ figure_list:
   - id: "36.9b"
     src: fig_36.09b_Tykot.jpg
     caption: >
-      Analyzed tumi in the Orlando Museum of Art
+      Analyzed needles in the Orlando Museum of Art
     credit: >
 
   - id: "36.9c"
     src: fig_36.09c_Tykot.jpg
     caption: >
-      Analyzed needles in the Orlando Museum of Art
+      Analyzed tumi in the Orlando Museum of Art
     credit: >
 
   - id: "36.9d"
@@ -1975,18 +1975,21 @@ figure_list:
 
   - id: "36.10a"
     src: fig_36.10a_Tykot.jpg
+    label: "a"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >
 
   - id: "36.10b"
     src: fig_36.10b_Tykot.jpg
+    label: "b"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >
 
   - id: "36.10c"
     src: fig_36.10c_Tykot.jpg
+    label: "c"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >

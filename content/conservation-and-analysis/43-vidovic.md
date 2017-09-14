@@ -17,7 +17,7 @@ weight: 709
 
 ## Introduction
 
-The statue of an Apoxyomenos ([fig. 43.1](#fig-43-1)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
+The statue of an Apoxyomenos ([fig. 43.1](#fig-43-1a)), raised from the Adriatic Sea off Croatia in 1999, has been thoroughly restored and investigated at the Croatian Conservation Institute (HRZ). It has been exhibited in Zagreb, Osijek, Rijeka, Split, and Zadar in Croatia, as well as in Florence, Ljubljana, Paris, London, and Los Angeles. Results of conservation-restoration works and investigations have been published and presented at several conferences, including international congresses on ancient bronzes in Bucharest (2003) and Zurich (2013).
 
 {{< q-figure-group id="43.1a, 43.1b, 43.1c" grid="3" pdf="two-column" >}}
 
@@ -85,7 +85,7 @@ The hands were joined to the arms by a wax-to-wax method. Some of the fingers we
 
 Before assembly, the casting core was removed from all parts of the statue. The statue was joined in five phases: (1) the arms to the torso; (2) the complex leg area (first the right leg, then the left); (3) the pubic area and genitals; (4) soldering the head onto the neck; and (5) soldering the feet onto the plinth. Joins 1–3 were performed using a flow fusion welding technique in basins for legs and arms (secondary castings of bronze). All welding areas had to be repaired with multiple patches.
 
-All joins and repairs are now easily followed thanks to γ-radiography, the archaeological drawings ([fig. 43.4a–c](#fig-43.4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
+All joins and repairs are now easily followed thanks to γ-radiography, the archaeological drawings ([fig. 43.4a–c](#fig-43-4a)), and new X-ray images made by the C2RMF (complete frontal and profile views).[^5]
 
 This reexamination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
@@ -93,7 +93,7 @@ This reexamination confirmed that the Croatian Apoxyomenos is a typical product 
 
 ## New Sampling Campaign (2013–2015)
 
-Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–d](#fig-43.5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
+Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–d](#fig-43-5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
 {{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" >}}
 

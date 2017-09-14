@@ -67,7 +67,7 @@ The Idolino, now in Florence, was found in 1530 at Pesaro ([fig. 8.5](#fig-8-5))
 
 ## An Ephebe in a Pompeiian Wall-Painting
 
-A classicizing statue of a naked ephebe is barely visible standing in the lower right-hand corner of a Pompeiian wall-painting, his feet on a small, round base, his lower arms outstretched to hold a large rectangular tray ([fig. 8.6](8.6)).[^24] To his left and beside a three-legged round table stands a representation of an actual servant, also a boy, but dressed in a tunic. Larger, mature diners recline behind them, one of them reaching forward for an item on the table. The scene recalls banquet scenes on Greek red-figure vases, in which men reclining on couches are served wine by naked boys with wine-pitchers. These were not meant to be statues, but in Roman dining-rooms silent butlers could stand alongside the actual servants.
+A classicizing statue of a naked ephebe is barely visible standing in the lower right-hand corner of a Pompeiian wall-painting, his feet on a small, round base, his lower arms outstretched to hold a large rectangular tray ([fig. 8.6](#fig-8-6)).[^24] To his left and beside a three-legged round table stands a representation of an actual servant, also a boy, but dressed in a tunic. Larger, mature diners recline behind them, one of them reaching forward for an item on the table. The scene recalls banquet scenes on Greek red-figure vases, in which men reclining on couches are served wine by naked boys with wine-pitchers. These were not meant to be statues, but in Roman dining-rooms silent butlers could stand alongside the actual servants.
 
 {{< q-figure id="8.6" >}}
 

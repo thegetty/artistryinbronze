@@ -49,7 +49,7 @@ Thus, the fact that the statue was most probably made in Rhodes during the last 
 
 The alloy used as filler metal for welding (the so-called secondary casting) matches perfectly the one used for primary castings (head to body, left and right feet to the corresponding legs), with two exceptions: the join of the right arm to the body (sample FZ20669-d), and the join of the pinkie finger to the right hand (sample FZ20669-g), which contain more tin and less lead (see [fig. 42.4a](#fig-42-4a)).
 
-Last but not least, the fourth toe of the right foot (sample FZ20669-n) was repaired in antiquity, as can be seen very clearly on a detail of the X-radiograph: a tenon was inserted in the foot at the base of the broken toe, and the missing part was directly cast on the tenon. Here, the alloy is also different, only 4% tin and 12% lead (see fig. 42.4a). Given the difference in the alloy, it seems more likely that the toe repair was not made in the original workshop but was part of a later restoration, during the ancient “lifetime” of the statue.
+Last but not least, the fourth toe of the right foot (sample FZ20669-n) was repaired in antiquity, as can be seen very clearly on a detail of the X-radiograph: a tenon was inserted in the foot at the base of the broken toe, and the missing part was directly cast on the tenon. Here, the alloy is also different, only 4% tin and 12% lead (see [fig. 42.4a](#fig-42-4a)). Given the difference in the alloy, it seems more likely that the toe repair was not made in the original workshop but was part of a later restoration, during the ancient “lifetime” of the statue.
 
 When we look at the main impurities in the metal, the first thing to notice is that the primary and secondary castings share identical impurities spectra: a global level of 0.6%, with arsenic and sulfur as the main impurities ([fig. 42.4b](#fig-42-4b)).
 
@@ -59,7 +59,7 @@ When we look at the main impurities in the metal, the first thing to notice is t
 
 The pattern observed for the fourth toe is very different, with high levels of arsenic, bismuth, antimony, and zinc, confirming the hypothesis of a later repair. Interesting is the fact that the weld join of the right arm, which shows a peculiar alloy, is also distinctive for its impurities, and quite close to the pattern of the fourth toe. This may suggest that the restoration was not limited to the replacement of the fourth toe, but that the statue underwent a major intervention.
 
-As to the copper inlays, at least two impurities patterns stand out from that of the primary castings: iron-rich without arsenic for the eyebrows; and arsenic- and iron-rich for the lips and the nipples (see table 42.2).
+As to the copper inlays, at least two impurities patterns stand out from that of the primary castings: iron-rich without arsenic for the eyebrows; and arsenic- and iron-rich for the lips and the nipples (see [table 42.2](#table-42-2)).
 
 ## Casting Technique: Working the Wax
 
