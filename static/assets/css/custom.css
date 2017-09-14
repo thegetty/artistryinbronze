@@ -382,4 +382,28 @@ table#table-23-appendix ul {
     page-break-before: always;
   }
 
+  #large-scale-bronzes-2-vedder .quire-page__header__title,
+  #large-scale-bronzes-4-palagia .quire-page__header__title,
+  #large-scale-bronzes-5-butz .quire-page__header__title,
+  #large-scale-bronzes-6-pacifico .quire-page__header__title,
+  #the-artist-10-haga-et-al .quire-page__header__title,
+  #the-artist-11-falaschi .quire-page__header__title,
+  #the-artist-12-horne .quire-page__header__title,
+  #statuettes-20-veseli .quire-page__header__title,
+  #the-hellenistic-east-22-lindstroem .quire-page__header__title,
+  #vessels-27-dedecker .quire-page__header__title,
+  #vessels-28-fani .quire-page__header__title,
+  #artifacts-34-franken .quire-page__header__title,
+  #conservation-and-analysis-37-boyatzis .quire-page__header__title,
+  #conservation-and-analysis-42-mille-descamps .quire-page__header__title,
+  #conservation-and-analysis-45-gansicke .quire-page__header__title {
+    max-width: 5.5in;
+  }
+  #conservation-and-analysis-43-vidovic .quire-page__header__title {
+    max-width: 5in;
+  }
+  #large-scale-bronzes-3-koutsouflakis .quire-page__header__title .quire-subtitle {
+    display: block;
+  }
+
 }

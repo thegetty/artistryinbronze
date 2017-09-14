@@ -11,4 +11,4 @@
 
 {{- $endPunctuation := findRE "[[:punct:]]$" .title -}}
 
-{{ markdownify .title }}{{ with .subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}{{ . | markdownify }}{{ end }}{{ with .reading_line }} ({{ . | markdownify }}){{ end -}}
+<span class="quire-title">{{ markdownify .title }}</span>{{ with .subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}<span class="quire-subtitle">{{ . | markdownify }}</span>{{ end }}{{ with .reading_line }} <span class="quire-readingline">({{ . | markdownify }})</span>{{ end -}}
