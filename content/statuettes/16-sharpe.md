@@ -60,6 +60,8 @@ Although discovered over two hundred years ago, the Paramythia bronzes still hav
 
 I wish to thank the Trustees of the British Museum for allowing me to work on this material, and I am especially appreciative to the staff in the Department of Greece and Rome (in particular Judith Swaddling) for their kind assistance. I also wish to convey my gratitude to the Office of Sponsored Research at West Chester University for generously funding this research project.
 
+{{< /backmatter >}}
+
 ## Appendix: List of the Paramythia Bronzes
 
 In the collection of the British Museum, with current acquisition and catalogue numbers from Walters’s 1899 catalogue. With the exception of no. 5, the identifications are taken from Judith Swaddling’s 1979 paper.
@@ -113,8 +115,6 @@ In the collection of the British Museum, with current acquisition and catalogue 
 ### Owner/Location Unknown
 
 20. Hercules
-
-{{< /backmatter >}}
 
 ## Notes
 

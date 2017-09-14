@@ -73,6 +73,27 @@ table#table-23-appendix ul {
   font-weight: 300;
 }
 
+#appendix-list-of-the-paramythia-bronzes {
+  font-size: 1.25rem;
+  color: #727272;
+}
+#donated-by-richard-payne-knight,
+#donated-by-john-hawkins,
+#belonging-to-the-czernicheff-family,
+#owner-location-unknown {
+  color: #727272;
+  font-size: 1rem;
+}
+#appendix-list-of-the-paramythia-bronzes + p,
+#donated-by-richard-payne-knight + ol,
+#donated-by-john-hawkins + ol,
+#belonging-to-the-czernicheff-family + p,
+#belonging-to-the-czernicheff-family + p + ol,
+#owner-location-unknown + ol {
+  font-size: 0.85rem;
+  line-height: 1.6em;
+}
+
 @media print {
 
   [lang=grc] {
