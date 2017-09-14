@@ -22,9 +22,7 @@ Since the object’s location was unknown to these scholars, neither of them had
 
 *The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#fig-28-1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained, and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile, and it is the same width as the nose. A gentle rounded curve constitutes the chin.
 
-<!-- {{< q-figure id="28.1" >}} -->
-
-{{< q-figure-group id="28.1, 28.4, 28.2, 28.3" grid="2" >}}
+{{< q-figure-group id="28.1, 28.2, 28.3, 28.4" grid="4" pdf="two-column" >}}
 
 The head of the figure, which is raised slightly to the right, is crowned by a thick cap of hair composed of short, defined locks that hide the forehead, the ears, and the nape of the neck. They frame the face and give it a distinct presence. Although the locks of hair are irregular in direction, they are all pointed, striated, and more or less the same size. The front locks are in two rows. On the left side, the front row is directed back with only one pointing toward the cheek ([fig. 28.2](#fig-28-2)); on the right, only two locks fall toward the back ([fig. 28.3](#fig-28-3)). One elevated lock is positioned on either side of the round opening at the crown of the head, indicating where the hinges of the handle would have been. Curls of hair in low relief cover the remaining space around the rim opening ([fig. 28.4](#fig-28-4)). Below the crown, the strands gain volume and fall in wavy locks at the back of the neck. They are combed in different directions and untangle at the nape.
 

@@ -130,7 +130,7 @@ table_list:
       </table>
 
   - id: "36.1"
-    caption:
+    caption: "Elemental composition of copper-based objects in the Stavanger Museum, Norway. The values are averages of the multiple spots tested; those in italics were inconsistent between spots."
     media_type: html
     table: |
       <table>
@@ -170,7 +170,7 @@ table_list:
       </table>
 
   - id: "36.2"
-    caption:
+    caption: "Elemental composition of copper-containing objects in the Orlando Museum of Art. Most are pure or arsenical copper, or tumbaga, rather than tin bronze."
     media_type: html
     table: |
       <table>
