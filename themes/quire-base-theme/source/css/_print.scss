@@ -278,6 +278,10 @@ $print-page-number-size: 7.5pt;
     font-weight: 700;
   }
 
+  a {
+    color: $black;
+  }
+
   .quire-page {
     page: footer;
     page-break-before: always;
@@ -490,7 +494,7 @@ $print-page-number-size: 7.5pt;
         width: 5.5in;
       }
       &__reading-line {
-        color: #727272;
+        color: #706c6d;
       }
       &__contributor {
         margin-top: .25in;

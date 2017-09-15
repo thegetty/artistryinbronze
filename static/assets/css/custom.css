@@ -13,19 +13,19 @@
 }
 
 .quire-body-type--cover .quire-nav-group .quire-nav a {
-  color: #eaeaea;
+  color: #efebec;
 }
 
 .quire-body-type--cover .quire-nav-group svg {
-  fill: #eaeaea;
+  fill: #efebec;
 }
 
 .quire-body-type--cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
-  fill: #995326;
+  fill: #994e1a;
 }
 
 .quire-cover__footer {
-  background-color: #eaeaea;
+  background-color: #efebec;
 }
 
 ul.quire-contents .quire-contents__page--abstract-list {
@@ -296,7 +296,7 @@ table#table-23-appendix ul {
   }
 
   .quire-body-type--cover .quire-nav-group .quire-nav a {
-    color: #995326;
+    color: #994e1a;
   }
 
   #frontmatter-break .quire-page {
