@@ -299,21 +299,6 @@ table#table-23-appendix ul {
     color: #994e1a;
   }
 
-  #frontmatter-break .quire-page {
-    page: bleed;
-    width: 9in;
-    height: 11.25in;
-    margin-top: -.25in;
-    margin-left: -.25in;
-    margin-bottom: -.25in;
-    padding-top: .25in;
-    background-image: url("../img/figures/fig_23.03_Albertson.jpg");
-    background-position: 50% 50%;
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
-
-
   #statuettes-13-barr-sharrar #fig-13-5,
   #the-hellenistic-east-23-albertson #fig-23-5,
   #the-hellenistic-east-23-albertson #fig-23-6,
