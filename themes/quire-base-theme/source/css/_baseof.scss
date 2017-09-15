@@ -142,15 +142,27 @@ th {
   content: ' and ';
 }
 
+.quire-publisher:last-child:after {
+  content: '';
+}
+
 sup {
   line-height: 0;
 }
 
-.quire-baseof {
+.no-break {
+  white-space: pre;
+}
+
+.quire-body {
   @media screen {
     // The .visually-hidden css is from Heydon Pickering’s book Inclusive Design
     // Patterns, and is devised to visually hide the elelment without it becoming
     // silenced in screen readers
+
+    .quire-noscreen {
+      display: none;
+    }
 
     .visually-hidden {
       clip: rect(1px, 1px, 1px, 1px);
@@ -198,7 +210,7 @@ sup {
       }
     }
 
-    &.quire-cover {
+    &.quire-body-type--cover {
       .quire-nav-group {
         background-color: transparent;
 

@@ -1,6 +1,7 @@
 ---
 id: "24"
 title: Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Periods
+short_title: Bronze Vessels from the Acropolis
 type: essay
 contributor:
  - first_name: Chiara
@@ -29,19 +30,19 @@ The stylistic or formal characteristics recognized as typical of the Athenian br
 
 Athenian bronze vessel production seems to have the same mix of high quality and innovation that characterizes all the handicrafts at Athens in Archaic and Early Classical times. Common traits seem to be the high level of workmanship, outstanding originality, and freedom in the reinterpretation of the usual decorative repertoire.
 
-The basin and the related ring base, usually a tripod, is the most prevalent form, reflecting the importance of this shape in the furniture of Greek sanctuaries and in domestic life, as they were used for many different functions. Peculiar to the Athenian production are some variants in the shape of the handles: extremely numerous are those made from a simple rod, bent at the top to make a triangular form, generally with plain attachments, simply splayed or with a pentagonal section ([fig. 24.1](#24.1)).[^6] This variant is only sporadically attested in other areas, while the many centuries of examples found on the acropolis clearly indicate its local origin.[^7] Other variants of handles also seem to be typical of Athens: the tracery-worked type ([fig. 24.2](#24.2))[^8] or those shaped like plain rectangular plaques ([fig. 24.3](#24.3)).[^9] Yet another type shows a characteristic attachment to the basin, with arched side extensions ending with many variants of the flower or “rosette” motif ([fig. 24.4](#24.4)).[^10]
+The basin and the related ring base, usually a tripod, is the most prevalent form, reflecting the importance of this shape in the furniture of Greek sanctuaries and in domestic life, as they were used for many different functions. Peculiar to the Athenian production are some variants in the shape of the handles: extremely numerous are those made from a simple rod, bent at the top to make a triangular form, generally with plain attachments, simply splayed or with a pentagonal section ([fig. 24.1](#fig-24-1)).[^6] This variant is only sporadically attested in other areas, while the many centuries of examples found on the acropolis clearly indicate its local origin.[^7] Other variants of handles also seem to be typical of Athens: the tracery-worked type ([fig. 24.2](#fig-24-2))[^8] or those shaped like plain rectangular plaques ([fig. 24.3](#fig-24-3)).[^9] Yet another type shows a characteristic attachment to the basin, with arched side extensions ending with many variants of the flower or “rosette” motif ([fig. 24.4](#fig-24-4)).[^10]
 
 {{< q-figure-group id="24.1, 24.2" grid="2" >}}
 
 {{< q-figure-group id="24.3, 24.4" grid="2" >}}
 
-Very numerous too are feet in the shape of lion’s paws: these are either high and decorated at the top with palmettes ([fig. 24.5](#24.5)), or low and decorated with Ionic capitals. Found always alone, they could have been joined to a variety of objects, such as basins, plates, or wooden boxes.
+Very numerous too are feet in the shape of lion’s paws: these are either high and decorated at the top with palmettes ([fig. 24.5](#fig-24-5)), or low and decorated with Ionic capitals. Found always alone, they could have been joined to a variety of objects, such as basins, plates, or wooden boxes.
 
-A notable feature of the Athenian bronze vessels seems to be the taste for figured decoration, which recurs on many different shapes. Examples include basin handles in the shape of animals (lions, snakes, and lizards);[^11] patera handles in the shape of a kouros or lion ([fig. 24.6](#24.6));[^12] and oinochoai with a female bust on the upper attachment of the handle.[^13]
+A notable feature of the Athenian bronze vessels seems to be the taste for figured decoration, which recurs on many different shapes. Examples include basin handles in the shape of animals (lions, snakes, and lizards);[^11] patera handles in the shape of a kouros or lion ([fig. 24.6](#fig-24-6));[^12] and oinochoai with a female bust on the upper attachment of the handle.[^13]
 
 {{< q-figure-group id="24.5, 24.6" grid="2" >}}
 
-Many of these decorations were also used on bronze vessels made in other regions at this time, but those from Athens have their own stylistic character, which made it possible to attribute pieces found elsewhere to Athenian production. Very interesting, for example, is the frequent use of the lion motif. Well attested on Archaic Laconian vessels, it also had great success at Athens.[^14] It was used generally on attachments of mobile ring handles and on some handles of paterae. Particularly interesting are some basin handles of the *podanipter* type in the shape of lions attacking deer or of lions lying opposite a central flower ([figs. 24.7a–d](#24.7a));[^15] these are stylistically distinctive and have a wide geographical spread, from southern Italy to southern Russia.
+Many of these decorations were also used on bronze vessels made in other regions at this time, but those from Athens have their own stylistic character, which made it possible to attribute pieces found elsewhere to Athenian production. Very interesting, for example, is the frequent use of the lion motif. Well attested on Archaic Laconian vessels, it also had great success at Athens.[^14] It was used generally on attachments of mobile ring handles and on some handles of paterae. Particularly interesting are some basin handles of the *podanipter* type in the shape of lions attacking deer or of lions lying opposite a central flower ([figs. 24.7a–d](#fig-24-7a));[^15] these are stylistically distinctive and have a wide geographical spread, from southern Italy to southern Russia.
 
 {{< q-figure-group id="24.7a, 24.7b, 24.7c, 24.7d" grid="2" label="true" caption="Basin handle. National Archaeological Museum of Athens, inv. 7133." >}}
 
@@ -63,9 +64,9 @@ The production of high-quality bronze vessels continued into the fourth century 
 
 ## The Diffusion Area
 
-Athenian bronze vessels were fairly numerous in some Greek sanctuaries, mainly in the Peloponnese: the greatest quantity comes from Olympia (26 pieces), but they are also well attested in finds from Perachora (17). There were far fewer in Argos (5) and Isthmia (4), which is surprising given their location on the road linking the Peloponnese to Attica ([fig. 24.8](#24.8)).[^34]
+Athenian bronze vessels were fairly numerous in some Greek sanctuaries, mainly in the Peloponnese: the greatest quantity comes from Olympia (26 pieces), but they are also well attested in finds from Perachora (17). There were far fewer in Argos (5) and Isthmia (4), which is surprising given their location on the road linking the Peloponnese to Attica ([fig. 24.8](#fig-24-8)).[^34]
 
-{{< q-figure id="24.8" >}}
+{{< q-figure id="24.8" pdf="two-column" >}}
 
 Athenian bronze vessels have a relatively small spread in mainland Greece, with the exception of the sanctuary of Dodona (8 pieces). Given the close relation between Athens and Delphi in the Archaic period, the lack of finds from this sanctuary is quite unexpected. However, the study of the bronze vessels fragments is still ongoing and it is possible that some change will occur.
 
@@ -80,6 +81,8 @@ Looking west, a significant presence of Athenian vessels is confirmed along the 
 The trade route from the Ionian Gulf to the interior of Basilicata is well attested. Athenian articles have been found at Metaponto and at indigenous settlements such as Botromagno, Braida di Vaglio, and Miglionico.[^45] Greek traders brought to Metaponto not only Attic figured pottery but also some fine examples of bronze vessels, not just Attic: from Metaponto, these pieces were distributed up the Bradano River.
 
 Fewer examples are found along the Tyrrhenian coast of southern Italy and Sicily, from which we have just a few pieces of relatively modest quality: some *paterae* with handles in the shape of kouroi; a handful of precious pieces, such as the krater from Agrigento[^46] and from Locri;[^47] and the *podanipter* handle in the shape of lions attacking an animal, a fragment of which was found in Locri.[^48] We may suppose that here, too, the Etruscans exercised a “monopoly” on fine bronze production, especially from the end of the sixth century, when we can observe the interruption of the spread of Laconian and Corinthian bronze vessels, well attested for the middle decades of the sixth century, and the lack of Athenian production, just starting to assert itself. The distribution of Athenian pieces in southern Italy seems to stop altogether in the second half of the fifth century, probably reflecting a change in trade routes, when exports of Athenian bronze vessels reached the northern Aegean and Black Sea area, following in the wake of Athenian military and colonial activity and the onset of business relationships that could also ensure vital supplies of grain to Athens.
+
+---
 
 ## Notes
 

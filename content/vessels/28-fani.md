@@ -1,6 +1,7 @@
 ---
 id: "28"
 title: An Anthropomorphic Vessel in the National Museum of Beirut
+short_title: An Anthropomorphic Vessel
 type: essay
 contributor:
  - first_name: Zeina
@@ -19,13 +20,11 @@ Since the object’s location was unknown to these scholars, neither of them had
 
 ## Description
 
-*The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#28.1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained, and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile, and it is the same width as the nose. A gentle rounded curve constitutes the chin.
+*The Bust*. The elongated and narrow face, depicted off-center, possesses rough facial features ([fig. 28.1](#fig-28-1)). The prominent nose is rather geometric, with sharp edges, an effect formed by a chisel. The nostrils are subtly incised. The asymmetrical arches of the eyebrows reach the temples. The heavy lids of the small almond-shaped eyes are deeply incised to give them greater emphasis. Lines of incision also mark the eyelashes and eyebrows. The latter seem quite restrained, and this accentuates the curved lines of this area of the face. The whites of the eyes show the remains of a different material, probably silver or paste. The thin-lipped mouth seems to have a faint smile, and it is the same width as the nose. A gentle rounded curve constitutes the chin.
 
-<!-- {{< q-figure id="28.1" >}} -->
+{{< q-figure-group id="28.1, 28.2, 28.3, 28.4" grid="4" pdf="two-column" >}}
 
-{{< q-figure-group id="28.1, 28.4, 28.2, 28.3" grid="2" >}}
-
-The head of the figure, which is raised slightly to the right, is crowned by a thick cap of hair composed of short, defined locks that hide the forehead, the ears, and the nape of the neck. They frame the face and give it a distinct presence. Although the locks of hair are irregular in direction, they are all pointed, striated, and more or less the same size. The front locks are in two rows. On the left side, the front row is directed back with only one pointing toward the cheek ([fig. 28.2](#28.2)); on the right, only two locks fall toward the back ([fig. 28.3](#28.3)). One elevated lock is positioned on either side of the round opening at the crown of the head, indicating where the hinges of the handle would have been. Curls of hair in low relief cover the remaining space around the rim opening ([fig. 28.4](#28.4)). Below the crown, the strands gain volume and fall in wavy locks at the back of the neck. They are combed in different directions and untangle at the nape.
+The head of the figure, which is raised slightly to the right, is crowned by a thick cap of hair composed of short, defined locks that hide the forehead, the ears, and the nape of the neck. They frame the face and give it a distinct presence. Although the locks of hair are irregular in direction, they are all pointed, striated, and more or less the same size. The front locks are in two rows. On the left side, the front row is directed back with only one pointing toward the cheek ([fig. 28.2](#fig-28-2)); on the right, only two locks fall toward the back ([fig. 28.3](#fig-28-3)). One elevated lock is positioned on either side of the round opening at the crown of the head, indicating where the hinges of the handle would have been. Curls of hair in low relief cover the remaining space around the rim opening ([fig. 28.4](#fig-28-4)). Below the crown, the strands gain volume and fall in wavy locks at the back of the neck. They are combed in different directions and untangle at the nape.
 
 
 
@@ -35,19 +34,19 @@ The shoulders and chest are roughly modeled, with the lower edge cut straight an
 
 The figure is draped in a *nebris*, the diagonal folds of which gather on the left shoulder, baring the right shoulder and nipple. One or two pairs of hooves fall across his chest and back, and rest near one another. The folds at front and back are almost identical and are decorated with hatching suggesting the texture of the fur. The right nipple is defined by an incised circle.
 
-*The Vessel*. The 1980s reproduction of a photo from the 1950s shows not only a circular pedestal foot but also a spout affixed to the top of the head. This hexagonal faceted spout has thick molding at the base and a curved rim decorated with a bead molding at the top ([fig. 28.5](#28.5)). A zoomorphic (lion?) handle was attached at the back. The pedestal foot and the spout are now detached from the bust and their present location is unknown. On the vessel currently displayed in the museum, there is no sign of an attachment for a handle; likewise the opening in the head shows no indication of hinges. The external black layer of the vessel is flaking, and corrosion is present at the bottom.
+*The Vessel*. The 1980s reproduction of a photo from the 1950s shows not only a circular pedestal foot but also a spout affixed to the top of the head. This hexagonal faceted spout has thick molding at the base and a curved rim decorated with a bead molding at the top ([fig. 28.5](#fig-28-5)). A zoomorphic (lion?) handle was attached at the back. The pedestal foot and the spout are now detached from the bust and their present location is unknown. On the vessel currently displayed in the museum, there is no sign of an attachment for a handle; likewise the opening in the head shows no indication of hinges. The external black layer of the vessel is flaking, and corrosion is present at the bottom.
 
 {{< q-figure id="28.5" >}}
 
 ## Making the Artifact
 
-*Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5 to 1 centimeter (¼–⅜ in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#28.6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#28.8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working-model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 ¾ x 4 ⅜ in.).
+*Technique*. This bronze vessel was fabricated by indirect casting, using the lost-wax method. The bead molding at the lower part of the bust was added in wax to the model. It varies in thickness from 0.5 to 1 centimeter (¼–⅜ in.). The interior and exterior surfaces of the head conform to one another ([figs. 28.6–7](#fig-28-6)). The outer part was polished after casting; the inner surface remains rough and uneven due to the movement of the wax during the casting process ([fig. 28.8](#fig-28-8)). The deeply undercut strands of hair and eyelashes were detailed in the wax working-model. Brushstrokes are visible on the interior of the bust, and chaplet holes are present in the interior of the head and bust. In its current state, the vessel measures 18 centimeters high, 17 centimeters long, and 11 centimeters wide (7 x 6 ¾ x 4 ⅜ in.).
 
-{{< q-figure id="28.6" class="float-right" >}}
+{{< q-figure id="28.6" class="float-right" pdf="one-column" >}}
 
-{{< q-figure id="28.7" class="float-right" >}}
+{{< q-figure id="28.7" class="float-right" pdf="one-column" >}}
 
-{{< q-figure id="28.8" class="float-right" >}}
+{{< q-figure id="28.8" class="float-right" pdf="one-column" >}}
 
 The hatching technique employed to define the eyebrows and the fur, as well as the whitish coloration left in the eyes, are cold work.[^6]
 
@@ -76,6 +75,8 @@ The date of the Beirut vessel is probably no earlier than the third century AD, 
 ## Conclusion
 
 This anthropomorphic bronze vessel with its footed pedestal reminds us of Roman portrait busts similarly placed.[^34] The production of this type of bronze vessel is concentrated in Germania, Bulgaria, and Egypt.[^35] It is plausible that this particular vessel was cast in Egypt because of the cast bead molding and the numerous crescent-shaped pendants depicted there, albeit in portraits. However, I would like to propose an alternative hypothesis, namely that it was cast in a Lebanese workshop. Numerous inscriptions found in a bronze-workshop active for many generations in Rhodes indicate that it was founded by a family from Tyre.[^36] During the Roman period, the legate of Syria, Petronius, is known to have ordered a bronze portrait of Caligula from a Sidonian workshop.[^37] The site of another workshop has been excavated in Beirut.[^38] Thus it is quite possible for a local artisan to have cast this vessel, especially if a mold was available. The artisan of the Beirut vessel appears to have been unfamiliar with some aspects of his subject: for example, the fawn’s hooves are not sculpted accurately. He stressed the eyes by outlining the lid, a feature characteristic of Syro-Lebanese portraits.[^39] Finally, the young man’s locks of hair can be compared to a bust of Helios found near Sidon.[^40]
+
+---
 
 ## Notes
 

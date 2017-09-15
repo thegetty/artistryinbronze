@@ -57,12 +57,7 @@ primary_contributor:
 
 secondary_contributor:
 
-contributor_as_it_appears:
-  # This field is totally custom in case a particular phrasing is desired.
-  - Edited by
-  - Jens M. Daehner
-  - Kenneth Lapatin
-  - Ambra Spinelli
+contributor_as_it_appears: Edited by Jens M. Daehner, Kenneth Lapatin, and Ambra Spinelli
 
 # PUBLICATION INFO
 
@@ -181,7 +176,7 @@ footer_links:
   - name: About
     media_type:
     link_relation: about
-    url: http://www.getty.edu/publications/artistryinbronze/about/
+    url: ../about/index.html
     identifier:
     file_size_mb:
     icon:

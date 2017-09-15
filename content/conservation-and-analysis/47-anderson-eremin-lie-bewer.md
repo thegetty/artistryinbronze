@@ -2,6 +2,7 @@
 id: "47"
 title: Is There an Ultimate Authority in Authenticity?
 subtitle: Testing and Retesting Alexander the Great
+short_title: Testing and Retesting Alexander the Great
 type: essay
 contributor:
  - first_name: Lisa
@@ -28,7 +29,7 @@ abstract: |
 weight: 713
 ---
 
-On display in the Harvard Art Museums is a statuette of Alexander the Great, sometimes referred to as the Alexander Nelidow after its first known owner.[^1] The statuette first appeared in the Istanbul bazaar sometime before 1897.[^2] The original condition of the surface when excavated can only be guessed at: the surface had already been cleaned of any unsightly burial accretions by the time the first images appear.[^3] Alexander is depicted as a nude youth, standing with his left arm raised, probably to grasp a spear. His head is turned sharply toward the left, while his right arm is bent with his hand placed on his right hip ([fig. 47.1a–b](#47.1)). His torso is heavily muscled on the front and back. The legs below the knee are restorations. The statuette was sold at auction in 1911.[^4] By 1954, it was in the possession of C. Ruxton Love Jr.,[^5] who donated it to Harvard’s Fogg Art Museum in 1956.[^6]
+On display in the Harvard Art Museums is a statuette of Alexander the Great, sometimes referred to as the Alexander Nelidow after its first known owner.[^1] The statuette first appeared in the Istanbul bazaar sometime before 1897.[^2] The original condition of the surface when excavated can only be guessed at: the surface had already been cleaned of any unsightly burial accretions by the time the first images appear.[^3] Alexander is depicted as a nude youth, standing with his left arm raised, probably to grasp a spear. His head is turned sharply toward the left, while his right arm is bent with his hand placed on his right hip ([fig. 47.1a–b](#fig-47-1a–b)). His torso is heavily muscled on the front and back. The legs below the knee are restorations. The statuette was sold at auction in 1911.[^4] By 1954, it was in the possession of C. Ruxton Love Jr.,[^5] who donated it to Harvard’s Fogg Art Museum in 1956.[^6]
 
 {{< q-figure id="47.1a–b" >}}
 
@@ -52,7 +53,7 @@ While the authenticity of a statuette is not immediately confirmed or undermined
 
 In the process of examining objects for the ancient bronzes special collection, the conservation team identified some oddities related to methods of manufacture that have implications for the authenticity of some objects. One piece that has been difficult to authenticate portrays a comic actor in the role of a kitchen slave (inv. 2001.257).[^24] The raised ridges along the exterior of the legs appear to be traces of piece-mold lines, a feature one would not expect to find on a Graeco-Roman bronze and which may be an indication that it was cast from a mold taken from an existing copper-alloy statuette. Filed-down mold lines were also observed on the statuette of the draped female figure mentioned above (inv. 1932.56.27).
 
-The conservation team was recently able to compare Harvard’s statuette of the orator Demosthenes (inv. 2007.221), based on a famous statue of the third century BC by Polyeuktos,[^25] with an aftercast of the statuette made in Germany in the early twentieth century.[^26] Comparison of X-radiographs of the ancient Demosthenes statuette and the aftercast reveals very different interiors, with a clear armature on the inside of the aftercast ([figs. 47.2a–b](#47.2), [47.3a–b](#47.3)). Study of the object at the Straus Center for Conservation and Technical Research revealed that the thick corrosion on the surface of the original is replicated on the aftercast as a rough, bumpy surface with no indication of corrosion products; a similar surface also appears on the draped female statuette described above (inv. 1932.56.27).
+The conservation team was recently able to compare Harvard’s statuette of the orator Demosthenes (inv. 2007.221), based on a famous statue of the third century BC by Polyeuktos,[^25] with an aftercast of the statuette made in Germany in the early twentieth century.[^26] Comparison of X-radiographs of the ancient Demosthenes statuette and the aftercast reveals very different interiors, with a clear armature on the inside of the aftercast ([figs. 47.2a–b](#fig-47-2a–b), [47.3a–b](#fig-47-3a–b)). Study of the object at the Straus Center for Conservation and Technical Research revealed that the thick corrosion on the surface of the original is replicated on the aftercast as a rough, bumpy surface with no indication of corrosion products; a similar surface also appears on the draped female statuette described above (inv. 1932.56.27).
 
 {{< q-figure id="47.2a–b" >}}
 
@@ -62,7 +63,7 @@ In terms of manufacture, there is nothing unusual about Alexander: the statuette
 
 ## Corrosion
 
-The presence of corrosion cannot be used by itself to authenticate or date an object, but its total absence is a very good indication, in combination with other data, that a piece may not be ancient. The mineralized surface of the Alexander statuette was pared down to the interface of preserved metal before its earliest photograph was published in 1898.[^27] In spite of this extensive “restoration” treatment, Alexander retains thick patches of red and green corrosion products usually associated with cuprite and malachite, although we have tended not to use analysis to confirm the identification of corrosion products ([fig. 47.4a–b](#47.4)). Thick corrosion layers and intergranular corrosion can both be good indicators of long-term burial—and thus great age—but it is impossible to extrapolate from these the exact length of time an object was buried. That said, one must bear in mind that corrosion or patination can be created or enhanced artificially.[^28] The cuprite on another Harvard bronze—a modern copy of half of a fifth-century BC Etruscan candelabrum group portraying a standing warrior—also has some red and green corrosion; in this case, the red corrosion was confirmed by Raman spectroscopy to be cuprite ([fig. 47.5a–b](#47.5)).[^29] As with the Sardinian shepherd-and ram-group, the thickness of the corrosion varies. The corrosion on the standing-warrior bronze could be mistaken for evidence of long-term burial if we did not know that the piece was a copy of an original candelabrum group excavated at Marzabotto, Italy, currently in a private collection, which the owners had reproduced for the Marzabotto Museum.[^30] Harvard’s warrior could easily have been made at the same time as the other known copies. Harvard also owns a copy of another candelabrum finial from Marzabotto of a youth carrying an amphora, which was also replicated and sold.[^31] Results of compositional and isotopic analysis indicate that the metal composition of the two replicas of Marzabotto bronzes at Harvard is very similar, perhaps from the same batch of metal, though not the same pour.
+The presence of corrosion cannot be used by itself to authenticate or date an object, but its total absence is a very good indication, in combination with other data, that a piece may not be ancient. The mineralized surface of the Alexander statuette was pared down to the interface of preserved metal before its earliest photograph was published in 1898.[^27] In spite of this extensive “restoration” treatment, Alexander retains thick patches of red and green corrosion products usually associated with cuprite and malachite, although we have tended not to use analysis to confirm the identification of corrosion products ([fig. 47.4a–b](#fig-47-4a–b)). Thick corrosion layers and intergranular corrosion can both be good indicators of long-term burial—and thus great age—but it is impossible to extrapolate from these the exact length of time an object was buried. That said, one must bear in mind that corrosion or patination can be created or enhanced artificially.[^28] The cuprite on another Harvard bronze—a modern copy of half of a fifth-century BC Etruscan candelabrum group portraying a standing warrior—also has some red and green corrosion; in this case, the red corrosion was confirmed by Raman spectroscopy to be cuprite ([fig. 47.5a–b](#fig-47-5a–b)).[^29] As with the Sardinian shepherd-and ram-group, the thickness of the corrosion varies. The corrosion on the standing-warrior bronze could be mistaken for evidence of long-term burial if we did not know that the piece was a copy of an original candelabrum group excavated at Marzabotto, Italy, currently in a private collection, which the owners had reproduced for the Marzabotto Museum.[^30] Harvard’s warrior could easily have been made at the same time as the other known copies. Harvard also owns a copy of another candelabrum finial from Marzabotto of a youth carrying an amphora, which was also replicated and sold.[^31] Results of compositional and isotopic analysis indicate that the metal composition of the two replicas of Marzabotto bronzes at Harvard is very similar, perhaps from the same batch of metal, though not the same pour.
 
 {{< q-figure id="47.4a–b" >}}
 
@@ -76,7 +77,7 @@ In the 1970s, Harvard’s Alexander was sampled and tested by X-ray fluorescence
 
 ## Lead-Isotope Analysis
 
-Lead isotope analysis relies on the fact that ore sources containing lead have a characteristic isotopic “fingerprint,” which can help to pinpoint the source of a lead-containing copper alloy or lead deposit. However, interpretation of the isotopic composition of an object is complicated because more than one lead-containing source may be present, either due to mixing of metal ores in the original alloy or (more commonly) as a result of mixing from the recycling of metal objects. Lead isotope analysis of Harvard’s Alexander and Demosthenes statuettes was performed in 2014. Both of these statuettes contain over 5% lead, so the measured isotopic composition of both reflects the ores of the lead that was deliberately added as an alloying ingredient, rather than being inherited from trace lead within the copper ores. A comparison of the lead isotopes of the two statuettes to known Graeco-Roman lead ore sources shows that the Demosthenes and the ores plot along the same line, while Alexander’s lead is notably separate ([fig. 47.6](#47.6)).[^37] In order to better understand the lead isotopes of modern or fake copper-alloy objects, we sampled several known and suspected later copper-alloy objects at Harvard, as well as a few authentic pieces for comparison ([fig. 47.7](#47.7)).[^38] While the modern pieces and replicas cluster to higher values, they still plot along the line of possible Graeco-Roman lead ores. Even when we enlarged the plot to include more exotic ores from outside Europe and the Mediterranean, such as those from India[^39] and Australia,[^40] and modern gasoline lead,[^41] from lead added to gasoline, which gives a good average for available modern lead ([fig. 47.8](#47.8)),[^42] the isotopic composition of lead from the Alexander Nelidow remained separate. This separation cannot be explained by the melting down and reuse of metals with different lead sources: recycling would simply give values that plot along the same line. The only way to produce such an anomalous value is to find an exotic source plotting above the line. One such possibility is provided by lead ores from Morocco, which do fall in a distinct field above the main isotopic line close to the value of the Alexander statuette ([fig. 47.9](#47.9)).[^43] Although more research is needed to determine whether Moroccan ores were actually exploited in the Roman period, studies of lead curse tablets from Roman Carthage show that Tunisian lead was used in these objects, proving exploitation of at least some lead sources local to North Africa in the appropriate period.[^44]
+Lead isotope analysis relies on the fact that ore sources containing lead have a characteristic isotopic “fingerprint,” which can help to pinpoint the source of a lead-containing copper alloy or lead deposit. However, interpretation of the isotopic composition of an object is complicated because more than one lead-containing source may be present, either due to mixing of metal ores in the original alloy or (more commonly) as a result of mixing from the recycling of metal objects. Lead isotope analysis of Harvard’s Alexander and Demosthenes statuettes was performed in 2014. Both of these statuettes contain over 5% lead, so the measured isotopic composition of both reflects the ores of the lead that was deliberately added as an alloying ingredient, rather than being inherited from trace lead within the copper ores. A comparison of the lead isotopes of the two statuettes to known Graeco-Roman lead ore sources shows that the Demosthenes and the ores plot along the same line, while Alexander’s lead is notably separate ([fig. 47.6](#fig-47-6)).[^37] In order to better understand the lead isotopes of modern or fake copper-alloy objects, we sampled several known and suspected later copper-alloy objects at Harvard, as well as a few authentic pieces for comparison ([fig. 47.7](#fig-47-7)).[^38] While the modern pieces and replicas cluster to higher values, they still plot along the line of possible Graeco-Roman lead ores. Even when we enlarged the plot to include more exotic ores from outside Europe and the Mediterranean, such as those from India[^39] and Australia,[^40] and modern gasoline lead,[^41] from lead added to gasoline, which gives a good average for available modern lead ([fig. 47.8](#fig-47-8)),[^42] the isotopic composition of lead from the Alexander Nelidow remained separate. This separation cannot be explained by the melting down and reuse of metals with different lead sources: recycling would simply give values that plot along the same line. The only way to produce such an anomalous value is to find an exotic source plotting above the line. One such possibility is provided by lead ores from Morocco, which do fall in a distinct field above the main isotopic line close to the value of the Alexander statuette ([fig. 47.9](#fig-47-9)).[^43] Although more research is needed to determine whether Moroccan ores were actually exploited in the Roman period, studies of lead curse tablets from Roman Carthage show that Tunisian lead was used in these objects, proving exploitation of at least some lead sources local to North Africa in the appropriate period.[^44]
 
 {{< q-figure-group id="47.6, 47.7" grid="2" pdf="two-column" >}}
 
@@ -87,6 +88,8 @@ In the end, this unusual lead-isotope analysis result is not enough to condemn t
 ## Conclusions
 
 This paper has given a very brief overview of a large trove of data in order to explore issues of authenticity in relation to copper-alloy objects generally, and to revisit earlier doubts concerning the antiquity of the Alexander Nelidow in particular. Research into the style, method of manufacture, surface corrosion, alloy, and lead isotopes produces no definitive evidence that this statuette is other than ancient. While a copper-alloy artifact can never be completely vindicated once questions have been raised about its authenticity, the systematic collaboration between curators, conservators, and material scientists can significantly elucidate and clarify our understanding of the piece. But it is important that these professionals work closely together, understanding each other’s methodologies, aims, and conclusions.[^45] More careful examination of objects under microscopes, more sampling, and more research and analysis by such interdisciplinary teams can vastly improve knowledge of our collections.
+
+---
 
 ## Notes
 
@@ -100,15 +103,15 @@ This paper has given a very brief overview of a large trove of data in order to 
 
 [^5]: *Ancient Art* 1954, 118.
 
-[^6]: Inv. 1956.20. For the statuette’s full provenance and publication history, see the object page at [http://www.harvardartmuseums.org/collections/object/312306](http://www.harvardartmuseums.org/collections/object/312306). The records for all Harvard Art Museums objects mentioned in this paper can be accessed by searching their accession numbers at [http://www.harvardartmuseums.org/ancientbronzes](http://www.harvardartmuseums.org/ancientbronzes).
+[^6]: Inv. 1956.20. For the statuette’s full provenance and publication history, see the object page at {{< url-link >}}http://www.harvardartmuseums.org/collections/object/312306{{< /url-link >}}. The records for all Harvard Art Museums objects mentioned in this paper can be accessed by searching their accession numbers at {{< url-link >}}http://www.harvardartmuseums.org/ancientbronzes{{< /url-link >}}.
 
 [^7]: See the section “Lead-Isotope Analysis.”
 
-[^8]: See  [www.harvardartmuseums.org/ancientbronzes](file:///C:\Users\KAe062\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\EAXCURIK\www.harvardartmuseums.org\ancientbronzes).
+[^8]: See  {{< url-link >}}http://www.harvardartmuseums.org/ancientbronzes{{< /url-link >}}.
 
 [^9]: Some objects were tested with multiple techniques, in-house and externally. For more information on these techniques, please see the special collection pages concerning “Alloy Analyses” (see supra n. 8).
 
-[^10]: See [http://www.harvardartmuseums.org/collections/object/312306](http://www.harvardartmuseums.org/collections/object/312306).
+[^10]: See {{< url-link >}}http://www.harvardartmuseums.org/collections/object/312306{{< /url-link >}}.
 
 [^11]: See Buitron 1973, 395; and Stewart 1993, 161–71.
 
@@ -118,27 +121,27 @@ This paper has given a very brief overview of a large trove of data in order to 
 
 [^14]: See, for example, the Apoxyomenoi or the Getty and Mahdia Herms in the *Power and Pathos* exhibition; Daehner and Lapatin 2015, 270–85, nos. 40–46.
 
-[^15]: Inv. 1930.351, [http://www.harvardartmuseums.org/collections/object/310752](http://www.harvardartmuseums.org/collections/object/310752).
+[^15]: Inv. 1930.351, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/310752{{< /url-link >}}.
 
-[^16]: Inv. 1952.21, [http://www.harvardartmuseums.org/collections/object/312303](http://www.harvardartmuseums.org/collections/object/312303).
+[^16]: Inv. 1952.21, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/312303{{< /url-link >}}.
 
 [^17]: See n. 36.
 
 [^18]: See Kreilinger 1996, 199, no. 194, plate 41, with earlier bibliography.
 
-[^19]: Inv. 1984.798, [http://www.harvardartmuseums.org/collections/object/304153](http://www.harvardartmuseums.org/collections/object/304153).
+[^19]: Inv. 1984.798, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/304153{{< /url-link >}}.
 
 [^20]: See Balmuth and Tykot 2002.
 
 [^21]: See Lilliu 1966, 56–57, no. 10.
 
-[^22]: Inv. 1932.56.27, [http://www.harvardartmuseums.org/collections/object/303869](http://www.harvardartmuseums.org/collections/object/303869). Some of the reported versions may be duplicates, as the ownership histories of these pieces are not entirely clear. For references to the other pieces, see the statuette’s object page.
+[^22]: Inv. 1932.56.27, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/303869{{< /url-link >}}. Some of the reported versions may be duplicates, as the ownership histories of these pieces are not entirely clear. For references to the other pieces, see the statuette’s object page.
 
 [^23]: Along with the Terme Ruler (see Himmelmann 1989, 135–36), see the Fouquet Alexander and the Stanford Alexander in Stewart 1993, 163, figs. 32 and 39.
 
-[^24]: Inv. 2001.257, [http://www.harvardartmuseums.org/collections/object/146546](http://www.harvardartmuseums.org/collections/object/146546).
+[^24]: Inv. 2001.257, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/146546{{< /url-link >}}.
 
-[^25]: Inv. 2007.221, [http://www.harvardartmuseums.org/collections/object/4842](http://www.harvardartmuseums.org/collections/object/4842).
+[^25]: Inv. 2007.221, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/4842{{< /url-link >}}.
 
 [^26]: Private collection. Another copper-alloy aftercast made in Munich in the 1920s is kept in the Staatliche Antikensammlungen, Munich; see Ohly-Dumm 1973, 240 and 245, fig. 13­. It is likely that both aftercasts were created at the same time, in the early twentieth century when Harvard’s statuette is known to have been in Germany. The aftercast from the private collection is a mixed copper alloy; it was tested with XRF (alloying elements: copper, lead, zinc, tin; other elements: nickel, iron, antimony) and ICP-OES (Cu, 80.09%; Sn, 5.17%; Pb, 2.55%; Zn, 7.81%; Fe, 0.20%; Ni, 0.28%; Ag, 0.01%; Sb, 0.24%; As, 0.10%; Co, 0.001%; Au, not detected; Cd, 0.003%). The second aftercast in Munich was also tested by XRF and has a similar composition to the aftercast from the private collection. Thanks are due to Susanne Ebbinghaus and Josef Riederer for providing information about the aftercast in Munich and to Josef Riederer for providing the analysis of the Munich piece.
 
@@ -146,11 +149,11 @@ This paper has given a very brief overview of a large trove of data in order to 
 
 [^28]: See Bewer and Lie 2014, 60–61; Eggert 2008, 74.
 
-[^29]: Inv. 1961.143, [http://www.harvardartmuseums.org/collections/object/311124](http://www.harvardartmuseums.org/collections/object/311124).
+[^29]: Inv. 1961.143, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/311124{{< /url-link >}}.
 
-[^30]: See Muffatti 1969, 264–66, no. 489, plate 55.a–b. The owners also had a colossal copy of the woman and warrior group made for their villa (see [http://www.federgev.it/primosito/Docs/parchi/montesol/completo.html](http://www.federgev.it/primosito/Docs/parchi/montesol/completo.html) under “Misa”). A statuette replica of the woman from the group was on the art market in the 1960s, but its present whereabouts are unknown.
+[^30]: See Muffatti 1969, 264–66, no. 489, plate 55.a–b. The owners also had a colossal copy of the woman and warrior group made for their villa (see {{< url-link >}}http://www.federgev.it/primosito/Docs/parchi/montesol/completo.html{{< /url-link >}} under “Misa”). A statuette replica of the woman from the group was on the art market in the 1960s, but its present whereabouts are unknown.
 
-[^31]: Inv. 1962.62, [http://www.harvardartmuseums.org/collections/object/304002](http://www.harvardartmuseums.org/collections/object/304002). For the original finial, see Muffatti 1969, 266–67, no. 490, plate 56.a–b.
+[^31]: Inv. 1962.62, {{< url-link >}}http://www.harvardartmuseums.org/collections/object/304002{{< /url-link >}}. For the original finial, see Muffatti 1969, 266–67, no. 490, plate 56.a–b.
 
 [^32]: Eremin and Riederer 2014, 71 and 88.
 
@@ -162,9 +165,9 @@ This paper has given a very brief overview of a large trove of data in order to 
 
 [^36]: Inv. 1932.56.29, a statuette of Ares, has 44–48% zinc. Other statuettes with high zinc are: **1930.351**, 1932.56.2, 1932.56.13, 1932.56.16, **1932.56.27**, 1932.56.28, **1952.21**, 1955.122, 1960.485, 1972.328, 1973.18, 1973.19, 1973.20, 1977.216.3411, 1977.216.3418, **1984.798**, *1987.132*, *1992.297*, and **1994.8** (objects mentioned elsewhere in this paper are in bold; late objects or objects not currently suspected to be fake are in italics).
 
-[^37]: The lead-isotope signatures of the two statuettes were compared to a database of lead ores and copper ores compiled by one of the authors (P. Degryse) from published data. For a subset of these publications, see [http://oxalid.arch.ox.ac.uk/bibliography/bibliography.htm](http://oxalid.arch.ox.ac.uk/bibliography/bibliography.htm).
+[^37]: The lead-isotope signatures of the two statuettes were compared to a database of lead ores and copper ores compiled by one of the authors (P. Degryse) from published data. For a subset of these publications, see {{< url-link >}}http://oxalid.arch.ox.ac.uk/bibliography/bibliography.htm{{< /url-link >}}.
 
-[^38]: This includes all the comparative pieces mentioned in this paper as well as inv. 1956.19, an authentic large-scale late second- to early third-century AD Roman head of the empress Julia Domna; inv. 1992.256.108, a Roman period Egyptian statuette of a cat that seems suspicious but is probably authentic; inv. 1994.8, a Roman period (or modern) statuette showing Odysseus escaping Polyphemus’s cave strapped to a ram; and a pig purchased from the Chiurazzi foundry, which copied many of the bronzes from Pompeii and Herculaneum. For the full lead-isotope analyses of these objects, see their object pages at [www.harvardartmuseums.org/ancientbronzes](file:///C:\Users\KAe062\AppData\Local\Microsoft\Windows\Temporary%20Internet%20Files\Content.Outlook\EAXCURIK\www.harvardartmuseums.org\ancientbronzes).
+[^38]: This includes all the comparative pieces mentioned in this paper as well as inv. 1956.19, an authentic large-scale late second- to early third-century AD Roman head of the empress Julia Domna; inv. 1992.256.108, a Roman period Egyptian statuette of a cat that seems suspicious but is probably authentic; inv. 1994.8, a Roman period (or modern) statuette showing Odysseus escaping Polyphemus’s cave strapped to a ram; and a pig purchased from the Chiurazzi foundry, which copied many of the bronzes from Pompeii and Herculaneum. For the full lead-isotope analyses of these objects, see their object pages at {{< url-link >}}http://www.harvardartmuseums.org/ancientbronzes{{< /url-link >}}.
 
 [^39]: Srinivasan 1999; Pryce et al. 2014.
 

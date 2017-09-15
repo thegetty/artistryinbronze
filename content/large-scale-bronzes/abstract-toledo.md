@@ -12,4 +12,5 @@ abstract: |
     These pieces are *The Republic*, *The Progress of Human Activity*, and *The Virtue of the People*. They were commissioned from the Italian sculptor Angelo Zanelli (1879–1942), who created them and was in charge of placing them inside the capitol. This poster explains the impact they had on the Cuban architectural style of the period.
 weight: 113
 online: false
+toc: false
 ---

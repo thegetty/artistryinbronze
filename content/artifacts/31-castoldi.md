@@ -1,6 +1,7 @@
 ---
 id: "31"
 title: Bronze Trees from the Greek to the Roman World
+short_title: Bronze Trees
 type: essay
 contributor:
  - first_name: Marina
@@ -23,13 +24,13 @@ Fruit and vegetables could become more durable offerings if they were modeled fr
 
 These objects are well known thanks to the ancient sources. For example, Plutarch described the bronze palm dedicated in the sanctuary of Delphi by Kypselos—perhaps a *sphyrelaton*[^5]—and one offered by the Athenians after the battle of the Eurymedon (470/469 BC).[^6] The base of the latter has been identified to the northeast of the front side of the Apollo temple: a statue of Athena with an owl stood on top of the palm tree, which had bunches of golden dates and was still standing at the time of Pausanias.[^7] Another famous bronze palm tree was offered by Nikias at the Apollo sanctuary of Delos around 417 BC, as mentioned by Plutarch; its base is preserved not far from the *oikos* of the Naxians.[^8]
 
-However, we also have many *realia*. A good example in bronze was found during the excavations of Karapanos in Dodona; it represents a branch of an oak, the tree sacred to Zeus.[^9] Moreover, we may remember the bronze branches and laurel leaves in the sanctuary of Apollo in Klaros, and those found in Magna Graecia, in Kroton, Kaulonia, and Metaponto ([fig. 31.1](#31.1)); these testify to the practice of dedicating bronze laurel trees to Apollo.[^10]
+However, we also have many *realia*. A good example in bronze was found during the excavations of Karapanos in Dodona; it represents a branch of an oak, the tree sacred to Zeus.[^9] Moreover, we may remember the bronze branches and laurel leaves in the sanctuary of Apollo in Klaros, and those found in Magna Graecia, in Kroton, Kaulonia, and Metaponto ([fig. 31.1](#fig-31-1)); these testify to the practice of dedicating bronze laurel trees to Apollo.[^10]
 
 {{< q-figure id="31.1" >}}
 
 Among profane artworks, I would note the golden grapevine adorned with precious stones attributed by some scholars to the versatile artist Theodoros of Samos and the golden plane tree, both decorating the Persian royal palace: the grapevine was hung over the king’s bed like a baldachin. According to the majority of sources, this work combined the monumentality of bronze sculptures with the elegance of jewelry.[^11]
 
-The ancient texts date these ornaments to the period of Darius I (522–486 BC), but it is likely that they remained in use until the time of Alexander the Great. They might therefore have become a source of inspiration for some of the toreutic art in the Hellenistic and Roman periods, such as a golden grapevine offered as anathema in the Artemision of Delos in the third century BC, and the one offered by Aristobulos II to Pompey when he arrived in Syria: εἴτε ἄμπελος εἴτε κῆπος.[^12] This may be the same one that Pliny the Elder remembered as being displayed during a triumph in Rome, “a square mountain of gold with deer, lions and every variety of fruit on it and a golden vine entwined around it,” which was then exhibited in the temple of Jupiter Capitolinus.[^13]
+The ancient texts date these ornaments to the period of Darius I (522–486 BC), but it is likely that they remained in use until the time of Alexander the Great. They might therefore have become a source of inspiration for some of the toreutic art in the Hellenistic and Roman periods, such as a golden grapevine offered as anathema in the Artemision of Delos in the third century BC, and the one offered by Aristobulos II to Pompey when he arrived in Syria: <span lang="grc">εἴτε ἄμπελος εἴτε κῆπος</span>.[^12] This may be the same one that Pliny the Elder remembered as being displayed during a triumph in Rome, “a square mountain of gold with deer, lions and every variety of fruit on it and a golden vine entwined around it,” which was then exhibited in the temple of Jupiter Capitolinus.[^13]
 
 Moreover, we know that various metal trees served as interior decorations for sacred temples, such as the ingenious bronze palm tree in the Erechtheion crafted by Kallimachos.[^14] A famous candelabrum, perhaps trunk-shaped, with lamps shaped like fruits, was once held in the Temple of Apollo Ismenios in Thebes. It was taken away by Alexander the Great, then dedicated in the Temple of Apollo at Cyme (Kyme), and finally carried to Rome to be shown in the Apollo Temple on the Palatine. Pliny may be the only source that refers to this installation, but a *terminus ante quem* for its creation is given by the conquest of Thebes by Alexander the Great in 335 BC.[^15]
 
@@ -43,15 +44,15 @@ The taste for ornamental plants spread in the arts and crafts of Early Imperial 
 
 {{< q-figure id="31.3" class="float-left" >}}
 
-Candelabra in the form of trees, more or less naturalistic, were widespread. The most common were certainly lampstands with slender shafts *a canna* (cane-like), representing bamboo or lopped branches, surmounted by a disk to hold a single lamp ([fig. 31.2](#31.2)).[^20] This type was most likely produced in central Italy and was manufactured in a small, tabletop version, and in a larger version, to be placed on the floor.[^21]
+Candelabra in the form of trees, more or less naturalistic, were widespread. The most common were certainly lampstands with slender shafts *a canna* (cane-like), representing bamboo or lopped branches, surmounted by a disk to hold a single lamp ([fig. 31.2](#fig-31-2)).[^20] This type was most likely produced in central Italy and was manufactured in a small, tabletop version, and in a larger version, to be placed on the floor.[^21]
 
-In addition to such stylized variants, however, there is also evidence of more naturalistic representations. There are medium-sized lampstands, trunk-shaped, made to be placed on tables or supports, with small lamps suspended from their branches like fruits, such as the specimens from Pompeii and the famous lampstand from the Meloria (Livorno) ([fig. 31.3](#31.3)).[^22] It has been noticed that the leaves are poorly represented, but these items are not trees—they are lampstands. Evidently, the lamps, as small bearers of light, replaced the leaves.
+In addition to such stylized variants, however, there is also evidence of more naturalistic representations. There are medium-sized lampstands, trunk-shaped, made to be placed on tables or supports, with small lamps suspended from their branches like fruits, such as the specimens from Pompeii and the famous lampstand from the Meloria (Livorno) ([fig. 31.3](#fig-31-3)).[^22] It has been noticed that the leaves are poorly represented, but these items are not trees—they are lampstands. Evidently, the lamps, as small bearers of light, replaced the leaves.
 
 Some ornate stands have a large rectangular base upon which statuettes of heroes, satyrs, or gods could be placed, as for instance a beautiful acanthus-shaped candelabrum, with Attis or Alexander Helios, which is now in Geneva.[^23] In these examples, the tree can be naturalistic, with twisted trunk and branches, in the manner of Hellenistic art, or modeled with more architectural forms, such as a floral column. In addition to examples of this type from the Early Imperial period, there is evidence of more complex objects in which the tree is the support of statuettes, leaning toward the plant. I recall here examples in Pompeii, Ephesos, Baden (Switzerland), the one now in Kansas City, and perhaps the one from Hungary (Brigetio).[^24] These artworks testify to the decorative function of certain metal trees, which is very evident in the Roman world; the tree, after a long life as *agalma* or gift to the gods, is now a “bringer of light” that found its way out of the sanctuaries and into the wealthy *domus* of the Romans as luxury furniture.[^25]
 
 Other bronze trees in the Roman world had a votive function: such is likely the case for the candelabrum in the British Museum, a true *signum pantheum*, in which a twisted tree became the support for pantheistic attributes in relief. This is a unique object, as far as I know, which due to its small size should be assigned to a *lararium* or a small domestic shrine setting.[^26]
 
-In northern Italy, a group found in the region of Verona is of great interest. It consisted of a small bronze tree and a statuette of Minerva ([fig. 31.4](#31.4)): one can assume that they too were likely placed in a *lararium*.[^27] Lamps modeled in the form of an acanthus bud are known also from among the famous findings of Montorio Veronese, some of which were likely part of a *lararium*.[^28] Individual leaves are represented in Roman times among votive offerings, as we know from many examples from northern Italy.[^29]
+In northern Italy, a group found in the region of Verona is of great interest. It consisted of a small bronze tree and a statuette of Minerva ([fig. 31.4](#fig-31-4)): one can assume that they too were likely placed in a *lararium*.[^27] Lamps modeled in the form of an acanthus bud are known also from among the famous findings of Montorio Veronese, some of which were likely part of a *lararium*.[^28] Individual leaves are represented in Roman times among votive offerings, as we know from many examples from northern Italy.[^29]
 
 Some finds derive from the provinces, but these materials are mostly without context; the hypothesis that they belong to *lararia* or domestic shrines is considered here because of the small size of the objects. Small trees have notably been found in the Magdalensberg (Noricum); in Strasbourg (Argentoratae) and in Seltz (both in Alsace); in Hintzerath (Trier); in Zugmantel; and in Bonn.[^30] These examples are scattered over a wide area, but always within the Roman Empire; some of them are quite alike (and may have been produced in the same area[^31]) and they all attest to the practice of dedicating more or less naturalistic little figures of trees to the gods.
 
@@ -63,9 +64,15 @@ If we turn from votive objects to wall-painting, we can see that, at least in so
 
 I would speculate that these small bronze trees, when they were placed in *lararia* or domestic shrines, are more than mere small-sized tree-shaped lamp-holders. Rather they may reference the *lucus* or the ancient offering of firstfruits that was always of great importance in the Roman world.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 This paper was given at the 19th International Bronze Congress; it is published here without significant changes or additions, except in the bibliography. I would like to thank the Organizing Committee for this extremely interesting Bronze Congress and for the warm welcome in Los Angeles. I would also like to thank all my colleagues who helped me with comments, suggestions, and collaborations: Silvia Amicone, Barbara Arbeid, Margherita Bolla, Brunella Bruno, Antonio De Siena, Federica Grossi, Kurt Gschwantler, Kenneth Lapatin, Lucia Mordeglia, Mara Romaniello, and Ambra Spinelli.
+
+{{< /backmatter >}}
 
 ## Notes
 

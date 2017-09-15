@@ -10,7 +10,10 @@ table_list:
       	</thead>
       	<tbody>
       		<tr><th scope="row">Aganthor - <em>metic</em></th><td></td><td></td><td></td><td></td><td>1</td><td>2</td><td></td></tr>
+          <tr><th scope="row">Gerys - slave (Philokles)</th><td>2</td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Kephisodoros - <em>metic</em></th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+          <tr><th scope="row">Kerdon - slave</th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
+          <tr><th scope="row">Kroisos - slave</th><td>3</td><td>1</td><td></td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Manis - <em>metic</em></th><td>2</td><td>2</td><td>2</td><td></td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Mikion - <em>metic</em></th><td>3</td><td></td><td>1</td><td></td><td></td><td></td><td></td></tr>
       		<tr><th scope="row">Sindron - slave</th><td></td><td></td><td>1</td><td>4</td><td></td><td></td><td></td></tr>
@@ -34,13 +37,19 @@ table_list:
       	<tbody>
       		<tr><th scope="row">Architects</th><td>2</td><td></td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Under-Secretary</th><td>1</td><td></td><td></td><td></td><td>1</td></tr>
+          <tr><th scope="row">Guard</th><td></td><td></td><td></td><td>1</td><td>1</td></tr>
       		<tr><th scope="row">Mason</th><td>9</td><td>12</td><td>16</td><td>7</td><td>44</td></tr>
       		<tr><th scope="row">Sculptors</th><td>3</td><td>5</td><td></td><td>1</td><td>9</td></tr>
       		<tr><th scope="row">Wax Modelers</th><td></td><td>2</td><td></td><td></td><td>2</td></tr>
       		<tr><th scope="row">Woodcarvers</th><td>1</td><td>5</td><td></td><td>1</td><td>7</td></tr>
       		<tr><th scope="row">Carpenters</th><td>5</td><td>7</td><td>4</td><td>3</td><td>19</td></tr>
+          <tr><th scope="row">Sawyers</th><td></td><td>1</td><td></td><td>1</td><td>2</td></tr>
+          <tr><th scope="row">Joiner</th><td></td><td>1</td><td></td><td></td><td>1</td></tr>
+          <tr><th scope="row">Lathe Worker</th><td></td><td></td><td></td><td>1</td><td>1</td></tr>
       		<tr><th scope="row">Painters</th><td></td><td>2</td><td></td><td>1</td><td>3</td></tr>
+          <tr><th scope="row">Gilder</th><td></td><td>1</td><td></td><td></td><td>1</td></tr>
       		<tr><th scope="row">Laborers</th><td>1</td><td>5</td><td></td><td>3</td><td>9</td></tr>
+          <tr><th scope="row">Unknown Trade</th><td>2</td><td>3</td><td></td><td>2</td><td>7</td></tr>
       	</tbody>
       	<tfoot>
       		<tr><th scope="row">Total</th><td>24</td><td>42</td><td>20</td><td>21</td><td>107</td></tr>
@@ -121,7 +130,7 @@ table_list:
       </table>
 
   - id: "36.1"
-    caption:
+    caption: "Elemental composition of copper-based objects in the Stavanger Museum, Norway. The values are averages of the multiple spots tested; those in italics were inconsistent between spots."
     media_type: html
     table: |
       <table>
@@ -161,7 +170,7 @@ table_list:
       </table>
 
   - id: "36.2"
-    caption:
+    caption: "Elemental composition of copper-containing objects in the Orlando Museum of Art. Most are pure or arsenical copper, or tumbaga, rather than tin bronze."
     media_type: html
     table: |
       <table>
@@ -505,7 +514,7 @@ table_list:
         </thead>
         <tbody>
           <tr> <th scope="row">07mai006</th> <td>Cu - right eyebrow</td> <td>&lt;0.3</td> <td>&lt;0.05</td> <td>0.33</td> <td>&lt;0.0058</td> <td>0.067</td> <td><strong>98.3</strong></td> <td>&lt;0.017</td> <td>0.032</td> <td>&lt;0.0071</td> <td>&lt;0.0098</td> <td>0.071</td> <td>&lt;0.015</td> <td>&lt;0.009</td> <td>&lt;0.022</td> <td>&lt;0.021</td> <td>&lt;0.02</td> <td>&lt;0.0085</td> <td>&lt;0.0094</td> <td>0.96</td> <td>&lt;0.0099</td> </tr>
-          <tr> <th scope="row">07mai007</th> <td>Cu - left eyebrow</td> <td>&lt;0.26</td> <td>&lt;0.066</td> <td>0.28</td> <td>&lt;0.0026</td> <td>0.077</td> <td><strong>99.1</strong></td> <td>&lt;0.018</td> <td>&lt;0.021</td> <td>&lt;0.0023</td> <td>&lt;0.0053</td> <td>0.076</td> <td>&lt;0.0087</td> <td>&lt;0.0073</td> <td>&lt;0.013</td> <td>0.07*</td> <td>&lt;0.0091</td> <td>&lt;0.011</td> <td>&lt;0.0041</td> <td>0.098</td> <td>&lt;0.0063</td> </tr>
+          <tr> <th scope="row">07mai007</th> <td>Cu - left eyebrow</td> <td>&lt;0.26</td> <td>&lt;0.066</td> <td>0.28</td> <td>&lt;0.0026</td> <td>0.077</td> <td><strong>99.1</strong></td> <td>&lt;0.018</td> <td>&lt;0.021</td> <td>&lt;0.0023</td> <td>&lt;0.0053</td> <td>0.076</td> <td>&lt;0.0087</td> <td>&lt;0.0073</td> <td>&lt;0.013</td> <td>0.07</td> <td>&lt;0.0091</td> <td>&lt;0.011</td> <td>&lt;0.0041</td> <td>0.098</td> <td>&lt;0.0063</td> </tr>
           <tr> <th scope="row">07mai008</th> <td>Cu - upper lip</td> <td>&lt;0.32</td> <td>&lt;0.048</td> <td>0.42</td> <td>&lt;0.012</td> <td>0.066</td> <td><strong>97.6</strong></td> <td>&lt;0.025</td> <td>0.19</td> <td>&lt;0.0084</td> <td>&lt;0.0052</td> <td>0.055</td> <td>&lt;0.019</td> <td>&lt;0.0053</td> <td>&lt;0.045</td> <td>&lt;0.016</td> <td>&lt;0.029</td> <td>&lt;0.013</td> <td>&lt;0.0094</td> <td><strong>1.7</strong></td> <td>&lt;0.014</td> </tr>
           <tr> <th scope="row">07mai010</th> <td>Cu - lower lip</td> <td>&lt;0.21</td> <td>&lt;0.077</td> <td>0.47</td> <td>&lt;0.017</td> <td>0.072</td> <td><strong>98.8</strong></td> <td>&lt;0.024</td> <td>0.2</td> <td>&lt;0.005</td> <td>&lt;0.011</td> <td>0.029</td> <td>&lt;0.0098</td> <td>&lt;0.0032</td> <td>&lt;0.031</td> <td>&lt;0.031</td> <td>&lt;0.024</td> <td>&lt;0.014</td> <td>&lt;0.0079</td> <td>0.18</td> <td>&lt;0.0086</td> </tr>
           <tr> <th scope="row">07mai011</th> <td>Cu - right nipple</td> <td>&lt;0.29</td> <td>&lt;0.057</td> <td>0.28</td> <td>&lt;0.014</td> <td>0.093</td> <td><strong>98.9</strong></td> <td>&lt;0.018</td> <td>0.14</td> <td>&lt;0.0042</td> <td>&lt;0.011</td> <td>0.056</td> <td>&lt;0.026</td> <td>&lt;0.008</td> <td>&lt;0.016</td> <td>&lt;0.051</td> <td>&lt;0.021</td> <td>&lt;0.012</td> <td>&lt;0.0082</td> <td>0.17</td> <td>&lt;0.0064</td> </tr>

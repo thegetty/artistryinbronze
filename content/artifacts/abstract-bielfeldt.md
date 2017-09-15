@@ -13,4 +13,5 @@ abstract: |
     This paper focuses on the figural and sculptural design of floor and table candelabra as well as select lamps from Pompeii and Herculaneum, which are part of a new research and database project on Roman lighting and heating devices in bronze led by the author in collaboration with Norbert Franken (Berlin). A large number of candelabra, largely unpublished, are held by the National Museum of Naples (270 specimens). Starting from this chronologically homogeneous group of lighting devices, the author will explore avenues toward a new conceptual framework that enables us to integrate the objects’ intriguing “sculpturalism” with other, often sundered aspects: their energy and matter (fire and metal), their production technique and functionality, their effect on space and ambience, and ultimately their precarious status as objects managed by slaves.
 weight: 607
 online: false
+toc: false
 ---

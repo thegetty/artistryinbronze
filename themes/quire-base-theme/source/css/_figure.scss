@@ -2,8 +2,8 @@
   width: calc(100% - ($base-spacing * 6));
   margin-bottom: $base-spacing * 1.5;
   margin-top: $base-spacing * 1.5;
-  margin-right: $base-spacing * 3;
-  margin-left: $base-spacing * 3;
+  margin-right: $base-spacing * 2;
+  margin-left: $base-spacing * 2;
 
   img {
     display: block;
@@ -120,7 +120,7 @@
       }
 
       &.q-grid-4 {
-        width: 20.75%;
+        width: 22.75%;
         margin-right: 3%;
         &:nth-child(4n) {
           margin-right: 0;
@@ -497,12 +497,12 @@ div.q-figure__video__print-fallback,
   div.q-figure__video__print-fallback {
     display: block;
     padding-top: 1em;
-    border-top: 1pt solid #eaeaea;
+    border-top: 1pt solid #efebec;
     border-radius: 3pt;
     color: #b2b2b2;
   }
   .q-figure__video__print-fallback__icon {
-    fill: #eaeaea;
+    fill: #efebec;
     width: 30%;
     display: block;
     margin-bottom: .75em;

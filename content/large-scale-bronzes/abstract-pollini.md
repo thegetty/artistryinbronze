@@ -16,4 +16,6 @@ abstract: |
     (The full article based on this abstract has appeared in [*AJA* 121.3 [2017]](http://www.ajaonline.org/article/3464).)
 weight: 111
 online: false
+toc: false
 ---
+

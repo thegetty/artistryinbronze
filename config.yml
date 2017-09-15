@@ -32,6 +32,6 @@ params:
   imageLabelContentAfter: ". "
   tableLabelContentBefore: "Table "
   tableLabelContentAfter: ". "
-  primaryColor: "#995326"
-  tocType: "short"
+  primaryColor: "#994e1a"
+  tocType: "full"
   menuType:  "short"

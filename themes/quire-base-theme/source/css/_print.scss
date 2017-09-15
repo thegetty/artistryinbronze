@@ -18,7 +18,7 @@ $print-outer-margin: 0.75in;
 $print-inner-width: $print-width - ($print-inner-margin + $print-outer-margin);
 $print-inner-height: $print-height - ($print-top-margin + $print-bottom-margin);
 
-$print-base-font-size: 9pt;
+$print-base-font-size: 8.5pt;
 $print-base-spacing: 0.125in;
 $print-base-line-height: 13pt;
 $print-paragraph-indent: 0.25in;
@@ -54,7 +54,8 @@ $print-page-number-size: 7.5pt;
   @bottom-right {
     content: string(sectiontitle);
     font-family: $text-font-family;
-    font-size: $print-page-number-size;
+    // font-size: $print-page-number-size;
+    font-size: 6.5pt;
     text-transform: uppercase;
     letter-spacing: 1pt;
   }
@@ -105,7 +106,8 @@ $print-page-number-size: 7.5pt;
   @bottom-right {
     content: string(sectiontitle);
     font-family: $text-font-family;
-    font-size: $print-page-number-size;
+    // font-size: $print-page-number-size;
+    font-size: 6.5pt;
     text-transform: uppercase;
     letter-spacing: 1pt;
   }
@@ -144,7 +146,11 @@ $print-page-number-size: 7.5pt;
   margin-left: $print-outer-margin;
   margin-right: $print-inner-margin;
   margin-top: $print-top-margin;
-  @bottom-left { content: counter(page, lower-roman); }
+  @bottom-left {
+    content: counter(page, lower-roman);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
 }
 
 @page frontmatter:right {
@@ -152,7 +158,46 @@ $print-page-number-size: 7.5pt;
   margin-left: $print-inner-margin;
   margin-right: $print-outer-margin;
   margin-top: $print-top-margin;
-  @bottom-right { content: counter(page, lower-roman); }
+  @bottom-right {
+    content: counter(page, lower-roman);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+}
+
+@page intro:left {
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-outer-margin;
+  margin-right: $print-inner-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-left {
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+}
+
+@page intro:right {
+  margin-bottom: $print-bottom-margin;
+  margin-left: $print-inner-margin;
+  margin-right: $print-outer-margin;
+  margin-top: $print-top-margin;
+
+  @bottom-right {
+    content: counter(page);
+    font-family: $text-font-family;
+    font-size: $print-page-number-size;
+  }
+}
+
+@page intro:blank {
+  @bottom-left {
+    content: normal;
+  }
+  @bottom-right {
+    content: normal;
+  }
 }
 
 @page no-footer:left {
@@ -176,88 +221,21 @@ $print-page-number-size: 7.5pt;
 // scss-lint:enable PropertySpelling
 
 @media print {
+
+  .quire-noprint,
+  .visually-hidden,
+  .footnote-return,
   .quire-nav-group,
+  .skip-link,
   .quire-nav,
   .quire-menu,
   .quire-search,
+  .quire-cover__content,
+  .quire-cover__footer,
   .quire-page__header__page-navigation,
-  .quire-section-head .quire-page__section-list__link,
-  .quire-section-head .quire-page__section-list__abstract {
+  .quire-body-type--section-head .quire-page__section-list__link,
+  .quire-body-type--section-head .quire-page__section-list__abstract {
     display: none;
-  }
-
-  html {
-    font-size: $print-base-font-size;
-    font-weight: 400;
-    line-height: $print-base-line-height;
-  }
-
-  #copyright {
-    font-size: 8pt;
-    line-height: 11.5pt;
-
-    .quire-page__header {
-      display: none;
-    }
-
-    .quire-page__content {
-      column-count: 1;
-      margin-right: 2in;
-
-      // p, ul {
-      //   margin-top: 0;
-      //   margin-bottom: 1em;
-      //   text-indent: 0;
-      // }
-      //
-      // .quire-copyright {
-      //   margin-bottom: 1em;
-      //   p {
-      //     margin-bottom: 0;
-      //   }
-      //   img {
-      //     width: .625in;
-      //   }
-      // }
-      //
-      // .quire-publisher-team {
-      //   list-style-type: none;
-      //   padding-left: 0;
-      //   margin-left: 0;
-      //   li {
-      //     margin: 0;
-      //   }
-      //   &__role {
-      //     font-style: italic;
-      //   }
-      // }
-
-    }
-
-  }
-
-  table {
-    margin-bottom: 1em;
-    margin-top: 1em;
-  }
-
-  .q-figure__table-wrapper {
-    column-span: all;
-    margin-bottom: 1em;
-    margin-top: 1em;
-    font-size: 8pt;
-    table {
-      margin: 0;
-    }
-  }
-
-  .q-figure__table-wrapper + figcaption {
-    column-span: all;
-  }
-
-  hr {
-    margin: 1em auto;
-    letter-spacing: 6pt;
   }
 
   .quire-pdf__title {
@@ -267,6 +245,32 @@ $print-page-number-size: 7.5pt;
     string-set: sectiontitle content();
   }
 
+  html {
+    font-size: $print-base-font-size;
+    font-weight: 400;
+    line-height: $print-base-line-height;
+  }
+
+  p {
+    widows: 2;
+    orphans: 2;
+  }
+
+  table {
+    margin-bottom: 1em;
+    margin-top: 1em;
+  }
+
+  tr th {
+    font-weight: 400;
+  }
+
+  hr {
+    margin: 1em auto;
+    letter-spacing: 6pt;
+    font-size: 7.5pt;
+  }
+
   h2, h3, h4, h5, h6 {
     prince-bookmark-level: none;
   }
@@ -274,23 +278,8 @@ $print-page-number-size: 7.5pt;
     font-weight: 700;
   }
 
-  .quire-section-head .quire-page {
-    page: bleed;
-    width: 9in;
-    height: 11.5in;
-    margin-top: -.25in;
-    margin-left: -.25in;
-    background-size: 9in 11.5in;
-    background-color: $primary-color;
-    padding-top: 4.25in;
-    padding-bottom: -4.25in;
-  }
-  .quire-section-head h1 {
-    color: #fff;
-  }
-  .quire-section-head .quire-page__section-list,
-  .quire-section-head hr {
-    display: none;
+  a {
+    color: $black;
   }
 
   .quire-page {
@@ -298,18 +287,24 @@ $print-page-number-size: 7.5pt;
     page-break-before: always;
 
     p + p,
-    figure + p {
+    figure + p,
+    table + p {
       text-indent: 1.5em;
     }
 
     &__header {
+      margin-top: 1.5in;
+      margin-bottom: .75in;
       &__number {
-        font-size: 14pt;
+        font-size: 13pt;
       }
       &__title {
-        line-height: 32pt;
+        font-size: 20pt;
+        line-height: 30pt;
       }
       &__contributor {
+          font-size: 10pt;
+          line-height: 14.25pt;
           margin-top: 1em;
           margin-left: 0;
           padding-left: 0;
@@ -319,12 +314,7 @@ $print-page-number-size: 7.5pt;
     &__content {
       column-count: 2;
       column-gap: 0.25in;
-      margin-top: .75in;
-
-      &__main,
-      &__references {
-        // column-count: 1;
-      }
+      // margin-top: .75in;
 
       &__main {
         h2 {
@@ -332,6 +322,13 @@ $print-page-number-size: 7.5pt;
           line-height: 17.5pt;
           margin-top: 12pt;
           margin-bottom: 4pt;
+        }
+        h3 {
+          font-size: 10pt;
+          line-height: 14.25pt;
+          margin-bottom: 0;
+          margin-top: .6em;
+          color: $dark-neutral;
         }
         blockquote {
           margin-left: 1.5em;
@@ -357,6 +354,23 @@ $print-page-number-size: 7.5pt;
           margin-right: .75em;
           text-indent: 0;
         }
+
+        &__backmatter,
+        h2#notes + p  {
+          font-size: 7.5pt;
+          line-height: 11pt;
+          ol {
+            margin-bottom: 0;
+            margin-top: .8em;
+            padding-left: 0;
+          }
+        }
+
+      }
+
+      &__reader-note {
+        font-size: 7.5pt;
+        line-height: 11pt;
       }
 
       &__references {
@@ -367,21 +381,24 @@ $print-page-number-size: 7.5pt;
           margin-bottom: 4pt;
         }
         dt {
-          font-size: 8pt;
-          line-height: 11.5pt;
+          font-size: 7.5pt;
+          line-height: 11pt;
           margin-top: 0;
+          font-weight: 600;
+          // color: $dark-neutral;
+          color: #5e5e5e;
         }
         dd {
-          font-size: 8pt;
-          line-height: 11.5pt;
+          font-size: 7.5pt;
+          line-height: 11pt;
           margin-bottom: 6pt;
         }
       }
 
       &__abstract {
         column-span: all;
-        font-size: 8pt;
-        line-height: 11.5pt;
+        font-size: 7.5pt;
+        line-height: 11pt;
         width: 5in;
         margin: 0 auto;
         h2 {
@@ -402,8 +419,8 @@ $print-page-number-size: 7.5pt;
     }
 
     .footnotes {
-      font-size: 8pt;
-      line-height: 11.5pt;
+      font-size: 7.5pt;
+      line-height: 11pt;
       ol {
         margin-left: 18pt;
         li ol {
@@ -411,11 +428,133 @@ $print-page-number-size: 7.5pt;
         }
       }
     }
+
+    .q-contributors__list {
+      margin-left: 0;
+      padding-left: 0;
+    }
   }
 
-  .visually-hidden {
+  // ---- SECTION HEADS ---- //
+
+  .quire-body-type--section-head .quire-page {
+    page: bleed;
+    width: 9in;
+    height: 11.25in;
+    margin-top: -.25in;
+    margin-left: -.25in;
+    margin-bottom: -.25in;
+    background-color: $primary-color;
+    padding-top: .25in;
+    // padding-top: 2.5in;
+    // padding-bottom: -2.5in;
+  }
+
+  .quire-body-type--section-head .quire-page__header {
+    margin-top: 3.25in;
+  }
+
+  .quire-body-type--section-head h1 {
+    color: #fff;
+  }
+  .quire-body-type--section-head .quire-page__section-list,
+  .quire-body-type--section-head hr {
     display: none;
   }
+
+  // ---- COVER ---- //
+
+  .quire-body-type--cover {
+    page: no-footer;
+    .quire-nav-group,
+    .quire-nav {
+      page-break-after: always;
+      background-color: transparent;
+      display: block;
+      color: $primary-color;
+      text-align: right;
+      font-size: 13pt;
+      margin-top: 4.125in;
+      font-weight: 400;
+      a {
+        color: $primary-color;
+      }
+    }
+    .quire-cover__background {
+      background-image: none;
+    }
+    .quire-cover__inner {
+      page-break-before: right;
+      margin: 0;
+      padding-left: .5in;
+      padding-top: 1.65in;
+      &__title {
+        font-size: 30pt;
+        line-height: 40pt;
+        width: 5.5in;
+      }
+      &__reading-line {
+        color: #706c6d;
+      }
+      &__contributor {
+        margin-top: .25in;
+        font-size: 13pt;
+        line-height: 21pt;
+      }
+      &__publisher {
+        margin-top: 3in;
+        font-size: 12pt;
+        line-height: 21pt;
+        color: $dark-neutral;
+      }
+    }
+  }
+
+  // ---- FRONTMATTER PAGES ---- //
+
+  .quire-body-class--frontmatter {
+    .quire-page {
+      page: frontmatter;
+      margin-left: .625in;
+      margin-right: .625in;
+      &__content {
+        column-count: 1;
+      }
+    }
+  }
+
+  .quire-contents {
+    font-size: 10pt;
+    line-height: 14.25pt;
+    margin-left: 0;
+    padding-left: 0;
+
+    &__page {
+      page-break-inside: avoid;
+    }
+
+    &__page,
+    &__section {
+      a {
+        display: block;
+      }
+      a::after {
+        content: leader(dotted) ' ' target-counter(attr(href, url), page);
+      }
+      &--frontmatter {
+        a::after {
+          content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+        }
+      }
+    }
+
+    .quire-contents__page__separator {
+      display: none;
+    }
+
+  }
+
+  // ---- FIGURES ---- //
 
   figure {
     page-break-inside: avoid;
@@ -423,7 +562,8 @@ $print-page-number-size: 7.5pt;
   }
   .q-figure-credit {
     font-size: 6.5pt;
-    line-height: 1.35em;
+    line-height: 11pt;
+    margin-top: 1.5pt;
   }
 
   .q-figure {
@@ -476,34 +616,25 @@ $print-page-number-size: 7.5pt;
       display: block;
     }
 
+    &__table-wrapper {
+      column-span: all;
+      margin-bottom: 1em;
+      margin-top: 1em;
+      font-size: 7.5pt;
+      table {
+        margin: 0;
+      }
+    }
+
+    &__table-wrapper + figcaption {
+      column-span: all;
+    }
+
     figcaption {
       margin-top: 0.5em;
-    }
-  }
-
-  .q-contributors__list {
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  // #contents .quire-page__content {
-  //   column-count: 1;
-  // }
-
-  .quire-contents {
-    column-span: all;
-    a {
-      display: block;
-    }
-    a::after {
-      content: leader(dotted) ' ' target-counter(attr(href, url), page);
-    }
-    .quire-contents__page__separator {
-      display: none;
-    }
-    &__section {
-      padding-left: 18pt;
-      font-weight: bold;
+      font-size: 7.5pt;
+      line-height: 11pt;
+      font-weight: 400;
     }
   }
 

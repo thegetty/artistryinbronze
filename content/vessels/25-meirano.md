@@ -2,6 +2,7 @@
 id: "25"
 title: Bronze Vessels and Related *Instrumenta* at Delphi
 subtitle: Remarks on Morphology, Provenance, and Chronology
+short_title: Bronze Vessels and Related *Instrumenta*
 type: essay
 contributor:
  - first_name: Valeria
@@ -12,11 +13,11 @@ abstract: |
 weight: 502
 ---
 
-The circumstances under which the École Française d’Athènes conducted the chief excavation of the sanctuary of Delphi are well known: the so-called *Grande Fouille* represents a foundational page in the history of archaeological excavations in Greece during the nineteenth century. Between 1892 and 1903, French archaeologists brought to light the major part of the site ([fig. 25.1](#25.1)), unveiling the ruins of the celebrated monuments described in the literary texts and contributing to the understanding of one of the most famous sanctuaries of the ancient world.[^1]
+The circumstances under which the École Française d’Athènes conducted the chief excavation of the sanctuary of Delphi are well known: the so-called *Grande Fouille* represents a foundational page in the history of archaeological excavations in Greece during the nineteenth century. Between 1892 and 1903, French archaeologists brought to light the major part of the site ([fig. 25.1](#fig-25-1)), unveiling the ruins of the celebrated monuments described in the literary texts and contributing to the understanding of one of the most famous sanctuaries of the ancient world.[^1]
 
 {{< q-figure id="25.1" >}}
 
-Topography, architecture, and sculpture were of course the main objectives, while the remaining evidence received far less attention during the excavations and in the subsequent studies. The *Journal de la Grande Fouille*, written during the decade of archaeological work, is proof of this attitude. Some pages, like the ones by Paul Perdrizet dealing with ceramics and small bronzes ([fig. 25.2](#25.2)), represent exceptions in the general picture one gets from browsing the excavation journal.[^2]
+Topography, architecture, and sculpture were of course the main objectives, while the remaining evidence received far less attention during the excavations and in the subsequent studies. The *Journal de la Grande Fouille*, written during the decade of archaeological work, is proof of this attitude. Some pages, like the ones by Paul Perdrizet dealing with ceramics and small bronzes ([fig. 25.2](#fig-25-2)), represent exceptions in the general picture one gets from browsing the excavation journal.[^2]
 
 {{< q-figure id="25.2" >}}
 
@@ -36,7 +37,7 @@ Though it is not possible to present it in detail here, a general picture of the
 
 As previously stated, contextualization is problematic at Delphi, but nevertheless it rewards study. Although the majority of the finds of known provenance come from the sanctuaries of Apollo and Athena at Marmaria, some evidence was retrieved from funerary and domestic contexts as well. In general, the number of bronze vases and instruments dramatically decreases starting from the fourth century BC. Among the pieces of known provenance, the Hellenistic and later ones mainly come from profane contexts, a sign of the progressive change in ritual practice and offering strategies.
 
-Open shapes are predominant. Among them we find the drinking vessels and the libation vases par excellence, *phialai mesompaloi*, both in the “plain” and in the “lotus-bowl” versions, together with large, deep bowls ([fig. 25.3](#25.3)). Kantharoi, kylikes, and other handled cups, skyphoi, and mugs are far less attested, while handles are the only surviving parts of paterae.
+Open shapes are predominant. Among them we find the drinking vessels and the libation vases par excellence, *phialai mesompaloi*, both in the “plain” and in the “lotus-bowl” versions, together with large, deep bowls ([fig. 25.3](#fig-25-3)). Kantharoi, kylikes, and other handled cups, skyphoi, and mugs are far less attested, while handles are the only surviving parts of paterae.
 
 {{< q-figure id="25.3" class="float-right" >}}
 
@@ -48,29 +49,31 @@ A few pieces attest to the presence of small forms like pyxides, *bombylioi*, bo
 
 Large closed shapes, which can be recognized as hydriai, olpai, and oinochoai, are mainly documented by fragments or miniature versions, with some exceptions. One is the known hydria dating to the mid-fifth century BC, which served as a cinerary urn in a tomb unearthed during the excavations for the building of the new museum.[^23] Another example is a small, refined trefoil oinochoe, which can be compared with Macedonian specimens of the fourth century BC.[^24]
 
-{{< q-figure id="25.4" class="float-right" >}}
+As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphological forms ([fig. 25.4](#fig-25-4)).
 
-{{< q-figure id="25.5" class="float-right" >}}
+Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5a-b](#fig-25-5a)).
 
-{{< q-figure id="25.6" class="float-right" >}}
+Among the *instrumenta*, lamps are attested especially in the Late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.6](#fig-25-6)).[^26]
 
-{{< q-figure id="25.7" class="float-right" >}}
+{{< q-figure id="25.4" >}}
 
-As expected, the number of handles is large. Some are figured specimens with stylistic features that significantly contribute to the identification of production areas and to the definition of circulation dynamics of bronze objects. The various types of attested vertical handles suggest a wider range of closed shapes in comparison to what is documented by other morphological forms ([fig. 25.4](#25.4)).
+{{< q-figure-group id="25.5a, 25.5b" grid="2" label="true" caption="**Figure 25.5.** Small tripod stand. Side (a) and top (b) view. Archaeological Museum of Delphi, inv. 8404." credit="Image: V. Meirano" >}}
 
-Refined horizontal handles, sometimes with decorative elements, as well as figured appliqués, support the presence of large vases like *podanipteres* or kraters, which are also possibly echoed by fragments of stands with lion paws.[^25] Some small tripods were connected to *exaleiptra* and to other small or miniature shapes ([figs. 25.5–6](#25.5)).
-
-Among the *instrumenta*, lamps are attested especially in the Late Hellenistic and Roman times, when we find some figured specimens, like one in the shape of a grotesque figure ([fig. 25.7](#25.7)).[^26]
-
-<!-- {{< q-figure id="25.7" >}} -->
+{{< q-figure id="25.6" >}}
 
 Finally, we find a group of “vertical” instruments, namely candelabra, *kottaboi*, and other such articles. Some pieces—in particular a few curved arms with decorated finials showing serpent heads or floral motifs—are probably to be interpreted as parts of utensil stands, a rare class that is better known in western Greece, thanks to some specimens from Epizephyrian Lokroi (Locri, in Calabria).[^27]
 
 Research on Delphic bronze vessels and instruments also seeks to record and explain the detectable traces of actions made during the sacred rituals and the consecrations of offerings, in order to better understand the behaviors performed by devotees and priests in the sacred precinct. The “partial” offering of metal objects has already been demonstrated in various Greek sacred contexts, especially regarding vases and weapons.[^28] Modifications of and deliberate damage to bronze objects by breaking, bending, piercing, mutilating, and so on are known at many necropoleis and sanctuaries, including Delphi, where this practice is attested on some helmet cheek-pieces.[^29]
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
 The research on metal vessels and related *instrumenta* at Delphi is conducted in the frame of the Contrat Quinquennal of the École Française d’Athènes under the auspices of the local Ephoria. I would also like to acknowledge the Alexander S. Onassis Public Benefit Foundation in Athens and the Scuola Archeologica Italiana di Atene for their support and the research facilities provided.
+
+{{< /backmatter >}}
 
 ## Notes
 

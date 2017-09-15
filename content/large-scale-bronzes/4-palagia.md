@@ -1,6 +1,7 @@
 ---
 id: "4"
 title: A Royal Macedonian Portrait Head from the Sea off Kalymnos
+short_title: A Royal Macedonian Portrait Head
 type: essay
 contributor:
  - first_name: Olga
@@ -18,11 +19,11 @@ weight: 104
 
 {{< q-figure-group id="4.1, 4.2, 4.3" grid="3" grid-align="top" pdf="two-column" >}}
 
-The fine bronze portrait head of a man wearing a *kausia* ([figs. 4.1–3](#4.1)), which was on display in the exhibitions *Power and Pathos* in Florence, Los Angeles, and Washington, DC, and *Pergamon and the Hellenistic Kingdoms of the Ancient World* at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.[^1] Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.[^2] A third monumental bronze from the same area is the cuirassed torso of a horseman,[^3] while a fourth is an even larger headless horseman,[^4] which may or may not belong together with the *kausia* head. It is sometimes assumed that this bronze head belonged to an equestrian statue, but this is by no means established.
+The fine bronze portrait head of a man wearing a *kausia* ([figs. 4.1–3](#fig-4-1)), which was on display in the exhibitions *Power and Pathos* in Florence, Los Angeles, and Washington, DC, and *Pergamon and the Hellenistic Kingdoms of the Ancient World* at the Metropolitan Museum of Art in New York, is one of four over-life-size bronze statues of the Hellenistic period that were recovered from the sea near Kalymnos.[^1] Another colossal bronze is a female portrait statue of very fine quality, dating from the late third century BC.[^2] A third monumental bronze from the same area is the cuirassed torso of a horseman,[^3] while a fourth is an even larger headless horseman,[^4] which may or may not belong together with the *kausia* head. It is sometimes assumed that this bronze head belonged to an equestrian statue, but this is by no means established.
 
 All four statues could conceivably come from the same shipwreck, but we do not have a verified excavation context. The works were recovered by fishermen, who specified different findspots for each before turning them over to the Greek government. No shipwrecks have been located so far and the bronzes are not yet fully published, even though two of them were found in the previous century: the female statue was found in 1994, the head with a *kausia* in 1997, the cuirassed torso in 2006, and the headless horseman in 2009.[^5] There is little doubt that all four statues are portraits. Their high quality and monumental size suggest that they are portraits of rulers or high officials of the Hellenistic period. In 2013 I published an article tentatively identifying the female portrait statue from the sea off Kalymnos with the Ptolemaic queen Arsinoë III, who reigned in the late third century BC, by comparison with the bronze head of Arsinoë in Mantua, which was also included in the exhibition *Power and Pathos*.[^6] I associated the statue with the island of Kos, where several portraits of the queen are attested and where a ruler cult of the Ptolemies was located. Kos is very close to Pserimos, where the bronze female allegedly came to light.
 
-The bronze head wearing a *kausia* (see [figs. 4.1–3](#4.1)) is slightly over life-size. It was created by an outstanding sculptor and is one of the finest bronzes to have come down to us from antiquity. He has a long, oval face, large ears, short hair, sideburns and a short beard. He wears a distinctive hat of mushroom shape, slightly pointed, ending in a sweatband around the scalp. It seems to imitate a leather cap, judging by its sharp edges, with a woolen sweatband. A similar hat is represented on the weapons frieze of the propylon of the sanctuary of Athena at Pergamon ([fig. 4.4](#4.4)), which dates from the reign of Eumenes II, probably from the 180s BC,[^7] The same hat is worn by Seleukos II on his bronze coins minted at Susa in 228 BC.[^8] Two Bactrian kings are also portrayed wearing this type of hat: Antimachos I on his coin portraits from around the first quarter of the second century BC ([fig. 4.5](#4.5));[^9] and Demetrios II on a clay seal from Seleukeia on the Tigris from the last quarter of the same century.[^10] Their hats may be interpreted as a version of the *kausia*, the Macedonian hat for elite men.[^11]
+The bronze head wearing a *kausia* (see [figs. 4.1–3](#fig-4-1)) is slightly over life-size. It was created by an outstanding sculptor and is one of the finest bronzes to have come down to us from antiquity. He has a long, oval face, large ears, short hair, sideburns and a short beard. He wears a distinctive hat of mushroom shape, slightly pointed, ending in a sweatband around the scalp. It seems to imitate a leather cap, judging by its sharp edges, with a woolen sweatband. A similar hat is represented on the weapons frieze of the propylon of the sanctuary of Athena at Pergamon ([fig. 4.4](#fig-4-4)), which dates from the reign of Eumenes II, probably from the 180s BC,[^7] The same hat is worn by Seleukos II on his bronze coins minted at Susa in 228 BC.[^8] Two Bactrian kings are also portrayed wearing this type of hat: Antimachos I on his coin portraits from around the first quarter of the second century BC ([fig. 4.5](#fig-4-5));[^9] and Demetrios II on a clay seal from Seleukeia on the Tigris from the last quarter of the same century.[^10] Their hats may be interpreted as a version of the *kausia*, the Macedonian hat for elite men.[^11]
 
 {{< q-figure id="4.4" class="float-right" pdf="one-column" >}}
 
@@ -36,9 +37,9 @@ An earlier version of the *kausia*, closer to Alexander the Great’s own time, 
 
 Alexander’s royal diadem was adopted by the Successors as a sign of royalty from 306 BC on. Plutarch, in his *Life of Demetrios* (18), provides a vivid description of the assumption of the diadem by Antigonos the One-Eyed and remarks that Ptolemy I and Lysimachos followed his example soon thereafter.[^26] Ptolemy I was the first to depict himself wearing a diadem on his coins.[^27] The diadem continued to serve as royal insignia until the end of the Hellenistic period.
 
-It is of course quite obvious that the bronze head (see [figs. 4.1–3](#4.1)) does not wear a royal diadem. Could he be a Macedonian king? Or is he one of the king’s friends, who were entitled to wear a *kausia* without a diadem? Equestrian bronze statues of high officials of the Macedonian kingdom voted by the Greek cities are attested as early as the late fourth century. For example, the Athenians honored Asandros with a statue in the Agora in 314/13 BC, while the Eretrians set up a statue of Timotheos in 309 BC.[^28]
+It is of course quite obvious that the bronze head (see [figs. 4.1–3](#fig-4-1)) does not wear a royal diadem. Could he be a Macedonian king? Or is he one of the king’s friends, who were entitled to wear a *kausia* without a diadem? Equestrian bronze statues of high officials of the Macedonian kingdom voted by the Greek cities are attested as early as the late fourth century. For example, the Athenians honored Asandros with a statue in the Agora in 314/13 BC, while the Eretrians set up a statue of Timotheos in 309 BC.[^28]
 
-The head with *kausia* from near Kalymnos preserves no royal insignia. Could he still be a royal? The answer lies on Kos. A fragmentary portrait head in Parian marble ([figs. 4.6–7](#4.6)), showing almost certainly the same man and being of the same scale as the bronze head, comes from an unknown findspot on Kos.[^29] The marble head has the same oval-shaped face, large ears, drooping eyelids, sideburns, and short beard as the bronze head (see [figs. 4.1–3](#4.1)). It differs in having luxuriant locks over the ears, but these may indicate a slight change of hairstyle or may be due to the fact that the hair is not constrained by a hat. The marble head differs in another crucial detail: it wears a royal diadem, visible on the right profile;[^30] it therefore portrays a Hellenistic king.
+The head with *kausia* from near Kalymnos preserves no royal insignia. Could he still be a royal? The answer lies on Kos. A fragmentary portrait head in Parian marble ([figs. 4.6–7](#fig-4-6)), showing almost certainly the same man and being of the same scale as the bronze head, comes from an unknown findspot on Kos.[^29] The marble head has the same oval-shaped face, large ears, drooping eyelids, sideburns, and short beard as the bronze head (see [figs. 4.1–3](#fig-4-1)). It differs in having luxuriant locks over the ears, but these may indicate a slight change of hairstyle or may be due to the fact that the hair is not constrained by a hat. The marble head differs in another crucial detail: it wears a royal diadem, visible on the right profile;[^30] it therefore portrays a Hellenistic king.
 
 {{< q-figure-group id="4.6, 4.7" grid="2" label="true" caption="Marble portrait head of Philip V (?) from Kos. Kos Museum, inv. 82." credit="Image: Olga Palagia" >}}
 
@@ -46,13 +47,19 @@ The Kos head was originally published by Gerhard Neumann, who suggested that it 
 
 {{< q-figure id="4.8" class="float-left" pdf="one-column" >}}
 
-The coin portraits of Philip V ([fig. 4.8](#4.8))[^36] betray a lot of similarities to the bronze head (see [fig. 4.3](#4.3)), especially the hairstyle and oval face. They also exhibit the same drooping eyelids as the marble portrait on Kos. Could the bronze and marble heads be portraits of Philip V? As we do not know what Antigonos Doson looked like, Philip V remains a distinct possibility. The presence of his marble portrait on Kos would not be so easy to explain, given that relations between Philip V and Kos were not friendly.[^37] But we know that his son Perseus had a royal estate on Kos, which he may well have inherited from his father.[^38] In addition, the shrine of Antigonos Doson may have served as a repository of other royal Macedonian portraits. The Koans were more often than not staunch supporters of the Ptolemies,[^39] but they may have had to placate the aggressiveness of Philip V. The original location of our bronze head with *kausia* is of course unknown, but Kos is not impossible.
+The coin portraits of Philip V ([fig. 4.8](#fig-4-8))[^36] betray a lot of similarities to the bronze head (see [fig. 4.3](#fig-4-3)), especially the hairstyle and oval face. They also exhibit the same drooping eyelids as the marble portrait on Kos. Could the bronze and marble heads be portraits of Philip V? As we do not know what Antigonos Doson looked like, Philip V remains a distinct possibility. The presence of his marble portrait on Kos would not be so easy to explain, given that relations between Philip V and Kos were not friendly.[^37] But we know that his son Perseus had a royal estate on Kos, which he may well have inherited from his father.[^38] In addition, the shrine of Antigonos Doson may have served as a repository of other royal Macedonian portraits. The Koans were more often than not staunch supporters of the Ptolemies,[^39] but they may have had to placate the aggressiveness of Philip V. The original location of our bronze head with *kausia* is of course unknown, but Kos is not impossible.
 
 In sum, the bronze head appears to represent a king of Macedonia of the late third century BC, very likely Philip V, and deserves pride of place among extant portraits of Hellenistic rulers. In addition, this is the only original over-life-size bronze portrait of a Macedonian king known to date, thus enriching our appreciation of the sculpture of Macedonia.
 
+---
+
+{{< backmatter >}}
+
 ## Acknowledgments
 
-I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Meadows for the photo in [fig. 4.5](#4.5); and Ute Wartenberg Kagan for the photo in [fig. 4.8](#4.8). Thanks also to George Koutsouflakis and Despoina Ignatiadou for advice and suggestions.
+I would like to thank Hans Goette for the photo in [fig. 4.4](#fig-4-4); Andrew Meadows for the photo in [fig. 4.5](#fig-4-5); and Ute Wartenberg Kagan for the photo in [fig. 4.8](#fig-4-8). Thanks also to George Koutsouflakis and Despoina Ignatiadou for advice and suggestions.
+
+{{< /backmatter >}}
 
 ## Notes
 
@@ -82,7 +89,7 @@ I would like to thank Hans Goette for the photo in [fig. 4.4](#4.4); Andrew Mead
 
 [^13]: Ephippos ap. Athenaios 12.537e; Arrian *Anabasis* 7.22.2. See also Lane Fox 2007, 278; Dahmen 2012; Palagia 2014, 212–13.
 
-[^14]: Plutarch *Demetrius* 41.4. For rulers wearing a *kausia* with a diadem, see [fig. 4.5](#4.5) and nn. 8–10 above.
+[^14]: Plutarch *Demetrius* 41.4. For rulers wearing a *kausia* with a diadem, see [fig. 4.5](#fig-4-5) and nn. 8–10 above.
 
 [^15]: Plutarch *Antonius* 54.5; Green 1990, 675.
 

@@ -12,4 +12,5 @@ abstract: |
     The study is made by comparing pieces from various Spanish state museums, which have been analyzed and have undergone restoration and conservation during recent years by the Subdirectory of the Spanish Historical Heritage Institute.
 weight: 716
 online: false
+toc: false
 ---

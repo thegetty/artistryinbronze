@@ -1,6 +1,7 @@
 ---
 id: "33"
 title: A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration
+short_title: The Campana Collection
 type: essay
 contributor:
  - first_name: Nadežda P.
@@ -49,6 +50,8 @@ A throne of the same form was found at the Lippi necropolis near Verucchio.[^10]
 
 As a result of our research, it became clear that the items are not entirely fake as was assumed before. Two similar objects in the form of shields most likely are parts of Etruscan paterae or large bowls. It is highly probable that the hemispheres detached from a shield may have been decorations on a wooden item, such as an Etruscan chair.
 
+---
+
 ## Notes
 
 [^1]: Guédéonow 1861, 41.
@@ -65,7 +68,7 @@ As a result of our research, it became clear that the items are not entirely fak
 
 [^7]: Nazo 2003, 89‒91, no. 138, plate 47.
 
-[^8]: [http://www.metmuseum.org/Collections/search-the-collections/247024](http://www.metmuseum.org/Collections/search-the-collections/247024), [http://www.metmuseum.org/Collections/search-the-collections/247025](http://www.metmuseum.org/Collections/search-the-collections/247024)
+[^8]: {{< url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247024{{< /url-link >}}, {{< url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247025{{< /url-link >}}
 
 [^9]: Connolly 1981, 94.
 

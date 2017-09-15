@@ -27,18 +27,19 @@ abstract: |
     Chemical and textural investigation of the Cu-alloy samples was performed by SEM-EDS, EPMA, and metallographic analyses on polished cross sections. The data are discussed and compared with literature data available for coeval statues. Moreover, the lead isotopic compositions of selected samples were investigated by MC-ICP-MS. Comparison of the results with existing Pb-isotope databases (OXALID; BRETTSCAIFE.net; Alpine Archaeocopper Project) shows that the copper used for Statue A is compatible with western Mediterranean deposits, whereas the copper of Statue B fit with eastern Mediterranean ores. The isotopic signals of the welding samples from Statue B show a different provenance, possibly related to the age of the welding operations. The lead of the tenons of both statues has a very well defined isotopic signal compatible with a Greek source.
 weight: 714
 online: false
+toc: false
 ---
 
 ## Bibliography
 
 Alpine Archaeocopper Project
-: [http://geo.geoscienze.unipd.it/aacp/welcome.html](http://geo.geoscienze.unipd.it/aacp/welcome.html)
+: {{< url-link >}}http://geo.geoscienze.unipd.it/aacp/welcome.html{{< /url-link >}}
 
 Arias 1986
 : Arias, P. E. 1986. “Analisi critica delle statue \[The Critical Analysis of the Statues\].” In *Gli Eroi venuti dal mare*, ed. L. M. Lombardi Satriani, et al. 39–64. Università della Calabria, Studi e Ricerche 19. Gangemi: Università della Calabria.
 
 BRETTSCAIFE.net
-: [http://brettscaife.net/lead/data/index.html](http://brettscaife.net/lead/data/index.html)
+: {{< url-link >}}http://brettscaife.net/lead/data/index.html{{< /url-link >}}
 
 OXALID
-: [http://oxalid.arch.ox.ac.uk/](http://oxalid.arch.ox.ac.uk/)
+: {{< url-link >}}http://oxalid.arch.ox.ac.uk/{{< /url-link >}}

@@ -19,6 +19,7 @@ abstract: |
     In order to investigate the manufacture and the dating of the Louvre’s statue, a technological study was carried out at the C2RMF. Study of the inner wall was eased by the open access at the back of the statue, and completed by X-radiography. Elemental composition was determined on micro-samples analyzed by PIXE. The statue appears to have been cast in nine separate hollow parts mainly by the indirect lost-wax process. A tin bronze with a high lead content (Sn: 7 wt%; Pb: 25 wt%) was used. The separately cast parts were then assembled using flow fusion welding or brazing, depending on the shape of the join (in basins or using a platform). Some other clues (such as fingerprints in the wax) helped to reconstruct each step of the manufacture with more detail and to qualify the Sleeping Eros from Epiais-Rhus as a large bronze statue elaborated during the second century AD.
 weight: 715
 online: false
+toc: false
 ---
 
 ## Bibliography

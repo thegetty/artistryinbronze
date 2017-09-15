@@ -7,11 +7,10 @@
     {{ .Hugo.Generator }}
     <title>{{ .Title }} || {{ .Site.Data.publication.title }}</title>
     {{ partial "metadata.html" . }}
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/custom.css">
   </head>
-  <body class="quire-baseof quire-{{ .Type }}" id="{{ .Title | urlize }}">
+  <body class="quire-body quire-body-type--{{ .Type }}{{ with .Params.layout }}--{{ . }}{{ end }}{{ with .Params.class }} quire-body-class--{{ . }}{{ end }}" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
     {{ partial "icons.html" . }}
     <div class="quire-nav-group no-js">
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>

@@ -1067,13 +1067,13 @@ figure_list:
       Zeus, Apollonia: front
     credit: >
 
-  - id: "20.1b"
+  - id: "20.1c"
     src: fig_20.01b_Veseli.jpg
     caption: >
       Zeus, Apollonia: detail of face
     credit: >
 
-  - id: "20.1c"
+  - id: "20.1b"
     src: fig_20.01c_Veseli.jpg
     caption: >
       Zeus, Apollonia: rear
@@ -1361,21 +1361,23 @@ figure_list:
     credit: >
       Image: V. Meirano
 
-  - id: "25.5"
+  - id: "25.5a"
     src: fig_25.05_Meirano.jpg
+    label: "a"
+    caption: >
+      Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
+    credit: >
+      Image: V. Meirano
+
+  - id: "25.5b"
+    src: fig_25.06_Meirano.jpg
+    label: "b"
     caption: >
       Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
     credit: >
       Image: V. Meirano
 
   - id: "25.6"
-    src: fig_25.06_Meirano.jpg
-    caption: >
-      Small tripod stand. Archaeological Museum of Delphi, inv. 8404.
-    credit: >
-      Image: V. Meirano
-
-  - id: "25.7"
     src: fig_25.07_Meirano.jpg
     caption: >
       Figured bronze lamp. Archaeological Museum of Delphi, inv. 1160.
@@ -1595,7 +1597,7 @@ figure_list:
   - id: "29.6"
     src: fig_29.06_Lester.jpg
     caption: >
-      A foot with a recess to support a tray or a bucket, from Caesarea, eleventh century AD. IAA reg. no. 1996-372. 
+      A foot with a recess to support a tray or a bucket, from Caesarea, eleventh century AD. IAA reg. no. 1996-372.
     credit: >
       Image: Courtesy of the IAA
 
@@ -1956,13 +1958,13 @@ figure_list:
   - id: "36.9b"
     src: fig_36.09b_Tykot.jpg
     caption: >
-      Analyzed tumi in the Orlando Museum of Art
+      Analyzed needles in the Orlando Museum of Art
     credit: >
 
   - id: "36.9c"
     src: fig_36.09c_Tykot.jpg
     caption: >
-      Analyzed needles in the Orlando Museum of Art
+      Analyzed tumi in the Orlando Museum of Art
     credit: >
 
   - id: "36.9d"
@@ -1973,18 +1975,21 @@ figure_list:
 
   - id: "36.10a"
     src: fig_36.10a_Tykot.jpg
+    label: "a"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >
 
   - id: "36.10b"
     src: fig_36.10b_Tykot.jpg
+    label: "b"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >
 
   - id: "36.10c"
     src: fig_36.10c_Tykot.jpg
+    label: "c"
     caption: >
       Three examples of Etruscan bronze mirrors with multiple spots tested on both sides
     credit: >
@@ -2227,7 +2232,7 @@ figure_list:
   - id: "40.4b"
     src: fig_40.04b_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of torso; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Detail of *Apollo*’s torso where sample was obtained.
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of torso; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Detail of <em>Apollo</em>’s torso where sample was obtained.
     credit: >
       Image: © The Cleveland Museum of Art
 
