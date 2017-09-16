@@ -51,9 +51,9 @@ The lyre and the cithara both have arms that rise from the sides of the instrume
 
 Seventy-five years after the Citharist was found, in 1925, less than two blocks away on the Via dell’Abbondanza, Amedeo Maiuri excavated a very large home (I 7.11) consisting of several conjoined houses with three entrances. Another small bronze youth was excavated there; it became known as the Ephebe from the Via dell’Abbondanza,[^20] and the house was soon named the House of the Ephebe ([fig. 8.3](#fig-8-3)). The statue was found at the entrance to a hallway connecting an atrium and a tablinum, where it and other objects were thought to have been in storage during a renovation project.
 
-{{< q-figure id="8.3" >}}
-
 Like the previous image, this bronze is slightly under 150 centimeters (59 in.) in height. He too stands on a small, round molded-bronze base, this one mounted on a round marble footed base. In his left hand he held a floral support for a tray. This ephebe has essentially the same hairstyle as the one found nearby, even the little comma-like curls on the back of his neck, lacking only the long spiral sidelocks. The similarities between the two boys—in size, in identity, in early classicizing design, in their small, round bases—could well mean that they were both products of the same Pompeiian workshop. Was the “citharist” also a tray- or lamp-bearer? Had his tray been temporarily removed, allowing him to function as a statue? It would be no surprise to find similar rich furnishings in two fine houses located only two blocks apart on the same street. Scholars might wish to consider what else these two bronzes have in common. Were they made in the same way? Do their arms and legs and heads have comparable measurements? Is the copper alloy similar?
+
+{{< q-figure id="8.3" >}}
 
 ## The Youth from the House of Marcus Fabius Rufus
 

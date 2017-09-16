@@ -1516,6 +1516,9 @@ td,
 th {
   vertical-align: middle; }
 
+.quire-cover__inner__publisher .quire-publisher:first-child:before {
+  content: 'The '; }
+
 .quire-publisher:after {
   content: ', '; }
 
@@ -1949,7 +1952,7 @@ code {
       font-size: 0.85rem;
       line-height: 1.6em; }
       .quire-page__content__main .footnotes p {
-        margin-bottom: 0.25rem;
+        margin-bottom: 0.5rem;
         text-indent: 0; }
       .quire-page__content__main .footnotes ol {
         margin-left: 1.6rem;
@@ -2046,6 +2049,9 @@ code {
       font-weight: 400;
       list-style-type: none;
       padding-left: 0; }
+  .quire-page__section-list__abstract p {
+    margin-bottom: 0;
+    text-indent: 2rem; }
   .quire-page__section-list__link {
     display: inline-block;
     font-size: 0.85rem;
@@ -2719,6 +2725,8 @@ div.q-figure__video__print-fallback,
         margin-left: 18pt; }
         .quire-page .footnotes ol li ol {
           margin-left: 6pt; }
+      .quire-page .footnotes p + p {
+        margin-top: 3pt; }
     .quire-page .q-contributors__list {
       margin-left: 0;
       padding-left: 0; }

@@ -32,6 +32,12 @@ ul.quire-contents .quire-contents__page--abstract-list {
   display: none;
 }
 
+.quire-page__section-list .quire-page__section-list__item .quire-page__section-list__abstract p {
+  margin-bottom: 0;
+  text-indent: 2rem;
+}
+
+
 table#table-23-appendix {
   margin-left: 0;
   margin-right: 0;
@@ -113,6 +119,14 @@ table#table-23-appendix ul {
     column-break-before: always;
   }
 
+  #large-scale-bronzes-1-plattner-gschwantler-vak ul {
+    page-break-inside: avoid;
+  }
+
+  #large-scale-bronzes-1-plattner-gschwantler-vak blockquote > ul:first-of-type {
+    page-break-after: always;
+  }
+
   #table-37-3,
   #table-37-4,
   #table-42-1,
@@ -136,6 +150,10 @@ table#table-23-appendix ul {
   #table-36-2 th:nth-child(2) {
     width: 2in;
   }
+
+  /*#table-37-3 th:nth-child(-n+4) {
+    width: .5in;
+  }*/
 
   #table-40-1 th:nth-child(n+4) {
     width: .25in;
@@ -231,13 +249,14 @@ table#table-23-appendix ul {
     padding-left: 0;
   }
 
-  #abstracts .quire-page__section-list__abstract {
+  .quire-body-type--essay--abstract-list .quire-page__section-list__abstract {
     font-size: 7.5pt;
     line-height: 11pt;
   }
 
-  #abstracts .quire-page__section-list__abstract p {
-    text-indent: .25in;
+  .quire-body-type--essay--abstract-list .quire-page__section-list__abstract p {
+    /*text-indent: .25in;*/
+    text-indent: 1.5em;
   }
 
   .quire-page__content__main ul.quire-page__section-list__item__contributor {
@@ -274,6 +293,10 @@ table#table-23-appendix ul {
     padding-left: 0;
   }
 
+  #contents .quire-contents__page:first-child {
+    display: none;
+  }
+
   .quire-body#introduction {
     counter-reset: page 1;
     /*page-break-before: right;*/
@@ -299,15 +322,16 @@ table#table-23-appendix ul {
     color: #994e1a;
   }
 
+  /*.quire-page__section-list .quire-page__section-list__item .quire-page__section-list__abstract p {
+    margin-bottom: 0;
+    text-indent: 2rem;
+  }*/
+
   #statuettes-13-barr-sharrar #fig-13-5,
   #the-hellenistic-east-23-albertson #fig-23-5,
   #the-hellenistic-east-23-albertson #fig-23-6,
   #the-hellenistic-east-23-albertson #fig-23-7 {
     width: 90%;
-  }
-
-  #large-scale-bronzes-5-butz #fig-5-7 {
-    width: 80%;
   }
 
   #large-scale-bronzes-5-butz #fig-5-1,
@@ -316,12 +340,13 @@ table#table-23-appendix ul {
     width: 70%;
   }
 
-  /*#conservation-and-analysis-46-kantarelou #fig-46-2 {
-    width: 70%;
-  }*/
-
   #artifacts-34-franken #fig-34-1 {
     width: 50%;
+  }
+
+  #large-scale-bronzes-8-mattusch .q-figure#fig-8-7 {
+    float: left;
+    margin-left: 0pt;
   }
 
   #statuettes-16-sharpe #fig-16-15,
@@ -340,7 +365,10 @@ table#table-23-appendix ul {
   }
 
   #the-artist-10-haga-et-al h2#notes,
-  #vessels-27-dedecker .quire-page__content__main p + ol {
+  #vessels-27-dedecker .quire-page__content__main p + ol,
+  #statuettes-16-sharpe #belonging-to-the-czernicheff-family,
+  #statuettes-abstracts .quire-page__section-list__item:nth-child(2),
+  #conservation-and-analysis-37-boyatzis #notes {
     column-break-before: always;
   }
 

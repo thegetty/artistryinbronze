@@ -176,9 +176,9 @@ New information enabled us to detect the traces of interventions ([fig. 1.13](#f
 
 {{< q-figure id="1.13" >}}
 
-{{< q-figure id="1.14" >}}
+{{< q-figure id="1.14" pdf="two-column" >}}
 
-{{< q-figure id="1.15" >}}
+{{< q-figure id="1.15" pdf="two-column" >}}
 
 {{< q-figure id="1.16" class="float-right" >}}
 

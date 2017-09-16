@@ -134,6 +134,10 @@ th {
   vertical-align: middle;
 }
 
+.quire-cover__inner__publisher .quire-publisher:first-child:before {
+  content: 'The ';
+}
+
 .quire-publisher:after {
   content: ', ';
 }
