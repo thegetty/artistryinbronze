@@ -28,4 +28,6 @@ Printed in the United States of America
 
 {{< q-loc >}}
 
-Illustration credits TK
+Front cover: Herm of Dionysus (detail), 200–100 BC. Attributed to the workshop of Boëthos of Kalchedon. Bronze, copper, and stone. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
+
+Every effort has been made to contact the owners and photographers of objects reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publication so this information can be included.
