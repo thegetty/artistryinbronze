@@ -31,7 +31,7 @@ weight: 713
 
 On display in the Harvard Art Museums is a statuette of Alexander the Great, sometimes referred to as the Alexander Nelidow after its first known owner.[^1] The statuette first appeared in the Istanbul bazaar sometime before 1897.[^2] The original condition of the surface when excavated can only be guessed at: the surface had already been cleaned of any unsightly burial accretions by the time the first images appear.[^3] Alexander is depicted as a nude youth, standing with his left arm raised, probably to grasp a spear. His head is turned sharply toward the left, while his right arm is bent with his hand placed on his right hip ([fig. 47.1a–b](#fig-47-1a–b)). His torso is heavily muscled on the front and back. The legs below the knee are restorations. The statuette was sold at auction in 1911.[^4] By 1954, it was in the possession of C. Ruxton Love Jr.,[^5] who donated it to Harvard’s Fogg Art Museum in 1956.[^6]
 
-{{< q-figure id="47.1a–b" >}}
+{{< q-figure id="47.1a–b" pdf="two-column" >}}
 
 The Alexander statuette’s authenticity as an ancient work has been called into question on occasion, most recently in 2014 when the results of lead-isotope analysis indicated that the statuette had an isotopic composition distinct from that of ore sources believed to have been used in Graeco-Roman times and from that of published copper alloy and lead objects of the period.[^7] These analytical results provided the impetus to reevaluate the Alexander and to wonder if there is a final authority in authenticity studies. Is there ever going to be a point where one can look at objects and say, definitively, this one is fake and this one is an authentic antiquity?
 

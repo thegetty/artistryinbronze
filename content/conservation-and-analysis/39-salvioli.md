@@ -32,11 +32,11 @@ The head is also cited in the Confiscation Decree by the Republican Government a
 
 After being moved to Palermo in 1800 in order to avoid confiscation by Napoleon,[^6] the head returned to Florence in 1815, when it was displayed at the Galleria degli Uffizi.[^7] Finally, in 1890, it was transferred to the Regio Museo Archeologico, now the Museo Archeologico Nazionale of Florence.
 
+{{< q-figure id="39.1" pdf="two-column" >}}
+
 ## State of Conservation
 
 Before the recent cleaning treatments, the sculpture appeared rather dark and many of its details were obscured by a complex superposition of random materials ([fig. 39.1](#fig-39-1)). A sequence of irregular material levels was recognized within the stratification using portable Raman spectroscopy. Beeswax and oily substances applied in maintenance treatments; residues of calcareous growths (due to the use of the sculpture as a fountain mouth); and underlying corrosion layers (Cu-carbonates on tenorite and cuprite) were identified along with some residues from molding operations made using gypsum or silicone rubber.
-
-{{< q-figure id="39.1" >}}
 
 Widespread calcareous growths were present on both the outer and inner surfaces. On the inside, these growths descended behind the eyes and the forehead just below the tuft ([fig. 39.2a](#fig-39-2a)), which likely hosted the fountain pipe. Accumulations on the outer surface were mainly concentrated on the frontal part and skinfolds ([fig. 39.2](#fig-39-2a)), while a smaller amount was present on the neck. However, before the sculpture entered museum collections, the outer calcareous encrustations were probably roughly removed using mechanical tools and just a small amount of residue was left flattened on the metal surface. Tool marks and deep scratches associated with this cleaning are evident, along with marks of sharp blades, rhomboidal tips of darts, or arrows—concentrated on the head but also present elsewhere (see for example [fig. 39.2b](#fig-39-2b))—which can be linked to the ancient vicissitudes of the artwork.
 
@@ -44,7 +44,7 @@ Widespread calcareous growths were present on both the outer and inner surfaces.
 
 In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive X-ray spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#fig-39-3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#fig-39-3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#fig-39-3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
 
-{{< q-figure-group id="39.3a, 39.3b" grid="2" >}}
+{{< q-figure-group id="39.3a, 39.3b" grid="2" pdf="two-column" >}}
 
 ## Conservation Intervention
 
@@ -98,7 +98,7 @@ The crownpiece, eyes, upper terminal of the tuft, and reins are missing. The for
 
 All the relevant technical features were precisely mapped on the 3D model of the outer surface, which was achieved using a range camera (Artec Eva) and suitable software. As shown in [fig. 39.7](#fig-39-7), the contours of the modern integrations of the protome, including a number of plugs, were recognized. Most of them are randomly distributed, whereas the nine associated with the phalerae are arranged regularly along the missing metal strips of the crownpiece.
 
-{{< q-figure id="39.7" >}}
+{{< q-figure id="39.7" pdf="two-column" >}}
 
 The tongue was likely executed by means of a casting-on operation, as suggested by its close proximity to the surrounding part of the mouth.
 

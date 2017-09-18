@@ -151,9 +151,20 @@ table#table-23-appendix ul {
     width: 2in;
   }
 
-  /*#table-37-3 th:nth-child(-n+4) {
+  #table-37-3 thead tr:first-child th:nth-child(-n+2),
+  #table-37-3 thead tr:first-child th:nth-child(4) {
     width: .5in;
-  }*/
+  }
+
+  #table-37-3 thead tr:first-child th:nth-child(5) {
+    width: 1.625in;
+    background-color: #ff0000;
+  }
+
+  #table-37-3 thead tr:first-child th:nth-child(6) {
+    width: 3.25in;
+    background-color: #ff0000;
+  }
 
   #table-40-1 th:nth-child(n+4) {
     width: .25in;
@@ -293,8 +304,12 @@ table#table-23-appendix ul {
     padding-left: 0;
   }
 
-  #contents .quire-contents__page:first-child {
+  #contents ul.quire-contents .quire-contents__page:first-child {
     display: none;
+  }
+
+  #contents ul.quire-contents ul .quire-contents__page:first-child {
+    display: list-item;
   }
 
   .quire-body#introduction {
@@ -327,12 +342,23 @@ table#table-23-appendix ul {
     text-indent: 2rem;
   }*/
 
+  #conservation-and-analysis-39-salvioli ol {
+    page-break-inside: avoid;
+  }
+
   #statuettes-13-barr-sharrar #fig-13-5,
   #the-hellenistic-east-23-albertson #fig-23-5,
   #the-hellenistic-east-23-albertson #fig-23-6,
   #the-hellenistic-east-23-albertson #fig-23-7 {
     width: 90%;
   }
+
+  #conservation-and-analysis-46-kantarelou #fig-46-2 {
+    width: 80%;
+  }
+
+  /*#conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-4a–b,
+  #conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-5a–b*/
 
   #large-scale-bronzes-5-butz #fig-5-1,
   #conservation-and-analysis-36-tykot #fig-36-2,
@@ -342,6 +368,11 @@ table#table-23-appendix ul {
 
   #artifacts-34-franken #fig-34-1 {
     width: 50%;
+  }
+
+  #conservation-and-analysis-46-kantarelou #fig-46-1a,
+  #conservation-and-analysis-46-kantarelou #fig-46-1b {
+    width: 40%;
   }
 
   #large-scale-bronzes-8-mattusch .q-figure#fig-8-7 {
@@ -355,13 +386,17 @@ table#table-23-appendix ul {
   #conservation-and-analysis-35-casaletto #table-35-1 figcaption,
   #conservation-and-analysis-35-casaletto #fig-35-2c,
   #conservation-and-analysis-35-casaletto #fig-35-5,
+  #conservation-and-analysis-39-salvioli ol:first-of-type,
   #conservation-and-analysis-42-mille-descamps #fig-42-4b,
   #conservation-and-analysis-43-vidovic #fig-43-4c + figcaption,
   #conservation-and-analysis-44-siano #fig-44-3b,
   #conservation-and-analysis-46-kantarelou #fig-46-4c,
-  #conservation-and-analysis-46-kantarelou #table-46-2 figcaption,
-  #conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-9 {
+  #conservation-and-analysis-46-kantarelou #table-46-2 figcaption {
     page-break-after: always;
+  }
+
+  #conservation-and-analysis-39-salvioli .footnotes ol:first-of-type {
+    page-break-after: avoid;
   }
 
   #the-artist-10-haga-et-al h2#notes,
@@ -370,6 +405,10 @@ table#table-23-appendix ul {
   #statuettes-abstracts .quire-page__section-list__item:nth-child(2),
   #conservation-and-analysis-37-boyatzis #notes {
     column-break-before: always;
+  }
+
+  #conservation-and-analysis-41-maish #fig-41-1 {
+    column-break-after: always;
   }
 
   #the-hellenistic-east-23-albertson .quire-page__content__main hr:first-of-type {
