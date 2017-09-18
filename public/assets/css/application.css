@@ -2049,9 +2049,6 @@ code {
       font-weight: 400;
       list-style-type: none;
       padding-left: 0; }
-  .quire-page__section-list__abstract p {
-    margin-bottom: 0;
-    text-indent: 2rem; }
   .quire-page__section-list__link {
     display: inline-block;
     font-size: 0.85rem;
