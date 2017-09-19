@@ -34,15 +34,16 @@ block-scoped .Scratch inside the `range` loop.
 
 {{- $.Scratch.Add "index" slice -}}
 
-{{- $pages := where .Site.Pages "Type" "page" -}}
-{{- $essays := where .Site.Pages "Type" "essay" -}}
+{{- $pages := where .Site.RegularPages "Type" "page" -}}
+{{- $essays := where .Site.RegularPages "Type" "essay" -}}
 {{- $searchablePages := $pages | union $essays -}}
 
 {{- range $index, $page := $searchablePages -}}
 
-{{- .Scratch.Add "searchContent" "" -}}
-{{- .Scratch.Add "pageURL" "" -}}
-{{- .Scratch.Add "pageData" "" -}}
+{{- .Scratch.Set "pageData" "" -}}
+{{- .Scratch.Set "searchContent" "" -}}
+{{- .Scratch.Set "pageURL" "" -}}
+{{- .Scratch.Set "parentSection" "" -}}
 
 {{- if gt (len $page.Content) 0 -}}
 {{- .Scratch.Set "searchContent" $page.Plain -}}
