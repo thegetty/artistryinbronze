@@ -8,7 +8,7 @@ contributor:
     last_name: Potts
     title: Director
     affiliation: J. Paul Getty Museum
-  - first_name: Tim
+  - first_name: Timothy P. 
     last_name: Whalen
     title: Director
     affiliation: Getty Conservation Institute

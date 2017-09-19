@@ -15,9 +15,9 @@ weight: 502
 
 The circumstances under which the École Française d’Athènes conducted the chief excavation of the sanctuary of Delphi are well known: the so-called *Grande Fouille* represents a foundational page in the history of archaeological excavations in Greece during the nineteenth century. Between 1892 and 1903, French archaeologists brought to light the major part of the site ([fig. 25.1](#fig-25-1)), unveiling the ruins of the celebrated monuments described in the literary texts and contributing to the understanding of one of the most famous sanctuaries of the ancient world.[^1]
 
-{{< q-figure id="25.1" >}}
-
 Topography, architecture, and sculpture were of course the main objectives, while the remaining evidence received far less attention during the excavations and in the subsequent studies. The *Journal de la Grande Fouille*, written during the decade of archaeological work, is proof of this attitude. Some pages, like the ones by Paul Perdrizet dealing with ceramics and small bronzes ([fig. 25.2](#fig-25-2)), represent exceptions in the general picture one gets from browsing the excavation journal.[^2]
+
+{{< q-figure id="25.1" >}}
 
 {{< q-figure id="25.2" >}}
 

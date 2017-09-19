@@ -72,7 +72,7 @@ Several radiographic images were taken in order to identify each of the independ
 
 All the joins of the limbs and tail were thoroughly investigated. In each case, the repair includes the preparation of suitable housings to be used as mechanical anchors. In particular, the assembly of the forelegs and cannon bones are apparently purely mechanical, while other joins also involved soft solder, such as those at the level of gaskins (see [fig. 44.5](#fig-44-5)) and tail ([fig. 44.6](#fig-44-6a)).
 
-{{< q-figure-group id="44.6a, 44.6b, 44.6c" grid="3" caption="**Figure 44.6.** Three radiographic views of the joining zone of the tail." credit="Salvatore Siano on permission of Museo Archeologico Nazionale di Napoli, Italy." >}}
+{{< q-figure-group id="44.6a, 44.6b, 44.6c" grid="3" caption="**Figure 44.6.** Three radiographic views of the joining zone of the tail." credit="Salvatore Siano by permission of Museo Archeologico Nazionale di Napoli, Italy." >}}
 
 Radiographic investigation also demonstrated the perfect fit of the middle stretch of the hind legs and tail, which definitely belong to the original artifact. It is also evident that the lower parts of the limbs were originally solid, although nothing can be said about the authenticity of the present terminal zones from cannons to heels and cannon to hoofs, respectively.
 

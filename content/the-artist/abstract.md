@@ -1,6 +1,6 @@
 ---
 id:
-title: Abstracts
+title: Abstract
 type: essay
 layout: abstract-list
 weight: 206

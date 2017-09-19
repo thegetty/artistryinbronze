@@ -427,6 +427,9 @@ $print-page-number-size: 7.5pt;
           margin-left: 6pt;
         }
       }
+      p + p {
+        margin-top: 3pt;
+      }
     }
 
     .q-contributors__list {
