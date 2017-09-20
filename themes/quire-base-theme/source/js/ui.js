@@ -30,11 +30,10 @@ class QuireUI {
     let $sectionTriggers = $('.js-section-trigger')
     let $mapEl = $('#js-map')
     let $deepZoomEl = $('#js-deepzoom')
-    let $searchButton = $('#js-search')
-    let $searchCloseButton = $('#js-search-close')
-    let $searchInput = $('#js-search-input')
     let $figures = $('.q-figure__wrapper')
     let $tables = $('.js-figure-table')
+    let $searchEl = $('#js-search')
+    let $searchInput = $('#js-search-input')
 
     this.anchorScroll(window.location.hash)
 
@@ -54,8 +53,6 @@ class QuireUI {
     $curtain.click(() => { this.menuHide()})
     $menuCloseButton.click(() => { this.menuHide()})
     $sectionTriggers.click(e => this.menuSectionToggle(e))
-    $searchButton.click(() => { this.searchToggle() })
-    $searchCloseButton.click(() => { this.searchHide() })
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
     $('a').on('click', (e) => { this.footnoteScroll(e) })
@@ -64,14 +61,13 @@ class QuireUI {
     // Page-specific setup
     if ($mapEl.length) { new Map() }
     if ($deepZoomEl.length) { new DeepZoom() }
+    if ($searchEl.length) { this.searchInstance = new Search }
 
     // Search-specific code
     let debouncedSearch = debounce(this.searchQuery, 50)
     let boundDebounce = debouncedSearch.bind(this)
     $searchInput.keypress(() => {
       boundDebounce()
-      // Force repaint for webkit
-      $('<style></style>').appendTo($(document.body)).remove()
     })
   }
 
@@ -119,7 +115,6 @@ class QuireUI {
     if (this.lightBoxVisible()) { return false }
     switch (e.which) {
       case 27: // Escape key
-        if ($searchResults.hasClass('is-visible')) { this.searchToggle() }
         if ($curtain.hasClass('is-visible')) { this.menuHide() }
         break
       case 37: // Left Arrow
@@ -170,36 +165,8 @@ class QuireUI {
     }
   }
 
-  searchToggle() {
-    let $searchResults = $('#js-search-results')
-    let $navbar = $('#js-navbar')
-    let $body = $('body')
-
-    if ($searchResults.hasClass('is-visible')) {
-      $searchResults.removeClass('is-visible')
-      $navbar.removeClass('js-search-active')
-      $body.removeClass('no-scroll')
-    } else {
-      $searchResults.addClass('is-visible')
-      $navbar.addClass('js-search-active')
-      $body.addClass('no-scroll')
-    }
-  }
-
-  searchHide() {
-    let $searchResults = $('#js-search-results')
-    let $navbar = $('#js-navbar')
-    let $body = $('body')
-
-    if ($searchResults.hasClass('is-visible')) {
-      $searchResults.removeClass('is-visible')
-      $navbar.removeClass('js-search-active')
-      $body.removeClass('no-scroll')
-    }
-  }
-
   searchQuery() {
-    this.searchInstance = this.searchInstance || new Search()
+    // this.searchInstance = this.searchInstance || new Search()
     let $searchInput = $('#js-search-input')
     let query = $searchInput.val()
     let results = this.searchInstance.search(query)

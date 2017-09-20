@@ -16,9 +16,21 @@
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
       {{ partial "menu.html" . }}
       {{ partial "nav.html" . }}
-      {{ if .Site.Params.searchEnabled }}
-        {{ partial "search.html" . }}
-      {{ end }}
+
+      <div class="quire-search">
+        <a href='{{ relref . "search.md" }}'>
+          <svg width="1em" height="1em">
+            <switch>
+              <use xlink:href="#search-icon">
+              </use>
+              <foreignObject>
+                <img src="path/to/search-icon.png" alt="" />
+              </foreignObject>
+            </switch>
+          </svg>
+        </a>
+      </div>
+
     </div>
     <main role="main" id="main-content" class="no-js">
       {{ block "main" . }}
