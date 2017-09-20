@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/custom.css">
   </head>
-  <body class="quire-body quire-body-type--{{ .Type }}{{ with .Params.layout }}--{{ . }}{{ end }}{{ with .Params.class }} quire-body-class--{{ . }}{{ end }}" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
+  <body class="quire-body quire-body-type--{{ .Type }}{{ with .Params.layout }}--{{ . }}{{ end }}{{ with .Params.class }} quire-body-class--{{ . }}{{ end }}"
+        id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
     {{ partial "icons.html" . }}
     <div class="quire-nav-group no-js">
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>

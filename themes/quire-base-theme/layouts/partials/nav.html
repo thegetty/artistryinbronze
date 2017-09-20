@@ -1,8 +1,6 @@
 <nav class="quire-nav" role="navigation" aria-label="quick">
   <ul>
-
     {{ template "if-previous" . }}
-
     {{ if eq .Type "cover" }}
     <li>
       <a href="{{ .Site.BaseURL }}" rel="start">
@@ -37,21 +35,30 @@
     {{ end }}
     <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
-      <span class="quire-pdf__title"><em>{{ if .Params.short_title }}{{ .Params.short_title }} {{ else }}{{ .Title | markdownify | truncate 40 }}{{ end }}</em></span>
+      <span class="quire-pdf__title">
+        <em>{{ if .Params.short_title }}{{ .Params.short_title }} {{ else }}{{ .Title | markdownify | truncate 40 }}{{ end }}</em>
+      </span>
     </li>
     {{ end }}
-
     {{ template "if-next" . }}
-
   </ul>
 </nav>
+
 
 {{- define "if-previous" -}}
 {{- if .Prev -}}
 {{- if and (ne .Prev.Params.online false) (ne .Prev.Type "data") -}}
 <li>
   <a href="{{ .Prev.Permalink }}" rel="previous" id="js-prev" >
-    <svg height="1em" width="1em"><switch><use xlink:href="#left-arrow-icon"></use><foreignObject><img src="path/to/left-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+    <svg height="1em" width="1em">
+      <switch>
+        <use xlink:href="#left-arrow-icon">
+        </use>
+        <foreignObject>
+          <img src="path/to/left-arrow-icon.png" alt="" />
+        </foreignObject>
+      </switch>
+    </svg>
     <span class="visually-hidden">Previous Page (left keyboard arrow or swipe)</span>
   </a>
 </li>
@@ -61,12 +68,21 @@
 {{- end -}}
 {{- end -}}
 
+
 {{- define "if-next" -}}
 {{- if .Next -}}
 {{- if and (ne .Next.Params.online false) (ne .Next.Type "data") -}}
 <li>
   <a href="{{ .Next.Permalink }}" rel="next" id="js-next">
-    <svg width="1em" height="1em"><switch><use xlink:href="#right-arrow-icon"></use><foreignObject><img src="path/to/right-arrow-icon.png" alt="" /></foreignObject><switch></svg>
+    <svg width="1em" height="1em">
+      <switch>
+        <use xlink:href="#right-arrow-icon">
+        </use>
+        <foreignObject>
+          <img src="path/to/right-arrow-icon.png" alt="" />
+        </foreignObject>
+      </switch>
+    </svg>
     <span class="visually-hidden">Next Page (right keyboard arrow or swipe)</span>
   </a>
 </li>
