@@ -61,7 +61,11 @@ class QuireUI {
     // Page-specific setup
     if ($mapEl.length) { new Map() }
     if ($deepZoomEl.length) { new DeepZoom() }
-    if ($searchEl.length) { this.searchInstance = new Search }
+
+    if ($searchEl.length) {
+      this.searchInstance = new Search()
+      this.searchQuery()
+    }
 
     // Search-specific code
     let debouncedSearch = debounce(this.searchQuery, 50)
@@ -166,7 +170,6 @@ class QuireUI {
   }
 
   searchQuery() {
-    // this.searchInstance = this.searchInstance || new Search()
     let $searchInput = $('#js-search-input')
     let query = $searchInput.val()
     let results = this.searchInstance.search(query)
@@ -183,9 +186,11 @@ class QuireUI {
     container.innerHTML = ''
     results.forEach((result) => {
       let clone = document.importNode(template.content, true)
-      let item = clone.querySelector('.js-search-results-item-title')
-      item.textContent = result.title
-      item.href = result.url
+      let itemTitle = clone.querySelector('.js-search-results-item-title')
+      let itemType = clone.querySelector('.js-search-results-item-type')
+      itemTitle.textContent = result.title
+      itemTitle.href = result.url
+      itemType.textContent = result.type
       container.appendChild(clone)
     })
   }

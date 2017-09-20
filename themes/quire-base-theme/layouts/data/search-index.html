@@ -44,19 +44,22 @@ block-scoped .Scratch inside the `range` loop.
 {{- .Scratch.Set "searchContent" "" -}}
 {{- .Scratch.Set "pageURL" "" -}}
 {{- .Scratch.Set "parentSection" "" -}}
+{{- .Scratch.Set "pageType" "" -}}
 
 {{- if gt (len $page.Content) 0 -}}
 {{- .Scratch.Set "searchContent" $page.Plain -}}
 {{- .Scratch.Set "pageURL" $page.RelPermalink -}}
+{{- .Scratch.Set "pageType" $page.Type -}}
 
 {{- else -}}
 {{ .Scratch.Set "parentSection" ($page.Section) -}}
 {{ .Scratch.Add "parentSection" "/index.md" -}}
 {{ .Scratch.Set "searchContent" $page.Params.abstract -}}
 {{ .Scratch.Set "pageURL" (relref $page (.Scratch.Get "parentSection")) -}}
+{{- .Scratch.Set "pageType" "abstract" -}}
 
 {{- end -}}
-{{- .Scratch.Set "pageData" (dict "id" $index "title" $page.Title "url" (.Scratch.Get "pageURL") "type" $page.Type "content" (.Scratch.Get "searchContent")) -}}
+{{- .Scratch.Set "pageData" (dict "id" $index "title" $page.Title "url" (.Scratch.Get "pageURL") "type" (.Scratch.Get "pageType") "content" (.Scratch.Get "searchContent")) -}}
 
 {{- $.Scratch.Add "index" (.Scratch.Get "pageData") -}}
 {{- end -}}

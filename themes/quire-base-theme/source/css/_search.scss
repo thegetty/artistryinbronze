@@ -55,6 +55,19 @@
 
 .quire-search-results {
   &__inner {}
-  &__inner__list {}
-  &__inner__list__item {}
+
+  &__inner__list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  &__inner__list__item {
+    border-bottom: solid 1px $light-neutral;
+    color: $mid-neutral;
+    padding: 0.5rem 0;
+    text-transform: capitalize;
+
+    &__type { display: block; }
+  }
+
 }
