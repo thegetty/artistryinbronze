@@ -14,7 +14,6 @@ import Search from './search.js'
 import DeepZoom from './deepzoom.js'
 import lightBox from './lightbox.js'
 
-
 class QuireUI {
   constructor() {
     this.searchInstance = null
@@ -33,7 +32,6 @@ class QuireUI {
     let $figures = $('.q-figure__wrapper')
     let $tables = $('.js-figure-table')
     let $searchEl = $('#js-search')
-    let $searchInput = $('#js-search-input')
 
     this.anchorScroll(window.location.hash)
 
@@ -61,18 +59,7 @@ class QuireUI {
     // Page-specific setup
     if ($mapEl.length) { new Map() }
     if ($deepZoomEl.length) { new DeepZoom() }
-
-    if ($searchEl.length) {
-      this.searchInstance = new Search()
-      this.searchQuery()
-    }
-
-    // Search-specific code
-    let debouncedSearch = debounce(this.searchQuery, 50)
-    let boundDebounce = debouncedSearch.bind(this)
-    $searchInput.keypress(() => {
-      boundDebounce()
-    })
+    if ($searchEl.length) { this.searchSetup() }
   }
 
   anchorScroll(href) {
@@ -114,7 +101,6 @@ class QuireUI {
     let $prev = $('#js-prev')
     let $next = $('#js-next')
     let $curtain = $('#js-curtain')
-    let $searchResults = $('#js-search-results')
 
     if (this.lightBoxVisible()) { return false }
     switch (e.which) {
@@ -169,32 +155,6 @@ class QuireUI {
     }
   }
 
-  searchQuery() {
-    let $searchInput = $('#js-search-input')
-    let query = $searchInput.val()
-    let results = this.searchInstance.search(query)
-
-    this.displaySearchResults(results)
-  }
-
-  displaySearchResults(results) {
-    // Using basic DOM api instead of jquery in this method
-
-    let container = document.getElementById('js-search-results-list')
-    let template = document.getElementById('js-search-results-template')
-
-    container.innerHTML = ''
-    results.forEach((result) => {
-      let clone = document.importNode(template.content, true)
-      let itemTitle = clone.querySelector('.js-search-results-item-title')
-      let itemType = clone.querySelector('.js-search-results-item-type')
-      itemTitle.textContent = result.title
-      itemTitle.href = result.url
-      itemType.textContent = result.type
-      container.appendChild(clone)
-    })
-  }
-
   lightBoxSetup() {
     let $figures = $('.q-figure img')
 
@@ -216,6 +176,13 @@ class QuireUI {
     } else {
       return false
     }
+  }
+
+  searchSetup() {
+    this.searchInstance = new Search({
+      el: "#js-search",
+      delimiters: ['${', '}']
+    })
   }
 
   tableToggle(e) {
