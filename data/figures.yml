@@ -255,8 +255,9 @@ figure_list:
   - id: "4.2"
     src: fig_4.02_Palagia.jpg
     caption: >
-      Bronze head of a man wearing a *kausia*. Right profile. Kalymnos Museum, inv. 3901. Daehner and Lapatin 2015, 195
+      Bronze head of a man wearing a *kausia*. Right profile. Kalymnos Museum, inv. 3901.
     credit: >
+      Image: Daehner and Lapatin 2015, 195
 
   - id: "4.3"
     src: fig_4.03_Palagia.jpg
@@ -595,20 +596,25 @@ figure_list:
   - id: "13.1"
     src: fig_13.01_Barr-Sharrar.jpg
     caption: >
-      Ephebe from Fins d’Annecy (Hte. Savoir), early Augustan. H: 63 cm (25 in.). Paris, Musée du Petit Palais, inv. DUT. 1. Beck, H., P.C. Bol, and M. Bückling, eds., 1990. *Polyklet. Der Bildhauer der griechischen Klassik*, Plate 186, P. 654
+      Ephebe from Fins d’Annecy (Hte. Savoir), early Augustan. H: 63 cm (25 in.). Paris, Musée du Petit Palais, inv. DUT
     credit: >
+      Image: From Beck, Bol, and Bückling 1990, plate 186, p. 654
 
   - id: "13.2"
     src: fig_13.02_Barr-Sharrar.jpg
     caption: >
-      Hermes (?), first half of the first century AD. H: 21 cm (8 ¼ in.). Paris, Musée du Louvre, inv. B 183. Beck, H., P.C. Bol, and M. Bückling, eds., 1990. *Polyklet. Der Bildhauer der griechischen Klassik*, Plate 39 Fig. 536
+      Hermes (?), first half of the first century AD. H: 21 cm (8 ¼ in.). Paris, Musée du Louvre, inv. B 183
     credit: >
+      Image: From Beck, Bol, and Bückling 1990, plate 39, fig. 536
+
 
   - id: "13.3"
     src: fig_13.03_Barr-Sharrar.jpg
     caption: >
-      Bronze Hermes statuettes influenced by Polykleitan types. Beck, H., P.C. Bol, and M. Bückling, eds., 1990. *Polyklet. Der Bildhauer der griechischen Klassik*, 398, Fig. 238
+      Bronze Hermes statuettes influenced by Polykleitan types
     credit: >
+      Image: From Beck, Bol, and Bückling 1990, plate 398, fig. 238
+
 
   - id: "13.4"
     src: fig_13.04_Barr-Sharrar.jpg
@@ -655,14 +661,14 @@ figure_list:
   - id: "14.2"
     src: fig_14.02_Hemingway_Abramitis.jpg
     caption: >
-      Detail of centaur’s head, proper left profile. EDS image maps elemental distribution with iron shown in green. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Perpont Morgan, 1917
+      Detail of centaur’s head, proper left profile. EDS image maps elemental distribution with iron shown in green. Metropolitan Museum of Art, New York, inv. 17.190.2072. Gift of J. Pierpont Morgan, 1917
     credit: >
       Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
   - id: "14.3"
     src: fig_14.03_Hemingway_Abramitis.jpg
     caption: >
-      Bronze statuette of a horse. Greek, seventh century BC. X-radiograph (inset) illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971
+      Bronze statuette of a horse. Greek, seventh century BC. X-radiograph of the head (inset) illustrates hollows for inlays of horse’s eyes. Metropolitan Museum of Art, New York, inv. 1972.118.48. Bequest of Walter C. Baker, 1971
     credit: >
       Image: © The Metropolitan Museum of Art, New York, [www.metmuseum.org/](http://www.metmuseum.org/). EDS mapping by Department of Scientific Research.
 
@@ -683,7 +689,7 @@ figure_list:
   - id: "14.6"
     src: fig_14.06_Hemingway_Abramitis.JPG
     caption: >
-      Detail of bulbous center of diadem on the forehead of the sphinx in fig. 14.5. Gift from the family of Howard J. Barnet, in his memory, 2000
+      Detail of bulbous center of diadem on the forehead of the sphinx in fig. 14.5
     credit: >
       Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
@@ -697,7 +703,7 @@ figure_list:
   - id: "14.8"
     src: fig_14.08_Hemingway_Abramitis.jpg
     caption: >
-      Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7. Fletcher Fund, 1938
+      Detail of decorative inlay with bands and ivy pattern at end of shaft of spear-butt in fig. 14.7
     credit: >
       Image: De Abramitis. © The Metropolitan Museum of Art, New York, [www.metmuseum.org](http://www.metmuseum.org)
 
@@ -948,7 +954,7 @@ figure_list:
     caption: >
       The foundry at Sentinum (Sassoferrato [AN])
     credit: >
-      Image: By permission of the MiBACT, Segretariato Regionale per le Marche, Soprintendenza Archeologia delle Marche - Archivio Fotografico
+      Image: By permission of the MiBACT, Segretariato Regionale per le Marche, Soprintendenza Archeologia delle Marche — Archivio Fotografico
 
   - id: "17.8"
     src: fig_17.08_Frapiccini.jpg
@@ -1010,7 +1016,7 @@ figure_list:
     caption: >
       Minerva from Dinéault. Original height approx. 70 cm (27 ½ in.). Rennes, Musée de Bretagne, inv. 972.0059.1
     credit: >
-      Image: A. Amet. © Collection Musée de Bretagne, Rennes – reproduction interdite
+      Image: A. Amet. © Collection Musée de Bretagne, Rennes — reproduction interdite
 
   - id: "19.1"
     src: fig_19.01_Grossi.jpg
@@ -1050,7 +1056,7 @@ figure_list:
   - id: "19.6"
     src: fig_19.06_Grossi.jpg
     caption: >
-      Bronze rooster from Ezinge. Groninger Museum, Groningen. Rooster. 1-300 AD. Bronze. Collection Groninger Museum
+      Bronze rooster from Ezinge. Groninger Museum, Groningen. Rooster. 1–300 AD. Bronze. Collection Groninger Museum
     credit: >
       Image: Marten de Leeuw
 
@@ -1082,7 +1088,7 @@ figure_list:
   - id: "20.2"
     src: fig_20.02_Veseli.jpg
     caption: >
-      Zeus, Salaria. Anamali, S. 1984. “Një figurine bronzi nga Nivica e Kurveleshit (Une figurine de bronze trouvée à Nivica de Kurvelesh).” *Iliria* 1984/1: 129–130
+      Zeus, Salaria. From Anamali 1984
     credit: >
 
   - id: "20.3a"
@@ -1195,7 +1201,7 @@ figure_list:
   - id: "22.5"
     src: fig_22.05_Lindstroem.jpg
     caption: >
-      State model of the head: profiles, front, and back view
+      State model of the head: profiles, front, and back
     credit: >
 
   - id: "22.6"
@@ -1344,8 +1350,9 @@ figure_list:
   - id: "25.2"
     src: fig_25.02_Meirano.jpg
     caption: >
-      *Journal de la Grande Fouille*, by P. Perdrizet, p. 277. Jacquemin 1992, fig. 64
+      *Journal de la Grande Fouille*, by P. Perdrizet, p. 277
     credit: >
+      Image: Jacquemin 1992, fig. 64
 
   - id: "25.3"
     src: fig_25.03_Meirano.jpg
@@ -1707,8 +1714,9 @@ figure_list:
   - id: "32.1b"
     src: fig_32.01b_Ignatiadou.jpg
     caption: >
-      Stavroupolis in Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. MTH 7437. After Romiopoulou 1973‒74
+      Stavroupolis in Thessaloniki. Bronze cylindrical case with hinged lids. 400‒350 BC. Archaeological Museum of Thessaloniki, inv. MTH 7437
     credit: >
+      Image: After Romiopoulou 1973‒74
 
   - id: "32.2a"
     src: fig_32.02a_Ignatiadou.jpg
@@ -1776,8 +1784,9 @@ figure_list:
   - id: "32.8"
     src: fig_32.08_Ignatiadou.jpg
     caption: >
-      Edessa. Bronze semi-cylindrical case with feet. Third‒second century BC. Edessa, archaeological site. After Chrysostomou 2013, pl. 72
+      Edessa. Bronze semi-cylindrical case with feet. Third‒second century BC. Edessa, archaeological site
     credit: >
+      Image: After Chrysostomou 2013, pl. 72
 
   - id: "34.1"
     src: fig_34.01_Franken.jpg
@@ -2023,7 +2032,7 @@ figure_list:
   - id: "37.5"
     src: fig_37.05_Boyatzis.jpg
     caption: >
-      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm.
+      Coins from the Epigraphic and Numismatic Museum, Athens. Conservation Report. Representative coins from (a) group A (inv. 4149); (b) group B (inv. 2778); (c\) group C (inv. 396); (d) group D (inv. 5800); and (e) group E (inv. 5806). Obverse and reverse are denoted as “1” and “2,” respectively. Scales are shown in cm.
     credit: >
 
   - id: "37.6"
@@ -2176,35 +2185,35 @@ figure_list:
   - id: "40.1a"
     src: fig_40.01a_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Front; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Front; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.1b"
     src: fig_40.01b_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). reverse; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). reverse; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.1c"
     src: fig_40.01c_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached left hand; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached left hand; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.1d"
     src: fig_40.01d_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached python; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached python; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.2a"
     src: fig_40.02a_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached python; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of detached python; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
@@ -2218,7 +2227,7 @@ figure_list:
   - id: "40.3"
     src: fig_40.03_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of feet and bronze baseplate; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. The circle in the corner may indicate where a bronze tree was once attached.
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of feet and bronze baseplate; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30. The circle in the corner may indicate where a bronze tree was once attached.
     credit: >
       Image: © The Cleveland Museum of Art
 
@@ -2232,33 +2241,33 @@ figure_list:
   - id: "40.4b"
     src: fig_40.04b_Northover_Pernicka_Snyder.jpg
     caption: >
-      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of torso; bronze, copper, and stone inlay; overall: 150.00 x 50.30 x 66.80 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30. Detail of <em>Apollo</em>’s torso where sample was obtained.
+      *Apollo the Python-Slayer*, ca. 350 BC. Attributed to Praxiteles (Greek, ca. 400 BC–ca. 330 BC). Detail of torso; bronze, copper, and stone inlay; overall: 150 x 50.3 x 66.8 cm (59 x 19 ¾ x 26 ¼ in.). The Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30. Detail of <em>Apollo</em>’s torso where sample was obtained.
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.5"
     src: fig_40.05_Northover_Pernicka_Snyder.jpg
     caption: >
-      Reverse of *Apollo*, left thigh, showing lump of metal. This also indicates exposure to a high-temperature environment. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      Reverse of *Apollo*, left thigh, showing lump of metal. This also indicates exposure to a high-temperature environment. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund, 2004.30
     credit: >
       Image: © The Cleveland Museum of Art
 
   - id: "40.6"
     src: fig_40.06_Northover_Pernicka_Snyder.jpg
     caption: >
-      Lead-isotope ratios of the analyzed samples. In the lower right corner a cross indicates the 2σ uncertainties of measurements. The six samples in the lower left are isotopically indistinguishable. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      Lead-isotope ratios of the analyzed samples. In the lower right corner a cross indicates the 2σ uncertainties of measurements. The six samples in the lower left are isotopically indistinguishable.
     credit: >
 
   - id: "40.7"
     src: fig_40.07_Northover_Pernicka_Snyder.jpg
     caption: >
-      Lead-isotope ratios of the analyzed samples compared with lead ores from the Aegean and from Laurium in Attica. Cleveland Museum of Art, Severance and Greta Millikin Purchase Fund 2004.30
+      Lead-isotope ratios of the analyzed samples compared with lead ores from the Aegean and from Laurium in Attica.
     credit: >
 
   - id: "41.1"
     src: fig_41.01_Maish.jpg
     caption: >
-      Herm of Dionysos, 200–100 BC, front view. Los Angeles, J. Paul Getty Museum, inv. 79.AB.138
+      Herm of Dionysos, 200–100 BC, front view. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
     credit: >
 
   - id: "41.2"
@@ -2411,7 +2420,7 @@ figure_list:
   - id: "43.2"
     src: fig_43.02_Karnis.jpg
     caption: >
-      Location of the samples taken during the sampling sessions between 1999 and 2002. Lalli, C., G. Lanterna, D. Pinna, S. Porcinai, M. Rizzi and I. Tosini. 2006. “Diagnostic Tests.” In *Apoxyomenos – The Athlete of Croatia*, edited by M. Michelucci, 115. Florence: Giunti Editore
+      Location of the samples taken during the sampling sessions between 1999 and 2002. From Lalli et al. 2006
     credit: >
 
   - id: "43.3"

@@ -6,7 +6,7 @@ type: essay
 contributor:
  - first_name: Ursula
    last_name: Vedder
-   affiliation: Kommission für Alte Geschichte und Epigraphik des Deutsches Archäologisches Institut, Munich
+   affiliation: Kommission für Alte Geschichte und Epigraphik des Deutschen Archäologischen Instituts, Munich
 abstract: |
     The paradoxographer Philo of Byzantium (*De septem mundi miraculis* 4) claimed that the Colossus of Rhodes was cast in situ in horizontal courses buried gradually by an earthen embankment. The study of large-scale ancient bronzes and foundries, however, has provided evidence only for casting in large sections. Here it is argued that the technology used for the Colossus was no exception.
 

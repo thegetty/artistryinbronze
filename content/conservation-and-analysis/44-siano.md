@@ -14,7 +14,7 @@ contributor:
  - first_name: Stefano
    last_name: Sarri
    affiliation: Museo Archeologico Nazionale di Firenze, Italy
- - first_name: J.
+ - first_name: Juri
    last_name: Agresti
    affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
 abstract: |
