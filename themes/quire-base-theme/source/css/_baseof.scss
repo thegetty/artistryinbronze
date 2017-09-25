@@ -227,6 +227,13 @@ sup {
 
       .quire-menu.no-js { display: none;}
     }
+
+    &.quire-body-type--search {
+      #js-prev,
+      #js-next {
+        display: none;
+      }
+    }
   }
 }
 
