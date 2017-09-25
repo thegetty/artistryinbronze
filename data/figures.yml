@@ -733,7 +733,7 @@ figure_list:
     caption: >
       Foundry Painter, red-figure cup, tondo with Hephaistos and Thetis. Berlin, Antikensammlung F2294, *ARV*<sup>2</sup> 400,1, BAPD 204340
     credit: >
-      Image: John Laurentius. Courtesy bpk, Berlin / Antikensammlung / John Laurentius / Art Resource, NY
+      Image: J. Laurentius. Courtesy bpk, Berlin / Antikensammlung / J. Laurentius / Art Resource, NY
 
   - id: "15.5"
     src: fig_15.05_McGowan.jpg
@@ -761,7 +761,7 @@ figure_list:
     caption: >
       Penelope Painter, red-figure skyphos, obverse. Berlin, Antikensammlung F2588, *ARV*<sup>2</sup> 1300.1, BAPD 216788
     credit: >
-      Image: John Laurentius. Courtesy bpk, Berlin / Antikensammlung / John Laurentius / Art Resource, NY
+      Image: J. Laurentius. Courtesy bpk, Berlin / Antikensammlung / J. Laurentius / Art Resource, NY
 
   - id: "15.9"
     src: fig_15.09_McGowan.jpg
@@ -775,7 +775,7 @@ figure_list:
     caption: >
       Homer, marble bust, Roman copy after Hellenistic original. Naples, Museo Archaeologico Nazionale inv. 6023
     credit: >
-      Image: Scala/Ministero per i Beni e le Attività Culturali / Art Resource, NY
+      Image: Scala / Ministero per i Beni e le Attività Culturali / Art Resource, NY
 
   - id: "15.11"
     src: fig_15.11_McGowan.jpg
@@ -1201,7 +1201,7 @@ figure_list:
   - id: "22.5"
     src: fig_22.05_Lindstroem.jpg
     caption: >
-      State model of the head: profiles, front, and back
+      State model of the head: profiles, front, and back. Photogrammetry & Laser Scanning Lab, HafenCity University, Hamburg
     credit: >
 
   - id: "22.6"
