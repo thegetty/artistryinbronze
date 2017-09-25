@@ -13,7 +13,7 @@ contributor:
    affiliation: Museo Archeologico Nazionale di Napoli
  - first_name: Stefano
    last_name: Sarri
-   affiliation: Museo Archeologico Nazionale di Firenze, Italy
+   affiliation: Museo Archeologico Nazionale di Firenze
  - first_name: Juri
    last_name: Agresti
    affiliation: Istituto di Fisica Applicata “N. Carrara,” Consiglio Nazionale delle Ricerche, Florence
