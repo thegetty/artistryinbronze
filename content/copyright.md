@@ -13,7 +13,7 @@ The free online edition of this book is available at {{< url-link >}}http://www.
 
 {{< q-revision-history format="short" >}}
 
-**Published by the J. Paul Getty Museum and Getty Conservation Institute, Los Angeles**<br />
+**Published by the J. Paul Getty Museum and the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
@@ -28,6 +28,6 @@ Printed in the United States of America
 
 {{< q-loc >}}
 
-Front cover: Herm of Dionysus (detail), 200–100 BC. Attributed to the workshop of Boëthos of Kalchedon. Bronze, copper, and stone. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
+Front cover: Herm of Dionysos (detail), 200–100 BC. Attributed to the workshop of Boëthos of Kalchedon. Bronze, copper, and stone. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
 
-Every effort has been made to contact the owners and photographers of objects reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publication so this information can be included.
+Back cover: Bust of a young male, ca. AD 50–80. Bronze. Malibu, J. Paul Getty Museum, Villa Collection, inv. 89.AB.67.2
