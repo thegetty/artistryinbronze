@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="quire-page">
+  <header class="quire-page__header">
+    <h1 class="quire-page__header__title">Search this Publication</h1>
+  </header>
+  <div class="quire-page__content">
+    <section class="quire-page__content__main">
+      <div id="js-search">
+        {{ partial "search-results.html" . }}
+      </div>
+    </section>
+  </div>
+</div>
+
+{{ end }}

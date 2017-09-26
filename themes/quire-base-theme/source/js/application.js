@@ -34,6 +34,9 @@ import QuireUI from './ui.js'
 // If you want code to be run as soon on every page load as soon as things are
 // ready, add it to the body of this function.
 //
+
+window.pageUI = {}
+
 $(document).ready(function() {
-  let pageUI = new QuireUI()
+  window.pageUI = new QuireUI()
 })

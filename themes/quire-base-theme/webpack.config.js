@@ -19,6 +19,11 @@ module.exports = {
     path: PATHS.build,
     filename: path.join('js', 'application.js')
   },
+  resolve: {
+    alias: {
+      'vue$': 'vue/dist/vue.common.js'
+    }
+  },
   module: {
     loaders: [
       {
@@ -61,8 +66,7 @@ module.exports = {
           publicPath: '../'
         }
       }
-    ]
-
+    ],
   },
   plugins: [
     // Clean the build directory before each run
@@ -78,6 +82,12 @@ module.exports = {
       $: 'jquery',
       jQuery: 'jquery',
       'window.jQuery': 'jquery'
+    }),
+
+    new webpack.DefinePlugin({
+      'process.env': {
+        NODE_ENV: '"production"'
+      }
     })
 
     // If using moment.js, uncomment this to keep the bundle size small.

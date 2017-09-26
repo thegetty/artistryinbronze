@@ -1,43 +1,43 @@
 .quire-search {
   position: absolute;
-  top: $base-spacing;
   right: $base-spacing;
+  top: $base-spacing;
+
   button {
-    border: none;
     background-color: inherit;
+    border: 0;
     padding: 0;
   }
+
   svg {
-    height: 1.75em;
-    width: 1.75em;
     fill: $primary-color;
+    height: 1.125rem;
+    width: 1.125rem;
   }
-  .tool-tip {
-    display: none;
-  }
+
+  .tool-tip { display: none; }
+
   &.no-js {
     // display: none;
-    svg {
-      fill: $light-neutral;
-    }
-    div {
-      display: none;
-    }
+    svg { fill: $light-neutral; }
+    div { display: none; }
+
     button:hover,
     button:focus {
       .tool-tip {
-        display: block;
-        position: absolute;
-        right: 0;
-        top: 1em;
-        width: 12em;
-        text-align: left;
+        background-color: $light-neutral;
+        border-radius: 0.25em;
         color: $dark-neutral;
+        display: block;
         font-size: 1rem * $small-font-scale;
         line-height: $small-font-line-height;
-        background-color: $light-neutral;
         padding: 1em;
-        border-radius: .25em;
+        position: absolute;
+        right: 0;
+        text-align: left;
+        top: 1em;
+        width: 12em;
+
         a {
           color: $dark-neutral;
           text-decoration: underline;
@@ -45,4 +45,29 @@
       }
     }
   }
+}
+
+.search-input {
+  font-size: 1.25em;
+  padding: 0.25rem;
+  width: 100%;
+}
+
+.quire-search-results {
+  &__inner {}
+
+  &__inner__list {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  &__inner__list__item {
+    border-bottom: solid 1px $light-neutral;
+    color: $mid-neutral;
+    padding: 0.5rem 0;
+    text-transform: capitalize;
+
+    &__type { display: block; }
+  }
+
 }

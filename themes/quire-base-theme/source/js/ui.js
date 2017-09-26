@@ -14,7 +14,6 @@ import Search from './search.js'
 import DeepZoom from './deepzoom.js'
 import lightBox from './lightbox.js'
 
-
 class QuireUI {
   constructor() {
     this.searchInstance = null
@@ -30,11 +29,9 @@ class QuireUI {
     let $sectionTriggers = $('.js-section-trigger')
     let $mapEl = $('#js-map')
     let $deepZoomEl = $('#js-deepzoom')
-    let $searchButton = $('#js-search')
-    let $searchCloseButton = $('#js-search-close')
-    let $searchInput = $('#js-search-input')
     let $figures = $('.q-figure__wrapper')
     let $tables = $('.js-figure-table')
+    let $searchEl = $('#js-search')
 
     this.anchorScroll(window.location.hash)
 
@@ -54,8 +51,6 @@ class QuireUI {
     $curtain.click(() => { this.menuHide()})
     $menuCloseButton.click(() => { this.menuHide()})
     $sectionTriggers.click(e => this.menuSectionToggle(e))
-    $searchButton.click(() => { this.searchToggle() })
-    $searchCloseButton.click(() => { this.searchHide() })
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
     $('a').on('click', (e) => { this.footnoteScroll(e) })
@@ -64,15 +59,7 @@ class QuireUI {
     // Page-specific setup
     if ($mapEl.length) { new Map() }
     if ($deepZoomEl.length) { new DeepZoom() }
-
-    // Search-specific code
-    let debouncedSearch = debounce(this.searchQuery, 50)
-    let boundDebounce = debouncedSearch.bind(this)
-    $searchInput.keypress(() => {
-      boundDebounce()
-      // Force repaint for webkit
-      $('<style></style>').appendTo($(document.body)).remove()
-    })
+    if ($searchEl.length) { this.searchSetup() }
   }
 
   anchorScroll(href) {
@@ -114,12 +101,10 @@ class QuireUI {
     let $prev = $('#js-prev')
     let $next = $('#js-next')
     let $curtain = $('#js-curtain')
-    let $searchResults = $('#js-search-results')
 
     if (this.lightBoxVisible()) { return false }
     switch (e.which) {
       case 27: // Escape key
-        if ($searchResults.hasClass('is-visible')) { this.searchToggle() }
         if ($curtain.hasClass('is-visible')) { this.menuHide() }
         break
       case 37: // Left Arrow
@@ -170,59 +155,6 @@ class QuireUI {
     }
   }
 
-  searchToggle() {
-    let $searchResults = $('#js-search-results')
-    let $navbar = $('#js-navbar')
-    let $body = $('body')
-
-    if ($searchResults.hasClass('is-visible')) {
-      $searchResults.removeClass('is-visible')
-      $navbar.removeClass('js-search-active')
-      $body.removeClass('no-scroll')
-    } else {
-      $searchResults.addClass('is-visible')
-      $navbar.addClass('js-search-active')
-      $body.addClass('no-scroll')
-    }
-  }
-
-  searchHide() {
-    let $searchResults = $('#js-search-results')
-    let $navbar = $('#js-navbar')
-    let $body = $('body')
-
-    if ($searchResults.hasClass('is-visible')) {
-      $searchResults.removeClass('is-visible')
-      $navbar.removeClass('js-search-active')
-      $body.removeClass('no-scroll')
-    }
-  }
-
-  searchQuery() {
-    this.searchInstance = this.searchInstance || new Search()
-    let $searchInput = $('#js-search-input')
-    let query = $searchInput.val()
-    let results = this.searchInstance.search(query)
-
-    this.displaySearchResults(results)
-  }
-
-  displaySearchResults(results) {
-    // Using basic DOM api instead of jquery in this method
-
-    let container = document.getElementById('js-search-results-list')
-    let template = document.getElementById('js-search-results-template')
-
-    container.innerHTML = ''
-    results.forEach((result) => {
-      let clone = document.importNode(template.content, true)
-      let item = clone.querySelector('.js-search-results-item-title')
-      item.textContent = result.title
-      item.href = result.url
-      container.appendChild(clone)
-    })
-  }
-
   lightBoxSetup() {
     let $figures = $('.q-figure img')
 
@@ -244,6 +176,13 @@ class QuireUI {
     } else {
       return false
     }
+  }
+
+  searchSetup() {
+    this.searchInstance = new Search({
+      el: "#js-search",
+      delimiters: ['${', '}']
+    })
   }
 
   tableToggle(e) {

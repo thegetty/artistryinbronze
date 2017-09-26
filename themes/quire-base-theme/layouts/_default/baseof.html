@@ -10,15 +10,28 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/application.css">
     <link rel="stylesheet" href="{{ .Site.BaseURL }}/assets/css/custom.css">
   </head>
-  <body class="quire-body quire-body-type--{{ .Type }}{{ with .Params.layout }}--{{ . }}{{ end }}{{ with .Params.class }} quire-body-class--{{ . }}{{ end }}" id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
+  <body class="quire-body quire-body-type--{{ .Type }}{{ with .Params.layout }}--{{ . }}{{ end }}{{ with .Params.class }} quire-body-class--{{ . }}{{ end }}"
+        id="{{ with .Section }}{{ . | urlize }}-{{ end }}{{ .File.BaseFileName }}">
     {{ partial "icons.html" . }}
     <div class="quire-nav-group no-js">
       <a href="#main-content" class="skip-link no-js">Skip to Main Content</a>
       {{ partial "menu.html" . }}
       {{ partial "nav.html" . }}
-      {{ if .Site.Params.searchEnabled }}
-        {{ partial "search.html" . }}
-      {{ end }}
+
+      <div class="quire-search" role="search">
+        <a href='{{ relref . "search.md" }}'>
+          <svg width="1em" height="1em">
+            <switch>
+              <use xlink:href="#search-icon">
+              </use>
+              <foreignObject>
+                <img src="path/to/search-icon.png" alt="" />
+              </foreignObject>
+            </switch>
+          </svg>
+        </a>
+      </div>
+
     </div>
     <main role="main" id="main-content" class="no-js">
       {{ block "main" . }}
