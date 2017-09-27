@@ -36,7 +36,7 @@ Any revisions or corrections made to this publication after the first edition da
 
 {{< q-copyright >}}
 
-**Published by the J. Paul Getty Museum and Getty Conservation Institute, Los Angeles**<br />
+**Published by the J. Paul Getty Museum and the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
@@ -47,5 +47,3 @@ www.getty.edu/publications
 {{< q-loc >}}
 
 Front cover: Herm of Dionysus (detail), 200–100 BC. Attributed to the workshop of Boëthos of Kalchedon. Bronze, copper, and stone. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
-
-Every effort has been made to contact the owners and photographers of objects reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publication so this information can be included.

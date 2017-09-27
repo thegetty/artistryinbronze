@@ -89,7 +89,7 @@ All joins and repairs are now easily followed thanks to γ-radiography, the arch
 
 This reexamination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
-{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" pdf="two-column" >}}
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="Image: K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" pdf="two-column" >}}
 
 ## New Sampling Campaign (2013–2015)
 
