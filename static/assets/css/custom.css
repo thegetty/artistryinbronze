@@ -173,12 +173,10 @@ table#table-23-appendix ul {
 
   #table-37-3 thead tr:first-child th:nth-child(5) {
     width: 1.625in;
-    background-color: #ff0000;
   }
 
   #table-37-3 thead tr:first-child th:nth-child(6) {
     width: 3.25in;
-    background-color: #ff0000;
   }
 
   #table-40-1 th:nth-child(n+4) {
@@ -350,11 +348,6 @@ table#table-23-appendix ul {
 
   .quire-body-type--cover .quire-nav-group .quire-nav a {
     color: #994e1a;
-  }
-
-  #conservation-and-analysis-39-salvioli .q-figure.q-pdf-two-column:nth-of-type(2) {
-    margin-bottom: 1.5em;
-    background-color: #fff000;
   }
 
   #statuettes-15-mcgowan #fig-15-6,
