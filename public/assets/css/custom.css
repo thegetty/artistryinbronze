@@ -100,6 +100,21 @@ table#table-23-appendix ul {
   line-height: 1.6em;
 }
 
+#vessels-28-fani .q-figure.q-figure-grid .q-figure__inner-figure.q-grid-4 {
+  flex-basis: auto;
+}
+
+
+#vessels-28-fani #fig-28-1,
+#vessels-28-fani #fig-28-4 {
+  width: 28.05%;
+}
+
+#vessels-28-fani #fig-28-2,
+#vessels-28-fani #fig-28-3 {
+  width: 17.45%;
+}
+
 @media print {
 
   [lang=grc] {
@@ -158,12 +173,10 @@ table#table-23-appendix ul {
 
   #table-37-3 thead tr:first-child th:nth-child(5) {
     width: 1.625in;
-    background-color: #ff0000;
   }
 
   #table-37-3 thead tr:first-child th:nth-child(6) {
     width: 3.25in;
-    background-color: #ff0000;
   }
 
   #table-40-1 th:nth-child(n+4) {
@@ -337,34 +350,36 @@ table#table-23-appendix ul {
     color: #994e1a;
   }
 
-  /*.quire-page__section-list .quire-page__section-list__item .quire-page__section-list__abstract p {
-    margin-bottom: 0;
-    text-indent: 2rem;
-  }*/
-
-  #conservation-and-analysis-39-salvioli ol {
-    page-break-inside: avoid;
+  #statuettes-15-mcgowan #fig-15-6,
+  #statuettes-15-mcgowan #fig-15-7 {
+    width: 95%;
   }
 
   #statuettes-13-barr-sharrar #fig-13-5,
   #the-hellenistic-east-23-albertson #fig-23-5,
   #the-hellenistic-east-23-albertson #fig-23-6,
-  #the-hellenistic-east-23-albertson #fig-23-7 {
+  #the-hellenistic-east-23-albertson #fig-23-7,
+  #conservation-and-analysis-39-salvioli #fig-39-5,
+  #conservation-and-analysis-39-salvioli #fig-39-6,
+  #conservation-and-analysis-39-salvioli #fig-39-7 {
     width: 90%;
   }
 
-  #conservation-and-analysis-46-kantarelou #fig-46-2 {
+
+  #statuettes-18-kaufmann #fig-18-1,
+  #the-hellenistic-east-22-lindstroem #fig-22-2,
+  #conservation-and-analysis-46-kantarelou #fig-46-2,
+  #conservation-and-analysis-44-siano #fig-44-1a,
+  #conservation-and-analysis-44-siano #fig-44-1b {
     width: 80%;
   }
-
-  /*#conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-4a–b,
-  #conservation-and-analysis-47-anderson-eremin-lie-bewer #fig-47-5a–b*/
 
   #large-scale-bronzes-5-butz #fig-5-1,
   #conservation-and-analysis-36-tykot #fig-36-2,
   #conservation-and-analysis-36-tykot #fig-36-6 {
     width: 70%;
   }
+
 
   #artifacts-34-franken #fig-34-1 {
     width: 50%;
@@ -378,18 +393,19 @@ table#table-23-appendix ul {
   #large-scale-bronzes-8-mattusch .q-figure#fig-8-7 {
     float: left;
     margin-left: 0pt;
+    width: 60%;
   }
 
+  #the-artist-9-adornato #fig-9-2,
   #statuettes-16-sharpe #fig-16-15,
   #statuettes-19-grossi #fig-19-7,
   #vessels-24-tarditi #fig-24-8,
   #conservation-and-analysis-35-casaletto #table-35-1 figcaption,
   #conservation-and-analysis-35-casaletto #fig-35-2c,
   #conservation-and-analysis-35-casaletto #fig-35-5,
-  #conservation-and-analysis-39-salvioli ol:first-of-type,
+  #conservation-and-analysis-39-salvioli #fig-39-9,
   #conservation-and-analysis-42-mille-descamps #fig-42-4b,
   #conservation-and-analysis-43-vidovic #fig-43-4c + figcaption,
-  #conservation-and-analysis-44-siano #fig-44-3b,
   #conservation-and-analysis-46-kantarelou #fig-46-4c,
   #conservation-and-analysis-46-kantarelou #table-46-2 figcaption {
     page-break-after: always;
@@ -399,6 +415,8 @@ table#table-23-appendix ul {
     page-break-after: avoid;
   }
 
+  #large-scale-bronzes-8-mattusch #notes,
+  #large-scale-bronzes-8-mattusch #bibliography,
   #the-artist-10-haga-et-al h2#notes,
   #vessels-27-dedecker .quire-page__content__main p + ol,
   #statuettes-16-sharpe #belonging-to-the-czernicheff-family,
