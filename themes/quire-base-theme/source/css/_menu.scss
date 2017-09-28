@@ -85,7 +85,7 @@
     &__links {
       border-top: 1px solid $mid-neutral;
       border-bottom: 1px solid $mid-neutral;
-      margin:($base-spacing * 2) 0;
+      margin:($base-spacing * 1) 0;
 
       button {
         cursor: pointer;
@@ -95,15 +95,25 @@
         font-size: 1rem;
         font-weight: 700;
       }
-      ul {
+      ul,
+      &__citation  {
         font-size: 1rem * $small-font-scale;
         line-height: $small-font-line-height;
         margin-bottom: $base-spacing * ($small-font-scale * 2);
       }
+      &__citation {
+        margin-left: .5em;
+      }
+    }
+
+    &__links:nth-of-type(2) {
+      border-top: 0px;
+      margin-top: 0px;
     }
 
     &__footer {
       margin-bottom: $base-spacing * 5;
+      margin-top: $base-spacing * 2;
       font-size: 1rem * $small-font-scale;
       line-height: $small-font-line-height;
       color: $dark-neutral;
