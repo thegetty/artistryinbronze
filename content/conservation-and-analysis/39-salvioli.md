@@ -44,7 +44,7 @@ Widespread calcareous growths were present on both the outer and inner surfaces.
 
 In various areas, traces of gilding were found. Analysis by scanning electron microscopy coupled with energy dispersive X-ray spectrometry (SEM-EDX) of some minute fragments of this gilding ([fig. 39.3](#fig-39-3a)) allowed assessment. Results showed it to be a very thin (not more than a few microns), irregular gold film, which was well adhered to the underlying corrosion products (see [fig. 39.3a](#fig-39-3a)). No traces of glue or mercury amalgam were found (the gold is pure). This, along with the imprint of the inner side of the gold leaf produced by the texture of the bronze surface (see [fig. 39.3b](#fig-39-3b)), suggests it was likely applied using heat and mechanical means. The residual leaf fragments are very fragile and required special attention during the cleaning operations in order to safeguard this important evidence of decoration.
 
-{{< q-figure-group id="39.3a, 39.3b" grid="2" pdf="two-column" >}}
+{{< q-figure-group id="39.3a, 39.3b" grid="2" pdf="no-grid" >}}
 
 ## Conservation Intervention
 
@@ -60,15 +60,14 @@ After preliminary material removal tests, which were carried out in order to opt
 
 4. Repetition of the washing treatment reinforced with a blend of cyclohexane and butyl acetate using a volume fraction of 55/45, respectively. This made it possible to safely expose the oxidized bronze surface and residual calcareous spots by safeguarding the traces of gilding ([fig. 39.4a–b](#fig-39-4a)).
 
+5. Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.
+
+6. Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of [fig. 39.1b–c](#fig-39-1) and the details of
+[figs. 39.5–6](#fig-39-5) show the significant improvement of legibility achieved.
+
 {{< q-figure-group id="39.4a, 39.4b" grid="2" label="true" caption="Details of gilding residues during conservation treatments: (a) throat; (b) skinfolds" >}}
 
-<ol start="5">
-   <li>Exposed calcareous spots were removed using a piezoelectric ablator and sharp tools such as metal tips, wooden sticks, and porcupine spines. The surface was then homogenized using plastic-bristle brushes.</li>
-   <li>Protection with microcrystalline wax (1% in petroleum ether at 140–180°C), which is reversible and easily replicable, and finishing using natural-bristle brushes and cotton fabric. The general views of <a href="#fig-39-1">fig. 39.1b–c</a> and the details of
-   <a href="#fig-39-5">figs. 39.5–6</a> show the significant improvement of legibility achieved.</li>
-</ol>
-
-{{< q-figure-group id="39.5, 39.6" grid="2" >}}
+{{< q-figure-group id="39.5, 39.6" grid="2" pdf="no-grid" >}}
 
 In some areas, minor watercolor retouches were also needed in order to smooth the abrupt chromatic variation (in the area of the phalerae) or to veil calcareous residues trapped within the surface roughness. In a few cases, suitably pigmented microcrystalline wax was also used to fill microcraters and other irregularities of the surface.
 
@@ -106,9 +105,9 @@ Apart from the areas of the modern integrations of the neck, the inner surface o
 
 {{< q-figure id="39.8" >}}
 
-Both interior and exterior surfaces were scanned and digitally reconstructed. These two 3D models were merged by exploiting the visible cross-section of the neck, thus achieving a complete volume model of the bronze wall that allowed examination of its thickness. [Figure 39.9](#fig-39-9) summarizes some meaningful cross sections, such as those of the front ([fig. 39.9b](#fig-39-9)), the neck ([fig. 39.9c](#fig-39-9)), and the mane ([fig. 39.9d–e](#fig-39-9)). The front shows moderate thickness variations and then a good correspondence between the outer and inner profiles of the right side and mane (original parts), while more pronounced thickness variations are observed in the mane. However, the mane also shows the congruence between reliefs and indentations, although the thickness variations observed are significant; note for example that in [fig. 39.9e](#fig-39-9), the left side is much thicker than the right at the upper zone. This observation, along with the sharp crest of the mane at the inner surface ([fig. 39.9b](#fig-39-9)), led us to consider the possibility of significant direct modeling work. However, the aforementioned features depend on many material parameters, such as possible thinning during the finishing of the wax model; the possible differences in terms of mineralization and encrustation of the two inner sides of the mane; the type of wax; and the casting process. After a critical evaluation of the data collected, we conclude that the present protome was executed according to the typical copy process wherein the wax replica was made by slush casting and direct finishing.[^10] The detail reported in [fig. 39.8](#fig-39-8), showing the very smooth internal undulation of the right side of the head and the thickness profiles of [figs. 39.9b–c](#fig-39-9), seem convincing evidence of slush casting. Probably the cleaning of the internal surface or a detailed radiographic examination would also bring to light the drips that were expected but not observed in the present study.
+{{< q-figure id="39.9" pdf="two-column" >}}
 
-{{< q-figure id="39.9" >}}
+Both interior and exterior surfaces were scanned and digitally reconstructed. These two 3D models were merged by exploiting the visible cross-section of the neck, thus achieving a complete volume model of the bronze wall that allowed examination of its thickness. [Figure 39.9](#fig-39-9) summarizes some meaningful cross sections, such as those of the front ([fig. 39.9b](#fig-39-9)), the neck ([fig. 39.9c](#fig-39-9)), and the mane ([fig. 39.9d–e](#fig-39-9)). The front shows moderate thickness variations and then a good correspondence between the outer and inner profiles of the right side and mane (original parts), while more pronounced thickness variations are observed in the mane. However, the mane also shows the congruence between reliefs and indentations, although the thickness variations observed are significant; note for example that in [fig. 39.9e](#fig-39-9), the left side is much thicker than the right at the upper zone. This observation, along with the sharp crest of the mane at the inner surface ([fig. 39.9b](#fig-39-9)), led us to consider the possibility of significant direct modeling work. However, the aforementioned features depend on many material parameters, such as possible thinning during the finishing of the wax model; the possible differences in terms of mineralization and encrustation of the two inner sides of the mane; the type of wax; and the casting process. After a critical evaluation of the data collected, we conclude that the present protome was executed according to the typical copy process wherein the wax replica was made by slush casting and direct finishing.[^10] The detail reported in [fig. 39.8](#fig-39-8), showing the very smooth internal undulation of the right side of the head and the thickness profiles of [figs. 39.9b–c](#fig-39-9), seem convincing evidence of slush casting. Probably the cleaning of the internal surface or a detailed radiographic examination would also bring to light the drips that were expected but not observed in the present study.
 
 For the sake of completeness, let us also observe that the radiographic images collected during the investigation of the 1990s[^11] show a very straight wax join in proximity to the terminal part of the muzzle. Assuming this is not an accidental effect, it could be interpreted as a consequence of an intentional cut into the wax needed in order to build and dry the core structure.
 

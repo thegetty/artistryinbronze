@@ -1,7 +1,7 @@
 ---
 id: "18"
 title: Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces
-short_title: Roman Medium-Sized Statuettes 
+short_title: Roman Medium-Sized Statuettes
 type: essay
 contributor:
  - first_name: Annemarie
@@ -18,7 +18,7 @@ Before looking at some objects and their original contexts, it is important to k
 
 One group of statuettes is best characterized as decorations for private houses and gardens, if we take into account the evidence provided by the Vesuvian cities. There are, on the one hand, all sorts of fountain decorations,[^5] and on the other hand a wide range of so-called silent servants and lamp-bearers, which can reach up to life-size.[^6] The most famous representative of the second group found north of the Alps is certainly the so-called Boy from Xanten, discovered in 1858 on the bank of the Rhine near Xanten.[^7] Another large statuette in the same category of bronzes serving a practical purpose was found in 1893, also on a riverbank, this time in northern France, at Pont-Sainte-Maxence near Senlis (Oise) ([fig. 18.1](#fig-18-1)); unfortunately, its present location is unknown.[^8] A closely related parallel to it came to light in 1875 on the Viminal Hill in Rome,[^9] and it is evident that these two tablet-bearing Hermaphrodites must have derived from the same prototype. The existing photos of the bronze from France do not allow a definite statement as to its style and place of manufacture; a Gallo-Roman origin, however, cannot be ruled out. The Boy from Xanten, on the other hand, was certainly manufactured in a Mediterranean workshop in Early Imperial times and most likely came to northern Germany in the possession of a high-ranking officer posted to the legionary camp of Xanten.
 
-{{< q-figure id="18.1" class="float-right">}}
+{{< q-figure id="18.1" class="float-right" pdf="one-column" >}}
 
 An impressive find was made in the Roman villa of Champigneulles near Nancy (Meurthe-et-Moselle, France), inhabited from the second century AD onward. The metal hoard stored in one of the cellars contained not only all sorts of bronze, iron, and lead fragments, but also one nearly intact statuette of Bacchus, whose only damage was the missing left arm, originally cast separately.[^10] According to the numismatic evidence and the traces of fire, the villa was destroyed around the middle of the fourth century AD, and it is most likely that at that time the invaders collected all sorts of metal items found in the house with the intention of recycling them later. The large statuette of Bacchus could originally have been used as a garden sculpture.
 
@@ -32,7 +32,7 @@ A few years ago, two statuettes of Mercury and his female counterpart—perhaps 
 
 A similar scenario may account for a find made around 1910 in the north of France. Dredging the river Lys near Thiennes (Nord) brought up three medium-size bronze statuettes of Jupiter, Mars, and Mercury ([figs. 18.5–7](#fig-18-5)).[^15] We may only speculate about where they were originally stashed and what was the nature of that spot, as in Roman times they were certainly deposited on firm ground. Some scattered Roman potsherds were found in the vicinity, but no traces of a building are known so far. Without an autopsy it is difficult to say whether the bodies of all three statuettes are based on a single model, but it seems at least possible that they were made in the same workshop, if by different bronze-workers.[^16] As to their original function, Stéphanie Boucher suggested that they might have been standing in an extra shrine dedicated to that *trias*, despite the fact that there is hardly any epigraphical evidence of the three together.[^17] It is certainly safer to assume that they had been offered as votive gifts to a regional sanctuary, the location and divine patron of which are unknown.[^18] At a certain point they were put away, in the same way as has been suggested for the bronzes from Turny.
 
-{{< q-figure-group id="18.5, 18.6, 18.7" grid="3" >}}
+{{< q-figure-group id="18.5, 18.6, 18.7" grid="3" pdf="two-column" >}}
 
 The phenomenon of ritual depositions of all sorts is well documented by archaeological finds, although we do not yet know much about the rules governing such practices. Though there are few written sources dealing with this topic on a theoretical level, in the last few years it has received increased attention.[^19] In any case it is to be assumed that there were no general regulations that applied to the whole range of depositions, from so-called ritual rubbish to intact statues, but rather that there were local traditions and interpretations, depending also on the type of objects to be deposited.[^20] Filling up a pit with a large quantity of small ceramics certainly followed different customs than did depositing statues or statuettes. Coming back to our topic, we do not know exactly how the statuettes from Turny and Thiennes were arranged when they were hidden, but we have more information about the way this was done in another case.
 

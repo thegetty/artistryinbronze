@@ -562,10 +562,13 @@ $print-page-number-size: 7.5pt;
   figure {
     page-break-inside: avoid;
     break-inside: avoid;
+    &.q-pdf-no-grid {
+      page-break-inside: initial;
+    }
   }
   .q-figure-credit {
     font-size: 6.5pt;
-    line-height: 11pt;
+    line-height: 9.5pt;
     margin-top: 1.5pt;
   }
 
@@ -617,6 +620,20 @@ $print-page-number-size: 7.5pt;
     &.q-pdf-two-column {
       column-span: all;
       display: block;
+    }
+
+    &.q-pdf-no-grid {
+      display: block;
+    }
+
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-2,
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-3,
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-4 {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      page-break-inside: avoid;
     }
 
     &__table-wrapper {

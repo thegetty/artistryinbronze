@@ -28,9 +28,9 @@ Which new and revolutionary stylistic and technical criteria do we find looking 
 
 The names of the artists Kritios and Nesiotes are known from six inscriptions found on statue bases on the Acropolis, three of which are diagnostic for the purposes of this analysis.[^8] The dowel holes on these bases allow us to reconstruct the poses and schemes of the figures mounted on them and to evaluate their technical novelty. On the top of the pedestal dedicated by Epicharinos ([fig. 9.1](#fig-9-1)),[^9] two dowel holes are recognizable, even though it is not easy to reconstruct the pose of the figure: it stood either with the left foot advanced, to be seen in profile, or with the right foot advanced, facing the viewer. In any case, the figure was standing with both feet on the ground.
 
-{{< q-figure id="9.1" >}}
-
 On top of the base dedicated by Hegelochos, father and son of Ekphantos ([fig. 9.2](#fig-9-2)), two dowel holes placed widely apart make it appear as if the base supported a large-scale bronze figure: it is possible to reconstruct Hegelochos’s dedication as an approximately life-size, striding male warrior in an attacking pose (a pose identical to that of an Athena Promachos).[^10]
+
+{{< q-figure id="9.1" >}}
 
 {{< q-figure id="9.2" >}}
 

@@ -58,7 +58,7 @@ Both the Ephesian and the Florentine statues were understood early on to represe
 
 At around the same time, in 1896, a smaller-than-life-size sculpture was found in Frascati, Italy, and soon made its way to the Museum of Fine Arts in Boston.[^16] The statue follows the same type as the athletes from Ephesos and Florence. The importance of this find was the preserved hands of the sculpture. It became clear that the Athlete is not scraping the back of his hand but rather cleaning the *stlengis* using the thumb of his left hand.[^17] Benndorf mentioned this statue in his publication of the Ephesian Athlete in 1906.[^18] Obviously, however, it was too late to influence the restoration of the bronze statue from Ephesos: the right arm had already been mounted at an improper angle to the body. Half a century later, a major correction was made to the position of the right arm (see below). This correction also brought the fragments of the right shoulder and the upper right arm into considerably better coordination. Furthermore, the position of the arms now corresponds much better with the turn of the head.[^19]
 
-{{< q-figure id="1.5" class="float-left" >}}
+{{< q-figure id="1.5" class="float-left" pdf="one-column" >}}
 
 {{< q-figure id="1.6" class="float-left" >}}
 

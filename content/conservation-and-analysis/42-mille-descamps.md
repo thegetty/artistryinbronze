@@ -67,7 +67,7 @@ The wax was primarily worked by the indirect process, resulting in thin and even
 
 A noticeable exception to the indirect process is the complex hairstyle, which shows some extra work done in the positive of the wax ([fig. 42.5](#fig-42-5)). In the skull area, each strand of hair has been very finely figured and engraved in the wax. Hair undulations combine with slight indentations of the head to produce the effect of a stepped hairstyle in four successive waves. At the forehead, from ear to ear, the strands end in a double row of corkscrew curls, which were directly carved and then added to the head one by one ([fig. 42.6](#fig-42-6)).
 
-{{< q-figure-group id="42.5, 42.6" grid="2" >}}
+{{< q-figure-group id="42.5, 42.6" grid="2" pdf="no-grid" >}}
 
 The bib-like shape below the neck previously mentioned corresponds to the only detectable wax-to-wax join. The Piombino Apollo is not the only case to present this peculiar feature: other examples of statues from the Late Hellenistic and Early Imperial periods are also known.[^12] It is possible that this join could indicate a certain division of labor in the workshop, where the most intricate parts such as face and hair, requiring extensive, delicate work on the wax, were made by a very skilled craftsman and then added to the other parts of the statue.
 

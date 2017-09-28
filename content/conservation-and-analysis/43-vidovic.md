@@ -95,7 +95,7 @@ This reexamination confirmed that the Croatian Apoxyomenos is a typical product 
 
 Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–d](#fig-43-5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
-{{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" >}}
+{{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" pdf="no-grid" >}}
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in [table 43.1](#table-43-1).
 

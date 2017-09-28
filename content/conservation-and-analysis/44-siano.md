@@ -24,7 +24,7 @@ weight: 710
 
 The equestrian bronze group of Alexander on horseback in the National Archaeological Museum of Naples (inv. 4996), which is dated around the first century BC, was found in Herculaneum during the Bourbon excavation campaigns of the second half of the eighteenth century ([fig. 44.1a–b](#fig-44-1a)). According to the sources, the statuette, whose restored height is 49 centimeters, was mostly excavated on October 22, 1761, within a tunnel at the Theater under the Casa dei Colli Mozzi. Upon discovery, the legs and tail of the horse, as well as the legs and right arm of the rider, were missing. Subsequently, between October 24 and November 21, 1761, these were brought to light.[^1]
 
-{{< q-figure-group id="44.1a, 44.1b" grid="2" pdf="two-column" >}}
+{{< q-figure-group id="44.1a, 44.1b" grid="2" pdf="no-grid" >}}
 
 The eyes of the horse and rider, the rosette that holds the mantle (on the right shoulder rather than on the left, as indicated in the excavation report), and the mask that decorates the horse’s breastplate were described as inlaid in silver.
 
@@ -46,13 +46,13 @@ Floral and geometrical decorations made with white metal are visible on the uppe
 
 *Horse:* The body of the horse appears rather well preserved, while its limbs and tail include very obvious joins. These were executed using various anchoring techniques: small copper-alloy inserts, rivets, and soft soldering.[^10] The use of a small metal insert is particularly evident on the left hind leg ([fig. 44.2a](#fig-44-2a)).[^11] This restoration technique is also attested in other objects from the Vesuvian area, such as the famous Tripod with Sphinxes from Herculaneum preserved in the Naples Archaeological Museum.[^12]
 
-{{< q-figure-group id="44.2a, 44.2b" grid="2" pdf="two-column" >}}
+{{< q-figure-group id="44.2a, 44.2b" grid="2" pdf="no-grid" >}}
 
 The saddlecloth, girth, harness, and reins are fashioned from perfectly shaped thin copper foils and strips, soldered onto the body of the horse with tin-lead alloys ([fig. 44.3](#fig-44-3a)). However, the breastplate up to its lateral soft-soldered phalerae seems more refined than the saddlecloth and girth and presents a clear join at the right point of the shoulder. There are objective clues suggesting that the saddlecloth was likely added during the eighteenth-century restoration. As shown in [figure 44.3a](#fig-44-3a), it is shaped from two copper laminae and then carefully cut out and filed along the back and the contour of the terminal part of the mane at the withers.
 
 [Figure 44.3](#fig-44-3a) also evidences another crucial feature. The locks of the mane were suitably cut and smoothed ([fig. 44.3a](#fig-44-3a)) in order to better fit the rider’s skirt ([fig. 44.3b](#fig-44-3b)).
 
-{{< q-figure-group id="44.3a, 44.3b" grid="2" pdf="two-column" >}}
+{{< q-figure-group id="44.3a, 44.3b" grid="2" pdf="no-grid" >}}
 
 *Rider:* Examination of the rider indicates that its limbs were anchored to the body by molten copper alloys poured from the inner side, while two damaged zones of the skirt were fixed using a copper foil, which was soft-soldered to the inner side of the skirt (see the left side-arrows in [fig. 44.2b](#fig-44-2b)). The thighs with the integrated stretches of the skirt perfectly fit the curvatures of the garment and of the ribs at the inner and outer sides, respectively. The limbs were likely originally cast separately and then joined to the trunk of the figure.
 
@@ -60,13 +60,11 @@ The saddlecloth, girth, harness, and reins are fashioned from perfectly shaped t
 
 Several radiographic images were taken in order to identify each of the independent pieces composing the sculpture and to interpret its execution and repair history.
 
-{{< q-figure id="44.4a" class="float-left" pdf="one-column" >}}
-
-{{< q-figure id="44.4b" class="float-left" >}}
-
-{{< q-figure id="44.5" class="float-left" >}}
-
 *Base:* In addition to a detailed assessment of features that were already evident to the naked eye, the radiography of the base provided crucial information regarding its authenticity. The base has a variable thickness and moderate porosity. As shown in [figure 44.4a](#fig-44-4a), the two large plugs mentioned above are very thin and present the typical perimetric housing. The white metal decorations were achieved via a heat process: after creating suitable recesses and cutting the decorative motives from a silver foil,[^13] the latter were soldered by first immersing them in a tin-lead bath (see the round porosities in [fig. 44.4b](#fig-44-4b)), and then hammering them into place. Thus, the damascening of the base was not achieved simply by mechanical inlay but rather through a more elaborate decorative process, in order to increase the durability of the artwork. The authenticity of this decoration and thus of the entire base is also supported by the random consumption of the silver foils and the total loss of some details (see the different radio-opacity of the petals in [fig. 44.4b](#fig-44-4b)).
+
+{{< q-figure-group id="44.4a, 44.4b" grid="2" pdf="no-grid" >}}
+
+{{< q-figure id="44.5" >}}
 
 *Horse:* [Figure 44.5](#fig-44-5) shows the reconstructed general view of the horse composed from two images as well as two side details of its neck. These confirm that this artifact is a hollow casting including several interesting structural details described below. The thicknesses of the metal walls are not entirely contrasted in X-ray images because of the radio-opacity of the core, which is mostly still inside the horse; note the abrupt change of radio-opacity at the ideal line between the chest and the withers. A significant macroporosity, produced by fragments of the core materials and air bubbles trapped in the metal, extends from the head to the chest and shoulders of the horse, while the rest of the body shows a higher casting quality. Joint stretches are evident in the repair zones of the limbs and tail (see arrows in [fig. 44.5](#fig-44-5)). Furthermore, [figure 44.5](#fig-44-5) proves that the head, body, and limbs of the horse were originally cast independently and then joined by means of hard heat joins (i.e., by filling the gaps with molten bronze). The intentional cut of the wax model before casting can be argued from the straight stretches of unfilled zones of the joins of the neck and left forearm (solid arrows in [fig. 44.5](#fig-44-5)). The join of the neck includes a kind of parallelogram-shaped bronze patch at the right side, which exhibits a slightly higher radio-opacity than the main metal wall, possibly due to a higher lead content and/or thickness. Drips are also recognizable in this join zone. They descend from the apex of the joint itself. However, the latter also shows a relatively high radio-opacity, thus making it difficult to determine the origin of the drips: they could have been produced either by cutting wax with a hot tool or by a modern repair using a tin-lead alloy.
 

@@ -107,7 +107,7 @@ We might ask ourselves what deserves consideration as a statue. If the Marathon 
 
 [^7]: Goodlett 1991, 677–78.
 
-[^8]: Benoît Mille reports that the alloy of the fourth toe on the left foot suggests that is an ancient replacement.
+[^8]: Benoît Mille reports that the alloy of the fourth toe on the left foot suggests that is an ancient replacement: see here paper [#42 by Mille and Descamps](../../conservation-and-analysis/42-mille-descamps/), particularly figs. [42.4a-b](../../conservation-and-analysis/42-mille-descamps/#fig-42-4a) and [42.5](../../conservation-and-analysis/42-mille-descamps/#fig-42-5).
 
 [^9]: Pompeii 22924; H. 128 cm (50 ½ in.). Vittozzi 1993; Lapatin 2015, 292–93; Pappalardo 2016, 329–30.
 
