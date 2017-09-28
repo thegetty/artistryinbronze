@@ -71,7 +71,7 @@ The head of Arsinoë III in Mantua, however, is the key to understanding her sub
 
 ## Acknowledgments
 
-I foremost acknowledge Chiara Pisani, conservator of the Museo Civico di Palazzo Te in Mantua, for her generous permission to study the head of Arsinoë III in September 2015 and for our ensuing dialogue. My sincere appreciation also goes to Daniela Saccenti, librarian at the Palazzo Te, for discussing the Acerbi Collection in detail and inspiring me to come back and work more on this material. Special thanks are owed to the organizers of the XIX International Congress on Ancient Bronzes at the J. Paul Getty Museum, who coordinated the rich program and schedule of events with the *Power and Pathos* exhibition; and especially Jens Daehner, Kenneth Lapatin, and Ambra Spinelli for their work in ensuring the excellence of the proceedings.
+I foremost acknowledge Chiara Pisani, conservator of the Museo Civico di Palazzo Te in Mantua, for her generous permission to study the head of Arsinoë III in September 2015 and for our ensuing dialogue. My sincere appreciation also goes to Daniela Saccenti, librarian at the Palazzo Te, for discussing the Acerbi Collection in detail and inspiring me to come back and work more on this material. Special thanks are owed to the organizers of the XIXth International Congress on Ancient Bronzes at the J. Paul Getty Museum, who coordinated the rich program and schedule of events with the *Power and Pathos* exhibition; and especially Jens Daehner, Kenneth Lapatin, and Ambra Spinelli for their work in ensuring the excellence of the proceedings.
 
 {{< /backmatter >}}
 

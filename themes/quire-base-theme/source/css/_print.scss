@@ -23,8 +23,11 @@ $print-base-spacing: 0.125in;
 $print-base-line-height: 13pt;
 $print-paragraph-indent: 0.25in;
 
-$print-background-color: #fff;
-$print-text-color: #000;
+$print-text-color: cmyk(0,0,0,1);
+
+$print-dark-neutral: cmyk(0,0,0,0.7);
+$print-mid-neutral: cmyk(0,0,0,0.55);
+$print-light-neutral: cmyk(0,0,0,0.1);
 
 $print-page-number-size: 7.5pt;
 
@@ -246,6 +249,7 @@ $print-page-number-size: 7.5pt;
   }
 
   html {
+    color: $print-text-color;
     font-size: $print-base-font-size;
     font-weight: 400;
     line-height: $print-base-line-height;
@@ -279,7 +283,7 @@ $print-page-number-size: 7.5pt;
   }
 
   a {
-    color: $black;
+    color: $print-text-color;
   }
 
   .quire-page {
@@ -328,7 +332,7 @@ $print-page-number-size: 7.5pt;
           line-height: 14.25pt;
           margin-bottom: 0;
           margin-top: .6em;
-          color: $dark-neutral;
+          color: $print-dark-neutral;
         }
         blockquote {
           margin-left: 1.5em;
@@ -385,8 +389,7 @@ $print-page-number-size: 7.5pt;
           line-height: 11pt;
           margin-top: 0;
           font-weight: 600;
-          // color: $dark-neutral;
-          color: #5e5e5e;
+          color: cmyk(0,0,0,0.75);
         }
         dd {
           font-size: 7.5pt;
@@ -458,7 +461,7 @@ $print-page-number-size: 7.5pt;
   }
 
   .quire-body-type--section-head h1 {
-    color: #fff;
+    color: cmyk(0,0,0,0);
   }
   .quire-body-type--section-head .quire-page__section-list,
   .quire-body-type--section-head hr {
@@ -497,7 +500,7 @@ $print-page-number-size: 7.5pt;
         width: 5.5in;
       }
       &__reading-line {
-        color: #706c6d;
+        color: $print-dark-neutral;
       }
       &__contributor {
         margin-top: .25in;
@@ -508,7 +511,7 @@ $print-page-number-size: 7.5pt;
         margin-top: 3in;
         font-size: 12pt;
         line-height: 21pt;
-        color: $dark-neutral;
+        color: $print-dark-neutral;
       }
     }
   }
@@ -562,10 +565,13 @@ $print-page-number-size: 7.5pt;
   figure {
     page-break-inside: avoid;
     break-inside: avoid;
+    &.q-pdf-no-grid {
+      page-break-inside: initial;
+    }
   }
   .q-figure-credit {
     font-size: 6.5pt;
-    line-height: 11pt;
+    line-height: 9.5pt;
     margin-top: 1.5pt;
   }
 
@@ -619,6 +625,20 @@ $print-page-number-size: 7.5pt;
       display: block;
     }
 
+    &.q-pdf-no-grid {
+      display: block;
+    }
+
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-2,
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-3,
+    &.q-pdf-no-grid .q-figure__inner-figure.q-grid-4 {
+      float: none;
+      width: 100%;
+      margin-left: 0;
+      margin-right: 0;
+      page-break-inside: avoid;
+    }
+
     &__table-wrapper {
       column-span: all;
       margin-bottom: 1em;
@@ -638,7 +658,93 @@ $print-page-number-size: 7.5pt;
       font-size: 7.5pt;
       line-height: 11pt;
       font-weight: 400;
+      strong {
+        font-weight: 400;
+      }
     }
+  }
+
+  hr::after,
+  .quire-page__content__main h2#notes,
+  .quire-page__content__references h2,
+  .quire-page__content__reader-note h2,
+  .quire-page__content__main__backmatter h2 {
+    color: $print-dark-neutral;
+  }
+
+  .quire-page__header__contributor,
+  .quire-page__content__main .quire-contents,
+  .quire-toc,
+  .quire-page__header__number,
+  .quire-page__section-list__item__contributor {
+    color: $print-mid-neutral;
+  }
+
+  th {
+    border-bottom-color: $print-dark-neutral;
+  }
+
+  td {
+    border-bottom-color: $print-mid-neutral;
+  }
+
+  .q-figure__table-wrapper.q-border-vertical {
+    td,
+    th {
+      border-left-color: $print-mid-neutral;
+    }
+    th,
+    tbody th {
+      border-color: $print-mid-neutral;
+    }
+    thead th:last-of-type,
+    tbody td:last-of-type {
+      border-right-color: $print-mid-neutral;
+    }
+  }
+
+  .q-figure__table-wrapper.q-border-horizontal {
+    th {
+      border-color: $print-dark-neutral;
+      border-bottom-color: $print-dark-neutral;
+    }
+    td,
+    tbody th {
+      border-bottom-color: $print-mid-neutral;
+    }
+    thead th:last-of-type {
+      border-color: $print-dark-neutral;
+    }
+  }
+
+  .q-figure__table-wrapper.q-border-box {
+    table {
+      border-color: $print-dark-neutral;
+    }
+  }
+
+  .q-figure__table-wrapper.q-border-all {
+    table {
+      border-color: $print-dark-neutral;
+      td,
+      th,
+      tbody tr *:first-child {
+        border-left-color: $print-mid-neutral;
+      }
+      th {
+        border-color: $print-dark-neutral;
+      }
+      td,
+      th,
+      tbody th {
+        border-bottom-color: $print-mid-neutral;
+      }
+    }
+  }
+
+
+  .quire-cover__inner__contributor {
+    color: $print-text-color;
   }
 
 }

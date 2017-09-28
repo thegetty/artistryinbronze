@@ -463,7 +463,7 @@ table_list:
     table: |
       <table>
         <thead>
-          <tr> <th scope="col">Sample No.</th> <th scope="col">CU</th> <th scope="col">SN</th> <th scope="col">Pb</th> <th scope="col">Fe</th> <th scope="col">Co</th> <th scope="col">Ni</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Se</th> <th scope="col">Sb</th> <th scope="col">Te</th> <th scope="col">Bi</th> <th scope="col">Ag</th> <th scope="col">Sb</th> </tr>
+          <tr> <th scope="col">Sample No.</th> <th scope="col">Cu</th> <th scope="col">Sn</th> <th scope="col">Pb</th> <th scope="col">Fe</th> <th scope="col">Co</th> <th scope="col">Ni</th> <th scope="col">Zn</th> <th scope="col">As</th> <th scope="col">Se</th> <th scope="col">Sb</th> <th scope="col">Te</th> <th scope="col">Bi</th> <th scope="col">Ag</th> <th scope="col">Sb</th> </tr>
         </thead>
         <tbody>
           <tr> <th scope="row">FG 050587<br> (alloy)</td> <td>74</td> <td>8.8</td> <td>17</td> <td>0.26</td> <td>0.16</td> <td>0.04</td> <td>0.1</td> <td>0.22</td> <td>0.01</td> <td>0.164</td> <td>&lt;0.005</td> <td>0.02</td> <td>0.039</td> <td>0.164</td> </tr>

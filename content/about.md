@@ -12,15 +12,15 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ### Chicago
 
-Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. *Artistry in Bronze: The Greeks and Their Legacy*. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu/publications/artistryinbronze.
+<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
 
 ### MLA
 
-Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. *Artistry in Bronze: The Greeks and Their Legacy*. J. Paul Getty Museum, 2017, <span class="cite-current-date">D MMMM YYYY</span>, http://www.getty.edu/publications/artistryinbronze.
+<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. J. Paul Getty Museum, 2017, <span class="cite-current-date">D MMMM YYYY</span>, http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
 
 ### Permanent URL
 
-http://www.getty.edu/publications/artistryinbronze
+<p>http://www.getty.edu/&#8203;publications/&#8203;artistryinbronze</p>
 
 ## Revision History
 
@@ -36,7 +36,7 @@ Any revisions or corrections made to this publication after the first edition da
 
 {{< q-copyright >}}
 
-**Published by the J. Paul Getty Museum and Getty Conservation Institute, Los Angeles**<br />
+**Published by the J. Paul Getty Museum and the Getty Conservation Institute, Los Angeles**<br />
 Getty Publications<br />
 1200 Getty Center Drive, Suite 500<br />
 Los Angeles, California 90049-1682<br />
@@ -47,5 +47,3 @@ www.getty.edu/publications
 {{< q-loc >}}
 
 Front cover: Herm of Dionysus (detail), 200–100 BC. Attributed to the workshop of Boëthos of Kalchedon. Bronze, copper, and stone. Malibu, J. Paul Getty Museum, Villa Collection, inv. 79.AB.138
-
-Every effort has been made to contact the owners and photographers of objects reproduced here whose names do not appear in the captions. Anyone having further information concerning copyright holders is asked to contact Getty Publication so this information can be included.

@@ -50,7 +50,7 @@ A first attempt to reconstruct the original features of the portrait was made so
 
 The reconstruction of the original features of the Hellenistic ruler has been attempted again in a project started in August 2015. Based upon a series of digital images and by means of photogrammetry, a three-dimensional state model was created ([fig. 22.5](#fig-22-5)).[^22] This model, in turn, will serve to reconstruct the original physiognomy of the face by means of computer animation. For example, relatively well-preserved sections such as the upper cheek and eye of the right side of the face can be cut out, mirrored, and inserted on the other side of the head. Dents and bulges can be straightened, and the cracks joined. But it is still a work in progress. The reconstructed portrait should enable comparison to coin portraits of the Seleucid kings. Of course, such an approach has to consider the problems particular to comparison between a three-dimensional representation to two-dimensional coin designs. Nevertheless, we hope to be able to identify the sitter of the bronze portrait in the National Museum of Iran.
 
-{{< q-figure id="22.5" >}}
+{{< q-figure id="22.5" pdf="two-column" >}}
 
 ## Other Remains of the Sculpture
 

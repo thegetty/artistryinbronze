@@ -54,7 +54,7 @@ Remnants of the extant eye were investigated microscopically and with X-ray fluo
 
 Several CT cross sections of the Getty head confirm a fairly uniform wall thickness indicative of a molded wax model. Comparison to the Mahdia head CT at eye level also shows some close internal profile correspondences ([fig. 41.8](#fig-41-8)).[^18] An outer drapery fold of the Mahdia herm (direct work) generally corresponds to a fold on the Getty herm.
 
-{{< q-figure-group id="41.7, 41.8" grid="2" >}}
+{{< q-figure-group id="41.7, 41.8" grid="2" pdf="no-grid" >}}
 
 ## Discussion
 

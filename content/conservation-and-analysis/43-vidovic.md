@@ -89,13 +89,13 @@ All joins and repairs are now easily followed thanks to γ-radiography, the arch
 
 This reexamination confirmed that the Croatian Apoxyomenos is a typical product of the Late Hellenistic period,[^6] though the original prototype is dated to the mid-fourth century BC according to stylistic features.[^7]
 
-{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" pdf="two-column" >}}
+{{< q-figure-group id="43.4a, 43.4b, 43.4c" grid="3" grid-align="bottom" label="true" caption="**Figure 43.4a–c.** Joining areas: (a) head, (b) right arm-torso, (c\) pubic area-torso-left leg." credit="Image: K. J. Rončević, 2005. Courtesy Croatian Conservation Institute (HRZ)" pdf="two-column" >}}
 
 ## New Sampling Campaign (2013–2015)
 
 Taking into consideration the previous metal analyses and our better understanding of the casting and welding techniques, we decided to perform additional analyses using ICP-AES. Seven new samples were taken by microdrilling ([fig. 43.5a–d](#fig-43-5a)), some of them from the previously examined areas: 6 from primary castings (head, body, foot, pubic hair, decorated plinth, undecorated plinth) and 1 from a weld join (the pubic area onto the legs and the body area).
 
-{{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" >}}
+{{< q-figure-group id="43.5a, 43.5b, 43.5c, 43.5d" grid="2" pdf="no-grid" >}}
 
 Analyses were performed by ICP-AES at the C2RMF. About 20 mg of metal was taken for each sample (1 mm diameter, 10 mm deep) after eliminating most surface corrosion products. The drillings were carefully controlled under the stereomicroscope to avoid any corrosion product or dust. About 10 mg of the drillings were precisely weighed and digested in 5 ml aqua regia solution (hydrochloric and nitric acids). The solution was then nebulized in the argon plasma and 29 chemical elements were quantified.[^8] The detailed results of the ICP-AES analyses can be found in [table 43.1](#table-43-1).
 

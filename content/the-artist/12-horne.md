@@ -48,7 +48,7 @@ The full reality of the ancient sculptors’ trade is difficult to discern from 
 
 ## Acknowledgments
 
-I would like to thank the organizers of the 19th International Bronze Congress for the opportunity to present my initial thoughts on the subject. The helpful comments provided by various individuals greatly aided subsequent thought on the subject, notably the earliest discussions with Carol Mattusch.
+I would like to thank the organizers of the XIXth International Bronze Congress for the opportunity to present my initial thoughts on the subject. The helpful comments provided by various individuals greatly aided subsequent thought on the subject, notably the earliest discussions with Carol Mattusch.
 
 {{< /backmatter >}}
 
