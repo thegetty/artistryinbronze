@@ -26,7 +26,7 @@ $print-paragraph-indent: 0.25in;
 $print-text-color: cmyk(0,0,0,1);
 
 $print-dark-neutral: cmyk(0,0,0,0.7);
-$print-mid-neutral: cmyk(0,0,0,0.45);
+$print-mid-neutral: cmyk(0,0,0,0.55);
 $print-light-neutral: cmyk(0,0,0,0.1);
 
 $print-page-number-size: 7.5pt;
@@ -683,7 +683,7 @@ $print-page-number-size: 7.5pt;
   th {
     border-bottom-color: $print-dark-neutral;
   }
-  
+
   td {
     border-bottom-color: $print-mid-neutral;
   }
