@@ -4,6 +4,7 @@
   font-size: 20px;
 }
 
+.footnotes [lang=grc],
 .quire-page__content__references [lang=grc] {
   font-size: 0.9rem;
 }
