@@ -440,7 +440,7 @@ table#table-23-appendix ul {
 
   #the-hellenistic-east-23-albertson .quire-page__content__main__backmatter th {
     font-weight: 600;
-    color: #5e5e5e;
+    color: cmyk(0,0,0,0.7);
   }
 
   #contents .toc-break::before {

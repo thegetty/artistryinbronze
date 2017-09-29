@@ -852,5 +852,14 @@ A few objects however remained in the tomb, to be discovered only when excavati
       <description></description>
     </item>
     
+    <item>
+      <title>Search</title>
+      <link>/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/search/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
