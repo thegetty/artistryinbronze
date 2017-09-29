@@ -103,6 +103,13 @@
       }
       &__citation {
         margin-left: .5em;
+        p {
+          text-indent: 0;
+        }
+        a {
+          display: block;
+          margin-top: 1em;
+        }
       }
     }
 

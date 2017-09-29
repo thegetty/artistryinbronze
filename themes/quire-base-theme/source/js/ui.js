@@ -64,7 +64,7 @@ class QuireUI {
 
   anchorScroll(href) {
     href = typeof (href) === 'string' ? href : $(this).attr('href')
-    var fromTop = 60
+    var fromTop = 65
 
     if (href.indexOf('#') === 0) {
       var $target = $(href)
