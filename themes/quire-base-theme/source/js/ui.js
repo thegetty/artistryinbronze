@@ -83,7 +83,7 @@ class QuireUI {
   }
 
   citationDate() {
-    let $date = $('#js-date')
+    let $date = $('.cite-current-date')
     let today = moment().format("D MMMM YYYY");
     $date.empty();
     $date.text(today);

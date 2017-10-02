@@ -16,7 +16,7 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ### MLA
 
-<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. J. Paul Getty Museum, 2017, <span class="cite-current-date">D MMMM YYYY</span>, http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
+<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. J. Paul Getty Museum, 2017, <span class="cite-current-date" id="js-date">D MMMM YYYY</span>, http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
 
 ### Permanent URL
 
