@@ -10428,11 +10428,11 @@
 
 	var _search2 = _interopRequireDefault(_search);
 
-	var _deepzoom = __webpack_require__(23);
+	var _deepzoom = __webpack_require__(17);
 
 	var _deepzoom2 = _interopRequireDefault(_deepzoom);
 
-	var _lightbox = __webpack_require__(24);
+	var _lightbox = __webpack_require__(18);
 
 	var _lightbox2 = _interopRequireDefault(_lightbox);
 
@@ -10500,9 +10500,7 @@
 	      $menu.focusout(function () {
 	        _this.menuHide();
 	      });
-	      $('a').on('click', function (e) {
-	        _this.footnoteScroll(e);
-	      });
+	      // $('a').on('click', (e) => { this.footnoteScroll(e) })
 	      $tables.click(function (e) {
 	        return _this.tableToggle(e);
 	      });
@@ -47872,13 +47870,7 @@
 
 
 /***/ }),
-/* 17 */,
-/* 18 */,
-/* 19 */,
-/* 20 */,
-/* 21 */,
-/* 22 */,
-/* 23 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function($) {'use strict';
@@ -47982,7 +47974,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
 
 /***/ }),
-/* 24 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -47992,11 +47984,11 @@
 	});
 	exports.default = lightBox;
 
-	var _photoswipe = __webpack_require__(25);
+	var _photoswipe = __webpack_require__(19);
 
 	var _photoswipe2 = _interopRequireDefault(_photoswipe);
 
-	var _photoswipeUiDefault = __webpack_require__(26);
+	var _photoswipeUiDefault = __webpack_require__(20);
 
 	var _photoswipeUiDefault2 = _interopRequireDefault(_photoswipeUiDefault);
 
@@ -48055,7 +48047,7 @@
 	}
 
 /***/ }),
-/* 25 */
+/* 19 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*! PhotoSwipe - v4.1.2 - 2017-04-05
@@ -51794,7 +51786,7 @@
 	});
 
 /***/ }),
-/* 26 */
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*! PhotoSwipe Default UI - 4.1.2 - 2017-04-05
