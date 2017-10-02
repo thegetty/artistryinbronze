@@ -267,6 +267,11 @@ sup {
   }
 }
 
+:target[id="citation-information"] {
+  margin-top: -70px;
+  padding-top: 70px;
+}
+
 // To adjust scroll height to account for the fixed header when the target is an
 // inline-level element (like when returning to the <span> footnote marker in the
 // essay text):
