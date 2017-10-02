@@ -251,7 +251,12 @@ sup {
 //
 :target[id^="fn:"],
 :target[id^="fig"],
-:target[id^="table"]{
+:target[id^="table"],
+:target[id="essay-text"],
+:target[id="notes"],
+:target[id="notes"],
+:target[id="bibliography"],
+:target[id="citation-information"] {
   -webkit-background-clip: content-box;
   background-clip: content-box;
   margin-top: -60px;
