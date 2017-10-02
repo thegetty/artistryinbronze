@@ -88,9 +88,9 @@ module.exports = {
       'process.env': {
         NODE_ENV: '"production"'
       }
-    })
+    }),
 
     // If using moment.js, uncomment this to keep the bundle size small.
-    // new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)
+    new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/)
   ]
 }

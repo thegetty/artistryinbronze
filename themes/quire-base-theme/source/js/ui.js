@@ -9,6 +9,8 @@ import L from 'leaflet'
 import _ from 'lodash/core'
 import debounce from 'lodash.debounce'
 import findIndex from 'lodash.findIndex'
+import moment from 'moment'
+
 import Map from './map.js'
 import Search from './search.js'
 import DeepZoom from './deepzoom.js'
@@ -34,6 +36,7 @@ class QuireUI {
     let $searchEl = $('#js-search')
 
     this.anchorScroll(window.location.hash)
+    this.citationDate()
 
     $figures.click((e) => {
       let figID = e.currentTarget.parentNode.id
@@ -77,6 +80,13 @@ class QuireUI {
         }
       }
     }
+  }
+
+  citationDate() {
+    let $date = $('#js-date')
+    let today = moment().format("D MMMM YYYY");
+    $date.empty();
+    $date.text(today);
   }
 
   footnoteScroll(e) {
