@@ -10428,11 +10428,11 @@
 
 	var _search2 = _interopRequireDefault(_search);
 
-	var _deepzoom = __webpack_require__(17);
+	var _deepzoom = __webpack_require__(23);
 
 	var _deepzoom2 = _interopRequireDefault(_deepzoom);
 
-	var _lightbox = __webpack_require__(18);
+	var _lightbox = __webpack_require__(24);
 
 	var _lightbox2 = _interopRequireDefault(_lightbox);
 
@@ -35550,13 +35550,16 @@
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
+	// When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
+	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'https://gettypubs.github.io/artistryinbronze' : '';
+
 	var Search = _vue2.default.extend({
 	  name: 'Search',
 	  template: '#search-results-template',
 	  data: function data() {
 	    return {
 	      contents: [],
-	      dataURL: '/artistryinbronze/search.json',
+	      dataURL: BASEURL.concat('/search.json'),
 	      index: '',
 	      query: '',
 	      ready: false,
@@ -35588,6 +35591,7 @@
 	      $.get(this.dataURL, { cache: true }).done(function (data) {
 	        _this.contents = data;
 	        data.forEach(function (item) {
+	          item.url = BASEURL.concat(item.url);
 	          _this.index.add(item);
 	        });
 	        _this.ready = true;
@@ -47868,7 +47872,13 @@
 
 
 /***/ }),
-/* 17 */
+/* 17 */,
+/* 18 */,
+/* 19 */,
+/* 20 */,
+/* 21 */,
+/* 22 */,
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function($) {'use strict';
@@ -47972,7 +47982,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(5)))
 
 /***/ }),
-/* 18 */
+/* 24 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -47982,11 +47992,11 @@
 	});
 	exports.default = lightBox;
 
-	var _photoswipe = __webpack_require__(19);
+	var _photoswipe = __webpack_require__(25);
 
 	var _photoswipe2 = _interopRequireDefault(_photoswipe);
 
-	var _photoswipeUiDefault = __webpack_require__(20);
+	var _photoswipeUiDefault = __webpack_require__(26);
 
 	var _photoswipeUiDefault2 = _interopRequireDefault(_photoswipeUiDefault);
 
@@ -48045,7 +48055,7 @@
 	}
 
 /***/ }),
-/* 19 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*! PhotoSwipe - v4.1.2 - 2017-04-05
@@ -51784,7 +51794,7 @@
 	});
 
 /***/ }),
-/* 20 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*! PhotoSwipe Default UI - 4.1.2 - 2017-04-05
