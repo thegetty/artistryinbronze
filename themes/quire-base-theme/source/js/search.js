@@ -8,7 +8,7 @@ let Search = Vue.extend({
   data () {
     return {
       contents: [],
-      dataURL: '/search.json',
+      dataURL: '/artistryinbronze/search.json',
       index: '',
       query: '',
       ready: false,
