@@ -56,7 +56,7 @@ class QuireUI {
     $sectionTriggers.click(e => this.menuSectionToggle(e))
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
-    $('a').on('click', (e) => { this.footnoteScroll(e) })
+    // $('a').on('click', (e) => { this.footnoteScroll(e) })
     $tables.click(e => this.tableToggle(e))
 
     // Page-specific setup
