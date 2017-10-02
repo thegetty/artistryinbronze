@@ -16,8 +16,7 @@ baseURL: ""
 relativeURLs: true
 
 theme: "quire-base-theme"
-footnoteReturnLinkContents: "↥"
-# footnoteReturnLinkContents: "↩"
+footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
 
