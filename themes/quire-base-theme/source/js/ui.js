@@ -9,6 +9,8 @@ import L from 'leaflet'
 import _ from 'lodash/core'
 import debounce from 'lodash.debounce'
 import findIndex from 'lodash.findIndex'
+import moment from 'moment'
+
 import Map from './map.js'
 import Search from './search.js'
 import DeepZoom from './deepzoom.js'
@@ -33,7 +35,8 @@ class QuireUI {
     let $tables = $('.js-figure-table')
     let $searchEl = $('#js-search')
 
-    this.anchorScroll(window.location.hash)
+    // this.anchorScroll(window.location.hash)
+    this.citationDate()
 
     $figures.click((e) => {
       let figID = e.currentTarget.parentNode.id
@@ -53,7 +56,7 @@ class QuireUI {
     $sectionTriggers.click(e => this.menuSectionToggle(e))
     $menu.focusin(() => { this.menuShow() })
     $menu.focusout(() => { this.menuHide() })
-    $('a').on('click', (e) => { this.footnoteScroll(e) })
+    // $('a').on('click', (e) => { this.footnoteScroll(e) })
     $tables.click(e => this.tableToggle(e))
 
     // Page-specific setup
@@ -77,6 +80,13 @@ class QuireUI {
         }
       }
     }
+  }
+
+  citationDate() {
+    let $date = $('#js-date')
+    let today = moment().format("D MMMM YYYY");
+    $date.empty();
+    $date.text(today);
   }
 
   footnoteScroll(e) {

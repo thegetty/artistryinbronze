@@ -1581,6 +1581,34 @@ sup {
   .quire-body.quire-body-type--search #js-next {
     display: none; } }
 
+:target[id^="fn:"],
+:target[id^="fig"],
+:target[id^="table"],
+:target[id="essay-text"],
+:target[id="notes"],
+:target[id="notes"],
+:target[id="bibliography"],
+:target[id="citation-information"] {
+  -webkit-background-clip: content-box;
+  background-clip: content-box;
+  margin-top: -60px;
+  padding-top: 60px; }
+  :target[id^="fn:"]:focus,
+  :target[id^="fig"]:focus,
+  :target[id^="table"]:focus,
+  :target[id="essay-text"]:focus,
+  :target[id="notes"]:focus,
+  :target[id="notes"]:focus,
+  :target[id="bibliography"]:focus,
+  :target[id="citation-information"]:focus {
+    outline: 0; }
+
+:target[id^="fnref"]::before {
+  content: "";
+  display: inline-block;
+  height: 70px;
+  margin: -60px 0 0; }
+
 h4 {
   margin-bottom: 0; }
 
@@ -2450,6 +2478,9 @@ div.q-figure__video__print-fallback,
     width: 100%;
     margin-left: 0;
     margin-right: 0; } }
+
+.pswp--open {
+  z-index: 10000; }
 
 .q-contributors__list {
   list-style-type: none;

@@ -2,13 +2,16 @@ import Vue from 'vue'
 import lunr from 'lunr'
 import debounce from 'lodash.debounce'
 
+// When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
+const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'https://gettypubs.github.io/artistryinbronze' : ''
+
 let Search = Vue.extend({
   name: 'Search',
   template: '#search-results-template',
   data () {
     return {
       contents: [],
-      dataURL: '/search.json',
+      dataURL: BASEURL.concat('/search.json'),
       index: '',
       query: '',
       ready: false,
@@ -37,6 +40,7 @@ let Search = Vue.extend({
       $.get(this.dataURL, {cache: true}).done((data) => {
         this.contents = data
         data.forEach((item) => {
+          item.url = BASEURL.concat(item.url)
           this.index.add(item)
         })
         this.ready = true

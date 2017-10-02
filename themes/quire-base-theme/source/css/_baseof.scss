@@ -237,6 +237,46 @@ sup {
   }
 }
 
+// Fix for the anchor scroll + fixed header bug
+//
+// This is the result of a lot of trial and error, as well as code adapted from
+// http://nicolasgallagher.com/jump-links-and-viewport-positioning/ and
+// http://nicolasgallagher.com/jump-links-and-viewport-positioning/demo/#method-C
+//
+// Ultimately different solutions are required for different elements, depending
+// on whether they are block-level or inline.
+//
+// To adjust scroll-height to account for the fixed header when the target is a
+// block-level element (<li>, <figure>, <table>):
+//
+:target[id^="fn:"],
+:target[id^="fig"],
+:target[id^="table"],
+:target[id="essay-text"],
+:target[id="notes"],
+:target[id="notes"],
+:target[id="bibliography"],
+:target[id="citation-information"] {
+  -webkit-background-clip: content-box;
+  background-clip: content-box;
+  margin-top: -60px;
+  padding-top: 60px;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+// To adjust scroll height to account for the fixed header when the target is an
+// inline-level element (like when returning to the <span> footnote marker in the
+// essay text):
+//
+:target[id^="fnref"]::before {
+  content: "";
+  display: inline-block;
+  height: 70px;
+  margin: -60px 0 0;
+}
 
 // The following is just used for the temporary Figures Documentation page.
 
