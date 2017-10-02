@@ -10465,7 +10465,7 @@
 	      var $tables = $('.js-figure-table');
 	      var $searchEl = $('#js-search');
 
-	      this.anchorScroll(window.location.hash);
+	      // this.anchorScroll(window.location.hash)
 	      this.citationDate();
 
 	      $figures.click(function (e) {
