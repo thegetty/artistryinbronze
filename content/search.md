@@ -5,4 +5,5 @@ url: search
 menu: false
 type: search
 online: false
+pdf: false
 ---
