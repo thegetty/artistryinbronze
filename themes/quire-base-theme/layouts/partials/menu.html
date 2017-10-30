@@ -61,18 +61,12 @@
         <div class="quire-menu__inner__links__citation">
           <h4>Chicago</h4>
           <p>
-            Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds.
-            <em>Artistry in Bronze: The Greeks and Their Legacy</em>. Los
-            Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017.
-            http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.
+            {{ partial "citation.html" (dict "citeScope" . "citeType" "chicago" ) }}
           </p>
           <h4>MLA</h4>
           <p>
-            Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds.
-            <em>Artistry in Bronze: The Greeks and Their Legacy</em>. J. Paul
-            Getty Museum, 2017, <span class="cite-current-date" id="js-date">D MMMM YYYY</span>,
-            www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
-          <p>
+            {{ partial "citation.html" (dict "citeScope" . "citeType" "mla" ) }}
+          </p>
             <a href="{{ "about/index.html#citation-information" | relURL }}">Full Catalogue Citation</a>
           </p>
         </div>
