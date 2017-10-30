@@ -67,13 +67,13 @@ The head of Arsinoë III in Mantua, however, is the key to understanding her sub
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 I foremost acknowledge Chiara Pisani, conservator of the Museo Civico di Palazzo Te in Mantua, for her generous permission to study the head of Arsinoë III in September 2015 and for our ensuing dialogue. My sincere appreciation also goes to Daniela Saccenti, librarian at the Palazzo Te, for discussing the Acerbi Collection in detail and inspiring me to come back and work more on this material. Special thanks are owed to the organizers of the XIXth International Congress on Ancient Bronzes at the J. Paul Getty Museum, who coordinated the rich program and schedule of events with the *Power and Pathos* exhibition; and especially Jens Daehner, Kenneth Lapatin, and Ambra Spinelli for their work in ensuring the excellence of the proceedings.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 
@@ -120,7 +120,7 @@ I foremost acknowledge Chiara Pisani, conservator of the Museo Civico di Palazzo
 
 [^20]: Fraser (\[1972\] 2001, 2: 862) gives the text for the epigram (P.Cair. 65445) including the vocative address, <span lang="grc">εὐαὶων Πτολεμαῖε</span>. In a disappointing assessment, Fraser seemingly disassociates the Archelaos Relief not only from Ptolemy IV and Arsinoë but from Alexandria itself. The reasons given are not clear. Mention is made of a “later date.”
 
-[^21]:See {{< url-link >}}http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22{{< /url-link >}}.
+[^21]:See {{< q-url-link >}}http://data.perseus.org/citations/urn:cts:greekLit:tlg0545.tlg002.perseus-grc1:13.22{{< /q-url-link >}}.
 
 [^22]: Thompson 2012, 108–9; Bagnall and Rathbone 2004, 100–101, especially fig. 3.4.6.
 

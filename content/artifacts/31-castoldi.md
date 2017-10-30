@@ -66,13 +66,13 @@ I would speculate that these small bronze trees, when they were placed in *larar
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 This paper was given at the XIXth International Bronze Congress; it is published here without significant changes or additions, except in the bibliography. I would like to thank the Organizing Committee for this extremely interesting Bronze Congress and for the warm welcome in Los Angeles. I would also like to thank all my colleagues who helped me with comments, suggestions, and collaborations: Silvia Amicone, Barbara Arbeid, Margherita Bolla, Brunella Bruno, Antonio De Siena, Federica Grossi, Kurt Gschwantler, Kenneth Lapatin, Lucia Mordeglia, Mara Romaniello, and Ambra Spinelli.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

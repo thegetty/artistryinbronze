@@ -57,7 +57,7 @@ The study of Palmyran portraiture shows clearly that there was a continuous proc
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Appendix 1: Palmyran Reliefs with Incised Herringbone Eyebrows
 
@@ -65,7 +65,7 @@ Items are in chronological order; all are *loculus* plaques depicting males unle
 
 {{< q-table id="23-appendix" border="none" caption="" class="plate" label="none" >}}
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

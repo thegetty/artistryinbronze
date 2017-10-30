@@ -68,11 +68,11 @@ Artists who built bronze casting models from pliable wax on what may well have b
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 *Dedicated to the memory of Prof. Dr. Annalis Leibundgut, June 27, 1932–September 13, 2014.*
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

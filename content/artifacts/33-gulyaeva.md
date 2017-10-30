@@ -68,7 +68,7 @@ As a result of our research, it became clear that the items are not entirely fak
 
 [^7]: Nazo 2003, 89‒91, no. 138, plate 47.
 
-[^8]: {{< url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247024{{< /url-link >}}, {{< url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247025{{< /url-link >}}
+[^8]: {{< q-url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247024{{< /q-url-link >}}, {{< q-url-link >}}http://www.metmuseum.org/Collections/search-the-collections/247025{{< /q-url-link >}}
 
 [^9]: Connolly 1981, 94.
 

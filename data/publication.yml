@@ -14,7 +14,7 @@ pub_type: book
 pub_date: 2017-11-01
 language: en
 isbn: 978-1-60606-540-2
-issn: 9999-9999
+issn:
 publisher:
   - name: J. Paul Getty Museum
     location: Los Angeles
@@ -72,15 +72,19 @@ description:
 subject_metadata:
   keywords:
   linked_vocabulary:
-    - type: Person
-      name: Polykleitos
-      url: http://vocab.getty.edu/ulan/500015683
-    - type: Place
-      name: Ephesos
-      url: http://vocab.getty.edu/tgn/7002499
-    - type: Thing
-      name: Corinthian Bronze
-      url: http://vocab.getty.edu/aat/300263090
+    - type:
+      name:
+      url:
+  # linked_vocabulary:
+  #   - type: Person
+  #     name: Polykleitos
+  #     url: http://vocab.getty.edu/ulan/500015683
+  #   - type: Place
+  #     name: Ephesos
+  #     url: http://vocab.getty.edu/tgn/7002499
+  #   - type: Thing
+  #     name: Corinthian Bronze
+  #     url: http://vocab.getty.edu/aat/300263090
   bisac:
     - code:
       subject:

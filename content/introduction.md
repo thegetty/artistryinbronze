@@ -73,4 +73,4 @@ The production of this digital volume—the first in the history of the Bronze C
 <p class="attribution">Los Angeles<br />
 September 2017</p>
 
-[^1]: The original program can be found in the book of abstracts distributed at the time of the meeting and remains available online: {{< url-link >}}http://www.getty.edu/museum/symposia/pdfs_bronze/bronzecongress_getty_schedule.pdf{{< /url-link >}}.
+[^1]: The original program can be found in the book of abstracts distributed at the time of the meeting and remains available online: {{< q-url-link >}}http://www.getty.edu/museum/symposia/pdfs_bronze/bronzecongress_getty_schedule.pdf{{< /q-url-link >}}.

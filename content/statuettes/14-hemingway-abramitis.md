@@ -72,13 +72,13 @@ In conclusion, it is apparent that inlays were used on Greek bronzes from very e
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 This kind of collaborative research among curators, conservators, and research scientists involves the support of many individuals. We wish to thank in particular Thomas P. Campbell, director; Carrie Rebora Barratt, deputy director; Carlos A. Picón, curator in charge of the Department of Greek and Roman Art; Lisa Pilosi, head of the Department of Objects Conservation; Marco Leona, head of the Department of Scientific Research; and Federico Caro, Elena Basso, and Mark Wypyski, research scientists, for their assistance with the scientific analyses, as well as Michael Baran and Lillian Bartlett Stoner, all of the Metropolitan Museum of Art, New York.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

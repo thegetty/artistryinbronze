@@ -58,7 +58,7 @@ Of particular interest is a miniature bronze kithara, which the Akademisches Kun
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Catalogue
 
@@ -92,7 +92,7 @@ Cat. 13. Seated griffin. Art market. H: 3.9 cm. Findspot unknown. Published: *An
 
 A lively discussion followed my presentation on October 17, 2015, at the XIXth International Congress on Ancient Bronzes at the Getty Center, Los Angeles. For suggestions and references, I am grateful to J. Daehner, N. Gulyaeva, D. Ignatiadou, C. Mattusch, and J. Pollini. For images, permissions, and additional information I should also like to thank R. Aleotti (Reggio Emilia), M. Bernabò Brea (Parma), M. Bolla (Verona), S. Culpepper Stroup (Washington), W. Geominy (Bonn), L. Hagel (Santa Barbara), F. Knauß (Munich), G. Lindström (Berlin), R. Macellari (Reggio Emilia), A. Paolucci (Rome), J. Rageth (Chur), M. Sannibale (Rome), E. Stern (Tel Dor Excavation), D. Tisserand (Lyon), and A. Viani (Reggio Emilia).
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

@@ -9,6 +9,10 @@
   font-size: 0.9rem;
 }
 
+.quire-cover__inner__contributor ul li:first-child {
+  font-weight: 300;
+}
+
 .quire-body.quire-body-type--cover .quire-nav-group {
   background-color: #542E15;
 }
@@ -294,38 +298,6 @@ table#table-23-appendix ul {
     margin-bottom: 0;
   }
 
-  #copyright .quire-page,
-  #contents .quire-page {
-    page: no-footer;
-  }
-
-  #copyright .quire-page {
-    font-size: 6.5pt;
-    line-height: 10.5pt;
-    margin-right: 2in;
-  }
-
-  #copyright .quire-page__header {
-    display: none;
-  }
-
-  #copyright .quire-page__content {
-    column-count: 1;
-  }
-
-  #contents .quire-contents {
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  #contents ul.quire-contents .quire-contents__page:first-child {
-    display: none;
-  }
-
-  #contents ul.quire-contents ul .quire-contents__page:first-child {
-    display: list-item;
-  }
-
   .quire-body#introduction {
     counter-reset: page 1;
     /*page-break-before: right;*/
@@ -333,14 +305,6 @@ table#table-23-appendix ul {
 
   .quire-body#introduction .quire-page {
     page: intro;
-  }
-
-  .quire-contents__section a::after {
-    content: none;
-  }
-
-  .quire-contents__section ul a::after {
-    content: leader(dotted) ' ' target-counter(attr(href, url), page);
   }
 
   .quire-body.quire-body-type--cover .quire-nav-group {

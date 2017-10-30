@@ -67,13 +67,13 @@ Research on Delphic bronze vessels and instruments also seeks to record and expl
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 The research on metal vessels and related *instrumenta* at Delphi is conducted in the frame of the Contrat Quinquennal of the École Française d’Athènes under the auspices of the local Ephoria. I would also like to acknowledge the Alexander S. Onassis Public Benefit Foundation in Athens and the Scuola Archeologica Italiana di Atene for their support and the research facilities provided.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

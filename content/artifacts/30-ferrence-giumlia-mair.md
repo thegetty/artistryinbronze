@@ -73,13 +73,13 @@ The XRF analyses have demonstrated that the copper-based objects from Gournia pr
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 We thank the Penn Museum for permission to study, analyze, and publish the metal objects from Gournia. We gratefully acknowledge funding provided by the Institute for Aegean Prehistory (INSTAP), Philadelphia, PA. We are indebted to Philip Betancourt, our friend and colleague, for his support and collaboration.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

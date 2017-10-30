@@ -1,13 +1,14 @@
 ---
 title: Copyright
 type: page
+class: copyright
 weight: 3
 online: false
 menu: false
 toc: false
 ---
 
-The free online edition of this book is available at {{< url-link >}}http://www.getty.edu/publications/artistryinbronze{{< /url-link >}} and includes zoomable figures and tables. Also available are free PDF, EPUB, and MOBI downloads of the book.
+The free online edition of this book is available at {{< q-url-link >}}http://www.getty.edu/publications/artistryinbronze{{< /q-url-link >}} and includes zoomable figures and tables. Also available are free PDF, EPUB, and MOBI downloads of the book.
 
 {{< q-copyright >}}
 

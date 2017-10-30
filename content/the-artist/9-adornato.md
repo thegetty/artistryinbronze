@@ -62,13 +62,13 @@ This notwithstanding, the notion of a “Severe style period” need not be expu
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 This paper is part of a wider project on a technical lexicon and art criticism in ancient sources: thanks to a National Research Fund (PRIN 2012), as Principal Investigator I am currently working on a new edition of and commentary on Pliny the Elder’s Books of Art. I am grateful to Jens Daehner for his invaluable comments on the manuscript.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

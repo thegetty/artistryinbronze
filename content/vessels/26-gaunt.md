@@ -68,13 +68,13 @@ The impression that the sheer opulence of the Derveni krater is in some ways con
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 My warmest thanks to the congress organizers, Jens Daehner, Kenneth Lapatin, and Ambra Spinelli, as well as Jeffrey Spier and Paige-Marie Ketner. For valuable discussions, I thank Günter Kopcke and Andrew Stewart.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

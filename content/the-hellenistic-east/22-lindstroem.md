@@ -68,13 +68,13 @@ Trudy S. Kawami (1987) noted that “the presence of such an important work so f
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 This work was supported by the Fritz Thyssen Stiftung. My thanks go also to Dr. Jebrael Nokandeh, the director of the National Museum of Iran, who enabled the investigations, and to the entire museum staff, especially Firouzeh Sepidnameh (head of the Exhibition Department) and Masoumeh Ahmadi (International Affairs). Further thanks go to Ursula Sims-Williams, who drew my attention to the material of the Stein archives in the British Museum.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 
