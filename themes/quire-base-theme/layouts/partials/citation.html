@@ -26,9 +26,9 @@
 
     {{ template "page-author-chicago" $citeScope.Page.Params.contributor }}
 
-    “{{ $citeScope.Page.Params.title }}{{ with $citeScope.Page.Params.subtitle }}: {{ . }}{{ end }}.”
+    “{{ partial "full-title.html" $citeScope.Page.Params }}.”
 
-    In <em>{{ $citeScope.Site.Data.publication.title }}{{ with $citeScope.Site.Data.publication.subtitle }}: {{ . }}{{ end }}</em>,
+    In <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
 
     by {{ template "book-author-chicago" $citeScope.Site.Data.publication.primary_contributor }}
 
@@ -49,9 +49,9 @@
 
     {{ template "page-author-chicago" $citeScope.Site.Data.publication.primary_contributor }}
 
-    “{{ $citeScope.Page.Params.title }}{{ with $citeScope.Page.Params.subtitle }}: {{ . }}{{ end }}.”
+    “{{ partial "full-title.html" $citeScope.Page.Params }}.”
 
-    In <em>{{ $citeScope.Site.Data.publication.title }}{{ with $citeScope.Site.Data.publication.subtitle }}: {{ . }}{{ end }}</em>.
+    In <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>.
 
     {{ $pubLen := len $citeScope.Site.Data.publication.publisher -}}
     {{ if $citeScope.Site.Data.publication.publisher_citation_chicago }}
@@ -77,9 +77,9 @@
 
     {{ template "page-author-mla" $citeScope.Page.Params.contributor }}
 
-    “{{ $citeScope.Page.Params.title }}{{ with $citeScope.Page.Params.subtitle }}: {{ . }}{{ end }}.”
+    “{{ partial "full-title.html" $citeScope.Page.Params }}.”
 
-    <em>{{ $citeScope.Site.Data.publication.title }}{{ with $citeScope.Site.Data.publication.subtitle }}: {{ . }}{{ end }}</em>.
+    <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>.
 
     By {{ template "book-author-mla" $citeScope.Site.Data.publication.primary_contributor }}
 
@@ -97,9 +97,9 @@
 
     {{ template "page-author-mla" $citeScope.Site.Data.publication.primary_contributor }}
 
-    “{{ $citeScope.Page.Params.title }}{{ with $citeScope.Page.Params.subtitle }}: {{ . }}{{ end }}.”
+    “{{ partial "full-title.html" $citeScope.Page.Params }}.”
 
-    <em>{{ $citeScope.Site.Data.publication.title }}{{ with $citeScope.Site.Data.publication.subtitle }}: {{ . }}{{ end }}</em>.
+    <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>.
 
     {{ range $citeScope.Site.Data.publication.publisher }}
       {{ .name }},
