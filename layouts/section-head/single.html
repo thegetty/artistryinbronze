@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="quire-page">
   <header class="quire-page__header">
-    <h1 class="quire-page__header__title"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span> {{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h1>
+    <h1 class="quire-page__header__title"><span>{{ with .Params.id }}{{ . }}. {{ end }}</span> {{ partial "full-title.html" .Page.Params }}</h1>
     <ul class="quire-page__header__contributor">
     {{ range .Params.contributor }}
     <li>{{ .first_name }} {{ .last_name }}, {{ .affiliation }}</li>
@@ -16,7 +16,7 @@
     {{ range (where (where .Site.Pages "Section" $thissection) "Type" "essay") }}
     {{ if and (ne .Params.layout "abstract-only") (ne .Params.online false) }}
     <li class="quire-page__section-list__item">
-      <h2 class="quire-page__section-list__item__title"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</a></h2>
+      <h2 class="quire-page__section-list__item__title"><a href="{{ .Permalink }}">{{ with .Params.id }}{{ . }}. {{ end }}{{ partial "full-title.html" .Params }}</a></h2>
       <ul class="quire-page__section-list__item__contributor">
       {{ range .Params.contributor }}
       <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
@@ -40,7 +40,7 @@
   <ul class="quire-page__section-list">
     {{ range (where (where .Site.Pages "Section" $thissection) "Layout" "abstract-only" ) }}
     <li class="quire-page__section-list__item">
-      <h2 class="quire-page__section-list__item__abstract-only-title">{{ .Title | markdownify }}{{ with .Params.subtitle }}: {{ . | markdownify }}{{ end }}</h2>
+      <h2 class="quire-page__section-list__item__abstract-only-title">{{ partial "full-title.html" .Params }}</h2>
       <ul class="quire-page__section-list__item__contributor">
       {{ range .Params.contributor }}
       <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}, {{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
