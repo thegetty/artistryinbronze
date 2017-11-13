@@ -8,6 +8,12 @@ html {
 
 }
 
+@media screen and (max-width: 690px) {
+  html {
+    font-size: 16px;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -63,6 +69,12 @@ h6 {
 
 h2 {
   font-size: 1.75em;
+}
+
+@media screen and (max-width: 690px) {
+  h2 {
+    font-size: 1.25em;
+  }
 }
 
 hr {
