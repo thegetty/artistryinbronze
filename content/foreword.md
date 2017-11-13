@@ -12,7 +12,6 @@ contributor:
     last_name: Whalen
     title: Director
     affiliation: Getty Conservation Institute
-contributor_byline: bottom
 menu: false
 ---
 
