@@ -1649,7 +1649,8 @@ code {
   .quire-nav svg {
     fill: #994e1a;
     height: 1em;
-    width: 1em; }
+    width: 1em;
+    margin-bottom: -.15em; }
   .quire-nav__section-link::before, .quire-nav__current-page-link::before {
     content: "\203A";
     margin-right: 1rem; }
