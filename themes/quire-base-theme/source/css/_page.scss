@@ -24,6 +24,12 @@
       max-width: 52rem;
     }
 
+    @media screen and (max-width: 690px) {
+      &__title {
+        font-size: 2em;
+      }
+    }
+
     &__contributor {
       color: $mid-neutral;
       font-family: $heading-font-family;
@@ -92,6 +98,12 @@
       h6 + p,
       p:first-child {
         text-indent: 0;
+      }
+
+      @media screen and (max-width: 690px) {
+        h2 {
+          font-size: 1.25em;
+        }
       }
 
       blockquote > p {

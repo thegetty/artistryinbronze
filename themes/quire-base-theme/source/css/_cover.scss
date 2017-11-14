@@ -93,6 +93,7 @@
 .quire-cover__content {
   max-width: 40rem;
   margin: 4em auto 6em;
+  padding: 0 5vw;
 
   p {
     text-indent: 0;
@@ -106,7 +107,7 @@
   justify-content: space-between;
   font-size: .8rem;
   line-height: 1.5em;
-  padding: 2em;
+  padding: 5vw;
   font-weight: 400;
   color: #706c6d;
 
@@ -118,6 +119,7 @@
 
   &__text {
     max-width: 40rem;
+    padding-right: 1rem;
     p {
       text-indent: 0;
     }
@@ -130,6 +132,7 @@
       li {
         list-style-type: none;
         margin-right: .25em;
+        white-space: pre;
       }
       li::after {
         padding-left: .25em;
@@ -154,10 +157,12 @@
     padding-top: .25em;
   }
 
-  &__logo svg {
-    fill: #706c6d;
-    width: 3.5em;
-    height: 3.5em;
+  &__logo {
+    svg {
+      fill: #706c6d;
+      width: 3.5em;
+      height: 3.5em;
+    }
   }
 
 }

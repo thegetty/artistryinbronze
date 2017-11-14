@@ -1,4 +1,8 @@
 
+
+
+
+
 .quire-menu {
 
     float: left;
@@ -151,4 +155,10 @@
 
   }
 
+}
+
+@media screen and (max-width: 690px) {
+  .quire-menu {
+    width: 100%;
+  }
 }
