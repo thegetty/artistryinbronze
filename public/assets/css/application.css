@@ -1457,10 +1457,6 @@ h6 {
 h2 {
   font-size: 1.75em; }
 
-@media screen and (max-width: 690px) {
-  h2 {
-    font-size: 1.25em; } }
-
 hr {
   border: 0;
   margin: 2rem 0;
@@ -1773,6 +1769,10 @@ code {
       .quire-menu__inner__footer img {
         display: none; }
 
+@media screen and (max-width: 690px) {
+  .quire-menu {
+    width: 100%; } }
+
 .quire-search {
   position: absolute;
   right: 1rem;
@@ -1930,7 +1930,8 @@ code {
 
 .quire-cover__content {
   max-width: 40rem;
-  margin: 4em auto 6em; }
+  margin: 4em auto 6em;
+  padding: 0 5vw; }
   .quire-cover__content p {
     text-indent: 0;
     margin-bottom: 1em; }
@@ -1940,7 +1941,7 @@ code {
   justify-content: space-between;
   font-size: .8rem;
   line-height: 1.5em;
-  padding: 2em;
+  padding: 5vw;
   font-weight: 400;
   color: #706c6d; }
   .quire-cover__footer a {
@@ -1948,7 +1949,8 @@ code {
     text-decoration: underline;
     text-decoration-skip: ink; }
   .quire-cover__footer__text {
-    max-width: 40rem; }
+    max-width: 40rem;
+    padding-right: 1rem; }
     .quire-cover__footer__text p {
       text-indent: 0; }
     .quire-cover__footer__text ul {
@@ -1959,7 +1961,8 @@ code {
       margin-top: .5em; }
       .quire-cover__footer__text ul li {
         list-style-type: none;
-        margin-right: .25em; }
+        margin-right: .25em;
+        white-space: pre; }
       .quire-cover__footer__text ul li::after {
         padding-left: .25em;
         content: "|"; }
@@ -1996,6 +1999,9 @@ code {
       margin: auto;
       margin-bottom: 1rem;
       max-width: 52rem; }
+    @media screen and (max-width: 690px) {
+      .quire-page__header__title {
+        font-size: 2em; } }
     .quire-page__header__contributor {
       color: #a29e9f;
       font-family: "Lato", sans-serif;
@@ -2042,6 +2048,9 @@ code {
     .quire-page__content__main h6 + p,
     .quire-page__content__main p:first-child {
       text-indent: 0; }
+    @media screen and (max-width: 690px) {
+      .quire-page__content__main h2 {
+        font-size: 1.25em; } }
     .quire-page__content__main blockquote > p {
       text-indent: 0; }
     .quire-page__content__main ol li,
