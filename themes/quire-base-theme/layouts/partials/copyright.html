@@ -7,7 +7,7 @@
 {{- if .Site.Data.publication.license.name -}}
 
 {{- if .Site.Data.publication.license.icon -}}
-  <img src="../assets/img/{{ .Site.Data.publication.license.icon }}" alt="logo for {{ .Site.Data.publication.license.name }}" />
+  <img src="{{ .Site.BaseURL }}/assets/img/{{ .Site.Data.publication.license.icon }}" alt="logo for {{ .Site.Data.publication.license.name }}" />
 {{- end -}}
 
   <p>
