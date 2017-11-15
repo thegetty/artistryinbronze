@@ -164,12 +164,6 @@ sup {
   white-space: pre;
 }
 
-.force-wrap {
-  overflow-wrap: break-word;
-  word-break: break-word;
-  word-wrap: break-word;
-}
-
 .quire-body {
   @media screen {
     // The .visually-hidden css is from Heydon Pickering’s book Inclusive Design
