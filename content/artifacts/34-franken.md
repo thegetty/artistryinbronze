@@ -80,7 +80,7 @@ Cat. 8. Dwarf. Parma, Museo d’Antichità, inv. B 416. H: 8.3 cm. D: 0.5 cm. Fr
 
 Cat. 9. Victoria. Reggio Emilia, Museo “Gaetano Chierici” di Paletnologia, inv. 15242. H: 12.9 cm. From the surroundings of Reggio Emilia. Published: Bolla 2007/2011, 68–69, no. 46, with ill. [Fig. 34.7](#fig-34-7).
 
-Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H: 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [Fig. 34.8](#fig-34-18).
+Cat. 10. Satyr. Rome, Vatican Museums, Museo Gregoriano Etrusco, inv. 11510. H: 5.8 cm. Findspot unknown. Published: D’Andria 1970, 100, under no. 156. [Fig. 34.8](#fig-34-8).
 
 Cat. 11. Dancing satyr. Santa Barbara, Santa Barbara Museum of Art, inv. 1981.64.18. H: 18.4 cm. Findspot unknown. Unpublished.
 

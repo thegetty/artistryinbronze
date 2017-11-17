@@ -63,9 +63,9 @@ The study of Palmyran portraiture shows clearly that there was a continuous proc
 
 Items are in chronological order; all are *loculus* plaques depicting males unless otherwise noted.
 
-{{< q-table id="23-appendix" border="none" caption="" class="plate" label="none" >}}
-
 {{< /q-backmatter >}}
+
+{{< q-table id="23-appendix" border="none" caption="" class="plate" label="none" >}}
 
 ## Notes
 
