@@ -3,7 +3,7 @@ import lunr from 'lunr'
 import debounce from 'lodash.debounce'
 
 // When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
-const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'https://gettypubs.github.io/artistryinbronze' : ''
+const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : ''
 
 let Search = Vue.extend({
   name: 'Search',
