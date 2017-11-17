@@ -19,7 +19,11 @@ theme: "quire-base-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
-
+disableKinds:
+  - "home"
+  - "section"
+  - "taxonomy"
+  - "taxonomyTerm"
 
 blackfriday:
   fractions: false
