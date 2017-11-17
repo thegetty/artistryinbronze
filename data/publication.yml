@@ -11,7 +11,7 @@ reading_line: XIXth International Congress on Ancient Bronzes
 url: http://www.getty.edu/publications/artistryinbronze
 
 pub_type: book
-pub_date: 2017-11-01
+pub_date: 2017-11-17
 language: en
 isbn: 978-1-60606-540-2
 issn:
@@ -146,21 +146,21 @@ formats:
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.epub
     identifier: 978-1-60606-542-6
-    file_size_mb: 44.3
-    icon:
+    note: 44.3 MB
+    icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.mobi
     identifier: 978-1-60606-542-6
-    file_size_mb: 102.8
+    note: 102.8 MB
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.pdf
     identifier: 978-1-60606-541-9
-    file_size_mb: 15.1
+    note: 15.1 MB
     icon:
   - name: Paperback
     media_type: print
@@ -168,7 +168,8 @@ formats:
     url: https://shop.getty.edu/products/artistry-in-bronze-the-greeks-and-their-legacy-xixth-international-congress-on-ancient-bronzes-978-1606065419
     identifier: 978-1-60606-541-9
     file_size_mb:
-    icon:
+    note:
+    icon: cart-icon
 
 # related_resources:
 #   - name:
@@ -207,7 +208,7 @@ footer_links:
 # REVISIONS & VERSION CONTROL
 
 revision_history:
-  - date: 2017-11-01
+  - date: 2017-11-17
     summary:
       - First edition
-repository_url: http://www.github.com/gettypubs/artistryinbronze
+repository_url: https://www.github.com/gettypubs/artistryinbronze

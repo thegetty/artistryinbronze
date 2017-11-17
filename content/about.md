@@ -24,11 +24,11 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at {{< q-url-link >}}http://www.github.com/gettypubs/artistryinbronze{{< /q-url-link >}}, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at {{< q-url-link >}}https://www.github.com/gettypubs/artistryinbronze{{< /q-url-link >}}, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
 {{< q-revision-history >}}
 
-## Downloads
+## Other Formats
 
 {{< q-link-list "other-formats" >}}
 
