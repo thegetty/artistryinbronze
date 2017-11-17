@@ -144,28 +144,28 @@ formats:
   - name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.epub
     identifier: 978-1-60606-542-6
-    file_size_mb:
+    file_size_mb: 44.3
     icon:
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.mobi
     identifier: 978-1-60606-542-6
-    file_size_mb:
+    file_size_mb: 102.8
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.pdf
     identifier: 978-1-60606-541-9
-    file_size_mb:
+    file_size_mb: 15.1
     icon:
   - name: Paperback
     media_type: print
     link_relation: alternate
-    url: http://shop.getty.edu/products/atistry-in-bronze-978-1606065419
+    url: https://shop.getty.edu/products/artistry-in-bronze-the-greeks-and-their-legacy-xixth-international-congress-on-ancient-bronzes-978-1606065419
     identifier: 978-1-60606-541-9
     file_size_mb:
     icon:
