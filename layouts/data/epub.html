@@ -1,0 +1,44 @@
+{
+  "title": "{{ .Site.Data.publication.title }}: {{ .Site.Data.publication.subtitle }} ({{ .Site.Data.publication.reading_line }})",
+  "cover": "file:///Users/galbers/GitHub/artistryinbronze/public/assets/img/cover_graphic.jpg",
+  "url": "{{ .Site.Data.publication.url }}",
+  "isbn": "{{ .Site.Data.publication.isbn }}",
+  "languages": "{{ .Site.Data.publication.language }}",
+  "date": "{{ .Site.Data.publication.pub_date }}",
+  "creator": [
+    {{ $len := len .Site.Data.publication.primary_contributor -}}
+    {{ range $index, $element := .Site.Data.publication.primary_contributor -}}
+    {
+      "name": "{{ .first_name }} {{ .last_name }}",
+      "role": "{{ .role }}",
+      "file-as": "{{ .last_name }}, {{ .first_name }}"
+    }{{ if ne $index (sub $len 1) }},{{ else }}{{ end }}
+    {{- end }}
+  ],
+  "publisher": [
+    {{ $len := len .Site.Data.publication.publisher -}}
+    {{ range $index, $element := .Site.Data.publication.publisher -}}
+    "{{ .name }}, {{ .location }}"{{ if ne $index (sub $len 1) }},{{ else }}{{ end }}
+    {{- end }}
+  ],
+  "description": "{{ .Site.Data.publication.description.full }}",
+  "rights" : "{{ .Site.Data.publication.copyright }}",
+  "css": "file:///Users/galbers/GitHub/artistryinbronze/public/assets/css/epub.css",
+  "pages": [
+    {{ $epubPages := where (where (where .Site.Pages ".Params.pdf" "!=" "false") ".Type" "!=" "data") ".Params.layout" "!=" "abstract-only" }}
+    {{ $len := len $epubPages -}}
+    {{ range $index, $element := $epubPages -}}
+    {
+      "title": "{{ if eq .Params.layout "abstract-list" }}{{ .Title }} ({{ .Section | humanize | title | plainify }}){{ else }}{{ with .Params.id }}{{ . }}. {{ end }}{{ partial "full-title.html" .Params | plainify }}{{ end }}",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public{{ .URL }}index.html",
+      "href": "{{ if .Section }}{{ .Section | urlize }}{{ if ne .File.BaseFileName "index" }}-{{ .File.BaseFileName }}{{ end }}{{ else }}{{ .File.BaseFileName }}{{ end }}.xhtml",
+      "toc": true
+    }{{ if ne $index (sub $len 1) }},{{ else }}{{ end }}
+    {{- end }}
+  ]
+}
+
+
+
+
+
