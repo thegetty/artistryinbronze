@@ -10538,7 +10538,7 @@
 	    key: 'citationDate',
 	    value: function citationDate() {
 	      var $date = $('.cite-current-date');
-	      var today = (0, _moment2.default)().format("D MMMM YYYY");
+	      var today = (0, _moment2.default)().format("D MMM" + ". " + "YYYY");
 	      $date.empty();
 	      $date.text(today);
 	    }

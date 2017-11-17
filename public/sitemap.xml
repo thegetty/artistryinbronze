@@ -367,8 +367,7 @@
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/</loc>
-    <priority>0</priority>
+    <loc>https://gettypubs.github.io/artistryinbronze/epub.json</loc>
   </url>
   
   <url>
@@ -376,52 +375,7 @@
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/artifacts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/conservation-and-analysis/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/large-scale-bronzes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gettypubs.github.io/artistryinbronze/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/statuettes/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/the-artist/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/the-hellenistic-east/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://gettypubs.github.io/artistryinbronze/vessels/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
