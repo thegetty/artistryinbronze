@@ -51,6 +51,7 @@
         font-size: 100% * $small-font-scale;
         color: $primary-color;
         line-height: 2.3rem;
+        display: block; 
         a {
           font-weight: 700;
         }
@@ -68,6 +69,7 @@
           font-size: 1rem;
           line-height: 1.6em;
           color: $dark-neutral;
+          display: block;
         }
       }
     }

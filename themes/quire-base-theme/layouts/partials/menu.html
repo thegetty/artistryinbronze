@@ -1,13 +1,13 @@
 <div class="quire-menu no-js" role="banner">
   <button class="expander quire-menu__button no-js">
-    <svg width="1em" height="1em"><switch><use xlink:href="#nav-icon"></use><foreignObject><img src="{{ .Site.BaseURL }}/assets/img/icons/nav-icon.png" alt="" /></foreignObject><switch></svg>
+    <svg width="1em" height="1em"><switch><use xlink:href="#nav-icon"></use><foreignObject width="1em" height="1em"><img src="{{ .Site.BaseURL }}/assets/img/icons/nav-icon.png" alt="" /></foreignObject></switch></svg>
     <span class="visually-hidden">Menu</span>
   </button>
   <div class="quire-menu__background">
     <div class="quire-menu__inner">
       <header class="quire-menu__inner__header">
         <h2>
-          <div class="quire-title">
+          <span class="quire-title">
             {{ if ne .Type "cover"}}<a href="{{ .Site.BaseURL }}">{{ end }}
             <span class="visually-hidden">Publication Info: </span>
             {{ .Site.Data.publication.title | markdownify -}}
@@ -17,17 +17,16 @@
             <span class="quire-title__subtitle">
             {{ .Site.Data.publication.subtitle | markdownify }}
             {{ end }}
-
-            {{ if ne .Type "cover"}}</a>{{ end }}
             </span>
+            {{ if ne .Type "cover"}}</a>{{ end }}
 
             <span class="quire-title__reading-line">
               {{ if .Site.Data.publication.reading_line }}
               {{ .Site.Data.publication.reading_line | markdownify }}
               {{ end }}
             </span>
-          </div>
-          <div class="quire-title__contributors">
+          </span>
+          <span class="quire-title__contributors">
             {{- if .Site.Data.publication.contributor_as_it_appears -}}
               {{ .Site.Data.publication.contributor_as_it_appears }}
             {{ else if .Site.Data.publication.primary_contributor }}
@@ -35,7 +34,7 @@
               {{ partial "contributor-list.html" (dict "contributorRange" .Site.Data.publication.primary_contributor) }}
             {{ else }}
             {{- end -}}
-          </div>
+          </span>
         </h2>
       </header>
       <nav class="quire-menu__inner__contents" role="navigation" aria-label="full">
@@ -67,6 +66,7 @@
           <p>
             {{ partial "citation.html" (dict "citeScope" . "citeType" "mla" ) }}
           </p>
+          <p>
             <a href="{{ "about/index.html#citation-information" | relURL }}">Full Catalogue Citation</a>
           </p>
         </div>

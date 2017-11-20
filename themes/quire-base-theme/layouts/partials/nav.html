@@ -49,12 +49,12 @@
 {{- if .Prev -}}
 {{- if and (ne .Prev.Params.online false) (ne .Prev.Type "data") -}}
 <li>
-  <a href="{{ .Prev.Permalink }}" rel="previous" id="js-prev" >
+  <a href="{{ .Prev.Permalink }}" rel="prev" id="js-prev" >
     <svg height="1em" width="1em">
       <switch>
         <use xlink:href="#left-arrow-icon">
         </use>
-        <foreignObject>
+        <foreignObject width="1em" height="1em">
           <img src="{{ .Site.BaseURL }}/assets/img/icons/left-arrow-icon.png" alt="" />
         </foreignObject>
       </switch>
@@ -78,7 +78,7 @@
       <switch>
         <use xlink:href="#right-arrow-icon">
         </use>
-        <foreignObject>
+        <foreignObject width="1em" height="1em">
           <img src="{{ .Site.BaseURL }}/assets/img/icons/right-arrow-icon.png" alt="" />
         </foreignObject>
       </switch>
