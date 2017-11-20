@@ -65,9 +65,11 @@
     border-bottom: solid 1px $light-neutral;
     color: $mid-neutral;
     padding: 0.5rem 0;
-    text-transform: capitalize;
 
-    &__type { display: block; }
+    &__type {
+      display: block;
+      text-transform: capitalize;
+    }
   }
 
 }
