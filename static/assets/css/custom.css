@@ -126,7 +126,9 @@ and not screen and (orientation: landscape) {
   color: #efebec;
 }
 
-.quire-body-type--cover .quire-nav-group svg {
+.quire-body-type--cover .quire-search svg,
+.quire-body-type--cover .quire-menu__button svg,
+.quire-body-type--cover .quire-nav svg {
   fill: #efebec;
 }
 
