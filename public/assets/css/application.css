@@ -1524,6 +1524,14 @@ th {
 .quire-publisher:last-child:after {
   content: ''; }
 
+.quire-body-type--cover .quire-nav-group svg.quire-link-list__icon,
+.quire-link-list__icon {
+  fill: #994e1a;
+  margin-right: 0.5rem; }
+
+.quire-link-list__note {
+  font-weight: 300; }
+
 sup {
   line-height: 0; }
 
@@ -1683,7 +1691,8 @@ code {
   .quire-menu__background {
     height: 100vh;
     background-color: #efebec;
-    padding: 1rem; }
+    padding: 1rem;
+    box-shadow: 0px 0px 10px #a29e9f; }
   .quire-menu__inner {
     overflow: scroll;
     height: 90vh;

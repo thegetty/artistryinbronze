@@ -126,12 +126,31 @@ and not screen and (orientation: landscape) {
   color: #efebec;
 }
 
-.quire-body-type--cover .quire-nav-group svg {
+.quire-body-type--cover .quire-search svg,
+.quire-body-type--cover .quire-menu__button svg,
+.quire-body-type--cover .quire-nav svg {
   fill: #efebec;
 }
 
 .quire-body-type--cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
   fill: #994e1a;
+}
+
+#about .quire-link-list {
+  list-style-type: none;
+  padding-left: .75em;
+}
+
+#about .quire-link-list li:first-child .quire-link-list__icon,
+.quire-menu__inner__links:first-of-type li:first-child .quire-link-list__icon {
+  margin-bottom: -.15em;
+}
+
+#about .quire-link-list li:nth-child(2),
+#about .quire-link-list li:nth-child(3),
+.quire-menu__inner__links:first-of-type ul li:nth-child(2),
+.quire-menu__inner__links:first-of-type ul li:nth-child(3) {
+  margin-left: 1.5em;
 }
 
 .quire-cover__footer {

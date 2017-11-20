@@ -35241,7 +35241,7 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	// When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
-	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'https://gettypubs.github.io/artistryinbronze' : '';
+	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : '';
 
 	var Search = _vue2.default.extend({
 	  name: 'Search',
