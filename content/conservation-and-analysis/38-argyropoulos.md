@@ -82,13 +82,13 @@ The paper presented a case study in which local electrolysis and the use of L-cy
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 The authors would like to thank P. Manti for her useful comments regarding the analyses of the tinned surface. We also thank G. Koutsoflakis from the Ephorate of Underwater Antiquities for his support of our work. The authors would also like to acknowledge that this conservation work was supported by the MERMAID research project that was operated under the THALES action and coordinated by the TEI-A. The research on cysteine and local electrolysis has been co-financed by the European Union (European Social Fund – ESF) and Greek national funds through the Operational Program “Education and Lifelong Learning” of the National Strategic Reference Framework (NSRF) - Research Funding Program: ARCHIMEDES III: Investing in the knowledge society through the European Social Fund.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

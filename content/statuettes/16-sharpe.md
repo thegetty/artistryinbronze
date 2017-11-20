@@ -54,13 +54,13 @@ Although discovered over two hundred years ago, the Paramythia bronzes still hav
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 I wish to thank the Trustees of the British Museum for allowing me to work on this material, and I am especially appreciative to the staff in the Department of Greece and Rome (in particular Judith Swaddling) for their kind assistance. I also wish to convey my gratitude to the Office of Sponsored Research at West Chester University for generously funding this research project.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Appendix: List of the Paramythia Bronzes
 

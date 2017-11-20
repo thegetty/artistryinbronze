@@ -1,3 +1,11 @@
-<ul>{{ range . }}
-  <li><a href="{{ .url }}" target="_blank" rel="{{ .link_relation }}" type="{{ .media_type }}">{{ .name }}{{ if .file_size_mb }} ({{ .file_size_mb }} MB){{ end }}</a></li>{{ end }}
+<ul class="quire-link-list">{{ range . }}
+  <li><a href="{{ .url }}" target="_blank" {{ with .link_relation }}rel="{{ . }}"{{ end }} {{ with .media_type }}type="{{ . }}"{{ end }}>{{ if .icon }}<svg class="quire-link-list__icon" width="1em" height="1em">
+    <switch>
+      <use xlink:href="#{{ .icon }}">
+      </use>
+      <foreignObject>
+        <img src="{{ .Site.BaseURL }}/assets/img/icons/{{ .icon }}.png" alt="" />
+      </foreignObject>
+    </switch>
+  </svg>{{ end }}{{ .name }}{{ with .note }} <span class="quire-link-list__note">— {{ . }}</span>{{ end }}</a></li>{{ end }}
 </ul>

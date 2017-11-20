@@ -11,10 +11,10 @@ reading_line: XIXth International Congress on Ancient Bronzes
 url: http://www.getty.edu/publications/artistryinbronze
 
 pub_type: book
-pub_date: 2017-11-01
+pub_date: 2017-11-17
 language: en
 isbn: 978-1-60606-540-2
-issn: 9999-9999
+issn:
 publisher:
   - name: J. Paul Getty Museum
     location: Los Angeles
@@ -22,6 +22,8 @@ publisher:
   - name: Getty Conservation Institute
     location: Los Angeles
     url: http://www.getty.edu/conservation
+
+publisher_citation_chicago: "Los Angeles: J. Paul Getty Museum; Getty Conservation Institute"
 
 series_periodical_name:
 series_issue_number:
@@ -72,15 +74,19 @@ description:
 subject_metadata:
   keywords:
   linked_vocabulary:
-    - type: Person
-      name: Polykleitos
-      url: http://vocab.getty.edu/ulan/500015683
-    - type: Place
-      name: Ephesos
-      url: http://vocab.getty.edu/tgn/7002499
-    - type: Thing
-      name: Corinthian Bronze
-      url: http://vocab.getty.edu/aat/300263090
+    - type:
+      name:
+      url:
+  # linked_vocabulary:
+  #   - type: Person
+  #     name: Polykleitos
+  #     url: http://vocab.getty.edu/ulan/500015683
+  #   - type: Place
+  #     name: Ephesos
+  #     url: http://vocab.getty.edu/tgn/7002499
+  #   - type: Thing
+  #     name: Corinthian Bronze
+  #     url: http://vocab.getty.edu/aat/300263090
   bisac:
     - code:
       subject:
@@ -98,12 +104,13 @@ copyright: © 2017 J. Paul Getty Trust
 
 license:
   name: Creative Commons Attribution 4.0 International License
-  link_relation: license
+  name_short: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
+  scope: text-only # full | text-only | some-exceptions
   exceptions:
     online:
-    pdf_ebook: images and such
+    pdf_ebook:
     all:
 
 project_team:
@@ -137,31 +144,32 @@ formats:
   - name: EPUB
     media_type: application/epub+zip
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.epub
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.epub
     identifier: 978-1-60606-542-6
-    file_size_mb:
-    icon:
+    note: 44.3 MB
+    icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.mobi
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.mobi
     identifier: 978-1-60606-542-6
-    file_size_mb:
+    note: 102.8 MB
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
-    url: http://www.getty.edu/publications/artistryinbronze/downloads/ArtistryInBronze.pdf
+    url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.pdf
     identifier: 978-1-60606-541-9
-    file_size_mb:
+    note: 15.1 MB
     icon:
   - name: Paperback
     media_type: print
     link_relation: alternate
-    url: http://shop.getty.edu/products/atistry-in-bronze-978-1606065419
+    url: https://shop.getty.edu/products/artistry-in-bronze-the-greeks-and-their-legacy-xixth-international-congress-on-ancient-bronzes-978-1606065419
     identifier: 978-1-60606-541-9
     file_size_mb:
-    icon:
+    note:
+    icon: cart-icon
 
 # related_resources:
 #   - name:
@@ -195,12 +203,12 @@ footer_links:
     file_size_mb:
     icon:
 
-
-
 # REVISIONS & VERSION CONTROL
 
 revision_history:
-  - date: 2017-11-01
+  - date: 2017-11-17
     summary:
       - First edition
-repository_url: http://www.github.com/gettypubs/artistryinbronze
+repository_url: https://www.github.com/gettypubs/artistryinbronze
+
+google_analytics_id: UA-8087223-1

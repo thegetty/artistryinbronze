@@ -1,26 +1,47 @@
 {{ define "main" }}
 <div class="quire-cover__background">
+  {{ if eq .Params.class "video" }}
+  <div class="quire-cover__video-wrapper">
+    <video class="quire-cover__video" playsinline autoplay muted poster="cover_bg.jpg" id="bgvid">
+      <source src="/assets/img/cover_bg.mp4" type="video/mp4">
+      <img src="/assets/img/cover_bg.jpg">
+    </video>
+  </div>
+  {{ end }}
+  <div class="quire-cover__screen"></div>
   <div class="quire-cover__inner">
+    {{ if .Site.Data.publication.series_periodical_name }}
+    <div class="quire-cover__inner__series">
+      {{ .Site.Data.publication.series_periodical_name }}
+    </div>
+    {{ end }}
     {{ if .Site.Data.publication }}
       <h1 class="quire-cover__inner__title">{{ .Site.Data.publication.title | markdownify }}
       {{ with .Site.Data.publication.subtitle }}
       <span class="quire-cover__inner__subtitle">{{ . | markdownify }}</span>
       {{ end }}
       {{ with .Site.Data.publication.reading_line }}
-      <span class="quire-cover__inner__reading-line">{{ . | markdownify }}</span></h1>
+      <span class="quire-cover__inner__reading-line">{{ . | markdownify }}</span>
       {{ end }}
+      </h1>
     {{ else }}
       <h1 class="quire-cover__inner__title">{{ .Site.Title }}</h1>
     {{ end }}
     <div class="quire-cover__inner__contributor">
-      <p>Edited by</p>
-      <ul>
-        {{ range .Site.Data.publication.primary_contributor }}
-        <li>{{ .first_name }} {{ .last_name }}</li>
-        {{ end }}
-      </ul>
+      {{ if .Params.cover_contributor }}
+        {{ markdownify .Params.cover_contributor }}
+      {{ else if .Site.Data.publication.contributor_as_it_appears }}
+        <p>{{ .Site.Data.publication.contributor_as_it_appears }}</p>
+      {{ else }}
+        <ul>
+          {{ range .Site.Data.publication.primary_contributor }}
+          <li>{{ .first_name }} {{ .last_name }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
     </div>
     <div class="quire-cover__inner__publisher quire-noscreen">
+      <img src="../assets/img/gettylogo.png" alt="Getty logo" class="quire-noprint" />
       <p>{{ if .Site.Data.publication.publisher }}<span>{{ range .Site.Data.publication.publisher }}<span class="quire-publisher">{{ .name }}</span>{{ end }}</span>{{ end }}<br />Los Angeles</p>
     </div>
   </div>
@@ -42,10 +63,9 @@
     <switch>
       <use xlink:href="#getty-logo"></use>
       <foreignobject>
-        <img>
+        <img src="{{ .Site.BaseURL }}/assets/img/gettylogo.png" alt="" />
       </foreignobject>
     </switch></svg></a>
   </div>
 </footer>
-
 {{ end }}

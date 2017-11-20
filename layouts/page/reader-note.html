@@ -1,3 +1,10 @@
+{{/*
+
+  Adds handling for a special `reader_note:` in the
+  Introduction (`introduction.md`) of this title.
+  Not something Quire handles natively.
+
+*/}}
 {{ define "main" }}
 <div class="quire-page">
   <header class="quire-page__header">
@@ -24,7 +31,7 @@
     {{ with .Params.reader_note }}
     <section class="quire-page__content__reader-note">
       <hr />
-      <h2 id="#note-to-the-reader">Note to the Reader</h2>
+      <h2 id="note-to-the-reader">Note to the Reader</h2>
       {{ . | safeHTML }}
     <section>
     {{ end }}

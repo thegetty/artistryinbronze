@@ -1,0 +1,368 @@
+{
+  "title": "Artistry in Bronze: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)",
+  "cover": "file:///Users/galbers/GitHub/artistryinbronze/public/assets/img/cover_graphic.jpg",
+  "url": "http://www.getty.edu/publications/artistryinbronze",
+  "isbn": "978-1-60606-540-2",
+  "languages": "en",
+  "date": "2017-11-17",
+  "creator": [
+    {
+      "name": "Jens M. Daehner",
+      "role": "Editor",
+      "file-as": "Daehner, Jens M."
+    },{
+      "name": "Kenneth Lapatin",
+      "role": "Editor",
+      "file-as": "Lapatin, Kenneth"
+    },{
+      "name": "Ambra Spinelli",
+      "role": "Editor",
+      "file-as": "Spinelli, Ambra"
+    }
+  ],
+  "publisher": [
+    "J. Paul Getty Museum, Los Angeles","Getty Conservation Institute, Los Angeles"
+  ],
+  "description": "The papers in this volume derive from the proceedings of the nineteenth International Bronze Congress, held at the Getty Center and Villa in October 2015 in connection with the exhibition *Power and Pathos: Bronze Sculpture of the Hellenistic World*. The study of large-scale ancient bronzes has long focused on aspects of technology and production. Analytical work of materials, processes, and techniques has significantly enriched our understanding of the medium. Most recently, the restoration history of bronzes has established itself as a distinct area of investigation. How does this scholarship bear on the understanding of bronzes within the wider history of ancient art? How do these technical data relate to our ideas of styles and development? How has the material itself affected ancient and modern perceptions of form, value, and status of works of art?",
+  "rights" : "© 2017 J. Paul Getty Trust",
+  "css": "file:///Users/galbers/GitHub/artistryinbronze/public/assets/css/epub.css",
+  "pages": [
+    
+    {
+      "title": "Cover",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/index.html",
+      "href": "index.xhtml",
+      "toc": true
+    },{
+      "title": "Copyright",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/copyright/index.html",
+      "href": "copyright.xhtml",
+      "toc": true
+    },{
+      "title": "Contents",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/contents/index.html",
+      "href": "contents.xhtml",
+      "toc": true
+    },{
+      "title": "International Bronze Congresses and Associated Publications and Exhibitions",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/congresses/index.html",
+      "href": "congresses.xhtml",
+      "toc": true
+    },{
+      "title": "Directors’ Foreword",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/foreword/index.html",
+      "href": "foreword.xhtml",
+      "toc": true
+    },{
+      "title": "Introduction",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/introduction/index.html",
+      "href": "introduction.xhtml",
+      "toc": true
+    },{
+      "title": "I. Large-Scale Bronzes",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/index.html",
+      "href": "large-scale-bronzes.xhtml",
+      "toc": true
+    },{
+      "title": "1. The Bronze Athlete from Ephesos",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/1-plattner-gschwantler-vak/index.html",
+      "href": "large-scale-bronzes-1-plattner-gschwantler-vak.xhtml",
+      "toc": true
+    },{
+      "title": "2. Was the Colossus of Rhodes Cast in Courses or in Large Sections?",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/2-vedder/index.html",
+      "href": "large-scale-bronzes-2-vedder.xhtml",
+      "toc": true
+    },{
+      "title": "3. Bronzes from the Aegean Sea: A Reassessment of Old and New Finds",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/3-koutsouflakis/index.html",
+      "href": "large-scale-bronzes-3-koutsouflakis.xhtml",
+      "toc": true
+    },{
+      "title": "4. A Royal Macedonian Portrait Head from the Sea off Kalymnos",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/4-palagia/index.html",
+      "href": "large-scale-bronzes-4-palagia.xhtml",
+      "toc": true
+    },{
+      "title": "5. The Bronze Head of Arsinoë III in Mantua and the Typology of Ptolemaic Divinization on the Archelaos Relief",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/5-butz/index.html",
+      "href": "large-scale-bronzes-5-butz.xhtml",
+      "toc": true
+    },{
+      "title": "6. The Apollo from Salerno: Hellenistic Influence in Southern Italy",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/6-pacifico/index.html",
+      "href": "large-scale-bronzes-6-pacifico.xhtml",
+      "toc": true
+    },{
+      "title": "7. Tiberius from Herculaneum: Methods of Assembling a Monumental Bronze Portrait",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/7-risser/index.html",
+      "href": "large-scale-bronzes-7-risser.xhtml",
+      "toc": true
+    },{
+      "title": "8. When a Statue Is Not a Statue",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/8-mattusch/index.html",
+      "href": "large-scale-bronzes-8-mattusch.xhtml",
+      "toc": true
+    },{
+      "title": "Abstracts (Large Scale Bronzes)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/large-scale-bronzes/abstracts/index.html",
+      "href": "large-scale-bronzes-abstracts.xhtml",
+      "toc": true
+    },{
+      "title": "II. The Artist",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/index.html",
+      "href": "the-artist.xhtml",
+      "toc": true
+    },{
+      "title": "9. More Than Holes! An Unconventional Perspective of the “Greek Revolution” in Bronze Statuary",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/9-adornato/index.html",
+      "href": "the-artist-9-adornato.xhtml",
+      "toc": true
+    },{
+      "title": "10. Polykleitos and His Followers at Work: How the Doryphoros Was Used",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/10-haga-et-al/index.html",
+      "href": "the-artist-10-haga-et-al.xhtml",
+      "toc": true
+    },{
+      "title": "11. Looking at the Bronze of Lost Sculptures: The Reception of the Delphic Monument of the Admirals in the Imperial Age",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/11-falaschi/index.html",
+      "href": "the-artist-11-falaschi.xhtml",
+      "toc": true
+    },{
+      "title": "12. Mobility and Migration: Issues Concerning Itinerant Sculptors",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/12-horne/index.html",
+      "href": "the-artist-12-horne.xhtml",
+      "toc": true
+    },{
+      "title": "Abstract (The Artist)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-artist/abstract/index.html",
+      "href": "the-artist-abstract.xhtml",
+      "toc": true
+    },{
+      "title": "III. Statuettes",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/index.html",
+      "href": "statuettes.xhtml",
+      "toc": true
+    },{
+      "title": "13. Assertions by the Portable: What Can Bronze Statuettes Tell Us about Major Classical Sculpture?",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/13-barr-sharrar/index.html",
+      "href": "statuettes-13-barr-sharrar.xhtml",
+      "toc": true
+    },{
+      "title": "14. The Use of Inlays in Early Greek Bronzes",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/14-hemingway-abramitis/index.html",
+      "href": "statuettes-14-hemingway-abramitis.xhtml",
+      "toc": true
+    },{
+      "title": "15. The Poet as Artisan: A Hellenistic Bronze Statuette in the Metropolitan Museum of Art",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/15-mcgowan/index.html",
+      "href": "statuettes-15-mcgowan.xhtml",
+      "toc": true
+    },{
+      "title": "16. The Paramythia Bronzes: Expressions of Cultural Identity in Roman Epirus",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/16-sharpe/index.html",
+      "href": "statuettes-16-sharpe.xhtml",
+      "toc": true
+    },{
+      "title": "17. Roman Bronze Figurines of Deities in the National Archaeological Museum of the Marche (Ancona)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/17-frapiccini/index.html",
+      "href": "statuettes-17-frapiccini.xhtml",
+      "toc": true
+    },{
+      "title": "18. Function and Use of Roman Medium-Sized Statuettes in the Northwestern Provinces",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/18-kaufmann/index.html",
+      "href": "statuettes-18-kaufmann.xhtml",
+      "toc": true
+    },{
+      "title": "19. Through Celts and Romans: Technology and Symbolism of Bronze Enameled Roosters",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/19-grossi/index.html",
+      "href": "statuettes-19-grossi.xhtml",
+      "toc": true
+    },{
+      "title": "20. Representations of Zeus/Jupiter in Bronze Statuettes from Albania",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/20-veseli/index.html",
+      "href": "statuettes-20-veseli.xhtml",
+      "toc": true
+    },{
+      "title": "Abstracts (Statuettes)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/statuettes/abstracts/index.html",
+      "href": "statuettes-abstracts.xhtml",
+      "toc": true
+    },{
+      "title": "IV. The Hellenistic East",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-hellenistic-east/index.html",
+      "href": "the-hellenistic-east.xhtml",
+      "toc": true
+    },{
+      "title": "21. The Influence of East and West on Bronze Objects Found in Central Anatolia: Small Bronze Finds from Kaman-Kalehöyük",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-hellenistic-east/21-paterakis/index.html",
+      "href": "the-hellenistic-east-21-paterakis.xhtml",
+      "toc": true
+    },{
+      "title": "22. The Portrait of a Hellenistic Ruler in the National Museum of Iran",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-hellenistic-east/22-lindstroem/index.html",
+      "href": "the-hellenistic-east-22-lindstroem.xhtml",
+      "toc": true
+    },{
+      "title": "23. The Influence of Bronze-Working on Roman Provincial Stone Sculpture: The Case of Palmyra",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-hellenistic-east/23-albertson/index.html",
+      "href": "the-hellenistic-east-23-albertson.xhtml",
+      "toc": true
+    },{
+      "title": "Abstracts (The Hellenistic East)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/the-hellenistic-east/abstracts/index.html",
+      "href": "the-hellenistic-east-abstracts.xhtml",
+      "toc": true
+    },{
+      "title": "V. Vessels",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/index.html",
+      "href": "vessels.xhtml",
+      "toc": true
+    },{
+      "title": "24. Bronze Vessels from the Acropolis and the Definition of the Athenian Production in Archaic and Early Classical Periods",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/24-tarditi/index.html",
+      "href": "vessels-24-tarditi.xhtml",
+      "toc": true
+    },{
+      "title": "25. Bronze Vessels and Related Instrumenta at Delphi: Remarks on Morphology, Provenance, and Chronology",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/25-meirano/index.html",
+      "href": "vessels-25-meirano.xhtml",
+      "toc": true
+    },{
+      "title": "26. Toward the Derveni Krater: On the Rarity of Large Bronze Vessels of the Archaic and Classical Periods Bearing Large Figural Registers",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/26-gaunt/index.html",
+      "href": "vessels-26-gaunt.xhtml",
+      "toc": true
+    },{
+      "title": "27. Iconography of the Sea World on Late Hellenistic Bronze Vessels",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/27-dedecker/index.html",
+      "href": "vessels-27-dedecker.xhtml",
+      "toc": true
+    },{
+      "title": "28. An Anthropomorphic Vessel in the National Museum of Beirut",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/28-fani/index.html",
+      "href": "vessels-28-fani.xhtml",
+      "toc": true
+    },{
+      "title": "29. Hellenistic, Roman, and Byzantine Influence in the Consolidation of Fatimid Metalware",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/vessels/29-lester/index.html",
+      "href": "vessels-29-lester.xhtml",
+      "toc": true
+    },{
+      "title": "VI. Artifacts",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/index.html",
+      "href": "artifacts.xhtml",
+      "toc": true
+    },{
+      "title": "30. Minoan Status Symbols: Tweezers, “Weaving Hooks,” and Cosmetic Scrapers",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/30-ferrence-giumlia-mair/index.html",
+      "href": "artifacts-30-ferrence-giumlia-mair.xhtml",
+      "toc": true
+    },{
+      "title": "31. Bronze Trees from the Greek to the Roman World",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/31-castoldi/index.html",
+      "href": "artifacts-31-castoldi.xhtml",
+      "toc": true
+    },{
+      "title": "32. Bronze Medical and Writing Cases in Classical and Hellenistic Macedonia",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/32-ignatiadou/index.html",
+      "href": "artifacts-32-ignatiadou.xhtml",
+      "toc": true
+    },{
+      "title": "33. A Group of Items from the Campana Collection as an Example of Nineteenth-Century Restoration",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/33-gulyaeva/index.html",
+      "href": "artifacts-33-gulyaeva.xhtml",
+      "toc": true
+    },{
+      "title": "34. Roman Silhouette Figures: A Contribution to Music Archaeology?",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/34-franken/index.html",
+      "href": "artifacts-34-franken.xhtml",
+      "toc": true
+    },{
+      "title": "Abstracts (Artifacts)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/artifacts/abstracts/index.html",
+      "href": "artifacts-abstracts.xhtml",
+      "toc": true
+    },{
+      "title": "VII. Conservation and Analysis",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/index.html",
+      "href": "conservation-and-analysis.xhtml",
+      "toc": true
+    },{
+      "title": "35. Sustainable Conservation of Bronze Artworks: Advanced Research in Materials Science",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/35-casaletto/index.html",
+      "href": "conservation-and-analysis-35-casaletto.xhtml",
+      "toc": true
+    },{
+      "title": "36. Investigating Ancient “Bronzes”: Non-Destructive Analysis of Copper-Based Alloys",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/36-tykot/index.html",
+      "href": "conservation-and-analysis-36-tykot.xhtml",
+      "toc": true
+    },{
+      "title": "37. A Scientific Assessment of the Long-Term Protection of Incralac Coatings on Ancient Bronze Collections in the National Archaeological Museum and the Epigraphic and Numismatic Museum in Athens, Greece",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/37-boyatzis/index.html",
+      "href": "conservation-and-analysis-37-boyatzis.xhtml",
+      "toc": true
+    },{
+      "title": "38. New Approaches in Stabilizing Chloride-Contaminated Ancient Bronzes Using Corrosion Inhibitors and/or Electrochemical Methods to Preserve Information in the Patinas",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/38-argyropoulos/index.html",
+      "href": "conservation-and-analysis-38-argyropoulos.xhtml",
+      "toc": true
+    },{
+      "title": "39. Conservation Treatments and Archaeometallurgical Insights on the Medici Riccardi Horse Head",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/39-salvioli/index.html",
+      "href": "conservation-and-analysis-39-salvioli.xhtml",
+      "toc": true
+    },{
+      "title": "40. The Cleveland Apollo: Recent Research and Revelations",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/40-northover/index.html",
+      "href": "conservation-and-analysis-40-northover.xhtml",
+      "toc": true
+    },{
+      "title": "41. The Getty Herm of Dionysos: Technical Observations, Review, and Interpretation",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/41-maish/index.html",
+      "href": "conservation-and-analysis-41-maish.xhtml",
+      "toc": true
+    },{
+      "title": "42. A Technological Reexamination of the Piombino Apollo",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/42-mille-descamps/index.html",
+      "href": "conservation-and-analysis-42-mille-descamps.xhtml",
+      "toc": true
+    },{
+      "title": "43. New Results on the Alloys of the Croatian Apoxyomenos",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/43-vidovic/index.html",
+      "href": "conservation-and-analysis-43-vidovic.xhtml",
+      "toc": true
+    },{
+      "title": "44. The Bronze Sculpture of Alexander the Great on Horseback: An Archaeometallurgical Study",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/44-siano/index.html",
+      "href": "conservation-and-analysis-44-siano.xhtml",
+      "toc": true
+    },{
+      "title": "45. The Auloi from Meroë: Preliminary Notes on the Conservation, Technical Examination, and Interpretation of a Cache of Ancient Musical Instruments",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/45-gansicke/index.html",
+      "href": "conservation-and-analysis-45-gansicke.xhtml",
+      "toc": true
+    },{
+      "title": "46. A Defined Protocol for In Situ Micro-XRF Compositional Analysis of Bronze Figurines from the National Museum of Damascus, Syria",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/46-kantarelou/index.html",
+      "href": "conservation-and-analysis-46-kantarelou.xhtml",
+      "toc": true
+    },{
+      "title": "47. Is There an Ultimate Authority in Authenticity? Testing and Retesting Alexander the Great",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/47-anderson-eremin-lie-bewer/index.html",
+      "href": "conservation-and-analysis-47-anderson-eremin-lie-bewer.xhtml",
+      "toc": true
+    },{
+      "title": "Abstracts (Conservation and Analysis)",
+      "body": "file:///Users/galbers/GitHub/artistryinbronze/public/conservation-and-analysis/abstracts/index.html",
+      "href": "conservation-and-analysis-abstracts.xhtml",
+      "toc": true
+    }
+  ]
+}
+
+
+
+
+

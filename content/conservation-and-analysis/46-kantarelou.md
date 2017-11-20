@@ -115,13 +115,13 @@ Within the PROMET project, a portable micro-XRF spectrometer, based on an indust
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 We would like to thank Mr. Eythimios Bistekos for his technical assistance during the in situ campaign in Damascus, Syria, and Dr. Demetrios Anglos for providing us with the reference bronze standards. We are also grateful to Dr. Maamoun Abdulkarim, Mr. Maher Azar, the staff of the Ministry of Culture of Syria, and the curators of the National Museum of Damascus for granting us the permission to study the unique gilded bronze figurines, for their hospitality, and for overall assistance during our campaign.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

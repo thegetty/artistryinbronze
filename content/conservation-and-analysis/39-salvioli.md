@@ -131,13 +131,13 @@ The archaeometallurgical study also allowed us to identify all the additions int
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 The conservation project and archaeometallurgical investigation of the Medici Riccardi horse head was funded by the Friends of Florence, a U.S. 501(c\)(3) nonprofit organization supported by individuals who are dedicated to preserving and enhancing the cultural and historical integrity of the arts in the city and surrounding area of Florence, Italy.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

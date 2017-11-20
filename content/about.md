@@ -12,11 +12,11 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ### Chicago
 
-<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
+<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
 
 ### MLA
 
-<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy</em>. J. Paul Getty Museum, 2017, <span class="cite-current-date">D MMMM YYYY</span>, http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
+<p>Daehner, Jens M., et al., editors. <em>Artistry in Bronze: The Greeks and Their Legacy: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. J. Paul Getty Museum, 2017. www.getty.edu&#8203;/publications&#8203;/artistryinbronze. Accessed <span class="cite-current-date" id="js-date">D MMMM YYYY</span>.</p>
 
 ### Permanent URL
 
@@ -24,11 +24,11 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ## Revision History
 
-Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at {{< url-link >}}http://www.github.com/gettypubs/artistryinbronze{{< /url-link >}}, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
+Any revisions or corrections made to this publication after the first edition date will be listed here and in the project repository at {{< q-url-link >}}https://www.github.com/gettypubs/artistryinbronze{{< /q-url-link >}}, where a more detailed version history is available. The revisions branch of the project repository, when present, will also show any changes currently under consideration but not yet published here.
 
 {{< q-revision-history >}}
 
-## Downloads
+## Other Formats
 
 {{< q-link-list "other-formats" >}}
 

@@ -188,13 +188,13 @@ In 2015, a three-dimensional model of the Athlete was generated to build the cus
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 Bettina Vak wishes to give special thanks to Erik Risser for assistance and support in all respects as well as helping to install and de-install the fragile Athlete six times; and for designing and assembling the transport cage together with B. J. Farrar; to Rita Gomez for the control of vibration in the crate; to John Twilley for the extensive mortar analysis; to her colleagues Angelika Kathrein, Michael Loacker, Martina Griesser, and Václav Pitthard from the Kunsthistorisches Museum, Vienna; and to the TÜV Austria for performing the X-radiography.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 
@@ -369,4 +369,4 @@ Bettina Vak wishes to give special thanks to Erik Risser for assistance and supp
 
 [^74]: The scan was provided by Christian Kurtze, Austrian Archeological Institute.
 
-[^75]: A video clip of staff assembling the cage around the statue is available at: {{< url-link >}}http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/{{< /url-link >}}.
+[^75]: A video clip of staff assembling the cage around the statue is available at: {{< q-url-link >}}http://www.khm.at/erfahren/forschung/forschungsprojekte/antikensammlung/der-schaber-von-ephesos/{{< /q-url-link >}}.

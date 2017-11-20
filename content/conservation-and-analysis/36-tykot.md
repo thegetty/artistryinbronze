@@ -120,13 +120,13 @@ The use of non-destructive analytical techniques provides many opportunities for
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 I appreciate very much the assistance of Robert Bowers on creating copper-based metal calibration curves; colleagues Nancy de Grummond, Martin Guggisberg, Mads Ravn, Renee Stein, and Andrea Vianello for their roles in the case studies presented in this article; and the many officials and museum staff involved in providing permission and access to the objects for these non-destructive analyses. Funding for some of this research comes from Emory University, Florida State University, and the University of South Florida.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

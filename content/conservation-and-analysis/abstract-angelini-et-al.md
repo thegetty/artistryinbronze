@@ -33,13 +33,13 @@ toc: false
 ## Bibliography
 
 Alpine Archaeocopper Project
-: {{< url-link >}}http://geo.geoscienze.unipd.it/aacp/welcome.html{{< /url-link >}}
+: {{< q-url-link >}}http://geo.geoscienze.unipd.it/aacp/welcome.html{{< /q-url-link >}}
 
 Arias 1986
 : Arias, P. E. 1986. “Analisi critica delle statue \[The Critical Analysis of the Statues\].” In *Gli Eroi venuti dal mare*, ed. L. M. Lombardi Satriani, et al. 39–64. Università della Calabria, Studi e Ricerche 19. Gangemi: Università della Calabria.
 
 BRETTSCAIFE.net
-: {{< url-link >}}http://brettscaife.net/lead/data/index.html{{< /url-link >}}
+: {{< q-url-link >}}http://brettscaife.net/lead/data/index.html{{< /q-url-link >}}
 
 OXALID
-: {{< url-link >}}http://oxalid.arch.ox.ac.uk/{{< /url-link >}}
+: {{< q-url-link >}}http://oxalid.arch.ox.ac.uk/{{< /q-url-link >}}

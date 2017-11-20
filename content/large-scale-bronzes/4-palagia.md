@@ -53,13 +53,13 @@ In sum, the bronze head appears to represent a king of Macedonia of the late thi
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
 I would like to thank Hans Goette for the photo in [fig. 4.4](#fig-4-4); Andrew Meadows for the photo in [fig. 4.5](#fig-4-5); and Ute Wartenberg Kagan for the photo in [fig. 4.8](#fig-4-8). Thanks also to George Koutsouflakis and Despina Ignatiadou for advice and suggestions.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 

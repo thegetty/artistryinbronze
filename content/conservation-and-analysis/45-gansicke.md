@@ -107,7 +107,7 @@ Future study sessions with the team members within the next year are anticipated
 
 ---
 
-{{< backmatter >}}
+{{< q-backmatter >}}
 
 ## Acknowledgments
 
@@ -115,7 +115,7 @@ Special thanks for contributions and support of the project are due to Damon Bea
 
 Thanks are also due to Richard  Newman, head of scientific research, and Michele Derrick, Schorr Family Associate Research Scientist, MFA, Boston, for the alloy analysis and examination of the cross section.
 
-{{< /backmatter >}}
+{{< /q-backmatter >}}
 
 ## Notes
 
@@ -139,7 +139,7 @@ Thanks are also due to Richard  Newman, head of scientific research, and Michele
 
 [^10]: Bodley 1946, 217.
 
-[^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. {{< url-link >}}http://www.mfa.org/collections/conservation/feature_auloiofmeroe{{< /url-link >}}.
+[^11]: This project was funded by generous donations from members of the Visiting Committees of the Departments of Musical Instruments, Art of the Ancient World, and Conservation and Collections Management, Museum of Fine Arts, Boston. {{< q-url-link >}}http://www.mfa.org/collections/conservation/feature_auloiofmeroe{{< /q-url-link >}}.
 
 [^12]: Hagel 2012a.
 

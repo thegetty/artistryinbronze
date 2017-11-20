@@ -489,6 +489,9 @@ $print-page-number-size: 7.5pt;
     .quire-cover__background {
       background-image: none;
     }
+    .quire-cover__video-wrapper {
+      display: none;
+    }
     .quire-cover__inner {
       page-break-before: right;
       margin: 0;
@@ -516,6 +519,23 @@ $print-page-number-size: 7.5pt;
     }
   }
 
+  // ---- COPYRIGHT PAGE ---- //
+
+  .quire-body-class--copyright {
+    .quire-page {
+      page: no-footer;
+      font-size: 6.5pt;
+      line-height: 10.5pt;
+      margin-right: 2in;
+      &__header {
+        display: none;
+      }
+      &__content {
+        column-count: 1;
+      }
+    }
+  }
+
   // ---- FRONTMATTER PAGES ---- //
 
   .quire-body-class--frontmatter {
@@ -529,35 +549,59 @@ $print-page-number-size: 7.5pt;
     }
   }
 
-  .quire-contents {
-    font-size: 10pt;
-    line-height: 14.25pt;
-    margin-left: 0;
-    padding-left: 0;
+  // ---- CONTENTS PAGE ---- //
 
-    &__page {
-      page-break-inside: avoid;
+  .quire-body-type--contents {
+    .quire-page {
+      page: no-footer;
     }
+    .quire-contents {
+      margin-left: 0;
+      padding-left: 0;
+      font-size: 10pt;
+      line-height: 14.25pt;
+      margin-left: 0;
+      padding-left: 0;
 
-    &__page,
-    &__section {
-      a {
-        display: block;
-      }
-      a::after {
-        content: leader(dotted) ' ' target-counter(attr(href, url), page);
-      }
-      &--frontmatter {
-        a::after {
-          content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+      &__page {
+        page-break-inside: avoid;
+        &__separator {
+          display: none;
         }
       }
-    }
 
-    .quire-contents__page__separator {
-      display: none;
-    }
+      &__page {
+        a {
+          display: block;
+        }
+        a::after {
+          content: leader(dotted) ' ' target-counter(attr(href, url), page);
+        }
+      }
 
+      &__section {
+        a {
+          display: block;
+        }
+        a::after {
+          content: none;
+        }
+        ul a::after {
+          content: leader(dotted) ' ' target-counter(attr(href, url), page);
+        }
+        &--frontmatter {
+          a::after {
+            content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+          }
+        }
+      }
+      ul.quire-contents .quire-contents__page:first-child {
+        display: none;
+      }
+      ul.quire-contents ul .quire-contents__page:first-child {
+        display: list-item;
+      }
+    }
   }
 
   // ---- FIGURES ---- //

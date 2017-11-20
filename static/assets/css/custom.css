@@ -9,6 +9,115 @@
   font-size: 0.9rem;
 }
 
+
+@media screen and (max-width: 1010px),
+(orientation: landscape) {
+  .quire-cover__inner__title {
+    max-width: 500px;
+    font-size: 6.5vh;
+  }
+  .quire-cover__inner__subtitle {
+    font-size: 5.525vh;
+    margin-top: 0;
+  }
+  .quire-cover__inner__reading-line {
+    font-size: 3.8675vh;
+    max-width: 400px;
+    margin-top: 3.5vh;
+  }
+}
+
+
+@media screen and (max-width: 900px)
+and not screen and (orientation: landscape) {
+  .quire-cover__inner__title {
+    font-size: 5.525vh;
+  }
+  .quire-cover__inner__subtitle {
+    font-size: 4.696vh;
+    line-height: 1.25;
+  }
+  .quire-cover__inner__reading-line {
+    font-size: 3.287vh;
+    max-width: 300px;
+  }
+  .quire-cover__inner__contributor {
+    margin-top: 6vh;
+  }
+}
+
+@media screen and (max-width: 690px) and not (orientation: landscape),
+  screen and (orientation: portrait) {
+
+  .quire-cover__background {
+    background-image: url("../img/cover_bg_center.jpg");
+    background-position: center top;
+  }
+  .quire-cover__screen {
+    position: absolute;
+    width: 100%;
+    height: 50vh;
+    background-size: cover;
+    background: #994e1a;
+    background: -webkit-linear-gradient(rgba(84,46,21,0), rgba(84,46,21,1));
+    background: -o-linear-gradient(rgba(84,46,21,0), rgba(84,46,21,1));
+    background: -moz-linear-gradient(rgba(84,46,21,0), rgba(84,46,21,1));
+    background: linear-gradient(rgba(84,46,21,0), rgba(84,46,21,1));
+  }
+  .quire-cover__inner__title,
+  .quire-cover__inner__reading-line,
+  .quire-cover__inner__contributor  {
+    text-align: center;
+    max-width: none;
+    color: #efebec;
+    margin-top: 0;
+  }
+  .quire-cover__inner__title {
+    margin-bottom: 0;
+    font-size: 5.5vh;
+    line-height: 1.25;
+  }
+  .quire-cover__inner__subtitle {
+    /*margin-top: .2em;*/
+    font-size: 3.7vh;
+    line-height: 1.25;
+  }
+  .quire-cover__inner__reading-line {
+    font-size: 2.794vh;
+    line-height: 1.5;
+  }
+  .quire-cover__inner__reading-line,
+  .quire-cover__inner__contributor {
+    margin-top: 2vh;
+  }
+  .quire-cover__inner__contributor {
+    margin-bottom: 4vh;
+    line-height: 1.5;
+  }
+  .quire-cover__inner__contributor ul li {
+    display: inline;
+    font-weight: 300;
+    white-space: pre;
+  }
+  .quire-cover__inner__contributor ul li:nth-child(2)::after {
+    content: ",";
+  }
+  .quire-cover__inner__contributor ul li:nth-child(3)::after {
+    content: ", and";
+  }
+}
+
+@media screen and (min-width: 691px) and (orientation: portrait) {
+  .quire-cover__screen {
+    height: 40vh;
+  }
+}
+
+
+.quire-cover__inner__contributor ul li:first-child {
+  font-weight: 300;
+}
+
 .quire-body.quire-body-type--cover .quire-nav-group {
   background-color: #542E15;
 }
@@ -17,12 +126,31 @@
   color: #efebec;
 }
 
-.quire-body-type--cover .quire-nav-group svg {
+.quire-body-type--cover .quire-search svg,
+.quire-body-type--cover .quire-menu__button svg,
+.quire-body-type--cover .quire-nav svg {
   fill: #efebec;
 }
 
 .quire-body-type--cover .quire-nav-group .quire-menu__button[aria-expanded=true] svg {
   fill: #994e1a;
+}
+
+#about .quire-link-list {
+  list-style-type: none;
+  padding-left: .75em;
+}
+
+#about .quire-link-list li:first-child .quire-link-list__icon,
+.quire-menu__inner__links:first-of-type li:first-child .quire-link-list__icon {
+  margin-bottom: -.15em;
+}
+
+#about .quire-link-list li:nth-child(2),
+#about .quire-link-list li:nth-child(3),
+.quire-menu__inner__links:first-of-type ul li:nth-child(2),
+.quire-menu__inner__links:first-of-type ul li:nth-child(3) {
+  margin-left: 1.5em;
 }
 
 .quire-cover__footer {
@@ -38,27 +166,27 @@ ul.quire-contents .quire-contents__page--abstract-list {
   text-indent: 2rem;
 }
 
-
-table#table-23-appendix {
+#table-23-appendix table {
   margin-left: 0;
   margin-right: 0;
   width: 100%;
+  font-size: .85rem;
 }
 
-table#table-23-appendix td {
+#table-23-appendix table td {
   vertical-align: top;
 }
 
-table#table-23-appendix th {
+#table-23-appendix table th {
   color: #5e5e5e;
 }
 
-table#table-23-appendix thead tr th:first-child,
-table#table-23-appendix tbody tr td:first-child {
+#table-23-appendix table thead tr th:first-child,
+#table-23-appendix table tbody tr td:first-child {
   width: 6em;
 }
 
-table#table-23-appendix ul {
+#table-23-appendix table ul {
   padding-left: 0;
   margin-left: 0;
   text-indent: 0;
@@ -239,7 +367,7 @@ table#table-23-appendix ul {
     margin-right: .25in;
   }
 
-  table#table-23-appendix {
+  #table-23-appendix table {
     column-span: none;
   }
 
@@ -294,38 +422,6 @@ table#table-23-appendix ul {
     margin-bottom: 0;
   }
 
-  #copyright .quire-page,
-  #contents .quire-page {
-    page: no-footer;
-  }
-
-  #copyright .quire-page {
-    font-size: 6.5pt;
-    line-height: 10.5pt;
-    margin-right: 2in;
-  }
-
-  #copyright .quire-page__header {
-    display: none;
-  }
-
-  #copyright .quire-page__content {
-    column-count: 1;
-  }
-
-  #contents .quire-contents {
-    margin-left: 0;
-    padding-left: 0;
-  }
-
-  #contents ul.quire-contents .quire-contents__page:first-child {
-    display: none;
-  }
-
-  #contents ul.quire-contents ul .quire-contents__page:first-child {
-    display: list-item;
-  }
-
   .quire-body#introduction {
     counter-reset: page 1;
     /*page-break-before: right;*/
@@ -333,14 +429,6 @@ table#table-23-appendix ul {
 
   .quire-body#introduction .quire-page {
     page: intro;
-  }
-
-  .quire-contents__section a::after {
-    content: none;
-  }
-
-  .quire-contents__section ul a::after {
-    content: leader(dotted) ' ' target-counter(attr(href, url), page);
   }
 
   .quire-body.quire-body-type--cover .quire-nav-group {
@@ -418,6 +506,8 @@ table#table-23-appendix ul {
 
   #large-scale-bronzes-8-mattusch #notes,
   #large-scale-bronzes-8-mattusch #bibliography,
+  #large-scale-bronzes-abstracts .quire-page__section-list__item:last-of-type,
+  #the-hellenistic-east-abstracts .quire-page__section-list__item:last-of-type,
   #the-artist-10-haga-et-al h2#notes,
   #vessels-27-dedecker .quire-page__content__main p + ol,
   #statuettes-16-sharpe #belonging-to-the-czernicheff-family,

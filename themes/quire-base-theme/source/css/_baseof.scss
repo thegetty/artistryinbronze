@@ -8,6 +8,12 @@ html {
 
 }
 
+@media screen and (max-width: 690px) {
+  html {
+    font-size: 16px;
+  }
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -150,6 +156,15 @@ th {
   content: '';
 }
 
+.quire-body-type--cover .quire-nav-group svg.quire-link-list__icon,
+.quire-link-list__icon {
+  fill: $primary-color;
+  margin-right: $base-spacing * .5;
+}
+.quire-link-list__note {
+  font-weight: 300;
+}
+
 sup {
   line-height: 0;
 }
@@ -265,6 +280,11 @@ sup {
   &:focus {
     outline: 0;
   }
+}
+
+:target[id="citation-information"] {
+  margin-top: -70px;
+  padding-top: 70px;
 }
 
 // To adjust scroll height to account for the fixed header when the target is an

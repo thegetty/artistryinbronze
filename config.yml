@@ -8,19 +8,22 @@
 # update the value here too.
 
 # Use these settings for serving/building to a path other than root
-# baseURL: "https://gettypubs.github.io/artistryinbronze"
-# canonifyURLs: true
+baseURL: "http://www.getty.edu/publications/artistryinbronze"
+canonifyURLs: true
 
 # Use these settings for serving/building to the root path
-baseURL: ""
-relativeURLs: true
+# baseURL: ""
+# relativeURLs: true
 
 theme: "quire-base-theme"
-footnoteReturnLinkContents: "↥"
-# footnoteReturnLinkContents: "↩"
+footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 
-
+disableKinds:
+  - "home"
+  - "section"
+  - "taxonomy"
+  - "taxonomyTerm"
 
 blackfriday:
   fractions: false
