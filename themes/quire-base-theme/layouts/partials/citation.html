@@ -17,17 +17,17 @@
     addressable in the template itself down the road.
 
 */}}
-{{ $citeType := .citeType }}
-{{ $citeScope := .citeScope }}
+{{ $citeType := .citeType -}}
+{{ $citeScope := .citeScope -}}
 
-{{ if eq $citeType "chicago" }}
+{{ if eq $citeType "chicago" -}}
 
-  {{ if $citeScope.Page.Params.contributor }}
+  {{ if $citeScope.Page.Params.contributor -}}
     {{ template "page-author-chicago" $citeScope.Page.Params.contributor }}
-  {{ end }}
+  {{ end -}}
 
-  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params }}
-  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle }}
+  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle -}}
   “{{ $fullTitle }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
 
   In <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
@@ -35,50 +35,50 @@
   edited by {{ template "book-author-chicago" $citeScope.Site.Data.publication.primary_contributor }}
 
   {{ $pubLen := len $citeScope.Site.Data.publication.publisher -}}
-  {{ if $citeScope.Site.Data.publication.publisher_citation_chicago }}
+  {{ if $citeScope.Site.Data.publication.publisher_citation_chicago -}}
     {{ $citeScope.Site.Data.publication.publisher_citation_chicago }},
-  {{ else }}
-    {{ range $index, $element := $citeScope.Site.Data.publication.publisher }}
+  {{ else -}}
+    {{ range $index, $element := $citeScope.Site.Data.publication.publisher -}}
       {{ .location }}: {{ .name }}{{ if eq $index (sub $pubLen 1) }},{{ else }};{{ end }}
-    {{ end }}
-  {{ end }}
+    {{ end -}}
+  {{ end -}}
 
   {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }}.
 
-  {{ $chicagoURLa := replace $citeScope.Site.Data.publication.url "/" "&#8203;/" }}
-  {{ $chicagoBaseURL := replace $chicagoURLa "&#8203;/&#8203;/" "&#8203;//" }}
-  {{ $chicagoBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML }}.
+  {{ $chicagoURLa := replace $citeScope.Site.Data.publication.url "/" "&#8203;/" -}}
+  {{ $chicagoBaseURL := replace $chicagoURLa "&#8203;/&#8203;/" "&#8203;//" -}}
+  {{ $chicagoBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML -}}.
 
-{{ end }}
+{{ end -}}
 
-{{ if eq $citeType "mla" }}
+{{ if eq $citeType "mla" -}}
 
-  {{ if $citeScope.Page.Params.contributor }}
+  {{ if $citeScope.Page.Params.contributor -}}
     {{ template "page-author-mla" $citeScope.Page.Params.contributor }}
-  {{ end }}
+  {{ end -}}
 
-  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params }}
-  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle }}
+  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle -}}
   “{{ $fullTitle }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
 
   <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
 
   edited by {{ template "book-author-mla" $citeScope.Site.Data.publication.primary_contributor }}
 
-  {{ range $citeScope.Site.Data.publication.publisher }}
+  {{ range $citeScope.Site.Data.publication.publisher -}}
     {{ .name }},
-  {{ end }}
+  {{ end -}}
 
   {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }}.
 
-  {{ $mlaURLa := replace $citeScope.Site.Data.publication.url "http://" "" }}
-  {{ $mlaURLb := replace $mlaURLa "https://" "" }}
-  {{ $mlaBaseURL := replace $mlaURLb "/" "&#8203;/" }}
-  {{ $mlaBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML }}.
+  {{ $mlaURLa := replace $citeScope.Site.Data.publication.url "http://" "" -}}
+  {{ $mlaURLb := replace $mlaURLa "https://" "" -}}
+  {{ $mlaBaseURL := replace $mlaURLb "/" "&#8203;/" -}}
+  {{ $mlaBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML -}}.
 
   Accessed <span class="cite-current-date" id="js-date">D MMM. YYYY</span>.
 
-{{ end }}
+{{ end -}}
 
 
 {{ define "page-author-chicago" }}
@@ -99,7 +99,7 @@
   {{- if gt $len 3 -}}
     , et al.
   {{- end -}}
-{{ end }}
+{{ end -}}
 
 {{ define "book-author-chicago" }}
   {{ $len := len . -}}

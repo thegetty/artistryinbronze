@@ -3,18 +3,18 @@
   partial "contributor-list.html" (dict "contributorRange" .Params.contributor)
 
 */}}
-{{ $list := (.contributorRange) }}
-{{ $len := len (.contributorRange) }}
-{{ range $index, $element := $list }}
-  {{ if eq $len 1 }}
+{{ $list := (.contributorRange) -}}
+{{ $len := len (.contributorRange) -}}
+{{ range $index, $element := $list -}}
+  {{ if eq $len 1 -}}
     <span>{{ .first_name }} {{ .last_name }}</span>
-  {{ else if eq (add $index 1) $len }}
+  {{ else if eq (add $index 1) $len -}}
   <span>and {{ .first_name }} {{ .last_name }}</span>
-  {{ else }}
-    {{ if eq $len 2 }}
+  {{ else -}}
+    {{ if eq $len 2 -}}
       <span>{{ .first_name }} {{ .last_name }}</span>
-    {{ else }}
+    {{ else -}}
       <span>{{ .first_name }} {{ .last_name }},</span>
-    {{ end }}
-  {{ end }}
-{{ end }}
+    {{ end -}}
+  {{ end -}}
+{{ end -}}

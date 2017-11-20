@@ -1,14 +1,14 @@
 {{ define "main" }}
-{{ range .Site.Data.bibliography.biblio_list }}
-  {{ $refs := replace .reference_for " " "" }}
-  {{ $refslist := split $refs "," }}
-  {{ range $refslist }}
+{{ range .Site.Data.bibliography.biblio_list -}}
+  {{ $refs := replace .reference_for " " "" -}}
+  {{ $refslist := split $refs "," -}}
+  {{ range $refslist -}}
     {{ if eq . $.Params.id  }}
-        {{ $.Scratch.Add "a" . }}
-    {{ end }}
-  {{ end }}
-{{ end }}
-{{ $pagebiblio := $.Scratch.Get "a" }}
+        {{ $.Scratch.Add "a" . -}}
+    {{ end -}}
+  {{ end -}}
+{{ end -}}
+{{ $pagebiblio := $.Scratch.Get "a" -}}
 <div class="quire-page">
   <header class="quire-page__header">
     <h1 class="quire-page__header__title"><span class="quire-page__header__number">{{ with .Params.id }}{{ . }}. {{ end }}</span>{{ partial "full-title.html" .Page.Params }}</h1>
@@ -32,31 +32,31 @@
     <section class="quire-page__content__main" id="essay-text">
       {{ .Content }}
     </section>
-    {{ if $pagebiblio }}
+    {{ if $pagebiblio -}}
     <section class="quire-page__content__references" id="bibliography">
       <h2>Bibliography</h2>
       <dl>
-      {{ range .Site.Data.bibliography.biblio_list }}
-        {{ $refs := replace .reference_for " " "" }}
-        {{ $refslist := split $refs "," }}
-        {{ $s := .short }}
-        {{ $f := .full }}
-        {{ range $refslist }}
+      {{- range .Site.Data.bibliography.biblio_list -}}
+        {{ $refs := replace .reference_for " " "" -}}
+        {{ $refslist := split $refs "," -}}
+        {{ $s := .short -}}
+        {{ $f := .full -}}
+        {{- range $refslist -}}
           {{ if eq . $.Params.id  }}
               <dt>{{ $s | markdownify }}</dt>
               <dd>{{ $f | markdownify }}</dd>
           {{ end }}
-        {{ end }}
-      {{ end }}
+        {{- end -}}
+      {{- end -}}
       </dl>
     </section>
-    {{ end }}
-    {{ if eq .Params.contributor_byline "bottom" }}
+    {{ end -}}
+    {{ if eq .Params.contributor_byline "bottom" -}}
       <ul class="quire-page__content__contributor">
-      {{ range .Params.contributor }}
+      {{ range .Params.contributor -}}
         <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
-      {{ end }}
+      {{ end -}}
       </ul>
-    {{ end }}
+    {{ end -}}
 </div>
 {{ end }}
