@@ -49,7 +49,7 @@
 {{- if .Prev -}}
 {{- if and (ne .Prev.Params.online false) (ne .Prev.Type "data") -}}
 <li>
-  <a href="{{ .Prev.Permalink }}" rel="previous" id="js-prev" >
+  <a href="{{ .Prev.Permalink }}" rel="prev" id="js-prev" >
     <svg height="1em" width="1em">
       <switch>
         <use xlink:href="#left-arrow-icon">
