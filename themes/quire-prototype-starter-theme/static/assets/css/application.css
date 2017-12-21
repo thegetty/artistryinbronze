@@ -1435,11 +1435,11 @@ strong {
   font-weight: 400; }
 
 a {
-  color: #3273dc;
+  color: #994e1a;
   font-weight: 400;
   text-decoration: none; }
   a:active, a:focus, a:hover {
-    color: shade(#3273dc, 25%); }
+    color: shade(#994e1a, 25%); }
 
 sup,
 sub {
@@ -1534,7 +1534,7 @@ th {
 
 .quire-body-type--cover .quire-nav-group svg.quire-link-list__icon,
 .quire-link-list__icon {
-  fill: #3273dc;
+  fill: #994e1a;
   margin-right: 0.5rem; }
 
 .quire-link-list__note {
@@ -1658,7 +1658,7 @@ pre {
   /* Internet Explorer 5.5+ */ }
 
 code {
-  color: #3273dc; }
+  color: #994e1a; }
 
 .quire-nav {
   font-size: 0.85rem;
@@ -1672,7 +1672,7 @@ code {
     .quire-nav ul li {
       margin: 1em; }
   .quire-nav svg {
-    fill: #3273dc;
+    fill: #994e1a;
     height: 1em;
     width: 1em;
     margin-bottom: -.15em; }
@@ -1707,7 +1707,7 @@ code {
     .quire-menu__button svg {
       height: 1.75em;
       width: 1.75em;
-      fill: #3273dc; }
+      fill: #994e1a; }
     .quire-menu__button.no-js {
       display: none; }
   .quire-menu__background {
@@ -1722,7 +1722,7 @@ code {
     padding-right: 1rem; }
     .quire-menu__inner__header .quire-title {
       font-size: 85%;
-      color: #3273dc;
+      color: #994e1a;
       line-height: 2.3rem;
       display: block; }
       .quire-menu__inner__header .quire-title a {
@@ -1757,7 +1757,7 @@ code {
         cursor: pointer;
         background-color: inherit;
         border: none;
-        color: #3273dc;
+        color: #994e1a;
         font-size: 1rem;
         font-weight: 700; }
       .quire-menu__inner__links ul {
@@ -1815,7 +1815,7 @@ code {
     border: 0;
     padding: 0; }
   .quire-search svg {
-    fill: #3273dc;
+    fill: #994e1a;
     height: 1.125rem;
     width: 1.125rem; }
   .quire-search .tool-tip {
@@ -1916,7 +1916,7 @@ code {
     font-weight: 700;
     font-size: 8vh;
     line-height: 9vh;
-    color: #3273dc;
+    color: #994e1a;
     letter-spacing: 1px; }
   .quire-cover__inner__subtitle {
     display: block;
@@ -2027,7 +2027,7 @@ code {
       font-family: "Lato", sans-serif;
       font-size: 1.5rem; }
     .quire-page__header__title {
-      color: #3273dc;
+      color: #994e1a;
       font-size: 2.5rem;
       margin: auto;
       margin-bottom: 1rem;
@@ -2204,14 +2204,14 @@ code {
     font-size: 0.85rem;
     margin: 0.5rem 0 0; }
     .quire-page__section-list__link svg {
-      fill: #3273dc;
+      fill: #994e1a;
       height: 1em;
       width: 1em; }
     .quire-page__section-list__link button {
       background-color: #efebec;
       border: 0;
       border-radius: 0.25em;
-      color: #3273dc;
+      color: #994e1a;
       cursor: pointer;
       font-size: 0.85rem;
       margin: 0.25rem;
@@ -2888,7 +2888,7 @@ div.q-figure__video__print-fallback,
     margin-top: -.25in;
     margin-left: -.25in;
     margin-bottom: -.25in;
-    background-color: #3273dc;
+    background-color: #994e1a;
     padding-top: .25in; }
   .quire-body-type--section-head .quire-page__header {
     margin-top: 3.25in; }
@@ -2904,14 +2904,14 @@ div.q-figure__video__print-fallback,
       page-break-after: always;
       background-color: transparent;
       display: block;
-      color: #3273dc;
+      color: #994e1a;
       text-align: right;
       font-size: 13pt;
       margin-top: 4.125in;
       font-weight: 400; }
       .quire-body-type--cover .quire-nav-group a,
       .quire-body-type--cover .quire-nav a {
-        color: #3273dc; }
+        color: #994e1a; }
     .quire-body-type--cover .quire-cover__background {
       background-image: none; }
     .quire-body-type--cover .quire-cover__video-wrapper {
