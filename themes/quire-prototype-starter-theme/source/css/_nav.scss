@@ -1,0 +1,43 @@
+.quire-nav {
+  font-size: 1rem * $small-font-scale;
+  font-weight: 400;
+
+  ul {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li { margin: 1em; }
+  }
+
+  svg {
+    fill: $primary-color;
+    height: 1em;
+    width: 1em;
+    margin-bottom: -.15em;
+  }
+
+  &__section-link::before,
+  &__current-page-link::before, {
+    content: "›";
+    margin-right: $base-spacing;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .quire-nav {
+    &__section-link {
+      display: none;
+    }
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .quire-nav {
+    &__current-page-link {
+      display: none;
+    }
+  }
+}

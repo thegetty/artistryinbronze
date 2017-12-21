@@ -15,7 +15,7 @@ canonifyURLs: true
 # baseURL: ""
 # relativeURLs: true
 
-theme: "quire-base-theme"
+theme: "quire-prototype-starter-theme"
 footnoteReturnLinkContents: "↩"
 metaDataFormat: "yaml"
 

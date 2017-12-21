@@ -1,0 +1,34 @@
+<div class="quire-search no-js" role="search">
+  <button class="expander">
+    <svg width="1em" height="1em">
+      <switch>
+        <use xlink:href="#search-icon"></use>
+        <foreignObject width="1em" height="1em">
+          <img src="{{ .Site.BaseURL }}/assets/img/icons/search-icon.png" alt="" />
+        </foreignObject>
+      </switch>
+    </svg>
+    <span class="visually-hidden">Search: </span>
+    <span class="tool-tip">
+      <em>To search the text,<br /> please
+        <a href="http://www.activatejavascript.org/" target="_blank">enable JavaScript</a>
+      </em>
+    </span>
+  </button>
+  <div>
+    <div class="quire-navbar__search-input">
+      <input id="js-search-input"
+             class="quire-navbar__search-input__search-field"
+             name="search"
+             type="text"
+             placeholder="search"
+             value=""/>
+    </div>
+    <div class="quire-navbar__search-close">
+      <a id="js-search-close" href="javascript:void(0);">
+        <i class="quire-navbar__search-close-icon"></i>
+      </a>
+    </div>
+    {{ partial "search-results.html" . }}
+  </div>
+</div>

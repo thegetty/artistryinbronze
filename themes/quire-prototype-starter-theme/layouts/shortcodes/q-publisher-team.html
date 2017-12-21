@@ -1,0 +1,5 @@
+<ul class="quire-publisher-team">
+{{ range .Site.Data.publication.project_team }}
+  <li class="quire-publisher-team__name">{{ .first_name }} {{ .last_name }}, <span class="quire-publisher-team__role">{{ .role }}</span></li>
+{{ end }}
+</ul>

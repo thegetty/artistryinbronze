@@ -1,0 +1,3 @@
+{{ $linkstep1 := replace .Inner "/" "/&#8203;"  }}
+{{ $link := replace $linkstep1 "/&#8203;/&#8203;" "//"}}
+<a href="{{ .Inner }}" class="quire-url-link">{{ $link | safeHTML }}</a>
