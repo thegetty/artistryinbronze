@@ -81,7 +81,7 @@ $print-page-number-size: 7.5pt;
     font-size: $print-page-number-size;
   }
   @bottom-left {
-    content: string(papertitle);
+    content: string(papernumber) string(papertitle);
     font-family: $text-font-family;
     font-size: $print-page-number-size;
     font-style: italic;
@@ -241,6 +241,9 @@ $print-page-number-size: 7.5pt;
     display: none;
   }
 
+  .quire-page__header__number {
+    string-set: papernumber content();
+  }
   .quire-pdf__title {
     string-set: papertitle content();
   }
@@ -332,7 +335,6 @@ $print-page-number-size: 7.5pt;
           line-height: 14.25pt;
           margin-bottom: 0;
           margin-top: .6em;
-          color: $print-dark-neutral;
         }
         blockquote {
           margin-left: 1.5em;

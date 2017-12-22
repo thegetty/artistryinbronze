@@ -36,7 +36,7 @@
     <li class="quire-nav__current-page-link">
       <span class="visually-hidden">Current Page: </span>
       <span class="quire-pdf__title">
-        <em>{{ if .Params.short_title }}{{ .Params.short_title }} {{ else }}{{ .Title | markdownify | truncate 40 }}{{ end }}</em>
+        <em>{{ if .Params.short_title }}{{ .Params.short_title | markdownify }} {{ else }}{{ .Title | markdownify | truncate 40 }}{{ end }}</em>
       </span>
     </li>
     {{ end }}

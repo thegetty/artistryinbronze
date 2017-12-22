@@ -9,6 +9,6 @@
 
 */}}
 
-{{- $endPunctuation := findRE "[[:punct:]]$" .title -}}
+{{- $endPunctuation := findRE "[!|?]$" .title -}}
 
 <span class="quire-title">{{ markdownify .title }}</span>{{ with .subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}<span class="quire-subtitle">{{ . | markdownify }}</span>{{ end }}{{ with .reading_line }} <span class="quire-readingline">({{ . | markdownify }})</span>{{ end -}}
