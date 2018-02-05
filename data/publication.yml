@@ -63,7 +63,7 @@ contributor_as_it_appears: Edited by Jens M. Daehner, Kenneth Lapatin, and Ambra
 
 # PUBLICATION INFO
 
-marketing_graphic: http://www.getty.edu/publications/artistryinbronze/assets/img/cover_graphic.jpg
+cover_graphic: cover_graphic.jpg
 
 description:
   one_line:
