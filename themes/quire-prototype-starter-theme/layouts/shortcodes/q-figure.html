@@ -62,7 +62,7 @@
       {{ if or (or (or ($.Get "caption") ($.Get "credit")) (.caption) ) (.credit) }}
         <figcaption>
           {{ if $.Get "caption" }}
-            {{ $.Get "caption" -}}
+            {{ $.Get "caption" | markdownify -}}
             {{- if or (eq .media_type "youtube") (eq .media_type "vimeo") -}}
               {{- if .fallback -}}
                 {{ template "video-fallback-text" . }}

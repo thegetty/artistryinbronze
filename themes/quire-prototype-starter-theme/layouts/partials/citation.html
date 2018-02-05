@@ -26,9 +26,14 @@
     {{ template "page-author-chicago" $citeScope.Page.Params.contributor }}
   {{ end -}}
 
-  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
-  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle -}}
-  “{{ $fullTitle }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ if $citeScope.Page.Params.subtitle }}
+    {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+    {{- $fullTitlePunctuation := findRE "[!|?]$" $citeScope.Page.Params.subtitle -}}
+    “{{ $fullTitle | markdownify }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ else }}
+    {{- $titlePunctuation := findRE "[!|?]$" $citeScope.Page.Title -}}
+    “{{ $citeScope.Page.Title | markdownify }}{{ if $titlePunctuation }}{{ else }}.{{ end }}”
+  {{ end }}
 
   In <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
 
@@ -57,19 +62,24 @@
     {{ template "page-author-mla" $citeScope.Page.Params.contributor }}
   {{ end -}}
 
-  {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
-  {{ $fullTitlePunctuation := findRE "[[:punct:]]$" $fullTitle -}}
-  “{{ $fullTitle }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ if $citeScope.Page.Params.subtitle }}
+    {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+    {{- $fullTitlePunctuation := findRE "[!|?]$" $citeScope.Page.Params.subtitle -}}
+    “{{ $fullTitle | markdownify }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ else }}
+    {{- $titlePunctuation := findRE "[!|?]$" $citeScope.Page.Title -}}
+    “{{ $citeScope.Page.Title | markdownify }}{{ if $titlePunctuation }}{{ else }}.{{ end }}”
+  {{ end }}
 
   <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
 
-  edited by {{ template "book-author-mla" $citeScope.Site.Data.publication.primary_contributor }}
+  edited by {{ template "book-author-mla" $citeScope.Site.Data.publication.primary_contributor }},
 
   {{ range $citeScope.Site.Data.publication.publisher -}}
     {{ .name }},
   {{ end -}}
 
-  {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }}.
+  {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }},
 
   {{ $mlaURLa := replace $citeScope.Site.Data.publication.url "http://" "" -}}
   {{ $mlaURLb := replace $mlaURLa "https://" "" -}}
@@ -111,8 +121,10 @@
       {{ .first_name }} {{ .last_name }}
     {{- else if and (eq $len 3) (eq $index 1) -}}
       , {{ .first_name }} {{ .last_name }}
-    {{- else if or (eq $len 2) (and (eq $len 3) (eq $index 2)) -}}
+    {{- else if and (eq $len 3) (eq $index 2) -}}
       , and {{ .first_name }} {{ .last_name }}.
+    {{- else if eq $len 2 }}
+      and {{ .first_name }} {{ .last_name }}.
     {{- end -}}
   {{- end -}}
   {{- if gt $len 3 -}}
@@ -143,11 +155,11 @@
   {{ range $index, $element := . }}
     {{- if eq $len 1 -}}
       {{- $endPunctuation := findRE "[[:punct:]]$" .first_name -}}
-      {{ .first_name }} {{ .last_name }}.
+      {{ .first_name }} {{ .last_name }}
     {{- else if and (gt $len 1) (eq $index 0) -}}
       {{ .first_name }} {{ .last_name }}
-    {{- else if or (eq $len 2) (and (eq $len 2) (eq $index 1)) -}}
-      , and {{ .first_name }} {{ .last_name }}.
+    {{- else if or (eq $len 2) (and (eq $len 2) (eq $index 1)) }}
+      and {{ .first_name }} {{ .last_name }}
     {{- end -}}
   {{- end -}}
   {{- if gt $len 2 }}
