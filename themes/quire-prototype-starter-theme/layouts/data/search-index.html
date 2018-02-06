@@ -46,7 +46,7 @@ block-scoped .Scratch inside the `range` loop.
 {{- .Scratch.Set "parentSection" "" -}}
 {{- .Scratch.Set "pageType" "" -}}
 
-{{- if gt (len $page.Content) 0 -}}
+{{- if ne $page.Params.layout "abstract-only" -}}
 {{- .Scratch.Set "searchContent" $page.Plain -}}
 {{- .Scratch.Set "pageURL" $page.RelPermalink -}}
 {{- .Scratch.Set "pageType" $page.Type -}}
