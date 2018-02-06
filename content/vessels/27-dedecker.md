@@ -54,7 +54,7 @@ Another interesting bronze is the Triton and hippocampus statuette group in the 
 
 The next significant example of a bronze vessel handle is again in the J. Paul Getty Museum,[^31] formerly part of the Fleischman Collection. It shows a young woman, perhaps a Tritoness or Scylla (depicted without dogs), which lies above an enlarged face of an old Triton. She holds a rudder in her right hand and appears peaceful; her long hair is parted in the middle, and she is wearing a simple crown or a hair band. She is naked save for a skirt made of long acanthus leaves that ends in a curved, hook-like fishtail. Crab claws typical of pereiopods reach out from underneath Triton’s thick hair; his face is covered in seaweed, his mouth is agape, with two dolphins beneath the chin; the eyes and fins along the jaw are made in silver inlay. This is a manifestation of a solemn or philosophical Triton and can be dated from the late first century BC to the early first century AD.[^32]
 
-{{< q-figure id="27.4" class="float-right" >}}
+{{< q-figure id="27.4" class="float-right" pdf="one-column" >}}
 
 Another handle belonging to Tassinari’s Pompeian Type B 1222,[^33] in the Archaeological Museum in Naples, is from Herculaneum ([fig. 27.4](#fig-27-4)).[^34] The length of the handle is decorated in low relief, with a face peering through acanthus leaves, then an unfurling scroll of acanthus leaves from the side, with a bordering bead pattern. The lower attachment, in high relief, bears a mask of a sea god; there are two wings in his tousled hair, with snakes, dogs, and coiled serpents in three sets above. He has mussel ears, silver-encrusted eyes, a seaweed-covered face, an open mouth, inlaid silver teeth, and a chin ending in a knotted serpent’s tail. Below this on the left and right are dolphins holding an octopus in the center with their open mouths.[^35] The composition in high relief is an open work and the surface is not continuous; these details are characteristic for the period from the second half of the first century BC to the middle of the first century AD.[^36]
 
@@ -68,7 +68,7 @@ Still another jug, also belonging to Type B 1222, comes from Pompeii I 9.5, the 
 
 ## Conclusion
 
-{{< q-figure id="27.6" >}}
+{{< q-figure id="27.6" class="float-right" pdf="one-column" >}}
 
 {{< q-figure id="27.7" class="float-right" >}}
 
