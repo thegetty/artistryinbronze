@@ -573,4 +573,12 @@ ul.quire-contents .quire-contents__page--abstract-list {
     display: block;
   }
 
+  .quire-contents__page:first-child {
+    display: none;
+  }
+
+  .quire-contents__section ul .quire-contents__page:first-child {
+    display: list-item;
+  }
+
 }

@@ -2972,6 +2972,8 @@ div.q-figure__video__print-fallback,
       display: block; }
     .quire-body-type--contents .quire-contents__page a::after {
       content: leader(dotted) " " target-counter(attr(href, url), page); }
+    .quire-body-type--contents .quire-contents__page--frontmatter a::after {
+      content: leader(dotted) " " target-counter(attr(href, url), page, lower-roman); }
     .quire-body-type--contents .quire-contents__section a {
       display: block; }
     .quire-body-type--contents .quire-contents__section a::after {
