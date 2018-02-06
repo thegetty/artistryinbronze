@@ -107,7 +107,7 @@ license:
   name_short: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
-  scope: text-only # full | text-only | some-exceptions
+  scope: # full | text-only | some-exceptions
   exceptions:
     online:
     pdf_ebook:
