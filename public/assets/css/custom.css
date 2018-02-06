@@ -246,6 +246,12 @@ ul.quire-contents .quire-contents__page--abstract-list {
 
 @media print {
 
+  @page footer:right {
+    @bottom-left {
+      content: string(papertitle);
+    }
+  }
+
   [lang=grc] {
     font-weight: 400;
     font-size: 8.5pt;

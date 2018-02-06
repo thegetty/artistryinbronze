@@ -1434,6 +1434,9 @@ body {
 strong {
   font-weight: 400; }
 
+em em {
+  font-style: normal; }
+
 a {
   color: #994e1a;
   font-weight: 400;
@@ -1539,6 +1542,20 @@ th {
 
 .quire-link-list__note {
   font-weight: 300; }
+
+#about .quire-link-list {
+  list-style-type: none;
+  padding-left: .75em; }
+
+#about .quire-link-list li:first-child .quire-link-list__icon,
+.quire-menu__inner__links:first-of-type li:first-child .quire-link-list__icon {
+  margin-bottom: -.15em; }
+
+#about .quire-link-list li:nth-child(2),
+#about .quire-link-list li:nth-child(3),
+.quire-menu__inner__links:first-of-type ul li:nth-child(2),
+.quire-menu__inner__links:first-of-type ul li:nth-child(3) {
+  margin-left: 1.5em; }
 
 sup {
   line-height: 0; }
@@ -1841,10 +1858,10 @@ code {
 .quire-search-results__inner__list__item {
   border-bottom: solid 1px #efebec;
   color: #a29e9f;
-  padding: 0.5rem 0;
-  text-transform: capitalize; }
+  padding: 0.5rem 0; }
   .quire-search-results__inner__list__item__type {
-    display: block; }
+    display: block;
+    text-transform: capitalize; }
 
 .quire-toc {
   font-weight: 400;
@@ -2226,7 +2243,7 @@ code {
   margin-bottom: 1em; }
   #copyright .quire-copyright p,
   #about .quire-copyright p {
-    margin-bottom: 0; }
+    margin-bottom: 1em; }
   #copyright .quire-copyright img,
   #about .quire-copyright img {
     width: 6em;
@@ -2601,7 +2618,7 @@ div.q-figure__video__print-fallback,
     font-family: "Open Sans", sans-serif;
     font-size: 7.5pt; }
   @bottom-left {
-    content: string(papertitle);
+    content: string(papernumber) string(papertitle);
     font-family: "Open Sans", sans-serif;
     font-size: 7.5pt;
     font-style: italic; } }
@@ -2733,6 +2750,8 @@ div.q-figure__video__print-fallback,
   .quire-body-type--section-head .quire-page__section-list__link,
   .quire-body-type--section-head .quire-page__section-list__abstract {
     display: none; }
+  .quire-page__header__number {
+    string-set: papernumber content(); }
   .quire-pdf__title {
     string-set: papertitle content(); }
   .quire-pdf__section {
@@ -2793,8 +2812,7 @@ div.q-figure__video__print-fallback,
         font-size: 10pt;
         line-height: 14.25pt;
         margin-bottom: 0;
-        margin-top: .6em;
-        color: cmyk(0, 0, 0, 0.7); }
+        margin-top: .6em; }
       .quire-page__content__main blockquote {
         margin-left: 1.5em;
         margin-right: 1.5em; }
