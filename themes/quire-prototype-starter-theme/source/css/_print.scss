@@ -579,6 +579,11 @@ $print-page-number-size: 7.5pt;
         a::after {
           content: leader(dotted) ' ' target-counter(attr(href, url), page);
         }
+        &--frontmatter {
+          a::after {
+            content: leader(dotted) ' ' target-counter(attr(href, url), page, lower-roman);
+          }
+        }
       }
 
       &__section {
