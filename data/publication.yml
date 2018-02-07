@@ -209,6 +209,12 @@ revision_history:
   - date: 2017-11-17
     summary:
       - First edition
+  - date: 2018-02-08
+    summary:
+      - Minor text corrections
+      - Copyright and licensing update
+      - Higher-quality images in paper twenty-four
+
 repository_url: https://www.github.com/gettypubs/artistryinbronze
 
 google_analytics_id: UA-8087223-1
