@@ -12,11 +12,11 @@ The papers in this volume derive from the proceedings of the nineteenth Internat
 
 ### Chicago
 
-<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
+<p>Daehner, Jens M., Kenneth Lapatin, and Ambra Spinelli, eds. <em>Artistry in Bronze: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. Los Angeles: J. Paul Getty Museum; Getty Conservation Institute, 2017. http://www.getty.edu&#8203;/publications&#8203;/artistryinbronze.</p>
 
 ### MLA
 
-<p>Daehner, Jens M., et al., editors. <em>Artistry in Bronze: The Greeks and Their Legacy: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. J. Paul Getty Museum, 2017. www.getty.edu&#8203;/publications&#8203;/artistryinbronze. Accessed <span class="cite-current-date" id="js-date">D MMMM YYYY</span>.</p>
+<p>Daehner, Jens M., et al., editors. <em>Artistry in Bronze: The Greeks and Their Legacy (XIXth International Congress on Ancient Bronzes)</em>. J. Paul Getty Museum, 2017. www.getty.edu&#8203;/publications&#8203;/artistryinbronze. Accessed <span class="cite-current-date" id="js-date">D MMMM YYYY</span>.</p>
 
 ### Permanent URL
 

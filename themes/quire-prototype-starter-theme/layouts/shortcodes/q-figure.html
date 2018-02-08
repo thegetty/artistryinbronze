@@ -1,0 +1,125 @@
+{{ if .Get "id" }}
+
+  {{ if .Get "src" }}
+  <!-- if the shortcode has both an id and a src, ignore any figures.yml document and render only the values given in the shortcode -->
+
+    <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "pdf" }} q-pdf-{{ . }}{{ end }}" {{ with .Get "id" }}id="fig-{{ replace (replace . "." "-") "–" "-" }}{{ . }}"{{ end }}>
+      <div class="q-figure__wrapper">
+        <img  src="/assets/img/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
+        {{ with .Get "label" }}
+        <span class="q-figure-label">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ with .Get "caption" }}
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
+      {{ end }}
+    </figure>
+
+  {{ else }}
+  <!-- if the shortcode has an id, but no src, look for figures.yml document and render the figure from matching values found there -->
+
+    {{ $x := .Get "id" | string }}
+    {{ range where .Site.Data.figures.figure_list "id" "eq" $x }}
+    <figure class="q-figure{{ with $.Get "class" }} q-{{ . }}{{ end }} {{ with $.Get "pdf" }} q-pdf-{{ . }}{{ end }}" id="fig-{{ replace (replace .id "." "-") "–" "-" }}">
+        {{ if or (eq .media_type "youtube") (eq .media_type "vimeo") }}
+          <div class="q-figure__wrapper q-figure__wrapper__video{{ if .aspect_ratio }}--{{ .aspect_ratio }}{{ else }}--widescreen{{ end }}">
+           {{ if eq .media_type "youtube" }}
+             <iframe class="q-figure__video" src="https://www.youtube-nocookie.com/embed/{{ .src }}?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+          {{ end }}
+           {{ if eq .media_type "vimeo" }}
+             <iframe class="q-figure__video" src="https://player.vimeo.com/video/{{ .src }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+           {{ end }}
+           {{ if .fallback }}
+             <img class="q-figure__video__print-fallback" src="/assets/img/figures/{{ .fallback }}" alt="" />
+           {{ else }}
+             <div class="q-figure__video__print-fallback">
+               <svg class="q-figure__video__print-fallback__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
+                 <path d="M31.8 5.3c.1 2.2.2 4.4.2 6.7s-.1 4.4-.2 6.7c0 1.4-.4 2.6-1.3 3.6s-2 1.5-3.3 1.5c-3.2.1-7 .2-11.2.2s-8-.1-11.2-.2c-1.3 0-2.4-.5-3.3-1.5-.9-1-1.3-2.2-1.3-3.6C.1 16.4 0 14.2 0 12c0-1.5.1-3.7.2-6.7 0-1.4.4-2.6 1.3-3.6S3.5.2 4.7.2C7.9 0 11.4 0 15.4 0h1.2c4 0 7.6.1 10.6.2 1.3 0 2.4.5 3.3 1.5s1.3 2.2 1.3 3.6zM12.9 18.1L22 12l-9.1-6.2v12.3z"/>
+               </svg>
+                {{ template "video-fallback-text" . }}
+             </div>
+           {{ end }}
+        {{ else }}
+          <div class="q-figure__wrapper">
+            {{ if eq .media_type "inline-svg" }}
+              {{ .src | safeHTML }}
+            {{ else }}
+              <img  src="/assets/img/figures/{{ .src }}" alt="" />
+            {{ end }}
+        {{ end }}
+        {{ if $.Get "label" }}
+        {{ if eq ($.Get "label") "true" }}
+          {{ if .label }}
+          <span class="q-figure-label">{{ .label | markdownify }}</span>
+          {{ else }}
+          <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}</span>
+          {{ end }}
+        {{ else }}
+            <span class="q-figure-label">{{ $.Get "label" | markdownify }}</span>
+        {{ end }}
+        {{ end }}
+      </div>
+      {{ if or (or (or ($.Get "caption") ($.Get "credit")) (.caption) ) (.credit) }}
+        <figcaption>
+          {{ if $.Get "caption" }}
+            {{ $.Get "caption" | markdownify -}}
+            {{- if or (eq .media_type "youtube") (eq .media_type "vimeo") -}}
+              {{- if .fallback -}}
+                {{ template "video-fallback-text" . }}
+              {{- else -}}
+              {{- end -}}
+            {{- end -}}
+          {{ else if .caption }}
+            <span class="q-figure-label">{{ $.Site.Params.imageLabelContentBefore }}{{ .id }}{{ $.Site.Params.imageLabelContentAfter }}</span>{{ .caption | markdownify -}}
+            {{- if or (eq .media_type "youtube") (eq .media_type "vimeo") -}}
+              {{- if .fallback -}}
+                {{ template "video-fallback-text" . }}
+              {{- else -}}
+              {{- end -}}
+            {{- end -}}
+          {{ end }}
+          {{ if $.Get "credit" }}
+            <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>
+          {{ else if .credit }}
+            <span class="q-figure-credit">{{ .credit | markdownify }}</span>
+          {{ end }}
+        </figcaption>
+      {{ end }}
+    </figure>
+    {{ end }}
+
+  {{ end }}
+
+{{ else }}
+
+  {{ if .Get "src" }}
+  <!-- if the shortcode has a src, but no id, render the figure from the values given in the shortcode -->
+
+    <figure class="q-figure{{ with .Get "class" }} q-{{ . }}{{ end }} {{ with .Get "pdf" }} q-pdf-{{ . }}{{ end }}" {{ with .Get "id" }}id="fig-{{ replace (replace . "." "-") "–" "-" }}{{ . }}"{{ end }}>
+      <div class="q-figure__wrapper">
+        <img  src="/assets/img/figures/{{ .Get "src" }}" alt="{{ with .Get "alt" }}{{ . }}{{ end }}" />
+        {{ with .Get "label" }}
+        <span class="q-figure-label">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ with .Get "caption" }}
+      <figcaption>{{ .  | markdownify }}{{ if $.Get "credit" }} <span class="q-figure-credit">{{ $.Get "credit" | markdownify }}</span>{{ end }}</figcaption>
+      {{ end }}
+    </figure>
+
+  {{ else }}
+  <!-- if the shortcode has no id and no src, don't render anything -->
+
+  {{ end }}
+
+{{ end }}
+
+
+{{ define "video-fallback-text" }}
+  {{- if eq .media_type "youtube" }}
+    <span class="q-figure__video__print-fallback__text">Watch the video at <a href="https://youtu.be/{{ .src }}">https://youtu.be/{{ .src }}</a>.</span>
+  {{- end -}}
+  {{- if eq .media_type "vimeo" }}
+    <span class="q-figure__video__print-fallback__text">Watch the video at <a href="https://vimeo.com/{{ .src }}">https://vimeo.com/{{ .src }}</a>.</span>
+  {{- end -}}
+{{ end }}

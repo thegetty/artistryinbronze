@@ -1,0 +1,5 @@
+<ul class="quire-page__content__contributor">
+{{ range .Params.contributor }}
+  <li>{{ .first_name }} {{ .last_name }}{{ if or .title .affiliation }}<br />{{ with .title }}{{ . }}{{ end }}{{ with and .title .affiliation }}, {{ end }}{{ with .affiliation }}{{ . }}{{ end }}{{ end }}</li>
+{{ end }}
+</ul>

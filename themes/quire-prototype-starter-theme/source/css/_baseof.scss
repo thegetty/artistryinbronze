@@ -1,0 +1,335 @@
+html {
+  // font-size: 110%;
+  color: $black;
+  font-family: $text-font-family;
+  font-size: $base-font-size;
+  font-weight: 300;
+  line-height: 1.6em;
+
+}
+
+@media screen and (max-width: 690px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+strong {
+  font-weight: 400;
+}
+
+em em {
+  font-style: normal;
+}
+
+a {
+  color: $primary-color;
+  font-weight: 400;
+  text-decoration: none;
+
+  &:active,
+  &:focus,
+  &:hover {
+    color: shade($primary-color, 25%);
+  }
+}
+
+sup,
+sub {
+  line-height: 0;
+}
+
+//
+// @media (max-width: 40em) {
+//   html {
+//     font-size: 80%;
+//   }
+// }
+//
+p {
+  margin: 0;
+  text-indent: $base-spacing * 1.5;
+}
+
+h2 + p {
+  text-indent: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font-family;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 1.75em;
+}
+
+hr {
+  border: 0;
+  margin: 2rem 0;
+  text-align: center;
+
+  &::after {
+    color: $dark-neutral;
+    content: "✦ ✦ ✦";
+    letter-spacing: $base-spacing * 0.8;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  line-height: $small-font-line-height;
+  margin: $base-spacing 0;
+  table-layout: fixed;
+  width: 100%;
+
+  caption {
+    font-weight: 700;
+    margin-bottom: $base-spacing * 0.5;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+
+    li { margin-bottom: $base-spacing * 0.25; }
+  }
+
+}
+
+th {
+  border-bottom: 1px solid $dark-neutral;
+  font-weight: bold;
+  padding-top: $base-spacing * .5;
+  padding-right: $base-spacing * .25;
+  padding-bottom: $base-spacing * .5;
+  padding-left: 0;
+  text-align: left;
+  overflow: hidden;
+}
+
+td {
+  border-bottom: 1px solid $mid-neutral;
+  padding-top: $base-spacing * .5;
+  padding-right: $base-spacing * .25;
+  padding-bottom: $base-spacing * .5;
+  padding-left: 0;
+  overflow: hidden;
+}
+
+tbody th {
+    font-weight: 300;
+    border-bottom-color: $mid-neutral;
+}
+
+tfoot td {
+  border-bottom: 0;
+}
+
+tr,
+td,
+th {
+  vertical-align: middle;
+}
+
+.quire-cover__inner__publisher .quire-publisher:first-child:before {
+  content: 'The ';
+}
+
+.quire-publisher:after {
+  content: ', ';
+}
+
+.quire-publisher:nth-last-child(2):after {
+  content: ' and the ';
+}
+
+.quire-publisher:last-child:after {
+  content: '';
+}
+
+.quire-body-type--cover .quire-nav-group svg.quire-link-list__icon,
+.quire-link-list__icon {
+  fill: $primary-color;
+  margin-right: $base-spacing * .5;
+}
+.quire-link-list__note {
+  font-weight: 300;
+}
+
+#about .quire-link-list {
+  list-style-type: none;
+  padding-left: .75em;
+}
+
+#about .quire-link-list li:first-child .quire-link-list__icon,
+.quire-menu__inner__links:first-of-type li:first-child .quire-link-list__icon {
+  margin-bottom: -.15em;
+}
+
+#about .quire-link-list li:nth-child(2),
+#about .quire-link-list li:nth-child(3),
+.quire-menu__inner__links:first-of-type ul li:nth-child(2),
+.quire-menu__inner__links:first-of-type ul li:nth-child(3) {
+  margin-left: 1.5em;
+}
+
+sup {
+  line-height: 0;
+}
+
+.no-break {
+  white-space: pre;
+}
+
+.quire-body {
+  @media screen {
+    // The .visually-hidden css is from Heydon Pickering’s book Inclusive Design
+    // Patterns, and is devised to visually hide the elelment without it becoming
+    // silenced in screen readers
+
+    .quire-noscreen {
+      display: none;
+    }
+
+    .visually-hidden {
+      clip: rect(1px, 1px, 1px, 1px);
+      height: 1px;
+      overflow: hidden;
+      position: absolute;
+      width: 1px;
+    }
+
+    .skip-link {
+      font-size: 1rem * $small-font-scale;
+      font-weight: 400;
+      position: absolute;
+      right: 100%;
+    }
+
+    .skip-link:focus {
+      left: $base-spacing * 4;
+      position: fixed;
+      top: $base-spacing * 0.8;
+      width: 10em;
+      z-index: 1000;
+
+      &.no-js { left: $base-spacing; }
+    }
+
+    .quire-nav-group {
+      background-color: $white;
+      font-family: $heading-font-family;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 9999;
+
+      &.no-js {
+        right: 0;
+        width: 70%;
+      }
+    }
+
+    main {
+      &.no-js {
+        float: right;
+        width: 70%;
+      }
+    }
+
+    &.quire-body-type--cover {
+      .quire-nav-group {
+        background-color: transparent;
+
+        &.no-js { width: 100%; }
+      }
+
+      main {
+        &.no-js { width: 100%; }
+      }
+
+      .quire-menu.no-js { display: none;}
+    }
+
+    &.quire-body-type--search {
+      #js-prev,
+      #js-next {
+        display: none;
+      }
+    }
+  }
+}
+
+// Fix for the anchor scroll + fixed header bug
+//
+// This is the result of a lot of trial and error, as well as code adapted from
+// http://nicolasgallagher.com/jump-links-and-viewport-positioning/ and
+// http://nicolasgallagher.com/jump-links-and-viewport-positioning/demo/#method-C
+//
+// Ultimately different solutions are required for different elements, depending
+// on whether they are block-level or inline.
+//
+// To adjust scroll-height to account for the fixed header when the target is a
+// block-level element (<li>, <figure>, <table>):
+//
+:target[id^="fn:"],
+:target[id^="fig"],
+:target[id^="table"],
+:target[id="essay-text"],
+:target[id="notes"],
+:target[id="notes"],
+:target[id="bibliography"],
+:target[id="citation-information"] {
+  -webkit-background-clip: content-box;
+  background-clip: content-box;
+  margin-top: -60px;
+  padding-top: 60px;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+:target[id="citation-information"] {
+  margin-top: -70px;
+  padding-top: 70px;
+}
+
+// To adjust scroll height to account for the fixed header when the target is an
+// inline-level element (like when returning to the <span> footnote marker in the
+// essay text):
+//
+:target[id^="fnref"]::before {
+  content: "";
+  display: inline-block;
+  height: 70px;
+  margin: -60px 0 0;
+}
+
+// The following is just used for the temporary Figures Documentation page.
+
+h4 { margin-bottom: 0; }
+h4 + pre { margin-top: 0; }
+
+pre {
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+code { color: $primary-color; }

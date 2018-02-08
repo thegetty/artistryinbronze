@@ -1,0 +1,14 @@
+{{/*
+
+  Combines title, subtitle and reading line.
+
+  Supports markdown syntax in all three.
+
+  Looks for punctuation at the end of the title, and if any is present
+  will not add a semicolon between it and the subtitle.
+
+*/}}
+
+{{- $endPunctuation := findRE "[!|?]$" .title -}}
+
+<span class="quire-title">{{ markdownify .title }}</span>{{ with .subtitle }}{{ if $endPunctuation }} {{ else }}: {{ end }}<span class="quire-subtitle">{{ . | markdownify }}</span>{{ end }}{{ with .reading_line }} <span class="quire-readingline">({{ . | markdownify }})</span>{{ end -}}

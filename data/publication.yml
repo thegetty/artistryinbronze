@@ -63,7 +63,7 @@ contributor_as_it_appears: Edited by Jens M. Daehner, Kenneth Lapatin, and Ambra
 
 # PUBLICATION INFO
 
-marketing_graphic: http://www.getty.edu/publications/artistryinbronze/assets/img/cover_graphic.jpg
+cover_graphic: cover_graphic.jpg
 
 description:
   one_line:
@@ -107,7 +107,7 @@ license:
   name_short: CC BY
   url: http://creativecommons.org/licenses/by/4.0/
   icon: cc-by.png
-  scope: text-only # full | text-only | some-exceptions
+  scope: # full | text-only | some-exceptions
   exceptions:
     online:
     pdf_ebook:
@@ -146,21 +146,21 @@ formats:
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.epub
     identifier: 978-1-60606-542-6
-    note: 44.3 MB
+    note: 44.5 MB
     icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.mobi
     identifier: 978-1-60606-542-6
-    note: 102.8 MB
+    note: 101.9 MB
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.pdf
     identifier: 978-1-60606-541-9
-    note: 15.1 MB
+    note: 15.2 MB
     icon:
   - name: Paperback
     media_type: print
@@ -170,15 +170,6 @@ formats:
     file_size_mb:
     note:
     icon: cart-icon
-
-# related_resources:
-#   - name:
-#     media_type:
-#     link_relation:
-#     url:
-#     identifier:
-#     file_size_mb:
-#     icon:
 
 footer_links:
   - name: About
@@ -209,6 +200,12 @@ revision_history:
   - date: 2017-11-17
     summary:
       - First edition
+  - date: 2018-02-08
+    summary:
+      - Minor text corrections
+      - Copyright and licensing update
+      - Higher-quality images in paper 24
+
 repository_url: https://www.github.com/gettypubs/artistryinbronze
 
 google_analytics_id: UA-8087223-1

@@ -9,6 +9,14 @@
   font-size: 0.9rem;
 }
 
+.quire-cover__footer__text p,
+.quire-cover__footer__text .quire-publication-info {
+  margin-bottom: 1em;
+}
+
+.quire-cover__footer .quire-copyright {
+  max-width: 50em;
+}
 
 @media screen and (max-width: 1010px),
 (orientation: landscape) {
@@ -245,6 +253,12 @@ ul.quire-contents .quire-contents__page--abstract-list {
 }
 
 @media print {
+
+  @page footer:right {
+    @bottom-left {
+      content: string(papertitle);
+    }
+  }
 
   [lang=grc] {
     font-weight: 400;
@@ -565,6 +579,14 @@ ul.quire-contents .quire-contents__page--abstract-list {
   }
   #large-scale-bronzes-3-koutsouflakis .quire-page__header__title .quire-subtitle {
     display: block;
+  }
+
+  .quire-contents__page:first-child {
+    display: none;
+  }
+
+  .quire-contents__section ul .quire-contents__page:first-child {
+    display: list-item;
   }
 
 }

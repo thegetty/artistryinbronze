@@ -1,0 +1,168 @@
+{{/*
+
+    Template for the "Cite this Page" feature. Called as a
+    partial, such as:
+
+    partial "citation.html" (dict "citeScope" . "citeType" "chicago" )
+
+    Can accept "chicago" or "mla" as a citeType
+
+    Follows Getty standard of using "et al" for more than three
+    authors in Chicago citations, and more than two authors
+    in MLA citations.
+
+    Currently uses a `publisher_citation_chicago` value in
+    `publication.yml` to properly concatenate multiple publishers
+    in the same location. Though this should certainly be
+    addressable in the template itself down the road.
+
+*/}}
+{{ $citeType := .citeType -}}
+{{ $citeScope := .citeScope -}}
+
+{{ if eq $citeType "chicago" -}}
+
+  {{ if $citeScope.Page.Params.contributor -}}
+    {{ template "page-author-chicago" $citeScope.Page.Params.contributor }}
+  {{ end -}}
+
+  {{ if $citeScope.Page.Params.subtitle }}
+    {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+    {{- $fullTitlePunctuation := findRE "[!|?]$" $citeScope.Page.Params.subtitle -}}
+    “{{ $fullTitle | markdownify }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ else }}
+    {{- $titlePunctuation := findRE "[!|?]$" $citeScope.Page.Title -}}
+    “{{ $citeScope.Page.Title | markdownify }}{{ if $titlePunctuation }}{{ else }}.{{ end }}”
+  {{ end }}
+
+  In <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
+
+  edited by {{ template "book-author-chicago" $citeScope.Site.Data.publication.primary_contributor }}
+
+  {{ $pubLen := len $citeScope.Site.Data.publication.publisher -}}
+  {{ if $citeScope.Site.Data.publication.publisher_citation_chicago -}}
+    {{ $citeScope.Site.Data.publication.publisher_citation_chicago }},
+  {{ else -}}
+    {{ range $index, $element := $citeScope.Site.Data.publication.publisher -}}
+      {{ .location }}: {{ .name }}{{ if eq $index (sub $pubLen 1) }},{{ else }};{{ end }}
+    {{ end -}}
+  {{ end -}}
+
+  {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }}.
+
+  {{ $chicagoURLa := replace $citeScope.Site.Data.publication.url "/" "&#8203;/" -}}
+  {{ $chicagoBaseURL := replace $chicagoURLa "&#8203;/&#8203;/" "&#8203;//" -}}
+  {{ $chicagoBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML -}}.
+
+{{ end -}}
+
+{{ if eq $citeType "mla" -}}
+
+  {{ if $citeScope.Page.Params.contributor -}}
+    {{ template "page-author-mla" $citeScope.Page.Params.contributor }}
+  {{ end -}}
+
+  {{ if $citeScope.Page.Params.subtitle }}
+    {{ $fullTitle := partial "full-title.html" $citeScope.Page.Params -}}
+    {{- $fullTitlePunctuation := findRE "[!|?]$" $citeScope.Page.Params.subtitle -}}
+    “{{ $fullTitle | markdownify }}{{ if $fullTitlePunctuation }}{{ else }}.{{ end }}”
+  {{ else }}
+    {{- $titlePunctuation := findRE "[!|?]$" $citeScope.Page.Title -}}
+    “{{ $citeScope.Page.Title | markdownify }}{{ if $titlePunctuation }}{{ else }}.{{ end }}”
+  {{ end }}
+
+  <em>{{ partial "full-title.html" $citeScope.Site.Data.publication }}</em>,
+
+  edited by {{ template "book-author-mla" $citeScope.Site.Data.publication.primary_contributor }},
+
+  {{ range $citeScope.Site.Data.publication.publisher -}}
+    {{ .name }},
+  {{ end -}}
+
+  {{ $citeScope.Site.Data.publication.pub_date | dateFormat "2006" }},
+
+  {{ $mlaURLa := replace $citeScope.Site.Data.publication.url "http://" "" -}}
+  {{ $mlaURLb := replace $mlaURLa "https://" "" -}}
+  {{ $mlaBaseURL := replace $mlaURLb "/" "&#8203;/" -}}
+  {{ $mlaBaseURL | safeHTML }}{{ replace $citeScope.Page.RelPermalink "/" "&#8203;/" | safeHTML -}}.
+
+  Accessed <span class="cite-current-date" id="js-date">D MMM. YYYY</span>.
+
+{{ end -}}
+
+
+{{ define "page-author-chicago" }}
+  {{ $len := len . -}}
+  {{ range $index, $element := . }}
+    {{- if eq $len 1 -}}
+      {{- $endPunctuation := findRE "[[:punct:]]$" .first_name -}}
+      {{ .last_name }}, {{ .first_name }}
+      {{- if $endPunctuation }}{{ else }}.{{ end -}}
+    {{- else if and (gt $len 1) (eq $index 0) -}}
+      {{ .last_name }}, {{ .first_name }}
+    {{- else if and (eq $len 3) (eq $index 1) -}}
+      , {{ .first_name }} {{ .last_name }}
+    {{- else if or (eq $len 2) (and (eq $len 3) (eq $index 2)) -}}
+      , and {{ .first_name }} {{ .last_name }}.
+    {{- end -}}
+  {{- end -}}
+  {{- if gt $len 3 -}}
+    , et al.
+  {{- end -}}
+{{ end -}}
+
+{{ define "book-author-chicago" }}
+  {{ $len := len . -}}
+  {{ range $index, $element := . }}
+    {{- if eq $len 1 -}}
+      {{- $endPunctuation := findRE "[[:punct:]]$" .first_name -}}
+      {{ .first_name }} {{ .last_name }}.
+    {{- else if and (gt $len 1) (eq $index 0) -}}
+      {{ .first_name }} {{ .last_name }}
+    {{- else if and (eq $len 3) (eq $index 1) -}}
+      , {{ .first_name }} {{ .last_name }}
+    {{- else if and (eq $len 3) (eq $index 2) -}}
+      , and {{ .first_name }} {{ .last_name }}.
+    {{- else if eq $len 2 }}
+      and {{ .first_name }} {{ .last_name }}.
+    {{- end -}}
+  {{- end -}}
+  {{- if gt $len 3 -}}
+    , et al.
+  {{- end -}}
+{{ end }}
+
+{{ define "page-author-mla" }}
+  {{ $len := len . -}}
+  {{ range $index, $element := . }}
+    {{- if eq $len 1 -}}
+      {{- $endPunctuation := findRE "[[:punct:]]$" .first_name -}}
+      {{ .last_name }}, {{ .first_name }}
+      {{- if $endPunctuation }}{{ else }}.{{ end -}}
+    {{- else if and (gt $len 1) (eq $index 0) -}}
+      {{ .last_name }}, {{ .first_name }}
+    {{- else if or (eq $len 2) (and (eq $len 2) (eq $index 1)) -}}
+      , and {{ .first_name }} {{ .last_name }}.
+    {{- end -}}
+  {{- end -}}
+  {{- if gt $len 2 -}}
+    , et al.
+  {{- end -}}
+{{ end }}
+
+{{ define "book-author-mla" }}
+  {{ $len := len . -}}
+  {{ range $index, $element := . }}
+    {{- if eq $len 1 -}}
+      {{- $endPunctuation := findRE "[[:punct:]]$" .first_name -}}
+      {{ .first_name }} {{ .last_name }}
+    {{- else if and (gt $len 1) (eq $index 0) -}}
+      {{ .first_name }} {{ .last_name }}
+    {{- else if or (eq $len 2) (and (eq $len 2) (eq $index 1)) }}
+      and {{ .first_name }} {{ .last_name }}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt $len 2 }}
+     et al.
+  {{- end -}}
+{{ end }}
