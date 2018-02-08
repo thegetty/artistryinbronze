@@ -6,7 +6,7 @@ The way `pe-epub` is currently working, it requires `pe-epub-fs` to also be used
 
 ## STEP 1
 
-Temporarily simplify the `layouts/_default/baseof.html` and `layouts/section-head/single.html` tempates to remove unneeded navigational/interface elements, including the abstract listings in `section-head`.
+Temporarily simplify the `layouts/_default/baseof.html` and `layouts/section-head/single.html` (local override version) templates to remove unneeded navigational/interface elements, including the abstract listings in `section-head`, and the use of `<main>` element, which must be switched to a `<div>`.
 
 ## STEP 2
 
