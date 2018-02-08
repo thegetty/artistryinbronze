@@ -35623,10 +35623,10 @@
 	// When Quire supports different environments ("dev" vs "production"), this will switch to the proper URL automatically
 
 	// Local
-	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? '../' : '';
+	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? '../' : ''
 
 	// Artistry in Bronze
-	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : ''
+	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : '';
 
 	// Keep it Moving
 	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : ''

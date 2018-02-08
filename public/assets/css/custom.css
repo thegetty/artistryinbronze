@@ -9,6 +9,14 @@
   font-size: 0.9rem;
 }
 
+.quire-cover__footer__text p,
+.quire-cover__footer__text .quire-publication-info {
+  margin-bottom: 1em;
+}
+
+.quire-cover__footer .quire-copyright {
+  max-width: 50em;
+}
 
 @media screen and (max-width: 1010px),
 (orientation: landscape) {
