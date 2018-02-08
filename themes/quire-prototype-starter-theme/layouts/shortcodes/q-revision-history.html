@@ -5,7 +5,7 @@
   {{ if eq $index 0 }}
     <p>First edition, {{ dateFormat "2006" .date }}</p>
   {{ end }}
-  {{ if and (gt $len 1) (ne $index (sub $len 1)) }}
+  {{ if and (gt $len 1) (eq $index (sub $len 1)) }}
     <p>Last updated, {{ dateFormat "January 2, 2006" .date }}</p>
   {{ end }}
 {{ end -}}
