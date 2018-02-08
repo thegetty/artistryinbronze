@@ -146,21 +146,21 @@ formats:
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.epub
     identifier: 978-1-60606-542-6
-    note: 44.3 MB
+    note: 44.5 MB
     icon: download-icon
   - name: MOBI/KINDLE
     media_type: application/mobi
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.mobi
     identifier: 978-1-60606-542-6
-    note: 102.8 MB
+    note: 101.9 MB
     icon:
   - name: PDF
     media_type: application/pdf
     link_relation: alternate
     url: http://www.getty.edu/publications/artistryinbronze/downloads/DaehnerLapatinSpinelli_ArtistryinBronze.pdf
     identifier: 978-1-60606-541-9
-    note: 15.1 MB
+    note: 15.2 MB
     icon:
   - name: Paperback
     media_type: print
@@ -170,15 +170,6 @@ formats:
     file_size_mb:
     note:
     icon: cart-icon
-
-# related_resources:
-#   - name:
-#     media_type:
-#     link_relation:
-#     url:
-#     identifier:
-#     file_size_mb:
-#     icon:
 
 footer_links:
   - name: About
