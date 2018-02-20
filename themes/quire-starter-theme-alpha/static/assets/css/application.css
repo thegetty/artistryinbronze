@@ -1621,7 +1621,8 @@ sup {
 :target[id="notes"],
 :target[id="notes"],
 :target[id="bibliography"],
-:target[id="citation-information"] {
+:target[id="citation-information"],
+:target[class="q-contributors__list__item"] {
   -webkit-background-clip: content-box;
   background-clip: content-box;
   margin-top: -60px;
@@ -1633,7 +1634,8 @@ sup {
   :target[id="notes"]:focus,
   :target[id="notes"]:focus,
   :target[id="bibliography"]:focus,
-  :target[id="citation-information"]:focus {
+  :target[id="citation-information"]:focus,
+  :target[class="q-contributors__list__item"]:focus {
     outline: 0; }
 
 :target[id="citation-information"] {

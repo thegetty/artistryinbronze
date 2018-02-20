@@ -292,7 +292,8 @@ sup {
 :target[id="notes"],
 :target[id="notes"],
 :target[id="bibliography"],
-:target[id="citation-information"] {
+:target[id="citation-information"],
+:target[class="q-contributors__list__item"] {
   -webkit-background-clip: content-box;
   background-clip: content-box;
   margin-top: -60px;
