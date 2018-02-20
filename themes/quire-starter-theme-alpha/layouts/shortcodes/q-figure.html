@@ -30,7 +30,7 @@
              <iframe class="q-figure__video" src="https://player.vimeo.com/video/{{ .src }}" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
            {{ end }}
            {{ if .fallback }}
-             <img class="q-figure__video__print-fallback" src="/assets/img/figures/{{ .fallback }}" alt="" />
+             <img class="q-figure__video__print-fallback" src="/assets/img/figures/{{ .fallback }}" alt="{{ with .alt }}{{ . }}{{ end }}" />
            {{ else }}
              <div class="q-figure__video__print-fallback">
                <svg class="q-figure__video__print-fallback__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 24">
@@ -44,7 +44,7 @@
             {{ if eq .media_type "inline-svg" }}
               {{ .src | safeHTML }}
             {{ else }}
-              <img  src="/assets/img/figures/{{ .src }}" alt="" />
+              <img  src="/assets/img/figures/{{ .src }}" alt="{{ with .alt }}{{ . }}{{ end }}" />
             {{ end }}
         {{ end }}
         {{ if $.Get "label" }}
