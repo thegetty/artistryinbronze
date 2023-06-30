@@ -39,3 +39,4 @@ params:
   primaryColor: "#994e1a"
   tocType: "full"
   menuType:  "short"
+  GoogleAnalytics4: GTM-NRDC63K
