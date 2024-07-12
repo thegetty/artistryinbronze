@@ -35626,7 +35626,7 @@
 	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? '../' : ''
 
 	// Artistry in Bronze
-	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/artistryinbronze' : '';
+	var BASEURL = ({"NODE_ENV":"production"})['NODE_ENV'] === 'production' ? 'https://www.getty.edu/publications/artistryinbronze' : '';
 
 	// Keep it Moving
 	// const BASEURL =  process.env['NODE_ENV'] === 'production' ? 'http://www.getty.edu/publications/keepitmoving' : ''
